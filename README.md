@@ -5,8 +5,8 @@ including a full history of past districts.
 
 ## File format
 
-GeoJSON, in the style of Who's On First records (properties sorted
-alphabetically, with the geometry last).
+[GeoJSON](http://geojson.org/), in the style of [Who's On First](https://whosonfirst.org/)
+records (properties sorted alphabetically, with the geometry last).
 
 ## Directory structure
 
@@ -20,6 +20,21 @@ session is saved at this location:
 ```
 data/id/id_66_to_89_01.geojson
 ```
+
+## Building from scratch
+
+You can rebuild the data from the original sources, by using `make`.
+
+## Dependencies
+
+* `make`, `curl`, `unzip`
+* [Python 2.7](https://www.python.org/)
+	- [us](https://pypi.python.org/pypi/us)
+	- [py-mapzen-whosonfirst-sources](http://github.com/whosonfirst/py-mapzen-whosonfirst-sources)
+	- [py-mapzen-whosonfirst-geojson](http://github.com/whosonfirst/py-mapzen-whosonfirst-geojson)
+	- [py-mapzen-whosonfirst-utils](http://github.com/whosonfirst/py-mapzen-whosonfirst-utils)
+* [GDAL](http://gdal.org/)
+* [Mapshaper](https://github.com/mbloch/mapshaper)
 
 ## Sources
 

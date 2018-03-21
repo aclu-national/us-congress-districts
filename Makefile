@@ -2,11 +2,11 @@ all: \
 	download_1-112 \
 	save_1-112 \
 	download_113 \
-	process_113 \
-	cleanup
+	save_113 \
+	cleanup \
+	simplify
 
 download_1-112:
-	mkdir -p congressional-district-boundaries
 	curl -o congressional-district-boundaries.zip -L https://github.com/JeffreyBLewis/congressional-district-boundaries/archive/master.zip
 	unzip congressional-district-boundaries.zip
 
@@ -28,3 +28,6 @@ cleanup:
 	rm tl_rd13_us_cd113.zip
 	rm -rf tl_rd13_us_cd113/
 	rm tl_rd13_us_cd113.geojson
+
+simplify:
+	./simplify.sh
