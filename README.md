@@ -40,4 +40,4 @@ You can rebuild the data from the original sources, by using `make`.
 
 * [Jeffrey B. Lewis, et al.](https://github.com/JeffreyBLewis/congressional-district-boundaries)  
   Jeffrey B. Lewis, Brandon DeVine, Lincoln Pitcher, and Kenneth C. Martis. (2013) Digital Boundary Definitions of U.S. Congressional Districts, 1789-2012.
-* [United States Census TIGER/Line™](https://www.census.gov/geo/maps-data/data/tiger-line.html)
+* [United States Census TIGER/Line®](https://www.census.gov/geo/maps-data/data/tiger-line.html)
