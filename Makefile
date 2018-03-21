@@ -1,23 +1,30 @@
 all: \
-	tl_rd13_us_cd113.zip \
-	tl_rd13_us_cd113 \
-	tl_rd13_us_cd113.geojson \
-	113
+	download_1-112 \
+	save_1-112 \
+	download_113 \
+	process_113 \
+	cleanup
 
-tl_rd13_us_cd113.zip:
-	curl -O https://www2.census.gov/geo/tiger/TIGERrd13_st/nation/tl_rd13_us_cd113.zip
+download_1-112:
+	mkdir -p congressional-district-boundaries
+	curl -o congressional-district-boundaries.zip -L https://github.com/JeffreyBLewis/congressional-district-boundaries/archive/master.zip
+	unzip congressional-district-boundaries.zip
 
-tl_rd13_us_cd113:
+save_1-112:
+	python save_1-112.py
+
+download_113:
 	mkdir -p tl_rd13_us_cd113
+	curl -O https://www2.census.gov/geo/tiger/TIGERrd13_st/nation/tl_rd13_us_cd113.zip
 	unzip -d tl_rd13_us_cd113 tl_rd13_us_cd113.zip
-
-tl_rd13_us_cd113.geojson:
 	ogr2ogr -f GeoJSON -t_srs crs:84 tl_rd13_us_cd113.geojson tl_rd13_us_cd113/tl_rd13_us_cd113.shp
 
-113:
-	python process_113.py
+save_113:
+	python save_113.py
 
 cleanup:
+	rm congressional-district-boundaries.zip
+	rm -rf congressional-district-boundaries-master/
 	rm tl_rd13_us_cd113.zip
 	rm -rf tl_rd13_us_cd113/
 	rm tl_rd13_us_cd113.geojson
