@@ -16,7 +16,8 @@ cur.execute('''CREATE TABLE us_congress (
                state TEXT,
                start_session INTEGER,
                end_session INTEGER,
-               boundary TEXT
+               boundary TEXT,
+               boundary_simple TEXT
              )''')
 
 conn.commit()
@@ -52,16 +53,25 @@ for state in os.listdir("data"):
         geometry["type"] = "MultiPolygon"
         boundary = json.dumps(geometry)
 
+        simplified_path = path.replace('.geojson', '.dp20.geojson')
+        with open(simplified_path) as data_file:
+            data = json.load(data_file)
+
+        geometry = data["geometry"]
+        geometry["type"] = "MultiPolygon"
+        boundary_simplified = json.dumps(geometry)
+
         record = [
             filename.replace('.geojson', ''),
             matches.group(1),
             int(matches.group(2)),
             int(matches.group(3)),
-            boundary
+            boundary,
+            boundary_simplified
         ]
         state_records.append(record)
 
-    cur.executemany('INSERT INTO us_congress VALUES (?, ?, ?, ?, ?)', state_records)
+    cur.executemany('INSERT INTO us_congress VALUES (?, ?, ?, ?, ?, ?)', state_records)
     conn.commit()
 
 conn.close()

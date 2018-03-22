@@ -4,8 +4,7 @@ all: \
 	download_113 \
 	save_113 \
 	cleanup \
-	simplify \
-	index
+	simplify
 
 download_1-112:
 	curl -o congressional-district-boundaries.zip -L https://github.com/JeffreyBLewis/congressional-district-boundaries/archive/master.zip
@@ -33,6 +32,6 @@ cleanup:
 simplify:
 	./simplify.sh
 
-index:
-	python index.py
-	python spatialite.py
+spatialite:
+	python index_spatialite.py
+	python init_spatialite.py
