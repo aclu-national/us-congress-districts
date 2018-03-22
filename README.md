@@ -1,4 +1,4 @@
-# US Congress
+# US Congress District Shapes
 
 An aggregation of data modeling the United States Congress district boundaries,
 including a full history of past districts.
