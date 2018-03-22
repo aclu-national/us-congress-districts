@@ -15,14 +15,14 @@ for row in rs:
 print("Initializing spatial metadata")
 cur.execute("SELECT InitSpatialMetadata()")
 
-print("Adding geometry column: us_congress.boundary_geom")
-cur.execute("SELECT AddGeometryColumn('us_congress', 'boundary_geom', 3857, 'MULTIPOLYGON')")
+print("Adding geometry column: districts.boundary_geom")
+cur.execute("SELECT AddGeometryColumn('districts', 'boundary_geom', 3857, 'MULTIPOLYGON')")
 
-print("Updating us_congress.boundary_geom from us_congress.boundary GeoJSON")
-cur.execute("UPDATE us_congress SET boundary_geom = SetSRID(GeomFromGeoJSON(boundary), 3857)")
+print("Updating districts.boundary_geom from districts.boundary GeoJSON")
+cur.execute("UPDATE districts SET boundary_geom = SetSRID(GeomFromGeoJSON(boundary), 3857)")
 
 print("Creating spatial index")
-cur.execute("SELECT CreateSpatialIndex('us_congress', 'boundary_geom')")
+cur.execute("SELECT CreateSpatialIndex('districts', 'boundary_geom')")
 
 print("Committing queries")
 conn.commit()

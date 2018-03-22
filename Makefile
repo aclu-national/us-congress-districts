@@ -35,3 +35,9 @@ simplify:
 spatialite:
 	python index_spatialite.py
 	python init_spatialite.py
+
+postgis:
+	python index_postgis.py
+
+datasette_inspect:
+	datasette inspect us-congress.db --inspect-file inspect-data.json --load-extension=/usr/local/lib/mod_spatialite.dylib

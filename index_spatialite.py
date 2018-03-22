@@ -11,9 +11,10 @@ if os.path.exists(filename):
 conn = sqlite3.connect(filename)
 cur = conn.cursor()
 
-cur.execute('''CREATE TABLE us_congress (
+cur.execute('''CREATE TABLE districts (
                id TEXT PRIMARY KEY,
                state TEXT,
+               district_num TEXT,
                start_session INTEGER,
                end_session INTEGER,
                boundary TEXT,
@@ -66,12 +67,13 @@ for state in os.listdir("data"):
             matches.group(1),
             int(matches.group(2)),
             int(matches.group(3)),
+            matches.group(4),
             boundary,
             boundary_simplified
         ]
         state_records.append(record)
 
-    cur.executemany('INSERT INTO us_congress VALUES (?, ?, ?, ?, ?, ?)', state_records)
+    cur.executemany('INSERT INTO districts VALUES (?, ?, ?, ?, ?, ?, ?)', state_records)
     conn.commit()
 
 conn.close()

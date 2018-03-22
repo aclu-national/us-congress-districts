@@ -24,17 +24,20 @@ def pip():
 		return "Please include lat and lng args."
 
 	cur = flask.g.conn.cursor()
-	rs = cur.execute("SELECT id FROM us_congress WHERE within(GeomFromText('POINT({lng} {lat})'), boundary_geom) AND rowid IN (SELECT pkid FROM idx_us_congress_boundary_geom WHERE xmin < {lng} AND xmax > {lng} AND ymin < {lat} AND ymax > {lat}) ORDER BY end_session DESC".format(lat=lat, lng=lng))
+	rs = cur.execute("SELECT id, boundary_simple FROM districts WHERE within(GeomFromText('POINT({lng} {lat})'), boundary_geom) AND rowid IN (SELECT pkid FROM idx_districts_boundary_geom WHERE xmin < {lng} AND xmax > {lng} AND ymin < {lat} AND ymax > {lat}) ORDER BY end_session DESC".format(lat=lat, lng=lng))
 
-	ids = []
+	results = []
 	for row in rs:
-		ids.append(row[0])
+		results.append({
+			'id': row[0],
+			'geom': row[1]
+		})
 
 	cur.close()
 
 	rsp = {
 		'ok': 1,
-		'ids': ids
+		'results': results
 	}
 	return flask.jsonify(rsp)
 
