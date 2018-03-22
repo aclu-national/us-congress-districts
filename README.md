@@ -7,12 +7,13 @@ including a full history of past districts.
 
 [GeoJSON](http://geojson.org/), in the style of [Who's On First](https://whosonfirst.org/)
 records (pretty-printed, properties sorted alphabetically, with the geometry
-last). Note that records lack a Who's On First numeric ID, these records have
-not been imported into the Who's On First gazetteer (yet).
+last). Note that records lack a Who's On First numeric ID; these records have
+not been imported into the Who's On First gazetteer (yet), I am just using
+the WOF encoding style.
 
 ## File paths
 
-The directory structure and filename depend on the following:
+The directory structure and filename are constructed using the following:
 
 * 2-char state (e.g., `ca` for California, or `dc` for District of Columbia,
   from Python's [`us` package](https://pypi.python.org/pypi/us))
@@ -46,6 +47,10 @@ data/id/id_66_to_89_01.dp20.geojson
 
 You can rebuild the data from the original sources, by using `make`.
 
+## Spatialite index
+
+You can build a SQLite/Spatialite index with: `make index`.
+
 ## Dependencies
 
 * `make`, `curl`, `unzip`
@@ -56,6 +61,7 @@ You can rebuild the data from the original sources, by using `make`.
 	- [py-mapzen-whosonfirst-utils](http://github.com/whosonfirst/py-mapzen-whosonfirst-utils)
 * [GDAL](http://gdal.org/)
 * [Mapshaper](https://github.com/mbloch/mapshaper)
+* [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index)
 
 ## Sources
 
