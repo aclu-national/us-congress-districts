@@ -9,9 +9,9 @@ cur.execute("DROP TABLE IF EXISTS districts")
 cur.execute('''CREATE TABLE districts (
                id VARCHAR(255) PRIMARY KEY,
                state CHAR(2),
-               district_num VARCHAR(4),
                start_session INTEGER,
                end_session INTEGER,
+               district_num VARCHAR(4),
                boundary TEXT,
                boundary_simple TEXT,
                boundary_geom GEOMETRY
@@ -83,4 +83,20 @@ for state in os.listdir("data"):
 
     conn.commit()
 
+print("Indexing postgis geometry")
+cur.execute('''
+    UPDATE districts
+    SET boundary_geom = ST_SetSRID(ST_GeomFromGeoJSON(boundary), 3857)
+''')
+cur.execute('''
+    CREATE INDEX districts_boundary_gix ON districts USING GIST (boundary_geom)
+''')
+conn.commit()
+
+conn.set_isolation_level(psycopg2.extensions.ISOLATION_LEVEL_AUTOCOMMIT)
+cur.execute('''
+    VACUUM ANALYZE districts
+''')
+
 conn.close()
+print("Done")

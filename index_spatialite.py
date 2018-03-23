@@ -14,9 +14,9 @@ cur = conn.cursor()
 cur.execute('''CREATE TABLE districts (
                id TEXT PRIMARY KEY,
                state TEXT,
-               district_num TEXT,
                start_session INTEGER,
                end_session INTEGER,
+               district_num TEXT,
                boundary TEXT,
                boundary_simple TEXT
              )''')
@@ -31,14 +31,12 @@ for state in os.listdir("data"):
     cur = conn.cursor()
     state_dir = "data/%s" % state
 
-    state_records = []
+    state_districts = []
 
     for filename in os.listdir(state_dir):
 
-        if filename.endswith(".dp20.geojson"):
+        if filename.endswith('.dp20.geojson'):
             continue
-
-        path = "%s/%s" % (state_dir, filename)
 
         matches = re.search('^(\w+)_(\d+)_to_(\d+)_([0-9-]+)\.geojson$', filename)
         if matches == None:
@@ -46,6 +44,7 @@ for state in os.listdir("data"):
             continue
 
         print(filename)
+        path = "%s/%s" % (state_dir, filename)
 
         with open(path) as data_file:
             data = json.load(data_file)
@@ -62,7 +61,7 @@ for state in os.listdir("data"):
         geometry["type"] = "MultiPolygon"
         boundary_simplified = json.dumps(geometry)
 
-        record = [
+        district = [
             filename.replace('.geojson', ''),
             matches.group(1),
             int(matches.group(2)),
@@ -71,9 +70,19 @@ for state in os.listdir("data"):
             boundary,
             boundary_simplified
         ]
-        state_records.append(record)
+        state_districts.append(district)
 
-    cur.executemany('INSERT INTO districts VALUES (?, ?, ?, ?, ?, ?, ?)', state_records)
+    cur.executemany('''
+        INSERT INTO districts (
+            id,
+            state,
+            start_session,
+            end_session,
+            district_num,
+            boundary,
+            boundary_simple
+        )
+        VALUES (?, ?, ?, ?, ?, ?, ?)''', state_districts)
     conn.commit()
 
 conn.close()
