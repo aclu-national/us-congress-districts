@@ -50,7 +50,6 @@ for state in os.listdir("data"):
             data = json.load(data_file)
 
         geometry = data["geometry"]
-        geometry["type"] = "MultiPolygon"
         boundary = json.dumps(geometry)
 
         simplified_path = path.replace('.geojson', '.dp20.geojson')
@@ -58,7 +57,6 @@ for state in os.listdir("data"):
             data = json.load(data_file)
 
         geometry = data["geometry"]
-        geometry["type"] = "MultiPolygon"
         boundary_simplified = json.dumps(geometry)
 
         district = [
@@ -103,7 +101,7 @@ print("Initializing spatial metadata")
 cur.execute("SELECT InitSpatialMetadata()")
 
 print("Adding geometry column: districts.boundary_geom")
-cur.execute("SELECT AddGeometryColumn('districts', 'boundary_geom', 3857, 'MULTIPOLYGON')")
+cur.execute("SELECT AddGeometryColumn('districts', 'boundary_geom', 3857, 'GEOMETRY')")
 
 print("Updating districts.boundary_geom from districts.boundary GeoJSON")
 cur.execute("UPDATE districts SET boundary_geom = SetSRID(GeomFromGeoJSON(boundary), 3857)")

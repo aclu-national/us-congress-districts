@@ -31,7 +31,6 @@ insert_sql = '''
 '''
 
 for state in os.listdir("data"):
-#for state in ["ak"]:
 
     if state.startswith("."):
         continue
@@ -59,7 +58,6 @@ for state in os.listdir("data"):
             data = json.load(data_file)
 
         geometry = data["geometry"]
-        geometry["type"] = "MultiPolygon"
         boundary = json.dumps(geometry)
 
         simplified_path = path.replace('.geojson', '.dp20.geojson')
@@ -67,7 +65,6 @@ for state in os.listdir("data"):
             data = json.load(data_file)
 
         geometry = data["geometry"]
-        geometry["type"] = "MultiPolygon"
         boundary_simplified = json.dumps(geometry)
 
         district = [
