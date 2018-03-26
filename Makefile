@@ -11,7 +11,7 @@ download_1-112:
 	unzip congressional-district-boundaries.zip
 
 save_1-112:
-	python save_1-112.py
+	python scripts/save_1-112.py
 
 download_113:
 	mkdir -p tl_rd13_us_cd113
@@ -20,7 +20,7 @@ download_113:
 	ogr2ogr -f GeoJSON -a_srs "EPSG:4269" -t_srs crs:84 tl_rd13_us_cd113.geojson tl_rd13_us_cd113/tl_rd13_us_cd113.shp
 
 save_113:
-	python save_113.py
+	python scripts/save_113.py
 
 cleanup:
 	rm congressional-district-boundaries.zip
@@ -30,13 +30,13 @@ cleanup:
 	rm tl_rd13_us_cd113.geojson
 
 simplify:
-	./simplify.sh
+	./scripts/simplify.sh
 
 spatialite:
-	python index_spatialite.py
+	python scripts/index_spatialite.py
 
 postgis:
-	python index_postgis.py
+	python scripts/index_postgis.py
 
 datasette_inspect:
 	datasette inspect us-congress.db --inspect-file inspect-data.json --load-extension=/usr/local/lib/mod_spatialite.dylib

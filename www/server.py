@@ -8,21 +8,31 @@ flask_cors.CORS(app)
 
 @app.before_request
 def init():
-	flask.g.spatialite = dbapi2.connect('us-congress.db')
+	flask.g.spatialite = dbapi2.connect('../us-congress.db')
 	flask.g.spatialite.row_factory = dbapi2.Row
 	flask.g.postgis = psycopg2.connect("dbname=us_congress")
+	flask.g.pip_provider = "postgis"
 
 @app.route("/")
-def hello():
-	return "Hi, you probably want to try /spatialite or /postgis instead."
+def map():
+	return flask.render_template('map.html')
 
-@app.route('/map/<path:path>')
-def map(path):
-	return flask.send_from_directory('map', path)
+@app.route('/assets/<path:path>')
+def assets(path):
+	return flask.send_from_directory('assets', path)
 
 @app.route('/data/<path:path>')
 def data(path):
-	return flask.send_from_directory('data', path)
+	return flask.send_from_directory('../data', path)
+
+@app.route("/pip")
+def pip():
+	if flask.g.pip_provider == "spatialite":
+		return spatialite()
+	elif flask.g.pip_provider == "postgis":
+		return postgis()
+	else:
+		return "No PIP provider configured."
 
 @app.route("/spatialite")
 def spatialite():

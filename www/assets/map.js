@@ -2,7 +2,7 @@
 	var map = L.map('map').setView([39.715956, -96.999668], 4);
 	var layer = Tangram.leafletLayer({
 		scene: {
-			import: ['/map/refill/refill-style.yaml'],
+			import: ['/assets/refill/refill-style.yaml'],
 			global: {
 				sdk_api_key: 'vdFEzIDlQwyGrNyZ_MZZuQ'
 			}
