@@ -17,7 +17,7 @@ download_113:
 	mkdir -p tl_rd13_us_cd113
 	curl -O https://www2.census.gov/geo/tiger/TIGERrd13_st/nation/tl_rd13_us_cd113.zip
 	unzip -d tl_rd13_us_cd113 tl_rd13_us_cd113.zip
-	ogr2ogr -f GeoJSON -t_srs crs:84 tl_rd13_us_cd113.geojson tl_rd13_us_cd113/tl_rd13_us_cd113.shp
+	ogr2ogr -f GeoJSON -a_srs "EPSG:4269" -t_srs crs:84 tl_rd13_us_cd113.geojson tl_rd13_us_cd113/tl_rd13_us_cd113.shp
 
 save_113:
 	python save_113.py
@@ -34,7 +34,6 @@ simplify:
 
 spatialite:
 	python index_spatialite.py
-	python init_spatialite.py
 
 postgis:
 	python index_postgis.py
