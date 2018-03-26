@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 
-import flask, json, psycopg2
+import flask, flask_cors, json, psycopg2
 from pyspatialite import dbapi2
 
 app = flask.Flask(__name__)
+flask_cors.CORS(app)
 
 @app.before_request
 def init():
@@ -14,6 +15,14 @@ def init():
 @app.route("/")
 def hello():
 	return "Hi, you probably want to try /spatialite or /postgis instead."
+
+@app.route('/map/<path:path>')
+def map(path):
+	return flask.send_from_directory('map', path)
+
+@app.route('/data/<path:path>')
+def data(path):
+	return flask.send_from_directory('data', path)
 
 @app.route("/spatialite")
 def spatialite():
