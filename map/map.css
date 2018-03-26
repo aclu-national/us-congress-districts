@@ -71,6 +71,7 @@ html {
 	width: 350px;
 	height: 100vh;
 	padding: 15px;
+	overflow-y: auto;
 }
 
 body {
