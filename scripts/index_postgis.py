@@ -2,6 +2,10 @@
 
 import os, sys, psycopg2, re, json
 
+script = os.path.realpath(sys.argv[1])
+scripts_dir = os.path.dirname(script)
+root_dir = os.path.dirname(scripts_dir)
+
 conn = psycopg2.connect("dbname=us_congress")
 cur = conn.cursor()
 
@@ -36,7 +40,7 @@ for state in os.listdir("data"):
         continue
 
     cur = conn.cursor()
-    state_dir = "data/%s" % state
+    state_dir = "%s/data/%s" % (root_dir, state)
 
     state_records = []
 

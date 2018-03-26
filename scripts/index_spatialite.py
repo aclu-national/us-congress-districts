@@ -2,7 +2,11 @@
 
 import os, sys, sqlite3, re, json
 
-filename = 'us-congress.db'
+script = os.path.realpath(sys.argv[1])
+scripts_dir = os.path.dirname(script)
+root_dir = os.path.dirname(scripts_dir)
+
+filename = '%s/us-congress.db' % root_dir
 
 if os.path.exists(filename):
     print("%s exists, bailing out." % filename)
@@ -89,7 +93,7 @@ conn.close()
 
 from pyspatialite import dbapi2 as db
 
-conn = db.connect('us-congress.db')
+conn = db.connect(filename)
 cur = conn.cursor()
 
 rs = cur.execute('SELECT sqlite_version(), spatialite_version()')

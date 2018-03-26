@@ -1,12 +1,16 @@
 #!/bin/env python
 
-import json, os, re
+import json, os, sys, re
 import us
 import mapzen.whosonfirst.geojson
 import mapzen.whosonfirst.utils
 
+script = os.path.realpath(sys.argv[1])
+scripts_dir = os.path.dirname(script)
+root_dir = os.path.dirname(scripts_dir)
+
 encoder = mapzen.whosonfirst.geojson.encoder(precision=None)
-dirname = "congressional-district-boundaries-master"
+dirname = "%s/congressional-district-boundaries-master" % root_dir
 
 for filename in os.listdir(dirname):
 
