@@ -8,9 +8,30 @@ flask_cors.CORS(app)
 
 @app.before_request
 def init():
+	db_url = os.getenv('DATABASE_URL')
+
+	if not db_url:
+	    print("No DATABASE_URL environment variable set.")
+	    sys.exit(1)
+
+	matches = re.search('^postgres://([^:]+):([^@]+)@([^:]+):(\d+)/(.+)$', db_url)
+	if not matches:
+	    print("Could not parse DATABASE_URL.")
+	    sys.exit(1)
+
+	db_vars = (
+	    matches.group(5), # dbname
+	    matches.group(3), # host
+	    matches.group(4), # port
+	    matches.group(1), # user
+	    matches.group(2)  # password
+	)
+	db_dsn = "dbname=%s host=%s port=%s user=%s password=%s" % db_vars
+
+	conn = psycopg2.connect(db_dsn)
 	flask.g.spatialite = dbapi2.connect('../us-congress.db')
 	flask.g.spatialite.row_factory = dbapi2.Row
-	flask.g.postgis = psycopg2.connect("dbname=us_congress")
+	flask.g.postgis = psycopg2.connect(db_dsn)
 	flask.g.pip_provider = "postgis"
 
 @app.route("/")

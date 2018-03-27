@@ -2,7 +2,7 @@
 
 import os, sys, sqlite3, re, json
 
-script = os.path.realpath(sys.argv[1])
+script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
 root_dir = os.path.dirname(scripts_dir)
 

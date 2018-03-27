@@ -5,7 +5,7 @@ import us
 import mapzen.whosonfirst.geojson
 import mapzen.whosonfirst.utils
 
-script = os.path.realpath(sys.argv[1])
+script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
 root_dir = os.path.dirname(scripts_dir)
 

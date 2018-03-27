@@ -2,11 +2,31 @@
 
 import os, sys, psycopg2, re, json
 
-script = os.path.realpath(sys.argv[1])
+script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
 root_dir = os.path.dirname(scripts_dir)
 
-conn = psycopg2.connect("dbname=us_congress")
+db_url = os.getenv('DATABASE_URL')
+
+if not db_url:
+    print("No DATABASE_URL environment variable set.")
+    sys.exit(1)
+
+matches = re.search('^postgres://([^:]+):([^@]+)@([^:]+):(\d+)/(.+)$', db_url)
+if not matches:
+    print("Could not parse DATABASE_URL.")
+    sys.exit(1)
+
+db_vars = (
+    matches.group(5), # dbname
+    matches.group(3), # host
+    matches.group(4), # port
+    matches.group(1), # user
+    matches.group(2)  # password
+)
+db_dsn = "dbname=%s host=%s port=%s user=%s password=%s" % db_vars
+
+conn = psycopg2.connect(db_dsn)
 cur = conn.cursor()
 
 cur.execute("DROP TABLE IF EXISTS districts")
