@@ -24,32 +24,57 @@ The directory structure and filename are constructed using the following:
   [Lewis, et al.](https://github.com/JeffreyBLewis/congressional-district-boundaries#documentation))
 
 ```
-data/[state]/[state]_[start session]_to_[end session]_[district].geojson
+data/[state]/[state]_[start session]_to_[end session]_[district].[display|lookup].geojson
 ```
 
 For example, the 1st congressional district for Idaho, from the 66th to 89th
-session is saved at this location:
+session is saved at these locations:
 
 ```
-data/id/id_66_to_89_01.geojson
+data/id/id_66_to_89_1.lookup.geojson
+data/id/id_66_to_89_1.display.geojson
 ```
 
-## Simplified geometries
+The two versions correspond to:
 
-There are also simplified versions of the geometries. For geometries run through
-Mapshaper with Douglas-Peucker 20% simplification, add `.dp20` to the filename:
+* `.lookup.geojson` includes the original geometry
+* `.display.geojson` includes a simplified geometry
 
-```
-data/id/id_66_to_89_01.dp20.geojson
-```
+The simplified geometries are optimized for end-user display, and take up
+less space. We use Mapshaper with Douglas-Peucker 20% simplification.
 
 ## Building from scratch
 
-You can rebuild the data from the original sources, by using `make`.
+You can rebuild the data from the original sources, by using `make data`.
 
 ## Spatialite index
 
-You can build a SQLite/Spatialite index with: `make index`.
+You can build a SQLite/Spatialite index with: `make spatialite`.
+
+## PostGIS index
+
+You can build a PostgreSQL/PostGIS index with: `make postgis`.
+
+## Database URL
+
+The database configuration is controlled by the `DATABASE_URL` environment
+variable.
+
+```
+export DATABASE_URL="sqlite://us-congress.db"
+```
+
+For PostGIS:
+
+```
+export DATABASE_URL="postgres://user:pass@hostname/dbname"
+```
+
+Or a simpler version, for local PostGIS development:
+
+```
+export DATABASE_URL="postgres://dbname"
+```
 
 ## Dependencies
 
