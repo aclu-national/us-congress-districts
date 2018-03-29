@@ -1,4 +1,4 @@
-all: \
+data: \
 	download_1-112 \
 	save_1-112 \
 	download_113 \

@@ -2,6 +2,8 @@
 
 import os, sys, psycopg2, re, json
 
+min_session_num = 66
+
 script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
 root_dir = os.path.dirname(scripts_dir)
@@ -42,7 +44,7 @@ cur.execute('''
 		state CHAR(2),
 		start_session INTEGER,
 		end_session INTEGER,
-		district_num VARCHAR(4),
+		district_num INTEGER,
 		boundary TEXT,
 		boundary_simple TEXT,
 		boundary_geom GEOMETRY
@@ -83,6 +85,14 @@ for state in os.listdir("data"):
 			print("skipping %s" % filename)
 			continue
 
+		state = matches.group(1)
+		start_session = int(matches.group(2))
+		end_session = int(matches.group(2))
+		district_num = int(matches.group(4))
+
+		if min_session_num and end_session < min_session_num:
+			continue
+
 		print(filename)
 
 		with open(path) as data_file:
@@ -100,10 +110,10 @@ for state in os.listdir("data"):
 
 		district = [
 			filename.replace('.geojson', ''),
-			matches.group(1),
-			int(matches.group(2)),
-			int(matches.group(3)),
-			matches.group(4),
+			state,
+			start_session,
+			end_session,
+			district_num,
 			boundary,
 			boundary_simplified
 		]
