@@ -171,6 +171,4 @@
 	}
 
 	map.on('moveend', pip);
-	spatialite.addEventListener('change', pip, false);
-	postgis.addEventListener('change', pip, false);
 })();
