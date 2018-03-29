@@ -105,10 +105,10 @@ print("Initializing spatial metadata")
 cur.execute("SELECT InitSpatialMetadata()")
 
 print("Adding geometry column: districts.boundary_geom")
-cur.execute("SELECT AddGeometryColumn('districts', 'boundary_geom', 3857, 'GEOMETRY')")
+cur.execute("SELECT AddGeometryColumn('districts', 'boundary_geom', 4326, 'GEOMETRY', 'XY')")
 
 print("Updating districts.boundary_geom from districts.boundary GeoJSON")
-cur.execute("UPDATE districts SET boundary_geom = SetSRID(GeomFromGeoJSON(boundary), 3857)")
+cur.execute("UPDATE districts SET boundary_geom = SetSRID(GeomFromGeoJSON(boundary), 4326)")
 
 print("Creating spatial index")
 cur.execute("SELECT CreateSpatialIndex('districts', 'boundary_geom')")
