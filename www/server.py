@@ -17,6 +17,7 @@ def init():
 		sys.exit(1)
 
 	postgres = re.search('^postgres://([^:]+):([^@]+)@([^:]+):(\d+)/(.+)$', db_url)
+	postgres_dbname = re.search('^postgres://(\w+)$')
 	sqlite = re.search('^sqlite://(.+)$', db_url)
 
 	if postgres:
@@ -28,6 +29,11 @@ def init():
 		    postgres.group(2)  # password
 		)
 		db_dsn = "dbname=%s host=%s port=%s user=%s password=%s" % db_vars
+		flask.g.db_type = "postgres"
+		flask.g.db = psycopg2.connect(db_dsn)
+
+	elif postgres_dbname:
+		db_dsn = "dbname=%s" % postgres_dbname.group(1)
 		flask.g.db_type = "postgres"
 		flask.g.db = psycopg2.connect(db_dsn)
 
