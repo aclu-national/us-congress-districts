@@ -37,12 +37,8 @@ for filename in os.listdir(dirname):
 
 		props = feature["properties"]
 		district = int(props["district"])
-		if district < 10 and district != -1:
-			district = "0%d" % district
-		else:
-			district = "%d" % district
 
-		path = "data/%s/%s_%d_to_%d_%s.geojson" % (state, state, start, end, district)
+		path = "data/%s/%s_%d_to_%d_%s.lookup.geojson" % (state, state, start, end, district)
 		print "Saving %s" % path
 
 		feature["id"] = "%s_%d_to_%d_%s" % (state, start, end, district)

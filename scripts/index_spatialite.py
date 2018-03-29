@@ -39,10 +39,10 @@ for state in os.listdir("data"):
 
     for filename in os.listdir(state_dir):
 
-        if filename.endswith('.dp20.geojson'):
+        if filename.endswith('.display.geojson'):
             continue
 
-        matches = re.search('^(\w+)_(\d+)_to_(\d+)_([0-9-]+)\.geojson$', filename)
+        matches = re.search('^(\w+)_(\d+)_to_(\d+)_([0-9-]+)\.lookup\.geojson$', filename)
         if matches == None:
             print("skipping %s" % filename)
             continue
@@ -56,7 +56,7 @@ for state in os.listdir("data"):
         geometry = data["geometry"]
         boundary = json.dumps(geometry)
 
-        simplified_path = path.replace('.geojson', '.dp20.geojson')
+        simplified_path = path.replace('.lookup.geojson', '.display.geojson')
         with open(simplified_path) as data_file:
             data = json.load(data_file)
 
@@ -64,7 +64,7 @@ for state in os.listdir("data"):
         boundary_simplified = json.dumps(geometry)
 
         district = [
-            filename.replace('.geojson', ''),
+            filename.replace('.lookup.geojson', ''),
             matches.group(1),
             int(matches.group(2)),
             int(matches.group(3)),

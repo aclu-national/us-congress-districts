@@ -75,12 +75,12 @@ for state in os.listdir("data"):
 
 	for filename in os.listdir(state_dir):
 
-		if filename.endswith(".dp20.geojson"):
+		if filename.endswith(".display.geojson"):
 			continue
 
 		path = "%s/%s" % (state_dir, filename)
 
-		matches = re.search('^(\w+)_(\d+)_to_(\d+)_([0-9-]+)\.geojson$', filename)
+		matches = re.search('^(\w+)_(\d+)_to_(\d+)_([0-9-]+)\.lookup\.geojson$', filename)
 		if matches == None:
 			print("skipping %s" % filename)
 			continue

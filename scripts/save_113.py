@@ -23,9 +23,9 @@ for feature in data["features"]:
 	state_fips = props["STATEFP"]
 	state = us.states.lookup(state_fips).abbr
 	state = str(state).lower()
-	district = props["CD113FP"]
+	district = int(props["CD113FP"])
 
-	path = "%s/data/%s/%s_113_to_115_%s.geojson" % (root_dir, state, state, district)
+	path = "%s/data/%s/%s_113_to_115_%s.lookup.geojson" % (root_dir, state, state, district)
 	print "Saving %s" % path
 
 	feature["id"] = "%s_113_to_115_%s" % (state, district)
