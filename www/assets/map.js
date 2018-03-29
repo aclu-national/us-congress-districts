@@ -20,8 +20,6 @@
 	}).addTo(map);
 
 	var loading = false;
-	var spatialite = document.getElementById('pip-spatialite');
-	var postgis = document.getElementById('pip-postgis');
 	var status = document.getElementById('status');
 	var results = document.getElementById('results');
 	var loading_start;
@@ -139,8 +137,7 @@
 		var center = map.getCenter();
 		var lat = center.lat;
 		var lng = center.lng;
-		var endpoint = (spatialite.checked) ? 'spatialite' : 'postgis';
-		var url = '/' + endpoint + '?lat=' + lat + '&lng=' + lng;
+		var url = '/pip?lat=' + lat + '&lng=' + lng;
 
 		var xhr = new XMLHttpRequest();
 		xhr.onreadystatechange = function() {

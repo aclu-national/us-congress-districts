@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import flask, flask_cors, json, psycopg2
+import flask, flask_cors, json, os, psycopg2, re, sys
 from pyspatialite import dbapi2
 
 app = flask.Flask(__name__)
@@ -8,31 +8,34 @@ flask_cors.CORS(app)
 
 @app.before_request
 def init():
+
+	print("init")
 	db_url = os.getenv('DATABASE_URL')
 
 	if not db_url:
-	    print("No DATABASE_URL environment variable set.")
-	    sys.exit(1)
+		print("No DATABASE_URL environment variable set.")
+		sys.exit(1)
 
-	matches = re.search('^postgres://([^:]+):([^@]+)@([^:]+):(\d+)/(.+)$', db_url)
-	if not matches:
-	    print("Could not parse DATABASE_URL.")
-	    sys.exit(1)
+	postgres = re.search('^postgres://([^:]+):([^@]+)@([^:]+):(\d+)/(.+)$', db_url)
+	sqlite = re.search('^sqlite://(.+)$', db_url)
 
-	db_vars = (
-	    matches.group(5), # dbname
-	    matches.group(3), # host
-	    matches.group(4), # port
-	    matches.group(1), # user
-	    matches.group(2)  # password
-	)
-	db_dsn = "dbname=%s host=%s port=%s user=%s password=%s" % db_vars
+	if postgres:
+		db_vars = (
+		    postgres.group(5), # dbname
+		    postgres.group(3), # host
+		    postgres.group(4), # port
+		    postgres.group(1), # user
+		    postgres.group(2)  # password
+		)
+		db_dsn = "dbname=%s host=%s port=%s user=%s password=%s" % db_vars
+		flask.g.db_type = "postgres"
+		flask.g.db = psycopg2.connect(db_dsn)
 
-	conn = psycopg2.connect(db_dsn)
-	flask.g.spatialite = dbapi2.connect('../us-congress.db')
-	flask.g.spatialite.row_factory = dbapi2.Row
-	flask.g.postgis = psycopg2.connect(db_dsn)
-	flask.g.pip_provider = "postgis"
+	elif sqlite:
+		db_dsn = sqlite.group(1)
+		flask.g.db_type = "sqlite"
+		flask.g.db = dbapi2.connect(db_dsn)
+		flask.g.db.row_factory = dbapi2.Row
 
 @app.route("/")
 def map():
@@ -48,15 +51,6 @@ def data(path):
 
 @app.route("/pip")
 def pip():
-	if flask.g.pip_provider == "spatialite":
-		return spatialite()
-	elif flask.g.pip_provider == "postgis":
-		return postgis()
-	else:
-		return "No PIP provider configured."
-
-@app.route("/spatialite")
-def spatialite():
 
 	lat = flask.request.args.get('lat', None)
 	lng = flask.request.args.get('lng', None)
@@ -64,7 +58,16 @@ def spatialite():
 	if lat == None or lng == None:
 		return "Please include lat and lng args."
 
-	cur = flask.g.spatialite.cursor()
+	if flask.g.db_type == "sqlite":
+		return pip_sqlite(lat, lng)
+	if flask.g.db_type == "postgis":
+		return pip_postgres(lat, lng)
+	else:
+		return "No database configured."
+
+def pip_sqlite(lat, lng):
+
+	cur = flask.g.db.cursor()
 	rs = cur.execute('''
 		SELECT id, start_session, end_session, district_num, boundary_simple
 		FROM districts
@@ -98,14 +101,7 @@ def spatialite():
 	}
 	return flask.jsonify(rsp)
 
-@app.route("/postgis")
-def postgis():
-
-	lat = flask.request.args.get('lat', None)
-	lng = flask.request.args.get('lng', None)
-
-	if lat == None or lng == None:
-		return "Please include lat and lng args."
+def pip_postgres(lat, lng):
 
 	cur = flask.g.postgis.cursor()
 	cur.execute('''
