@@ -101,7 +101,7 @@ for state in os.listdir("data"):
 		geometry = data["geometry"]
 		boundary = json.dumps(geometry)
 
-		simplified_path = path.replace('.geojson', '.dp20.geojson')
+		simplified_path = path.replace('.lookup.geojson', '.display.geojson')
 		with open(simplified_path) as data_file:
 			data = json.load(data_file)
 
@@ -109,7 +109,7 @@ for state in os.listdir("data"):
 		boundary_simplified = json.dumps(geometry)
 
 		district = [
-			filename.replace('.geojson', ''),
+			filename.replace('.lookup.geojson', ''),
 			state,
 			start_session,
 			end_session,

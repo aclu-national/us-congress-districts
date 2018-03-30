@@ -5,11 +5,14 @@ SCRIPTS=`dirname $WHOAMI`
 ROOT=`dirname $SCRIPTS`
 
 for file in $ROOT/data/*/*.geojson ; do \
-	new_file=`echo $file | sed -e "s/0\([0-9]\)\.geojson/\1.lookup.geojson/"` ; \
+	new_file=`echo $file | sed -e "s/0\([0-9]\)\.geojson/\1.geojson/"` ; \
 	new_file=`echo $new_file | sed -e "s/0\([0-9]\)\.dp20\.geojson/\1.dp20.geojson/"` ; \
 	new_file=`echo $new_file | sed -e "s/\.dp20\.geojson/.display.geojson/"` ; \
+	new_file=`echo $new_file | sed -e "s/\([0-9]*\)\.geojson/\1.display.geojson/"` ; \
 	if [[ $new_file != $file ]] ; then \
-		#echo "$file => $new_file" ; \
-		git mv $file $new_file ; \
+		echo "$file => $new_file" ; \
+		#git mv $file $new_file ; \
+	else \
+		echo "$file looks ok" ; \
 	fi \
 done
