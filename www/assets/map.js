@@ -25,36 +25,24 @@
 	var loading_start;
 	var district = null;
 	var district_layer = null;
+	var district_results = null;
 
-	function load_geojson(id) {
-
-		if (! window.XMLHttpRequest) {
-			status.innerHTML = 'No XMLHttpRequest object.';
+	function show_geojson(id) {
+		try {
+			var geom = JSON.parse(district_results[id]);
+			var feature = {
+				type: "Feature",
+				properties: {},
+				geometry: geom
+			};
+		} catch(e) {
+			console.error('Could not show GeoJSON for ' + id);
 			return;
 		}
-
-		var xhr = new XMLHttpRequest();
-		xhr.onreadystatechange = function() {
-			var DONE = this.DONE || 4;
-			if (this.readyState === DONE){
-				var geojson = this.responseText;
-				var feature = JSON.parse(geojson);
-				if (district_layer) {
-					district_layer.remove();
-				}
-				district_layer = L.geoJSON(feature).addTo(map);
-			}
-		};
-
-		var matches = id.match(/^(\w{2})_/);
-		if (! matches) {
-			status.innerHTML = 'Could not load ' + id + ' GeoJSON.';
-			return;
+		if (district_layer) {
+			district_layer.remove();
 		}
-		var state = matches[1];
-		var url = '/data/' + state + '/' + id + '.dp20.geojson';
-		xhr.open("GET", url, false);
-		xhr.send(null);
+		district_layer = L.geoJSON(feature).addTo(map);
 	}
 
 	function show_district(id) {
@@ -67,7 +55,7 @@
 		if (item) {
 			item.className = 'selected';
 		}
-		load_geojson(id);
+		show_geojson(id);
 	}
 
 	results.addEventListener('click', function(e) {
@@ -147,6 +135,13 @@
 				var json = xhr.responseText;
 				try {
 					var rsp = JSON.parse(json);
+					district_results = {};
+					var id, geom;
+					for (var i = 0; i < rsp.results.length; i++) {
+						id = rsp.results[i].id;
+						geom = rsp.results[i].boundary_simple;
+						district_results[id] = geom;
+					}
 				} catch(e) {
 					status.innerHTML = 'Error loading PIP results.';
 					return;
