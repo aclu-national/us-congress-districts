@@ -8,8 +8,13 @@ flask_cors.CORS(app)
 
 @app.before_request
 def init():
+	#print("init")
+	db_connect()
 
-	print("init")
+def db_connect():
+
+	#print("db_connect")
+
 	db_url = os.getenv('DATABASE_URL')
 
 	if not db_url:
@@ -113,7 +118,7 @@ def pip_postgres(lat, lng):
 	cur.execute('''
 		SELECT id, start_session, end_session, district_num, boundary_simple
 		FROM districts
-		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 3857), boundary_geom)
+		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 		ORDER BY end_session DESC
 	'''.format(lat=lat, lng=lng))
 

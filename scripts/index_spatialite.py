@@ -1,18 +1,41 @@
 #!/bin/env python
 
-import os, sys, sqlite3, re, json
+import os, sys, sqlite3, re, json, optparse
 
 script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
 root_dir = os.path.dirname(scripts_dir)
 
-filename = '%s/us-congress.db' % root_dir
+opt_parser = optparse.OptionParser()
+opt_parser.add_option('-g', '--geom_column', dest='geom_column', action='store', default='boundary', help='Column to index for boundary_geom (values: boundary or boundary_simple).')
+opt_parser.add_option('-m', '--min_session', dest='min_session', action='store', type='int', default=0, help='Minimum congressional session to index (values: 0-115).')
+options, args = opt_parser.parse_args()
 
-if os.path.exists(filename):
-	print("%s exists, bailing out." % filename)
+db_url = os.getenv('DATABASE_URL')
+
+if db_url:
+	print("Indexing to %s"  % db_url)
+	print("with options:")
+	print("  geom_column = %s" % options.geom_column)
+	print("  min_session = %d" % options.min_session)
+else:
+	print("No DATABASE_URL environment variable set.\nexport DATABASE_URL='sqlite://us-congress.db'")
 	sys.exit(1)
 
-conn = sqlite3.connect(filename)
+sqlite = re.search('^sqlite://(.+)$', db_url)
+
+if sqlite:
+	db_filename = '%s/%s' % (root_dir, sqlite.group(1))
+
+else:
+	print("Could not parse DATABASE_URL.")
+	sys.exit(1)
+
+if os.path.exists(db_filename):
+	print("%s exists, bailing out." % db_filename)
+	sys.exit(1)
+
+conn = sqlite3.connect(db_filename)
 cur = conn.cursor()
 
 cur.execute('''
@@ -48,7 +71,16 @@ for state in os.listdir("data"):
 			print("skipping %s" % filename)
 			continue
 
+		state = matches.group(1)
+		start_session = int(matches.group(2))
+		end_session = int(matches.group(3))
+		district_num = int(matches.group(4))
+
+		if end_session < options.min_session:
+			continue
+
 		print(filename)
+
 		path = "%s/%s" % (state_dir, filename)
 
 		with open(path) as data_file:
@@ -66,10 +98,10 @@ for state in os.listdir("data"):
 
 		district = [
 			filename.replace('.lookup.geojson', ''),
-			matches.group(1),
-			int(matches.group(2)),
-			int(matches.group(3)),
-			matches.group(4),
+			state,
+			start_session,
+			end_session,
+			district_num,
 			boundary,
 			boundary_simplified
 		]
@@ -94,7 +126,7 @@ conn.close()
 
 from pyspatialite import dbapi2 as db
 
-conn = db.connect(filename)
+conn = db.connect(db_filename)
 cur = conn.cursor()
 
 rs = cur.execute('SELECT sqlite_version(), spatialite_version()')

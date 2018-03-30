@@ -1,17 +1,24 @@
 #!/bin/env python
 
-import os, sys, psycopg2, re, json
-
-min_session_num = 66
+import os, sys, psycopg2, re, json, optparse
 
 script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
 root_dir = os.path.dirname(scripts_dir)
 
-db_url = os.getenv('DATABASE_URL')
+opt_parser = optparse.OptionParser()
+opt_parser.add_option('-g', '--geom_column', dest='geom_column', action='store', default='boundary', help='Column to index for boundary_geom (values: boundary or boundary_simple).')
+opt_parser.add_option('-m', '--min_session', dest='min_session', action='store', type='int', default=0, help='Minimum congressional session to index (values: 0-115).')
+options, args = opt_parser.parse_args()
 
-if not db_url:
-	print("No DATABASE_URL environment variable set.")
+db_url = os.getenv('DATABASE_URL')
+if db_url:
+	print("Indexing to %s"  % db_url)
+	print("with options:")
+	print("  geom_column = %s" % options.geom_column)
+	print("  min_session = %d" % options.min_session)
+else:
+	print("No DATABASE_URL environment variable set.\nexport DATABASE_URL='postgres://user:pass@host/dbname'")
 	sys.exit(1)
 
 postgres = re.search('^postgres://([^:]+):([^@]+)@([^:]+):(\d+)/(.+)$', db_url)
@@ -90,7 +97,7 @@ for state in os.listdir("data"):
 		end_session = int(matches.group(2))
 		district_num = int(matches.group(4))
 
-		if min_session_num and end_session < min_session_num:
+		if end_session < options.min_session:
 			continue
 
 		print(filename)
@@ -124,8 +131,8 @@ for state in os.listdir("data"):
 print("Indexing postgis geometry")
 cur.execute('''
 	UPDATE districts
-	SET boundary_geom = ST_SetSRID(ST_GeomFromGeoJSON(boundary), 3857)
-''')
+	SET boundary_geom = ST_SetSRID(ST_GeomFromGeoJSON(%s), 4326)
+''' % options.geom_column)
 cur.execute('''
 	CREATE INDEX districts_boundary_gix ON districts USING GIST (boundary_geom)
 ''')
