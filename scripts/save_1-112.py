@@ -4,6 +4,7 @@ import json, os, sys, re
 import us
 import mapzen.whosonfirst.geojson
 import mapzen.whosonfirst.utils
+import postgres_db
 
 script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
@@ -11,6 +12,20 @@ root_dir = os.path.dirname(scripts_dir)
 
 encoder = mapzen.whosonfirst.geojson.encoder(precision=None)
 dirname = "%s/congressional-district-boundaries-master" % root_dir
+
+conn = postgres_db.connect()
+cur = conn.cursor()
+
+cur.execute("SELECT id, start_date, end_date FROM sessions")
+rs = cur.fetchall()
+sessions = {}
+if rs:
+	for row in rs:
+		id = row[0]
+		sessions[id] = {
+			"start_date": str(row[1]),
+			"end_date": str(row[2])
+		}
 
 for filename in os.listdir(dirname):
 
@@ -42,6 +57,14 @@ for filename in os.listdir(dirname):
 		print "Saving %s" % path
 
 		feature["id"] = "%s_%d_to_%d_%s" % (state, start, end, district)
+		feature["properties"] = {
+			"state": state,
+			"start_session": start,
+			"start_date": sessions[start]["start_date"],
+			"end_session": end,
+			"end_date": sessions[end]["end_date"],
+			"district": district
+		}
 		mapzen.whosonfirst.utils.ensure_bbox(feature)
 
 		statedir = os.path.dirname(path)
