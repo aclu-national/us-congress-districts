@@ -166,4 +166,5 @@
 	}
 
 	map.on('moveend', pip);
+	pip();
 })();
