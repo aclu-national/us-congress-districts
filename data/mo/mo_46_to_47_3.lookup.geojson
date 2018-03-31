@@ -1,33 +1,13 @@
 {
-  "id": "mo_46_to_47_03",
+  "id": "mo_46_to_47_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"47",
-    "id":"029046047003",
-    "member":{
-        "46":{
-            "3380":{
-                "district":"3",
-                "name":"Frost, Richard Graham",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "3380":{
-                "district":"3",
-                "name":"Frost, Richard Graham",
-                "party":"Democrat"
-            },
-            "8367":{
-                "district":"3",
-                "name":"Sessinghaus, Gustavus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Missouri"
+    "district":3,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"mo"
 },
   "bbox": [
     -90.48417,

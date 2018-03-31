@@ -1,42 +1,13 @@
 {
-  "id": "ny_94_to_97_06",
+  "id": "ny_94_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"036094097006",
-    "member":{
-        "94":{
-            "10784":{
-                "district":"6",
-                "name":"Wolff, Lester L.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10784":{
-                "district":"6",
-                "name":"Wolff, Lester L.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10784":{
-                "district":"6",
-                "name":"Wolff, Lester L.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14838":{
-                "district":"6",
-                "name":"Leboutillier, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -73.82279,

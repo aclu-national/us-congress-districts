@@ -1,19 +1,13 @@
 {
-  "id": "ar_113_to_115_04",
+  "id": "ar_113_to_115_4",
   "type": "Feature",
   "properties": {
-    "ALAND":57855541212,
-    "AWATER":1049014187,
-    "CD113FP":"04",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0504",
-    "INTPTLAT":"+34.2195747",
-    "INTPTLON":"-093.2043572",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 4",
-    "STATEFP":"05"
+    "district":4,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ar"
 },
   "bbox": [
     -94.485878,

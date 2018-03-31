@@ -2,25 +2,12 @@
   "id": "pa_78_to_78_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"78",
-    "id":"042078078017",
-    "member":{
-        "78":{
-            "2612":{
-                "district":"17",
-                "name":"Ditter, John William",
-                "party":"Republican"
-            },
-            "6169":{
-                "district":"17",
-                "name":"McConnell, Samuel Kerns, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"pa"
 },
   "bbox": [
     -75.69679,

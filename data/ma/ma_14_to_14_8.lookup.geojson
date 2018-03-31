@@ -1,21 +1,13 @@
 {
-  "id": "ma_14_to_14_08",
+  "id": "ma_14_to_14_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"14",
-    "id":"025014014008",
-    "member":{
-        "14":{
-            "531":{
-                "district":"8",
-                "name":"Baylies, William",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"14",
-    "statename":"Massachusetts"
+    "district":8,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1815-12-04",
+    "start_session":14,
+    "state":"ma"
 },
   "bbox": [
     -71.08019,

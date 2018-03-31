@@ -2,48 +2,12 @@
   "id": "nj_93_to_97_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"97",
-    "id":"034093097015",
-    "member":{
-        "93":{
-            "10613":{
-                "district":"15",
-                "name":"Patten, Edward J.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10613":{
-                "district":"15",
-                "name":"Patten, Edward J.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10613":{
-                "district":"15",
-                "name":"Patten, Edward J.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10613":{
-                "district":"15",
-                "name":"Patten, Edward J.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14815":{
-                "district":"15",
-                "name":"Dwyer, Bernard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New Jersey"
+    "district":15,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nj"
 },
   "bbox": [
     -74.6301,

@@ -1,49 +1,13 @@
 {
-  "id": "mi_108_to_112_08",
+  "id": "mi_108_to_112_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"112",
-    "id":"026108112008",
-    "member":{
-        "108":{
-            "20120":{
-                "district":"8",
-                "name":"Rogers, Mike",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20120":{
-                "district":"8",
-                "name":"Rogers, Mike",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20120":{
-                "district":"8",
-                "name":"Rogers, Mike",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20120":{
-                "district":"8",
-                "name":"Rogers, Mike",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20120":{
-                "district":"8",
-                "name":"Rogers, Mike",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Michigan"
+    "district":8,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mi"
 },
   "bbox": [
     -84.83771,

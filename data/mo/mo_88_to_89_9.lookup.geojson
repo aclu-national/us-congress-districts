@@ -1,28 +1,13 @@
 {
-  "id": "mo_88_to_89_09",
+  "id": "mo_88_to_89_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"89",
-    "id":"029088089009",
-    "member":{
-        "88":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10740":{
-                "district":"9",
-                "name":"Hungate, William L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Missouri"
+    "district":9,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mo"
 },
   "bbox": [
     -93.77482,

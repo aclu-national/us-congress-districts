@@ -1,119 +1,13 @@
 {
-  "id": "nc_13_to_27_07",
+  "id": "nc_13_to_27_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"27",
-    "id":"037013027007",
-    "member":{
-        "13":{
-            "2242":{
-                "district":"7",
-                "name":"Culpepper, John",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "2242":{
-                "district":"7",
-                "name":"Culpepper, John",
-                "party":"Federalist"
-            }
-        },
-        "15":{
-            "8935":{
-                "district":"7",
-                "name":"Stewart, James",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "2242":{
-                "district":"7",
-                "name":"Culpepper, John",
-                "party":"Federalist"
-            }
-        },
-        "17":{
-            "6370":{
-                "district":"7",
-                "name":"McNeill, Archibald",
-                "party":"Federalist"
-            }
-        },
-        "18":{
-            "2242":{
-                "district":"7",
-                "name":"Culpepper, John",
-                "party":"Adams-Clay Federalist"
-            }
-        },
-        "19":{
-            "6370":{
-                "district":"7",
-                "name":"McNeill, Archibald",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "2242":{
-                "district":"7",
-                "name":"Culpepper, John",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "2454":{
-                "district":"7",
-                "name":"Deberry, Edmund",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "677":{
-                "district":"7",
-                "name":"Bethune, Lauchlin",
-                "party":"Jackson"
-            }
-        },
-        "23":{
-            "2454":{
-                "district":"7",
-                "name":"Deberry, Edmund",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "2454":{
-                "district":"7",
-                "name":"Deberry, Edmund",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "2454":{
-                "district":"7",
-                "name":"Deberry, Edmund",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "2454":{
-                "district":"7",
-                "name":"Deberry, Edmund",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "2454":{
-                "district":"7",
-                "name":"Deberry, Edmund",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"North Carolina"
+    "district":7,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"nc"
 },
   "bbox": [
     -80.50662,

@@ -2,83 +2,12 @@
   "id": "ma_78_to_87_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"87",
-    "id":"025078087013",
-    "member":{
-        "78":{
-            "10095":{
-                "district":"13",
-                "name":"Wigglesworth, Richard Bowditch \"Dick\"",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "10095":{
-                "district":"13",
-                "name":"Wigglesworth, Richard Bowditch \"Dick\"",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "10095":{
-                "district":"13",
-                "name":"Wigglesworth, Richard Bowditch \"Dick\"",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "10095":{
-                "district":"13",
-                "name":"Wigglesworth, Richard Bowditch \"Dick\"",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "10095":{
-                "district":"13",
-                "name":"Wigglesworth, Richard Bowditch \"Dick\"",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "10095":{
-                "district":"13",
-                "name":"Wigglesworth, Richard Bowditch \"Dick\"",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "10095":{
-                "district":"13",
-                "name":"Wigglesworth, Richard Bowditch \"Dick\"",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "10095":{
-                "district":"13",
-                "name":"Wigglesworth, Richard Bowditch \"Dick\"",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "1265":{
-                "district":"13",
-                "name":"Burke, James Anthony",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "1265":{
-                "district":"13",
-                "name":"Burke, James Anthony",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Massachusetts"
+    "district":13,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ma"
 },
   "bbox": [
     -71.30119,

@@ -1,35 +1,13 @@
 {
-  "id": "mo_50_to_52_01",
+  "id": "mo_50_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"029050052001",
-    "member":{
-        "50":{
-            "4188":{
-                "district":"1",
-                "name":"Hatch, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "4188":{
-                "district":"1",
-                "name":"Hatch, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "4188":{
-                "district":"1",
-                "name":"Hatch, William Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Missouri"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"mo"
 },
   "bbox": [
     -93.37521,

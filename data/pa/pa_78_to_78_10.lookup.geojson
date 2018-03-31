@@ -2,20 +2,12 @@
   "id": "pa_78_to_78_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"78",
-    "id":"042078078010",
-    "member":{
-        "78":{
-            "5288":{
-                "district":"10",
-                "name":"Kinzer, John Roland",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

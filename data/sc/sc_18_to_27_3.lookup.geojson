@@ -1,84 +1,13 @@
 {
-  "id": "sc_18_to_27_03",
+  "id": "sc_18_to_27_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"27",
-    "id":"045018027003",
-    "member":{
-        "18":{
-            "1463":{
-                "district":"3",
-                "name":"Campbell, Robert Blair",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "6575":{
-                "district":"3",
-                "name":"Mitchell, Thomas Rothmale",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "6575":{
-                "district":"3",
-                "name":"Mitchell, Thomas Rothmale",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "1456":{
-                "district":"3",
-                "name":"Campbell, John",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "6575":{
-                "district":"3",
-                "name":"Mitchell, Thomas Rothmale",
-                "party":"Jackson"
-            }
-        },
-        "23":{
-            "1463":{
-                "district":"3",
-                "name":"Campbell, Robert Blair",
-                "party":"Nullifier"
-            }
-        },
-        "24":{
-            "1463":{
-                "district":"3",
-                "name":"Campbell, Robert Blair",
-                "party":"Nullifier"
-            }
-        },
-        "25":{
-            "1456":{
-                "district":"3",
-                "name":"Campbell, John",
-                "party":"Nullifier"
-            }
-        },
-        "26":{
-            "1456":{
-                "district":"3",
-                "name":"Campbell, John",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "1456":{
-                "district":"3",
-                "name":"Campbell, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"sc"
 },
   "bbox": [
     -80.28879,

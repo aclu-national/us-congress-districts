@@ -1,84 +1,13 @@
 {
-  "id": "sd_63_to_72_02",
+  "id": "sd_63_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"046063072002",
-    "member":{
-        "63":{
-            "1261":{
-                "district":"2",
-                "name":"Burke, Charles Henry",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "4991":{
-                "district":"2",
-                "name":"Johnson, Royal Cleaves",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "4991":{
-                "district":"2",
-                "name":"Johnson, Royal Cleaves",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "4991":{
-                "district":"2",
-                "name":"Johnson, Royal Cleaves",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "4991":{
-                "district":"2",
-                "name":"Johnson, Royal Cleaves",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "4991":{
-                "district":"2",
-                "name":"Johnson, Royal Cleaves",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "4991":{
-                "district":"2",
-                "name":"Johnson, Royal Cleaves",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4991":{
-                "district":"2",
-                "name":"Johnson, Royal Cleaves",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4991":{
-                "district":"2",
-                "name":"Johnson, Royal Cleaves",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4991":{
-                "district":"2",
-                "name":"Johnson, Royal Cleaves",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"South Dakota"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"sd"
 },
   "bbox": [
     -100.72932,

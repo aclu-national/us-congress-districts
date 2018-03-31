@@ -1,28 +1,13 @@
 {
-  "id": "in_41_to_42_04",
+  "id": "in_41_to_42_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"42",
-    "id":"018041042004",
-    "member":{
-        "41":{
-            "5085":{
-                "district":"4",
-                "name":"Julian, George Washington",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "10236":{
-                "district":"4",
-                "name":"Wilson, Jeremiah Morrow",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Indiana"
+    "district":4,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"in"
 },
   "bbox": [
     -85.95398,

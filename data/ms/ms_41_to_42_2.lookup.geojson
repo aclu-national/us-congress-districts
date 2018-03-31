@@ -1,28 +1,13 @@
 {
-  "id": "ms_41_to_42_02",
+  "id": "ms_41_to_42_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"42",
-    "id":"028041042002",
-    "member":{
-        "41":{
-            "6690":{
-                "district":"2",
-                "name":"Morphis, Joseph Lewis",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "6690":{
-                "district":"2",
-                "name":"Morphis, Joseph Lewis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Mississippi"
+    "district":2,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"ms"
 },
   "bbox": [
     -91.2326,

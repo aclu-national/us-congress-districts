@@ -2,20 +2,12 @@
   "id": "pa_108_to_108_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"108",
-    "id":"042108108012",
-    "member":{
-        "108":{
-            "14072":{
-                "district":"12",
-                "name":"Murtha, John P.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"pa"
 },
   "bbox": [
     -80.51942,

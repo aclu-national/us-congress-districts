@@ -2,41 +2,12 @@
   "id": "nj_99_to_102_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"102",
-    "id":"034099102011",
-    "member":{
-        "100":{
-            "15099":{
-                "district":"11",
-                "name":"Gallo, Dean A.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15099":{
-                "district":"11",
-                "name":"Gallo, Dean A.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15099":{
-                "district":"11",
-                "name":"Gallo, Dean A.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15099":{
-                "district":"11",
-                "name":"Gallo, Dean A.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New Jersey"
+    "district":11,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"nj"
 },
   "bbox": [
     -75.0028,

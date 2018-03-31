@@ -2,34 +2,12 @@
   "id": "ma_70_to_72_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"72",
-    "id":"025070072015",
-    "member":{
-        "70":{
-            "6033":{
-                "district":"15",
-                "name":"Martin, Joseph William, Jr.",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "6033":{
-                "district":"15",
-                "name":"Martin, Joseph William, Jr.",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "6033":{
-                "district":"15",
-                "name":"Martin, Joseph William, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Massachusetts"
+    "district":15,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ma"
 },
   "bbox": [
     -71.3817,

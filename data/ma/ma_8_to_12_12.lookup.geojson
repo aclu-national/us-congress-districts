@@ -2,53 +2,12 @@
   "id": "ma_8_to_12_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"12",
-    "id":"025008012012",
-    "member":{
-        "10":{
-            "323":{
-                "district":"12",
-                "name":"Bacon, Ezekiel",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "323":{
-                "district":"12",
-                "name":"Bacon, Ezekiel",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "323":{
-                "district":"12",
-                "name":"Bacon, Ezekiel",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "5477":{
-                "district":"12",
-                "name":"Larned, Simon",
-                "party":"Republican"
-            },
-            "8563":{
-                "district":"12",
-                "name":"Skinner, Thomson Joseph",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "697":{
-                "district":"12",
-                "name":"Bidwell, Barnabas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ma"
 },
   "bbox": [
     -73.50814,

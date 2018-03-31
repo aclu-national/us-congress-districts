@@ -2,20 +2,12 @@
   "id": "ny_98_to_98_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"98",
-    "id":"036098098012",
-    "member":{
-        "98":{
-            "15050":{
-                "district":"12",
-                "name":"Owens, Major Robert Odell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ny"
 },
   "bbox": [
     -73.97247,

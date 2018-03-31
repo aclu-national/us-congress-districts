@@ -1,77 +1,13 @@
 {
-  "id": "oh_64_to_72_02",
+  "id": "oh_64_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"039064072002",
-    "member":{
-        "64":{
-            "97":{
-                "district":"2",
-                "name":"Allen, Alfred Gaither",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "4286":{
-                "district":"2",
-                "name":"Heintz, Victor",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "8886":{
-                "district":"2",
-                "name":"Stephens, Ambrose Everett",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "8886":{
-                "district":"2",
-                "name":"Stephens, Ambrose Everett",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "8886":{
-                "district":"2",
-                "name":"Stephens, Ambrose Everett",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "8886":{
-                "district":"2",
-                "name":"Stephens, Ambrose Everett",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9186":{
-                "district":"2",
-                "name":"Tatgenhorst, Charles, Jr.",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4373":{
-                "district":"2",
-                "name":"Hess, William Emil",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4373":{
-                "district":"2",
-                "name":"Hess, William Emil",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

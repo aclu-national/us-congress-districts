@@ -2,83 +2,12 @@
   "id": "nj_63_to_72_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"72",
-    "id":"034063072011",
-    "member":{
-        "63":{
-            "2808":{
-                "district":"11",
-                "name":"Eagan, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "2808":{
-                "district":"11",
-                "name":"Eagan, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "2808":{
-                "district":"11",
-                "name":"Eagan, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "2808":{
-                "district":"11",
-                "name":"Eagan, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "7069":{
-                "district":"11",
-                "name":"Olpp, Archibald Ernest",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "2808":{
-                "district":"11",
-                "name":"Eagan, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "292":{
-                "district":"11",
-                "name":"Auf Der Heide, Oscar Louis",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "292":{
-                "district":"11",
-                "name":"Auf Der Heide, Oscar Louis",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "292":{
-                "district":"11",
-                "name":"Auf Der Heide, Oscar Louis",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "292":{
-                "district":"11",
-                "name":"Auf Der Heide, Oscar Louis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New Jersey"
+    "district":11,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nj"
 },
   "bbox": [
     -74.09529,

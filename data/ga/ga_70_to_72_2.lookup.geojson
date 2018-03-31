@@ -1,35 +1,13 @@
 {
-  "id": "ga_70_to_72_02",
+  "id": "ga_70_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"013070072002",
-    "member":{
-        "70":{
-            "2111":{
-                "district":"2",
-                "name":"Cox, Edward Eugene",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "2111":{
-                "district":"2",
-                "name":"Cox, Edward Eugene",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "2111":{
-                "district":"2",
-                "name":"Cox, Edward Eugene",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Georgia"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ga"
 },
   "bbox": [
     -85.1146,

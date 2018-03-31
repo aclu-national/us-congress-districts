@@ -1,54 +1,13 @@
 {
-  "id": "il_38_to_42_06",
+  "id": "il_38_to_42_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"42",
-    "id":"017038042006",
-    "member":{
-        "38":{
-            "6970":{
-                "district":"6",
-                "name":"Norton, Jesse Olds",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "2014":{
-                "district":"6",
-                "name":"Cook, Burton Chauncey",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "2014":{
-                "district":"6",
-                "name":"Cook, Burton Chauncey",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "2014":{
-                "district":"6",
-                "name":"Cook, Burton Chauncey",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "2014":{
-                "district":"6",
-                "name":"Cook, Burton Chauncey",
-                "party":"Republican"
-            },
-            "8718":{
-                "district":"6",
-                "name":"Snapp, Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Illinois"
+    "district":6,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"il"
 },
   "bbox": [
     -89.1672,

@@ -1,35 +1,13 @@
 {
-  "id": "ky_90_to_92_03",
+  "id": "ky_90_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"021090092003",
-    "member":{
-        "90":{
-            "11010":{
-                "district":"3",
-                "name":"Cowger, William O.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11010":{
-                "district":"3",
-                "name":"Cowger, William O.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13024":{
-                "district":"3",
-                "name":"Mazzoli, Romano",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"ky"
 },
   "bbox": [
     -85.90946,

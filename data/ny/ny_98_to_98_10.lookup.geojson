@@ -2,20 +2,12 @@
   "id": "ny_98_to_98_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"98",
-    "id":"036098098010",
-    "member":{
-        "98":{
-            "14858":{
-                "district":"10",
-                "name":"Schumer, Charles E.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ny"
 },
   "bbox": [
     -74.00214,

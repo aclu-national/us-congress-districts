@@ -1,49 +1,13 @@
 {
-  "id": "ar_83_to_87_05",
+  "id": "ar_83_to_87_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"87",
-    "id":"005083087005",
-    "member":{
-        "83":{
-            "4244":{
-                "district":"5",
-                "name":"Hays, Lawrence Brooks",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "4244":{
-                "district":"5",
-                "name":"Hays, Lawrence Brooks",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "4244":{
-                "district":"5",
-                "name":"Hays, Lawrence Brooks",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "92":{
-                "district":"5",
-                "name":"Alford, Thomas Dale",
-                "party":"Ind. Democrat"
-            }
-        },
-        "87":{
-            "92":{
-                "district":"5",
-                "name":"Alford, Thomas Dale",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Arkansas"
+    "district":5,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ar"
 },
   "bbox": [
     -93.7103,

@@ -1,21 +1,13 @@
 {
-  "id": "nj_6_to_6_03",
+  "id": "nj_6_to_6_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"6",
-    "id":"034006006003",
-    "member":{
-        "6":{
-            "5687":{
-                "district":"3",
-                "name":"Linn, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"6",
-    "statename":"New Jersey"
+    "district":3,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1799-12-02",
+    "start_session":6,
+    "state":"nj"
 },
   "bbox": [
     -75.19511,

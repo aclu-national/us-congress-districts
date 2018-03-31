@@ -1,54 +1,13 @@
 {
-  "id": "il_93_to_97_05",
+  "id": "il_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"017093097005",
-    "member":{
-        "93":{
-            "5326":{
-                "district":"5",
-                "name":"Kluczynski, John Carl",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14285":{
-                "district":"5",
-                "name":"Fary, John",
-                "party":"Democrat"
-            },
-            "5326":{
-                "district":"5",
-                "name":"Kluczynski, John Carl",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14285":{
-                "district":"5",
-                "name":"Fary, John",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14285":{
-                "district":"5",
-                "name":"Fary, John",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14285":{
-                "district":"5",
-                "name":"Fary, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Illinois"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"il"
 },
   "bbox": [
     -87.80168,

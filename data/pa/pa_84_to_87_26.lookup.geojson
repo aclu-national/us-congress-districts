@@ -2,41 +2,12 @@
   "id": "pa_84_to_87_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"87",
-    "id":"042084087026",
-    "member":{
-        "84":{
-            "6685":{
-                "district":"26",
-                "name":"Morgan, Thomas Ellsworth",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "6685":{
-                "district":"26",
-                "name":"Morgan, Thomas Ellsworth",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "6685":{
-                "district":"26",
-                "name":"Morgan, Thomas Ellsworth",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "6685":{
-                "district":"26",
-                "name":"Morgan, Thomas Ellsworth",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":26,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -80.51949,

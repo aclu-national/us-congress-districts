@@ -1,19 +1,13 @@
 {
-  "id": "az_113_to_115_08",
+  "id": "az_113_to_115_8",
   "type": "Feature",
   "properties": {
-    "ALAND":1397551063,
-    "AWATER":4088398,
-    "CD113FP":"08",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0408",
-    "INTPTLAT":"+33.6955808",
-    "INTPTLON":"-112.2995738",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 8",
-    "STATEFP":"04"
+    "district":8,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"az"
 },
   "bbox": [
     -112.625777,

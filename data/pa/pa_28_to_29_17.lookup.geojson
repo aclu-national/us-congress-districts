@@ -2,27 +2,12 @@
   "id": "pa_28_to_29_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"29",
-    "id":"042028029017",
-    "member":{
-        "28":{
-            "4818":{
-                "district":"17",
-                "name":"Irvin, James",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "779":{
-                "district":"17",
-                "name":"Blanchard, John",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -78.55126,

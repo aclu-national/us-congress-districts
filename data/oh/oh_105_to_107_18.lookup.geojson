@@ -2,34 +2,12 @@
   "id": "oh_105_to_107_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"107",
-    "id":"039105107018",
-    "member":{
-        "105":{
-            "29552":{
-                "district":"18",
-                "name":"Ney, Robert W.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29552":{
-                "district":"18",
-                "name":"Ney, Robert W.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29552":{
-                "district":"18",
-                "name":"Ney, Robert W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Ohio"
+    "district":18,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"oh"
 },
   "bbox": [
     -82.58181,

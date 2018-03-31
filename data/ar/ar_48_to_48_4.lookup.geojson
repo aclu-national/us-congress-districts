@@ -1,21 +1,13 @@
 {
-  "id": "ar_48_to_48_04",
+  "id": "ar_48_to_48_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"48",
-    "id":"005048048004",
-    "member":{
-        "48":{
-            "7302":{
-                "district":"4",
-                "name":"Peel, Samuel West",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Arkansas"
+    "district":4,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ar"
 },
   "bbox": [
     -94.61792,

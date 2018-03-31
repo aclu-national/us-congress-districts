@@ -1,42 +1,13 @@
 {
-  "id": "ny_13_to_16_03",
+  "id": "ny_13_to_16_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"16",
-    "id":"036013016003",
-    "member":{
-        "13":{
-            "2510":{
-                "district":"3",
-                "name":"Denoyelles, Peter",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "9817":{
-                "district":"3",
-                "name":"Ward, Jonathan",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "9414":{
-                "district":"3",
-                "name":"Tompkins, Caleb",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "9414":{
-                "district":"3",
-                "name":"Tompkins, Caleb",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ny"
 },
   "bbox": [
     -74.23447,

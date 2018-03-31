@@ -1,84 +1,13 @@
 {
-  "id": "va_63_to_72_02",
+  "id": "va_63_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"051063072002",
-    "member":{
-        "63":{
-            "4517":{
-                "district":"2",
-                "name":"Holland, Edward Everett",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4517":{
-                "district":"2",
-                "name":"Holland, Edward Everett",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "4517":{
-                "district":"2",
-                "name":"Holland, Edward Everett",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "4517":{
-                "district":"2",
-                "name":"Holland, Edward Everett",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "2442":{
-                "district":"2",
-                "name":"Deal, Joseph Thomas",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "2442":{
-                "district":"2",
-                "name":"Deal, Joseph Thomas",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2442":{
-                "district":"2",
-                "name":"Deal, Joseph Thomas",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "2442":{
-                "district":"2",
-                "name":"Deal, Joseph Thomas",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "5462":{
-                "district":"2",
-                "name":"Lankford, Menalcus",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5462":{
-                "district":"2",
-                "name":"Lankford, Menalcus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Virginia"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"va"
 },
   "bbox": [
     -77.50192,

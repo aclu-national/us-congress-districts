@@ -1,42 +1,13 @@
 {
-  "id": "oh_9_to_12_00",
+  "id": "oh_9_to_12_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"12",
-    "id":"039009012000",
-    "member":{
-        "10":{
-            "6728":{
-                "district":"1",
-                "name":"Morrow, Jeremiah",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "6728":{
-                "district":"1",
-                "name":"Morrow, Jeremiah",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "6728":{
-                "district":"1",
-                "name":"Morrow, Jeremiah",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "6728":{
-                "district":"1",
-                "name":"Morrow, Jeremiah",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"9",
-    "statename":"Ohio"
+    "district":0,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1805-12-02",
+    "start_session":9,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

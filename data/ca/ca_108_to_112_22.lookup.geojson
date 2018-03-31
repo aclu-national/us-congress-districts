@@ -2,48 +2,12 @@
   "id": "ca_108_to_112_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"112",
-    "id":"006108112022",
-    "member":{
-        "108":{
-            "14669":{
-                "district":"22",
-                "name":"Thomas, William M.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "14669":{
-                "district":"22",
-                "name":"Thomas, William M.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20703":{
-                "district":"22",
-                "name":"McCarthy, Kevin",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20703":{
-                "district":"22",
-                "name":"McCarthy, Kevin",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20703":{
-                "district":"22",
-                "name":"McCarthy, Kevin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":22,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -121.17569,

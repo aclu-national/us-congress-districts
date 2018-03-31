@@ -2,53 +2,12 @@
   "id": "pa_63_to_67_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"67",
-    "id":"042063067010",
-    "member":{
-        "63":{
-            "3068":{
-                "district":"10",
-                "name":"Farr, John Richard",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "3068":{
-                "district":"10",
-                "name":"Farr, John Richard",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "3068":{
-                "district":"10",
-                "name":"Farr, John Richard",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "3068":{
-                "district":"10",
-                "name":"Farr, John Richard",
-                "party":"Republican"
-            },
-            "6324":{
-                "district":"10",
-                "name":"McLane, Patrick",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1987":{
-                "district":"10",
-                "name":"Connell, Charles Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -75.8347,

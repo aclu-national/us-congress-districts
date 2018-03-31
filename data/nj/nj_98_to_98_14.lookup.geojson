@@ -2,20 +2,12 @@
   "id": "nj_98_to_98_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"98",
-    "id":"034098098014",
-    "member":{
-        "98":{
-            "14631":{
-                "district":"14",
-                "name":"Guarini, Frank Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New Jersey"
+    "district":14,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"nj"
 },
   "bbox": [
     -74.14689,

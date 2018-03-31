@@ -1,49 +1,13 @@
 {
-  "id": "md_93_to_97_07",
+  "id": "md_93_to_97_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"97",
-    "id":"024093097007",
-    "member":{
-        "93":{
-            "13031":{
-                "district":"7",
-                "name":"Mitchell, Parren",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "13031":{
-                "district":"7",
-                "name":"Mitchell, Parren",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "13031":{
-                "district":"7",
-                "name":"Mitchell, Parren",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "13031":{
-                "district":"7",
-                "name":"Mitchell, Parren",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "13031":{
-                "district":"7",
-                "name":"Mitchell, Parren",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Maryland"
+    "district":7,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"md"
 },
   "bbox": [
     -76.71149,

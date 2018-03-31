@@ -1,35 +1,13 @@
 {
-  "id": "ca_40_to_42_03",
+  "id": "ca_40_to_42_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"42",
-    "id":"006040042003",
-    "member":{
-        "40":{
-            "4967":{
-                "district":"3",
-                "name":"Johnson, James Augustus",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "4967":{
-                "district":"3",
-                "name":"Johnson, James Augustus",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "1909":{
-                "district":"3",
-                "name":"Coghlan, John Maxwell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"California"
+    "district":3,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"ca"
 },
   "bbox": [
     -124.41501,

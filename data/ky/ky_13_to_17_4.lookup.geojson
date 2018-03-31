@@ -1,49 +1,13 @@
 {
-  "id": "ky_13_to_17_04",
+  "id": "ky_13_to_17_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"17",
-    "id":"021013017004",
-    "member":{
-        "13":{
-            "2527":{
-                "district":"4",
-                "name":"Desha, Joseph",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "2527":{
-                "district":"4",
-                "name":"Desha, Joseph",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "2527":{
-                "district":"4",
-                "name":"Desha, Joseph",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "6446":{
-                "district":"4",
-                "name":"Metcalfe, Thomas",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "6446":{
-                "district":"4",
-                "name":"Metcalfe, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Kentucky"
+    "district":4,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ky"
 },
   "bbox": [
     -84.4426,

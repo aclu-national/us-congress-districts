@@ -1,54 +1,13 @@
 {
-  "id": "ma_65_to_69_02",
+  "id": "ma_65_to_69_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"69",
-    "id":"025065069002",
-    "member":{
-        "65":{
-            "3599":{
-                "district":"2",
-                "name":"Gillett, Frederick Huntington",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "3599":{
-                "district":"2",
-                "name":"Gillett, Frederick Huntington",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3599":{
-                "district":"2",
-                "name":"Gillett, Frederick Huntington",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "3599":{
-                "district":"2",
-                "name":"Gillett, Frederick Huntington",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "1724":{
-                "district":"2",
-                "name":"Churchill, Gerge Bosworth",
-                "party":"Republican"
-            },
-            "914":{
-                "district":"2",
-                "name":"Bowles, Henry Leland",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ma"
 },
   "bbox": [
     -72.77713,

@@ -1,49 +1,13 @@
 {
-  "id": "il_98_to_102_08",
+  "id": "il_98_to_102_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"102",
-    "id":"017098102008",
-    "member":{
-        "100":{
-            "8080":{
-                "district":"8",
-                "name":"Rostenkowski, Daniel David",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "8080":{
-                "district":"8",
-                "name":"Rostenkowski, Daniel David",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "8080":{
-                "district":"8",
-                "name":"Rostenkowski, Daniel David",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "8080":{
-                "district":"8",
-                "name":"Rostenkowski, Daniel David",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "8080":{
-                "district":"8",
-                "name":"Rostenkowski, Daniel David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Illinois"
+    "district":8,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"il"
 },
   "bbox": [
     -87.8653,

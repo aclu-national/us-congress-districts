@@ -1,49 +1,13 @@
 {
-  "id": "ky_38_to_42_05",
+  "id": "ky_38_to_42_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"42",
-    "id":"021038042005",
-    "member":{
-        "38":{
-            "5940":{
-                "district":"5",
-                "name":"Mallory, Robert",
-                "party":"Unionist"
-            }
-        },
-        "39":{
-            "8085":{
-                "district":"5",
-                "name":"Rousseau, Lovell Harrison",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "40":{
-            "3860":{
-                "district":"5",
-                "name":"Grover, Asa Porter",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "10267":{
-                "district":"5",
-                "name":"Winchester, Boyd",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "10267":{
-                "district":"5",
-                "name":"Winchester, Boyd",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Kentucky"
+    "district":5,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ky"
 },
   "bbox": [
     -85.94854,

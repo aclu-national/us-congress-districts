@@ -1,35 +1,13 @@
 {
-  "id": "ny_3_to_5_02",
+  "id": "ny_3_to_5_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"5",
-    "id":"036003005002",
-    "member":{
-        "3":{
-            "9463":{
-                "district":"2",
-                "name":"Tredwell, Thomas",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "4204":{
-                "district":"2",
-                "name":"Havens, Jonathan Nicoll",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "4204":{
-                "district":"2",
-                "name":"Havens, Jonathan Nicoll",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"New York"
+    "district":2,
+    "end_date":"1799-03-03",
+    "end_session":5,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ny"
 },
   "bbox": [
     -74.04215,

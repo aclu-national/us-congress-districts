@@ -1,19 +1,13 @@
 {
-  "id": "mi_113_to_115_09",
+  "id": "mi_113_to_115_9",
   "type": "Feature",
   "properties": {
-    "ALAND":475509071,
-    "AWATER":13332117,
-    "CD113FP":"09",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2609",
-    "INTPTLAT":"+42.5296604",
-    "INTPTLON":"-083.0547224",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 9",
-    "STATEFP":"26"
+    "district":9,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mi"
 },
   "bbox": [
     -83.32514,

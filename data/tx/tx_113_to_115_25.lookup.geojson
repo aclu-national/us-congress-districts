@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_25",
   "type": "Feature",
   "properties": {
-    "ALAND":19738596635,
-    "AWATER":319956951,
-    "CD113FP":"25",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4825",
-    "INTPTLAT":"+31.5007907",
-    "INTPTLON":"-097.8159131",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 25",
-    "STATEFP":"48"
+    "district":25,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -98.569645,

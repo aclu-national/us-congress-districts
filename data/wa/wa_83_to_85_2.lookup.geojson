@@ -1,35 +1,13 @@
 {
-  "id": "wa_83_to_85_02",
+  "id": "wa_83_to_85_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"85",
-    "id":"053083085002",
-    "member":{
-        "83":{
-            "9968":{
-                "district":"2",
-                "name":"Westland, Alfred John",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "9968":{
-                "district":"2",
-                "name":"Westland, Alfred John",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "9968":{
-                "district":"2",
-                "name":"Westland, Alfred John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Washington"
+    "district":2,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"wa"
 },
   "bbox": [
     -124.76258,

@@ -1,33 +1,13 @@
 {
-  "id": "ma_15_to_16_08",
+  "id": "ma_15_to_16_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"16",
-    "id":"025015016008",
-    "member":{
-        "15":{
-            "8190":{
-                "district":"8",
-                "name":"Sampson, Zabdiel",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "4467":{
-                "district":"8",
-                "name":"Hobart, Aaron",
-                "party":"Republican"
-            },
-            "8190":{
-                "district":"8",
-                "name":"Sampson, Zabdiel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Massachusetts"
+    "district":8,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"ma"
 },
   "bbox": [
     -71.08019,

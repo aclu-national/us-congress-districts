@@ -1,49 +1,13 @@
 {
-  "id": "mi_48_to_52_09",
+  "id": "mi_48_to_52_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"52",
-    "id":"026048052009",
-    "member":{
-        "48":{
-            "2283":{
-                "district":"9",
-                "name":"Cutcheon, Byron M.",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "2283":{
-                "district":"9",
-                "name":"Cutcheon, Byron M.",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "2283":{
-                "district":"9",
-                "name":"Cutcheon, Byron M.",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "2283":{
-                "district":"9",
-                "name":"Cutcheon, Byron M.",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "9990":{
-                "district":"9",
-                "name":"Wheeler, Harrison H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Michigan"
+    "district":9,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mi"
 },
   "bbox": [
     -86.54101,

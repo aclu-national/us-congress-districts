@@ -2,20 +2,12 @@
   "id": "ny_91_to_91_37",
   "type": "Feature",
   "properties": {
-    "district":"37",
-    "endcong":"91",
-    "id":"036091091037",
-    "member":{
-        "91":{
-            "10712":{
-                "district":"37",
-                "name":"Conable, Barber B., Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New York"
+    "district":37,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ny"
 },
   "bbox": [
     -78.48814,

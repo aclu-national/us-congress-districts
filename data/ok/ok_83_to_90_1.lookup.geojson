@@ -1,70 +1,13 @@
 {
-  "id": "ok_83_to_90_01",
+  "id": "ok_83_to_90_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"90",
-    "id":"040083090001",
-    "member":{
-        "83":{
-            "590":{
-                "district":"1",
-                "name":"Belcher, Page Henry",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "590":{
-                "district":"1",
-                "name":"Belcher, Page Henry",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "590":{
-                "district":"1",
-                "name":"Belcher, Page Henry",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "590":{
-                "district":"1",
-                "name":"Belcher, Page Henry",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "590":{
-                "district":"1",
-                "name":"Belcher, Page Henry",
-                "party":"Republican"
-            }
-        },
-        "88":{
-            "590":{
-                "district":"1",
-                "name":"Belcher, Page Henry",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "590":{
-                "district":"1",
-                "name":"Belcher, Page Henry",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "590":{
-                "district":"1",
-                "name":"Belcher, Page Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Oklahoma"
+    "district":1,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ok"
 },
   "bbox": [
     -99.60579,

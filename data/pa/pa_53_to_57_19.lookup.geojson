@@ -2,48 +2,12 @@
   "id": "pa_53_to_57_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"57",
-    "id":"042053057019",
-    "member":{
-        "53":{
-            "620":{
-                "district":"19",
-                "name":"Beltzhoover, Frank Eckels",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "8825":{
-                "district":"19",
-                "name":"Stahle, James Alonzo",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "628":{
-                "district":"19",
-                "name":"Benner, George Jacob",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "10466":{
-                "district":"19",
-                "name":"Ziegler, Edward Danner",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "5648":{
-                "district":"19",
-                "name":"Lewis, Robert Jacob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"pa"
 },
   "bbox": [
     -77.62724,

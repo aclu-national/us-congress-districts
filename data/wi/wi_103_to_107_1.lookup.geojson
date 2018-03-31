@@ -1,54 +1,13 @@
 {
-  "id": "wi_103_to_107_01",
+  "id": "wi_103_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"055103107001",
-    "member":{
-        "103":{
-            "13003":{
-                "district":"1",
-                "name":"Aspin, Les",
-                "party":"Democrat"
-            },
-            "39314":{
-                "district":"1",
-                "name":"Barca, Peter W.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29583":{
-                "district":"1",
-                "name":"Neumann, Mark W.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29583":{
-                "district":"1",
-                "name":"Neumann, Mark W.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29939":{
-                "district":"1",
-                "name":"Ryan, Paul",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29939":{
-                "district":"1",
-                "name":"Ryan, Paul",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Wisconsin"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"wi"
 },
   "bbox": [
     -89.60326,

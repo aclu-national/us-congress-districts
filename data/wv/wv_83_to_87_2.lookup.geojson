@@ -1,49 +1,13 @@
 {
-  "id": "wv_83_to_87_02",
+  "id": "wv_83_to_87_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"87",
-    "id":"054083087002",
-    "member":{
-        "83":{
-            "8824":{
-                "district":"2",
-                "name":"Staggers, Harley Orrin",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "8824":{
-                "district":"2",
-                "name":"Staggers, Harley Orrin",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "8824":{
-                "district":"2",
-                "name":"Staggers, Harley Orrin",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "8824":{
-                "district":"2",
-                "name":"Staggers, Harley Orrin",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "8824":{
-                "district":"2",
-                "name":"Staggers, Harley Orrin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"West Virginia"
+    "district":2,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"wv"
 },
   "bbox": [
     -80.67829,

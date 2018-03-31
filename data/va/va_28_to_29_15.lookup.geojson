@@ -2,27 +2,12 @@
   "id": "va_28_to_29_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"29",
-    "id":"051028029015",
-    "member":{
-        "28":{
-            "8878":{
-                "district":"15",
-                "name":"Steenrod, Lewis",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "1137":{
-                "district":"15",
-                "name":"Brown, William Gay",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Virginia"
+    "district":15,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"va"
 },
   "bbox": [
     -81.20107,

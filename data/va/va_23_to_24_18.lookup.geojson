@@ -2,27 +2,12 @@
   "id": "va_23_to_24_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"24",
-    "id":"051023024018",
-    "member":{
-        "23":{
-            "3410":{
-                "district":"18",
-                "name":"Fulton, John Hall",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "4568":{
-                "district":"18",
-                "name":"Hopkins, George Washington",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Virginia"
+    "district":18,
+    "end_date":"1837-03-03",
+    "end_session":24,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"va"
 },
   "bbox": [
     -83.67541,

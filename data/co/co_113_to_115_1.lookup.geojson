@@ -1,19 +1,13 @@
 {
-  "id": "co_113_to_115_01",
+  "id": "co_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":491040131,
-    "AWATER":7081108,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0801",
-    "INTPTLAT":"+39.7322859",
-    "INTPTLON":"-104.9087582",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"08"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"co"
 },
   "bbox": [
     -105.145973,

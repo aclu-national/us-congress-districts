@@ -2,20 +2,12 @@
   "id": "ca_93_to_93_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"93",
-    "id":"006093093011",
-    "member":{
-        "93":{
-            "14049":{
-                "district":"11",
-                "name":"Ryan, Leo",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"California"
+    "district":11,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ca"
 },
   "bbox": [
     -122.52069,

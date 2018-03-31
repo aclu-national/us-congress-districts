@@ -1,28 +1,13 @@
 {
-  "id": "va_104_to_105_02",
+  "id": "va_104_to_105_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"105",
-    "id":"051104105002",
-    "member":{
-        "104":{
-            "15437":{
-                "district":"2",
-                "name":"Pickett, Owen B.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "15437":{
-                "district":"2",
-                "name":"Pickett, Owen B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Virginia"
+    "district":2,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"va"
 },
   "bbox": [
     -76.34569,

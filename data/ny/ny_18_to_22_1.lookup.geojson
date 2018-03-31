@@ -1,49 +1,13 @@
 {
-  "id": "ny_18_to_22_01",
+  "id": "ny_18_to_22_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"22",
-    "id":"036018022001",
-    "member":{
-        "18":{
-            "10333":{
-                "district":"1",
-                "name":"Wood, Silas",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "10333":{
-                "district":"1",
-                "name":"Wood, Silas",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "10333":{
-                "district":"1",
-                "name":"Wood, Silas",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "5608":{
-                "district":"1",
-                "name":"Lent, James",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "5608":{
-                "district":"1",
-                "name":"Lent, James",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -73.96161,

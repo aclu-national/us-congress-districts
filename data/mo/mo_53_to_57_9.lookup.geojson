@@ -1,49 +1,13 @@
 {
-  "id": "mo_53_to_57_09",
+  "id": "mo_53_to_57_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"57",
-    "id":"029053057009",
-    "member":{
-        "53":{
-            "1769":{
-                "district":"9",
-                "name":"Clark, James Beauchamp",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9464":{
-                "district":"9",
-                "name":"Treloar, William Mitchell",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "1769":{
-                "district":"9",
-                "name":"Clark, James Beauchamp \"Champ\"",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "1769":{
-                "district":"9",
-                "name":"Clark, James Beauchamp \"Champ\"",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "1769":{
-                "district":"9",
-                "name":"Clark, James Beauchamp \"Champ\"",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Missouri"
+    "district":9,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mo"
 },
   "bbox": [
     -92.31443,

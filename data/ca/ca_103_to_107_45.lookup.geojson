@@ -2,48 +2,12 @@
   "id": "ca_103_to_107_45",
   "type": "Feature",
   "properties": {
-    "district":"45",
-    "endcong":"107",
-    "id":"006103107045",
-    "member":{
-        "103":{
-            "15621":{
-                "district":"45",
-                "name":"Rohrabacher, Dana",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15621":{
-                "district":"45",
-                "name":"Rohrabacher, Dana",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15621":{
-                "district":"45",
-                "name":"Rohrabacher, Dana",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "15621":{
-                "district":"45",
-                "name":"Rohrabacher, Dana",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "15621":{
-                "district":"45",
-                "name":"Rohrabacher, Dana",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"California"
+    "district":45,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ca"
 },
   "bbox": [
     -118.11668,

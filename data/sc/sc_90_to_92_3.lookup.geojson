@@ -1,35 +1,13 @@
 {
-  "id": "sc_90_to_92_03",
+  "id": "sc_90_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"045090092003",
-    "member":{
-        "90":{
-            "2672":{
-                "district":"3",
-                "name":"Dorn, William Jennings Bryan",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "2672":{
-                "district":"3",
-                "name":"Dorn, William Jennings Bryan",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "2672":{
-                "district":"3",
-                "name":"Dorn, William Jennings Bryan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"sc"
 },
   "bbox": [
     -83.35395,

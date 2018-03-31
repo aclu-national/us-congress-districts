@@ -1,49 +1,13 @@
 {
-  "id": "mo_108_to_112_08",
+  "id": "mo_108_to_112_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"112",
-    "id":"029108112008",
-    "member":{
-        "108":{
-            "29736":{
-                "district":"8",
-                "name":"Emerson, Jo Ann",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29736":{
-                "district":"8",
-                "name":"Emerson, Jo Ann",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29736":{
-                "district":"8",
-                "name":"Emerson, Jo Ann",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29736":{
-                "district":"8",
-                "name":"Emerson, Jo Ann",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "29736":{
-                "district":"8",
-                "name":"Emerson, Jo Ann",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Missouri"
+    "district":8,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mo"
 },
   "bbox": [
     -93.15688,

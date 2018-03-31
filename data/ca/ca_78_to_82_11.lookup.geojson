@@ -2,48 +2,12 @@
   "id": "ca_78_to_82_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"82",
-    "id":"006078082011",
-    "member":{
-        "78":{
-            "7117":{
-                "district":"11",
-                "name":"Outland, George Elmer",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "7117":{
-                "district":"11",
-                "name":"Outland, George Elmer",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "971":{
-                "district":"11",
-                "name":"Bramblett, Ernest King",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "971":{
-                "district":"11",
-                "name":"Bramblett, Ernest King",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "971":{
-                "district":"11",
-                "name":"Bramblett, Ernest King",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":11,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -121.97874,

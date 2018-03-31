@@ -1,28 +1,13 @@
 {
-  "id": "ny_1_to_2_03",
+  "id": "ny_1_to_2_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"2",
-    "id":"036001002003",
-    "member":{
-        "1":{
-            "649":{
-                "district":"3",
-                "name":"Benson, Egbert",
-                "party":"Pro-Administration"
-            }
-        },
-        "2":{
-            "649":{
-                "district":"3",
-                "name":"Benson, Egbert",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"ny"
 },
   "bbox": [
     -74.00011,

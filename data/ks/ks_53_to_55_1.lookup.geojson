@@ -1,35 +1,13 @@
 {
-  "id": "ks_53_to_55_01",
+  "id": "ks_53_to_55_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"55",
-    "id":"020053055001",
-    "member":{
-        "53":{
-            "1056":{
-                "district":"1",
-                "name":"Broderick, Case",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "1056":{
-                "district":"1",
-                "name":"Broderick, Case",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "1056":{
-                "district":"1",
-                "name":"Broderick, Case",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Kansas"
+    "district":1,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ks"
 },
   "bbox": [
     -96.72833,

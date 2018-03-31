@@ -1,84 +1,13 @@
 {
-  "id": "pa_13_to_17_03",
+  "id": "pa_13_to_17_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"17",
-    "id":"042013017003",
-    "member":{
-        "13":{
-            "10053":{
-                "district":"3",
-                "name":"Whitehill, James",
-                "party":"Republican"
-            },
-            "2201":{
-                "district":"3",
-                "name":"Crouch, Edward",
-                "party":"Republican"
-            },
-            "3632":{
-                "district":"3",
-                "name":"Gloninger, John",
-                "party":"Federalist"
-            },
-            "8571":{
-                "district":"3",
-                "name":"Slaymaker, Amos",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "10062":{
-                "district":"3",
-                "name":"Whiteside, John",
-                "party":"Republican"
-            },
-            "9764":{
-                "district":"3",
-                "name":"Wallace, James M.",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "10062":{
-                "district":"3",
-                "name":"Whiteside, John",
-                "party":"Republican"
-            },
-            "9764":{
-                "district":"3",
-                "name":"Wallace, James M.",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "4381":{
-                "district":"3",
-                "name":"Hibshman, Jacob",
-                "party":"Republican"
-            },
-            "9764":{
-                "district":"3",
-                "name":"Wallace, James M.",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "1186":{
-                "district":"3",
-                "name":"Buchanan, James",
-                "party":"Federalist"
-            },
-            "7414":{
-                "district":"3",
-                "name":"Phillips, John",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"pa"
 },
   "bbox": [
     -77.02923,

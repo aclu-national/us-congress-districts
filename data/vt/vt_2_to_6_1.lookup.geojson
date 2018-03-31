@@ -1,49 +1,13 @@
 {
-  "id": "vt_2_to_6_01",
+  "id": "vt_2_to_6_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"6",
-    "id":"050002006001",
-    "member":{
-        "2":{
-            "8639":{
-                "district":"1",
-                "name":"Smith, Israel",
-                "party":"Anti-Administration"
-            }
-        },
-        "3":{
-            "8639":{
-                "district":"1",
-                "name":"Smith, Israel",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "8639":{
-                "district":"1",
-                "name":"Smith, Israel",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "5867":{
-                "district":"1",
-                "name":"Lyon, Matthew",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "5867":{
-                "district":"1",
-                "name":"Lyon, Matthew",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"2",
-    "statename":"Vermont"
+    "district":1,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1791-03-04",
+    "start_session":2,
+    "state":"vt"
 },
   "bbox": [
     -73.43774,

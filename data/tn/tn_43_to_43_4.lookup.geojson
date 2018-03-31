@@ -1,21 +1,13 @@
 {
-  "id": "tn_43_to_43_04",
+  "id": "tn_43_to_43_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"43",
-    "id":"047043043004",
-    "member":{
-        "43":{
-            "1039":{
-                "district":"4",
-                "name":"Bright, John Morgan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"tn"
 },
   "bbox": [
     -86.9608,

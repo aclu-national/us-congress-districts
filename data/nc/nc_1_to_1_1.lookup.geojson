@@ -1,21 +1,13 @@
 {
-  "id": "nc_1_to_1_01",
+  "id": "nc_1_to_1_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"1",
-    "id":"037001001001",
-    "member":{
-        "1":{
-            "259":{
-                "district":"1",
-                "name":"Ashe, John Baptista",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1791-03-03",
+    "end_session":1,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"nc"
 },
   "bbox": [
     -80.06674,

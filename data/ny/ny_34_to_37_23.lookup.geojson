@@ -2,41 +2,12 @@
   "id": "ny_34_to_37_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"37",
-    "id":"036034037023",
-    "member":{
-        "34":{
-            "3579":{
-                "district":"23",
-                "name":"Gilbert, William Augustus",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "4466":{
-                "district":"23",
-                "name":"Hoard, Charles Brooks",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "4466":{
-                "district":"23",
-                "name":"Hoard, Charles Brooks",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "1752":{
-                "district":"23",
-                "name":"Clark, Ambrose Williams",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -76.44652,

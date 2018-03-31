@@ -1,82 +1,13 @@
 {
-  "id": "ri_63_to_71_03",
+  "id": "ri_63_to_71_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"71",
-    "id":"044063071003",
-    "member":{
-        "63":{
-            "5174":{
-                "district":"3",
-                "name":"Kennedy, Ambrose",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "5174":{
-                "district":"3",
-                "name":"Kennedy, Ambrose",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "5174":{
-                "district":"3",
-                "name":"Kennedy, Ambrose",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "5174":{
-                "district":"3",
-                "name":"Kennedy, Ambrose",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5174":{
-                "district":"3",
-                "name":"Kennedy, Ambrose",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "7011":{
-                "district":"3",
-                "name":"O'Connell, Jeremiah",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "7011":{
-                "district":"3",
-                "name":"O'Connell, Jeremiah",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "6589":{
-                "district":"3",
-                "name":"Monast, Louis",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "1976":{
-                "district":"3",
-                "name":"Condon, Francis Bernard",
-                "party":"Democrat"
-            },
-            "7011":{
-                "district":"3",
-                "name":"O'Connell, Jeremiah",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Rhode Island"
+    "district":3,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ri"
 },
   "bbox": [
     -71.79924,

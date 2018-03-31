@@ -1,21 +1,13 @@
 {
-  "id": "tx_50_to_50_01",
+  "id": "tx_50_to_50_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"50",
-    "id":"048050050001",
-    "member":{
-        "50":{
-            "8931":{
-                "district":"1",
-                "name":"Stewart, Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"tx"
 },
   "bbox": [
     -96.60164,

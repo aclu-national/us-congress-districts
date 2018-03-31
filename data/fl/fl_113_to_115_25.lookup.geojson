@@ -2,18 +2,12 @@
   "id": "fl_113_to_115_25",
   "type": "Feature",
   "properties": {
-    "ALAND":8374071302,
-    "AWATER":388342646,
-    "CD113FP":"25",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1225",
-    "INTPTLAT":"+26.0949636",
-    "INTPTLON":"-081.0669020",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 25",
-    "STATEFP":"12"
+    "district":25,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"fl"
 },
   "bbox": [
     -81.752385,

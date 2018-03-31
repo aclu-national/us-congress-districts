@@ -1,54 +1,13 @@
 {
-  "id": "la_28_to_32_02",
+  "id": "la_28_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"022028032002",
-    "member":{
-        "28":{
-            "5389":{
-                "district":"2",
-                "name":"La Branche, Alcee Louis",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "9280":{
-                "district":"2",
-                "name":"Thibodeaux, Bannon Goforth",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "9280":{
-                "district":"2",
-                "name":"Thibodeaux, Bannon Goforth",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "1228":{
-                "district":"2",
-                "name":"Bullard, Henry Adams",
-                "party":"Whig"
-            },
-            "2004":{
-                "district":"2",
-                "name":"Conrad, Charles Mynn",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "5437":{
-                "district":"2",
-                "name":"Landry, Joseph Aristide",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Louisiana"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"la"
 },
   "bbox": [
     -91.35307,

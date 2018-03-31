@@ -2,53 +2,12 @@
   "id": "pa_8_to_12_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"12",
-    "id":"042008012010",
-    "member":{
-        "10":{
-            "4502":{
-                "district":"10",
-                "name":"Hoge, William",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "5846":{
-                "district":"10",
-                "name":"Lyle, Aaron",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "5846":{
-                "district":"10",
-                "name":"Lyle, Aaron",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "4498":{
-                "district":"10",
-                "name":"Hoge, John",
-                "party":"Republican"
-            },
-            "4502":{
-                "district":"10",
-                "name":"Hoge, William",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "3992":{
-                "district":"10",
-                "name":"Hamilton, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"pa"
 },
   "bbox": [
     -80.51928,

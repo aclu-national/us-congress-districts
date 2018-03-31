@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_39",
   "type": "Feature",
   "properties": {
-    "district":"39",
-    "endcong":"87",
-    "id":"036083087039",
-    "member":{
-        "83":{
-            "7102":{
-                "district":"39",
-                "name":"Ostertag, Harold Charles",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "7102":{
-                "district":"39",
-                "name":"Ostertag, Harold Charles",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "7102":{
-                "district":"39",
-                "name":"Ostertag, Harold Charles",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "7102":{
-                "district":"39",
-                "name":"Ostertag, Harold Charles",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "7102":{
-                "district":"39",
-                "name":"Ostertag, Harold Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":39,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -78.48814,

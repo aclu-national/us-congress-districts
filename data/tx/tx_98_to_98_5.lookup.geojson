@@ -1,21 +1,13 @@
 {
-  "id": "tx_98_to_98_05",
+  "id": "tx_98_to_98_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"98",
-    "id":"048098098005",
-    "member":{
-        "98":{
-            "15013":{
-                "district":"5",
-                "name":"Bryant, John W.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Texas"
+    "district":5,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"tx"
 },
   "bbox": [
     -96.94695,

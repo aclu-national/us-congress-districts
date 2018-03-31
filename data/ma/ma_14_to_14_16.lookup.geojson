@@ -2,20 +2,12 @@
   "id": "ma_14_to_14_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"14",
-    "id":"025014014016",
-    "member":{
-        "14":{
-            "1099":{
-                "district":"16",
-                "name":"Brown, Benjamin",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"14",
-    "statename":"Massachusetts"
+    "district":16,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1815-12-04",
+    "start_session":14,
+    "state":"ma"
 },
   "bbox": [
     -70.0515,

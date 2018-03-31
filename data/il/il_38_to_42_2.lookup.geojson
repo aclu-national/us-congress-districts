@@ -1,49 +1,13 @@
 {
-  "id": "il_38_to_42_02",
+  "id": "il_38_to_42_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"42",
-    "id":"017038042002",
-    "member":{
-        "38":{
-            "3064":{
-                "district":"2",
-                "name":"Farnsworth, John Franklin",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "3064":{
-                "district":"2",
-                "name":"Farnsworth, John Franklin",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "3064":{
-                "district":"2",
-                "name":"Farnsworth, John Franklin",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "3064":{
-                "district":"2",
-                "name":"Farnsworth, John Franklin",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "3064":{
-                "district":"2",
-                "name":"Farnsworth, John Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Illinois"
+    "district":2,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"il"
 },
   "bbox": [
     -89.40144,

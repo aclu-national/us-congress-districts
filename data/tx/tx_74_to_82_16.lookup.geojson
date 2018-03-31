@@ -2,81 +2,12 @@
   "id": "tx_74_to_82_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"82",
-    "id":"048074082016",
-    "member":{
-        "74":{
-            "9312":{
-                "district":"16",
-                "name":"Thomason, Robert Ewing",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "9312":{
-                "district":"16",
-                "name":"Thomason, Robert Ewing",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "9312":{
-                "district":"16",
-                "name":"Thomason, Robert Ewing",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "9312":{
-                "district":"16",
-                "name":"Thomason, Robert Ewing",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "9312":{
-                "district":"16",
-                "name":"Thomason, Robert Ewing",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "9312":{
-                "district":"16",
-                "name":"Thomason, Robert Ewing",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "7806":{
-                "district":"16",
-                "name":"Regan, Kenneth Mills",
-                "party":"Democrat"
-            },
-            "9312":{
-                "district":"16",
-                "name":"Thomason, Robert Ewing",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "7806":{
-                "district":"16",
-                "name":"Regan, Kenneth Mills",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7806":{
-                "district":"16",
-                "name":"Regan, Kenneth Mills",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":16,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

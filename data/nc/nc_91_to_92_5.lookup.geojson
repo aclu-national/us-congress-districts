@@ -1,28 +1,13 @@
 {
-  "id": "nc_91_to_92_05",
+  "id": "nc_91_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"037091092005",
-    "member":{
-        "91":{
-            "12026":{
-                "district":"5",
-                "name":"Mizell, Wilmer D.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "12026":{
-                "district":"5",
-                "name":"Mizell, Wilmer D.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nc"
 },
   "bbox": [
     -81.74185,

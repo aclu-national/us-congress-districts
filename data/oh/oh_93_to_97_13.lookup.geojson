@@ -2,48 +2,12 @@
   "id": "oh_93_to_97_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"97",
-    "id":"039093097013",
-    "member":{
-        "93":{
-            "10539":{
-                "district":"13",
-                "name":"Mosher, Charles A.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "10539":{
-                "district":"13",
-                "name":"Mosher, Charles A.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14445":{
-                "district":"13",
-                "name":"Pease, Donald",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14445":{
-                "district":"13",
-                "name":"Pease, Donald",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14445":{
-                "district":"13",
-                "name":"Pease, Donald",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Ohio"
+    "district":13,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"oh"
 },
   "bbox": [
     -82.90323,

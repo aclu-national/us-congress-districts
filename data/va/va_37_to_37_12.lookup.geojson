@@ -2,20 +2,12 @@
   "id": "va_37_to_37_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"37",
-    "id":"051037037012",
-    "member":{
-        "37":{
-            "9973":{
-                "district":"12",
-                "name":"Whaley, Kellian Van Rensalear",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"37",
-    "statename":"Virginia"
+    "district":12,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1861-03-04",
+    "start_session":37,
+    "state":"va"
 },
   "bbox": [
     -82.64474,

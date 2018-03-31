@@ -1,63 +1,13 @@
 {
-  "id": "sc_58_to_64_06",
+  "id": "sc_58_to_64_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"64",
-    "id":"045058064006",
-    "member":{
-        "58":{
-            "8251":{
-                "district":"6",
-                "name":"Scarborough, Robert Bethea",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "2902":{
-                "district":"6",
-                "name":"Ellerbe, James Edwin",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "2902":{
-                "district":"6",
-                "name":"Ellerbe, James Edwin",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "2902":{
-                "district":"6",
-                "name":"Ellerbe, James Edwin",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "2902":{
-                "district":"6",
-                "name":"Ellerbe, James Edwin",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "7689":{
-                "district":"6",
-                "name":"Ragsdale, James Willard",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "7689":{
-                "district":"6",
-                "name":"Ragsdale, James Willard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"South Carolina"
+    "district":6,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"sc"
 },
   "bbox": [
     -80.28879,

@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"90",
-    "id":"036088090016",
-    "member":{
-        "88":{
-            "10611":{
-                "district":"16",
-                "name":"Murphy, John M.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10611":{
-                "district":"16",
-                "name":"Murphy, John M.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10611":{
-                "district":"16",
-                "name":"Murphy, John M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

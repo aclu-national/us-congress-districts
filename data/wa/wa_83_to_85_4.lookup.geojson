@@ -1,35 +1,13 @@
 {
-  "id": "wa_83_to_85_04",
+  "id": "wa_83_to_85_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"85",
-    "id":"053083085004",
-    "member":{
-        "83":{
-            "4537":{
-                "district":"4",
-                "name":"Holmes, Otis Halbert",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4537":{
-                "district":"4",
-                "name":"Holmes, Otis Halbert",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4537":{
-                "district":"4",
-                "name":"Holmes, Otis Halbert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Washington"
+    "district":4,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"wa"
 },
   "bbox": [
     -121.61283,

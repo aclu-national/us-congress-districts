@@ -1,84 +1,13 @@
 {
-  "id": "ia_78_to_87_07",
+  "id": "ia_78_to_87_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"87",
-    "id":"019078087007",
-    "member":{
-        "78":{
-            "4928":{
-                "district":"7",
-                "name":"Jensen, Benton Franklin",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4928":{
-                "district":"7",
-                "name":"Jensen, Benton Franklin",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "4928":{
-                "district":"7",
-                "name":"Jensen, Benton Franklin",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4928":{
-                "district":"7",
-                "name":"Jensen, Benton Franklin",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4928":{
-                "district":"7",
-                "name":"Jensen, Benton Franklin",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "4928":{
-                "district":"7",
-                "name":"Jensen, Benton Franklin",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4928":{
-                "district":"7",
-                "name":"Jensen, Benton Franklin",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4928":{
-                "district":"7",
-                "name":"Jensen, Benton Franklin",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "4928":{
-                "district":"7",
-                "name":"Jensen, Benton Franklin",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "4928":{
-                "district":"7",
-                "name":"Jensen, Benton Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Iowa"
+    "district":7,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ia"
 },
   "bbox": [
     -96.35987,

@@ -2,20 +2,12 @@
   "id": "tx_108_to_108_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"108",
-    "id":"048108108022",
-    "member":{
-        "108":{
-            "15094":{
-                "district":"22",
-                "name":"Delay, Thomas D.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Texas"
+    "district":22,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tx"
 },
   "bbox": [
     -96.08881,

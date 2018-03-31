@@ -1,42 +1,13 @@
 {
-  "id": "ms_62_to_65_06",
+  "id": "ms_62_to_65_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"65",
-    "id":"028062065006",
-    "member":{
-        "62":{
-            "4126":{
-                "district":"6",
-                "name":"Harrison, Byron Patton",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "4126":{
-                "district":"6",
-                "name":"Harrison, Byron Patton",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4126":{
-                "district":"6",
-                "name":"Harrison, Byron Patton",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "4126":{
-                "district":"6",
-                "name":"Harrison, Byron Patton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"62",
-    "statename":"Mississippi"
+    "district":6,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1911-04-04",
+    "start_session":62,
+    "state":"ms"
 },
   "bbox": [
     -90.24766,

@@ -2,41 +2,12 @@
   "id": "ky_48_to_51_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"51",
-    "id":"021048051011",
-    "member":{
-        "48":{
-            "10313":{
-                "district":"11",
-                "name":"Wolford, Frank Lane",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "10313":{
-                "district":"11",
-                "name":"Wolford, Frank Lane",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "3155":{
-                "district":"11",
-                "name":"Finley, Hugh Franklin",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "3155":{
-                "district":"11",
-                "name":"Finley, Hugh Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Kentucky"
+    "district":11,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ky"
 },
   "bbox": [
     -86.17634,

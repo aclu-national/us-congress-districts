@@ -1,49 +1,13 @@
 {
-  "id": "nc_3_to_7_07",
+  "id": "nc_3_to_7_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"7",
-    "id":"037003007007",
-    "member":{
-        "3":{
-            "3859":{
-                "district":"7",
-                "name":"Grove, William Barry",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "3859":{
-                "district":"7",
-                "name":"Grove, William Barry",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "3859":{
-                "district":"7",
-                "name":"Grove, William Barry",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "3859":{
-                "district":"7",
-                "name":"Grove, William Barry",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "3859":{
-                "district":"7",
-                "name":"Grove, William Barry",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"North Carolina"
+    "district":7,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"nc"
 },
   "bbox": [
     -80.50662,

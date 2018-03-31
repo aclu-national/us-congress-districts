@@ -1,82 +1,13 @@
 {
-  "id": "va_74_to_82_06",
+  "id": "va_74_to_82_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"82",
-    "id":"051074082006",
-    "member":{
-        "74":{
-            "10350":{
-                "district":"6",
-                "name":"Woodrum, Clifton Alexander",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "10350":{
-                "district":"6",
-                "name":"Woodrum, Clifton Alexander",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "10350":{
-                "district":"6",
-                "name":"Woodrum, Clifton Alexander",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "10350":{
-                "district":"6",
-                "name":"Woodrum, Clifton Alexander",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "10350":{
-                "district":"6",
-                "name":"Woodrum, Clifton Alexander",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "10350":{
-                "district":"6",
-                "name":"Woodrum, Clifton Alexander",
-                "party":"Democrat"
-            },
-            "144":{
-                "district":"6",
-                "name":"Almond, James Lindsay Jr.",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "144":{
-                "district":"6",
-                "name":"Almond, James Lindsay Jr.",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "1316":{
-                "district":"6",
-                "name":"Burton, Clarence Godber",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1316":{
-                "district":"6",
-                "name":"Burton, Clarence Godber",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"va"
 },
   "bbox": [
     -80.63399,

@@ -1,28 +1,13 @@
 {
-  "id": "nc_91_to_92_04",
+  "id": "nc_91_to_92_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"92",
-    "id":"037091092004",
-    "member":{
-        "91":{
-            "11017":{
-                "district":"4",
-                "name":"Galifianakis, Nick",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "11017":{
-                "district":"4",
-                "name":"Galifianakis, Nick",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nc"
 },
   "bbox": [
     -80.06674,

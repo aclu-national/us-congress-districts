@@ -2,48 +2,12 @@
   "id": "ny_23_to_27_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"27",
-    "id":"036023027021",
-    "member":{
-        "23":{
-            "6560":{
-                "district":"21",
-                "name":"Mitchell, Henry",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "6064":{
-                "district":"21",
-                "name":"Mason, William",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "1775":{
-                "district":"21",
-                "name":"Clark, John Chamberlain",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "1775":{
-                "district":"21",
-                "name":"Clark, John Chamberlain",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "1775":{
-                "district":"21",
-                "name":"Clark, John Chamberlain",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -75.88983,

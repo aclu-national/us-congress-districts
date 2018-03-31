@@ -2,48 +2,12 @@
   "id": "il_98_to_102_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"102",
-    "id":"017098102019",
-    "member":{
-        "100":{
-            "15088":{
-                "district":"19",
-                "name":"Bruce, Terry L.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15088":{
-                "district":"19",
-                "name":"Bruce, Terry L.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15088":{
-                "district":"19",
-                "name":"Bruce, Terry L.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14615":{
-                "district":"19",
-                "name":"Crane, Daniel Bever",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15088":{
-                "district":"19",
-                "name":"Bruce, Terry L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Illinois"
+    "district":19,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"il"
 },
   "bbox": [
     -88.80693,

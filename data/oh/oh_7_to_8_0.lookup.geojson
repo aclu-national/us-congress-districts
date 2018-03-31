@@ -1,22 +1,13 @@
 {
-  "id": "oh_7_to_8_00",
+  "id": "oh_7_to_8_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"8",
-    "id":"039007008000",
-    "member":{
-        "7":[],
-        "8":{
-            "6728":{
-                "district":"1",
-                "name":"Morrow, Jeremiah",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"7",
-    "statename":"Ohio"
+    "district":0,
+    "end_date":"1805-03-03",
+    "end_session":8,
+    "start_date":"1801-03-04",
+    "start_session":7,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

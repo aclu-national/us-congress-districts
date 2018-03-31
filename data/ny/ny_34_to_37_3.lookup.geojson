@@ -1,42 +1,13 @@
 {
-  "id": "ny_34_to_37_03",
+  "id": "ny_34_to_37_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"37",
-    "id":"036034037003",
-    "member":{
-        "34":{
-            "7314":{
-                "district":"3",
-                "name":"Pelton, Guy Ray",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "8503":{
-                "district":"3",
-                "name":"Sickles, Daniel Edgar",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "8503":{
-                "district":"3",
-                "name":"Sickles, Daniel Edgar",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "10320":{
-                "district":"3",
-                "name":"Wood, Benjamin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -74.04718,

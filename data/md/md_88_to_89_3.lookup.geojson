@@ -1,28 +1,13 @@
 {
-  "id": "md_88_to_89_03",
+  "id": "md_88_to_89_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"89",
-    "id":"024088089003",
-    "member":{
-        "88":{
-            "3480":{
-                "district":"3",
-                "name":"Garmatz, Edward Alexander",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "3480":{
-                "district":"3",
-                "name":"Garmatz, Edward Alexander",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"md"
 },
   "bbox": [
     -76.63837,

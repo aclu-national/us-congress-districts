@@ -1,49 +1,13 @@
 {
-  "id": "ny_68_to_72_06",
+  "id": "ny_68_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"036068072006",
-    "member":{
-        "68":{
-            "8882":{
-                "district":"6",
-                "name":"Stengle, Charles Irwin",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "8739":{
-                "district":"6",
-                "name":"Somers, Andrew Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "8739":{
-                "district":"6",
-                "name":"Somers, Andrew Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "8739":{
-                "district":"6",
-                "name":"Somers, Andrew Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "8739":{
-                "district":"6",
-                "name":"Somers, Andrew Lawrence",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -73.9883,

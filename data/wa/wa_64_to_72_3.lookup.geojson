@@ -1,77 +1,13 @@
 {
-  "id": "wa_64_to_72_03",
+  "id": "wa_64_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"053064072003",
-    "member":{
-        "64":{
-            "4939":{
-                "district":"3",
-                "name":"Johnson, Albert",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "4939":{
-                "district":"3",
-                "name":"Johnson, Albert",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "4939":{
-                "district":"3",
-                "name":"Johnson, Albert",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "4939":{
-                "district":"3",
-                "name":"Johnson, Albert",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "4939":{
-                "district":"3",
-                "name":"Johnson, Albert",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "4939":{
-                "district":"3",
-                "name":"Johnson, Albert",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4939":{
-                "district":"3",
-                "name":"Johnson, Albert",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4939":{
-                "district":"3",
-                "name":"Johnson, Albert",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4939":{
-                "district":"3",
-                "name":"Johnson, Albert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Washington"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"wa"
 },
   "bbox": [
     -124.36355,

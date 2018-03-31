@@ -1,42 +1,13 @@
 {
-  "id": "mi_89_to_92_07",
+  "id": "mi_89_to_92_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"92",
-    "id":"026089092007",
-    "member":{
-        "89":{
-            "10754":{
-                "district":"7",
-                "name":"Mackie, John C.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "91043":{
-                "district":"7",
-                "name":"Riegle, Donald W., Jr.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "91043":{
-                "district":"7",
-                "name":"Riegle, Donald W., Jr.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "91043":{
-                "district":"7",
-                "name":"Riegle, Donald W., Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Michigan"
+    "district":7,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"mi"
 },
   "bbox": [
     -83.93219,

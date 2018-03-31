@@ -2,39 +2,12 @@
   "id": "pa_30_to_32_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"32",
-    "id":"042030032011",
-    "member":{
-        "30":{
-            "1336":{
-                "district":"11",
-                "name":"Butler, Chester Pierce",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "1043":{
-                "district":"11",
-                "name":"Brisbin, John",
-                "party":"Democrat"
-            },
-            "1336":{
-                "district":"11",
-                "name":"Butler, Chester Pierce",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "3397":{
-                "district":"11",
-                "name":"Fuller, Henry Mills",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -76.79485,

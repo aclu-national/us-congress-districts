@@ -1,49 +1,13 @@
 {
-  "id": "ia_88_to_92_03",
+  "id": "ia_88_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"019088092003",
-    "member":{
-        "88":{
-            "3853":{
-                "district":"3",
-                "name":"Gross, Harold Royce",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "3853":{
-                "district":"3",
-                "name":"Gross, Harold Royce",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "3853":{
-                "district":"3",
-                "name":"Gross, Harold Royce",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "3853":{
-                "district":"3",
-                "name":"Gross, Harold Royce",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "3853":{
-                "district":"3",
-                "name":"Gross, Harold Royce",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Iowa"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ia"
 },
   "bbox": [
     -93.97188,

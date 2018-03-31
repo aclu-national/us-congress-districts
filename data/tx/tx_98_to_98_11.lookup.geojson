@@ -2,20 +2,12 @@
   "id": "tx_98_to_98_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"98",
-    "id":"048098098011",
-    "member":{
-        "98":{
-            "14641":{
-                "district":"11",
-                "name":"Leath, James Marvin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Texas"
+    "district":11,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"tx"
 },
   "bbox": [
     -99.2036,

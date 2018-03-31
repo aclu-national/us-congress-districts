@@ -2,32 +2,12 @@
   "id": "va_30_to_31_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"31",
-    "id":"051030031015",
-    "member":{
-        "30":{
-            "1137":{
-                "district":"15",
-                "name":"Brown, William Gay",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "4234":{
-                "district":"15",
-                "name":"Haymond, Thomas Sherwood",
-                "party":"Whig"
-            },
-            "6898":{
-                "district":"15",
-                "name":"Newman, Alexander",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Virginia"
+    "district":15,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"va"
 },
   "bbox": [
     -81.20107,

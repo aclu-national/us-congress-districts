@@ -2,27 +2,12 @@
   "id": "va_26_to_27_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"27",
-    "id":"051026027019",
-    "member":{
-        "26":{
-            "586":{
-                "district":"19",
-                "name":"Beirne, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "9081":{
-                "district":"19",
-                "name":"Summers, George William",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"26",
-    "statename":"Virginia"
+    "district":19,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1839-12-02",
+    "start_session":26,
+    "state":"va"
 },
   "bbox": [
     -82.64474,

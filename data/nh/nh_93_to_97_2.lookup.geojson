@@ -1,49 +1,13 @@
 {
-  "id": "nh_93_to_97_02",
+  "id": "nh_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"033093097002",
-    "member":{
-        "93":{
-            "10581":{
-                "district":"2",
-                "name":"Cleveland, James C.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "10581":{
-                "district":"2",
-                "name":"Cleveland, James C.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "10581":{
-                "district":"2",
-                "name":"Cleveland, James C.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "10581":{
-                "district":"2",
-                "name":"Cleveland, James C.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14826":{
-                "district":"2",
-                "name":"Gregg, Judd",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New Hampshire"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nh"
 },
   "bbox": [
     -72.55725,

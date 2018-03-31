@@ -1,21 +1,13 @@
 {
-  "id": "mo_91_to_91_08",
+  "id": "mo_91_to_91_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"91",
-    "id":"029091091008",
-    "member":{
-        "91":{
-            "10528":{
-                "district":"8",
-                "name":"Ichord, Richard H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Missouri"
+    "district":8,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"mo"
 },
   "bbox": [
     -93.07784,

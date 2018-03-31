@@ -2,27 +2,12 @@
   "id": "oh_103_to_104_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"104",
-    "id":"039103104015",
-    "member":{
-        "103":{
-            "29390":{
-                "district":"15",
-                "name":"Pryce, Deborah",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29390":{
-                "district":"15",
-                "name":"Pryce, Deborah",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"oh"
 },
   "bbox": [
     -83.6534,

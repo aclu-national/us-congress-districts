@@ -2,18 +2,12 @@
   "id": "il_113_to_115_10",
   "type": "Feature",
   "properties": {
-    "ALAND":776382313,
-    "AWATER":31789983,
-    "CD113FP":"10",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1710",
-    "INTPTLAT":"+42.2800078",
-    "INTPTLON":"-087.9399324",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 10",
-    "STATEFP":"17"
+    "district":10,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"il"
 },
   "bbox": [
     -88.198955,

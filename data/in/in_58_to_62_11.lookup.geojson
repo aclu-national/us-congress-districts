@@ -2,48 +2,12 @@
   "id": "in_58_to_62_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"62",
-    "id":"018058062011",
-    "member":{
-        "58":{
-            "5433":{
-                "district":"11",
-                "name":"Landis, Frederick",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5433":{
-                "district":"11",
-                "name":"Landis, Frederick",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "7743":{
-                "district":"11",
-                "name":"Rauch, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "7743":{
-                "district":"11",
-                "name":"Rauch, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "7743":{
-                "district":"11",
-                "name":"Rauch, George Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Indiana"
+    "district":11,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"in"
 },
   "bbox": [
     -86.58174,

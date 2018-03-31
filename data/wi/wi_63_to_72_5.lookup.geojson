@@ -1,78 +1,13 @@
 {
-  "id": "wi_63_to_72_05",
+  "id": "wi_63_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"055063072005",
-    "member":{
-        "63":{
-            "8823":{
-                "district":"5",
-                "name":"Stafford, William Henry",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "8823":{
-                "district":"5",
-                "name":"Stafford, William Henry",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "8823":{
-                "district":"5",
-                "name":"Stafford, William Henry",
-                "party":"Republican"
-            }
-        },
-        "66":[],
-        "67":{
-            "8823":{
-                "district":"5",
-                "name":"Stafford, William Henry",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "665":{
-                "district":"5",
-                "name":"Berger, Victor Luitpold",
-                "party":"Socialist"
-            }
-        },
-        "69":{
-            "665":{
-                "district":"5",
-                "name":"Berger, Victor Luitpold",
-                "party":"Socialist"
-            }
-        },
-        "70":{
-            "665":{
-                "district":"5",
-                "name":"Berger, Victor Luitpold",
-                "party":"Socialist"
-            }
-        },
-        "71":{
-            "8823":{
-                "district":"5",
-                "name":"Stafford, William Henry",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "8823":{
-                "district":"5",
-                "name":"Stafford, William Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Wisconsin"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"wi"
 },
   "bbox": [
     -88.06619,

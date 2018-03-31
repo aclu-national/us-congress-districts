@@ -2,48 +2,12 @@
   "id": "ma_58_to_62_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"62",
-    "id":"025058062012",
-    "member":{
-        "58":{
-            "7582":{
-                "district":"12",
-                "name":"Powers, Samuel Leland",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "9911":{
-                "district":"12",
-                "name":"Weeks, John Wingate",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "9911":{
-                "district":"12",
-                "name":"Weeks, John Wingate",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "9911":{
-                "district":"12",
-                "name":"Weeks, John Wingate",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "9911":{
-                "district":"12",
-                "name":"Weeks, John Wingate",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ma"
 },
   "bbox": [
     -71.64913,

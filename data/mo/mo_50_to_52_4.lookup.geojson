@@ -1,40 +1,13 @@
 {
-  "id": "mo_50_to_52_04",
+  "id": "mo_50_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"029050052004",
-    "member":{
-        "50":{
-            "1286":{
-                "district":"4",
-                "name":"Burnes, James Nelson",
-                "party":"Democrat"
-            },
-            "850":{
-                "district":"4",
-                "name":"Booher, Charles Ferris",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "10250":{
-                "district":"4",
-                "name":"Wilson, Robert Patterson",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "10250":{
-                "district":"4",
-                "name":"Wilson, Robert Patterson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Missouri"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"mo"
 },
   "bbox": [
     -95.7747,

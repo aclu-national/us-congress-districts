@@ -2,41 +2,12 @@
   "id": "ny_13_to_16_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"16",
-    "id":"036013016010",
-    "member":{
-        "13":{
-            "6582":{
-                "district":"10",
-                "name":"Moffitt, Hosea",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "6582":{
-                "district":"10",
-                "name":"Moffitt, Hosea",
-                "party":"Federalist"
-            }
-        },
-        "15":{
-            "2280":{
-                "district":"10",
-                "name":"Cushman, John Paine",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "2574":{
-                "district":"10",
-                "name":"Dickinson, John Dean",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ny"
 },
   "bbox": [
     -73.78616,

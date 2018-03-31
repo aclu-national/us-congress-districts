@@ -1,21 +1,13 @@
 {
-  "id": "la_91_to_91_05",
+  "id": "la_91_to_91_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"91",
-    "id":"022091091005",
-    "member":{
-        "91":{
-            "7228":{
-                "district":"5",
-                "name":"Passman, Otto Ernest",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Louisiana"
+    "district":5,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"la"
 },
   "bbox": [
     -92.88172,

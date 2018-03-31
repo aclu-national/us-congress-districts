@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"90",
-    "id":"036088090015",
-    "member":{
-        "88":{
-            "10508":{
-                "district":"15",
-                "name":"Carey, Hugh L.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10508":{
-                "district":"15",
-                "name":"Carey, Hugh L.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10508":{
-                "district":"15",
-                "name":"Carey, Hugh L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -74.04215,

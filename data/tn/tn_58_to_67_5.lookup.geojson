@@ -1,84 +1,13 @@
 {
-  "id": "tn_58_to_67_05",
+  "id": "tn_58_to_67_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"67",
-    "id":"047058067005",
-    "member":{
-        "58":{
-            "7877":{
-                "district":"5",
-                "name":"Richardson, James Daniel",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "4617":{
-                "district":"5",
-                "name":"Houston, William Cannon",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "4617":{
-                "district":"5",
-                "name":"Houston, William Cannon",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "4617":{
-                "district":"5",
-                "name":"Houston, William Cannon",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "4617":{
-                "district":"5",
-                "name":"Houston, William Cannon",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "4617":{
-                "district":"5",
-                "name":"Houston, William Cannon",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4617":{
-                "district":"5",
-                "name":"Houston, William Cannon",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "4617":{
-                "district":"5",
-                "name":"Houston, William Cannon",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "2379":{
-                "district":"5",
-                "name":"Davis, Ewin Lamar",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "2379":{
-                "district":"5",
-                "name":"Davis, Ewin Lamar",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"tn"
 },
   "bbox": [
     -86.9608,

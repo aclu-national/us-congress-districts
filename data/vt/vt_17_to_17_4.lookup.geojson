@@ -1,21 +1,13 @@
 {
-  "id": "vt_17_to_17_04",
+  "id": "vt_17_to_17_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"17",
-    "id":"050017017004",
-    "member":{
-        "17":{
-            "5226":{
-                "district":"4",
-                "name":"Keyes, Elias",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Vermont"
+    "district":4,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"vt"
 },
   "bbox": [
     -72.8739,

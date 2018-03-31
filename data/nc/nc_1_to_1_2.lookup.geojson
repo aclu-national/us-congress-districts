@@ -1,21 +1,13 @@
 {
-  "id": "nc_1_to_1_02",
+  "id": "nc_1_to_1_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"1",
-    "id":"037001001002",
-    "member":{
-        "1":{
-            "10193":{
-                "district":"2",
-                "name":"Williamson, Hugh",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"North Carolina"
+    "district":2,
+    "end_date":"1791-03-03",
+    "end_session":1,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"nc"
 },
   "bbox": [
     -78.70863,

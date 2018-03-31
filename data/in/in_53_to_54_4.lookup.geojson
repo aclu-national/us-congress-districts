@@ -1,28 +1,13 @@
 {
-  "id": "in_53_to_54_04",
+  "id": "in_53_to_54_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"54",
-    "id":"018053054004",
-    "member":{
-        "53":{
-            "4529":{
-                "district":"4",
-                "name":"Holman, William Steele",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9875":{
-                "district":"4",
-                "name":"Watson, James Eli",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Indiana"
+    "district":4,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"in"
 },
   "bbox": [
     -85.95353,

@@ -1,49 +1,13 @@
 {
-  "id": "va_93_to_97_04",
+  "id": "va_93_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"051093097004",
-    "member":{
-        "93":{
-            "14013":{
-                "district":"4",
-                "name":"Daniel, Robert W.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14013":{
-                "district":"4",
-                "name":"Daniel, Robert W.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14013":{
-                "district":"4",
-                "name":"Daniel, Robert W.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14013":{
-                "district":"4",
-                "name":"Daniel, Robert W.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14013":{
-                "district":"4",
-                "name":"Daniel, Robert W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"va"
 },
   "bbox": [
     -77.90035,

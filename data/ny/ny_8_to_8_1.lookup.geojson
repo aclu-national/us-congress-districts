@@ -1,26 +1,13 @@
 {
-  "id": "ny_8_to_8_01",
+  "id": "ny_8_to_8_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"8",
-    "id":"036008008001",
-    "member":{
-        "8":{
-            "7907":{
-                "district":"1",
-                "name":"Riker, Samuel",
-                "party":"Republican"
-            },
-            "8647":{
-                "district":"1",
-                "name":"Smith, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1805-03-03",
+    "end_session":8,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ny"
 },
   "bbox": [
     -73.96161,

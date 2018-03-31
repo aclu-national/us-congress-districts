@@ -1,28 +1,13 @@
 {
-  "id": "ma_43_to_44_07",
+  "id": "ma_43_to_44_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"44",
-    "id":"025043044007",
-    "member":{
-        "43":{
-            "4461":{
-                "district":"7",
-                "name":"Hoar, Ebenezer Rockwood",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "9179":{
-                "district":"7",
-                "name":"Tarbox, John Kemble",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ma"
 },
   "bbox": [
     -71.89872,

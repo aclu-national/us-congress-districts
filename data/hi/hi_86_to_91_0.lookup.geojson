@@ -1,76 +1,13 @@
 {
-  "id": "hi_86_to_91_00",
+  "id": "hi_86_to_91_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"91",
-    "id":"015086091000",
-    "member":{
-        "86":{
-            "4812":{
-                "district":"1",
-                "name":"Inouye, Daniel Ken",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "4812":{
-                "district":"1",
-                "name":"Inouye, Daniel Ken",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "10589":{
-                "district":"98",
-                "name":"Gill, Thomas P.",
-                "party":"Democrat"
-            },
-            "10605":{
-                "district":"98",
-                "name":"Matsunaga, Spark M.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10605":{
-                "district":"98",
-                "name":"Matsunaga, Spark M.",
-                "party":"Democrat"
-            },
-            "10757":{
-                "district":"98",
-                "name":"Mink, Patsy T.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10605":{
-                "district":"98",
-                "name":"Matsunaga, Spark M.",
-                "party":"Democrat"
-            },
-            "10757":{
-                "district":"98",
-                "name":"Mink, Patsy T.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "10605":{
-                "district":"98",
-                "name":"Matsunaga, Spark M.",
-                "party":"Democrat"
-            },
-            "10757":{
-                "district":"98",
-                "name":"Mink, Patsy T.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"86",
-    "statename":"Hawaii"
+    "district":0,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1959-01-07",
+    "start_session":86,
+    "state":"hi"
 },
   "bbox": [
     -178.33814,

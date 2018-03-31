@@ -1,49 +1,13 @@
 {
-  "id": "ma_98_to_102_07",
+  "id": "ma_98_to_102_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"102",
-    "id":"025098102007",
-    "member":{
-        "100":{
-            "14435":{
-                "district":"7",
-                "name":"Markey, Edward",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14435":{
-                "district":"7",
-                "name":"Markey, Edward",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14435":{
-                "district":"7",
-                "name":"Markey, Edward",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14435":{
-                "district":"7",
-                "name":"Markey, Edward",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14435":{
-                "district":"7",
-                "name":"Markey, Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ma"
 },
   "bbox": [
     -71.33367,

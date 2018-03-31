@@ -1,35 +1,13 @@
 {
-  "id": "ma_45_to_47_04",
+  "id": "ma_45_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"025045047004",
-    "member":{
-        "45":{
-            "6736":{
-                "district":"4",
-                "name":"Morse, Leopold",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "6736":{
-                "district":"4",
-                "name":"Morse, Leopold",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "6736":{
-                "district":"4",
-                "name":"Morse, Leopold",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"ma"
 },
   "bbox": [
     -71.09116,

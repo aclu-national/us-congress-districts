@@ -2,53 +2,12 @@
   "id": "pa_68_to_72_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"72",
-    "id":"042068072010",
-    "member":{
-        "68":{
-            "3816":{
-                "district":"10",
-                "name":"Griest, William Walton",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "3816":{
-                "district":"10",
-                "name":"Griest, William Walton",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "3816":{
-                "district":"10",
-                "name":"Griest, William Walton",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "3816":{
-                "district":"10",
-                "name":"Griest, William Walton",
-                "party":"Republican"
-            },
-            "5288":{
-                "district":"10",
-                "name":"Kinzer, John Roland",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5288":{
-                "district":"10",
-                "name":"Kinzer, John Roland",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

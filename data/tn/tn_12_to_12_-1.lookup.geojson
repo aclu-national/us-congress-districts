@@ -2,14 +2,12 @@
   "id": "tn_12_to_12_-1",
   "type": "Feature",
   "properties": {
-    "district":"-1",
-    "endcong":"12",
-    "id":"0470120120-1",
-    "member":{
-        "12":[]
-    },
-    "startcong":"12",
-    "statename":"Tennessee"
+    "district":-1,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1811-11-04",
+    "start_session":12,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

@@ -1,89 +1,13 @@
 {
-  "id": "nj_63_to_72_06",
+  "id": "nj_63_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"034063072006",
-    "member":{
-        "63":{
-            "4141":{
-                "district":"6",
-                "name":"Hart, Archibald Chapman",
-                "party":"Democrat"
-            },
-            "6035":{
-                "district":"6",
-                "name":"Martin, Lewis J.",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4141":{
-                "district":"6",
-                "name":"Hart, Archibald Chapman",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "7704":{
-                "district":"6",
-                "name":"Ramsey, John Rathbone",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "7704":{
-                "district":"6",
-                "name":"Ramsey, John Rathbone",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "7350":{
-                "district":"6",
-                "name":"Perkins, Randolph",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "7350":{
-                "district":"6",
-                "name":"Perkins, Randolph",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "7350":{
-                "district":"6",
-                "name":"Perkins, Randolph",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "7350":{
-                "district":"6",
-                "name":"Perkins, Randolph",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "7350":{
-                "district":"6",
-                "name":"Perkins, Randolph",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "7350":{
-                "district":"6",
-                "name":"Perkins, Randolph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New Jersey"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nj"
 },
   "bbox": [
     -75.20392,

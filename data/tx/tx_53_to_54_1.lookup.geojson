@@ -1,28 +1,13 @@
 {
-  "id": "tx_53_to_54_01",
+  "id": "tx_53_to_54_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"54",
-    "id":"048053054001",
-    "member":{
-        "53":{
-            "4777":{
-                "district":"1",
-                "name":"Hutcheson, Joseph Chappell",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "4777":{
-                "district":"1",
-                "name":"Hutcheson, Joseph Chappell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"tx"
 },
   "bbox": [
     -96.49671,

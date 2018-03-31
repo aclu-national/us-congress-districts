@@ -1,49 +1,13 @@
 {
-  "id": "mi_43_to_47_08",
+  "id": "mi_43_to_47_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"47",
-    "id":"026043047008",
-    "member":{
-        "43":{
-            "955":{
-                "district":"8",
-                "name":"Bradley, Nathan Ball",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "955":{
-                "district":"8",
-                "name":"Bradley, Nathan Ball",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "2933":{
-                "district":"8",
-                "name":"Ellsworth, Charles Clinton",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "4585":{
-                "district":"8",
-                "name":"Horr, Roswell Gilbert",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "4585":{
-                "district":"8",
-                "name":"Horr, Roswell Gilbert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Michigan"
+    "district":8,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"mi"
 },
   "bbox": [
     -85.56298,

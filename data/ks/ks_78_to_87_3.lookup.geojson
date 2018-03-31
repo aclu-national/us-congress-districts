@@ -1,89 +1,13 @@
 {
-  "id": "ks_78_to_87_03",
+  "id": "ks_78_to_87_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"87",
-    "id":"020078087003",
-    "member":{
-        "78":{
-            "10283":{
-                "district":"3",
-                "name":"Winter, Thomas Daniel",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "10283":{
-                "district":"3",
-                "name":"Winter, Thomas Daniel",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "6449":{
-                "district":"3",
-                "name":"Meyer, Herbert Alton",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3534":{
-                "district":"3",
-                "name":"George, Myron Virgil",
-                "party":"Republican"
-            },
-            "6449":{
-                "district":"3",
-                "name":"Meyer, Herbert Alton",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "3534":{
-                "district":"3",
-                "name":"George, Myron Virgil",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "3534":{
-                "district":"3",
-                "name":"George, Myron Virgil",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "3534":{
-                "district":"3",
-                "name":"George, Myron Virgil",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "3534":{
-                "district":"3",
-                "name":"George, Myron Virgil",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "4071":{
-                "district":"3",
-                "name":"Hargis, Denver David",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10536":{
-                "district":"3",
-                "name":"McVey, Walter L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Kansas"
+    "district":3,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ks"
 },
   "bbox": [
     -97.15327,

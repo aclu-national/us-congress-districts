@@ -1,47 +1,13 @@
 {
-  "id": "va_49_to_52_04",
+  "id": "va_49_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"051049052004",
-    "member":{
-        "49":{
-            "963":{
-                "district":"4",
-                "name":"Brady, James Dennis",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "3427":{
-                "district":"4",
-                "name":"Gaines, William Embre",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "5456":{
-                "district":"4",
-                "name":"Langston, John Mercer",
-                "party":"Republican"
-            },
-            "9660":{
-                "district":"4",
-                "name":"Venable, Edward Carringto",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "2975":{
-                "district":"4",
-                "name":"Epes, James Fletcher",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"va"
 },
   "bbox": [
     -78.74044,

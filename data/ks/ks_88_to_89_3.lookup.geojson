@@ -1,28 +1,13 @@
 {
-  "id": "ks_88_to_89_03",
+  "id": "ks_88_to_89_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"89",
-    "id":"020088089003",
-    "member":{
-        "88":{
-            "10516":{
-                "district":"3",
-                "name":"Ellsworth, Robert F.",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10516":{
-                "district":"3",
-                "name":"Ellsworth, Robert F.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Kansas"
+    "district":3,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ks"
 },
   "bbox": [
     -95.59836,

@@ -1,21 +1,13 @@
 {
-  "id": "ks_48_to_48_01",
+  "id": "ks_48_to_48_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"48",
-    "id":"020048048001",
-    "member":{
-        "48":{
-            "172":{
-                "district":"1",
-                "name":"Anderson, John Alexander",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Kansas"
+    "district":1,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ks"
 },
   "bbox": [
     -102.05177,

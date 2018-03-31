@@ -1,49 +1,13 @@
 {
-  "id": "ky_43_to_47_08",
+  "id": "ky_43_to_47_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"47",
-    "id":"021043047008",
-    "member":{
-        "43":{
-            "2792":{
-                "district":"8",
-                "name":"Durham, Milton Jameson",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "2792":{
-                "district":"8",
-                "name":"Durham, Milton Jameson",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "2792":{
-                "district":"8",
-                "name":"Durham, Milton Jameson",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "9334":{
-                "district":"8",
-                "name":"Thompson, Philip Burton, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "9334":{
-                "district":"8",
-                "name":"Thompson, Philip Burton, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Kentucky"
+    "district":8,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ky"
 },
   "bbox": [
     -85.58696,

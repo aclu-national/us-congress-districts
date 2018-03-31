@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"47",
-    "id":"036044047012",
-    "member":{
-        "44":{
-            "7026":{
-                "district":"12",
-                "name":"Odell, Nathaniel Holmes",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "7552":{
-                "district":"12",
-                "name":"Potter, Clarkson Nott",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "4779":{
-                "district":"12",
-                "name":"Hutchins, Waldo",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "4779":{
-                "district":"12",
-                "name":"Hutchins, Waldo",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -73.9827,

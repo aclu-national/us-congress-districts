@@ -1,21 +1,13 @@
 {
-  "id": "ga_60_to_60_06",
+  "id": "ga_60_to_60_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"60",
-    "id":"013060060006",
-    "member":{
-        "60":{
-            "485":{
-                "district":"6",
-                "name":"Bartlett, Charles Lafayette",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Georgia"
+    "district":6,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ga"
 },
   "bbox": [
     -84.62718,

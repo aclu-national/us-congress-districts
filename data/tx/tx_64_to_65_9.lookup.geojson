@@ -1,28 +1,13 @@
 {
-  "id": "tx_64_to_65_09",
+  "id": "tx_64_to_65_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"65",
-    "id":"048064065009",
-    "member":{
-        "64":{
-            "1257":{
-                "district":"9",
-                "name":"Burgess, George Farmer",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Texas"
+    "district":9,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"tx"
 },
   "bbox": [
     -98.19099,

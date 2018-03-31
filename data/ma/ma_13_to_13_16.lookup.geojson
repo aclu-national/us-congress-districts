@@ -2,20 +2,12 @@
   "id": "ma_13_to_13_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"13",
-    "id":"025013013016",
-    "member":{
-        "13":{
-            "2410":{
-                "district":"16",
-                "name":"Davis, Samuel",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Massachusetts"
+    "district":16,
+    "end_date":"1815-03-03",
+    "end_session":13,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ma"
 },
   "bbox": [
     -70.64581,

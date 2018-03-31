@@ -1,35 +1,13 @@
 {
-  "id": "ks_90_to_92_03",
+  "id": "ks_90_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"020090092003",
-    "member":{
-        "90":{
-            "11057":{
-                "district":"3",
-                "name":"Winn, Larry, Jr.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11057":{
-                "district":"3",
-                "name":"Winn, Larry, Jr.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11057":{
-                "district":"3",
-                "name":"Winn, Larry, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Kansas"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"ks"
 },
   "bbox": [
     -95.51925,

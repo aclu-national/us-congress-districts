@@ -2,27 +2,12 @@
   "id": "ga_108_to_109_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"109",
-    "id":"013108109011",
-    "member":{
-        "108":{
-            "20319":{
-                "district":"11",
-                "name":"Gingrey, Phil",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20319":{
-                "district":"11",
-                "name":"Gingrey, Phil",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Georgia"
+    "district":11,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ga"
 },
   "bbox": [
     -85.52726,

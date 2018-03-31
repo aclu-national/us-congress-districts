@@ -1,35 +1,13 @@
 {
-  "id": "pa_30_to_32_07",
+  "id": "pa_30_to_32_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"32",
-    "id":"042030032007",
-    "member":{
-        "30":{
-            "6273":{
-                "district":"7",
-                "name":"McIlvaine, Abraham Robinson",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "2565":{
-                "district":"7",
-                "name":"Dickey, Jesse Column",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "6723":{
-                "district":"7",
-                "name":"Morrison, John Alexander",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -76.13638,

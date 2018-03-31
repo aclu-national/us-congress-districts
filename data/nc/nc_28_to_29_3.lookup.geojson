@@ -1,28 +1,13 @@
 {
-  "id": "nc_28_to_29_03",
+  "id": "nc_28_to_29_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"29",
-    "id":"037028029003",
-    "member":{
-        "28":{
-            "7808":{
-                "district":"3",
-                "name":"Reid, David Settle",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "7808":{
-                "district":"3",
-                "name":"Reid, David Settle",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"nc"
 },
   "bbox": [
     -81.97604,

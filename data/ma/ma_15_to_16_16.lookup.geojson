@@ -2,27 +2,12 @@
   "id": "ma_15_to_16_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"16",
-    "id":"025015016016",
-    "member":{
-        "15":{
-            "7085":{
-                "district":"16",
-                "name":"Orr, Benjamin",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "4419":{
-                "district":"16",
-                "name":"Hill, Mark Langdon",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Massachusetts"
+    "district":16,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"ma"
 },
   "bbox": [
     -70.0515,

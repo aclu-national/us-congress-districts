@@ -1,42 +1,13 @@
 {
-  "id": "md_29_to_32_06",
+  "id": "md_29_to_32_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"32",
-    "id":"024029032006",
-    "member":{
-        "29":{
-            "5755":{
-                "district":"6",
-                "name":"Long, Edward Henry Carrol",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "2176":{
-                "district":"6",
-                "name":"Crisfield, John Woodland",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "5207":{
-                "district":"6",
-                "name":"Kerr, John Bozman",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "2085":{
-                "district":"6",
-                "name":"Cottman, Joseph Stewart",
-                "party":"Ind. Whig"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"md"
 },
   "bbox": [
     -76.38376,

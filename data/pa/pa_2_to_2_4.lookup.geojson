@@ -1,21 +1,13 @@
 {
-  "id": "pa_2_to_2_04",
+  "id": "pa_2_to_2_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"2",
-    "id":"042002002004",
-    "member":{
-        "2":{
-            "4390":{
-                "district":"4",
-                "name":"Hiester, Daniel",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"2",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1791-03-04",
+    "start_session":2,
+    "state":"pa"
 },
   "bbox": [
     -76.92708,

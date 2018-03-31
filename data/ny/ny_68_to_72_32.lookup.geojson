@@ -2,58 +2,12 @@
   "id": "ny_68_to_72_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"72",
-    "id":"036068072032",
-    "member":{
-        "68":{
-            "6762":{
-                "district":"32",
-                "name":"Mott, Luther Wright",
-                "party":"Republican"
-            },
-            "9119":{
-                "district":"32",
-                "name":"Sweet, Thaddeus C.",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9119":{
-                "district":"32",
-                "name":"Sweet, Thaddeus C.",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "2234":{
-                "district":"32",
-                "name":"Culkin, Francis Dugan",
-                "party":"Republican"
-            },
-            "9119":{
-                "district":"32",
-                "name":"Sweet, Thaddeus C.",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2234":{
-                "district":"32",
-                "name":"Culkin, Francis Dugan",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2234":{
-                "district":"32",
-                "name":"Culkin, Francis Dugan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":32,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

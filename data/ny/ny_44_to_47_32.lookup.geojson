@@ -2,46 +2,12 @@
   "id": "ny_44_to_47_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"47",
-    "id":"036044047032",
-    "member":{
-        "44":{
-            "502":{
-                "district":"32",
-                "name":"Bass, Lyman Kidder",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "5737":{
-                "district":"32",
-                "name":"Lockwood, Daniel Newton",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "7438":{
-                "district":"32",
-                "name":"Pierce, Ray Vaughn",
-                "party":"Republican"
-            },
-            "8315":{
-                "district":"32",
-                "name":"Scoville, Jonathan",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "8315":{
-                "district":"32",
-                "name":"Scoville, Jonathan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":32,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

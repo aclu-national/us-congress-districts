@@ -1,49 +1,13 @@
 {
-  "id": "il_58_to_62_03",
+  "id": "il_58_to_62_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"62",
-    "id":"017058062003",
-    "member":{
-        "58":{
-            "10263":{
-                "district":"3",
-                "name":"Wilson, William Warfield",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "10263":{
-                "district":"3",
-                "name":"Wilson, William Warfield",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "10263":{
-                "district":"3",
-                "name":"Wilson, William Warfield",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "10263":{
-                "district":"3",
-                "name":"Wilson, William Warfield",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "10263":{
-                "district":"3",
-                "name":"Wilson, William Warfield",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":3,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -88.02916,

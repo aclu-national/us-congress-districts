@@ -1,35 +1,13 @@
 {
-  "id": "oh_100_to_102_08",
+  "id": "oh_100_to_102_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"102",
-    "id":"039100102008",
-    "member":{
-        "100":{
-            "11028":{
-                "district":"8",
-                "name":"Lukens, Donald E.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "11028":{
-                "district":"8",
-                "name":"Lukens, Donald E.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "29137":{
-                "district":"8",
-                "name":"Boehner, John A.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"100",
-    "statename":"Ohio"
+    "district":8,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1987-01-06",
+    "start_session":100,
+    "state":"oh"
 },
   "bbox": [
     -84.8195,

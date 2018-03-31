@@ -1,105 +1,13 @@
 {
-  "id": "ks_60_to_72_08",
+  "id": "ks_60_to_72_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"72",
-    "id":"020060072008",
-    "member":{
-        "60":{
-            "6801":{
-                "district":"8",
-                "name":"Murdock, Victor",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "6801":{
-                "district":"8",
-                "name":"Murdock, Victor",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "6801":{
-                "district":"8",
-                "name":"Murdock, Victor",
-                "party":"Republican"
-            }
-        },
-        "63":{
-            "6801":{
-                "district":"8",
-                "name":"Murdock, Victor",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "309":{
-                "district":"8",
-                "name":"Ayres, William Augustus",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "309":{
-                "district":"8",
-                "name":"Ayres, William Augustus",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "309":{
-                "district":"8",
-                "name":"Ayres, William Augustus",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "724":{
-                "district":"8",
-                "name":"Bird, Richard Ely",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "309":{
-                "district":"8",
-                "name":"Ayres, William Augustus",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "309":{
-                "district":"8",
-                "name":"Ayres, William Augustus",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "309":{
-                "district":"8",
-                "name":"Ayres, William Augustus",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "309":{
-                "district":"8",
-                "name":"Ayres, William Augustus",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "309":{
-                "district":"8",
-                "name":"Ayres, William Augustus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Kansas"
+    "district":8,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ks"
 },
   "bbox": [
     -97.92543,

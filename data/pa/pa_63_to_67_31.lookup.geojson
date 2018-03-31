@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"67",
-    "id":"042063067031",
-    "member":{
-        "63":{
-            "1266":{
-                "district":"31",
-                "name":"Burke, James Francis",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "6688":{
-                "district":"31",
-                "name":"Morin, John Mary",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "6688":{
-                "district":"31",
-                "name":"Morin, John Mary",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6688":{
-                "district":"31",
-                "name":"Morin, John Mary",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6688":{
-                "district":"31",
-                "name":"Morin, John Mary",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":31,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -80.0175,

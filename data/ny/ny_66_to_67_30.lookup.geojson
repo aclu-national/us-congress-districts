@@ -2,27 +2,12 @@
   "id": "ny_66_to_67_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"67",
-    "id":"036066067030",
-    "member":{
-        "66":{
-            "2215":{
-                "district":"30",
-                "name":"Crowther, Frank",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "2215":{
-                "district":"30",
-                "name":"Crowther, Frank",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":30,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -74.86771,

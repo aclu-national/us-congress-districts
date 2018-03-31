@@ -2,48 +2,12 @@
   "id": "il_43_to_47_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"47",
-    "id":"017043047012",
-    "member":{
-        "43":{
-            "7976":{
-                "district":"12",
-                "name":"Robinson, James Carroll",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "8815":{
-                "district":"12",
-                "name":"Springer, William McKendree",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "8815":{
-                "district":"12",
-                "name":"Springer, William McKendree",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "8815":{
-                "district":"12",
-                "name":"Springer, William McKendree",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "8815":{
-                "district":"12",
-                "name":"Springer, William McKendree",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":12,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -90.64611,

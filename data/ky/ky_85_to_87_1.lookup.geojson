@@ -1,35 +1,13 @@
 {
-  "id": "ky_85_to_87_01",
+  "id": "ky_85_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"021085087001",
-    "member":{
-        "85":{
-            "3809":{
-                "district":"1",
-                "name":"Gregory, Noble Jones",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "9056":{
-                "district":"1",
-                "name":"Stubblefield, Frank Albert",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "9056":{
-                "district":"1",
-                "name":"Stubblefield, Frank Albert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"85",
-    "statename":"Kentucky"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1957-01-03",
+    "start_session":85,
+    "state":"ky"
 },
   "bbox": [
     -89.57151,

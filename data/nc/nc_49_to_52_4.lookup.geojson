@@ -1,42 +1,13 @@
 {
-  "id": "nc_49_to_52_04",
+  "id": "nc_49_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"037049052004",
-    "member":{
-        "49":{
-            "2120":{
-                "district":"4",
-                "name":"Cox, William Ruffin",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "6918":{
-                "district":"4",
-                "name":"Nichols, John",
-                "party":"Independent"
-            }
-        },
-        "51":{
-            "1240":{
-                "district":"4",
-                "name":"Bunn, Benjamin Hickman",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "1240":{
-                "district":"4",
-                "name":"Bunn, Benjamin Hickman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"nc"
 },
   "bbox": [
     -79.5559,

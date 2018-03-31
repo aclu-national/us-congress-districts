@@ -2,41 +2,12 @@
   "id": "tx_99_to_102_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"102",
-    "id":"048099102015",
-    "member":{
-        "100":{
-            "10716":{
-                "district":"15",
-                "name":"De La Garza, Eligio",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "10716":{
-                "district":"15",
-                "name":"De La Garza, Eligio",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "10716":{
-                "district":"15",
-                "name":"De La Garza, Eligio",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "10716":{
-                "district":"15",
-                "name":"De La Garza, Eligio",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Texas"
+    "district":15,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"tx"
 },
   "bbox": [
     -99.45348,

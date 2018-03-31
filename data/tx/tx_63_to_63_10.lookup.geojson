@@ -2,25 +2,12 @@
   "id": "tx_63_to_63_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"63",
-    "id":"048063063010",
-    "member":{
-        "63":{
-            "1188":{
-                "district":"10",
-                "name":"Buchanan, James Paul",
-                "party":"Democrat"
-            },
-            "1281":{
-                "district":"10",
-                "name":"Burleson, Albert Sidney",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Texas"
+    "district":10,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"tx"
 },
   "bbox": [
     -98.2976,

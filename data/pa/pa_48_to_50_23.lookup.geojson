@@ -2,34 +2,12 @@
   "id": "pa_48_to_50_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"50",
-    "id":"042048050023",
-    "member":{
-        "48":{
-            "536":{
-                "district":"23",
-                "name":"Bayne, Thomas McKee",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "536":{
-                "district":"23",
-                "name":"Bayne, Thomas McKee",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "536":{
-                "district":"23",
-                "name":"Bayne, Thomas McKee",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":23,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -80.36087,

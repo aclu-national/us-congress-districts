@@ -1,42 +1,13 @@
 {
-  "id": "va_19_to_22_05",
+  "id": "va_19_to_22_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"22",
-    "id":"051019022005",
-    "member":{
-        "19":{
-            "2223":{
-                "district":"5",
-                "name":"Crump, George William",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "7723":{
-                "district":"5",
-                "name":"Randolph, John",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "880":{
-                "district":"5",
-                "name":"Bouldin, Thomas Tyler",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "880":{
-                "district":"5",
-                "name":"Bouldin, Thomas Tyler",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -78.96371,

@@ -1,21 +1,13 @@
 {
-  "id": "nc_56_to_56_03",
+  "id": "nc_56_to_56_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"56",
-    "id":"037056056003",
-    "member":{
-        "56":{
-            "9287":{
-                "district":"3",
-                "name":"Thomas, Charles Randolph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1901-03-03",
+    "end_session":56,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"nc"
 },
   "bbox": [
     -79.76934,

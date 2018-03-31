@@ -2,48 +2,12 @@
   "id": "nc_98_to_102_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"102",
-    "id":"037098102011",
-    "member":{
-        "100":{
-            "15017":{
-                "district":"11",
-                "name":"Clarke, James McClure",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15017":{
-                "district":"11",
-                "name":"Clarke, James McClure",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "29135":{
-                "district":"11",
-                "name":"Taylor, Charles H.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "15017":{
-                "district":"11",
-                "name":"Clarke, James McClure",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14832":{
-                "district":"11",
-                "name":"Hendon, William M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"North Carolina"
+    "district":11,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"nc"
 },
   "bbox": [
     -84.32194,

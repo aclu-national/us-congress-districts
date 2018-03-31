@@ -1,49 +1,13 @@
 {
-  "id": "ky_93_to_97_06",
+  "id": "ky_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"021093097006",
-    "member":{
-        "93":{
-            "14006":{
-                "district":"6",
-                "name":"Breckinridge, John",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14006":{
-                "district":"6",
-                "name":"Breckinridge, John",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14006":{
-                "district":"6",
-                "name":"Breckinridge, John",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14635":{
-                "district":"6",
-                "name":"Hopkins, Larry Jones",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14635":{
-                "district":"6",
-                "name":"Hopkins, Larry Jones",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ky"
 },
   "bbox": [
     -85.46746,

@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"62",
-    "id":"036058062019",
-    "member":{
-        "58":{
-            "7111":{
-                "district":"19",
-                "name":"Otis, Norton Prentiss",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "204":{
-                "district":"19",
-                "name":"Andrus, John Emory",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "204":{
-                "district":"19",
-                "name":"Andrus, John Emory",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "204":{
-                "district":"19",
-                "name":"Andrus, John Emory",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "204":{
-                "district":"19",
-                "name":"Andrus, John Emory",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":19,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -73.9827,

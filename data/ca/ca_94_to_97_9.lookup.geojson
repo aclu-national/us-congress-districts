@@ -1,42 +1,13 @@
 {
-  "id": "ca_94_to_97_09",
+  "id": "ca_94_to_97_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"97",
-    "id":"006094097009",
-    "member":{
-        "94":{
-            "14053":{
-                "district":"9",
-                "name":"Stark, Fortney \"Pete\"",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14053":{
-                "district":"9",
-                "name":"Stark, Fortney \"Pete\"",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14053":{
-                "district":"9",
-                "name":"Stark, Fortney \"Pete\"",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14053":{
-                "district":"9",
-                "name":"Stark, Fortney \"Pete\"",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":9,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -122.33238,

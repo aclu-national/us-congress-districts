@@ -1,21 +1,13 @@
 {
-  "id": "ny_65_to_65_05",
+  "id": "ny_65_to_65_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"65",
-    "id":"036065065005",
-    "member":{
-        "65":{
-            "5922":{
-                "district":"5",
-                "name":"Maher, James Paul",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -73.99552,

@@ -2,48 +2,12 @@
   "id": "ma_33_to_37_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"37",
-    "id":"025033037011",
-    "member":{
-        "33":{
-            "3680":{
-                "district":"11",
-                "name":"Goodrich, John Zacheus",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "9454":{
-                "district":"11",
-                "name":"Trafton, Mark",
-                "party":"American"
-            }
-        },
-        "35":{
-            "2423":{
-                "district":"11",
-                "name":"Dawes, Henry Laurens",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "2423":{
-                "district":"11",
-                "name":"Dawes, Henry Laurens",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "2423":{
-                "district":"11",
-                "name":"Dawes, Henry Laurens",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ma"
 },
   "bbox": [
     -73.50814,

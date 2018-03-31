@@ -1,42 +1,13 @@
 {
-  "id": "tx_58_to_61_02",
+  "id": "tx_58_to_61_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"61",
-    "id":"048058061002",
-    "member":{
-        "58":{
-            "2055":{
-                "district":"2",
-                "name":"Cooper, Samuel Bronson",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "1068":{
-                "district":"2",
-                "name":"Broocks, Moses Lycurgus",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "2055":{
-                "district":"2",
-                "name":"Cooper, Samuel Bronson",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "2587":{
-                "district":"2",
-                "name":"Dies, Martin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Texas"
+    "district":2,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"tx"
 },
   "bbox": [
     -95.46224,

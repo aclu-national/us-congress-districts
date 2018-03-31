@@ -1,47 +1,13 @@
 {
-  "id": "va_49_to_52_03",
+  "id": "va_49_to_52_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"52",
-    "id":"051049052003",
-    "member":{
-        "49":{
-            "10285":{
-                "district":"3",
-                "name":"Wise, George Douglas",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "10285":{
-                "district":"3",
-                "name":"Wise, George Douglas",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "10285":{
-                "district":"3",
-                "name":"Wise, George Douglas",
-                "party":"Democrat"
-            },
-            "9696":{
-                "district":"3",
-                "name":"Waddill, Edmund, Jr.",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "10285":{
-                "district":"3",
-                "name":"Wise, George Douglas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Virginia"
+    "district":3,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"va"
 },
   "bbox": [
     -78.15935,

@@ -1,21 +1,13 @@
 {
-  "id": "nc_57_to_57_01",
+  "id": "nc_57_to_57_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"57",
-    "id":"037057057001",
-    "member":{
-        "57":{
-            "8588":{
-                "district":"1",
-                "name":"Small, John Humphrey",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"57",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1901-03-04",
+    "start_session":57,
+    "state":"nc"
 },
   "bbox": [
     -77.7005,

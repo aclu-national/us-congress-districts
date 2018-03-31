@@ -1,74 +1,13 @@
 {
-  "id": "nd_58_to_62_00",
+  "id": "nd_58_to_62_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"62",
-    "id":"038058062000",
-    "member":{
-        "58":{
-            "6009":{
-                "district":"98",
-                "name":"Marshall, Thomas Frank",
-                "party":"Republican"
-            },
-            "8758":{
-                "district":"98",
-                "name":"Spalding, Burleigh Folsom",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "3849":{
-                "district":"98",
-                "name":"Gronna, Asle Jorgenson",
-                "party":"Republican"
-            },
-            "6009":{
-                "district":"98",
-                "name":"Marshall, Thomas Frank",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3849":{
-                "district":"98",
-                "name":"Gronna, Asle Jorgenson",
-                "party":"Republican"
-            },
-            "6009":{
-                "district":"98",
-                "name":"Marshall, Thomas Frank",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3849":{
-                "district":"98",
-                "name":"Gronna, Asle Jorgenson",
-                "party":"Republican"
-            },
-            "4038":{
-                "district":"98",
-                "name":"Hanna, Louis Benjamin",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "4038":{
-                "district":"98",
-                "name":"Hanna, Louis Benjamin",
-                "party":"Republican"
-            },
-            "4289":{
-                "district":"98",
-                "name":"Helgesen, Henry Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"North Dakota"
+    "district":0,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"nd"
 },
   "bbox": [
     -104.04891,

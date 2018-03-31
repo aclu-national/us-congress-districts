@@ -2,48 +2,12 @@
   "id": "il_43_to_47_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"47",
-    "id":"017043047019",
-    "member":{
-        "43":{
-            "6006":{
-                "district":"19",
-                "name":"Marshall, Samuel Scott",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "185":{
-                "district":"19",
-                "name":"Anderson, William Black",
-                "party":"Independent"
-            }
-        },
-        "45":{
-            "9443":{
-                "district":"19",
-                "name":"Townshend, Richard Wellington",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "9443":{
-                "district":"19",
-                "name":"Townshend, Richard Wellington",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "9443":{
-                "district":"19",
-                "name":"Townshend, Richard Wellington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":19,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -89.17851,

@@ -1,35 +1,13 @@
 {
-  "id": "vt_19_to_21_03",
+  "id": "vt_19_to_21_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"21",
-    "id":"050019021003",
-    "member":{
-        "19":{
-            "9732":{
-                "district":"3",
-                "name":"Wales, George Edward",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "9732":{
-                "district":"3",
-                "name":"Wales, George Edward",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "3027":{
-                "district":"3",
-                "name":"Everett, Horace",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Vermont"
+    "district":3,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"vt"
 },
   "bbox": [
     -72.87455,

@@ -2,27 +2,12 @@
   "id": "oh_91_to_92_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"92",
-    "id":"039091092024",
-    "member":{
-        "91":{
-            "11028":{
-                "district":"24",
-                "name":"Lukens, Donald E.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13034":{
-                "district":"24",
-                "name":"Powell, Walter",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Ohio"
+    "district":24,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"oh"
 },
   "bbox": [
     -84.82018,

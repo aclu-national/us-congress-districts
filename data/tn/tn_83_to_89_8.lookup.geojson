@@ -1,68 +1,13 @@
 {
-  "id": "tn_83_to_89_08",
+  "id": "tn_83_to_89_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"89",
-    "id":"047083089008",
-    "member":{
-        "83":{
-            "2049":{
-                "district":"8",
-                "name":"Cooper, Jere",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "2049":{
-                "district":"8",
-                "name":"Cooper, Jere",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "2049":{
-                "district":"8",
-                "name":"Cooper, Jere",
-                "party":"Democrat"
-            },
-            "3028":{
-                "district":"8",
-                "name":"Everett, Robert Ashton",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "3028":{
-                "district":"8",
-                "name":"Everett, Robert Ashton",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "3028":{
-                "district":"8",
-                "name":"Everett, Robert Ashton",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "3028":{
-                "district":"8",
-                "name":"Everett, Robert Ashton",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "3028":{
-                "district":"8",
-                "name":"Everett, Robert Ashton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tn"
 },
   "bbox": [
     -90.17926,

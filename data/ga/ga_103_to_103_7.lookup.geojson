@@ -1,21 +1,13 @@
 {
-  "id": "ga_103_to_103_07",
+  "id": "ga_103_to_103_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"103",
-    "id":"013103103007",
-    "member":{
-        "103":{
-            "15081":{
-                "district":"7",
-                "name":"Darden, George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"1994-12-01",
+    "end_session":103,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ga"
 },
   "bbox": [
     -85.5273,

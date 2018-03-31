@@ -1,26 +1,13 @@
 {
-  "id": "tx_50_to_50_02",
+  "id": "tx_50_to_50_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"50",
-    "id":"048050050002",
-    "member":{
-        "50":{
-            "6043":{
-                "district":"2",
-                "name":"Martin, William Harrison",
-                "party":"Democrat"
-            },
-            "7769":{
-                "district":"2",
-                "name":"Reagan, John Henninger",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Texas"
+    "district":2,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"tx"
 },
   "bbox": [
     -96.83099,

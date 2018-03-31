@@ -2,48 +2,12 @@
   "id": "nc_8_to_12_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"12",
-    "id":"037008012011",
-    "member":{
-        "10":{
-            "4519":{
-                "district":"11",
-                "name":"Holland, James",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "4519":{
-                "district":"11",
-                "name":"Holland, James",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "7427":{
-                "district":"11",
-                "name":"Pickens, Israel",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "4519":{
-                "district":"11",
-                "name":"Holland, James",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "4519":{
-                "district":"11",
-                "name":"Holland, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"North Carolina"
+    "district":11,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"nc"
 },
   "bbox": [
     -84.32187,

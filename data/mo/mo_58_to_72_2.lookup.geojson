@@ -1,119 +1,13 @@
 {
-  "id": "mo_58_to_72_02",
+  "id": "mo_58_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"029058072002",
-    "member":{
-        "58":{
-            "8103":{
-                "district":"2",
-                "name":"Rucker, William Waller",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "8103":{
-                "district":"2",
-                "name":"Rucker, William Waller",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "8103":{
-                "district":"2",
-                "name":"Rucker, William Waller",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "8103":{
-                "district":"2",
-                "name":"Rucker, William Waller",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "8103":{
-                "district":"2",
-                "name":"Rucker, William Waller",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "8103":{
-                "district":"2",
-                "name":"Rucker, William Waller",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "8103":{
-                "district":"2",
-                "name":"Rucker, William Waller",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8103":{
-                "district":"2",
-                "name":"Rucker, William Waller",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "8103":{
-                "district":"2",
-                "name":"Rucker, William Waller",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "8103":{
-                "district":"2",
-                "name":"Rucker, William Waller",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "5820":{
-                "district":"2",
-                "name":"Lozier, Ralph Fulton",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "5820":{
-                "district":"2",
-                "name":"Lozier, Ralph Fulton",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "5820":{
-                "district":"2",
-                "name":"Lozier, Ralph Fulton",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "5820":{
-                "district":"2",
-                "name":"Lozier, Ralph Fulton",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "5820":{
-                "district":"2",
-                "name":"Lozier, Ralph Fulton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Missouri"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"mo"
 },
   "bbox": [
     -93.76492,

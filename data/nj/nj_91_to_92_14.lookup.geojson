@@ -2,27 +2,12 @@
   "id": "nj_91_to_92_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"92",
-    "id":"034091092014",
-    "member":{
-        "91":{
-            "2329":{
-                "district":"14",
-                "name":"Daniels, Dominick V.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "2329":{
-                "district":"14",
-                "name":"Daniels, Dominick V.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New Jersey"
+    "district":14,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nj"
 },
   "bbox": [
     -74.16609,

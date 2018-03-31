@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"37",
-    "id":"042033037022",
-    "member":{
-        "33":{
-            "4640":{
-                "district":"22",
-                "name":"Howe, Thomas Marshall",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "7657":{
-                "district":"22",
-                "name":"Purviance, Samuel Anderson",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "7657":{
-                "district":"22",
-                "name":"Purviance, Samuel Anderson",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "6319":{
-                "district":"22",
-                "name":"McKnight, Robert",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "6319":{
-                "district":"22",
-                "name":"McKnight, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":22,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -80.22848,

@@ -1,40 +1,13 @@
 {
-  "id": "in_44_to_46_02",
+  "id": "in_44_to_46_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"46",
-    "id":"018044046002",
-    "member":{
-        "44":{
-            "10152":{
-                "district":"2",
-                "name":"Williams, James Douglas",
-                "party":"Democrat"
-            },
-            "4733":{
-                "district":"2",
-                "name":"Humphreys, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "1872":{
-                "district":"2",
-                "name":"Cobb, Thomas Reed",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "1872":{
-                "district":"2",
-                "name":"Cobb, Thomas Reed",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Indiana"
+    "district":2,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"in"
 },
   "bbox": [
     -87.75683,

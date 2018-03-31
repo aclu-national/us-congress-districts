@@ -1,49 +1,13 @@
 {
-  "id": "ma_98_to_102_06",
+  "id": "ma_98_to_102_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"102",
-    "id":"025098102006",
-    "member":{
-        "100":{
-            "14650":{
-                "district":"6",
-                "name":"Mavroules, Nicholas",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14650":{
-                "district":"6",
-                "name":"Mavroules, Nicholas",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14650":{
-                "district":"6",
-                "name":"Mavroules, Nicholas",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14650":{
-                "district":"6",
-                "name":"Mavroules, Nicholas",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14650":{
-                "district":"6",
-                "name":"Mavroules, Nicholas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ma"
 },
   "bbox": [
     -71.1829,

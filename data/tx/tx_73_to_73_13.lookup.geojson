@@ -2,20 +2,12 @@
   "id": "tx_73_to_73_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"73",
-    "id":"048073073013",
-    "member":{
-        "73":{
-            "6244":{
-                "district":"13",
-                "name":"McFarlane, William Doddridge",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Texas"
+    "district":13,
+    "end_date":"1934-06-18",
+    "end_session":73,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"tx"
 },
   "bbox": [
     -99.4758,

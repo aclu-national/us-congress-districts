@@ -1,42 +1,13 @@
 {
-  "id": "tn_44_to_47_08",
+  "id": "tn_44_to_47_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"47",
-    "id":"047044047008",
-    "member":{
-        "44":{
-            "282":{
-                "district":"8",
-                "name":"Atkins, John Dewitt Clint",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "282":{
-                "district":"8",
-                "name":"Atkins, John Dewitt Clint",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "282":{
-                "district":"8",
-                "name":"Atkins, John Dewitt Clint",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "282":{
-                "district":"8",
-                "name":"Atkins, John Dewitt Clint",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"tn"
 },
   "bbox": [
     -89.07888,

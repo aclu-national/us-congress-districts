@@ -1,35 +1,13 @@
 {
-  "id": "oh_30_to_32_05",
+  "id": "oh_30_to_32_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"32",
-    "id":"039030032005",
-    "member":{
-        "30":{
-            "8242":{
-                "district":"5",
-                "name":"Sawyer, William",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "7555":{
-                "district":"5",
-                "name":"Potter, Emery Davis",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "2845":{
-                "district":"5",
-                "name":"Edgerton, Alfred Peck",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"oh"
 },
   "bbox": [
     -84.80618,

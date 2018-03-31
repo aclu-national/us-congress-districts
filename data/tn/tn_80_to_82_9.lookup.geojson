@@ -1,35 +1,13 @@
 {
-  "id": "tn_80_to_82_09",
+  "id": "tn_80_to_82_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"82",
-    "id":"047080082009",
-    "member":{
-        "80":{
-            "2049":{
-                "district":"9",
-                "name":"Cooper, Jere",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "2049":{
-                "district":"9",
-                "name":"Cooper, Jere",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2049":{
-                "district":"9",
-                "name":"Cooper, Jere",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"80",
-    "statename":"Tennessee"
+    "district":9,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1947-01-03",
+    "start_session":80,
+    "state":"tn"
 },
   "bbox": [
     -90.17926,

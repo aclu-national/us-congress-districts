@@ -1,47 +1,13 @@
 {
-  "id": "ar_49_to_52_01",
+  "id": "ar_49_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"005049052001",
-    "member":{
-        "49":{
-            "2775":{
-                "district":"1",
-                "name":"Dunn, Poindexter",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "2775":{
-                "district":"1",
-                "name":"Dunn, Poindexter",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "1597":{
-                "district":"1",
-                "name":"Cate, William Henderson",
-                "party":"Democrat"
-            },
-            "3089":{
-                "district":"1",
-                "name":"Featherstone, Lewis Porte",
-                "party":"Union Labor"
-            }
-        },
-        "52":{
-            "1597":{
-                "district":"1",
-                "name":"Cate, William Henderson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Arkansas"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ar"
 },
   "bbox": [
     -91.87098,

@@ -1,42 +1,13 @@
 {
-  "id": "mo_34_to_37_06",
+  "id": "mo_34_to_37_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"37",
-    "id":"029034037006",
-    "member":{
-        "34":{
-            "7401":{
-                "district":"6",
-                "name":"Phelps, John Smith",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "7401":{
-                "district":"6",
-                "name":"Phelps, John Smith",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "7401":{
-                "district":"6",
-                "name":"Phelps, John Smith",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "7401":{
-                "district":"6",
-                "name":"Phelps, John Smith",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Missouri"
+    "district":6,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"mo"
 },
   "bbox": [
     -94.61866,

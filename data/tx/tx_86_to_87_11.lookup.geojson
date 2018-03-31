@@ -2,27 +2,12 @@
   "id": "tx_86_to_87_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"87",
-    "id":"048086087011",
-    "member":{
-        "86":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"86",
-    "statename":"Texas"
+    "district":11,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1959-01-07",
+    "start_session":86,
+    "state":"tx"
 },
   "bbox": [
     -98.18001,

@@ -1,42 +1,13 @@
 {
-  "id": "co_64_to_67_02",
+  "id": "co_64_to_67_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"67",
-    "id":"008064067002",
-    "member":{
-        "64":{
-            "9393":{
-                "district":"2",
-                "name":"Timberlake, Charles Bateman",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "9393":{
-                "district":"2",
-                "name":"Timberlake, Charles Bateman",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "9393":{
-                "district":"2",
-                "name":"Timberlake, Charles Bateman",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9393":{
-                "district":"2",
-                "name":"Timberlake, Charles Bateman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Colorado"
+    "district":2,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"co"
 },
   "bbox": [
     -106.19544,

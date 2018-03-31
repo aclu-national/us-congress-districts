@@ -2,53 +2,12 @@
   "id": "pa_38_to_42_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"42",
-    "id":"042038042013",
-    "member":{
-        "38":{
-            "9449":{
-                "district":"13",
-                "name":"Tracy, Henry Wells",
-                "party":"Ind. Republican"
-            }
-        },
-        "39":{
-            "6419":{
-                "district":"13",
-                "name":"Mercur, Ulysses",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "6419":{
-                "district":"13",
-                "name":"Mercur, Ulysses",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "6419":{
-                "district":"13",
-                "name":"Mercur, Ulysses",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "1241":{
-                "district":"13",
-                "name":"Bunnell, Frank Charles",
-                "party":"Republican"
-            },
-            "6419":{
-                "district":"13",
-                "name":"Mercur, Ulysses",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"pa"
 },
   "bbox": [
     -76.92708,

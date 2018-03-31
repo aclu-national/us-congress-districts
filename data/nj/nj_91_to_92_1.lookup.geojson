@@ -1,28 +1,13 @@
 {
-  "id": "nj_91_to_92_01",
+  "id": "nj_91_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"034091092001",
-    "member":{
-        "91":{
-            "11022":{
-                "district":"1",
-                "name":"Hunt, John E.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11022":{
-                "district":"1",
-                "name":"Hunt, John E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New Jersey"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nj"
 },
   "bbox": [
     -75.43042,

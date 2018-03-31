@@ -1,28 +1,13 @@
 {
-  "id": "ma_63_to_64_08",
+  "id": "ma_63_to_64_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"64",
-    "id":"025063064008",
-    "member":{
-        "63":{
-            "2471":{
-                "district":"8",
-                "name":"Deitrick, Frederick Simps",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "2306":{
-                "district":"8",
-                "name":"Dallinger, Frederick William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Massachusetts"
+    "district":8,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ma"
 },
   "bbox": [
     -71.27267,

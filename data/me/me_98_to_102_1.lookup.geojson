@@ -1,49 +1,13 @@
 {
-  "id": "me_98_to_102_01",
+  "id": "me_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"023098102001",
-    "member":{
-        "100":{
-            "15404":{
-                "district":"1",
-                "name":"Brennan, Joseph E",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15404":{
-                "district":"1",
-                "name":"Brennan, Joseph E",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "29121":{
-                "district":"1",
-                "name":"Andrews, Thomas H.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "15042":{
-                "district":"1",
-                "name":"McKernan, John R., Jr.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15042":{
-                "district":"1",
-                "name":"McKernan, John R., Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Maine"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"me"
 },
   "bbox": [
     -70.98955,

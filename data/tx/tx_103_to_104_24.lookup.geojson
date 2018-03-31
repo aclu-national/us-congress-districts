@@ -2,27 +2,12 @@
   "id": "tx_103_to_104_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"104",
-    "id":"048103104024",
-    "member":{
-        "103":{
-            "14626":{
-                "district":"24",
-                "name":"Frost, Jonas Martin III",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "14626":{
-                "district":"24",
-                "name":"Frost, Jonas Martin III",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Texas"
+    "district":24,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"tx"
 },
   "bbox": [
     -97.33131,

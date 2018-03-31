@@ -2,18 +2,12 @@
   "id": "ny_113_to_115_27",
   "type": "Feature",
   "properties": {
-    "ALAND":10290387280,
-    "AWATER":3222827534,
-    "CD113FP":"27",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3627",
-    "INTPTLAT":"+43.0008504",
-    "INTPTLON":"-078.3168825",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 27",
-    "STATEFP":"36"
+    "district":27,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ny"
 },
   "bbox": [
     -79.312136,

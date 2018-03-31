@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"97",
-    "id":"006094097016",
-    "member":{
-        "94":{
-            "10631":{
-                "district":"16",
-                "name":"Talcott, Burt L.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14444":{
-                "district":"16",
-                "name":"Panetta, Leon",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14444":{
-                "district":"16",
-                "name":"Panetta, Leon",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14444":{
-                "district":"16",
-                "name":"Panetta, Leon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":16,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -122.31768,

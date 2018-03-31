@@ -2,48 +2,12 @@
   "id": "oh_108_to_112_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"112",
-    "id":"039108112018",
-    "member":{
-        "108":{
-            "29552":{
-                "district":"18",
-                "name":"Ney, Robert W.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29552":{
-                "district":"18",
-                "name":"Ney, Robert W.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20741":{
-                "district":"18",
-                "name":"Space, Zachary T.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20741":{
-                "district":"18",
-                "name":"Space, Zachary T.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21165":{
-                "district":"18",
-                "name":"Gibbs, Bob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Ohio"
+    "district":18,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"oh"
 },
   "bbox": [
     -83.39401,

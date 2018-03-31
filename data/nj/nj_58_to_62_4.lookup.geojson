@@ -1,54 +1,13 @@
 {
-  "id": "nj_58_to_62_04",
+  "id": "nj_58_to_62_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"62",
-    "id":"034058062004",
-    "member":{
-        "58":{
-            "10325":{
-                "district":"4",
-                "name":"Wood, Ira Wells",
-                "party":"Republican"
-            },
-            "5466":{
-                "district":"4",
-                "name":"Lanning, William Mershon",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "10325":{
-                "district":"4",
-                "name":"Wood, Ira Wells",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "10325":{
-                "district":"4",
-                "name":"Wood, Ira Wells",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "10325":{
-                "district":"4",
-                "name":"Wood, Ira Wells",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "10325":{
-                "district":"4",
-                "name":"Wood, Ira Wells",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New Jersey"
+    "district":4,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"nj"
 },
   "bbox": [
     -75.19511,

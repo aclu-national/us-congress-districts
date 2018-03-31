@@ -1,89 +1,13 @@
 {
-  "id": "wv_48_to_57_01",
+  "id": "wv_48_to_57_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"57",
-    "id":"054048057001",
-    "member":{
-        "48":{
-            "3646":{
-                "district":"1",
-                "name":"Goff, Nathan",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "3646":{
-                "district":"1",
-                "name":"Goff, Nathan",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "3646":{
-                "district":"1",
-                "name":"Goff, Nathan",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "284":{
-                "district":"1",
-                "name":"Atkinson, George Wesley",
-                "party":"Republican"
-            },
-            "7321":{
-                "district":"1",
-                "name":"Pendleton, John Overton",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "7321":{
-                "district":"1",
-                "name":"Pendleton, John Overton",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "7321":{
-                "district":"1",
-                "name":"Pendleton, John Overton",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "2696":{
-                "district":"1",
-                "name":"Dovener, Blackburn Barrett",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2696":{
-                "district":"1",
-                "name":"Dovener, Blackburn Barrett",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2696":{
-                "district":"1",
-                "name":"Dovener, Blackburn Barrett",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2696":{
-                "district":"1",
-                "name":"Dovener, Blackburn Barrett",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"West Virginia"
+    "district":1,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"wv"
 },
   "bbox": [
     -81.12153,

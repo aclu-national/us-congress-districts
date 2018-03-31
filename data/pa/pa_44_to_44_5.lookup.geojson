@@ -1,21 +1,13 @@
 {
-  "id": "pa_44_to_44_05",
+  "id": "pa_44_to_44_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"44",
-    "id":"042044044005",
-    "member":{
-        "44":{
-            "7944":{
-                "district":"5",
-                "name":"Robbins, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -75.24101,

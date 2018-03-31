@@ -1,49 +1,13 @@
 {
-  "id": "vt_8_to_12_02",
+  "id": "vt_8_to_12_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"12",
-    "id":"050008012002",
-    "member":{
-        "10":{
-            "2911":{
-                "district":"2",
-                "name":"Elliott, James",
-                "party":"Federalist"
-            }
-        },
-        "11":{
-            "4670":{
-                "district":"2",
-                "name":"Hubbard, Jonathan Hatch",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "9040":{
-                "district":"2",
-                "name":"Strong, William",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "2911":{
-                "district":"2",
-                "name":"Elliott, James",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "2911":{
-                "district":"2",
-                "name":"Elliott, James",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Vermont"
+    "district":2,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"vt"
 },
   "bbox": [
     -73.00806,

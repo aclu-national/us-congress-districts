@@ -2,27 +2,12 @@
   "id": "ca_91_to_92_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"92",
-    "id":"006091092028",
-    "member":{
-        "91":{
-            "10505":{
-                "district":"28",
-                "name":"Bell, Alphonzo",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10505":{
-                "district":"28",
-                "name":"Bell, Alphonzo",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":28,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -118.60585,

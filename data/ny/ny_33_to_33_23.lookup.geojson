@@ -2,20 +2,12 @@
   "id": "ny_33_to_33_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"33",
-    "id":"036033033023",
-    "member":{
-        "33":{
-            "5862":{
-                "district":"23",
-                "name":"Lyon, Caleb",
-                "party":"Independent"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -76.44652,

@@ -1,19 +1,13 @@
 {
-  "id": "ok_113_to_115_05",
+  "id": "ok_113_to_115_5",
   "type": "Feature",
   "properties": {
-    "ALAND":5371387645,
-    "AWATER":59048713,
-    "CD113FP":"05",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4005",
-    "INTPTLAT":"+35.3078792",
-    "INTPTLON":"-096.9896037",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 5",
-    "STATEFP":"40"
+    "district":5,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ok"
 },
   "bbox": [
     -97.674058,

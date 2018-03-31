@@ -2,48 +2,12 @@
   "id": "oh_78_to_82_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"82",
-    "id":"039078082012",
-    "member":{
-        "78":{
-            "9688":{
-                "district":"12",
-                "name":"Vorys, John Martin",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "9688":{
-                "district":"12",
-                "name":"Vorys, John Martin",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "9688":{
-                "district":"12",
-                "name":"Vorys, John Martin",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "9688":{
-                "district":"12",
-                "name":"Vorys, John Martin",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "9688":{
-                "district":"12",
-                "name":"Vorys, John Martin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"oh"
 },
   "bbox": [
     -83.26068,

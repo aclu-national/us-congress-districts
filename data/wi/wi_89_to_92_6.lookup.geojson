@@ -1,42 +1,13 @@
 {
-  "id": "wi_89_to_92_06",
+  "id": "wi_89_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"055089092006",
-    "member":{
-        "89":{
-            "10761":{
-                "district":"6",
-                "name":"Race, John A.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11051":{
-                "district":"6",
-                "name":"Steiger, William A.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11051":{
-                "district":"6",
-                "name":"Steiger, William A.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11051":{
-                "district":"6",
-                "name":"Steiger, William A.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Wisconsin"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"wi"
 },
   "bbox": [
     -89.24573,

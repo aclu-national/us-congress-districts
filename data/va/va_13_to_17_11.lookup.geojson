@@ -2,53 +2,12 @@
   "id": "va_13_to_17_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"17",
-    "id":"051013017011",
-    "member":{
-        "13":{
-            "2426":{
-                "district":"11",
-                "name":"Dawson, John",
-                "party":"Republican"
-            },
-            "424":{
-                "district":"11",
-                "name":"Barbour, Philip Pendleton",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "424":{
-                "district":"11",
-                "name":"Barbour, Philip Pendleton",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "424":{
-                "district":"11",
-                "name":"Barbour, Philip Pendleton",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "424":{
-                "district":"11",
-                "name":"Barbour, Philip Pendleton",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "424":{
-                "district":"11",
-                "name":"Barbour, Philip Pendleton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":11,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -78.66317,

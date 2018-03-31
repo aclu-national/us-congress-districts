@@ -2,76 +2,12 @@
   "id": "tx_74_to_82_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"82",
-    "id":"048074082012",
-    "member":{
-        "74":{
-            "5458":{
-                "district":"12",
-                "name":"Lanham, Fritz Garland",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5458":{
-                "district":"12",
-                "name":"Lanham, Fritz Garland",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "5458":{
-                "district":"12",
-                "name":"Lanham, Fritz Garland",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "5458":{
-                "district":"12",
-                "name":"Lanham, Fritz Garland",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "5458":{
-                "district":"12",
-                "name":"Lanham, Fritz Garland",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "5458":{
-                "district":"12",
-                "name":"Lanham, Fritz Garland",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5826":{
-                "district":"12",
-                "name":"Lucas, Wingate Hezekiah",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "5826":{
-                "district":"12",
-                "name":"Lucas, Wingate Hezekiah",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5826":{
-                "district":"12",
-                "name":"Lucas, Wingate Hezekiah",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":12,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -98.06854,

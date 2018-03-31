@@ -2,53 +2,12 @@
   "id": "mo_53_to_57_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"57",
-    "id":"029053057012",
-    "member":{
-        "53":{
-            "1870":{
-                "district":"12",
-                "name":"Cobb, Seth Wallace",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "1870":{
-                "district":"12",
-                "name":"Cobb, Seth Wallace",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "7280":{
-                "district":"12",
-                "name":"Pearce, Charles Edward",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "7280":{
-                "district":"12",
-                "name":"Pearce, Charles Edward",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "1339":{
-                "district":"12",
-                "name":"Butler, James Joseph",
-                "party":"Democrat"
-            },
-            "9714":{
-                "district":"12",
-                "name":"Wagoner, George Chester Robinson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Missouri"
+    "district":12,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mo"
 },
   "bbox": [
     -90.32051,

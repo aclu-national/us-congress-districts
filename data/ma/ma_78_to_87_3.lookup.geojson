@@ -1,84 +1,13 @@
 {
-  "id": "ma_78_to_87_03",
+  "id": "ma_78_to_87_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"87",
-    "id":"025078087003",
-    "member":{
-        "78":{
-            "7408":{
-                "district":"3",
-                "name":"Philbin, Philip Joseph",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "7408":{
-                "district":"3",
-                "name":"Philbin, Philip Joseph",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "7408":{
-                "district":"3",
-                "name":"Philbin, Philip Joseph",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "7408":{
-                "district":"3",
-                "name":"Philbin, Philip Joseph",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7408":{
-                "district":"3",
-                "name":"Philbin, Philip Joseph",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "7408":{
-                "district":"3",
-                "name":"Philbin, Philip Joseph",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "7408":{
-                "district":"3",
-                "name":"Philbin, Philip Joseph",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "7408":{
-                "district":"3",
-                "name":"Philbin, Philip Joseph",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "7408":{
-                "district":"3",
-                "name":"Philbin, Philip Joseph",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "7408":{
-                "district":"3",
-                "name":"Philbin, Philip Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ma"
 },
   "bbox": [
     -72.3955,

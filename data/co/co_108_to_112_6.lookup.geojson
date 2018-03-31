@@ -1,49 +1,13 @@
 {
-  "id": "co_108_to_112_06",
+  "id": "co_108_to_112_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"112",
-    "id":"008108112006",
-    "member":{
-        "108":{
-            "29907":{
-                "district":"6",
-                "name":"Tancredo, Thomas G.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29907":{
-                "district":"6",
-                "name":"Tancredo, Thomas G.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29907":{
-                "district":"6",
-                "name":"Tancredo, Thomas G.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20906":{
-                "district":"6",
-                "name":"Coffman, Mike",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20906":{
-                "district":"6",
-                "name":"Coffman, Mike",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Colorado"
+    "district":6,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"co"
 },
   "bbox": [
     -105.64341,

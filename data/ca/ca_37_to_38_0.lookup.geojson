@@ -1,48 +1,13 @@
 {
-  "id": "ca_37_to_38_00",
+  "id": "ca_37_to_38_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"38",
-    "id":"006037038000",
-    "member":{
-        "37":{
-            "5804":{
-                "district":"98",
-                "name":"Low, Frederick Ferdinand",
-                "party":"Republican"
-            },
-            "7405":{
-                "district":"98",
-                "name":"Phelps, Timothy Guy",
-                "party":"Republican"
-            },
-            "8218":{
-                "district":"98",
-                "name":"Sargent, Aaron Augustus",
-                "party":"Republican"
-            }
-        },
-        "38":{
-            "1921":{
-                "district":"98",
-                "name":"Cole, Cornelius",
-                "party":"Republican"
-            },
-            "4396":{
-                "district":"98",
-                "name":"Higby, William",
-                "party":"Republican"
-            },
-            "8403":{
-                "district":"98",
-                "name":"Shannon, Thomas Bowles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"37",
-    "statename":"California"
+    "district":0,
+    "end_date":"1865-03-03",
+    "end_session":38,
+    "start_date":"1861-03-04",
+    "start_session":37,
+    "state":"ca"
 },
   "bbox": [
     -124.41501,

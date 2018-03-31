@@ -1,49 +1,13 @@
 {
-  "id": "va_13_to_17_08",
+  "id": "va_13_to_17_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"17",
-    "id":"051013017008",
-    "member":{
-        "13":{
-            "5645":{
-                "district":"8",
-                "name":"Lewis, Joseph Jr.",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "5645":{
-                "district":"8",
-                "name":"Lewis, Joseph Jr.",
-                "party":"Federalist"
-            }
-        },
-        "15":{
-            "6415":{
-                "district":"8",
-                "name":"Mercer, Charles Fenton",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "6415":{
-                "district":"8",
-                "name":"Mercer, Charles Fenton",
-                "party":"Federalist"
-            }
-        },
-        "17":{
-            "6415":{
-                "district":"8",
-                "name":"Mercer, Charles Fenton",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -77.96204,

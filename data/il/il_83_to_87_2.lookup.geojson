@@ -1,49 +1,13 @@
 {
-  "id": "il_83_to_87_02",
+  "id": "il_83_to_87_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"87",
-    "id":"017083087002",
-    "member":{
-        "83":{
-            "7041":{
-                "district":"2",
-                "name":"O'Hara, Barratt",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "7041":{
-                "district":"2",
-                "name":"O'Hara, Barratt",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "7041":{
-                "district":"2",
-                "name":"O'Hara, Barratt",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "7041":{
-                "district":"2",
-                "name":"O'Hara, Barratt",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "7041":{
-                "district":"2",
-                "name":"O'Hara, Barratt",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":2,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -87.62503,

@@ -1,21 +1,13 @@
 {
-  "id": "mi_88_to_88_05",
+  "id": "mi_88_to_88_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"88",
-    "id":"026088088005",
-    "member":{
-        "88":{
-            "3268":{
-                "district":"5",
-                "name":"Ford, Gerald R. Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Michigan"
+    "district":5,
+    "end_date":"1964-10-03",
+    "end_session":88,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mi"
 },
   "bbox": [
     -86.27186,

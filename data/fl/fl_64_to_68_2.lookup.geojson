@@ -1,49 +1,13 @@
 {
-  "id": "fl_64_to_68_02",
+  "id": "fl_64_to_68_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"68",
-    "id":"012064068002",
-    "member":{
-        "64":{
-            "1762":{
-                "district":"2",
-                "name":"Clark, Frank",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "1762":{
-                "district":"2",
-                "name":"Clark, Frank",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "1762":{
-                "district":"2",
-                "name":"Clark, Frank",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1762":{
-                "district":"2",
-                "name":"Clark, Frank",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "1762":{
-                "district":"2",
-                "name":"Clark, Frank",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Florida"
+    "district":2,
+    "end_date":"1925-03-03",
+    "end_session":68,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"fl"
 },
   "bbox": [
     -84.07623,

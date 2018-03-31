@@ -2,53 +2,12 @@
   "id": "il_58_to_62_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"62",
-    "id":"017058062025",
-    "member":{
-        "58":{
-            "8624":{
-                "district":"25",
-                "name":"Smith, George Washington",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "8624":{
-                "district":"25",
-                "name":"Smith, George Washington",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "8624":{
-                "district":"25",
-                "name":"Smith, George Washington",
-                "party":"Republican"
-            },
-            "9282":{
-                "district":"25",
-                "name":"Thistlewood, Napoleon Bonaparte",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "9282":{
-                "district":"25",
-                "name":"Thistlewood, Napoleon Bonaparte",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "9282":{
-                "district":"25",
-                "name":"Thistlewood, Napoleon Bonaparte",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":25,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -90.20669,

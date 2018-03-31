@@ -2,20 +2,12 @@
   "id": "ny_93_to_93_36",
   "type": "Feature",
   "properties": {
-    "district":"36",
-    "endcong":"93",
-    "id":"036093093036",
-    "member":{
-        "93":{
-            "10771":{
-                "district":"36",
-                "name":"Smith, Henry P., III",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New York"
+    "district":36,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

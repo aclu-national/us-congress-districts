@@ -1,21 +1,13 @@
 {
-  "id": "pa_83_to_83_07",
+  "id": "pa_83_to_83_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"83",
-    "id":"042083083007",
-    "member":{
-        "83":{
-            "4880":{
-                "district":"7",
-                "name":"James, Benjamin Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1954-12-02",
+    "end_session":83,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"pa"
 },
   "bbox": [
     -75.60155,

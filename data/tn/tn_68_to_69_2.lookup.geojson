@@ -1,28 +1,13 @@
 {
-  "id": "tn_68_to_69_02",
+  "id": "tn_68_to_69_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"69",
-    "id":"047068069002",
-    "member":{
-        "68":{
-            "9214":{
-                "district":"2",
-                "name":"Taylor, James Willis",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9214":{
-                "district":"2",
-                "name":"Taylor, James Willis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Tennessee"
+    "district":2,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"tn"
 },
   "bbox": [
     -84.78937,

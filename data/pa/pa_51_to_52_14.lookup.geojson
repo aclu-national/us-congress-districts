@@ -2,27 +2,12 @@
   "id": "pa_51_to_52_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"52",
-    "id":"042051052014",
-    "member":{
-        "51":{
-            "7902":{
-                "district":"14",
-                "name":"Rife, John Winebrenner",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "7902":{
-                "district":"14",
-                "name":"Rife, John Winebrenner",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -77.67176,

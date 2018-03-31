@@ -1,77 +1,13 @@
 {
-  "id": "tx_74_to_82_01",
+  "id": "tx_74_to_82_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"82",
-    "id":"048074082001",
-    "member":{
-        "74":{
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -95.86333,

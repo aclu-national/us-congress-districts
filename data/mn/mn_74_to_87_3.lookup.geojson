@@ -1,112 +1,13 @@
 {
-  "id": "mn_74_to_87_03",
+  "id": "mn_74_to_87_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"87",
-    "id":"027074087003",
-    "member":{
-        "74":{
-            "5839":{
-                "district":"3",
-                "name":"Lundeen, Ernest",
-                "party":"Farmer-Labor"
-            }
-        },
-        "75":{
-            "9243":{
-                "district":"3",
-                "name":"Teigan, Henry George",
-                "party":"Farmer-Labor"
-            }
-        },
-        "76":{
-            "85":{
-                "district":"3",
-                "name":"Alexander, John Grant",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "3432":{
-                "district":"3",
-                "name":"Gale, Richard Pillsbury",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "3432":{
-                "district":"3",
-                "name":"Gale, Richard Pillsbury",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "3436":{
-                "district":"3",
-                "name":"Gallagher, William James",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5888":{
-                "district":"3",
-                "name":"MacKinnon, George Edward",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "10092":{
-                "district":"3",
-                "name":"Wier, Roy William",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "10092":{
-                "district":"3",
-                "name":"Wier, Roy William",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "10092":{
-                "district":"3",
-                "name":"Wier, Roy William",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "10092":{
-                "district":"3",
-                "name":"Wier, Roy William",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "10092":{
-                "district":"3",
-                "name":"Wier, Roy William",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "10092":{
-                "district":"3",
-                "name":"Wier, Roy William",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10533":{
-                "district":"3",
-                "name":"MacGregor, Clark",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Minnesota"
+    "district":3,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mn"
 },
   "bbox": [
     -93.76704,

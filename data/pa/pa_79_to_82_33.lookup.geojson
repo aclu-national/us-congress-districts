@@ -2,51 +2,12 @@
   "id": "pa_79_to_82_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"82",
-    "id":"042079082033",
-    "member":{
-        "79":{
-            "1184":{
-                "district":"33",
-                "name":"Buchanan, Frank",
-                "party":"Democrat"
-            },
-            "9921":{
-                "district":"33",
-                "name":"Weiss, Samuel Arthur",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "1184":{
-                "district":"33",
-                "name":"Buchanan, Frank",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "1184":{
-                "district":"33",
-                "name":"Buchanan, Frank",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1184":{
-                "district":"33",
-                "name":"Buchanan, Frank",
-                "party":"Democrat"
-            },
-            "1190":{
-                "district":"33",
-                "name":"Buchanan, Vera Daerr",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":33,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -80.03427,

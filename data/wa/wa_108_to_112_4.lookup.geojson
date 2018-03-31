@@ -1,49 +1,13 @@
 {
-  "id": "wa_108_to_112_04",
+  "id": "wa_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"053108112004",
-    "member":{
-        "108":{
-            "29580":{
-                "district":"4",
-                "name":"Hastings, Richard \"Doc\"",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29580":{
-                "district":"4",
-                "name":"Hastings, Richard \"Doc\"",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29580":{
-                "district":"4",
-                "name":"Hastings, Richard \"Doc\"",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29580":{
-                "district":"4",
-                "name":"Hastings, Richard \"Doc\"",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "29580":{
-                "district":"4",
-                "name":"Hastings, Doc",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Washington"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"wa"
 },
   "bbox": [
     -121.83683,

@@ -2,41 +2,12 @@
   "id": "ny_34_to_37_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"37",
-    "id":"036034037018",
-    "member":{
-        "34":{
-            "4589":{
-                "district":"18",
-                "name":"Horton, Thomas Raymond",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "1885":{
-                "district":"18",
-                "name":"Cochrane, Clark Betton",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "1885":{
-                "district":"18",
-                "name":"Cochrane, Clark Betton",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "9667":{
-                "district":"18",
-                "name":"Vibbard, Chauncey",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":18,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -74.77425,

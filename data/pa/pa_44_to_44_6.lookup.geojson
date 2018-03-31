@@ -1,21 +1,13 @@
 {
-  "id": "pa_44_to_44_06",
+  "id": "pa_44_to_44_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"44",
-    "id":"042044044006",
-    "member":{
-        "44":{
-            "9441":{
-                "district":"6",
-                "name":"Townsend, Washington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -76.13638,

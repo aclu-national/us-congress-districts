@@ -2,51 +2,12 @@
   "id": "va_19_to_22_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"22",
-    "id":"051019022022",
-    "member":{
-        "19":{
-            "2995":{
-                "district":"22",
-                "name":"Estil, Benjamin",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "8715":{
-                "district":"22",
-                "name":"Smyth, Alexander",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2718":{
-                "district":"22",
-                "name":"Draper, Joseph",
-                "party":"Jackson"
-            },
-            "8715":{
-                "district":"22",
-                "name":"Smyth, Alexander",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "2718":{
-                "district":"22",
-                "name":"Draper, Joseph",
-                "party":"Jackson"
-            },
-            "5001":{
-                "district":"22",
-                "name":"Johnston, Charles Clement",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":22,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -83.67541,

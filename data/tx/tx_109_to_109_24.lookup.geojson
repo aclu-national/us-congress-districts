@@ -2,20 +2,12 @@
   "id": "tx_109_to_109_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"109",
-    "id":"048109109024",
-    "member":{
-        "109":{
-            "20532":{
-                "district":"24",
-                "name":"Marchant, Kenny",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Texas"
+    "district":24,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"tx"
 },
   "bbox": [
     -97.20319,

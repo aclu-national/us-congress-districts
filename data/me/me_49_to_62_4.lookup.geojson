@@ -1,117 +1,13 @@
 {
-  "id": "me_49_to_62_04",
+  "id": "me_49_to_62_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"62",
-    "id":"023049062004",
-    "member":{
-        "49":{
-            "888":{
-                "district":"4",
-                "name":"Boutelle, Charles Addison",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "888":{
-                "district":"4",
-                "name":"Boutelle, Charles Addison",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "888":{
-                "district":"4",
-                "name":"Boutelle, Charles Addison",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "888":{
-                "district":"4",
-                "name":"Boutelle, Charles Addison",
-                "party":"Republican"
-            }
-        },
-        "53":{
-            "888":{
-                "district":"4",
-                "name":"Boutelle, Charles Addison",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "888":{
-                "district":"4",
-                "name":"Boutelle, Charles Addison",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "888":{
-                "district":"4",
-                "name":"Boutelle, Charles Addison",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "888":{
-                "district":"4",
-                "name":"Boutelle, Charles Addison",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "7581":{
-                "district":"4",
-                "name":"Powers, Llewellyn",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "7581":{
-                "district":"4",
-                "name":"Powers, Llewellyn",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "7581":{
-                "district":"4",
-                "name":"Powers, Llewellyn",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3870":{
-                "district":"4",
-                "name":"Guernsey, Frank Edward",
-                "party":"Republican"
-            },
-            "7581":{
-                "district":"4",
-                "name":"Powers, Llewellyn",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3870":{
-                "district":"4",
-                "name":"Guernsey, Frank Edward",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "3870":{
-                "district":"4",
-                "name":"Guernsey, Frank Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Maine"
+    "district":4,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"me"
 },
   "bbox": [
     -70.02323,

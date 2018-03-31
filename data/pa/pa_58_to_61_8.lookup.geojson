@@ -1,42 +1,13 @@
 {
-  "id": "pa_58_to_61_08",
+  "id": "pa_58_to_61_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"61",
-    "id":"042058061008",
-    "member":{
-        "58":{
-            "9803":{
-                "district":"8",
-                "name":"Wanger, Irving Price",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "9803":{
-                "district":"8",
-                "name":"Wanger, Irving Price",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "9803":{
-                "district":"8",
-                "name":"Wanger, Irving Price",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "9803":{
-                "district":"8",
-                "name":"Wanger, Irving Price",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"pa"
 },
   "bbox": [
     -75.69679,

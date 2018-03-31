@@ -2,34 +2,12 @@
   "id": "ny_103_to_105_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"105",
-    "id":"036103105019",
-    "member":{
-        "103":{
-            "12013":{
-                "district":"19",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29544":{
-                "district":"19",
-                "name":"Kelly, Sue W.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29544":{
-                "district":"19",
-                "name":"Kelly, Sue W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":19,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -74.34182,

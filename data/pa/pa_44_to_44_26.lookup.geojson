@@ -2,20 +2,12 @@
   "id": "pa_44_to_44_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"44",
-    "id":"042044044026",
-    "member":{
-        "44":{
-            "8424":{
-                "district":"26",
-                "name":"Sheakley, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":26,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

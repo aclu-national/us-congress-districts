@@ -2,34 +2,12 @@
   "id": "va_10_to_12_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"12",
-    "id":"051010012016",
-    "member":{
-        "10":{
-            "2977":{
-                "district":"16",
-                "name":"Eppes, John Wayles",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "2977":{
-                "district":"16",
-                "name":"Eppes, John Wayles",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "7486":{
-                "district":"16",
-                "name":"Pleasants, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"10",
-    "statename":"Virginia"
+    "district":16,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1807-10-26",
+    "start_session":10,
+    "state":"va"
 },
   "bbox": [
     -78.24083,

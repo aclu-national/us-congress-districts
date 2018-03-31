@@ -1,89 +1,13 @@
 {
-  "id": "wv_48_to_57_04",
+  "id": "wv_48_to_57_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"57",
-    "id":"054048057004",
-    "member":{
-        "48":{
-            "3560":{
-                "district":"4",
-                "name":"Gibson, Eustace",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "3560":{
-                "district":"4",
-                "name":"Gibson, Eustace",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "4504":{
-                "district":"4",
-                "name":"Hogg, Charles Edgar",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "4856":{
-                "district":"4",
-                "name":"Jackson, James Monroe",
-                "party":"Democrat"
-            },
-            "8606":{
-                "district":"4",
-                "name":"Smith, Charles Brooks",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "1490":{
-                "district":"4",
-                "name":"Capehart, James",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "1490":{
-                "district":"4",
-                "name":"Capehart, James",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "6515":{
-                "district":"4",
-                "name":"Miller, Warren",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "6515":{
-                "district":"4",
-                "name":"Miller, Warren",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "3360":{
-                "district":"4",
-                "name":"Freer, Romeo Hoyt",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "4702":{
-                "district":"4",
-                "name":"Hughes, James Anthony",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"West Virginia"
+    "district":4,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"wv"
 },
   "bbox": [
     -82.64474,

@@ -1,54 +1,13 @@
 {
-  "id": "ky_13_to_17_01",
+  "id": "ky_13_to_17_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"17",
-    "id":"021013017001",
-    "member":{
-        "13":{
-            "1768":{
-                "district":"1",
-                "name":"Clark, James",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "1768":{
-                "district":"1",
-                "name":"Clark, James",
-                "party":"Republican"
-            },
-            "3220":{
-                "district":"1",
-                "name":"Fletcher, Thomas",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "9472":{
-                "district":"1",
-                "name":"Trimble, David",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "9472":{
-                "district":"1",
-                "name":"Trimble, David",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "9472":{
-                "district":"1",
-                "name":"Trimble, David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Kentucky"
+    "district":1,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ky"
 },
   "bbox": [
     -84.34897,

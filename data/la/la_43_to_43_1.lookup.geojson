@@ -1,26 +1,13 @@
 {
-  "id": "la_43_to_43_01",
+  "id": "la_43_to_43_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"43",
-    "id":"022043043001",
-    "member":{
-        "43":{
-            "5509":{
-                "district":"1",
-                "name":"Lawrence, Effingham",
-                "party":"Democrat"
-            },
-            "9143":{
-                "district":"1",
-                "name":"Sypher, Jacob Hale",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Louisiana"
+    "district":1,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"la"
 },
   "bbox": [
     -90.9913,

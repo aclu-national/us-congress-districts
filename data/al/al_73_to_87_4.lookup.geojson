@@ -1,119 +1,13 @@
 {
-  "id": "al_73_to_87_04",
+  "id": "al_73_to_87_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"87",
-    "id":"001073087004",
-    "member":{
-        "73":{
-            "4902":{
-                "district":"4",
-                "name":"Jeffers, Lamar",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "4471":{
-                "district":"4",
-                "name":"Hobbs, Samuel Francis",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "4471":{
-                "district":"4",
-                "name":"Hobbs, Samuel Francis",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "4471":{
-                "district":"4",
-                "name":"Hobbs, Samuel Francis",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "4471":{
-                "district":"4",
-                "name":"Hobbs, Samuel Francis",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "4471":{
-                "district":"4",
-                "name":"Hobbs, Samuel Francis",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "4471":{
-                "district":"4",
-                "name":"Hobbs, Samuel Francis",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "4471":{
-                "district":"4",
-                "name":"Hobbs, Samuel Francis",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "4471":{
-                "district":"4",
-                "name":"Hobbs, Samuel Francis",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7954":{
-                "district":"4",
-                "name":"Roberts, Kenneth Allison",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "7954":{
-                "district":"4",
-                "name":"Roberts, Kenneth Allison",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "7954":{
-                "district":"4",
-                "name":"Roberts, Kenneth Allison",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "7954":{
-                "district":"4",
-                "name":"Roberts, Kenneth Allison",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "7954":{
-                "district":"4",
-                "name":"Roberts, Kenneth Allison",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "7954":{
-                "district":"4",
-                "name":"Roberts, Kenneth Allison",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Alabama"
+    "district":4,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"al"
 },
   "bbox": [
     -87.47308,

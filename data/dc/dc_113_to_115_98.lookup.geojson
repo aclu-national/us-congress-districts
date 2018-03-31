@@ -2,18 +2,12 @@
   "id": "dc_113_to_115_98",
   "type": "Feature",
   "properties": {
-    "ALAND":158115998,
-    "AWATER":18885096,
-    "CD113FP":"98",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1198",
-    "INTPTLAT":"+38.9041031",
-    "INTPTLON":"-077.0172290",
-    "LSAD":"C4",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Delegate District (at Large)",
-    "STATEFP":"11"
+    "district":98,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"dc"
 },
   "bbox": [
     -77.119759,

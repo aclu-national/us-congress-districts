@@ -2,53 +2,12 @@
   "id": "ma_28_to_32_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"32",
-    "id":"025028032010",
-    "member":{
-        "28":{
-            "1284":{
-                "district":"10",
-                "name":"Burnell, Barker",
-                "party":"Whig"
-            },
-            "3836":{
-                "district":"10",
-                "name":"Grinnell, Joseph",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "3836":{
-                "district":"10",
-                "name":"Grinnell, Joseph",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "3836":{
-                "district":"10",
-                "name":"Grinnell, Joseph",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "3836":{
-                "district":"10",
-                "name":"Grinnell, Joseph",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "8328":{
-                "district":"10",
-                "name":"Scudder, Zeno",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ma"
 },
   "bbox": [
     -71.07649,

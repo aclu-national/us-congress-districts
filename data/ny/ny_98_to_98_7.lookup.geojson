@@ -1,21 +1,13 @@
 {
-  "id": "ny_98_to_98_07",
+  "id": "ny_98_to_98_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"98",
-    "id":"036098098007",
-    "member":{
-        "98":{
-            "15000":{
-                "district":"7",
-                "name":"Ackerman, Gary L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ny"
 },
   "bbox": [
     -73.89887,

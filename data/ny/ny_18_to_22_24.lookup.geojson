@@ -2,48 +2,12 @@
   "id": "ny_18_to_22_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"22",
-    "id":"036018022024",
-    "member":{
-        "18":{
-            "2434":{
-                "district":"24",
-                "name":"Day, Rowland",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "5141":{
-                "district":"24",
-                "name":"Kellogg, Charles",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "3493":{
-                "district":"24",
-                "name":"Garrow, Nathaniel",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "7579":{
-                "district":"24",
-                "name":"Powers, Gershom",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "2681":{
-                "district":"24",
-                "name":"Doubleday, Ulysses Freeman",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":24,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -76.74021,

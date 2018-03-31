@@ -2,34 +2,12 @@
   "id": "il_90_to_92_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"92",
-    "id":"017090092021",
-    "member":{
-        "90":{
-            "3769":{
-                "district":"21",
-                "name":"Gray, Kenneth James",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "3769":{
-                "district":"21",
-                "name":"Gray, Kenneth James",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "3769":{
-                "district":"21",
-                "name":"Gray, Kenneth James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Illinois"
+    "district":21,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"il"
 },
   "bbox": [
     -90.37408,

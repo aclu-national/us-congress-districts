@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"87",
-    "id":"036083087031",
-    "member":{
-        "83":{
-            "9203":{
-                "district":"31",
-                "name":"Taylor, Dean Park",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "9203":{
-                "district":"31",
-                "name":"Taylor, Dean Park",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "9203":{
-                "district":"31",
-                "name":"Taylor, Dean Park",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "9203":{
-                "district":"31",
-                "name":"Taylor, Dean Park",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10530":{
-                "district":"31",
-                "name":"King, Carleton J.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -74.33683,

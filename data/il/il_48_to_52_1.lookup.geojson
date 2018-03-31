@@ -1,49 +1,13 @@
 {
-  "id": "il_48_to_52_01",
+  "id": "il_48_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"017048052001",
-    "member":{
-        "48":{
-            "2766":{
-                "district":"1",
-                "name":"Dunham, Ransom Williams",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "2766":{
-                "district":"1",
-                "name":"Dunham, Ransom Williams",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "2766":{
-                "district":"1",
-                "name":"Dunham, Ransom Williams",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "9196":{
-                "district":"1",
-                "name":"Taylor, Abner",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "9196":{
-                "district":"1",
-                "name":"Taylor, Abner",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -88.02916,

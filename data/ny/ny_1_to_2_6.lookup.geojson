@@ -1,28 +1,13 @@
 {
-  "id": "ny_1_to_2_06",
+  "id": "ny_1_to_2_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"2",
-    "id":"036001002006",
-    "member":{
-        "1":{
-            "9629":{
-                "district":"6",
-                "name":"Van Rensselaer, Jeremiah",
-                "party":"Anti-Administration"
-            }
-        },
-        "2":{
-            "3695":{
-                "district":"6",
-                "name":"Gordon, James",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

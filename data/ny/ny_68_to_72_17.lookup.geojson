@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"72",
-    "id":"036068072017",
-    "member":{
-        "68":{
-            "6530":{
-                "district":"17",
-                "name":"Mills, Ogden Livingston",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "6530":{
-                "district":"17",
-                "name":"Mills, Ogden Livingston",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "1913":{
-                "district":"17",
-                "name":"Cohen, William Wolfe",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7595":{
-                "district":"17",
-                "name":"Pratt, Ruth Sears Baker",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "7595":{
-                "district":"17",
-                "name":"Pratt, Ruth Sears Baker",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -73.99967,

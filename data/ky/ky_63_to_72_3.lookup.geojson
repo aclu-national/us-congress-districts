@@ -1,89 +1,13 @@
 {
-  "id": "ky_63_to_72_03",
+  "id": "ky_63_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"021063072003",
-    "member":{
-        "63":{
-            "9309":{
-                "district":"3",
-                "name":"Thomas, Robert Young, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "9309":{
-                "district":"3",
-                "name":"Thomas, Robert Young, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "9309":{
-                "district":"3",
-                "name":"Thomas, Robert Young, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "9309":{
-                "district":"3",
-                "name":"Thomas, Robert Young, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "9309":{
-                "district":"3",
-                "name":"Thomas, Robert Young, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "9309":{
-                "district":"3",
-                "name":"Thomas, Robert Young, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "6639":{
-                "district":"3",
-                "name":"Moore, John William",
-                "party":"Democrat"
-            },
-            "9309":{
-                "district":"3",
-                "name":"Thomas, Robert Young, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "6639":{
-                "district":"3",
-                "name":"Moore, John William",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "6639":{
-                "district":"3",
-                "name":"Moore, John William",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "6639":{
-                "district":"3",
-                "name":"Moore, John William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ky"
 },
   "bbox": [
     -87.38886,

@@ -1,21 +1,13 @@
 {
-  "id": "in_74_to_74_03",
+  "id": "in_74_to_74_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"74",
-    "id":"018074074003",
-    "member":{
-        "74":{
-            "7376":{
-                "district":"3",
-                "name":"Pettengill, Samuel Barrett",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1936-06-20",
+    "end_session":74,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"in"
 },
   "bbox": [
     -86.93273,

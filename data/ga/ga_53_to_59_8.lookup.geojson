@@ -1,63 +1,13 @@
 {
-  "id": "ga_53_to_59_08",
+  "id": "ga_53_to_59_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"59",
-    "id":"013053059008",
-    "member":{
-        "53":{
-            "5523":{
-                "district":"8",
-                "name":"Lawson, Thomas Graves",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "5523":{
-                "district":"8",
-                "name":"Lawson, Thomas Graves",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "4635":{
-                "district":"8",
-                "name":"Howard, William Marcellus",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "4635":{
-                "district":"8",
-                "name":"Howard, William Marcellus",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "4635":{
-                "district":"8",
-                "name":"Howard, William Marcellus",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "4635":{
-                "district":"8",
-                "name":"Howard, William Marcellus",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "4635":{
-                "district":"8",
-                "name":"Howard, William Marcellus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Georgia"
+    "district":8,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ga"
 },
   "bbox": [
     -83.86353,

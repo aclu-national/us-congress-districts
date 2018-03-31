@@ -1,56 +1,13 @@
 {
-  "id": "ky_28_to_33_01",
+  "id": "ky_28_to_33_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"33",
-    "id":"021028033001",
-    "member":{
-        "28":{
-            "931":{
-                "district":"1",
-                "name":"Boyd, Linn",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "931":{
-                "district":"1",
-                "name":"Boyd, Linn",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "931":{
-                "district":"1",
-                "name":"Boyd, Linn",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "931":{
-                "district":"1",
-                "name":"Boyd, Linn",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "931":{
-                "district":"1",
-                "name":"Boyd, Linn",
-                "party":"Democrat"
-            }
-        },
-        "33":{
-            "931":{
-                "district":"1",
-                "name":"Boyd, Linn",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Kentucky"
+    "district":1,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ky"
 },
   "bbox": [
     -89.57151,

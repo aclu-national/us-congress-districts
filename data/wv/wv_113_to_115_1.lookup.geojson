@@ -1,19 +1,13 @@
 {
-  "id": "wv_113_to_115_01",
+  "id": "wv_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":16254255149,
-    "AWATER":176459127,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5401",
-    "INTPTLAT":"+39.3819864",
-    "INTPTLON":"-080.2684972",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"54"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"wv"
 },
   "bbox": [
     -81.756384,

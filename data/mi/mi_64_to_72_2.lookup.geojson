@@ -1,82 +1,13 @@
 {
-  "id": "mi_64_to_72_02",
+  "id": "mi_64_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"026064072002",
-    "member":{
-        "64":{
-            "539":{
-                "district":"2",
-                "name":"Beakes, Samuel Willard",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "326":{
-                "district":"2",
-                "name":"Bacon, Mark Reeves",
-                "party":"Republican"
-            },
-            "539":{
-                "district":"2",
-                "name":"Beakes, Samuel Willard",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Michigan"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mi"
 },
   "bbox": [
     -84.71867,

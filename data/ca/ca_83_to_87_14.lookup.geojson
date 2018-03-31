@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"87",
-    "id":"006083087014",
-    "member":{
-        "83":{
-            "3901":{
-                "district":"14",
-                "name":"Hagen, Harlan Francis",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "3901":{
-                "district":"14",
-                "name":"Hagen, Harlan Francis",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "3901":{
-                "district":"14",
-                "name":"Hagen, Harlan Francis",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "3901":{
-                "district":"14",
-                "name":"Hagen, Harlan Francis",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "3901":{
-                "district":"14",
-                "name":"Hagen, Harlan Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":14,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -120.31507,

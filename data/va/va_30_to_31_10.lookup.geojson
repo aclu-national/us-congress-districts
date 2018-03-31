@@ -2,27 +2,12 @@
   "id": "va_30_to_31_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"31",
-    "id":"051030031010",
-    "member":{
-        "30":{
-            "572":{
-                "district":"10",
-                "name":"Bedinger, Henry",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "7201":{
-                "district":"10",
-                "name":"Parker, Richard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"va"
 },
   "bbox": [
     -79.27184,

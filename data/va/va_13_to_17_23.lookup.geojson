@@ -2,53 +2,12 @@
   "id": "va_13_to_17_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"17",
-    "id":"051013017023",
-    "member":{
-        "13":{
-            "1853":{
-                "district":"23",
-                "name":"Clopton, John",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "1853":{
-                "district":"23",
-                "name":"Clopton, John",
-                "party":"Republican"
-            },
-            "9542":{
-                "district":"23",
-                "name":"Tyler, John",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "9542":{
-                "district":"23",
-                "name":"Tyler, John",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "9542":{
-                "district":"23",
-                "name":"Tyler, John",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "8919":{
-                "district":"23",
-                "name":"Stevenson, Andrew",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":23,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -77.79732,

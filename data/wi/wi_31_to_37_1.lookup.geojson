@@ -1,63 +1,13 @@
 {
-  "id": "wi_31_to_37_01",
+  "id": "wi_31_to_37_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"37",
-    "id":"055031037001",
-    "member":{
-        "31":{
-            "2793":{
-                "district":"1",
-                "name":"Durkee, Charles",
-                "party":"Free Soil"
-            }
-        },
-        "32":{
-            "2793":{
-                "district":"1",
-                "name":"Durkee, Charles",
-                "party":"Free Soil"
-            }
-        },
-        "33":{
-            "9941":{
-                "district":"1",
-                "name":"Wells, Daniel, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "9941":{
-                "district":"1",
-                "name":"Wells, Daniel, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "7556":{
-                "district":"1",
-                "name":"Potter, John Fox",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "7556":{
-                "district":"1",
-                "name":"Potter, John Fox",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "7556":{
-                "district":"1",
-                "name":"Potter, John Fox",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"31",
-    "statename":"Wisconsin"
+    "district":1,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1849-03-05",
+    "start_session":31,
+    "state":"wi"
 },
   "bbox": [
     -88.77875,

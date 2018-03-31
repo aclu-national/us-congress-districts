@@ -1,35 +1,13 @@
 {
-  "id": "ct_25_to_27_01",
+  "id": "ct_25_to_27_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"27",
-    "id":"009025027001",
-    "member":{
-        "25":{
-            "9425":{
-                "district":"1",
-                "name":"Toucey, Isaac",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "9491":{
-                "district":"1",
-                "name":"Trumbull, Joseph",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "9491":{
-                "district":"1",
-                "name":"Trumbull, Joseph",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"25",
-    "statename":"Connecticut"
+    "district":1,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1837-03-04",
+    "start_session":25,
+    "state":"ct"
 },
   "bbox": [
     -73.02954,

@@ -1,40 +1,13 @@
 {
-  "id": "pa_4_to_6_01",
+  "id": "pa_4_to_6_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"6",
-    "id":"042004006001",
-    "member":{
-        "4":{
-            "9107":{
-                "district":"1",
-                "name":"Swanwick, John",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "9107":{
-                "district":"1",
-                "name":"Swanwick, John",
-                "party":"Republican"
-            },
-            "9779":{
-                "district":"1",
-                "name":"Waln, Robert",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "9779":{
-                "district":"1",
-                "name":"Waln, Robert",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"pa"
 },
   "bbox": [
     -75.18639,

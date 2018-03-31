@@ -1,21 +1,13 @@
 {
-  "id": "la_103_to_103_02",
+  "id": "la_103_to_103_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"103",
-    "id":"022103103002",
-    "member":{
-        "103":{
-            "29120":{
-                "district":"2",
-                "name":"Jefferson, William J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Louisiana"
+    "district":2,
+    "end_date":"1994-12-01",
+    "end_session":103,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"la"
 },
   "bbox": [
     -90.2802,

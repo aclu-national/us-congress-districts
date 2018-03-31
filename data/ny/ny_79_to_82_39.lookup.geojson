@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_39",
   "type": "Feature",
   "properties": {
-    "district":"39",
-    "endcong":"82",
-    "id":"036079082039",
-    "member":{
-        "79":{
-            "1931":{
-                "district":"39",
-                "name":"Cole, William Sterling",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "1931":{
-                "district":"39",
-                "name":"Cole, William Sterling",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "1931":{
-                "district":"39",
-                "name":"Cole, William Sterling",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "1931":{
-                "district":"39",
-                "name":"Cole, William Sterling",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":39,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -77.74993,

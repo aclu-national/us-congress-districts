@@ -1,19 +1,13 @@
 {
-  "id": "ny_113_to_115_01",
+  "id": "ny_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":1683515582,
-    "AWATER":3359855457,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3601",
-    "INTPTLAT":"+40.9838845",
-    "INTPTLON":"-072.5495221",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"36"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ny"
 },
   "bbox": [
     -73.29666,

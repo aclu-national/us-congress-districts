@@ -1,35 +1,13 @@
 {
-  "id": "pa_4_to_6_09",
+  "id": "pa_4_to_6_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"6",
-    "id":"042004006009",
-    "member":{
-        "4":{
-            "3805":{
-                "district":"9",
-                "name":"Gregg, Andrew",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "3805":{
-                "district":"9",
-                "name":"Gregg, Andrew",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "3805":{
-                "district":"9",
-                "name":"Gregg, Andrew",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Pennsylvania"
+    "district":9,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"pa"
 },
   "bbox": [
     -78.37668,

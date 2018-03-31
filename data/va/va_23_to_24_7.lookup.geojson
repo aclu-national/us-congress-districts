@@ -1,28 +1,13 @@
 {
-  "id": "va_23_to_24_07",
+  "id": "va_23_to_24_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"24",
-    "id":"051023024007",
-    "member":{
-        "23":{
-            "1738":{
-                "district":"7",
-                "name":"Claiborne, Nathaniel Herbert",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "1738":{
-                "district":"7",
-                "name":"Claiborne, Nathaniel Herbert",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1837-03-03",
+    "end_session":24,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"va"
 },
   "bbox": [
     -80.62578,

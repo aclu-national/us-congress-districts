@@ -1,54 +1,13 @@
 {
-  "id": "wi_48_to_52_05",
+  "id": "wi_48_to_52_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"52",
-    "id":"055048052005",
-    "member":{
-        "48":{
-            "7732":{
-                "district":"5",
-                "name":"Rankin, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "4684":{
-                "district":"5",
-                "name":"Hudd, Thomas Richard",
-                "party":"Democrat"
-            },
-            "7732":{
-                "district":"5",
-                "name":"Rankin, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "4684":{
-                "district":"5",
-                "name":"Hudd, Thomas Richard",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "1025":{
-                "district":"5",
-                "name":"Brickner, George H",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "1025":{
-                "district":"5",
-                "name":"Brickner, George H",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Wisconsin"
+    "district":5,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"wi"
 },
   "bbox": [
     -88.40461,

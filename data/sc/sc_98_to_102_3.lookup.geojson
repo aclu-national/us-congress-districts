@@ -1,49 +1,13 @@
 {
-  "id": "sc_98_to_102_03",
+  "id": "sc_98_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"045098102003",
-    "member":{
-        "100":{
-            "14212":{
-                "district":"3",
-                "name":"Derrick, Butler",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14212":{
-                "district":"3",
-                "name":"Derrick, Butler",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14212":{
-                "district":"3",
-                "name":"Derrick, Butler",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14212":{
-                "district":"3",
-                "name":"Derrick, Butler",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14212":{
-                "district":"3",
-                "name":"Derrick, Butler",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"sc"
 },
   "bbox": [
     -83.3535,

@@ -1,49 +1,13 @@
 {
-  "id": "oh_13_to_17_04",
+  "id": "oh_13_to_17_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"17",
-    "id":"039013017004",
-    "member":{
-        "13":{
-            "1407":{
-                "district":"4",
-                "name":"Caldwell, James",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "1407":{
-                "district":"4",
-                "name":"Caldwell, James",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "4366":{
-                "district":"4",
-                "name":"Herrick, Samuel",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "4366":{
-                "district":"4",
-                "name":"Herrick, Samuel",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "1626":{
-                "district":"4",
-                "name":"Chambers, David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"oh"
 },
   "bbox": [
     -82.24882,

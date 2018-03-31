@@ -2,48 +2,12 @@
   "id": "pa_13_to_17_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"17",
-    "id":"042013017012",
-    "member":{
-        "13":{
-            "5846":{
-                "district":"12",
-                "name":"Lyle, Aaron",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "5846":{
-                "district":"12",
-                "name":"Lyle, Aaron",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "7253":{
-                "district":"12",
-                "name":"Patterson, Thomas",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "7253":{
-                "district":"12",
-                "name":"Patterson, Thomas",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "7253":{
-                "district":"12",
-                "name":"Patterson, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"pa"
 },
   "bbox": [
     -80.51928,

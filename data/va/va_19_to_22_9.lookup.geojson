@@ -1,42 +1,13 @@
 {
-  "id": "va_19_to_22_09",
+  "id": "va_19_to_22_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"22",
-    "id":"051019022009",
-    "member":{
-        "19":{
-            "8919":{
-                "district":"9",
-                "name":"Stevenson, Andrew",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "8919":{
-                "district":"9",
-                "name":"Stevenson, Andrew",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "8919":{
-                "district":"9",
-                "name":"Stevenson, Andrew",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "8919":{
-                "district":"9",
-                "name":"Stevenson, Andrew",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":9,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -77.79732,

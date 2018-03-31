@@ -1,35 +1,13 @@
 {
-  "id": "ca_40_to_42_01",
+  "id": "ca_40_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"006040042001",
-    "member":{
-        "40":{
-            "304":{
-                "district":"1",
-                "name":"Axtell, Samuel Beach",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "304":{
-                "district":"1",
-                "name":"Axtell, Samuel Beach",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "4603":{
-                "district":"1",
-                "name":"Houghton, Sherman Otis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"California"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"ca"
 },
   "bbox": [
     -123.10803,

@@ -1,28 +1,13 @@
 {
-  "id": "ma_91_to_92_07",
+  "id": "ma_91_to_92_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"92",
-    "id":"025091092007",
-    "member":{
-        "91":{
-            "5873":{
-                "district":"7",
-                "name":"MacDonald, Torbert Hart",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "5873":{
-                "district":"7",
-                "name":"MacDonald, Torbert Hart",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ma"
 },
   "bbox": [
     -71.21123,

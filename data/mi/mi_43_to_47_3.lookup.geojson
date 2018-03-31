@@ -1,49 +1,13 @@
 {
-  "id": "mi_43_to_47_03",
+  "id": "mi_43_to_47_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"47",
-    "id":"026043047003",
-    "member":{
-        "43":{
-            "10124":{
-                "district":"3",
-                "name":"Willard, George",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "10124":{
-                "district":"3",
-                "name":"Willard, George",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "6257":{
-                "district":"3",
-                "name":"McGowan, Jonas Hartzell",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "6257":{
-                "district":"3",
-                "name":"McGowan, Jonas Hartzell",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "5390":{
-                "district":"3",
-                "name":"Lacey, Edward Samuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Michigan"
+    "district":3,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"mi"
 },
   "bbox": [
     -85.54552,

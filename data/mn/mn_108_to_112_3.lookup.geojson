@@ -1,49 +1,13 @@
 {
-  "id": "mn_108_to_112_03",
+  "id": "mn_108_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"027108112003",
-    "member":{
-        "108":{
-            "29126":{
-                "district":"3",
-                "name":"Ramstad, Jim",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29126":{
-                "district":"3",
-                "name":"Ramstad, Jim",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29126":{
-                "district":"3",
-                "name":"Ramstad, Jim",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20924":{
-                "district":"3",
-                "name":"Paulsen, Erik",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20924":{
-                "district":"3",
-                "name":"Paulsen, Erik",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Minnesota"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mn"
 },
   "bbox": [
     -93.76704,

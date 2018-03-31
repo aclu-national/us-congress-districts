@@ -1,49 +1,13 @@
 {
-  "id": "al_98_to_102_07",
+  "id": "al_98_to_102_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"102",
-    "id":"001098102007",
-    "member":{
-        "100":{
-            "15416":{
-                "district":"7",
-                "name":"Harris, Claude",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15416":{
-                "district":"7",
-                "name":"Harris, Claude",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15416":{
-                "district":"7",
-                "name":"Harris, Claude",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14659":{
-                "district":"7",
-                "name":"Shelby, Richard Craig",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14659":{
-                "district":"7",
-                "name":"Shelby, Richard Craig",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Alabama"
+    "district":7,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

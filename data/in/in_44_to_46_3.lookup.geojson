@@ -1,40 +1,13 @@
 {
-  "id": "in_44_to_46_03",
+  "id": "in_44_to_46_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"46",
-    "id":"018044046003",
-    "member":{
-        "44":{
-            "1530":{
-                "district":"3",
-                "name":"Carr, Nathan Tracy",
-                "party":"Democrat"
-            },
-            "5212":{
-                "district":"3",
-                "name":"Kerr, Michael Crawford",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "690":{
-                "district":"3",
-                "name":"Bicknell, George Augustus",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "690":{
-                "district":"3",
-                "name":"Bicknell, George Augustus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"in"
 },
   "bbox": [
     -86.3814,

@@ -1,35 +1,13 @@
 {
-  "id": "va_33_to_35_06",
+  "id": "va_33_to_35_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"35",
-    "id":"051033035006",
-    "member":{
-        "33":{
-            "7574":{
-                "district":"6",
-                "name":"Powell, Paulus",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "7574":{
-                "district":"6",
-                "name":"Powell, Paulus",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "7574":{
-                "district":"6",
-                "name":"Powell, Paulus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"va"
 },
   "bbox": [
     -79.85806,

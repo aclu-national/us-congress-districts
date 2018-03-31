@@ -2,48 +2,12 @@
   "id": "va_13_to_17_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"17",
-    "id":"051013017022",
-    "member":{
-        "13":{
-            "6865":{
-                "district":"22",
-                "name":"Nelson, Hugh",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "6865":{
-                "district":"22",
-                "name":"Nelson, Hugh",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "6865":{
-                "district":"22",
-                "name":"Nelson, Hugh",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "6865":{
-                "district":"22",
-                "name":"Nelson, Hugh",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "6865":{
-                "district":"22",
-                "name":"Nelson, Hugh",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":22,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -79.43704,

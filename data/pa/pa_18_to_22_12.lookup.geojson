@@ -2,48 +2,12 @@
   "id": "pa_18_to_22_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"22",
-    "id":"042018022012",
-    "member":{
-        "18":{
-            "1119":{
-                "district":"12",
-                "name":"Brown, John",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "6564":{
-                "district":"12",
-                "name":"Mitchell, John",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "6564":{
-                "district":"12",
-                "name":"Mitchell, John",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "8303":{
-                "district":"12",
-                "name":"Scott, John",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "140":{
-                "district":"12",
-                "name":"Allison, Robert",
-                "party":"Anti Masonic"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"pa"
 },
   "bbox": [
     -78.80733,

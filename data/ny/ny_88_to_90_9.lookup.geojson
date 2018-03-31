@@ -1,35 +1,13 @@
 {
-  "id": "ny_88_to_90_09",
+  "id": "ny_88_to_90_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"90",
-    "id":"036088090009",
-    "member":{
-        "88":{
-            "2476":{
-                "district":"9",
-                "name":"Delaney, James Joseph",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "2476":{
-                "district":"9",
-                "name":"Delaney, James Joseph",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "2476":{
-                "district":"9",
-                "name":"Delaney, James Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":9,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -73.96161,

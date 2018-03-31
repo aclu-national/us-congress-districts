@@ -1,35 +1,13 @@
 {
-  "id": "al_40_to_42_05",
+  "id": "al_40_to_42_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"42",
-    "id":"001040042005",
-    "member":{
-        "40":{
-            "1428":{
-                "district":"5",
-                "name":"Callis, John Benton",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "2710":{
-                "district":"5",
-                "name":"Dox, Peter Myndert",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "2710":{
-                "district":"5",
-                "name":"Dox, Peter Myndert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Alabama"
+    "district":5,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"al"
 },
   "bbox": [
     -86.79006,

@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"32",
-    "id":"036028032028",
-    "member":{
-        "28":{
-            "7254":{
-                "district":"28",
-                "name":"Patterson, Thomas J.",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "4533":{
-                "district":"28",
-                "name":"Holmes, Elias Bellows",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "4533":{
-                "district":"28",
-                "name":"Holmes, Elias Bellows",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "8261":{
-                "district":"28",
-                "name":"Schermerhorn, Abraham Maus",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "8261":{
-                "district":"28",
-                "name":"Schermerhorn, Abraham Maus",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":28,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -77.99729,

@@ -1,98 +1,13 @@
 {
-  "id": "in_78_to_89_01",
+  "id": "in_78_to_89_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"89",
-    "id":"018078089001",
-    "member":{
-        "78":{
-            "5900":{
-                "district":"1",
-                "name":"Madden, Ray John",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "5900":{
-                "district":"1",
-                "name":"Madden, Ray John",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5900":{
-                "district":"1",
-                "name":"Madden, Ray John",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "5900":{
-                "district":"1",
-                "name":"Madden, Ray John",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5900":{
-                "district":"1",
-                "name":"Madden, Ray John",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "5900":{
-                "district":"1",
-                "name":"Madden, Ray John",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5900":{
-                "district":"1",
-                "name":"Madden, Ray John",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5900":{
-                "district":"1",
-                "name":"Madden, Ray John",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5900":{
-                "district":"1",
-                "name":"Madden, Ray John",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "5900":{
-                "district":"1",
-                "name":"Madden, Ray John",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "5900":{
-                "district":"1",
-                "name":"Madden, Ray John",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "5900":{
-                "district":"1",
-                "name":"Madden, Ray John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"in"
 },
   "bbox": [
     -87.52677,

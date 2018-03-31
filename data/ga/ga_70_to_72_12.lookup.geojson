@@ -2,34 +2,12 @@
   "id": "ga_70_to_72_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"72",
-    "id":"013070072012",
-    "member":{
-        "70":{
-            "5482":{
-                "district":"12",
-                "name":"Larsen, William Washington",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "5482":{
-                "district":"12",
-                "name":"Larsen, William Washington",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "5482":{
-                "district":"12",
-                "name":"Larsen, William Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Georgia"
+    "district":12,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ga"
 },
   "bbox": [
     -83.97187,

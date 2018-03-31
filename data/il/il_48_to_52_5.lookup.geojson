@@ -1,54 +1,13 @@
 {
-  "id": "il_48_to_52_05",
+  "id": "il_48_to_52_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"52",
-    "id":"017048052005",
-    "member":{
-        "48":{
-            "2939":{
-                "district":"5",
-                "name":"Ellwood, Reuben",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "2939":{
-                "district":"5",
-                "name":"Ellwood, Reuben",
-                "party":"Republican"
-            },
-            "4564":{
-                "district":"5",
-                "name":"Hopkins, Albert Jarvis",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "4564":{
-                "district":"5",
-                "name":"Hopkins, Albert Jarvis",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "4564":{
-                "district":"5",
-                "name":"Hopkins, Albert Jarvis",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "4564":{
-                "district":"5",
-                "name":"Hopkins, Albert Jarvis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":5,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -88.94229,

@@ -1,105 +1,13 @@
 {
-  "id": "ks_60_to_72_06",
+  "id": "ks_60_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"020060072006",
-    "member":{
-        "60":{
-            "7798":{
-                "district":"6",
-                "name":"Reeder, William Augustus",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "7798":{
-                "district":"6",
-                "name":"Reeder, William Augustus",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "10442":{
-                "district":"6",
-                "name":"Young, Isaac Daniel",
-                "party":"Republican"
-            }
-        },
-        "63":{
-            "1991":{
-                "district":"6",
-                "name":"Connelly, John Robert",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "1991":{
-                "district":"6",
-                "name":"Connelly, John Robert",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "1991":{
-                "district":"6",
-                "name":"Connelly, John Robert",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "10027":{
-                "district":"6",
-                "name":"White, Hays Baxter",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "10027":{
-                "district":"6",
-                "name":"White, Hays Baxter",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "10027":{
-                "district":"6",
-                "name":"White, Hays Baxter",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "10027":{
-                "district":"6",
-                "name":"White, Hays Baxter",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "10027":{
-                "district":"6",
-                "name":"White, Hays Baxter",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8766":{
-                "district":"6",
-                "name":"Sparks, Charles Isaac",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "8766":{
-                "district":"6",
-                "name":"Sparks, Charles Isaac",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Kansas"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ks"
 },
   "bbox": [
     -102.05177,

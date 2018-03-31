@@ -2,88 +2,12 @@
   "id": "ca_63_to_72_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"72",
-    "id":"006063072010",
-    "member":{
-        "63":{
-            "8891":{
-                "district":"10",
-                "name":"Stephens, William Dennison",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "623":{
-                "district":"10",
-                "name":"Benedict, Henry Stanley",
-                "party":"Republican"
-            },
-            "8891":{
-                "district":"10",
-                "name":"Stephens, William Dennison",
-                "party":"Progressive"
-            }
-        },
-        "65":{
-            "7093":{
-                "district":"10",
-                "name":"Osborne, Henry Zenas",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "7093":{
-                "district":"10",
-                "name":"Osborne, Henry Zenas",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "7093":{
-                "district":"10",
-                "name":"Osborne, Henry Zenas",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "3351":{
-                "district":"10",
-                "name":"Fredericks, John Donnan",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "3351":{
-                "district":"10",
-                "name":"Fredericks, John Donnan",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "2140":{
-                "district":"10",
-                "name":"Crail, Joe",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2140":{
-                "district":"10",
-                "name":"Crail, Joe",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2140":{
-                "district":"10",
-                "name":"Crail, Joe",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"California"
+    "district":10,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ca"
 },
   "bbox": [
     -118.9449,

@@ -1,19 +1,13 @@
 {
-  "id": "mi_113_to_115_04",
+  "id": "mi_113_to_115_4",
   "type": "Feature",
   "properties": {
-    "ALAND":21906539293,
-    "AWATER":520885009,
-    "CD113FP":"04",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2604",
-    "INTPTLAT":"+43.7315525",
-    "INTPTLON":"-084.7503993",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 4",
-    "STATEFP":"26"
+    "district":4,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mi"
 },
   "bbox": [
     -85.82145,

@@ -1,35 +1,13 @@
 {
-  "id": "tx_110_to_112_02",
+  "id": "tx_110_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"048110112002",
-    "member":{
-        "110":{
-            "20528":{
-                "district":"2",
-                "name":"Poe, Ted",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20528":{
-                "district":"2",
-                "name":"Poe, Ted",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20528":{
-                "district":"2",
-                "name":"Poe, Ted",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"110",
-    "statename":"Texas"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2007-01-04",
+    "start_session":110,
+    "state":"tx"
 },
   "bbox": [
     -95.56831,

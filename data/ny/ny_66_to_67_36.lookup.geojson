@@ -2,27 +2,12 @@
   "id": "ny_66_to_67_36",
   "type": "Feature",
   "properties": {
-    "district":"36",
-    "endcong":"67",
-    "id":"036066067036",
-    "member":{
-        "66":{
-            "3723":{
-                "district":"36",
-                "name":"Gould, Norman Judd",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3723":{
-                "district":"36",
-                "name":"Gould, Norman Judd",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":36,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -77.61192,

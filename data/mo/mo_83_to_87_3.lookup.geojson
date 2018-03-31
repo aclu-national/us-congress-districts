@@ -1,49 +1,13 @@
 {
-  "id": "mo_83_to_87_03",
+  "id": "mo_83_to_87_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"87",
-    "id":"029083087003",
-    "member":{
-        "83":{
-            "9072":{
-                "district":"3",
-                "name":"Sullivan, Leonor Kretzer",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "9072":{
-                "district":"3",
-                "name":"Sullivan, Leonor Kretzer",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "9072":{
-                "district":"3",
-                "name":"Sullivan, Leonor Kretzer",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "9072":{
-                "district":"3",
-                "name":"Sullivan, Leonor Kretzer",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "9072":{
-                "district":"3",
-                "name":"Sullivan, Leonor Kretzer",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Missouri"
+    "district":3,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mo"
 },
   "bbox": [
     -90.32051,

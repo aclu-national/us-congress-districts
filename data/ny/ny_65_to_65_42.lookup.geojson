@@ -2,20 +2,12 @@
   "id": "ny_65_to_65_42",
   "type": "Feature",
   "properties": {
-    "district":"42",
-    "endcong":"65",
-    "id":"036065065042",
-    "member":{
-        "65":{
-            "9729":{
-                "district":"42",
-                "name":"Waldo, William Frederick",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":42,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

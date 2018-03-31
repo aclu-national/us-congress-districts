@@ -2,20 +2,12 @@
   "id": "va_18_to_18_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"18",
-    "id":"051018018021",
-    "member":{
-        "18":{
-            "8696":{
-                "district":"21",
-                "name":"Smith, William",
-                "party":"Crawford Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Virginia"
+    "district":21,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"va"
 },
   "bbox": [
     -82.64474,

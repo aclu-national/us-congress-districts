@@ -2,48 +2,12 @@
   "id": "pa_68_to_72_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"72",
-    "id":"042068072014",
-    "member":{
-        "68":{
-            "2191":{
-                "district":"14",
-                "name":"Croll, William Martin",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2994":{
-                "district":"14",
-                "name":"Esterly, Charles Joseph",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "1333":{
-                "district":"14",
-                "name":"Bushong, Robert Grey",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2994":{
-                "district":"14",
-                "name":"Esterly, Charles Joseph",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5655":{
-                "district":"14",
-                "name":"Lichtenwalner, Norton Lewis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -76.44018,

@@ -1,28 +1,13 @@
 {
-  "id": "in_21_to_22_03",
+  "id": "in_21_to_22_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"22",
-    "id":"018021022003",
-    "member":{
-        "21":{
-            "9266":{
-                "district":"3",
-                "name":"Test, John",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "6139":{
-                "district":"3",
-                "name":"McCarty, Johnathan",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"21",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1829-03-04",
+    "start_session":21,
+    "state":"in"
 },
   "bbox": [
     -86.46851,

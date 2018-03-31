@@ -1,49 +1,13 @@
 {
-  "id": "tn_18_to_22_07",
+  "id": "tn_18_to_22_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"22",
-    "id":"047018022007",
-    "member":{
-        "18":{
-            "4615":{
-                "district":"7",
-                "name":"Houston, Samuel",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "4615":{
-                "district":"7",
-                "name":"Houston, Samuel",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "606":{
-                "district":"7",
-                "name":"Bell, John",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "606":{
-                "district":"7",
-                "name":"Bell, John",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "606":{
-                "district":"7",
-                "name":"Bell, John",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Tennessee"
+    "district":7,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"tn"
 },
   "bbox": [
     -87.2151,

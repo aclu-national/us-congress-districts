@@ -1,28 +1,13 @@
 {
-  "id": "il_81_to_82_05",
+  "id": "il_81_to_82_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"82",
-    "id":"017081082005",
-    "member":{
-        "81":{
-            "3715":{
-                "district":"5",
-                "name":"Gorski, Martin",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5326":{
-                "district":"5",
-                "name":"Kluczynski, John Carl",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"81",
-    "statename":"Illinois"
+    "district":5,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1949-01-03",
+    "start_session":81,
+    "state":"il"
 },
   "bbox": [
     -87.80261,

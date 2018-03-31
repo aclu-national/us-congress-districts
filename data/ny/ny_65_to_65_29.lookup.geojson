@@ -2,20 +2,12 @@
   "id": "ny_65_to_65_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"65",
-    "id":"036065065029",
-    "member":{
-        "65":{
-            "7196":{
-                "district":"29",
-                "name":"Parker, James Southworth",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -74.21463,

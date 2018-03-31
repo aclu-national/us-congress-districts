@@ -2,48 +2,12 @@
   "id": "ca_108_to_112_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"112",
-    "id":"006108112031",
-    "member":{
-        "108":{
-            "29316":{
-                "district":"31",
-                "name":"Becerra, Xavier",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29316":{
-                "district":"31",
-                "name":"Becerra, Xavier",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29316":{
-                "district":"31",
-                "name":"Becerra, Xavier",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29316":{
-                "district":"31",
-                "name":"Becerra, Xavier",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29316":{
-                "district":"31",
-                "name":"Becerra, Xavier",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":31,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -118.33341,

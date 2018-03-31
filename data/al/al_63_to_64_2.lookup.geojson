@@ -1,28 +1,13 @@
 {
-  "id": "al_63_to_64_02",
+  "id": "al_63_to_64_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"64",
-    "id":"001063064002",
-    "member":{
-        "63":{
-            "2514":{
-                "district":"2",
-                "name":"Dent, Stanley Hubert, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "2514":{
-                "district":"2",
-                "name":"Dent, Stanley Hubert, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Alabama"
+    "district":2,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"al"
 },
   "bbox": [
     -88.02938,

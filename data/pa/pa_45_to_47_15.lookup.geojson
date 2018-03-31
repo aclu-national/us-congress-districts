@@ -2,34 +2,12 @@
   "id": "pa_45_to_47_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"47",
-    "id":"042045047015",
-    "member":{
-        "45":{
-            "7125":{
-                "district":"15",
-                "name":"Overton, Edward, Jr.",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "7125":{
-                "district":"15",
-                "name":"Overton, Edward, Jr.",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "4877":{
-                "district":"15",
-                "name":"Jadwin, Cornelius Comegys",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"pa"
 },
   "bbox": [
     -76.92708,

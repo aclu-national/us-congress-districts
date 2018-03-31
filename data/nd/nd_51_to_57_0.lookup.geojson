@@ -1,63 +1,13 @@
 {
-  "id": "nd_51_to_57_00",
+  "id": "nd_51_to_57_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"57",
-    "id":"038051057000",
-    "member":{
-        "51":{
-            "4042":{
-                "district":"1",
-                "name":"Hansbrough, Henry Clay",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "4981":{
-                "district":"1",
-                "name":"Johnson, Martin Nelson",
-                "party":"Republican"
-            }
-        },
-        "53":{
-            "4981":{
-                "district":"1",
-                "name":"Johnson, Martin Nelson",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "4981":{
-                "district":"1",
-                "name":"Johnson, Martin Nelson",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "4981":{
-                "district":"1",
-                "name":"Johnson, Martin Nelson",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "8758":{
-                "district":"1",
-                "name":"Spalding, Burleigh Folsom",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "6009":{
-                "district":"1",
-                "name":"Marshall, Thomas Frank",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"North Dakota"
+    "district":0,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"nd"
 },
   "bbox": [
     -104.04891,

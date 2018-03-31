@@ -1,49 +1,13 @@
 {
-  "id": "ma_93_to_97_05",
+  "id": "ma_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"025093097005",
-    "member":{
-        "93":{
-            "14012":{
-                "district":"5",
-                "name":"Cronin, Paul W.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14279":{
-                "district":"5",
-                "name":"Tsongas, Paul",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14279":{
-                "district":"5",
-                "name":"Tsongas, Paul",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14658":{
-                "district":"5",
-                "name":"Shannon, James Michael",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14658":{
-                "district":"5",
-                "name":"Shannon, James Michael",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ma"
 },
   "bbox": [
     -71.89872,

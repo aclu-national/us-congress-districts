@@ -2,27 +2,12 @@
   "id": "tx_91_to_92_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"92",
-    "id":"048091092010",
-    "member":{
-        "91":{
-            "10614":{
-                "district":"10",
-                "name":"Pickle, J. J.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10614":{
-                "district":"10",
-                "name":"Pickle, J. J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Texas"
+    "district":10,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"tx"
 },
   "bbox": [
     -98.59167,

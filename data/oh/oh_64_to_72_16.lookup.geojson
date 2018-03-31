@@ -2,76 +2,12 @@
   "id": "oh_64_to_72_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"72",
-    "id":"039064072016",
-    "member":{
-        "64":{
-            "6203":{
-                "district":"16",
-                "name":"McCulloch, Roscoe Conkling",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "6203":{
-                "district":"16",
-                "name":"McCulloch, Roscoe Conkling",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6203":{
-                "district":"16",
-                "name":"McCulloch, Roscoe Conkling",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "4439":{
-                "district":"16",
-                "name":"Himes, Joseph Hendrix",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6387":{
-                "district":"16",
-                "name":"McSweeney, John",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "6387":{
-                "district":"16",
-                "name":"McSweeney, John",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "6387":{
-                "district":"16",
-                "name":"McSweeney, John",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "6159":{
-                "district":"16",
-                "name":"McClintock, Charles Blain",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "6159":{
-                "district":"16",
-                "name":"McClintock, Charles Blain",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":16,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -82.22069,

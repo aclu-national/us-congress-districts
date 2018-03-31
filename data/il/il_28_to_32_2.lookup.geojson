@@ -1,49 +1,13 @@
 {
-  "id": "il_28_to_32_02",
+  "id": "il_28_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"017028032002",
-    "member":{
-        "28":{
-            "6157":{
-                "district":"2",
-                "name":"McClernand, John Alexander",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "6157":{
-                "district":"2",
-                "name":"McClernand, John Alexander",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "6157":{
-                "district":"2",
-                "name":"McClernand, John Alexander",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "6157":{
-                "district":"2",
-                "name":"McClernand, John Alexander",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "135":{
-                "district":"2",
-                "name":"Allen, Willis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Illinois"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"il"
 },
   "bbox": [
     -89.17851,

@@ -1,21 +1,13 @@
 {
-  "id": "mo_91_to_91_01",
+  "id": "mo_91_to_91_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"91",
-    "id":"029091091001",
-    "member":{
-        "91":{
-            "12009":{
-                "district":"1",
-                "name":"Clay, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Missouri"
+    "district":1,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"mo"
 },
   "bbox": [
     -90.32407,

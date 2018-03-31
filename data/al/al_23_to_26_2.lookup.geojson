@@ -1,42 +1,13 @@
 {
-  "id": "al_23_to_26_02",
+  "id": "al_23_to_26_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"26",
-    "id":"001023026002",
-    "member":{
-        "23":{
-            "6310":{
-                "district":"2",
-                "name":"McKinley, John",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "6034":{
-                "district":"2",
-                "name":"Martin, Joshua Lanier",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "6034":{
-                "district":"2",
-                "name":"Martin, Joshua Lanier",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "4664":{
-                "district":"2",
-                "name":"Hubbard, David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Alabama"
+    "district":2,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"al"
 },
   "bbox": [
     -88.27462,

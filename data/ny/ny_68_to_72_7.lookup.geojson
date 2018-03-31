@@ -1,49 +1,13 @@
 {
-  "id": "ny_68_to_72_07",
+  "id": "ny_68_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"036068072007",
-    "member":{
-        "68":{
-            "7669":{
-                "district":"7",
-                "name":"Quayle, John Francis",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "7669":{
-                "district":"7",
-                "name":"Quayle, John Francis",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "7669":{
-                "district":"7",
-                "name":"Quayle, John Francis",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7669":{
-                "district":"7",
-                "name":"Quayle, John Francis",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "2477":{
-                "district":"7",
-                "name":"Delaney, John Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -74.00464,

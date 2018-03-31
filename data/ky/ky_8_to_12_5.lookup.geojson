@@ -1,54 +1,13 @@
 {
-  "id": "ky_8_to_12_05",
+  "id": "ky_8_to_12_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"12",
-    "id":"021008012005",
-    "member":{
-        "10":{
-            "4622":{
-                "district":"5",
-                "name":"Howard, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "4622":{
-                "district":"5",
-                "name":"Howard, Benjamin",
-                "party":"Republican"
-            },
-            "478":{
-                "district":"5",
-                "name":"Barry, William Taylor",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "1810":{
-                "district":"5",
-                "name":"Clay, Henry",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "3324":{
-                "district":"5",
-                "name":"Fowler, John",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "3324":{
-                "district":"5",
-                "name":"Fowler, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Kentucky"
+    "district":5,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ky"
 },
   "bbox": [
     -84.8659,

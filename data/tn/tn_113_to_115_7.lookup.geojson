@@ -1,19 +1,13 @@
 {
-  "id": "tn_113_to_115_07",
+  "id": "tn_113_to_115_7",
   "type": "Feature",
   "properties": {
-    "ALAND":23725460000,
-    "AWATER":416329748,
-    "CD113FP":"07",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4707",
-    "INTPTLAT":"+35.6333869",
-    "INTPTLON":"-087.8333474",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 7",
-    "STATEFP":"47"
+    "district":7,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tn"
 },
   "bbox": [
     -89.198288,

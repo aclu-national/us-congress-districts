@@ -1,49 +1,13 @@
 {
-  "id": "mi_48_to_52_04",
+  "id": "mi_48_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"026048052004",
-    "member":{
-        "48":{
-            "10413":{
-                "district":"4",
-                "name":"Yaple, George Lewis",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "1310":{
-                "district":"4",
-                "name":"Burrows, Julius Caesar",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "1310":{
-                "district":"4",
-                "name":"Burrows, Julius Caesar",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "1310":{
-                "district":"4",
-                "name":"Burrows, Julius Caesar",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "1310":{
-                "district":"4",
-                "name":"Burrows, Julius Caesar",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Michigan"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mi"
 },
   "bbox": [
     -86.82483,

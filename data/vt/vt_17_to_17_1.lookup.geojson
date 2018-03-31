@@ -1,21 +1,13 @@
 {
-  "id": "vt_17_to_17_01",
+  "id": "vt_17_to_17_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"17",
-    "id":"050017017001",
-    "member":{
-        "17":{
-            "5937":{
-                "district":"1",
-                "name":"Mallary, Rolin Carolas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Vermont"
+    "district":1,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"vt"
 },
   "bbox": [
     -73.43123,

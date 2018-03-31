@@ -1,49 +1,13 @@
 {
-  "id": "ky_8_to_12_04",
+  "id": "ky_8_to_12_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"12",
-    "id":"021008012004",
-    "member":{
-        "10":{
-            "4988":{
-                "district":"4",
-                "name":"Johnson, Richard Mentor",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "4988":{
-                "district":"4",
-                "name":"Johnson, Richard Mentor",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "4988":{
-                "district":"4",
-                "name":"Johnson, Richard Mentor",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "8203":{
-                "district":"4",
-                "name":"Sandford, Thomas",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "8203":{
-                "district":"4",
-                "name":"Sandford, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Kentucky"
+    "district":4,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ky"
 },
   "bbox": [
     -85.4829,

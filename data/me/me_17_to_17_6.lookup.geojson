@@ -1,21 +1,13 @@
 {
-  "id": "me_17_to_17_06",
+  "id": "me_17_to_17_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"17",
-    "id":"023017017006",
-    "member":{
-        "17":{
-            "2281":{
-                "district":"6",
-                "name":"Cushman, Joshua",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Maine"
+    "district":6,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"me"
 },
   "bbox": [
     -70.42919,

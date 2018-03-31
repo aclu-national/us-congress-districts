@@ -2,27 +2,12 @@
   "id": "nj_91_to_92_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"92",
-    "id":"034091092012",
-    "member":{
-        "91":{
-            "2804":{
-                "district":"12",
-                "name":"Dwyer, Florence Price",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "2804":{
-                "district":"12",
-                "name":"Dwyer, Florence Price",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New Jersey"
+    "district":12,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nj"
 },
   "bbox": [
     -74.463,

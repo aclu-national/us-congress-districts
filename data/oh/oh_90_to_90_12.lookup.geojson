@@ -2,20 +2,12 @@
   "id": "oh_90_to_90_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"90",
-    "id":"039090090012",
-    "member":{
-        "90":{
-            "2533":{
-                "district":"12",
-                "name":"Devine, Samuel Leeper",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"oh"
 },
   "bbox": [
     -83.05149,

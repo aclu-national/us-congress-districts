@@ -1,49 +1,13 @@
 {
-  "id": "mn_58_to_62_07",
+  "id": "mn_58_to_62_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"62",
-    "id":"027058062007",
-    "member":{
-        "58":{
-            "9683":{
-                "district":"7",
-                "name":"Volstead, Andrew John",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "9683":{
-                "district":"7",
-                "name":"Volstead, Andrew John",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "9683":{
-                "district":"7",
-                "name":"Volstead, Andrew John",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "9683":{
-                "district":"7",
-                "name":"Volstead, Andrew John",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "9683":{
-                "district":"7",
-                "name":"Volstead, Andrew John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Minnesota"
+    "district":7,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"mn"
 },
   "bbox": [
     -96.85775,

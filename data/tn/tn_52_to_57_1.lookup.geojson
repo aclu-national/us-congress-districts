@@ -1,56 +1,13 @@
 {
-  "id": "tn_52_to_57_01",
+  "id": "tn_52_to_57_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"57",
-    "id":"047052057001",
-    "member":{
-        "52":{
-            "9198":{
-                "district":"1",
-                "name":"Taylor, Alfred Alexander",
-                "party":"Republican"
-            }
-        },
-        "53":{
-            "9198":{
-                "district":"1",
-                "name":"Taylor, Alfred Alexander",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "187":{
-                "district":"1",
-                "name":"Anderson, William Coleman",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "1150":{
-                "district":"1",
-                "name":"Brownlow, Walter Preston",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "1150":{
-                "district":"1",
-                "name":"Brownlow, Walter Preston",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "1150":{
-                "district":"1",
-                "name":"Brownlow, Walter Preston",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"tn"
 },
   "bbox": [
     -83.9994,

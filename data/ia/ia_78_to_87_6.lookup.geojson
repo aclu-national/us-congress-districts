@@ -1,84 +1,13 @@
 {
-  "id": "ia_78_to_87_06",
+  "id": "ia_78_to_87_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"87",
-    "id":"019078087006",
-    "member":{
-        "78":{
-            "3580":{
-                "district":"6",
-                "name":"Gilchris, Fred Cramer",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "2647":{
-                "district":"6",
-                "name":"Dolliver, James Isaac",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "2647":{
-                "district":"6",
-                "name":"Dolliver, James Isaac",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "2647":{
-                "district":"6",
-                "name":"Dolliver, James Isaac",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "2647":{
-                "district":"6",
-                "name":"Dolliver, James Isaac",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "2647":{
-                "district":"6",
-                "name":"Dolliver, James Isaac",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "2647":{
-                "district":"6",
-                "name":"Dolliver, James Isaac",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "1861":{
-                "district":"6",
-                "name":"Coad, Merwin",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "1861":{
-                "district":"6",
-                "name":"Coad, Merwin",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "1861":{
-                "district":"6",
-                "name":"Coad, Merwin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Iowa"
+    "district":6,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ia"
 },
   "bbox": [
     -95.67275,

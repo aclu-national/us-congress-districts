@@ -1,28 +1,13 @@
 {
-  "id": "va_23_to_24_04",
+  "id": "va_23_to_24_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"24",
-    "id":"051023024004",
-    "member":{
-        "23":{
-            "3550":{
-                "district":"4",
-                "name":"Gholson, James Herbert",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "2733":{
-                "district":"4",
-                "name":"Dromgoole, George Coke",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1837-03-03",
+    "end_session":24,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"va"
 },
   "bbox": [
     -78.74044,

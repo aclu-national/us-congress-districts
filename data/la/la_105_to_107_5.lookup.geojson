@@ -1,35 +1,13 @@
 {
-  "id": "la_105_to_107_05",
+  "id": "la_105_to_107_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"107",
-    "id":"022105107005",
-    "member":{
-        "105":{
-            "29726":{
-                "district":"5",
-                "name":"Cooksey, John",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29726":{
-                "district":"5",
-                "name":"Cooksey, John",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29726":{
-                "district":"5",
-                "name":"Cooksey, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Louisiana"
+    "district":5,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"la"
 },
   "bbox": [
     -92.98146,

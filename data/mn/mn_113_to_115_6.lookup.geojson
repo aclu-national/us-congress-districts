@@ -1,19 +1,13 @@
 {
-  "id": "mn_113_to_115_06",
+  "id": "mn_113_to_115_6",
   "type": "Feature",
   "properties": {
-    "ALAND":7464826304,
-    "AWATER":404473149,
-    "CD113FP":"06",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2706",
-    "INTPTLAT":"+45.3368069",
-    "INTPTLON":"-093.8520551",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 6",
-    "STATEFP":"27"
+    "district":6,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mn"
 },
   "bbox": [
     -94.640411,

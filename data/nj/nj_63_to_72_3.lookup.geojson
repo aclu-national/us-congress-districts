@@ -1,84 +1,13 @@
 {
-  "id": "nj_63_to_72_03",
+  "id": "nj_63_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"034063072003",
-    "member":{
-        "63":{
-            "8330":{
-                "district":"3",
-                "name":"Scully, Thomas Joseph",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "8330":{
-                "district":"3",
-                "name":"Scully, Thomas Joseph",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8330":{
-                "district":"3",
-                "name":"Scully, Thomas Joseph",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "8330":{
-                "district":"3",
-                "name":"Scully, Thomas Joseph",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "217":{
-                "district":"3",
-                "name":"Appleby, Theodore Frank",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "3537":{
-                "district":"3",
-                "name":"Geran, Elmer Hendrickson",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "216":{
-                "district":"3",
-                "name":"Appleby, Stewart Hoffman",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4489":{
-                "district":"3",
-                "name":"Hoffman, Harold Giles",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4489":{
-                "district":"3",
-                "name":"Hoffman, Harold Giles",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9098":{
-                "district":"3",
-                "name":"Sutphin, William Halstead",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New Jersey"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nj"
 },
   "bbox": [
     -74.6301,

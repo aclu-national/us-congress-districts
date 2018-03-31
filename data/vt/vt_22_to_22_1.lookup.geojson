@@ -1,26 +1,13 @@
 {
-  "id": "vt_22_to_22_01",
+  "id": "vt_22_to_22_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"22",
-    "id":"050022022001",
-    "member":{
-        "22":{
-            "3939":{
-                "district":"1",
-                "name":"Hall, Hiland",
-                "party":"Anti-Jackson"
-            },
-            "4746":{
-                "district":"1",
-                "name":"Hunt, Jonathan",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"22",
-    "statename":"Vermont"
+    "district":1,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1831-12-05",
+    "start_session":22,
+    "state":"vt"
 },
   "bbox": [
     -73.29094,

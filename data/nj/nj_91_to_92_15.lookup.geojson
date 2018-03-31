@@ -2,27 +2,12 @@
   "id": "nj_91_to_92_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"92",
-    "id":"034091092015",
-    "member":{
-        "91":{
-            "10613":{
-                "district":"15",
-                "name":"Patten, Edward J.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10613":{
-                "district":"15",
-                "name":"Patten, Edward J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New Jersey"
+    "district":15,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nj"
 },
   "bbox": [
     -74.6301,

@@ -1,35 +1,13 @@
 {
-  "id": "in_55_to_57_06",
+  "id": "in_55_to_57_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"57",
-    "id":"018055057006",
-    "member":{
-        "55":{
-            "4960":{
-                "district":"6",
-                "name":"Johnson, Henry Underwood",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "9875":{
-                "district":"6",
-                "name":"Watson, James Eli",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "9875":{
-                "district":"6",
-                "name":"Watson, James Eli",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Indiana"
+    "district":6,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"in"
 },
   "bbox": [
     -85.95398,

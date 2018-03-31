@@ -1,49 +1,13 @@
 {
-  "id": "tx_32_to_36_01",
+  "id": "tx_32_to_36_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"36",
-    "id":"048032036001",
-    "member":{
-        "32":{
-            "8331":{
-                "district":"1",
-                "name":"Scurry, Richardson",
-                "party":"Democrat"
-            }
-        },
-        "33":{
-            "8716":{
-                "district":"1",
-                "name":"Smyth, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "3016":{
-                "district":"1",
-                "name":"Evans, Lemuel Dale",
-                "party":"American"
-            }
-        },
-        "35":{
-            "7769":{
-                "district":"1",
-                "name":"Reagan, John Henninger",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "7769":{
-                "district":"1",
-                "name":"Reagan, John Henninger",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"32",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1851-03-04",
+    "start_session":32,
+    "state":"tx"
 },
   "bbox": [
     -100.66137,

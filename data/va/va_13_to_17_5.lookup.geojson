@@ -1,49 +1,13 @@
 {
-  "id": "va_13_to_17_05",
+  "id": "va_13_to_17_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"17",
-    "id":"051013017005",
-    "member":{
-        "13":{
-            "992":{
-                "district":"5",
-                "name":"Breckinridge, James",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "992":{
-                "district":"5",
-                "name":"Breckinridge, James",
-                "party":"Federalist"
-            }
-        },
-        "15":{
-            "3234":{
-                "district":"5",
-                "name":"Floyd, John",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "3234":{
-                "district":"5",
-                "name":"Floyd, John",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "3234":{
-                "district":"5",
-                "name":"Floyd, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -81.88489,

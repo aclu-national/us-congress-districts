@@ -1,77 +1,13 @@
 {
-  "id": "sc_104_to_112_04",
+  "id": "sc_104_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"045104112004",
-    "member":{
-        "104":{
-            "39300":{
-                "district":"4",
-                "name":"Inglis, Bob",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "39300":{
-                "district":"4",
-                "name":"Inglis, Bob",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29936":{
-                "district":"4",
-                "name":"Demint, Jim",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29936":{
-                "district":"4",
-                "name":"Demint, Jim",
-                "party":"Republican"
-            }
-        },
-        "108":{
-            "29936":{
-                "district":"4",
-                "name":"Demint, Jim",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "39300":{
-                "district":"4",
-                "name":"Inglis, Bob",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "39300":{
-                "district":"4",
-                "name":"Inglis, Bob",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "39300":{
-                "district":"4",
-                "name":"Inglis, Bob",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21175":{
-                "district":"4",
-                "name":"Gowdy, Trey",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"South Carolina"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"sc"
 },
   "bbox": [
     -82.76446,

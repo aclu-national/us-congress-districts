@@ -2,20 +2,12 @@
   "id": "ny_33_to_33_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"33",
-    "id":"036033033031",
-    "member":{
-        "33":{
-            "3199":{
-                "district":"31",
-                "name":"Flagler, Thomas Thorn",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

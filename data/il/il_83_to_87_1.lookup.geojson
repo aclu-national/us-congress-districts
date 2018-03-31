@@ -1,49 +1,13 @@
 {
-  "id": "il_83_to_87_01",
+  "id": "il_83_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"017083087001",
-    "member":{
-        "83":{
-            "2433":{
-                "district":"1",
-                "name":"Dawson, William Levei",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "2433":{
-                "district":"1",
-                "name":"Dawson, William Levei",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "2433":{
-                "district":"1",
-                "name":"Dawson, William Levei",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "2433":{
-                "district":"1",
-                "name":"Dawson, William Levei",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "2433":{
-                "district":"1",
-                "name":"Dawson, William Levei",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -87.64295,

@@ -2,27 +2,12 @@
   "id": "oh_88_to_89_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"89",
-    "id":"039088089017",
-    "member":{
-        "88":{
-            "10502":{
-                "district":"17",
-                "name":"Ashbrook, John M.",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10502":{
-                "district":"17",
-                "name":"Ashbrook, John M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"oh"
 },
   "bbox": [
     -83.24962,

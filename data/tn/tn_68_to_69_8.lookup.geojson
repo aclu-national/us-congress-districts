@@ -1,28 +1,13 @@
 {
-  "id": "tn_68_to_69_08",
+  "id": "tn_68_to_69_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"69",
-    "id":"047068069008",
-    "member":{
-        "68":{
-            "1147":{
-                "district":"8",
-                "name":"Browning, Gordon",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1147":{
-                "district":"8",
-                "name":"Browning, Gordon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"tn"
 },
   "bbox": [
     -89.64428,

@@ -1,59 +1,13 @@
 {
-  "id": "ma_23_to_27_01",
+  "id": "ma_23_to_27_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"27",
-    "id":"025023027001",
-    "member":{
-        "23":{
-            "3707":{
-                "district":"1",
-                "name":"Gorham, Benjamin",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "5507":{
-                "district":"1",
-                "name":"Lawrence, Abbott",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "3219":{
-                "district":"1",
-                "name":"Fletcher, Richard",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "10284":{
-                "district":"1",
-                "name":"Winthrop, Robert Charles",
-                "party":"Whig"
-            },
-            "5507":{
-                "district":"1",
-                "name":"Lawrence, Abbott",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "10284":{
-                "district":"1",
-                "name":"Winthrop, Robert Charles",
-                "party":"Whig"
-            },
-            "219":{
-                "district":"1",
-                "name":"Appleton, Nathan",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ma"
 },
   "bbox": [
     -71.09552,

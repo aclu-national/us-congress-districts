@@ -2,27 +2,12 @@
   "id": "in_41_to_42_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"42",
-    "id":"018041042010",
-    "member":{
-        "41":{
-            "10188":{
-                "district":"10",
-                "name":"Williams, William",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "10188":{
-                "district":"10",
-                "name":"Williams, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Indiana"
+    "district":10,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"in"
 },
   "bbox": [
     -86.07733,

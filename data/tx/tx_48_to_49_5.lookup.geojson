@@ -1,28 +1,13 @@
 {
-  "id": "tx_48_to_49_05",
+  "id": "tx_48_to_49_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"49",
-    "id":"048048049005",
-    "member":{
-        "48":{
-            "9363":{
-                "district":"5",
-                "name":"Throckmorton, James Webb",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "9363":{
-                "district":"5",
-                "name":"Throckmorton, James Webb",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Texas"
+    "district":5,
+    "end_date":"1887-03-03",
+    "end_session":49,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"tx"
 },
   "bbox": [
     -99.4758,

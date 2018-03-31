@@ -1,28 +1,13 @@
 {
-  "id": "tn_93_to_94_06",
+  "id": "tn_93_to_94_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"94",
-    "id":"047093094006",
-    "member":{
-        "93":{
-            "14004":{
-                "district":"6",
-                "name":"Beard, Robin",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14004":{
-                "district":"6",
-                "name":"Beard, Robin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1976-10-01",
+    "end_session":94,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tn"
 },
   "bbox": [
     -90.02528,

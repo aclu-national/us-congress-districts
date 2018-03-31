@@ -1,42 +1,13 @@
 {
-  "id": "tx_94_to_97_02",
+  "id": "tx_94_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"048094097002",
-    "member":{
-        "94":{
-            "14062":{
-                "district":"2",
-                "name":"Wilson, Charles",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14062":{
-                "district":"2",
-                "name":"Wilson, Charles",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14062":{
-                "district":"2",
-                "name":"Wilson, Charles",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14062":{
-                "district":"2",
-                "name":"Wilson, Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"Texas"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"tx"
 },
   "bbox": [
     -96.49671,

@@ -2,41 +2,12 @@
   "id": "ny_94_to_97_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"97",
-    "id":"036094097013",
-    "member":{
-        "94":{
-            "14277":{
-                "district":"13",
-                "name":"Solarz, Stephen",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14277":{
-                "district":"13",
-                "name":"Solarz, Stephen",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14277":{
-                "district":"13",
-                "name":"Solarz, Stephen",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14277":{
-                "district":"13",
-                "name":"Solarz, Stephen",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -74.013,

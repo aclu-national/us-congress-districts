@@ -1,42 +1,13 @@
 {
-  "id": "mi_24_to_27_00",
+  "id": "mi_24_to_27_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"27",
-    "id":"026024027000",
-    "member":{
-        "24":{
-            "2152":{
-                "district":"1",
-                "name":"Crary, Isaac Edwin",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "2152":{
-                "district":"1",
-                "name":"Crary, Isaac Edwin",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "2152":{
-                "district":"1",
-                "name":"Crary, Isaac Edwin",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "4627":{
-                "district":"1",
-                "name":"Howard, Jacob Merritt",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"24",
-    "statename":"Michigan"
+    "district":0,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1835-12-07",
+    "start_session":24,
+    "state":"mi"
 },
   "bbox": [
     -90.41814,

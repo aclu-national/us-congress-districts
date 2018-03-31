@@ -2,41 +2,12 @@
   "id": "ca_99_to_102_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"102",
-    "id":"006099102014",
-    "member":{
-        "100":{
-            "14660":{
-                "district":"14",
-                "name":"Shumway, Norman David",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14660":{
-                "district":"14",
-                "name":"Shumway, Norman David",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "29104":{
-                "district":"14",
-                "name":"Doolittle, John T.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14660":{
-                "district":"14",
-                "name":"Shumway, Norman David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":14,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -121.58056,

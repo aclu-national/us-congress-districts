@@ -1,21 +1,13 @@
 {
-  "id": "ri_72_to_72_01",
+  "id": "ri_72_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"044072072001",
-    "member":{
-        "72":{
-            "1251":{
-                "district":"1",
-                "name":"Burdick, Clark",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"72",
-    "statename":"Rhode Island"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1931-12-07",
+    "start_session":72,
+    "state":"ri"
 },
   "bbox": [
     -71.61313,

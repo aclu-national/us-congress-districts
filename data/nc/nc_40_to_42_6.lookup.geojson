@@ -1,35 +1,13 @@
 {
-  "id": "nc_40_to_42_06",
+  "id": "nc_40_to_42_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"42",
-    "id":"037040042006",
-    "member":{
-        "40":{
-            "934":{
-                "district":"6",
-                "name":"Boyden, Nathaniel",
-                "party":"Conservative"
-            }
-        },
-        "41":{
-            "8479":{
-                "district":"6",
-                "name":"Shober, Francis Edwin",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "8479":{
-                "district":"6",
-                "name":"Shober, Francis Edwin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"nc"
 },
   "bbox": [
     -81.54546,

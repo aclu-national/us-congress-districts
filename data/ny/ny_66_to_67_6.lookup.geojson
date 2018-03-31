@@ -1,28 +1,13 @@
 {
-  "id": "ny_66_to_67_06",
+  "id": "ny_66_to_67_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"67",
-    "id":"036066067006",
-    "member":{
-        "66":{
-            "8092":{
-                "district":"6",
-                "name":"Rowe, Frederick William",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5571":{
-                "district":"6",
-                "name":"Lee, Warren Isbell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -73.9883,

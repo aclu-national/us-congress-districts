@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"62",
-    "id":"036058062017",
-    "member":{
-        "58":{
-            "8480":{
-                "district":"17",
-                "name":"Shober, Francis Emanuel",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "632":{
-                "district":"17",
-                "name":"Bennet, William Stiles",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "632":{
-                "district":"17",
-                "name":"Bennet, William Stiles",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "632":{
-                "district":"17",
-                "name":"Bennet, William Stiles",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "3531":{
-                "district":"17",
-                "name":"George, Henry Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -73.97542,

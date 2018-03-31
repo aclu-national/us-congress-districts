@@ -2,48 +2,12 @@
   "id": "fl_108_to_112_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"112",
-    "id":"012108112015",
-    "member":{
-        "108":{
-            "29509":{
-                "district":"15",
-                "name":"Weldon, Dave",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29509":{
-                "district":"15",
-                "name":"Weldon, Dave",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29509":{
-                "district":"15",
-                "name":"Weldon, Dave",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20909":{
-                "district":"15",
-                "name":"Posey, Bill",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20909":{
-                "district":"15",
-                "name":"Posey, Bill",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Florida"
+    "district":15,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"fl"
 },
   "bbox": [
     -81.83772,

@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_36",
   "type": "Feature",
   "properties": {
-    "district":"36",
-    "endcong":"62",
-    "id":"036058062036",
-    "member":{
-        "58":{
-            "79":{
-                "district":"36",
-                "name":"Alexander, De Alva Stanwood",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "79":{
-                "district":"36",
-                "name":"Alexander, De Alva Stanwood",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "79":{
-                "district":"36",
-                "name":"Alexander, De Alva Stanwood",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "79":{
-                "district":"36",
-                "name":"Alexander, De Alva Stanwood",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "8605":{
-                "district":"36",
-                "name":"Smith, Charles Bennett",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":36,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

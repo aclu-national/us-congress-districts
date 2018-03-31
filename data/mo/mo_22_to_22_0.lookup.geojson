@@ -1,21 +1,13 @@
 {
-  "id": "mo_22_to_22_00",
+  "id": "mo_22_to_22_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"22",
-    "id":"029022022000",
-    "member":{
-        "22":{
-            "268":{
-                "district":"1",
-                "name":"Ashley, William Henry",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"22",
-    "statename":"Missouri"
+    "district":0,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1831-12-05",
+    "start_session":22,
+    "state":"mo"
 },
   "bbox": [
     -95.7747,

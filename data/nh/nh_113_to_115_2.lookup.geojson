@@ -1,19 +1,13 @@
 {
-  "id": "nh_113_to_115_02",
+  "id": "nh_113_to_115_2",
   "type": "Feature",
   "properties": {
-    "ALAND":16806770291,
-    "AWATER":400787059,
-    "CD113FP":"02",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3302",
-    "INTPTLAT":"+43.7641775",
-    "INTPTLON":"-071.7213985",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 2",
-    "STATEFP":"33"
+    "district":2,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nh"
 },
   "bbox": [
     -72.557185,

@@ -1,59 +1,13 @@
 {
-  "id": "il_33_to_37_06",
+  "id": "il_33_to_37_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"37",
-    "id":"017033037006",
-    "member":{
-        "33":{
-            "10419":{
-                "district":"6",
-                "name":"Yates, Richard",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "4116":{
-                "district":"6",
-                "name":"Harris, Thomas Langrell",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "4116":{
-                "district":"6",
-                "name":"Harris, Thomas Langrell",
-                "party":"Democrat"
-            },
-            "4478":{
-                "district":"6",
-                "name":"Hodges, Charles Drury",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "6157":{
-                "district":"6",
-                "name":"McClernand, John Alexander",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "5328":{
-                "district":"6",
-                "name":"Knapp, Anthony Lausett",
-                "party":"Democrat"
-            },
-            "6157":{
-                "district":"6",
-                "name":"McClernand, John Alexander",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Illinois"
+    "district":6,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"il"
 },
   "bbox": [
     -90.64611,

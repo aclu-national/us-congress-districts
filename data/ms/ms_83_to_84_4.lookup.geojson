@@ -1,28 +1,13 @@
 {
-  "id": "ms_83_to_84_04",
+  "id": "ms_83_to_84_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"84",
-    "id":"028083084004",
-    "member":{
-        "83":{
-            "10162":{
-                "district":"4",
-                "name":"Williams, John Bell",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "10162":{
-                "district":"4",
-                "name":"Williams, John Bell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Mississippi"
+    "district":4,
+    "end_date":"1956-07-27",
+    "end_session":84,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ms"
 },
   "bbox": [
     -91.65501,

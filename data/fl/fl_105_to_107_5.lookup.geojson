@@ -1,35 +1,13 @@
 {
-  "id": "fl_105_to_107_05",
+  "id": "fl_105_to_107_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"107",
-    "id":"012105107005",
-    "member":{
-        "105":{
-            "29330":{
-                "district":"5",
-                "name":"Thurman, Karen L.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29330":{
-                "district":"5",
-                "name":"Thurman, Karen L.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29330":{
-                "district":"5",
-                "name":"Thurman, Karen L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Florida"
+    "district":5,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"fl"
 },
   "bbox": [
     -83.16609,

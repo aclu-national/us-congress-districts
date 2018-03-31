@@ -1,21 +1,13 @@
 {
-  "id": "wa_98_to_98_03",
+  "id": "wa_98_to_98_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"98",
-    "id":"053098098003",
-    "member":{
-        "98":{
-            "14208":{
-                "district":"3",
-                "name":"Bonker, Don",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Washington"
+    "district":3,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"wa"
 },
   "bbox": [
     -124.13883,

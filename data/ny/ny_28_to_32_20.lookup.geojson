@@ -2,53 +2,12 @@
   "id": "ny_28_to_32_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"32",
-    "id":"036028032020",
-    "member":{
-        "28":{
-            "1522":{
-                "district":"20",
-                "name":"Carpenter, Levi D.",
-                "party":"Democrat"
-            },
-            "553":{
-                "district":"20",
-                "name":"Beardsley, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4918":{
-                "district":"20",
-                "name":"Jenkins, Timothy",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "4918":{
-                "district":"20",
-                "name":"Jenkins, Timothy",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "6082":{
-                "district":"20",
-                "name":"Matterson, Orsamus Benaja",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "4918":{
-                "district":"20",
-                "name":"Jenkins, Timothy",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -75.88676,

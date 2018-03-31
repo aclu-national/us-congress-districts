@@ -2,27 +2,12 @@
   "id": "oh_50_to_51_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"51",
-    "id":"039050051014",
-    "member":{
-        "50":{
-            "10087":{
-                "district":"14",
-                "name":"Wickham, Charles Preston",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "10087":{
-                "district":"14",
-                "name":"Wickham, Charles Preston",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"oh"
 },
   "bbox": [
     -82.84134,

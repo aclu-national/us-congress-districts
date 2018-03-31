@@ -1,119 +1,13 @@
 {
-  "id": "nj_73_to_87_08",
+  "id": "nj_73_to_87_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"87",
-    "id":"034073087008",
-    "member":{
-        "73":{
-            "8350":{
-                "district":"8",
-                "name":"Seger, George Nicholas",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "8350":{
-                "district":"8",
-                "name":"Seger, George Nicholas",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "8350":{
-                "district":"8",
-                "name":"Seger, George Nicholas",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "8350":{
-                "district":"8",
-                "name":"Seger, George Nicholas",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "1476":{
-                "district":"8",
-                "name":"Canfield, Gordon",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "1476":{
-                "district":"8",
-                "name":"Canfield, Gordon",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "1476":{
-                "district":"8",
-                "name":"Canfield, Gordon",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "1476":{
-                "district":"8",
-                "name":"Canfield, Gordon",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "1476":{
-                "district":"8",
-                "name":"Canfield, Gordon",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "1476":{
-                "district":"8",
-                "name":"Canfield, Gordon",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "1476":{
-                "district":"8",
-                "name":"Canfield, Gordon",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "1476":{
-                "district":"8",
-                "name":"Canfield, Gordon",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "1476":{
-                "district":"8",
-                "name":"Canfield, Gordon",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "1476":{
-                "district":"8",
-                "name":"Canfield, Gordon",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10529":{
-                "district":"8",
-                "name":"Joelson, Charles S.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New Jersey"
+    "district":8,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"nj"
 },
   "bbox": [
     -74.36312,

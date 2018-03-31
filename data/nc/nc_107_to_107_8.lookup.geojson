@@ -1,21 +1,13 @@
 {
-  "id": "nc_107_to_107_08",
+  "id": "nc_107_to_107_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"107",
-    "id":"037107107008",
-    "member":{
-        "107":{
-            "29929":{
-                "district":"8",
-                "name":"Hayes, Robin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"107",
-    "statename":"North Carolina"
+    "district":8,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"2001-01-03",
+    "start_session":107,
+    "state":"nc"
 },
   "bbox": [
     -80.84034,

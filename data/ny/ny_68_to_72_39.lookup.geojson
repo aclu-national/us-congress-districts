@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_39",
   "type": "Feature",
   "properties": {
-    "district":"39",
-    "endcong":"72",
-    "id":"036068072039",
-    "member":{
-        "68":{
-            "8195":{
-                "district":"39",
-                "name":"Sanders, Archie Dovell",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "8195":{
-                "district":"39",
-                "name":"Sanders, Archie Dovell",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "8195":{
-                "district":"39",
-                "name":"Sanders, Archie Dovell",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8195":{
-                "district":"39",
-                "name":"Sanders, Archie Dovell",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "8195":{
-                "district":"39",
-                "name":"Sanders, Archie Dovell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":39,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -78.48814,

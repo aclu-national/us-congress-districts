@@ -1,21 +1,13 @@
 {
-  "id": "ca_48_to_48_04",
+  "id": "ca_48_to_48_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"48",
-    "id":"006048048004",
-    "member":{
-        "48":{
-            "9504":{
-                "district":"4",
-                "name":"Tully, Pleasant Britton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"California"
+    "district":4,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ca"
 },
   "bbox": [
     -122.52069,

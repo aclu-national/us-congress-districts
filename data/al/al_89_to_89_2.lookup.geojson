@@ -1,21 +1,13 @@
 {
-  "id": "al_89_to_89_02",
+  "id": "al_89_to_89_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"89",
-    "id":"001089089002",
-    "member":{
-        "89":{
-            "10717":{
-                "district":"2",
-                "name":"Dickinson, William L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Alabama"
+    "district":2,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"al"
 },
   "bbox": [
     -88.02938,

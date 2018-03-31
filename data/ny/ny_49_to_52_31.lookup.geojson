@@ -2,41 +2,12 @@
   "id": "ny_49_to_52_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"52",
-    "id":"036049052031",
-    "member":{
-        "49":{
-            "8236":{
-                "district":"31",
-                "name":"Sawyer, John Gilbert",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "8236":{
-                "district":"31",
-                "name":"Sawyer, John Gilbert",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "8236":{
-                "district":"31",
-                "name":"Sawyer, John Gilbert",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "9704":{
-                "district":"31",
-                "name":"Wadsworth, James Wolcott",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -78.48814,

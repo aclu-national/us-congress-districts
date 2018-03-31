@@ -2,32 +2,12 @@
   "id": "va_26_to_27_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"27",
-    "id":"051026027014",
-    "member":{
-        "26":{
-            "6141":{
-                "district":"14",
-                "name":"McCarty, William Mason",
-                "party":"Whig"
-            },
-            "6415":{
-                "district":"14",
-                "name":"Mercer, Charles Fenton",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "7570":{
-                "district":"14",
-                "name":"Powell, Cuthbert",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"26",
-    "statename":"Virginia"
+    "district":14,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1839-12-02",
+    "start_session":26,
+    "state":"va"
 },
   "bbox": [
     -78.13085,

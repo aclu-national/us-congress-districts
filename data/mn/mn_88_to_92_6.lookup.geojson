@@ -1,49 +1,13 @@
 {
-  "id": "mn_88_to_92_06",
+  "id": "mn_88_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"027088092006",
-    "member":{
-        "88":{
-            "10612":{
-                "district":"6",
-                "name":"Olson, Alex G.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10612":{
-                "district":"6",
-                "name":"Olson, Alex G.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11060":{
-                "district":"6",
-                "name":"Zwach, John M.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11060":{
-                "district":"6",
-                "name":"Zwach, John M.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11060":{
-                "district":"6",
-                "name":"Zwach, John M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Minnesota"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mn"
 },
   "bbox": [
     -96.83545,

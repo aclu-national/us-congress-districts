@@ -2,27 +2,12 @@
   "id": "oh_91_to_92_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"92",
-    "id":"039091092016",
-    "member":{
-        "91":{
-            "891":{
-                "district":"16",
-                "name":"Bow, Frank Townsend",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "891":{
-                "district":"16",
-                "name":"Bow, Frank Townsend",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Ohio"
+    "district":16,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"oh"
 },
   "bbox": [
     -81.65005,

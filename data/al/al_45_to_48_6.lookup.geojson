@@ -1,47 +1,13 @@
 {
-  "id": "al_45_to_48_06",
+  "id": "al_45_to_48_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"48",
-    "id":"001045048006",
-    "member":{
-        "45":{
-            "4376":{
-                "district":"6",
-                "name":"Hewitt, Goldsmith Whitehouse",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "1834":{
-                "district":"6",
-                "name":"Clements, Newton Nash",
-                "party":"Democrat"
-            },
-            "5631":{
-                "district":"6",
-                "name":"Lewis, Burwell Boykin",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "4376":{
-                "district":"6",
-                "name":"Hewitt, Goldsmith Whitehouse",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "4376":{
-                "district":"6",
-                "name":"Hewitt, Goldsmith Whitehouse",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Alabama"
+    "district":6,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"al"
 },
   "bbox": [
     -88.42145,

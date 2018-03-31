@@ -2,48 +2,12 @@
   "id": "ky_18_to_22_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"22",
-    "id":"021018022010",
-    "member":{
-        "18":{
-            "4951":{
-                "district":"10",
-                "name":"Johnson, Francis",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "4951":{
-                "district":"10",
-                "name":"Johnson, Francis",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "10410":{
-                "district":"10",
-                "name":"Yancey, Joel",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "10410":{
-                "district":"10",
-                "name":"Yancey, Joel",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "9415":{
-                "district":"10",
-                "name":"Tompkins, Christopher",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Kentucky"
+    "district":10,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ky"
 },
   "bbox": [
     -87.08182,

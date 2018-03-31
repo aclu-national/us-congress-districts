@@ -1,21 +1,13 @@
 {
-  "id": "pa_83_to_83_08",
+  "id": "pa_83_to_83_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"83",
-    "id":"042083083008",
-    "member":{
-        "83":{
-            "5267":{
-                "district":"8",
-                "name":"King, Karl Clarence",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1954-12-02",
+    "end_session":83,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"pa"
 },
   "bbox": [
     -75.89147,

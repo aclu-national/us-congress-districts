@@ -2,48 +2,12 @@
   "id": "mo_53_to_57_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"57",
-    "id":"029053057015",
-    "member":{
-        "53":{
-            "6672":{
-                "district":"15",
-                "name":"Morgan, Charles Henry",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "1315":{
-                "district":"15",
-                "name":"Burton, Charles Germman",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "657":{
-                "district":"15",
-                "name":"Benton, Maecenas Eason",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "657":{
-                "district":"15",
-                "name":"Benton, Maecenas Eason",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "657":{
-                "district":"15",
-                "name":"Benton, Maecenas Eason",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Missouri"
+    "district":15,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mo"
 },
   "bbox": [
     -94.61866,

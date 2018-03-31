@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_35",
   "type": "Feature",
   "properties": {
-    "district":"35",
-    "endcong":"62",
-    "id":"036058062035",
-    "member":{
-        "58":{
-            "8160":{
-                "district":"35",
-                "name":"Ryan, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "8160":{
-                "district":"35",
-                "name":"Ryan, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "8160":{
-                "district":"35",
-                "name":"Ryan, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "2729":{
-                "district":"35",
-                "name":"Driscoll, Daniel Angelus",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "2729":{
-                "district":"35",
-                "name":"Driscoll, Daniel Angelus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":35,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -78.89096,

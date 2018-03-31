@@ -1,21 +1,13 @@
 {
-  "id": "oh_22_to_22_09",
+  "id": "oh_22_to_22_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"22",
-    "id":"039022022009",
-    "member":{
-        "22":{
-            "4819":{
-                "district":"9",
-                "name":"Irvin, William W.",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"22",
-    "statename":"Ohio"
+    "district":9,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1831-12-05",
+    "start_session":22,
+    "state":"oh"
 },
   "bbox": [
     -82.84307,

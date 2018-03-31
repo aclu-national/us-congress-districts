@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_36",
   "type": "Feature",
   "properties": {
-    "district":"36",
-    "endcong":"90",
-    "id":"036088090036",
-    "member":{
-        "88":{
-            "10596":{
-                "district":"36",
-                "name":"Horton, Frank J.",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10596":{
-                "district":"36",
-                "name":"Horton, Frank J.",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "10596":{
-                "district":"36",
-                "name":"Horton, Frank J.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":36,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -77.7303,

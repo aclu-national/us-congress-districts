@@ -1,49 +1,13 @@
 {
-  "id": "mo_53_to_57_04",
+  "id": "mo_53_to_57_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"57",
-    "id":"029053057004",
-    "member":{
-        "53":{
-            "1285":{
-                "district":"4",
-                "name":"Burnes, Daniel Dee",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "2216":{
-                "district":"4",
-                "name":"Crowther, George Calhoun",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "1879":{
-                "district":"4",
-                "name":"Cochran, Charles Fremont",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "1879":{
-                "district":"4",
-                "name":"Cochran, Charles Fremont",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "1879":{
-                "district":"4",
-                "name":"Cochran, Charles Fremont",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Missouri"
+    "district":4,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mo"
 },
   "bbox": [
     -95.7747,

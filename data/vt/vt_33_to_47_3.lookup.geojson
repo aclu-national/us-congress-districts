@@ -1,119 +1,13 @@
 {
-  "id": "vt_33_to_47_03",
+  "id": "vt_33_to_47_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"47",
-    "id":"050033047003",
-    "member":{
-        "33":{
-            "8164":{
-                "district":"3",
-                "name":"Sabin, Alvah",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "8164":{
-                "district":"3",
-                "name":"Sabin, Alvah",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "8098":{
-                "district":"3",
-                "name":"Royce, Homer Elihu",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "8098":{
-                "district":"3",
-                "name":"Royce, Homer Elihu",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "522":{
-                "district":"3",
-                "name":"Baxter, Portus",
-                "party":"Republican"
-            }
-        },
-        "38":{
-            "522":{
-                "district":"3",
-                "name":"Baxter, Portus",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "522":{
-                "district":"3",
-                "name":"Baxter, Portus",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "8710":{
-                "district":"3",
-                "name":"Smith, Worthington Curtis",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "8710":{
-                "district":"3",
-                "name":"Smith, Worthington Curtis",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "8710":{
-                "district":"3",
-                "name":"Smith, Worthington Curtis",
-                "party":"Republican"
-            }
-        },
-        "43":{
-            "4302":{
-                "district":"3",
-                "name":"Hendee, George Whitman",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "4302":{
-                "district":"3",
-                "name":"Hendee, George Whitman",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "4302":{
-                "district":"3",
-                "name":"Hendee, George Whitman",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "440":{
-                "district":"3",
-                "name":"Barlow, Bradley",
-                "party":"National Greenbacker"
-            }
-        },
-        "47":{
-            "3858":{
-                "district":"3",
-                "name":"Grout, William Wallace",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Vermont"
+    "district":3,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"vt"
 },
   "bbox": [
     -73.39023,

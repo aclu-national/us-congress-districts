@@ -2,34 +2,12 @@
   "id": "ma_88_to_90_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"90",
-    "id":"025088090010",
-    "member":{
-        "88":{
-            "6033":{
-                "district":"10",
-                "name":"Martin, Joseph William, Jr.",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "6033":{
-                "district":"10",
-                "name":"Martin, Joseph William, Jr.",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "11021":{
-                "district":"10",
-                "name":"Heckler, Margaret M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ma"
 },
   "bbox": [
     -71.4581,

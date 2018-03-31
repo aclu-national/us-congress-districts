@@ -1,49 +1,13 @@
 {
-  "id": "fl_83_to_87_04",
+  "id": "fl_83_to_87_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"87",
-    "id":"012083087004",
-    "member":{
-        "83":{
-            "5471":{
-                "district":"4",
-                "name":"Lantaff, William Courtlan",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "3078":{
-                "district":"4",
-                "name":"Fascell, Dante Bruno",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "3078":{
-                "district":"4",
-                "name":"Fascell, Dante Bruno",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "3078":{
-                "district":"4",
-                "name":"Fascell, Dante Bruno",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "3078":{
-                "district":"4",
-                "name":"Fascell, Dante Bruno",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Florida"
+    "district":4,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"fl"
 },
   "bbox": [
     -82.9264,

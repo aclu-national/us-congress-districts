@@ -1,84 +1,13 @@
 {
-  "id": "wv_48_to_57_02",
+  "id": "wv_48_to_57_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"57",
-    "id":"054048057002",
-    "member":{
-        "48":{
-            "10262":{
-                "district":"2",
-                "name":"Wilson, William Lyne",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "10262":{
-                "district":"2",
-                "name":"Wilson, William Lyne",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "10262":{
-                "district":"2",
-                "name":"Wilson, William Lyne",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "10262":{
-                "district":"2",
-                "name":"Wilson, William Lyne",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "10262":{
-                "district":"2",
-                "name":"Wilson, William Lyne",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "10262":{
-                "district":"2",
-                "name":"Wilson, William Lyne",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "2438":{
-                "district":"2",
-                "name":"Dayton, Alston Gordon",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2438":{
-                "district":"2",
-                "name":"Dayton, Alston Gordon",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2438":{
-                "district":"2",
-                "name":"Dayton, Alston Gordon",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2438":{
-                "district":"2",
-                "name":"Dayton, Alston Gordon",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"West Virginia"
+    "district":2,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"wv"
 },
   "bbox": [
     -80.49816,

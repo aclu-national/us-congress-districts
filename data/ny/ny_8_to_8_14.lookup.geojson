@@ -2,20 +2,12 @@
   "id": "ny_8_to_8_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"8",
-    "id":"036008008014",
-    "member":{
-        "8":{
-            "8056":{
-                "district":"14",
-                "name":"Root, Erastus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1805-03-03",
+    "end_session":8,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

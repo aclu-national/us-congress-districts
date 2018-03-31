@@ -1,21 +1,13 @@
 {
-  "id": "va_18_to_18_04",
+  "id": "va_18_to_18_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"18",
-    "id":"051018018004",
-    "member":{
-        "18":{
-            "87":{
-                "district":"4",
-                "name":"Alexander, Mark",
-                "party":"Crawford Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"va"
 },
   "bbox": [
     -78.74044,

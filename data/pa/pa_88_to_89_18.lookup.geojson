@@ -2,27 +2,12 @@
   "id": "pa_88_to_89_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"89",
-    "id":"042088089018",
-    "member":{
-        "88":{
-            "2065":{
-                "district":"18",
-                "name":"Corbett, Robert James",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "2065":{
-                "district":"18",
-                "name":"Corbett, Robert James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"pa"
 },
   "bbox": [
     -80.22861,

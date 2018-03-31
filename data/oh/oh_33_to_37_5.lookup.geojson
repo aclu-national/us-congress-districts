@@ -1,49 +1,13 @@
 {
-  "id": "oh_33_to_37_05",
+  "id": "oh_33_to_37_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"37",
-    "id":"039033037005",
-    "member":{
-        "33":{
-            "2845":{
-                "district":"5",
-                "name":"Edgerton, Alfred Peck",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "6763":{
-                "district":"5",
-                "name":"Mott, Richard",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "6763":{
-                "district":"5",
-                "name":"Mott, Richard",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "266":{
-                "district":"5",
-                "name":"Ashley, James Mitchell",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "266":{
-                "district":"5",
-                "name":"Ashley, James Mitchell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -84.80618,

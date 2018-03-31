@@ -2,34 +2,12 @@
   "id": "pa_48_to_50_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"50",
-    "id":"042048050027",
-    "member":{
-        "48":{
-            "970":{
-                "district":"27",
-                "name":"Brainerd, Samuel Myron",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "8314":{
-                "district":"27",
-                "name":"Scott, William Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "8314":{
-                "district":"27",
-                "name":"Scott, William Lawrence",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":27,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -80.51943,

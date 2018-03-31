@@ -2,27 +2,12 @@
   "id": "ma_53_to_54_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"54",
-    "id":"025053054013",
-    "member":{
-        "53":{
-            "7713":{
-                "district":"13",
-                "name":"Randall, Charles Sturtevant",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "8526":{
-                "district":"13",
-                "name":"Simpkins, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Massachusetts"
+    "district":13,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ma"
 },
   "bbox": [
     -71.31459,

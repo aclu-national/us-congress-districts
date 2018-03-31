@@ -1,49 +1,13 @@
 {
-  "id": "tn_28_to_32_03",
+  "id": "tn_28_to_32_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"32",
-    "id":"047028032003",
-    "member":{
-        "28":{
-            "759":{
-                "district":"3",
-                "name":"Blackwell, Julius W",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "2218":{
-                "district":"3",
-                "name":"Crozier, John Hervey",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "2218":{
-                "district":"3",
-                "name":"Crozier, John Hervey",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "176":{
-                "district":"3",
-                "name":"Anderson, Josiah McNair",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "1726":{
-                "district":"3",
-                "name":"Churchwell, William Montgomery",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"tn"
 },
   "bbox": [
     -85.87303,

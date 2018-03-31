@@ -2,46 +2,12 @@
   "id": "ma_4_to_7_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"7",
-    "id":"025004007011",
-    "member":{
-        "4":{
-            "947":{
-                "district":"11",
-                "name":"Bradbury, Theophilus",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "484":{
-                "district":"11",
-                "name":"Bartlett, Bailey",
-                "party":"Federalist"
-            },
-            "947":{
-                "district":"11",
-                "name":"Bradbury, Theophilus",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "484":{
-                "district":"11",
-                "name":"Bartlett, Bailey",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "2287":{
-                "district":"11",
-                "name":"Cutler, Manasseh",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"ma"
 },
   "bbox": [
     -71.2561,

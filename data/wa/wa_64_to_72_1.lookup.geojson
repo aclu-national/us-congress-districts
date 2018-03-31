@@ -1,77 +1,13 @@
 {
-  "id": "wa_64_to_72_01",
+  "id": "wa_64_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"053064072001",
-    "member":{
-        "64":{
-            "4732":{
-                "district":"1",
-                "name":"Humphrey, William Ewart",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "6494":{
-                "district":"1",
-                "name":"Miller, John Franklin",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6494":{
-                "district":"1",
-                "name":"Miller, John Franklin",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6494":{
-                "district":"1",
-                "name":"Miller, John Franklin",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6494":{
-                "district":"1",
-                "name":"Miller, John Franklin",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "6494":{
-                "district":"1",
-                "name":"Miller, John Franklin",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "6494":{
-                "district":"1",
-                "name":"Miller, John Franklin",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "6494":{
-                "district":"1",
-                "name":"Miller, John Franklin",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4584":{
-                "district":"1",
-                "name":"Horr, Ralph Ashley",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Washington"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"wa"
 },
   "bbox": [
     -123.02335,

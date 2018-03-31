@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"37",
-    "id":"042033037019",
-    "member":{
-        "33":{
-            "2735":{
-                "district":"19",
-                "name":"Drum, Augustus",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "2100":{
-                "district":"19",
-                "name":"Covode, John",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "2100":{
-                "district":"19",
-                "name":"Covode, John",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "2100":{
-                "district":"19",
-                "name":"Covode, John",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "2100":{
-                "district":"19",
-                "name":"Covode, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -79.90495,

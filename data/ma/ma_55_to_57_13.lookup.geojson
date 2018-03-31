@@ -2,39 +2,12 @@
   "id": "ma_55_to_57_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"57",
-    "id":"025055057013",
-    "member":{
-        "55":{
-            "3794":{
-                "district":"13",
-                "name":"Greene, William Stedman",
-                "party":"Republican"
-            },
-            "8526":{
-                "district":"13",
-                "name":"Simpkins, John",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "3794":{
-                "district":"13",
-                "name":"Greene, William Stedman",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "3794":{
-                "district":"13",
-                "name":"Greene, William Stedman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Massachusetts"
+    "district":13,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"ma"
 },
   "bbox": [
     -71.31459,

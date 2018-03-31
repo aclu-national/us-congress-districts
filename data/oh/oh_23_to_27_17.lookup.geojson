@@ -2,53 +2,12 @@
   "id": "oh_23_to_27_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"27",
-    "id":"039023027017",
-    "member":{
-        "23":{
-            "9351":{
-                "district":"17",
-                "name":"Thomson, John",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "9351":{
-                "district":"17",
-                "name":"Thomson, John",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "1902":{
-                "district":"17",
-                "name":"Coffin, Charles Dustin",
-                "party":"Whig"
-            },
-            "5773":{
-                "district":"17",
-                "name":"Loomis, Andrew Williams",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "4179":{
-                "district":"17",
-                "name":"Hastings, John",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "4179":{
-                "district":"17",
-                "name":"Hastings, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"oh"
 },
   "bbox": [
     -81.09294,

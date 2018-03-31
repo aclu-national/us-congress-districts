@@ -1,49 +1,13 @@
 {
-  "id": "pa_18_to_22_03",
+  "id": "pa_18_to_22_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"22",
-    "id":"042018022003",
-    "member":{
-        "18":{
-            "6479":{
-                "district":"3",
-                "name":"Miller, Daniel H.",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "6479":{
-                "district":"3",
-                "name":"Miller, Daniel H.",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "6479":{
-                "district":"3",
-                "name":"Miller, Daniel H.",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "6479":{
-                "district":"3",
-                "name":"Miller, Daniel H.",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "9868":{
-                "district":"3",
-                "name":"Watmough, John Goddard",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"pa"
 },
   "bbox": [
     -75.26422,

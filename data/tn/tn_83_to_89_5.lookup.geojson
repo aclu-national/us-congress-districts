@@ -1,63 +1,13 @@
 {
-  "id": "tn_83_to_89_05",
+  "id": "tn_83_to_89_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"89",
-    "id":"047083089005",
-    "member":{
-        "83":{
-            "7622":{
-                "district":"5",
-                "name":"Priest, James Percy",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "7622":{
-                "district":"5",
-                "name":"Priest, James Percy",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5783":{
-                "district":"5",
-                "name":"Loser, Joseph Carlton",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5783":{
-                "district":"5",
-                "name":"Loser, Joseph Carlton",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "5783":{
-                "district":"5",
-                "name":"Loser, Joseph Carlton",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "10586":{
-                "district":"5",
-                "name":"Fulton, Richard A.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10586":{
-                "district":"5",
-                "name":"Fulton, Richard A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tn"
 },
   "bbox": [
     -87.0549,

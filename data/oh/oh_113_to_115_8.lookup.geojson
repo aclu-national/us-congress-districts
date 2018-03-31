@@ -1,19 +1,13 @@
 {
-  "id": "oh_113_to_115_08",
+  "id": "oh_113_to_115_8",
   "type": "Feature",
   "properties": {
-    "ALAND":6346768975,
-    "AWATER":40337123,
-    "CD113FP":"08",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3908",
-    "INTPTLAT":"+39.8994793",
-    "INTPTLON":"-084.1608142",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 8",
-    "STATEFP":"39"
+    "district":8,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

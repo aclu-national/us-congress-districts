@@ -1,21 +1,13 @@
 {
-  "id": "oh_46_to_46_07",
+  "id": "oh_46_to_46_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"46",
-    "id":"039046046007",
-    "member":{
-        "46":{
-            "4772":{
-                "district":"7",
-                "name":"Hurd, Frank Hunt",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Ohio"
+    "district":7,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"oh"
 },
   "bbox": [
     -83.88356,

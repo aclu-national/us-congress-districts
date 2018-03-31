@@ -1,56 +1,13 @@
 {
-  "id": "tn_52_to_57_08",
+  "id": "tn_52_to_57_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"57",
-    "id":"047052057008",
-    "member":{
-        "52":{
-            "2973":{
-                "district":"8",
-                "name":"Enloe, Benjamin Augustine",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "2973":{
-                "district":"8",
-                "name":"Enloe, Benjamin Augustine",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "6129":{
-                "district":"8",
-                "name":"McCall, John Ethridge",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "8537":{
-                "district":"8",
-                "name":"Sims, Thetus Willrette",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "8537":{
-                "district":"8",
-                "name":"Sims, Thetus Willrette",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "8537":{
-                "district":"8",
-                "name":"Sims, Thetus Willrette",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"tn"
 },
   "bbox": [
     -89.07888,

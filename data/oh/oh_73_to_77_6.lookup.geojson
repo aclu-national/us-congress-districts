@@ -1,49 +1,13 @@
 {
-  "id": "oh_73_to_77_06",
+  "id": "oh_73_to_77_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"77",
-    "id":"039073077006",
-    "member":{
-        "73":{
-            "7506":{
-                "district":"6",
-                "name":"Polk, James Gould",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "7506":{
-                "district":"6",
-                "name":"Polk, James Gould",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7506":{
-                "district":"6",
-                "name":"Polk, James Gould",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "7506":{
-                "district":"6",
-                "name":"Polk, James Gould",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2388":{
-                "district":"6",
-                "name":"Davis, Jacob Erastus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Ohio"
+    "district":6,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"oh"
 },
   "bbox": [
     -84.31964,

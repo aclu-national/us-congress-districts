@@ -1,49 +1,13 @@
 {
-  "id": "sc_93_to_97_04",
+  "id": "sc_93_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"045093097004",
-    "member":{
-        "93":{
-            "12023":{
-                "district":"4",
-                "name":"Mann, James R.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "12023":{
-                "district":"4",
-                "name":"Mann, James R.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "12023":{
-                "district":"4",
-                "name":"Mann, James R.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14609":{
-                "district":"4",
-                "name":"Campbell, Carroll Ashmore",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14609":{
-                "district":"4",
-                "name":"Campbell, Carroll Ashmore",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"South Carolina"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"sc"
 },
   "bbox": [
     -82.76446,

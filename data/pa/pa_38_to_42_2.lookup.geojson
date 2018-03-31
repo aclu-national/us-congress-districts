@@ -1,49 +1,13 @@
 {
-  "id": "pa_38_to_42_02",
+  "id": "pa_38_to_42_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"42",
-    "id":"042038042002",
-    "member":{
-        "38":{
-            "7076":{
-                "district":"2",
-                "name":"O'Neil, Charles",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "7076":{
-                "district":"2",
-                "name":"O'Neil, Charles",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "7076":{
-                "district":"2",
-                "name":"O'Neil, Charles",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "7076":{
-                "district":"2",
-                "name":"O'Neil, Charles",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "2171":{
-                "district":"2",
-                "name":"Creely, John Vaudain",
-                "party":"Ind. Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"pa"
 },
   "bbox": [
     -75.21453,

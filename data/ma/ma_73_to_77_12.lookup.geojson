@@ -2,48 +2,12 @@
   "id": "ma_73_to_77_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"77",
-    "id":"025073077012",
-    "member":{
-        "73":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ma"
 },
   "bbox": [
     -71.15207,

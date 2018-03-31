@@ -1,21 +1,13 @@
 {
-  "id": "oh_46_to_46_05",
+  "id": "oh_46_to_46_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"46",
-    "id":"039046046005",
-    "member":{
-        "46":{
-            "5578":{
-                "district":"5",
-                "name":"Le Fevre, Benjamin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"oh"
 },
   "bbox": [
     -84.81516,

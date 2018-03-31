@@ -2,32 +2,12 @@
   "id": "tx_103_to_104_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"104",
-    "id":"048103104014",
-    "member":{
-        "103":{
-            "15611":{
-                "district":"14",
-                "name":"Laughlin, Greg H.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "15611":{
-                "district":"14",
-                "name":"Laughlin, Greg H.",
-                "party":"Democrat"
-            },
-            "95611":{
-                "district":"14",
-                "name":"Laughlin, Greg H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Texas"
+    "district":14,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"tx"
 },
   "bbox": [
     -98.59136,

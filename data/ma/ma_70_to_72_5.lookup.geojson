@@ -1,35 +1,13 @@
 {
-  "id": "ma_70_to_72_05",
+  "id": "ma_70_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"025070072005",
-    "member":{
-        "70":{
-            "8024":{
-                "district":"5",
-                "name":"Rogers, Edith Nourse",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8024":{
-                "district":"5",
-                "name":"Rogers, Edith Nourse",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "8024":{
-                "district":"5",
-                "name":"Rogers, Edith Nourse",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ma"
 },
   "bbox": [
     -71.89872,

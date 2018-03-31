@@ -2,34 +2,12 @@
   "id": "fl_105_to_107_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"107",
-    "id":"012105107012",
-    "member":{
-        "105":{
-            "29332":{
-                "district":"12",
-                "name":"Canady, Charles T.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29332":{
-                "district":"12",
-                "name":"Canady, Charles T.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "20113":{
-                "district":"12",
-                "name":"Putnam, Adam H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Florida"
+    "district":12,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"fl"
 },
   "bbox": [
     -82.33502,

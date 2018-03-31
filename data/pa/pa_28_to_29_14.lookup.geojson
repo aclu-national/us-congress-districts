@@ -2,27 +2,12 @@
   "id": "pa_28_to_29_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"29",
-    "id":"042028029014",
-    "member":{
-        "28":{
-            "7703":{
-                "district":"14",
-                "name":"Ramsey, Alexander",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "7703":{
-                "district":"14",
-                "name":"Ramsey, Alexander",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -77.02923,

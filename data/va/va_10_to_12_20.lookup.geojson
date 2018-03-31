@@ -2,34 +2,12 @@
   "id": "va_10_to_12_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"12",
-    "id":"051010012020",
-    "member":{
-        "10":{
-            "6905":{
-                "district":"20",
-                "name":"Newton, Thomas, Jr.",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "6905":{
-                "district":"20",
-                "name":"Newton, Thomas, Jr.",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "6905":{
-                "district":"20",
-                "name":"Newton, Thomas, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"10",
-    "statename":"Virginia"
+    "district":20,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1807-10-26",
+    "start_session":10,
+    "state":"va"
 },
   "bbox": [
     -76.93094,

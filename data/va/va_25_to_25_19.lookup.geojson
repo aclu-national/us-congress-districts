@@ -2,20 +2,12 @@
   "id": "va_25_to_25_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"25",
-    "id":"051025025019",
-    "member":{
-        "25":{
-            "586":{
-                "district":"19",
-                "name":"Beirne, Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"25",
-    "statename":"Virginia"
+    "district":19,
+    "end_date":"1839-03-03",
+    "end_session":25,
+    "start_date":"1837-03-04",
+    "start_session":25,
+    "state":"va"
 },
   "bbox": [
     -82.64474,

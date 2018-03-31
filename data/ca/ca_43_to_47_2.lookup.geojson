@@ -1,49 +1,13 @@
 {
-  "id": "ca_43_to_47_02",
+  "id": "ca_43_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"006043047002",
-    "member":{
-        "43":{
-            "7155":{
-                "district":"2",
-                "name":"Page, Horace Francis",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "7155":{
-                "district":"2",
-                "name":"Page, Horace Francis",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "7155":{
-                "district":"2",
-                "name":"Page, Horace Francis",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "7155":{
-                "district":"2",
-                "name":"Page, Horace Francis",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "7155":{
-                "district":"2",
-                "name":"Page, Horace Francis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"California"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ca"
 },
   "bbox": [
     -122.42978,

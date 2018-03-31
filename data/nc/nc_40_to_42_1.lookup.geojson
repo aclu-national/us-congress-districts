@@ -1,35 +1,13 @@
 {
-  "id": "nc_40_to_42_01",
+  "id": "nc_40_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"037040042001",
-    "member":{
-        "40":{
-            "3370":{
-                "district":"1",
-                "name":"French, John Robert",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "1864":{
-                "district":"1",
-                "name":"Cobb, Clinton Levering",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "1864":{
-                "district":"1",
-                "name":"Cobb, Clinton Levering",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"nc"
 },
   "bbox": [
     -78.00655,

@@ -1,49 +1,13 @@
 {
-  "id": "mn_93_to_97_05",
+  "id": "mn_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"027093097005",
-    "member":{
-        "93":{
-            "10585":{
-                "district":"5",
-                "name":"Fraser, Donald M.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10585":{
-                "district":"5",
-                "name":"Fraser, Donald M.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10585":{
-                "district":"5",
-                "name":"Fraser, Donald M.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14656":{
-                "district":"5",
-                "name":"Sabo, Martin Olav",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14656":{
-                "district":"5",
-                "name":"Sabo, Martin Olav",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Minnesota"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mn"
 },
   "bbox": [
     -93.32901,

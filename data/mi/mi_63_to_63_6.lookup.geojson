@@ -1,21 +1,13 @@
 {
-  "id": "mi_63_to_63_06",
+  "id": "mi_63_to_63_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"63",
-    "id":"026063063006",
-    "member":{
-        "63":{
-            "8683":{
-                "district":"6",
-                "name":"Smith, Samuel William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Michigan"
+    "district":6,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"mi"
 },
   "bbox": [
     -84.60329,

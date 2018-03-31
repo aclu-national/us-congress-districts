@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_36",
   "type": "Feature",
   "properties": {
-    "district":"36",
-    "endcong":"64",
-    "id":"036063064036",
-    "member":{
-        "63":{
-            "7273":{
-                "district":"36",
-                "name":"Payne, Sereno Elisha",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "3723":{
-                "district":"36",
-                "name":"Gould, Norman Judd",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":36,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -77.61192,

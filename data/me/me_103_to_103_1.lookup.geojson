@@ -1,21 +1,13 @@
 {
-  "id": "me_103_to_103_01",
+  "id": "me_103_to_103_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"103",
-    "id":"023103103001",
-    "member":{
-        "103":{
-            "29121":{
-                "district":"1",
-                "name":"Andrews, Thomas H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Maine"
+    "district":1,
+    "end_date":"1994-12-01",
+    "end_session":103,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"me"
 },
   "bbox": [
     -70.98956,

@@ -1,21 +1,13 @@
 {
-  "id": "tn_12_to_12_03",
+  "id": "tn_12_to_12_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"12",
-    "id":"047012012003",
-    "member":{
-        "12":{
-            "3865":{
-                "district":"3",
-                "name":"Grundy, Felix",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"12",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1811-11-04",
+    "start_session":12,
+    "state":"tn"
 },
   "bbox": [
     -88.07053,

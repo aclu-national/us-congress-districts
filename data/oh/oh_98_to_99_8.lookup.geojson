@@ -1,28 +1,13 @@
 {
-  "id": "oh_98_to_99_08",
+  "id": "oh_98_to_99_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"99",
-    "id":"039098099008",
-    "member":{
-        "98":{
-            "14245":{
-                "district":"8",
-                "name":"Kindness, Thomas",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14245":{
-                "district":"8",
-                "name":"Kindness, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Ohio"
+    "district":8,
+    "end_date":"1986-10-18",
+    "end_session":99,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

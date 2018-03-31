@@ -1,21 +1,13 @@
 {
-  "id": "tn_73_to_73_09",
+  "id": "tn_73_to_73_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"73",
-    "id":"047073073009",
-    "member":{
-        "73":{
-            "2222":{
-                "district":"9",
-                "name":"Crump, Edward Hull",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Tennessee"
+    "district":9,
+    "end_date":"1934-06-18",
+    "end_session":73,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

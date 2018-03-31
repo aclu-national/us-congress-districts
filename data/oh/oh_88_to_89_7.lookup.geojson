@@ -1,33 +1,13 @@
 {
-  "id": "oh_88_to_89_07",
+  "id": "oh_88_to_89_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"89",
-    "id":"039088089007",
-    "member":{
-        "88":{
-            "1104":{
-                "district":"7",
-                "name":"Brown, Clarence J",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10786":{
-                "district":"7",
-                "name":"Brown, Clarence, Jr.",
-                "party":"Republican"
-            },
-            "1104":{
-                "district":"7",
-                "name":"Brown, Clarence J",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Ohio"
+    "district":7,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"oh"
 },
   "bbox": [
     -84.36527,

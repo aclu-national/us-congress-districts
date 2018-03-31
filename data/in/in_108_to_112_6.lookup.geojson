@@ -1,49 +1,13 @@
 {
-  "id": "in_108_to_112_06",
+  "id": "in_108_to_112_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"112",
-    "id":"018108112006",
-    "member":{
-        "108":{
-            "20117":{
-                "district":"6",
-                "name":"Pence, Mike",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20117":{
-                "district":"6",
-                "name":"Pence, Mike",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20117":{
-                "district":"6",
-                "name":"Pence, Mike",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20117":{
-                "district":"6",
-                "name":"Pence, Mike",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20117":{
-                "district":"6",
-                "name":"Pence, Mike",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Indiana"
+    "district":6,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"in"
 },
   "bbox": [
     -86.25168,

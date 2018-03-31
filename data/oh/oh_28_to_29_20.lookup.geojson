@@ -2,27 +2,12 @@
   "id": "oh_28_to_29_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"29",
-    "id":"039028029020",
-    "member":{
-        "28":{
-            "3567":{
-                "district":"20",
-                "name":"Giddings, Joshua Reed",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "3567":{
-                "district":"20",
-                "name":"Giddings, Joshua Reed",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":20,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -81.97126,

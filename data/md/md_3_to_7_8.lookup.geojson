@@ -1,49 +1,13 @@
 {
-  "id": "md_3_to_7_08",
+  "id": "md_3_to_7_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"7",
-    "id":"024003007008",
-    "member":{
-        "3":{
-            "6830":{
-                "district":"8",
-                "name":"Murray, William Vans",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "6830":{
-                "district":"8",
-                "name":"Murray, William Vans",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "2501":{
-                "district":"8",
-                "name":"Dennis, John",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "2501":{
-                "district":"8",
-                "name":"Dennis, John",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "2501":{
-                "district":"8",
-                "name":"Dennis, John",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Maryland"
+    "district":8,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"md"
 },
   "bbox": [
     -76.34127,

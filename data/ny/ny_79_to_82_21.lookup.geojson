@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"82",
-    "id":"036079082021",
-    "member":{
-        "79":{
-            "9424":{
-                "district":"21",
-                "name":"Torrens, James H.",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "4898":{
-                "district":"21",
-                "name":"Javits, Jacob Koppel",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4898":{
-                "district":"21",
-                "name":"Javits, Jacob Koppel",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4898":{
-                "district":"21",
-                "name":"Javits, Jacob Koppel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -73.96925,

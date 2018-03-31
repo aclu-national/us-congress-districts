@@ -1,54 +1,13 @@
 {
-  "id": "wv_93_to_97_03",
+  "id": "wv_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"054093097003",
-    "member":{
-        "93":{
-            "8564":{
-                "district":"3",
-                "name":"Slack, John Mark, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "8564":{
-                "district":"3",
-                "name":"Slack, John Mark, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "8564":{
-                "district":"3",
-                "name":"Slack, John Mark, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14680":{
-                "district":"3",
-                "name":"Hutchinson, John G.",
-                "party":"Democrat"
-            },
-            "8564":{
-                "district":"3",
-                "name":"Slack, John Mark, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14865":{
-                "district":"3",
-                "name":"Staton, Mick",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"West Virginia"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"wv"
 },
   "bbox": [
     -82.30639,

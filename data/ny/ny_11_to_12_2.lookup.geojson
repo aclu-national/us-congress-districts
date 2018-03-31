@@ -1,38 +1,13 @@
 {
-  "id": "ny_11_to_12_02",
+  "id": "ny_11_to_12_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"12",
-    "id":"036011012002",
-    "member":{
-        "11":{
-            "6577":{
-                "district":"2",
-                "name":"Mitchill, Samuel Latham",
-                "party":"Republican"
-            },
-            "6794":{
-                "district":"2",
-                "name":"Mumford, Gurdon Saltonstall",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "6577":{
-                "district":"2",
-                "name":"Mitchill, Samuel Latham",
-                "party":"Republican"
-            },
-            "7269":{
-                "district":"2",
-                "name":"Paulding, William, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"11",
-    "statename":"New York"
+    "district":2,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1809-03-04",
+    "start_session":11,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

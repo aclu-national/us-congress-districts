@@ -1,49 +1,13 @@
 {
-  "id": "ny_68_to_72_08",
+  "id": "ny_68_to_72_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"72",
-    "id":"036068072008",
-    "member":{
-        "68":{
-            "1826":{
-                "district":"8",
-                "name":"Cleary, William Edward",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1826":{
-                "district":"8",
-                "name":"Cleary, William Edward",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "1506":{
-                "district":"8",
-                "name":"Carley, Patrick J.",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "1506":{
-                "district":"8",
-                "name":"Carley, Patrick J.",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "1506":{
-                "district":"8",
-                "name":"Carley, Patrick J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -74.04215,

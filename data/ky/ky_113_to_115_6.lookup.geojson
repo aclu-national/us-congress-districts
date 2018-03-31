@@ -1,19 +1,13 @@
 {
-  "id": "ky_113_to_115_06",
+  "id": "ky_113_to_115_6",
   "type": "Feature",
   "properties": {
-    "ALAND":11125095359,
-    "AWATER":119881178,
-    "CD113FP":"06",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2106",
-    "INTPTLAT":"+38.0534473",
-    "INTPTLON":"-084.1547782",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 6",
-    "STATEFP":"21"
+    "district":6,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ky"
 },
   "bbox": [
     -85.170062,

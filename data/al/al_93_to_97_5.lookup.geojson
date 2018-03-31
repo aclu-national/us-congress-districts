@@ -1,49 +1,13 @@
 {
-  "id": "al_93_to_97_05",
+  "id": "al_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"001093097005",
-    "member":{
-        "93":{
-            "5058":{
-                "district":"5",
-                "name":"Jones, Robert Emmett, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "5058":{
-                "district":"5",
-                "name":"Jones, Robert Emmett, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14419":{
-                "district":"5",
-                "name":"Flippo, Ronnie",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14419":{
-                "district":"5",
-                "name":"Flippo, Ronnie",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14419":{
-                "district":"5",
-                "name":"Flippo, Ronnie",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Alabama"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"al"
 },
   "bbox": [
     -88.20296,

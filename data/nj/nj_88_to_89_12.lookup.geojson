@@ -2,27 +2,12 @@
   "id": "nj_88_to_89_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"89",
-    "id":"034088089012",
-    "member":{
-        "88":{
-            "9775":{
-                "district":"12",
-                "name":"Wallhauser, George Marvin",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10745":{
-                "district":"12",
-                "name":"Krebs, Paul J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New Jersey"
+    "district":12,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"nj"
 },
   "bbox": [
     -74.3777,

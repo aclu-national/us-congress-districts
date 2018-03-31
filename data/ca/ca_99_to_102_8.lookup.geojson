@@ -1,42 +1,13 @@
 {
-  "id": "ca_99_to_102_08",
+  "id": "ca_99_to_102_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"102",
-    "id":"006099102008",
-    "member":{
-        "100":{
-            "13011":{
-                "district":"8",
-                "name":"Dellums, Ronald V.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "13011":{
-                "district":"8",
-                "name":"Dellums, Ronald V.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "13011":{
-                "district":"8",
-                "name":"Dellums, Ronald V.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "13011":{
-                "district":"8",
-                "name":"Dellums, Ronald V.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":8,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -122.3415,

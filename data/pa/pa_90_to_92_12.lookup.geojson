@@ -2,34 +2,12 @@
   "id": "pa_90_to_92_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"92",
-    "id":"042090092012",
-    "member":{
-        "90":{
-            "9975":{
-                "district":"12",
-                "name":"Whalley, John Irving",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "9975":{
-                "district":"12",
-                "name":"Whalley, John Irving",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "9975":{
-                "district":"12",
-                "name":"Whalley, John Irving",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"pa"
 },
   "bbox": [
     -79.41756,

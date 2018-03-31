@@ -1,19 +1,13 @@
 {
-  "id": "ca_113_to_115_06",
+  "id": "ca_113_to_115_6",
   "type": "Feature",
   "properties": {
-    "ALAND":453551313,
-    "AWATER":11099907,
-    "CD113FP":"06",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0606",
-    "INTPTLAT":"+38.5940335",
-    "INTPTLON":"-121.4797679",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 6",
-    "STATEFP":"06"
+    "district":6,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -121.634158,

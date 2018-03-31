@@ -1,21 +1,13 @@
 {
-  "id": "il_53_to_53_08",
+  "id": "il_53_to_53_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"53",
-    "id":"017053053008",
-    "member":{
-        "53":{
-            "1692":{
-                "district":"8",
-                "name":"Childs, Robert Andrew",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Illinois"
+    "district":8,
+    "end_date":"1895-03-03",
+    "end_session":53,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"il"
 },
   "bbox": [
     -89.1672,

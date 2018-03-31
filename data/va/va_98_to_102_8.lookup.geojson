@@ -1,49 +1,13 @@
 {
-  "id": "va_98_to_102_08",
+  "id": "va_98_to_102_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"102",
-    "id":"051098102008",
-    "member":{
-        "100":{
-            "14043":{
-                "district":"8",
-                "name":"Parris, Stanford E.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14043":{
-                "district":"8",
-                "name":"Parris, Stanford E.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "29149":{
-                "district":"8",
-                "name":"Moran, James P., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14043":{
-                "district":"8",
-                "name":"Parris, Stanford E.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14043":{
-                "district":"8",
-                "name":"Parris, Stanford E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"va"
 },
   "bbox": [
     -77.59775,

@@ -2,20 +2,12 @@
   "id": "pa_44_to_44_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"44",
-    "id":"042044044025",
-    "member":{
-        "44":{
-            "4920":{
-                "district":"25",
-                "name":"Jenks, George Augustus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":25,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -79.70044,

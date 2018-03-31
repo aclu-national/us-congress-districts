@@ -1,49 +1,13 @@
 {
-  "id": "wi_48_to_52_06",
+  "id": "wi_48_to_52_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"52",
-    "id":"055048052006",
-    "member":{
-        "48":{
-            "3869":{
-                "district":"6",
-                "name":"Guenther, Richard William",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "3869":{
-                "district":"6",
-                "name":"Guenther, Richard William",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "1754":{
-                "district":"6",
-                "name":"Clark, Charles Benjamin",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "1754":{
-                "district":"6",
-                "name":"Clark, Charles Benjamin",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "6500":{
-                "district":"6",
-                "name":"Miller, Lucas Miltiades",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Wisconsin"
+    "district":6,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"wi"
 },
   "bbox": [
     -90.02883,

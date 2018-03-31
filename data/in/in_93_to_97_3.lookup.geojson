@@ -1,49 +1,13 @@
 {
-  "id": "in_93_to_97_03",
+  "id": "in_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"018093097003",
-    "member":{
-        "93":{
-            "948":{
-                "district":"3",
-                "name":"Brademas, John",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "948":{
-                "district":"3",
-                "name":"Brademas, John",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "948":{
-                "district":"3",
-                "name":"Brademas, John",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "948":{
-                "district":"3",
-                "name":"Brademas, John",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14834":{
-                "district":"3",
-                "name":"Hiler, John R.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"in"
 },
   "bbox": [
     -86.93273,

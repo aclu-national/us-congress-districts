@@ -1,35 +1,13 @@
 {
-  "id": "ky_90_to_92_05",
+  "id": "ky_90_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"021090092005",
-    "member":{
-        "90":{
-            "10710":{
-                "district":"5",
-                "name":"Carter, Tim L.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10710":{
-                "district":"5",
-                "name":"Carter, Tim L.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10710":{
-                "district":"5",
-                "name":"Carter, Tim L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Kentucky"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"ky"
 },
   "bbox": [
     -85.97741,

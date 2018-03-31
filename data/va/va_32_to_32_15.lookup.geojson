@@ -2,25 +2,12 @@
   "id": "va_32_to_32_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"32",
-    "id":"051032032015",
-    "member":{
-        "32":{
-            "1828":{
-                "district":"15",
-                "name":"Clemens, Sherrard",
-                "party":"Democrat"
-            },
-            "9323":{
-                "district":"15",
-                "name":"Thompson, George Western",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"32",
-    "statename":"Virginia"
+    "district":15,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1851-03-04",
+    "start_session":32,
+    "state":"va"
 },
   "bbox": [
     -81.20107,

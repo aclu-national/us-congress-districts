@@ -1,28 +1,13 @@
 {
-  "id": "ga_63_to_64_05",
+  "id": "ga_63_to_64_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"64",
-    "id":"013063064005",
-    "member":{
-        "63":{
-            "4636":{
-                "district":"5",
-                "name":"Howard, William Schley",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4636":{
-                "district":"5",
-                "name":"Howard, William Schley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Georgia"
+    "district":5,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ga"
 },
   "bbox": [
     -84.91106,

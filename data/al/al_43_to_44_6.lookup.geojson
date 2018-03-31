@@ -1,28 +1,13 @@
 {
-  "id": "al_43_to_44_06",
+  "id": "al_43_to_44_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"44",
-    "id":"001043044006",
-    "member":{
-        "43":{
-            "8586":{
-                "district":"6",
-                "name":"Sloss, Joseph Humphrey",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "4376":{
-                "district":"6",
-                "name":"Hewitt, Goldsmith Whitehouse",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Alabama"
+    "district":6,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"al"
 },
   "bbox": [
     -88.20723,

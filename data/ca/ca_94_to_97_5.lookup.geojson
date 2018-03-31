@@ -1,42 +1,13 @@
 {
-  "id": "ca_94_to_97_05",
+  "id": "ca_94_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"006094097005",
-    "member":{
-        "94":{
-            "14076":{
-                "district":"5",
-                "name":"Burton, John",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14076":{
-                "district":"5",
-                "name":"Burton, John",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14076":{
-                "district":"5",
-                "name":"Burton, John",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14076":{
-                "district":"5",
-                "name":"Burton, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -123.02407,

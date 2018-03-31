@@ -1,21 +1,13 @@
 {
-  "id": "la_104_to_104_01",
+  "id": "la_104_to_104_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"104",
-    "id":"022104104001",
-    "member":{
-        "104":{
-            "14469":{
-                "district":"1",
-                "name":"Livingston, Robert L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Louisiana"
+    "district":1,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"la"
 },
   "bbox": [
     -90.56741,

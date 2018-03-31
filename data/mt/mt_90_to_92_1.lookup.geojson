@@ -1,35 +1,13 @@
 {
-  "id": "mt_90_to_92_01",
+  "id": "mt_90_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"030090092001",
-    "member":{
-        "90":{
-            "10543":{
-                "district":"1",
-                "name":"Olsen, Arnold",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "10543":{
-                "district":"1",
-                "name":"Olsen, Arnold",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "13041":{
-                "district":"1",
-                "name":"Shoup, Richard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Montana"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"mt"
 },
   "bbox": [
     -116.05,

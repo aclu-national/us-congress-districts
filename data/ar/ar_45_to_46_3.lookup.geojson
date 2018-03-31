@@ -1,28 +1,13 @@
 {
-  "id": "ar_45_to_46_03",
+  "id": "ar_45_to_46_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"46",
-    "id":"005045046003",
-    "member":{
-        "45":{
-            "2155":{
-                "district":"3",
-                "name":"Cravens, Jordan Edgar",
-                "party":"Ind. Democrat"
-            }
-        },
-        "46":{
-            "2155":{
-                "district":"3",
-                "name":"Cravens, Jordan Edgar",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Arkansas"
+    "district":3,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"ar"
 },
   "bbox": [
     -94.49313,

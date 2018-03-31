@@ -1,28 +1,13 @@
 {
-  "id": "tx_64_to_65_01",
+  "id": "tx_64_to_65_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"65",
-    "id":"048064065001",
-    "member":{
-        "64":{
-            "739":{
-                "district":"1",
-                "name":"Black, Eugene",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "739":{
-                "district":"1",
-                "name":"Black, Eugene",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"tx"
 },
   "bbox": [
     -95.86333,

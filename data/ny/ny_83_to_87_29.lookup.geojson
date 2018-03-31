@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"87",
-    "id":"036083087029",
-    "member":{
-        "83":{
-            "9978":{
-                "district":"29",
-                "name":"Wharton, James Ernest",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "9978":{
-                "district":"29",
-                "name":"Wharton, James Ernest",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "9978":{
-                "district":"29",
-                "name":"Wharton, James Ernest",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "9978":{
-                "district":"29",
-                "name":"Wharton, James Ernest",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "9978":{
-                "district":"29",
-                "name":"Wharton, James Ernest",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -74.78069,

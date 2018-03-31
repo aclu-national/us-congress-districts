@@ -1,75 +1,13 @@
 {
-  "id": "al_65_to_72_07",
+  "id": "al_65_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"001065072007",
-    "member":{
-        "65":{
-            "1291":{
-                "district":"7",
-                "name":"Burnett, John Lawson",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "1291":{
-                "district":"7",
-                "name":"Burnett, John Lawson",
-                "party":"Democrat"
-            },
-            "7694":{
-                "district":"7",
-                "name":"Rainey, Lilius Bratton",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "7694":{
-                "district":"7",
-                "name":"Rainey, Lilius Bratton",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "137":{
-                "district":"7",
-                "name":"Allgood, Miles Clayton",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "137":{
-                "district":"7",
-                "name":"Allgood, Miles Clayton",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "137":{
-                "district":"7",
-                "name":"Allgood, Miles Clayton",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "137":{
-                "district":"7",
-                "name":"Allgood, Miles Clayton",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "137":{
-                "district":"7",
-                "name":"Allgood, Miles Clayton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Alabama"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"al"
 },
   "bbox": [
     -87.15104,

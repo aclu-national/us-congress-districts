@@ -2,27 +2,12 @@
   "id": "tx_91_to_92_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"92",
-    "id":"048091092013",
-    "member":{
-        "91":{
-            "10546":{
-                "district":"13",
-                "name":"Purcell, Graham",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10546":{
-                "district":"13",
-                "name":"Purcell, Graham",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Texas"
+    "district":13,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"tx"
 },
   "bbox": [
     -101.04116,

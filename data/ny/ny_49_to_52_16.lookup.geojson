@@ -2,41 +2,12 @@
   "id": "ny_49_to_52_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"52",
-    "id":"036049052016",
-    "member":{
-        "49":{
-            "5219":{
-                "district":"16",
-                "name":"Ketcham, John Henry",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "5219":{
-                "district":"16",
-                "name":"Ketcham, John Henry",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "5219":{
-                "district":"16",
-                "name":"Ketcham, John Henry",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "5219":{
-                "district":"16",
-                "name":"Ketcham, John Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -74.00011,

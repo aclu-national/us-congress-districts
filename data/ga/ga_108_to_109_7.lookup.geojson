@@ -1,28 +1,13 @@
 {
-  "id": "ga_108_to_109_07",
+  "id": "ga_108_to_109_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"109",
-    "id":"013108109007",
-    "member":{
-        "108":{
-            "29341":{
-                "district":"7",
-                "name":"Linder, John",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29341":{
-                "district":"7",
-                "name":"Linder, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ga"
 },
   "bbox": [
     -85.05031,

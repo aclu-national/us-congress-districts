@@ -1,21 +1,13 @@
 {
-  "id": "nc_1_to_1_05",
+  "id": "nc_1_to_1_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"1",
-    "id":"037001001005",
-    "member":{
-        "1":{
-            "8374":{
-                "district":"5",
-                "name":"Sevier, John",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"1791-03-03",
+    "end_session":1,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"nc"
 },
   "bbox": [
     -88.07053,

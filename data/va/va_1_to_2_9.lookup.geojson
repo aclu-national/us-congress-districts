@@ -1,33 +1,13 @@
 {
-  "id": "va_1_to_2_09",
+  "id": "va_1_to_2_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"2",
-    "id":"051001002009",
-    "member":{
-        "1":{
-            "3582":{
-                "district":"9",
-                "name":"Giles, William Branch",
-                "party":"Anti-Administration"
-            },
-            "786":{
-                "district":"9",
-                "name":"Bland, Theodorick",
-                "party":"Anti-Administration"
-            }
-        },
-        "2":{
-            "3582":{
-                "district":"9",
-                "name":"Giles, William Branch",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Virginia"
+    "district":9,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"va"
 },
   "bbox": [
     -78.74044,

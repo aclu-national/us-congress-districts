@@ -1,48 +1,13 @@
 {
-  "id": "nh_1_to_2_00",
+  "id": "nh_1_to_2_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"2",
-    "id":"033001002000",
-    "member":{
-        "1":{
-            "3299":{
-                "district":"98",
-                "name":"Foster, Abiel",
-                "party":"Pro-Administration"
-            },
-            "3610":{
-                "district":"98",
-                "name":"Gilman, Nicholas",
-                "party":"Pro-Administration"
-            },
-            "5713":{
-                "district":"98",
-                "name":"Livermore, Samuel",
-                "party":"Anti-Administration"
-            }
-        },
-        "2":{
-            "3610":{
-                "district":"98",
-                "name":"Gilman, Nicholas",
-                "party":"Pro-Administration"
-            },
-            "5713":{
-                "district":"98",
-                "name":"Livermore, Samuel",
-                "party":"Pro-Administration"
-            },
-            "8644":{
-                "district":"98",
-                "name":"Smith, Jeremiah",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"New Hampshire"
+    "district":0,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"nh"
 },
   "bbox": [
     -72.55725,

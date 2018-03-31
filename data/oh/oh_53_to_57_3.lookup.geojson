@@ -1,54 +1,13 @@
 {
-  "id": "oh_53_to_57_03",
+  "id": "oh_53_to_57_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"57",
-    "id":"039053057003",
-    "member":{
-        "53":{
-            "4604":{
-                "district":"3",
-                "name":"Houk, George Washington",
-                "party":"Democrat"
-            },
-            "8742":{
-                "district":"3",
-                "name":"Sorg, Paul John",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "8742":{
-                "district":"3",
-                "name":"Sorg, Paul John",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "1006":{
-                "district":"3",
-                "name":"Brenner, John Lewis",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "1006":{
-                "district":"3",
-                "name":"Brenner, John Lewis",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "6885":{
-                "district":"3",
-                "name":"Nevin, Robert Murphy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

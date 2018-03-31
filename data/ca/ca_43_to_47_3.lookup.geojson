@@ -1,49 +1,13 @@
 {
-  "id": "ca_43_to_47_03",
+  "id": "ca_43_to_47_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"47",
-    "id":"006043047003",
-    "member":{
-        "43":{
-            "5844":{
-                "district":"3",
-                "name":"Luttrell, John King",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "5844":{
-                "district":"3",
-                "name":"Luttrell, John King",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "5844":{
-                "district":"3",
-                "name":"Luttrell, John King",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "671":{
-                "district":"3",
-                "name":"Berry, Campbell Polson",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "671":{
-                "district":"3",
-                "name":"Berry, Campbell Polson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"California"
+    "district":3,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ca"
 },
   "bbox": [
     -124.41501,

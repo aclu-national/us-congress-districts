@@ -2,48 +2,12 @@
   "id": "tn_28_to_32_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"32",
-    "id":"047028032011",
-    "member":{
-        "28":{
-            "1128":{
-                "district":"11",
-                "name":"Brown, Milton",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "1128":{
-                "district":"11",
-                "name":"Brown, Milton",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "4174":{
-                "district":"11",
-                "name":"Haskell, William T.",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "10138":{
-                "district":"11",
-                "name":"Williams, Christopher H.",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "10138":{
-                "district":"11",
-                "name":"Williams, Christopher H.",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Tennessee"
+    "district":11,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"tn"
 },
   "bbox": [
     -89.70554,

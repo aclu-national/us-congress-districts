@@ -2,20 +2,12 @@
   "id": "ny_91_to_91_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"91",
-    "id":"036091091010",
-    "member":{
-        "91":{
-            "1611":{
-                "district":"10",
-                "name":"Celler, Emanuel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ny"
 },
   "bbox": [
     -73.96308,

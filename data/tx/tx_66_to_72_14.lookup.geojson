@@ -2,72 +2,12 @@
   "id": "tx_66_to_72_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"72",
-    "id":"048066072014",
-    "member":{
-        "66":{
-            "573":{
-                "district":"14",
-                "name":"Bee, Carlos",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "10403":{
-                "district":"14",
-                "name":"Wurzbach, Harry Mcleary",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "10403":{
-                "district":"14",
-                "name":"Wurzbach, Harry Mcleary",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "10403":{
-                "district":"14",
-                "name":"Wurzbach, Harry Mcleary",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "10403":{
-                "district":"14",
-                "name":"Wurzbach, Harry Mcleary",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "10403":{
-                "district":"14",
-                "name":"Wurzbach, Harry Mcleary",
-                "party":"Republican"
-            },
-            "6160":{
-                "district":"14",
-                "name":"McCloskey, Augustus",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "10403":{
-                "district":"14",
-                "name":"Wurzbach, Harry Mcleary",
-                "party":"Republican"
-            },
-            "5314":{
-                "district":"14",
-                "name":"Kleberg, Richard Mifflin, Sr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":14,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -98.92098,

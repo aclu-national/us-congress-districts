@@ -1,49 +1,13 @@
 {
-  "id": "in_28_to_32_06",
+  "id": "in_28_to_32_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"32",
-    "id":"018028032006",
-    "member":{
-        "28":{
-            "2399":{
-                "district":"6",
-                "name":"Davis, John Wesley",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "2399":{
-                "district":"6",
-                "name":"Davis, John Wesley",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "2771":{
-                "district":"6",
-                "name":"Dunn, George Grundy",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "3713":{
-                "district":"6",
-                "name":"Gorman, Willis Arnold",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "3713":{
-                "district":"6",
-                "name":"Gorman, Willis Arnold",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Indiana"
+    "district":6,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"in"
 },
   "bbox": [
     -87.75683,

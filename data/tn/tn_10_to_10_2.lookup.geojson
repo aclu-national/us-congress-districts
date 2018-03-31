@@ -1,21 +1,13 @@
 {
-  "id": "tn_10_to_10_02",
+  "id": "tn_10_to_10_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"10",
-    "id":"047010010002",
-    "member":{
-        "10":{
-            "1448":{
-                "district":"2",
-                "name":"Campbell, George Washington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"10",
-    "statename":"Tennessee"
+    "district":2,
+    "end_date":"1809-03-03",
+    "end_session":10,
+    "start_date":"1807-10-26",
+    "start_session":10,
+    "state":"tn"
 },
   "bbox": [
     -85.76334,

@@ -1,49 +1,13 @@
 {
-  "id": "ky_98_to_102_03",
+  "id": "ky_98_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"021098102003",
-    "member":{
-        "100":{
-            "13024":{
-                "district":"3",
-                "name":"Mazzoli, Romano",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "13024":{
-                "district":"3",
-                "name":"Mazzoli, Romano",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "13024":{
-                "district":"3",
-                "name":"Mazzoli, Romano",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "13024":{
-                "district":"3",
-                "name":"Mazzoli, Romano",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "13024":{
-                "district":"3",
-                "name":"Mazzoli, Romano",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ky"
 },
   "bbox": [
     -85.9095,

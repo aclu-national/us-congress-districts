@@ -2,48 +2,12 @@
   "id": "oh_78_to_82_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"82",
-    "id":"039078082011",
-    "member":{
-        "78":{
-            "1000":{
-                "district":"11",
-                "name":"Brehm, Walter Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "1000":{
-                "district":"11",
-                "name":"Brehm, Walter Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "1000":{
-                "district":"11",
-                "name":"Brehm, Walter Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "1000":{
-                "district":"11",
-                "name":"Brehm, Walter Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "1000":{
-                "district":"11",
-                "name":"Brehm, Walter Ellsworth",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Ohio"
+    "district":11,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"oh"
 },
   "bbox": [
     -83.39401,

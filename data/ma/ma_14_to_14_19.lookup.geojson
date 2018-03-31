@@ -2,20 +2,12 @@
   "id": "ma_14_to_14_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"14",
-    "id":"025014014019",
-    "member":{
-        "14":{
-            "1994":{
-                "district":"19",
-                "name":"Conner, Samuel Shepard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"14",
-    "statename":"Massachusetts"
+    "district":19,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1815-12-04",
+    "start_session":14,
+    "state":"ma"
 },
   "bbox": [
     -70.42919,

@@ -2,18 +2,12 @@
   "id": "mi_113_to_115_13",
   "type": "Feature",
   "properties": {
-    "ALAND":478755545,
-    "AWATER":5465706,
-    "CD113FP":"13",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2613",
-    "INTPTLAT":"+42.3803814",
-    "INTPTLON":"-083.3125530",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 13",
-    "STATEFP":"26"
+    "district":13,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mi"
 },
   "bbox": [
     -83.430038,

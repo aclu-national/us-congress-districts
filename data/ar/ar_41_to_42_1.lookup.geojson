@@ -1,28 +1,13 @@
 {
-  "id": "ar_41_to_42_01",
+  "id": "ar_41_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"005041042001",
-    "member":{
-        "41":{
-            "8059":{
-                "district":"1",
-                "name":"Roots, Logan Holt",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "4034":{
-                "district":"1",
-                "name":"Hanks, James Millander",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Arkansas"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"ar"
 },
   "bbox": [
     -92.95131,

@@ -1,21 +1,13 @@
 {
-  "id": "ny_65_to_65_04",
+  "id": "ny_65_to_65_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"65",
-    "id":"036065065004",
-    "member":{
-        "65":{
-            "2301":{
-                "district":"4",
-                "name":"Dale, Harry Howard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -73.96941,

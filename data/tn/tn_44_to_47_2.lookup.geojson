@@ -1,42 +1,13 @@
 {
-  "id": "tn_44_to_47_02",
+  "id": "tn_44_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"047044047002",
-    "member":{
-        "44":{
-            "9357":{
-                "district":"2",
-                "name":"Thornburgh, Jacob Montgomery",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "9357":{
-                "district":"2",
-                "name":"Thornburgh, Jacob Montgomery",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "4606":{
-                "district":"2",
-                "name":"Houk, Leonidas Campbell",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "4606":{
-                "district":"2",
-                "name":"Houk, Leonidas Campbell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Tennessee"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"tn"
 },
   "bbox": [
     -84.91415,

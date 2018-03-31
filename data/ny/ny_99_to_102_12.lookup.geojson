@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"102",
-    "id":"036099102012",
-    "member":{
-        "100":{
-            "15050":{
-                "district":"12",
-                "name":"Owens, Major Robert Odell",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15050":{
-                "district":"12",
-                "name":"Owens, Major Robert Odell",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15050":{
-                "district":"12",
-                "name":"Owens, Major Robert Odell",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15050":{
-                "district":"12",
-                "name":"Owens, Major Robert Odell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -73.9729,

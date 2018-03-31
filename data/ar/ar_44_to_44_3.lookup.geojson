@@ -1,21 +1,13 @@
 {
-  "id": "ar_44_to_44_03",
+  "id": "ar_44_to_44_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"44",
-    "id":"005044044003",
-    "member":{
-        "44":{
-            "10209":{
-                "district":"3",
-                "name":"Wilshire, William Wallace",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Arkansas"
+    "district":3,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ar"
 },
   "bbox": [
     -94.49313,

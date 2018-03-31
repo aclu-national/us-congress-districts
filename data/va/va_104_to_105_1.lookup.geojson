@@ -1,28 +1,13 @@
 {
-  "id": "va_104_to_105_01",
+  "id": "va_104_to_105_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"105",
-    "id":"051104105001",
-    "member":{
-        "104":{
-            "15003":{
-                "district":"1",
-                "name":"Bateman, Herbert H.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15003":{
-                "district":"1",
-                "name":"Bateman, Herbert H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"va"
 },
   "bbox": [
     -77.65115,

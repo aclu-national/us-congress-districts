@@ -1,35 +1,13 @@
 {
-  "id": "al_90_to_92_07",
+  "id": "al_90_to_92_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"92",
-    "id":"001090092007",
-    "member":{
-        "90":{
-            "11000":{
-                "district":"7",
-                "name":"Bevill, Tom",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "11000":{
-                "district":"7",
-                "name":"Bevill, Tom",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "11000":{
-                "district":"7",
-                "name":"Bevill, Tom",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Alabama"
+    "district":7,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"al"
 },
   "bbox": [
     -88.27462,

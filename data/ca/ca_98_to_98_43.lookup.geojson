@@ -2,20 +2,12 @@
   "id": "ca_98_to_98_43",
   "type": "Feature",
   "properties": {
-    "district":"43",
-    "endcong":"98",
-    "id":"006098098043",
-    "member":{
-        "98":{
-            "15051":{
-                "district":"43",
-                "name":"Packard, Ronald C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"California"
+    "district":43,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ca"
 },
   "bbox": [
     -117.7275,

@@ -1,28 +1,13 @@
 {
-  "id": "tx_51_to_52_01",
+  "id": "tx_51_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"048051052001",
-    "member":{
-        "51":{
-            "8931":{
-                "district":"1",
-                "name":"Stewart, Charles",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "8931":{
-                "district":"1",
-                "name":"Stewart, Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"tx"
 },
   "bbox": [
     -96.60164,

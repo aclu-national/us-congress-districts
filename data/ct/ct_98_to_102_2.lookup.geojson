@@ -1,49 +1,13 @@
 {
-  "id": "ct_98_to_102_02",
+  "id": "ct_98_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"009098102002",
-    "member":{
-        "100":{
-            "14825":{
-                "district":"2",
-                "name":"Gejdenson, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14825":{
-                "district":"2",
-                "name":"Gejdenson, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14825":{
-                "district":"2",
-                "name":"Gejdenson, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14825":{
-                "district":"2",
-                "name":"Gejdenson, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14825":{
-                "district":"2",
-                "name":"Gejdenson, Samuel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Connecticut"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ct"
 },
   "bbox": [
     -72.75264,

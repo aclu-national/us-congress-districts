@@ -1,49 +1,13 @@
 {
-  "id": "il_33_to_37_02",
+  "id": "il_33_to_37_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"37",
-    "id":"017033037002",
-    "member":{
-        "33":{
-            "9953":{
-                "district":"2",
-                "name":"Wentworth, John",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "10364":{
-                "district":"2",
-                "name":"Woodworth, James Hutchins",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "3064":{
-                "district":"2",
-                "name":"Farnsworth, John Franklin",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "3064":{
-                "district":"2",
-                "name":"Farnsworth, John Franklin",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "240":{
-                "district":"2",
-                "name":"Arnold, Isaac Newton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Illinois"
+    "district":2,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"il"
 },
   "bbox": [
     -91.07207,

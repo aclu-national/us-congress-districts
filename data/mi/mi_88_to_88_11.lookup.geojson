@@ -2,20 +2,12 @@
   "id": "mi_88_to_88_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"88",
-    "id":"026088088011",
-    "member":{
-        "88":{
-            "5349":{
-                "district":"11",
-                "name":"Knox, Victor Alfred",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Michigan"
+    "district":11,
+    "end_date":"1964-10-03",
+    "end_session":88,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mi"
 },
   "bbox": [
     -87.88824,

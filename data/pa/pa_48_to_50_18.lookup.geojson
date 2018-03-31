@@ -2,34 +2,12 @@
   "id": "pa_48_to_50_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"50",
-    "id":"042048050018",
-    "member":{
-        "48":{
-            "285":{
-                "district":"18",
-                "name":"Atkinson, Louis Evans",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "285":{
-                "district":"18",
-                "name":"Atkinson, Louis Evans",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "285":{
-                "district":"18",
-                "name":"Atkinson, Louis Evans",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -78.38034,

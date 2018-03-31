@@ -1,54 +1,13 @@
 {
-  "id": "la_108_to_112_06",
+  "id": "la_108_to_112_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"112",
-    "id":"022108112006",
-    "member":{
-        "108":{
-            "15401":{
-                "district":"6",
-                "name":"Baker, Richard H.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "15401":{
-                "district":"6",
-                "name":"Baker, Richard H.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "15401":{
-                "district":"6",
-                "name":"Baker, Richard H.",
-                "party":"Republican"
-            },
-            "20760":{
-                "district":"6",
-                "name":"Cazayoux, Don",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20919":{
-                "district":"6",
-                "name":"Cassidy, Bill",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20919":{
-                "district":"6",
-                "name":"Cassidy, Bill",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Louisiana"
+    "district":6,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"la"
 },
   "bbox": [
     -91.75012,

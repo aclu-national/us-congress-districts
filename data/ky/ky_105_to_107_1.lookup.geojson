@@ -1,35 +1,13 @@
 {
-  "id": "ky_105_to_107_01",
+  "id": "ky_105_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"021105107001",
-    "member":{
-        "105":{
-            "29525":{
-                "district":"1",
-                "name":"Whitfield, Edward",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29525":{
-                "district":"1",
-                "name":"Whitfield, Edward",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29525":{
-                "district":"1",
-                "name":"Whitfield, Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Kentucky"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"ky"
 },
   "bbox": [
     -89.57151,

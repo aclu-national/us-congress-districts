@@ -1,49 +1,13 @@
 {
-  "id": "pa_63_to_67_02",
+  "id": "pa_63_to_67_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"67",
-    "id":"042063067002",
-    "member":{
-        "63":{
-            "3732":{
-                "district":"2",
-                "name":"Graham, George Scott",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "3732":{
-                "district":"2",
-                "name":"Graham, George Scott",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "3732":{
-                "district":"2",
-                "name":"Graham, George Scott",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "3732":{
-                "district":"2",
-                "name":"Graham, George Scott",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3732":{
-                "district":"2",
-                "name":"Graham, George Scott",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -75.19222,

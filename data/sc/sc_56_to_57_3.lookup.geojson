@@ -1,28 +1,13 @@
 {
-  "id": "sc_56_to_57_03",
+  "id": "sc_56_to_57_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"57",
-    "id":"045056057003",
-    "member":{
-        "56":{
-            "5493":{
-                "district":"3",
-                "name":"Latimer, Asbury Churchwell",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "5493":{
-                "district":"3",
-                "name":"Latimer, Asbury Churchwell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"sc"
 },
   "bbox": [
     -83.35395,

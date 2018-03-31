@@ -1,21 +1,13 @@
 {
-  "id": "pa_7_to_7_03",
+  "id": "pa_7_to_7_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"7",
-    "id":"042007007003",
-    "member":{
-        "7":{
-            "4298":{
-                "district":"3",
-                "name":"Hemphill, Joseph",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"7",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1801-03-04",
+    "start_session":7,
+    "state":"pa"
 },
   "bbox": [
     -76.13638,

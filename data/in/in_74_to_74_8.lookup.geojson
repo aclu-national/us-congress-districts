@@ -1,21 +1,13 @@
 {
-  "id": "in_74_to_74_08",
+  "id": "in_74_to_74_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"74",
-    "id":"018074074008",
-    "member":{
-        "74":{
-            "820":{
-                "district":"8",
-                "name":"Boehne, John William, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Indiana"
+    "district":8,
+    "end_date":"1936-06-20",
+    "end_session":74,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

@@ -2,27 +2,12 @@
   "id": "tx_51_to_52_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"52",
-    "id":"048051052011",
-    "member":{
-        "51":{
-            "5460":{
-                "district":"11",
-                "name":"Lanham, Samuel Willis Tucker",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "5460":{
-                "district":"11",
-                "name":"Lanham, Samuel Willis Tucker",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Texas"
+    "district":11,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

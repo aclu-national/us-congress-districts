@@ -1,63 +1,13 @@
 {
-  "id": "sc_58_to_64_07",
+  "id": "sc_58_to_64_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"64",
-    "id":"045058064007",
-    "member":{
-        "58":{
-            "5624":{
-                "district":"7",
-                "name":"Lever, Asbury Francis",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "5624":{
-                "district":"7",
-                "name":"Lever, Asbury Francis",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "5624":{
-                "district":"7",
-                "name":"Lever, Asbury Francis",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "5624":{
-                "district":"7",
-                "name":"Lever, Asbury Francis",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "5624":{
-                "district":"7",
-                "name":"Lever, Asbury Francis",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "5624":{
-                "district":"7",
-                "name":"Lever, Asbury Francis",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "5624":{
-                "district":"7",
-                "name":"Lever, Asbury Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"South Carolina"
+    "district":7,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"sc"
 },
   "bbox": [
     -81.5718,

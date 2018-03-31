@@ -1,28 +1,13 @@
 {
-  "id": "tx_51_to_52_07",
+  "id": "tx_51_to_52_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"52",
-    "id":"048051052007",
-    "member":{
-        "51":{
-            "2141":{
-                "district":"7",
-                "name":"Crain, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "2141":{
-                "district":"7",
-                "name":"Crain, William Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Texas"
+    "district":7,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"tx"
 },
   "bbox": [
     -100.66755,

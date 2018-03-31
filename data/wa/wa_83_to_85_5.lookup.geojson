@@ -1,35 +1,13 @@
 {
-  "id": "wa_83_to_85_05",
+  "id": "wa_83_to_85_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"85",
-    "id":"053083085005",
-    "member":{
-        "83":{
-            "4579":{
-                "district":"5",
-                "name":"Horan, Walter Franklin",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4579":{
-                "district":"5",
-                "name":"Horan, Walter Franklin",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4579":{
-                "district":"5",
-                "name":"Horan, Walter Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Washington"
+    "district":5,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"wa"
 },
   "bbox": [
     -121.18071,

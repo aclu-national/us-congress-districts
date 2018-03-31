@@ -1,119 +1,13 @@
 {
-  "id": "al_73_to_87_05",
+  "id": "al_73_to_87_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"87",
-    "id":"001073087005",
-    "member":{
-        "73":{
-            "137":{
-                "district":"5",
-                "name":"Allgood, Miles Clayton",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "8855":{
-                "district":"5",
-                "name":"Starnes, Joe",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8855":{
-                "district":"5",
-                "name":"Starnes, Joe",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8855":{
-                "district":"5",
-                "name":"Starnes, Joe",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8855":{
-                "district":"5",
-                "name":"Starnes, Joe",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "8855":{
-                "district":"5",
-                "name":"Starnes, Joe",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "7695":{
-                "district":"5",
-                "name":"Rains, Albert M.",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "7695":{
-                "district":"5",
-                "name":"Rains, Albert M.",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "7695":{
-                "district":"5",
-                "name":"Rains, Albert M.",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7695":{
-                "district":"5",
-                "name":"Rains, Albert M.",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "7695":{
-                "district":"5",
-                "name":"Rains, Albert M.",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "7695":{
-                "district":"5",
-                "name":"Rains, Albert M.",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "7695":{
-                "district":"5",
-                "name":"Rains, Albert M.",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "7695":{
-                "district":"5",
-                "name":"Rains, Albert M.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "7695":{
-                "district":"5",
-                "name":"Rains, Albert M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Alabama"
+    "district":5,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"al"
 },
   "bbox": [
     -86.58194,

@@ -1,19 +1,13 @@
 {
-  "id": "va_113_to_115_01",
+  "id": "va_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":9542206015,
-    "AWATER":2192751051,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5101",
-    "INTPTLAT":"+37.8454784",
-    "INTPTLON":"-076.9116127",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"51"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"va"
 },
   "bbox": [
     -77.813568,

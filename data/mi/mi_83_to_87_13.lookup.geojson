@@ -2,48 +2,12 @@
   "id": "mi_83_to_87_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"87",
-    "id":"026083087013",
-    "member":{
-        "83":{
-            "6998":{
-                "district":"13",
-                "name":"O'Brien, George",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "2594":{
-                "district":"13",
-                "name":"Diggs, Charles Coles Jr.",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "2594":{
-                "district":"13",
-                "name":"Diggs, Charles Coles Jr.",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "2594":{
-                "district":"13",
-                "name":"Diggs, Charles Coles Jr.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "2594":{
-                "district":"13",
-                "name":"Diggs, Charles Coles Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Michigan"
+    "district":13,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mi"
 },
   "bbox": [
     -83.14203,

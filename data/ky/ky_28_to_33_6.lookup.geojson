@@ -1,56 +1,13 @@
 {
-  "id": "ky_28_to_33_06",
+  "id": "ky_28_to_33_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"33",
-    "id":"021028033006",
-    "member":{
-        "28":{
-            "10033":{
-                "district":"6",
-                "name":"White, John",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "6031":{
-                "district":"6",
-                "name":"Martin, John Preston",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "29":{
-                "district":"6",
-                "name":"Adams, Green",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "989":{
-                "district":"6",
-                "name":"Breck, Daniel",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "10004":{
-                "district":"6",
-                "name":"White, Addison",
-                "party":"Whig"
-            }
-        },
-        "33":{
-            "2914":{
-                "district":"6",
-                "name":"Elliott, John Milton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ky"
 },
   "bbox": [
     -84.74554,

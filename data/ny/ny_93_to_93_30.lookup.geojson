@@ -2,20 +2,12 @@
   "id": "ny_93_to_93_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"93",
-    "id":"036093093030",
-    "member":{
-        "93":{
-            "10749":{
-                "district":"30",
-                "name":"McEwen, Robert C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New York"
+    "district":30,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

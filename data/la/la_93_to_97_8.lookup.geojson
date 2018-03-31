@@ -1,49 +1,13 @@
 {
-  "id": "la_93_to_97_08",
+  "id": "la_93_to_97_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"97",
-    "id":"022093097008",
-    "member":{
-        "93":{
-            "10602":{
-                "district":"8",
-                "name":"Long, Gillis W.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10602":{
-                "district":"8",
-                "name":"Long, Gillis W.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10602":{
-                "district":"8",
-                "name":"Long, Gillis W.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10602":{
-                "district":"8",
-                "name":"Long, Gillis W.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "10602":{
-                "district":"8",
-                "name":"Long, Gillis W.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Louisiana"
+    "district":8,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"la"
 },
   "bbox": [
     -92.98146,

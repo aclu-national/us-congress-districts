@@ -2,46 +2,12 @@
   "id": "ny_99_to_102_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"102",
-    "id":"036099102018",
-    "member":{
-        "100":{
-            "14470":{
-                "district":"18",
-                "name":"Garcia, Robert",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14470":{
-                "district":"18",
-                "name":"Garcia, Robert",
-                "party":"Democrat"
-            },
-            "29134":{
-                "district":"18",
-                "name":"Serrano, Jose E.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "29134":{
-                "district":"18",
-                "name":"Serrano, Jose E.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14470":{
-                "district":"18",
-                "name":"Garcia, Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":18,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -73.9339,

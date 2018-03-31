@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"37",
-    "id":"042033037016",
-    "member":{
-        "33":{
-            "5380":{
-                "district":"16",
-                "name":"Kurtz, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "9405":{
-                "district":"16",
-                "name":"Todd, Lemuel",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "50":{
-                "district":"16",
-                "name":"Ahl, John Alexander",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "5086":{
-                "district":"16",
-                "name":"Junkin, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "346":{
-                "district":"16",
-                "name":"Bailey, Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -77.67176,

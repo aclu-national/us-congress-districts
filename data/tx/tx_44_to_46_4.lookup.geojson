@@ -1,35 +1,13 @@
 {
-  "id": "tx_44_to_46_04",
+  "id": "tx_44_to_46_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"46",
-    "id":"048044046004",
-    "member":{
-        "44":{
-            "6531":{
-                "district":"4",
-                "name":"Mills, Roger Quarles",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "6531":{
-                "district":"4",
-                "name":"Mills, Roger Quarles",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "6531":{
-                "district":"4",
-                "name":"Mills, Roger Quarles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Texas"
+    "district":4,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"tx"
 },
   "bbox": [
     -98.9244,

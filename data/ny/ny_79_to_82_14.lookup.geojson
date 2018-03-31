@@ -2,46 +2,12 @@
   "id": "ny_79_to_82_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"82",
-    "id":"036079082014",
-    "member":{
-        "79":{
-            "7754":{
-                "district":"14",
-                "name":"Rayfiel, Leo Frederick",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "6792":{
-                "district":"14",
-                "name":"Multer, Abraham Jacob",
-                "party":"Democrat"
-            },
-            "7754":{
-                "district":"14",
-                "name":"Rayfiel, Leo Frederick",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "6792":{
-                "district":"14",
-                "name":"Multer, Abraham Jacob",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "6792":{
-                "district":"14",
-                "name":"Multer, Abraham Jacob",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -74.01499,

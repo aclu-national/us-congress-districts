@@ -2,27 +2,12 @@
   "id": "ma_53_to_54_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"54",
-    "id":"025053054012",
-    "member":{
-        "53":{
-            "6732":{
-                "district":"12",
-                "name":"Morse, Elijah Adams",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "6732":{
-                "district":"12",
-                "name":"Morse, Elijah Adams",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ma"
 },
   "bbox": [
     -71.3817,

@@ -1,35 +1,13 @@
 {
-  "id": "in_55_to_57_05",
+  "id": "in_55_to_57_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"57",
-    "id":"018055057005",
-    "member":{
-        "55":{
-            "3057":{
-                "district":"5",
-                "name":"Faris, George Washington",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "3057":{
-                "district":"5",
-                "name":"Faris, George Washington",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "4523":{
-                "district":"5",
-                "name":"Holliday, Elias Selah",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Indiana"
+    "district":5,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"in"
 },
   "bbox": [
     -87.62118,

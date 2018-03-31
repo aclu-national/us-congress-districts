@@ -2,48 +2,12 @@
   "id": "oh_93_to_97_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"97",
-    "id":"039093097012",
-    "member":{
-        "93":{
-            "2533":{
-                "district":"12",
-                "name":"Devine, Samuel Leeper",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "2533":{
-                "district":"12",
-                "name":"Devine, Samuel Leeper",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "2533":{
-                "district":"12",
-                "name":"Devine, Samuel Leeper",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "2533":{
-                "district":"12",
-                "name":"Devine, Samuel Leeper",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14859":{
-                "district":"12",
-                "name":"Shamansky, Robert M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"oh"
 },
   "bbox": [
     -83.24962,

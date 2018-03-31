@@ -1,49 +1,13 @@
 {
-  "id": "sc_8_to_12_07",
+  "id": "sc_8_to_12_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"12",
-    "id":"045008012007",
-    "member":{
-        "10":{
-            "6653":{
-                "district":"7",
-                "name":"Moore, Thomas",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "6653":{
-                "district":"7",
-                "name":"Moore, Thomas",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "6653":{
-                "district":"7",
-                "name":"Moore, Thomas",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "6653":{
-                "district":"7",
-                "name":"Moore, Thomas",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "6653":{
-                "district":"7",
-                "name":"Moore, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"South Carolina"
+    "district":7,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"sc"
 },
   "bbox": [
     -82.22647,

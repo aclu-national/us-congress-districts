@@ -2,20 +2,12 @@
   "id": "ny_48_to_48_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"48",
-    "id":"036048048017",
-    "member":{
-        "48":{
-            "1277":{
-                "district":"17",
-                "name":"Burleigh, Henry Gordon",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -73.78616,

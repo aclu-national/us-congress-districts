@@ -1,42 +1,13 @@
 {
-  "id": "pa_79_to_82_07",
+  "id": "pa_79_to_82_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"82",
-    "id":"042079082007",
-    "member":{
-        "79":{
-            "10311":{
-                "district":"7",
-                "name":"Wolfenden, James",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "1614":{
-                "district":"7",
-                "name":"Chadwick, E. Wallace",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4880":{
-                "district":"7",
-                "name":"James, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4880":{
-                "district":"7",
-                "name":"James, Benjamin Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -75.60155,

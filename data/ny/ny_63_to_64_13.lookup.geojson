@@ -2,32 +2,12 @@
   "id": "ny_63_to_64_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"64",
-    "id":"036063064013",
-    "member":{
-        "63":{
-            "5742":{
-                "district":"13",
-                "name":"Loft, George William",
-                "party":"Democrat"
-            },
-            "9076":{
-                "district":"13",
-                "name":"Sullivan, Timothy Daniel",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "5742":{
-                "district":"13",
-                "name":"Loft, George William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -74.00593,

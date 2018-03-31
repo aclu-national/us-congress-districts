@@ -2,20 +2,12 @@
   "id": "va_25_to_25_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"25",
-    "id":"051025025010",
-    "member":{
-        "25":{
-            "9167":{
-                "district":"10",
-                "name":"Taliaferro, John",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"25",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"1839-03-03",
+    "end_session":25,
+    "start_date":"1837-03-04",
+    "start_session":25,
+    "state":"va"
 },
   "bbox": [
     -77.71559,

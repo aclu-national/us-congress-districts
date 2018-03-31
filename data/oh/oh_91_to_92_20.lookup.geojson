@@ -2,27 +2,12 @@
   "id": "oh_91_to_92_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"92",
-    "id":"039091092020",
-    "member":{
-        "91":{
-            "3092":{
-                "district":"20",
-                "name":"Feighan, Michael Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "13043":{
-                "district":"20",
-                "name":"Stanton, James V.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Ohio"
+    "district":20,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"oh"
 },
   "bbox": [
     -81.88567,

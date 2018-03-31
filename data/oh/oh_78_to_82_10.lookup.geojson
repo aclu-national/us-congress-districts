@@ -2,48 +2,12 @@
   "id": "oh_78_to_82_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"82",
-    "id":"039078082010",
-    "member":{
-        "78":{
-            "4917":{
-                "district":"10",
-                "name":"Jenkins, Thomas Albert",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4917":{
-                "district":"10",
-                "name":"Jenkins, Thomas Albert",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "4917":{
-                "district":"10",
-                "name":"Jenkins, Thomas Albert",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4917":{
-                "district":"10",
-                "name":"Jenkins, Thomas Albert",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4917":{
-                "district":"10",
-                "name":"Jenkins, Thomas Albert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Ohio"
+    "district":10,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"oh"
 },
   "bbox": [
     -82.81602,

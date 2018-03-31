@@ -1,21 +1,13 @@
 {
-  "id": "pa_43_to_43_03",
+  "id": "pa_43_to_43_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"43",
-    "id":"042043043003",
-    "member":{
-        "43":{
-            "6838":{
-                "district":"3",
-                "name":"Myers, Leonard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"pa"
 },
   "bbox": [
     -75.15552,

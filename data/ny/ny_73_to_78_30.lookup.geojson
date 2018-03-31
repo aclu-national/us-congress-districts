@@ -2,55 +2,12 @@
   "id": "ny_73_to_78_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"78",
-    "id":"036073078030",
-    "member":{
-        "73":{
-            "2215":{
-                "district":"30",
-                "name":"Crowther, Frank",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "2215":{
-                "district":"30",
-                "name":"Crowther, Frank",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "2215":{
-                "district":"30",
-                "name":"Crowther, Frank",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "2215":{
-                "district":"30",
-                "name":"Crowther, Frank",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "2215":{
-                "district":"30",
-                "name":"Crowther, Frank",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "5110":{
-                "district":"30",
-                "name":"Kearney, Bernard William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":30,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -74.86771,

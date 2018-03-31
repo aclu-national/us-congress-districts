@@ -1,49 +1,13 @@
 {
-  "id": "ia_88_to_92_04",
+  "id": "ia_88_to_92_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"92",
-    "id":"019088092004",
-    "member":{
-        "88":{
-            "5385":{
-                "district":"4",
-                "name":"Kyl, John Henry",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10704":{
-                "district":"4",
-                "name":"Bandstra, Bert",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "5385":{
-                "district":"4",
-                "name":"Kyl, John Henry",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "5385":{
-                "district":"4",
-                "name":"Kyl, John Henry",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "5385":{
-                "district":"4",
-                "name":"Kyl, John Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Iowa"
+    "district":4,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ia"
 },
   "bbox": [
     -94.47176,

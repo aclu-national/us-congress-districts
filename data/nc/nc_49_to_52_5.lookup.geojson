@@ -1,42 +1,13 @@
 {
-  "id": "nc_49_to_52_05",
+  "id": "nc_49_to_52_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"52",
-    "id":"037049052005",
-    "member":{
-        "49":{
-            "7811":{
-                "district":"5",
-                "name":"Reid, James Wesley",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "1093":{
-                "district":"5",
-                "name":"Brower, John Morehead",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "1093":{
-                "district":"5",
-                "name":"Brower, John Morehead",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "10134":{
-                "district":"5",
-                "name":"Williams, Archibald Hunte",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"nc"
 },
   "bbox": [
     -80.97608,

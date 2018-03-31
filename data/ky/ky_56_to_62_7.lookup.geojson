@@ -1,68 +1,13 @@
 {
-  "id": "ky_56_to_62_07",
+  "id": "ky_56_to_62_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"62",
-    "id":"021056062007",
-    "member":{
-        "56":{
-            "3514":{
-                "district":"7",
-                "name":"Gayle, June Ward",
-                "party":"Democrat"
-            },
-            "8369":{
-                "district":"7",
-                "name":"Settle, Evan Evans",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "9476":{
-                "district":"7",
-                "name":"Trimble, South",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "9476":{
-                "district":"7",
-                "name":"Trimble, South",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "9476":{
-                "district":"7",
-                "name":"Trimble, South",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "5246":{
-                "district":"7",
-                "name":"Kimball, William Preston",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "1488":{
-                "district":"7",
-                "name":"Cantrill, James Campbell",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "1488":{
-                "district":"7",
-                "name":"Cantrill, James Campbell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Kentucky"
+    "district":7,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"ky"
 },
   "bbox": [
     -85.63796,

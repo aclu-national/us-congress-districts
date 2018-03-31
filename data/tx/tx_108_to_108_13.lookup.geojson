@@ -2,20 +2,12 @@
   "id": "tx_108_to_108_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"108",
-    "id":"048108108013",
-    "member":{
-        "108":{
-            "29572":{
-                "district":"13",
-                "name":"Thornberry, William M. \"Mac\"",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Texas"
+    "district":13,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tx"
 },
   "bbox": [
     -103.04326,

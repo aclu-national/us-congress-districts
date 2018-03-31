@@ -1,47 +1,13 @@
 {
-  "id": "al_45_to_48_01",
+  "id": "al_45_to_48_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"48",
-    "id":"001045048001",
-    "member":{
-        "45":{
-            "5043":{
-                "district":"1",
-                "name":"Jones, James Taylor",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "4358":{
-                "district":"1",
-                "name":"Herndon, Thomas Hord",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "4358":{
-                "district":"1",
-                "name":"Herndon, Thomas Hord",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "4358":{
-                "district":"1",
-                "name":"Herndon, Thomas Hord",
-                "party":"Democrat"
-            },
-            "5043":{
-                "district":"1",
-                "name":"Jones, James Taylor",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Alabama"
+    "district":1,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

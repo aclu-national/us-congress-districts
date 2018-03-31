@@ -2,48 +2,12 @@
   "id": "pa_68_to_72_35",
   "type": "Feature",
   "properties": {
-    "district":"35",
-    "endcong":"72",
-    "id":"042068072035",
-    "member":{
-        "68":{
-            "5906":{
-                "district":"35",
-                "name":"Magee, James McDevitt",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "5906":{
-                "district":"35",
-                "name":"Magee, James McDevitt",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "2993":{
-                "district":"35",
-                "name":"Estep, Harry Allison",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2993":{
-                "district":"35",
-                "name":"Estep, Harry Allison",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2993":{
-                "district":"35",
-                "name":"Estep, Harry Allison",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":35,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -80.09558,

@@ -1,19 +1,13 @@
 {
-  "id": "wa_113_to_115_01",
+  "id": "wa_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":16022348889,
-    "AWATER":1096396302,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5301",
-    "INTPTLAT":"+48.3673691",
-    "INTPTLON":"-121.6579571",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"53"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"wa"
 },
   "bbox": [
     -123.32242,

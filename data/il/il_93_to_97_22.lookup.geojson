@@ -2,48 +2,12 @@
   "id": "il_93_to_97_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"97",
-    "id":"017093097022",
-    "member":{
-        "93":{
-            "8474":{
-                "district":"22",
-                "name":"Shipley, George Edward",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "8474":{
-                "district":"22",
-                "name":"Shipley, George Edward",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "8474":{
-                "district":"22",
-                "name":"Shipley, George Edward",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14615":{
-                "district":"22",
-                "name":"Crane, Daniel Bever",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14615":{
-                "district":"22",
-                "name":"Crane, Daniel Bever",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Illinois"
+    "district":22,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"il"
 },
   "bbox": [
     -89.58609,

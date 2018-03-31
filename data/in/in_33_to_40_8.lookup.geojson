@@ -1,70 +1,13 @@
 {
-  "id": "in_33_to_40_08",
+  "id": "in_33_to_40_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"40",
-    "id":"018033040008",
-    "member":{
-        "33":{
-            "5876":{
-                "district":"8",
-                "name":"Mace, Daniel",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "5876":{
-                "district":"8",
-                "name":"Mace, Daniel",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "10231":{
-                "district":"8",
-                "name":"Wilson, James",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "10231":{
-                "district":"8",
-                "name":"Wilson, James",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "10005":{
-                "district":"8",
-                "name":"White, Albert Smith",
-                "party":"Republican"
-            }
-        },
-        "38":{
-            "7089":{
-                "district":"8",
-                "name":"Orth, Godlove Stein",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "7089":{
-                "district":"8",
-                "name":"Orth, Godlove Stein",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "7089":{
-                "district":"8",
-                "name":"Orth, Godlove Stein",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Indiana"
+    "district":8,
+    "end_date":"1869-03-03",
+    "end_session":40,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"in"
 },
   "bbox": [
     -87.53144,

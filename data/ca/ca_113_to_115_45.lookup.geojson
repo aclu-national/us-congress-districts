@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_45",
   "type": "Feature",
   "properties": {
-    "ALAND":855714414,
-    "AWATER":5412289,
-    "CD113FP":"45",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0645",
-    "INTPTLAT":"+33.7142584",
-    "INTPTLON":"-117.6683553",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 45",
-    "STATEFP":"06"
+    "district":45,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -117.86953,

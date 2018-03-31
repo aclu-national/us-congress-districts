@@ -1,49 +1,13 @@
 {
-  "id": "nv_98_to_102_02",
+  "id": "nv_98_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"032098102002",
-    "member":{
-        "100":{
-            "15075":{
-                "district":"2",
-                "name":"Vucanovich, Barbara F.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15075":{
-                "district":"2",
-                "name":"Vucanovich, Barbara F.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15075":{
-                "district":"2",
-                "name":"Vucanovich, Barbara F.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "15075":{
-                "district":"2",
-                "name":"Vucanovich, Barbara F.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15075":{
-                "district":"2",
-                "name":"Vucanovich, Barbara F.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Nevada"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"nv"
 },
   "bbox": [
     -120.00472,

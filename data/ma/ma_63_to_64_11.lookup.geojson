@@ -2,27 +2,12 @@
   "id": "ma_63_to_64_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"64",
-    "id":"025063064011",
-    "member":{
-        "63":{
-            "7364":{
-                "district":"11",
-                "name":"Peters, Andrew James",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "9395":{
-                "district":"11",
-                "name":"Tinkham, George Holden",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ma"
 },
   "bbox": [
     -71.1912,

@@ -1,49 +1,13 @@
 {
-  "id": "sc_8_to_12_05",
+  "id": "sc_8_to_12_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"12",
-    "id":"045008012005",
-    "member":{
-        "10":{
-            "10275":{
-                "district":"5",
-                "name":"Winn, Richard",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "10275":{
-                "district":"5",
-                "name":"Winn, Richard",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "10275":{
-                "district":"5",
-                "name":"Winn, Richard",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "10275":{
-                "district":"5",
-                "name":"Winn, Richard",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "10275":{
-                "district":"5",
-                "name":"Winn, Richard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"South Carolina"
+    "district":5,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"sc"
 },
   "bbox": [
     -81.42755,

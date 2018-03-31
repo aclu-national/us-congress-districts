@@ -1,21 +1,13 @@
 {
-  "id": "az_108_to_108_05",
+  "id": "az_108_to_108_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"108",
-    "id":"004108108005",
-    "member":{
-        "108":{
-            "29502":{
-                "district":"5",
-                "name":"Hayworth, John D.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Arizona"
+    "district":5,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"az"
 },
   "bbox": [
     -112.148,

@@ -1,28 +1,13 @@
 {
-  "id": "ny_6_to_7_04",
+  "id": "ny_6_to_7_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"7",
-    "id":"036006007004",
-    "member":{
-        "6":{
-            "2941":{
-                "district":"4",
-                "name":"Elmendorf, Lucas Conrad",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "2941":{
-                "district":"4",
-                "name":"Elmendorf, Lucas Conrad",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"6",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1799-12-02",
+    "start_session":6,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

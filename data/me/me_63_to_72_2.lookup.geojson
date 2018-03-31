@@ -1,84 +1,13 @@
 {
-  "id": "me_63_to_72_02",
+  "id": "me_63_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"023063072002",
-    "member":{
-        "63":{
-            "6252":{
-                "district":"2",
-                "name":"McGillicuddy, Daniel John",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "6252":{
-                "district":"2",
-                "name":"McGillicuddy, Daniel John",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "10047":{
-                "district":"2",
-                "name":"White, Wallace Humphrey, Jr.",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "10047":{
-                "district":"2",
-                "name":"White, Wallace Humphrey, Jr.",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "10047":{
-                "district":"2",
-                "name":"White, Wallace Humphrey, Jr.",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "10047":{
-                "district":"2",
-                "name":"White, Wallace Humphrey, Jr.",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "10047":{
-                "district":"2",
-                "name":"White, Wallace Humphrey, Jr.",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "10047":{
-                "district":"2",
-                "name":"White, Wallace Humphrey, Jr.",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "10047":{
-                "district":"2",
-                "name":"White, Wallace Humphrey, Jr.",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "7222":{
-                "district":"2",
-                "name":"Partridge, Donald Barrows",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Maine"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"me"
 },
   "bbox": [
     -71.08433,

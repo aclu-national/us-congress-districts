@@ -1,49 +1,13 @@
 {
-  "id": "tn_18_to_22_06",
+  "id": "tn_18_to_22_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"22",
-    "id":"047018022006",
-    "member":{
-        "18":{
-            "8202":{
-                "district":"6",
-                "name":"Sandford, James T.",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "7507":{
-                "district":"6",
-                "name":"Polk, James Knox",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "7507":{
-                "district":"6",
-                "name":"Polk, James Knox",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "7507":{
-                "district":"6",
-                "name":"Polk, James Knox",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "7507":{
-                "district":"6",
-                "name":"Polk, James Knox",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"tn"
 },
   "bbox": [
     -87.4655,

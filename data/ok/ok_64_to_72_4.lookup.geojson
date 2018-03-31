@@ -1,77 +1,13 @@
 {
-  "id": "ok_64_to_72_04",
+  "id": "ok_64_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"040064072004",
-    "member":{
-        "64":{
-            "6829":{
-                "district":"4",
-                "name":"Murray, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "6304":{
-                "district":"4",
-                "name":"McKeown, Thomas Deitz",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "6304":{
-                "district":"4",
-                "name":"McKeown, Thomas Deitz",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "7628":{
-                "district":"4",
-                "name":"Pringey, Joseph Colburn",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6304":{
-                "district":"4",
-                "name":"McKeown, Thomas Deitz",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "6304":{
-                "district":"4",
-                "name":"McKeown, Thomas Deitz",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "6304":{
-                "district":"4",
-                "name":"McKeown, Thomas Deitz",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "6304":{
-                "district":"4",
-                "name":"McKeown, Thomas Deitz",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "6304":{
-                "district":"4",
-                "name":"McKeown, Thomas Deitz",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Oklahoma"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"ok"
 },
   "bbox": [
     -97.1423,

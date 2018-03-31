@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"87",
-    "id":"036083087012",
-    "member":{
-        "83":{
-            "2671":{
-                "district":"12",
-                "name":"Dorn, Francis Edwin",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "2671":{
-                "district":"12",
-                "name":"Dorn, Francis Edwin",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "2671":{
-                "district":"12",
-                "name":"Dorn, Francis Edwin",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "2671":{
-                "district":"12",
-                "name":"Dorn, Francis Edwin",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10508":{
-                "district":"12",
-                "name":"Carey, Hugh L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -74.00405,

@@ -2,32 +2,12 @@
   "id": "pa_28_to_29_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"29",
-    "id":"042028029021",
-    "member":{
-        "28":{
-            "10120":{
-                "district":"21",
-                "name":"Wilkins, William",
-                "party":"Democrat"
-            },
-            "2345":{
-                "district":"21",
-                "name":"Darragh, Cornelius",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "2345":{
-                "district":"21",
-                "name":"Darragh, Cornelius",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":21,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -80.36087,

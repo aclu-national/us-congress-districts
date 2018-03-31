@@ -1,42 +1,13 @@
 {
-  "id": "wa_99_to_102_08",
+  "id": "wa_99_to_102_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"102",
-    "id":"053099102008",
-    "member":{
-        "100":{
-            "15016":{
-                "district":"8",
-                "name":"Chandler, Rod",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15016":{
-                "district":"8",
-                "name":"Chandler, Rod",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15016":{
-                "district":"8",
-                "name":"Chandler, Rod",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15016":{
-                "district":"8",
-                "name":"Chandler, Rod",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Washington"
+    "district":8,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"wa"
 },
   "bbox": [
     -122.5268,

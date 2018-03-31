@@ -2,48 +2,12 @@
   "id": "ga_93_to_97_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"97",
-    "id":"013093097010",
-    "member":{
-        "93":{
-            "10563":{
-                "district":"10",
-                "name":"Stephens, Robert G., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10563":{
-                "district":"10",
-                "name":"Stephens, Robert G., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14404":{
-                "district":"10",
-                "name":"Barnard, Doug",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14404":{
-                "district":"10",
-                "name":"Barnard, Doug",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14404":{
-                "district":"10",
-                "name":"Barnard, Doug",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Georgia"
+    "district":10,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ga"
 },
   "bbox": [
     -84.05504,

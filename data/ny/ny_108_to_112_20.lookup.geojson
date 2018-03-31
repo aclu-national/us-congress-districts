@@ -2,53 +2,12 @@
   "id": "ny_108_to_112_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"112",
-    "id":"036108112020",
-    "member":{
-        "108":{
-            "29927":{
-                "district":"20",
-                "name":"Sweeney, John E.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29927":{
-                "district":"20",
-                "name":"Sweeney, John E.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20735":{
-                "district":"20",
-                "name":"Gillibrand, Kirsten E.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20735":{
-                "district":"20",
-                "name":"Gillibrand, Kirsten E.",
-                "party":"Democrat"
-            },
-            "20956":{
-                "district":"20",
-                "name":"Murphy, Scott",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21156":{
-                "district":"20",
-                "name":"Gibson, Chris",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":20,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -75.41966,

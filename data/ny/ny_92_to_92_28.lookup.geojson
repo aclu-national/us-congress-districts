@@ -2,20 +2,12 @@
   "id": "ny_92_to_92_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"92",
-    "id":"036092092028",
-    "member":{
-        "92":{
-            "12013":{
-                "district":"28",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"New York"
+    "district":28,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

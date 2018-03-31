@@ -1,49 +1,13 @@
 {
-  "id": "nc_43_to_47_05",
+  "id": "nc_43_to_47_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"47",
-    "id":"037043047005",
-    "member":{
-        "43":{
-            "5536":{
-                "district":"5",
-                "name":"Leach, James Madison",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "8248":{
-                "district":"5",
-                "name":"Scales, Alfred Moore",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "8248":{
-                "district":"5",
-                "name":"Scales, Alfred Moore",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "8248":{
-                "district":"5",
-                "name":"Scales, Alfred Moore",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "8248":{
-                "district":"5",
-                "name":"Scales, Alfred Moore",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"nc"
 },
   "bbox": [
     -80.48785,

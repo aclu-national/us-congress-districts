@@ -2,41 +2,12 @@
   "id": "ny_34_to_37_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"37",
-    "id":"036034037016",
-    "member":{
-        "34":{
-            "8515":{
-                "district":"16",
-                "name":"Simmons, George Abel",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "7176":{
-                "district":"16",
-                "name":"Palmer, George William",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "7176":{
-                "district":"16",
-                "name":"Palmer, George William",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "9995":{
-                "district":"16",
-                "name":"Wheeler, William Almon",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -74.72568,

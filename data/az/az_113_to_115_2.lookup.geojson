@@ -1,19 +1,13 @@
 {
-  "id": "az_113_to_115_02",
+  "id": "az_113_to_115_2",
   "type": "Feature",
   "properties": {
-    "ALAND":20300636510,
-    "AWATER":138377181,
-    "CD113FP":"02",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0402",
-    "INTPTLAT":"+31.9166176",
-    "INTPTLON":"-109.9387277",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 2",
-    "STATEFP":"04"
+    "district":2,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"az"
 },
   "bbox": [
     -111.093531,

@@ -2,48 +2,12 @@
   "id": "mi_83_to_87_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"87",
-    "id":"026083087010",
-    "member":{
-        "83":{
-            "1610":{
-                "district":"10",
-                "name":"Cederberg, Elford Alfred",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "1610":{
-                "district":"10",
-                "name":"Cederberg, Elford Alfred",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "1610":{
-                "district":"10",
-                "name":"Cederberg, Elford Alfred",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "1610":{
-                "district":"10",
-                "name":"Cederberg, Elford Alfred",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "1610":{
-                "district":"10",
-                "name":"Cederberg, Elford Alfred",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Michigan"
+    "district":10,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mi"
 },
   "bbox": [
     -85.56467,

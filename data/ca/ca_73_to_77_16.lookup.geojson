@@ -2,48 +2,12 @@
   "id": "ca_73_to_77_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"77",
-    "id":"006073077016",
-    "member":{
-        "73":{
-            "2634":{
-                "district":"16",
-                "name":"Dockweiler, John Francis",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "2634":{
-                "district":"16",
-                "name":"Dockweiler, John Francis",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2634":{
-                "district":"16",
-                "name":"Dockweiler, John Francis",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3270":{
-                "district":"16",
-                "name":"Ford, Leland Merritt",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "3270":{
-                "district":"16",
-                "name":"Ford, Leland Merritt",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"California"
+    "district":16,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ca"
 },
   "bbox": [
     -118.9449,

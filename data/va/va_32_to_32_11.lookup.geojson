@@ -2,20 +2,12 @@
   "id": "va_32_to_32_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"32",
-    "id":"051032032011",
-    "member":{
-        "32":{
-            "5621":{
-                "district":"11",
-                "name":"Letcher, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"32",
-    "statename":"Virginia"
+    "district":11,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1851-03-04",
+    "start_session":32,
+    "state":"va"
 },
   "bbox": [
     -79.69962,

@@ -1,49 +1,13 @@
 {
-  "id": "nh_98_to_102_01",
+  "id": "nh_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"033098102001",
-    "member":{
-        "100":{
-            "15116":{
-                "district":"1",
-                "name":"Smith, Robert C.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15116":{
-                "district":"1",
-                "name":"Smith, Robert C.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "29130":{
-                "district":"1",
-                "name":"Zeliff, Bill",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14284":{
-                "district":"1",
-                "name":"D Amours, Norman",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15116":{
-                "district":"1",
-                "name":"Smith, Robert C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New Hampshire"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"nh"
 },
   "bbox": [
     -71.73201,

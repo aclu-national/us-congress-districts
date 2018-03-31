@@ -1,49 +1,13 @@
 {
-  "id": "fl_98_to_102_06",
+  "id": "fl_98_to_102_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"102",
-    "id":"012098102006",
-    "member":{
-        "100":{
-            "15038":{
-                "district":"6",
-                "name":"MacKay, Kenneth Hood",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15627":{
-                "district":"6",
-                "name":"Stearns, Cliff",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15627":{
-                "district":"6",
-                "name":"Stearns, Cliff",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "15038":{
-                "district":"6",
-                "name":"MacKay, Kenneth Hood",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15038":{
-                "district":"6",
-                "name":"MacKay, Kenneth Hood",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Florida"
+    "district":6,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"fl"
 },
   "bbox": [
     -82.82776,

@@ -1,35 +1,13 @@
 {
-  "id": "oh_43_to_45_09",
+  "id": "oh_43_to_45_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"45",
-    "id":"039043045009",
-    "member":{
-        "43":{
-            "7979":{
-                "district":"9",
-                "name":"Robinson, James Wallace",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "7528":{
-                "district":"9",
-                "name":"Poppleton, Earley Franklin",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "5047":{
-                "district":"9",
-                "name":"Jones, John Sills",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Ohio"
+    "district":9,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"oh"
 },
   "bbox": [
     -83.88031,

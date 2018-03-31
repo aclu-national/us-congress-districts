@@ -1,42 +1,13 @@
 {
-  "id": "md_29_to_32_02",
+  "id": "md_29_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"024029032002",
-    "member":{
-        "29":{
-            "7358":{
-                "district":"2",
-                "name":"Perry, Thomas Johns",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "8044":{
-                "district":"2",
-                "name":"Roman, James Dixon",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "3998":{
-                "district":"2",
-                "name":"Hamilton, William Thomas",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "3998":{
-                "district":"2",
-                "name":"Hamilton, William Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"Maryland"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

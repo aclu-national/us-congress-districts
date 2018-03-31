@@ -2,27 +2,12 @@
   "id": "ny_66_to_67_41",
   "type": "Feature",
   "properties": {
-    "district":"41",
-    "endcong":"67",
-    "id":"036066067041",
-    "member":{
-        "66":{
-            "5877":{
-                "district":"41",
-                "name":"MacGregor, Clarence",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5877":{
-                "district":"41",
-                "name":"MacGregor, Clarence",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":41,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -78.90188,

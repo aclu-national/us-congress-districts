@@ -1,99 +1,13 @@
 {
-  "id": "pa_18_to_22_04",
+  "id": "pa_18_to_22_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"22",
-    "id":"042018022004",
-    "member":{
-        "18":{
-            "1186":{
-                "district":"4",
-                "name":"Buchanan, James",
-                "party":"Jackson Federalist"
-            },
-            "2873":{
-                "district":"4",
-                "name":"Edwards, Samuel",
-                "party":"Jackson Federalist"
-            },
-            "9886":{
-                "district":"4",
-                "name":"Wayne, Isaac",
-                "party":"Jackson Federalist"
-            }
-        },
-        "19":{
-            "1186":{
-                "district":"4",
-                "name":"Buchanan, James",
-                "party":"Jackson"
-            },
-            "2873":{
-                "district":"4",
-                "name":"Edwards, Samuel",
-                "party":"Jackson"
-            },
-            "6544":{
-                "district":"4",
-                "name":"Miner, Charles",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "1186":{
-                "district":"4",
-                "name":"Buchanan, James",
-                "party":"Jackson"
-            },
-            "180":{
-                "district":"4",
-                "name":"Anderson, Samuel",
-                "party":"Adams"
-            },
-            "6544":{
-                "district":"4",
-                "name":"Miner, Charles",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "1186":{
-                "district":"4",
-                "name":"Buchanan, James",
-                "party":"Jackson"
-            },
-            "3014":{
-                "district":"4",
-                "name":"Evans, Joshua Jr.",
-                "party":"Jackson"
-            },
-            "5599":{
-                "district":"4",
-                "name":"Leiper, George Gray",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "3014":{
-                "district":"4",
-                "name":"Evans, Joshua Jr.",
-                "party":"Jackson"
-            },
-            "4395":{
-                "district":"4",
-                "name":"Hiester, William",
-                "party":"Anti Masonic"
-            },
-            "7562":{
-                "district":"4",
-                "name":"Potts, David Jr.",
-                "party":"Anti Masonic"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

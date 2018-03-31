@@ -2,27 +2,12 @@
   "id": "ny_66_to_67_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"67",
-    "id":"036066067023",
-    "member":{
-        "66":{
-            "6308":{
-                "district":"23",
-                "name":"McKiniry, Richard Francis",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "8079":{
-                "district":"23",
-                "name":"Rossdale, Albert Berger",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -73.93341,

@@ -1,21 +1,13 @@
 {
-  "id": "ga_60_to_60_05",
+  "id": "ga_60_to_60_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"60",
-    "id":"013060060005",
-    "member":{
-        "60":{
-            "5717":{
-                "district":"5",
-                "name":"Livingston, Leonidas Feli",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Georgia"
+    "district":5,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ga"
 },
   "bbox": [
     -84.91106,

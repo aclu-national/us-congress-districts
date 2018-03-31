@@ -1,42 +1,13 @@
 {
-  "id": "wi_89_to_92_08",
+  "id": "wi_89_to_92_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"92",
-    "id":"055089092008",
-    "member":{
-        "89":{
-            "1371":{
-                "district":"8",
-                "name":"Byrnes, John William",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "1371":{
-                "district":"8",
-                "name":"Byrnes, John William",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "1371":{
-                "district":"8",
-                "name":"Byrnes, John William",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "1371":{
-                "district":"8",
-                "name":"Byrnes, John William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Wisconsin"
+    "district":8,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"wi"
 },
   "bbox": [
     -88.73984,

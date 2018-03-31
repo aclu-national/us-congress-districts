@@ -2,41 +2,12 @@
   "id": "ny_49_to_52_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"52",
-    "id":"036049052013",
-    "member":{
-        "49":{
-            "9670":{
-                "district":"13",
-                "name":"Viele, Egbert Ludoricus",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "3176":{
-                "district":"13",
-                "name":"Fitch, Ashbel Parmelee",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "3176":{
-                "district":"13",
-                "name":"Fitch, Ashbel Parmelee",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "3176":{
-                "district":"13",
-                "name":"Fitch, Ashbel Parmelee",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -73.99982,

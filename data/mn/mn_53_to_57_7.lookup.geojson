@@ -1,49 +1,13 @@
 {
-  "id": "mn_53_to_57_07",
+  "id": "mn_53_to_57_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"57",
-    "id":"027053057007",
-    "member":{
-        "53":{
-            "821":{
-                "district":"7",
-                "name":"Boen, Haldor Erickson",
-                "party":"Populist"
-            }
-        },
-        "54":{
-            "2839":{
-                "district":"7",
-                "name":"Eddy, Frank Marion",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2839":{
-                "district":"7",
-                "name":"Eddy, Frank Marion",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2839":{
-                "district":"7",
-                "name":"Eddy, Frank Marion",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2839":{
-                "district":"7",
-                "name":"Eddy, Frank Marion",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Minnesota"
+    "district":7,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mn"
 },
   "bbox": [
     -97.23921,

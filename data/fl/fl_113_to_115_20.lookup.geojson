@@ -2,18 +2,12 @@
   "id": "fl_113_to_115_20",
   "type": "Feature",
   "properties": {
-    "ALAND":6283986696,
-    "AWATER":702410449,
-    "CD113FP":"20",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1220",
-    "INTPTLAT":"+26.5089242",
-    "INTPTLON":"-080.6770960",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 20",
-    "STATEFP":"12"
+    "district":20,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"fl"
 },
   "bbox": [
     -81.271723,

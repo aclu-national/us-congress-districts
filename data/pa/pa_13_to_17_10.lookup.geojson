@@ -2,73 +2,12 @@
   "id": "pa_13_to_17_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"17",
-    "id":"042013017010",
-    "member":{
-        "13":{
-            "4827":{
-                "district":"10",
-                "name":"Irwin, Jared",
-                "party":"Republican"
-            },
-            "8638":{
-                "district":"10",
-                "name":"Smith, Isaac",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "10257":{
-                "district":"10",
-                "name":"Wilson, William",
-                "party":"Republican"
-            },
-            "4827":{
-                "district":"10",
-                "name":"Irwin, Jared",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "10257":{
-                "district":"10",
-                "name":"Wilson, William",
-                "party":"Republican"
-            },
-            "6821":{
-                "district":"10",
-                "name":"Murray, John",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "2498":{
-                "district":"10",
-                "name":"Denison, George",
-                "party":"Republican"
-            },
-            "6821":{
-                "district":"10",
-                "name":"Murray, John",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "2498":{
-                "district":"10",
-                "name":"Denison, George",
-                "party":"Republican"
-            },
-            "6825":{
-                "district":"10",
-                "name":"Murray, Thomas, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"pa"
 },
   "bbox": [
     -78.2066,

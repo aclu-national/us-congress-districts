@@ -2,27 +2,12 @@
   "id": "oh_50_to_51_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"51",
-    "id":"039050051020",
-    "member":{
-        "50":{
-            "2203":{
-                "district":"20",
-                "name":"Crouse, George Washington",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "8714":{
-                "district":"20",
-                "name":"Smyser, Martin Luther",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Ohio"
+    "district":20,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"oh"
 },
   "bbox": [
     -82.17342,

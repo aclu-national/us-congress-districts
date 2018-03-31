@@ -1,84 +1,13 @@
 {
-  "id": "wv_38_to_47_03",
+  "id": "wv_38_to_47_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"47",
-    "id":"054038047003",
-    "member":{
-        "38":{
-            "9973":{
-                "district":"3",
-                "name":"Whaley, Kellian Van Rensalear",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "39":{
-            "9973":{
-                "district":"3",
-                "name":"Whaley, Kellian Van Rensalear",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "40":{
-            "7515":{
-                "district":"3",
-                "name":"Polsley, Daniel Haymond",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "10292":{
-                "district":"3",
-                "name":"Witcher, John Seashoal",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "4352":{
-                "district":"3",
-                "name":"Hereford, Frank",
-                "party":"Democrat"
-            }
-        },
-        "43":{
-            "4352":{
-                "district":"3",
-                "name":"Hereford, Frank",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "4352":{
-                "district":"3",
-                "name":"Hereford, Frank",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "5173":{
-                "district":"3",
-                "name":"Kenna, John Edward",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "5173":{
-                "district":"3",
-                "name":"Kenna, John Edward",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "5173":{
-                "district":"3",
-                "name":"Kenna, John Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"West Virginia"
+    "district":3,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"wv"
 },
   "bbox": [
     -82.64474,

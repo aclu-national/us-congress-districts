@@ -2,27 +2,12 @@
   "id": "va_26_to_27_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"27",
-    "id":"051026027017",
-    "member":{
-        "26":{
-            "2135":{
-                "district":"17",
-                "name":"Craig, Robert",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "9049":{
-                "district":"17",
-                "name":"Stuart, Alexander Hugh Holmes",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"26",
-    "statename":"Virginia"
+    "district":17,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1839-12-02",
+    "start_session":26,
+    "state":"va"
 },
   "bbox": [
     -80.63399,

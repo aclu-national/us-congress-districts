@@ -2,48 +2,12 @@
   "id": "ga_65_to_69_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"69",
-    "id":"013065069010",
-    "member":{
-        "65":{
-            "9677":{
-                "district":"10",
-                "name":"Vinson, Carl",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "9677":{
-                "district":"10",
-                "name":"Vinson, Carl",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "9677":{
-                "district":"10",
-                "name":"Vinson, Carl",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "9677":{
-                "district":"10",
-                "name":"Vinson, Carl",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9677":{
-                "district":"10",
-                "name":"Vinson, Carl",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Georgia"
+    "district":10,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ga"
 },
   "bbox": [
     -83.42903,

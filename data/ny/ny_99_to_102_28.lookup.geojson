@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"102",
-    "id":"036099102028",
-    "member":{
-        "100":{
-            "14253":{
-                "district":"28",
-                "name":"McHugh, Matthew",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14253":{
-                "district":"28",
-                "name":"McHugh, Matthew",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14253":{
-                "district":"28",
-                "name":"McHugh, Matthew",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14253":{
-                "district":"28",
-                "name":"McHugh, Matthew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":28,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -76.69698,

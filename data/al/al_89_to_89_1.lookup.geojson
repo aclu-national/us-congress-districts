@@ -1,21 +1,13 @@
 {
-  "id": "al_89_to_89_01",
+  "id": "al_89_to_89_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"89",
-    "id":"001089089001",
-    "member":{
-        "89":{
-            "10721":{
-                "district":"1",
-                "name":"Edwards, Jack",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Alabama"
+    "district":1,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

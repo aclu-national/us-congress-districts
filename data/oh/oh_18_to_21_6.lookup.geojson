@@ -1,47 +1,13 @@
 {
-  "id": "oh_18_to_21_06",
+  "id": "oh_18_to_21_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"21",
-    "id":"039018021006",
-    "member":{
-        "18":{
-            "6125":{
-                "district":"6",
-                "name":"McArthur, Duncan",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "9351":{
-                "district":"6",
-                "name":"Thomson, John",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "2172":{
-                "district":"6",
-                "name":"Creighton, William, Jr.",
-                "party":"Adams"
-            },
-            "6779":{
-                "district":"6",
-                "name":"Muhlenberg, Francis Swain",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "2172":{
-                "district":"6",
-                "name":"Creighton, William, Jr.",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Ohio"
+    "district":6,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"oh"
 },
   "bbox": [
     -83.67019,

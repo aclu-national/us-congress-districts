@@ -1,28 +1,13 @@
 {
-  "id": "wi_43_to_44_01",
+  "id": "wi_43_to_44_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"44",
-    "id":"055043044001",
-    "member":{
-        "43":{
-            "10137":{
-                "district":"1",
-                "name":"Williams, Charles Grandison",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "10137":{
-                "district":"1",
-                "name":"Williams, Charles Grandison",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Wisconsin"
+    "district":1,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"wi"
 },
   "bbox": [
     -89.36926,

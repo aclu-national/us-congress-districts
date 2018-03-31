@@ -2,53 +2,12 @@
   "id": "va_13_to_17_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"17",
-    "id":"051013017018",
-    "member":{
-        "13":{
-            "3552":{
-                "district":"18",
-                "name":"Gholson, Thomas Jr.",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "3552":{
-                "district":"18",
-                "name":"Gholson, Thomas Jr.",
-                "party":"Republican"
-            },
-            "6874":{
-                "district":"18",
-                "name":"Nelson, Thomas Maduit",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "6874":{
-                "district":"18",
-                "name":"Nelson, Thomas Maduit",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "87":{
-                "district":"18",
-                "name":"Alexander, Mark",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "87":{
-                "district":"18",
-                "name":"Alexander, Mark",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":18,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -78.74044,

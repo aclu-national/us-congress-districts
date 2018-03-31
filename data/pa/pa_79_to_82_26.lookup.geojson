@@ -2,46 +2,12 @@
   "id": "pa_79_to_82_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"82",
-    "id":"042079082026",
-    "member":{
-        "79":{
-            "9377":{
-                "district":"26",
-                "name":"Tibbott, Harve",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "9377":{
-                "district":"26",
-                "name":"Tibbott, Harve",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "1901":{
-                "district":"26",
-                "name":"Coffey, Robert Lewis, Jr.",
-                "party":"Democrat"
-            },
-            "8247":{
-                "district":"26",
-                "name":"Saylor, John Phillips",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "8247":{
-                "district":"26",
-                "name":"Saylor, John Phillips",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":26,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -79.69295,

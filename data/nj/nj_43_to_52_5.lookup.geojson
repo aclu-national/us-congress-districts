@@ -1,84 +1,13 @@
 {
-  "id": "nj_43_to_52_05",
+  "id": "nj_43_to_52_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"52",
-    "id":"034043052005",
-    "member":{
-        "43":{
-            "7407":{
-                "district":"5",
-                "name":"Phelps, William Walter",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "2286":{
-                "district":"5",
-                "name":"Cutler, Augustus William",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "2286":{
-                "district":"5",
-                "name":"Cutler, Augustus William",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "9686":{
-                "district":"5",
-                "name":"Voorhis, Charles Henry",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "4414":{
-                "district":"5",
-                "name":"Hill, John",
-                "party":"Republican"
-            }
-        },
-        "48":{
-            "7407":{
-                "district":"5",
-                "name":"Phelps, William Walter",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "7407":{
-                "district":"5",
-                "name":"Phelps, William Walter",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "7407":{
-                "district":"5",
-                "name":"Phelps, William Walter",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "566":{
-                "district":"5",
-                "name":"Beckwith, Charles Dyer",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "1385":{
-                "district":"5",
-                "name":"Cadmus, Cornelius Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New Jersey"
+    "district":5,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"nj"
 },
   "bbox": [
     -74.88989,

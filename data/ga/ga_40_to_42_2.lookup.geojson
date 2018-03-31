@@ -1,35 +1,13 @@
 {
-  "id": "ga_40_to_42_02",
+  "id": "ga_40_to_42_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"42",
-    "id":"013040042002",
-    "member":{
-        "40":{
-            "9381":{
-                "district":"2",
-                "name":"Tift, Nelson",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "10058":{
-                "district":"2",
-                "name":"Whiteley, Richard Henry",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "10058":{
-                "district":"2",
-                "name":"Whiteley, Richard Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Georgia"
+    "district":2,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"ga"
 },
   "bbox": [
     -85.14193,

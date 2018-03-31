@@ -1,33 +1,13 @@
 {
-  "id": "ny_6_to_7_02",
+  "id": "ny_6_to_7_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"7",
-    "id":"036006007002",
-    "member":{
-        "6":{
-            "4204":{
-                "district":"2",
-                "name":"Havens, Jonathan Nicoll",
-                "party":"Republican"
-            },
-            "5715":{
-                "district":"2",
-                "name":"Livingston, Edward",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "6577":{
-                "district":"2",
-                "name":"Mitchill, Samuel Latham",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"6",
-    "statename":"New York"
+    "district":2,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1799-12-02",
+    "start_session":6,
+    "state":"ny"
 },
   "bbox": [
     -74.04718,

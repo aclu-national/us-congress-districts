@@ -1,21 +1,13 @@
 {
-  "id": "fl_90_to_90_06",
+  "id": "fl_90_to_90_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"90",
-    "id":"012090090006",
-    "member":{
-        "90":{
-            "10588":{
-                "district":"6",
-                "name":"Gibbons, Sam M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Florida"
+    "district":6,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"fl"
 },
   "bbox": [
     -82.7667,

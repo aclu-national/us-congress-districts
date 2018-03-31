@@ -1,21 +1,13 @@
 {
-  "id": "ga_60_to_60_04",
+  "id": "ga_60_to_60_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"60",
-    "id":"013060060004",
-    "member":{
-        "60":{
-            "44":{
-                "district":"4",
-                "name":"Adamson, William Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Georgia"
+    "district":4,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ga"
 },
   "bbox": [
     -85.33823,

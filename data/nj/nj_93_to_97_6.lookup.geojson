@@ -1,49 +1,13 @@
 {
-  "id": "nj_93_to_97_06",
+  "id": "nj_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"034093097006",
-    "member":{
-        "93":{
-            "12046":{
-                "district":"6",
-                "name":"Forsythe, Edwin B.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "12046":{
-                "district":"6",
-                "name":"Forsythe, Edwin B.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "12046":{
-                "district":"6",
-                "name":"Forsythe, Edwin B.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "12046":{
-                "district":"6",
-                "name":"Forsythe, Edwin B.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "12046":{
-                "district":"6",
-                "name":"Forsythe, Edwin B.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New Jersey"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nj"
 },
   "bbox": [
     -75.10331,

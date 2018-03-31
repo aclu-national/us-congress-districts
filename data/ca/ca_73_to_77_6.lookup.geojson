@@ -1,49 +1,13 @@
 {
-  "id": "ca_73_to_77_06",
+  "id": "ca_73_to_77_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"77",
-    "id":"006073077006",
-    "member":{
-        "73":{
-            "1545":{
-                "district":"6",
-                "name":"Carter, Albert Edward",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "1545":{
-                "district":"6",
-                "name":"Carter, Albert Edward",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "1545":{
-                "district":"6",
-                "name":"Carter, Albert Edward",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "1545":{
-                "district":"6",
-                "name":"Carter, Albert Edward",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "1545":{
-                "district":"6",
-                "name":"Carter, Albert Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"California"
+    "district":6,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ca"
 },
   "bbox": [
     -122.42978,

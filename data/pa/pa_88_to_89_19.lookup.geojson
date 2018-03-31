@@ -2,27 +2,12 @@
   "id": "pa_88_to_89_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"89",
-    "id":"042088089019",
-    "member":{
-        "88":{
-            "10521":{
-                "district":"19",
-                "name":"Goodling, George A.",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10714":{
-                "district":"19",
-                "name":"Craley, N. Nieman, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"pa"
 },
   "bbox": [
     -77.62724,

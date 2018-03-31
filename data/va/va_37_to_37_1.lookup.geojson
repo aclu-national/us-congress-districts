@@ -1,21 +1,13 @@
 {
-  "id": "va_37_to_37_01",
+  "id": "va_37_to_37_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"37",
-    "id":"051037037001",
-    "member":{
-        "37":{
-            "8349":{
-                "district":"1",
-                "name":"Segar, Joseph Eggleston",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"37",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1861-03-04",
+    "start_session":37,
+    "state":"va"
 },
   "bbox": [
     -77.23506,

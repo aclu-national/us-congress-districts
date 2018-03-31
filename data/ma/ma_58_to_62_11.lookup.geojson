@@ -2,48 +2,12 @@
   "id": "ma_58_to_62_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"62",
-    "id":"025058062011",
-    "member":{
-        "58":{
-            "9070":{
-                "district":"11",
-                "name":"Sullivan, John Andrew",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "9070":{
-                "district":"11",
-                "name":"Sullivan, John Andrew",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "7364":{
-                "district":"11",
-                "name":"Peters, Andrew James",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "7364":{
-                "district":"11",
-                "name":"Peters, Andrew James",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "7364":{
-                "district":"11",
-                "name":"Peters, Andrew James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ma"
 },
   "bbox": [
     -71.1912,

@@ -2,20 +2,12 @@
   "id": "oh_47_to_47_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"47",
-    "id":"039047047019",
-    "member":{
-        "47":{
-            "9206":{
-                "district":"19",
-                "name":"Taylor, Ezra Booth",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Ohio"
+    "district":19,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"oh"
 },
   "bbox": [
     -81.48894,

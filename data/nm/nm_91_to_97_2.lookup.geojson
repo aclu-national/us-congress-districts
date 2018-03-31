@@ -1,63 +1,13 @@
 {
-  "id": "nm_91_to_97_02",
+  "id": "nm_91_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"035091097002",
-    "member":{
-        "91":{
-            "10584":{
-                "district":"2",
-                "name":"Foreman, Ed",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13038":{
-                "district":"2",
-                "name":"Runnels, Harold",
-                "party":"Democrat"
-            }
-        },
-        "93":{
-            "13038":{
-                "district":"2",
-                "name":"Runnels, Harold",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "13038":{
-                "district":"2",
-                "name":"Runnels, Harold",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "13038":{
-                "district":"2",
-                "name":"Runnels, Harold",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "13038":{
-                "district":"2",
-                "name":"Runnels, Harold",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14861":{
-                "district":"2",
-                "name":"Skeen, Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New Mexico"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nm"
 },
   "bbox": [
     -109.05017,

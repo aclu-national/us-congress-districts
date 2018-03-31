@@ -2,20 +2,12 @@
   "id": "oh_52_to_52_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"52",
-    "id":"039052052013",
-    "member":{
-        "52":{
-            "2764":{
-                "district":"13",
-                "name":"Dungan, James Irvine",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Ohio"
+    "district":13,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"oh"
 },
   "bbox": [
     -82.84307,

@@ -1,49 +1,13 @@
 {
-  "id": "ca_58_to_62_05",
+  "id": "ca_58_to_62_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"62",
-    "id":"006058062005",
-    "member":{
-        "58":{
-            "10406":{
-                "district":"5",
-                "name":"Wynn, William Joseph",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "4230":{
-                "district":"5",
-                "name":"Hayes, Everis Anson",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "4230":{
-                "district":"5",
-                "name":"Hayes, Everis Anson",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "4230":{
-                "district":"5",
-                "name":"Hayes, Everis Anson",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "4230":{
-                "district":"5",
-                "name":"Hayes, Everis Anson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"California"
+    "district":5,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ca"
 },
   "bbox": [
     -123.10803,

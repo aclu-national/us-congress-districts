@@ -1,54 +1,13 @@
 {
-  "id": "ma_33_to_37_01",
+  "id": "ma_33_to_37_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"37",
-    "id":"025033037001",
-    "member":{
-        "33":{
-            "2895":{
-                "district":"1",
-                "name":"Eliot, Thomas Dawes",
-                "party":"Whig"
-            },
-            "8328":{
-                "district":"1",
-                "name":"Scudder, Zeno",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "3953":{
-                "district":"1",
-                "name":"Hall, Robert Bernard",
-                "party":"American"
-            }
-        },
-        "35":{
-            "3953":{
-                "district":"1",
-                "name":"Hall, Robert Bernard",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "2895":{
-                "district":"1",
-                "name":"Eliot, Thomas Dawes",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "2895":{
-                "district":"1",
-                "name":"Eliot, Thomas Dawes",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ma"
 },
   "bbox": [
     -71.07649,

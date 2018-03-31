@@ -1,49 +1,13 @@
 {
-  "id": "va_43_to_47_06",
+  "id": "va_43_to_47_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"47",
-    "id":"051043047006",
-    "member":{
-        "43":{
-            "10052":{
-                "district":"6",
-                "name":"Whitehead, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "9499":{
-                "district":"6",
-                "name":"Tucker, John Randolph",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "9499":{
-                "district":"6",
-                "name":"Tucker, John Randolph",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "9499":{
-                "district":"6",
-                "name":"Tucker, John Randolph",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "9499":{
-                "district":"6",
-                "name":"Tucker, John Randolph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"va"
 },
   "bbox": [
     -80.29614,

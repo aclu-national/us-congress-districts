@@ -1,28 +1,13 @@
 {
-  "id": "tx_51_to_52_06",
+  "id": "tx_51_to_52_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"52",
-    "id":"048051052006",
-    "member":{
-        "51":{
-            "4":{
-                "district":"6",
-                "name":"Abbott, Jo (Joseph)",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "4":{
-                "district":"6",
-                "name":"Abbott, Jo (Joseph)",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"tx"
 },
   "bbox": [
     -98.00531,

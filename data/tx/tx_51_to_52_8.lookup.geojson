@@ -1,28 +1,13 @@
 {
-  "id": "tx_51_to_52_08",
+  "id": "tx_51_to_52_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"52",
-    "id":"048051052008",
-    "member":{
-        "51":{
-            "6642":{
-                "district":"8",
-                "name":"Moore, Littleton Wilde",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "6642":{
-                "district":"8",
-                "name":"Moore, Littleton Wilde",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Texas"
+    "district":8,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"tx"
 },
   "bbox": [
     -98.80491,

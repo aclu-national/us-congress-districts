@@ -2,17 +2,12 @@
   "id": "tx_28_to_31_-1",
   "type": "Feature",
   "properties": {
-    "district":"-1",
-    "endcong":"31",
-    "id":"0480280310-1",
-    "member":{
-        "28":[],
-        "29":[],
-        "30":[],
-        "31":[]
-    },
-    "startcong":"28",
-    "statename":"Texas"
+    "district":-1,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"tx"
 },
   "bbox": [
     -107.57185,

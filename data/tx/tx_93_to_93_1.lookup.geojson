@@ -1,21 +1,13 @@
 {
-  "id": "tx_93_to_93_01",
+  "id": "tx_93_to_93_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"93",
-    "id":"048093093001",
-    "member":{
-        "93":{
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tx"
 },
   "bbox": [
     -96.454,

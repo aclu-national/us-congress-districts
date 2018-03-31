@@ -2,48 +2,12 @@
   "id": "pa_18_to_22_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"22",
-    "id":"042018022017",
-    "member":{
-        "18":{
-            "7492":{
-                "district":"17",
-                "name":"Plumer, George",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "7492":{
-                "district":"17",
-                "name":"Plumer, George",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "2092":{
-                "district":"17",
-                "name":"Coulter, Richard",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2092":{
-                "district":"17",
-                "name":"Coulter, Richard",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "2092":{
-                "district":"17",
-                "name":"Coulter, Richard",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"pa"
 },
   "bbox": [
     -79.90495,

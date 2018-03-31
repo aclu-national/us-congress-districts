@@ -1,42 +1,13 @@
 {
-  "id": "ms_62_to_65_03",
+  "id": "ms_62_to_65_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"65",
-    "id":"028062065003",
-    "member":{
-        "62":{
-            "4734":{
-                "district":"3",
-                "name":"Humphreys, Benjamin Grubb",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "4734":{
-                "district":"3",
-                "name":"Humphreys, Benjamin Grubb",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4734":{
-                "district":"3",
-                "name":"Humphreys, Benjamin Grubb",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "4734":{
-                "district":"3",
-                "name":"Humphreys, Benjamin Grubb",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"62",
-    "statename":"Mississippi"
+    "district":3,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1911-04-04",
+    "start_session":62,
+    "state":"ms"
 },
   "bbox": [
     -91.23593,

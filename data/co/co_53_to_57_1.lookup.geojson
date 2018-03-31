@@ -1,49 +1,13 @@
 {
-  "id": "co_53_to_57_01",
+  "id": "co_53_to_57_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"57",
-    "id":"008053057001",
-    "member":{
-        "53":{
-            "7315":{
-                "district":"1",
-                "name":"Pence, Lafayette",
-                "party":"Populist"
-            }
-        },
-        "54":{
-            "8394":{
-                "district":"1",
-                "name":"Shafroth, John Franklin",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "8394":{
-                "district":"1",
-                "name":"Shafroth, John Franklin",
-                "party":"Silver Republican"
-            }
-        },
-        "56":{
-            "8394":{
-                "district":"1",
-                "name":"Shafroth, John Franklin",
-                "party":"Silver Republican"
-            }
-        },
-        "57":{
-            "8394":{
-                "district":"1",
-                "name":"Shafroth, John Franklin",
-                "party":"Silver Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Colorado"
+    "district":1,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"co"
 },
   "bbox": [
     -106.87322,

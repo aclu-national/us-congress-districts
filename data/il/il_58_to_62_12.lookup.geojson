@@ -2,48 +2,12 @@
   "id": "il_58_to_62_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"62",
-    "id":"017058062012",
-    "member":{
-        "58":{
-            "3393":{
-                "district":"12",
-                "name":"Fuller, Charles Eugene",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "3393":{
-                "district":"12",
-                "name":"Fuller, Charles Eugene",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3393":{
-                "district":"12",
-                "name":"Fuller, Charles Eugene",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3393":{
-                "district":"12",
-                "name":"Fuller, Charles Eugene",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "3393":{
-                "district":"12",
-                "name":"Fuller, Charles Eugene",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":12,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -89.40144,

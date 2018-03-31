@@ -1,35 +1,13 @@
 {
-  "id": "md_90_to_92_04",
+  "id": "md_90_to_92_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"92",
-    "id":"024090092004",
-    "member":{
-        "90":{
-            "3054":{
-                "district":"4",
-                "name":"Fallon, George Hyde",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "3054":{
-                "district":"4",
-                "name":"Fallon, George Hyde",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "13039":{
-                "district":"4",
-                "name":"Sarbanes, Paul",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Maryland"
+    "district":4,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"md"
 },
   "bbox": [
     -76.65798,

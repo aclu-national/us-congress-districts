@@ -1,49 +1,13 @@
 {
-  "id": "ok_108_to_112_05",
+  "id": "ok_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"040108112005",
-    "member":{
-        "108":{
-            "29392":{
-                "district":"5",
-                "name":"Istook, Ernest Jim, Jr.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29392":{
-                "district":"5",
-                "name":"Istook, Ernest Jim, Jr.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20742":{
-                "district":"5",
-                "name":"Fallin, Mary",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20742":{
-                "district":"5",
-                "name":"Fallin, Mary",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21166":{
-                "district":"5",
-                "name":"Lankford, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Oklahoma"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ok"
 },
   "bbox": [
     -97.67422,

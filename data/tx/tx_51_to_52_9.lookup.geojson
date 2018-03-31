@@ -1,33 +1,13 @@
 {
-  "id": "tx_51_to_52_09",
+  "id": "tx_51_to_52_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"52",
-    "id":"048051052009",
-    "member":{
-        "51":{
-            "6531":{
-                "district":"9",
-                "name":"Mills, Roger Quarles",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "214":{
-                "district":"9",
-                "name":"Antony, Edwin Le Roy",
-                "party":"Democrat"
-            },
-            "6531":{
-                "district":"9",
-                "name":"Mills, Roger Quarles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Texas"
+    "district":9,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"tx"
 },
   "bbox": [
     -97.91385,

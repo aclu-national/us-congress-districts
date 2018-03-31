@@ -1,84 +1,13 @@
 {
-  "id": "ia_78_to_87_03",
+  "id": "ia_78_to_87_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"87",
-    "id":"019078087003",
-    "member":{
-        "78":{
-            "3890":{
-                "district":"3",
-                "name":"Gwynne, John Williams",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "3890":{
-                "district":"3",
-                "name":"Gwynne, John Williams",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3890":{
-                "district":"3",
-                "name":"Gwynne, John Williams",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3853":{
-                "district":"3",
-                "name":"Gross, Harold Royce",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "3853":{
-                "district":"3",
-                "name":"Gross, Harold Royce",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "3853":{
-                "district":"3",
-                "name":"Gross, Harold Royce",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "3853":{
-                "district":"3",
-                "name":"Gross, Harold Royce",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "3853":{
-                "district":"3",
-                "name":"Gross, Harold Royce",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "3853":{
-                "district":"3",
-                "name":"Gross, Harold Royce",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "3853":{
-                "district":"3",
-                "name":"Gross, Harold Royce",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Iowa"
+    "district":3,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ia"
 },
   "bbox": [
     -93.4996,

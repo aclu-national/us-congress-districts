@@ -1,49 +1,13 @@
 {
-  "id": "in_23_to_27_05",
+  "id": "in_23_to_27_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"27",
-    "id":"018023027005",
-    "member":{
-        "23":{
-            "6139":{
-                "district":"5",
-                "name":"McCarty, Johnathan",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "6139":{
-                "district":"5",
-                "name":"McCarty, Johnathan",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "7740":{
-                "district":"5",
-                "name":"Rariden, James",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "7740":{
-                "district":"5",
-                "name":"Rariden, James",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "5176":{
-                "district":"5",
-                "name":"Kennedy, Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Indiana"
+    "district":5,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"in"
 },
   "bbox": [
     -85.86487,

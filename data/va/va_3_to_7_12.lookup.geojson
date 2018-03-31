@@ -2,48 +2,12 @@
   "id": "va_3_to_7_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"7",
-    "id":"051003007012",
-    "member":{
-        "3":{
-            "7156":{
-                "district":"12",
-                "name":"Page, John",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "7156":{
-                "district":"12",
-                "name":"Page, John",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "3021":{
-                "district":"12",
-                "name":"Evans, Thomas",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "3021":{
-                "district":"12",
-                "name":"Evans, Thomas",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "9014":{
-                "district":"12",
-                "name":"Stratton, John",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Virginia"
+    "district":12,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"va"
 },
   "bbox": [
     -76.75562,

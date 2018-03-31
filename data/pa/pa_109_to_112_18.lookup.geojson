@@ -2,41 +2,12 @@
   "id": "pa_109_to_112_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"112",
-    "id":"042109112018",
-    "member":{
-        "109":{
-            "20346":{
-                "district":"18",
-                "name":"Murphy, Tim",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20346":{
-                "district":"18",
-                "name":"Murphy, Tim",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20346":{
-                "district":"18",
-                "name":"Murphy, Tim",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20346":{
-                "district":"18",
-                "name":"Murphy, Tim",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"pa"
 },
   "bbox": [
     -80.51922,

@@ -1,42 +1,13 @@
 {
-  "id": "oh_18_to_21_08",
+  "id": "oh_18_to_21_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"21",
-    "id":"039018021008",
-    "member":{
-        "18":{
-            "10258":{
-                "district":"8",
-                "name":"Wilson, William",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "10258":{
-                "district":"8",
-                "name":"Wilson, William",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "8831":{
-                "district":"8",
-                "name":"Stanberry, William",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "8831":{
-                "district":"8",
-                "name":"Stanberry, William",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Ohio"
+    "district":8,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"oh"
 },
   "bbox": [
     -83.42042,

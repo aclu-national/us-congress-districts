@@ -1,21 +1,13 @@
 {
-  "id": "ny_33_to_33_02",
+  "id": "ny_33_to_33_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"33",
-    "id":"036033033002",
-    "member":{
-        "33":{
-            "2246":{
-                "district":"2",
-                "name":"Cumming, Thomas William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":2,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -74.03007,

@@ -2,20 +2,12 @@
   "id": "ny_33_to_33_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"33",
-    "id":"036033033020",
-    "member":{
-        "33":{
-            "6082":{
-                "district":"20",
-                "name":"Matterson, Orsamus Benaja",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -75.88676,

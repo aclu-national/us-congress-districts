@@ -1,28 +1,13 @@
 {
-  "id": "nc_91_to_92_01",
+  "id": "nc_91_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"037091092001",
-    "member":{
-        "91":{
-            "10788":{
-                "district":"1",
-                "name":"Jones, Walter",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10788":{
-                "district":"1",
-                "name":"Jones, Walter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nc"
 },
   "bbox": [
     -77.83425,

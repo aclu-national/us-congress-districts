@@ -1,42 +1,13 @@
 {
-  "id": "ky_48_to_51_08",
+  "id": "ky_48_to_51_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"51",
-    "id":"021048051008",
-    "member":{
-        "48":{
-            "9334":{
-                "district":"8",
-                "name":"Thompson, Philip Burton, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "6194":{
-                "district":"8",
-                "name":"McCreary, James Bennett",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "6194":{
-                "district":"8",
-                "name":"McCreary, James Bennett",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "6194":{
-                "district":"8",
-                "name":"McCreary, James Bennett",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Kentucky"
+    "district":8,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ky"
 },
   "bbox": [
     -85.51682,

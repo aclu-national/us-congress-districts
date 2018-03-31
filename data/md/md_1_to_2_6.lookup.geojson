@@ -1,28 +1,13 @@
 {
-  "id": "md_1_to_2_06",
+  "id": "md_1_to_2_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"2",
-    "id":"024001002006",
-    "member":{
-        "1":{
-            "1538":{
-                "district":"6",
-                "name":"Carroll, Daniel",
-                "party":"Pro-Administration"
-            }
-        },
-        "2":{
-            "8449":{
-                "district":"6",
-                "name":"Sheredine, Upton",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

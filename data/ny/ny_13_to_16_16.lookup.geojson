@@ -2,41 +2,12 @@
   "id": "ny_13_to_16_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"16",
-    "id":"036013016016",
-    "member":{
-        "13":{
-            "6501":{
-                "district":"16",
-                "name":"Miller, Morris Smith",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "3648":{
-                "district":"16",
-                "name":"Gold, Thomas Ruggles",
-                "party":"Federalist"
-            }
-        },
-        "15":{
-            "8997":{
-                "district":"16",
-                "name":"Storrs, Henry Randolph",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "8997":{
-                "district":"16",
-                "name":"Storrs, Henry Randolph",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ny"
 },
   "bbox": [
     -76.51264,

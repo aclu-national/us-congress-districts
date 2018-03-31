@@ -1,49 +1,13 @@
 {
-  "id": "md_3_to_7_04",
+  "id": "md_3_to_7_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"7",
-    "id":"024003007004",
-    "member":{
-        "3":{
-            "8811":{
-                "district":"4",
-                "name":"Sprigg, Thomas",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "8811":{
-                "district":"4",
-                "name":"Sprigg, Thomas",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "332":{
-                "district":"4",
-                "name":"Baer, George Jr.",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "332":{
-                "district":"4",
-                "name":"Baer, George Jr.",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "4390":{
-                "district":"4",
-                "name":"Hiester, Daniel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Maryland"
+    "district":4,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

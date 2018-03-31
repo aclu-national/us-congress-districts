@@ -1,19 +1,13 @@
 {
-  "id": "wa_113_to_115_04",
+  "id": "wa_113_to_115_4",
   "type": "Feature",
   "properties": {
-    "ALAND":49858063620,
-    "AWATER":807591521,
-    "CD113FP":"04",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5304",
-    "INTPTLAT":"+47.2945861",
-    "INTPTLON":"-119.7072288",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 4",
-    "STATEFP":"53"
+    "district":4,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"wa"
 },
   "bbox": [
     -121.523938,

@@ -1,35 +1,13 @@
 {
-  "id": "ma_70_to_72_04",
+  "id": "ma_70_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"025070072004",
-    "member":{
-        "70":{
-            "8956":{
-                "district":"4",
-                "name":"Stobbs, George Russell",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8956":{
-                "district":"4",
-                "name":"Stobbs, George Russell",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4538":{
-                "district":"4",
-                "name":"Holmes, Pehr Gustaf",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ma"
 },
   "bbox": [
     -71.89512,

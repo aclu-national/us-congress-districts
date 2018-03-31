@@ -1,21 +1,13 @@
 {
-  "id": "oh_52_to_52_01",
+  "id": "oh_52_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"039052052001",
-    "member":{
-        "52":{
-            "8992":{
-                "district":"1",
-                "name":"Storer, Bellamy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Ohio"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"oh"
 },
   "bbox": [
     -84.5227,

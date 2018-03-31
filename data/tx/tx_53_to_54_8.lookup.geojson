@@ -1,28 +1,13 @@
 {
-  "id": "tx_53_to_54_08",
+  "id": "tx_53_to_54_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"54",
-    "id":"048053054008",
-    "member":{
-        "53":{
-            "599":{
-                "district":"8",
-                "name":"Bell, Charles Keith",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "599":{
-                "district":"8",
-                "name":"Bell, Charles Keith",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Texas"
+    "district":8,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"tx"
 },
   "bbox": [
     -100.23619,

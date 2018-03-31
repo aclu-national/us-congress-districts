@@ -1,21 +1,13 @@
 {
-  "id": "la_40_to_40_01",
+  "id": "la_40_to_40_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"40",
-    "id":"022040040001",
-    "member":{
-        "40":{
-            "9143":{
-                "district":"1",
-                "name":"Sypher, Jacob Hale",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Louisiana"
+    "district":1,
+    "end_date":"1869-03-03",
+    "end_session":40,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"la"
 },
   "bbox": [
     -90.11628,

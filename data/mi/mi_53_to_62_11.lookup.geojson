@@ -2,83 +2,12 @@
   "id": "mi_53_to_62_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"62",
-    "id":"026053062011",
-    "member":{
-        "53":{
-            "300":{
-                "district":"11",
-                "name":"Avery, John",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "300":{
-                "district":"11",
-                "name":"Avery, John",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "6439":{
-                "district":"11",
-                "name":"Mesick, William Smith",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "6439":{
-                "district":"11",
-                "name":"Mesick, William Smith",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2344":{
-                "district":"11",
-                "name":"Darragh, Archibald Bard",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "2344":{
-                "district":"11",
-                "name":"Darragh, Archibald Bard",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2344":{
-                "district":"11",
-                "name":"Darragh, Archibald Bard",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2344":{
-                "district":"11",
-                "name":"Darragh, Archibald Bard",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2638":{
-                "district":"11",
-                "name":"Dodds, Francis Henry",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "2638":{
-                "district":"11",
-                "name":"Dodds, Francis Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Michigan"
+    "district":11,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mi"
 },
   "bbox": [
     -85.84423,

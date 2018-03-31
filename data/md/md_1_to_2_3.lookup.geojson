@@ -1,33 +1,13 @@
 {
-  "id": "md_1_to_2_03",
+  "id": "md_1_to_2_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"2",
-    "id":"024001002003",
-    "member":{
-        "1":{
-            "2010":{
-                "district":"3",
-                "name":"Contee, Benjamin",
-                "party":"Anti-Administration"
-            }
-        },
-        "2":{
-            "6418":{
-                "district":"3",
-                "name":"Mercer, John Francis",
-                "party":"Anti-Administration"
-            },
-            "7463":{
-                "district":"3",
-                "name":"Pinkney, William",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"md"
 },
   "bbox": [
     -77.18711,

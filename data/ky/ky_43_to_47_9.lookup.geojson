@@ -1,49 +1,13 @@
 {
-  "id": "ky_43_to_47_09",
+  "id": "ky_43_to_47_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"47",
-    "id":"021043047009",
-    "member":{
-        "43":{
-            "28":{
-                "district":"9",
-                "name":"Adams, George Madison",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "10034":{
-                "district":"9",
-                "name":"White, John Dougherty",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "9522":{
-                "district":"9",
-                "name":"Turner, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "9522":{
-                "district":"9",
-                "name":"Turner, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "10034":{
-                "district":"9",
-                "name":"White, John Dougherty",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Kentucky"
+    "district":9,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ky"
 },
   "bbox": [
     -84.54906,

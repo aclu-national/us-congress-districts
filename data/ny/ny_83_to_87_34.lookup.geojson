@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_34",
   "type": "Feature",
   "properties": {
-    "district":"34",
-    "endcong":"87",
-    "id":"036083087034",
-    "member":{
-        "83":{
-            "10191":{
-                "district":"34",
-                "name":"Williams, William Robert",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "10191":{
-                "district":"34",
-                "name":"Williams, William Robert",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "10191":{
-                "district":"34",
-                "name":"Williams, William Robert",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "7467":{
-                "district":"34",
-                "name":"Pirnie, Alexander",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "7467":{
-                "district":"34",
-                "name":"Pirnie, Alexander",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":34,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -75.99368,

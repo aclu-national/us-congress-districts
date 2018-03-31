@@ -1,49 +1,13 @@
 {
-  "id": "ma_48_to_52_05",
+  "id": "ma_48_to_52_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"52",
-    "id":"025048052005",
-    "member":{
-        "48":{
-            "6736":{
-                "district":"5",
-                "name":"Morse, Leopold",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "4228":{
-                "district":"5",
-                "name":"Hayden, Edward Daniel",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "4228":{
-                "district":"5",
-                "name":"Hayden, Edward Daniel",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "409":{
-                "district":"5",
-                "name":"Banks, Nathaniel Prentice",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "4465":{
-                "district":"5",
-                "name":"Hoar, Sherman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ma"
 },
   "bbox": [
     -71.28608,

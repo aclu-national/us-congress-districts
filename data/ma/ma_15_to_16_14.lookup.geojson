@@ -2,32 +2,12 @@
   "id": "ma_15_to_16_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"16",
-    "id":"025015016014",
-    "member":{
-        "15":{
-            "4536":{
-                "district":"14",
-                "name":"Holmes, John",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "2318":{
-                "district":"14",
-                "name":"Dane, Joseph",
-                "party":"Federalist"
-            },
-            "4536":{
-                "district":"14",
-                "name":"Holmes, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Massachusetts"
+    "district":14,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"ma"
 },
   "bbox": [
     -70.98796,

@@ -1,49 +1,13 @@
 {
-  "id": "ma_58_to_62_05",
+  "id": "ma_58_to_62_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"62",
-    "id":"025058062005",
-    "member":{
-        "58":{
-            "153":{
-                "district":"5",
-                "name":"Ames, Butler",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "153":{
-                "district":"5",
-                "name":"Ames, Butler",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "153":{
-                "district":"5",
-                "name":"Ames, Butler",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "153":{
-                "district":"5",
-                "name":"Ames, Butler",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "153":{
-                "district":"5",
-                "name":"Ames, Butler",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ma"
 },
   "bbox": [
     -71.55718,

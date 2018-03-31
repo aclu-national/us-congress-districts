@@ -2,34 +2,12 @@
   "id": "il_90_to_92_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"92",
-    "id":"017090092010",
-    "member":{
-        "90":{
-            "1941":{
-                "district":"10",
-                "name":"Collier, Harold Reginald",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "1941":{
-                "district":"10",
-                "name":"Collier, Harold Reginald",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "1941":{
-                "district":"10",
-                "name":"Collier, Harold Reginald",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Illinois"
+    "district":10,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"il"
 },
   "bbox": [
     -87.93911,

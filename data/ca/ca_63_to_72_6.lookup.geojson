@@ -1,89 +1,13 @@
 {
-  "id": "ca_63_to_72_06",
+  "id": "ca_63_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"006063072006",
-    "member":{
-        "63":{
-            "5342":{
-                "district":"6",
-                "name":"Knowland, Joseph Russell",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "2949":{
-                "district":"6",
-                "name":"Elston, John Arthur",
-                "party":"Progressive"
-            }
-        },
-        "65":{
-            "2949":{
-                "district":"6",
-                "name":"Elston, John Arthur",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "2949":{
-                "district":"6",
-                "name":"Elston, John Arthur",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "2949":{
-                "district":"6",
-                "name":"Elston, John Arthur",
-                "party":"Republican"
-            },
-            "5889":{
-                "district":"6",
-                "name":"MacLafferty, James Henry",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "5889":{
-                "district":"6",
-                "name":"MacLafferty, James Henry",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "1545":{
-                "district":"6",
-                "name":"Carter, Albert Edward",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "1545":{
-                "district":"6",
-                "name":"Carter, Albert Edward",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "1545":{
-                "district":"6",
-                "name":"Carter, Albert Edward",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "1545":{
-                "district":"6",
-                "name":"Carter, Albert Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"California"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ca"
 },
   "bbox": [
     -122.34148,

@@ -2,34 +2,12 @@
   "id": "pa_30_to_32_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"32",
-    "id":"042030032023",
-    "member":{
-        "30":{
-            "9326":{
-                "district":"23",
-                "name":"Thompson, James",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "9326":{
-                "district":"23",
-                "name":"Thompson, James",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "2268":{
-                "district":"23",
-                "name":"Curtis, Carlton Brandaga",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":23,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -80.51943,

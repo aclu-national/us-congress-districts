@@ -2,48 +2,12 @@
   "id": "oh_38_to_42_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"42",
-    "id":"039038042017",
-    "member":{
-        "38":{
-            "2837":{
-                "district":"17",
-                "name":"Eckley, Ephraim Ralph",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "2837":{
-                "district":"17",
-                "name":"Eckley, Ephraim Ralph",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "2837":{
-                "district":"17",
-                "name":"Eckley, Ephraim Ralph",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "150":{
-                "district":"17",
-                "name":"Ambler, Jacob A.",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "150":{
-                "district":"17",
-                "name":"Ambler, Jacob A.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"oh"
 },
   "bbox": [
     -81.65005,

@@ -2,18 +2,12 @@
   "id": "oh_113_to_115_16",
   "type": "Feature",
   "properties": {
-    "ALAND":3121938508,
-    "AWATER":31009625,
-    "CD113FP":"16",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3916",
-    "INTPTLAT":"+40.9821546",
-    "INTPTLON":"-081.7406039",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 16",
-    "STATEFP":"39"
+    "district":16,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"oh"
 },
   "bbox": [
     -82.129334,

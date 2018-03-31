@@ -1,49 +1,13 @@
 {
-  "id": "ma_33_to_37_08",
+  "id": "ma_33_to_37_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"37",
-    "id":"025033037008",
-    "member":{
-        "33":{
-            "9955":{
-                "district":"8",
-                "name":"Wentworth, Tappan",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "5332":{
-                "district":"8",
-                "name":"Knapp, Chauncey Langdon",
-                "party":"American"
-            }
-        },
-        "35":{
-            "5332":{
-                "district":"8",
-                "name":"Knapp, Chauncey Langdon",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "9455":{
-                "district":"8",
-                "name":"Train, Charles Russell",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "9455":{
-                "district":"8",
-                "name":"Train, Charles Russell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Massachusetts"
+    "district":8,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ma"
 },
   "bbox": [
     -71.89872,

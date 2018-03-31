@@ -1,21 +1,13 @@
 {
-  "id": "nc_57_to_57_09",
+  "id": "nc_57_to_57_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"57",
-    "id":"037057057009",
-    "member":{
-        "57":{
-            "6615":{
-                "district":"9",
-                "name":"Moody, James Montraville",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"57",
-    "statename":"North Carolina"
+    "district":9,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1901-03-04",
+    "start_session":57,
+    "state":"nc"
 },
   "bbox": [
     -84.32187,

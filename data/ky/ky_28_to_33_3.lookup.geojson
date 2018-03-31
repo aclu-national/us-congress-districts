@@ -1,61 +1,13 @@
 {
-  "id": "ky_28_to_33_03",
+  "id": "ky_28_to_33_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"33",
-    "id":"021028033003",
-    "member":{
-        "28":{
-            "3815":{
-                "district":"3",
-                "name":"Grider, Henry",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "3815":{
-                "district":"3",
-                "name":"Grider, Henry",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "7389":{
-                "district":"3",
-                "name":"Peyton, Samuel Oldham",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "6334":{
-                "district":"3",
-                "name":"McLean, Finis Ewing",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "3040":{
-                "district":"3",
-                "name":"Ewing, Presley Underwood",
-                "party":"Whig"
-            }
-        },
-        "33":{
-            "1044":{
-                "district":"3",
-                "name":"Bristow, Francis Marion",
-                "party":"Whig"
-            },
-            "3040":{
-                "district":"3",
-                "name":"Ewing, Presley Underwood",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ky"
 },
   "bbox": [
     -87.33585,

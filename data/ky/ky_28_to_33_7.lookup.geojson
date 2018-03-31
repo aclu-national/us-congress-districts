@@ -1,61 +1,13 @@
 {
-  "id": "ky_28_to_33_07",
+  "id": "ky_28_to_33_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"33",
-    "id":"021028033007",
-    "member":{
-        "28":{
-            "9313":{
-                "district":"7",
-                "name":"Thomasson, William Poinde",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "9313":{
-                "district":"7",
-                "name":"Thomasson, William Poinde",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "2763":{
-                "district":"7",
-                "name":"Duncan, William Garnett",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "6001":{
-                "district":"7",
-                "name":"Marshall, Humphrey",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "6001":{
-                "district":"7",
-                "name":"Marshall, Humphrey",
-                "party":"Whig"
-            },
-            "7606":{
-                "district":"7",
-                "name":"Preston, William",
-                "party":"Whig"
-            }
-        },
-        "33":{
-            "7606":{
-                "district":"7",
-                "name":"Preston, William",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Kentucky"
+    "district":7,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ky"
 },
   "bbox": [
     -85.94854,

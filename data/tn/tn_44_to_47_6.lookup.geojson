@@ -1,42 +1,13 @@
 {
-  "id": "tn_44_to_47_06",
+  "id": "tn_44_to_47_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"47",
-    "id":"047044047006",
-    "member":{
-        "44":{
-            "4607":{
-                "district":"6",
-                "name":"House, John Ford",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "4607":{
-                "district":"6",
-                "name":"House, John Ford",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "4607":{
-                "district":"6",
-                "name":"House, John Ford",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "4607":{
-                "district":"6",
-                "name":"House, John Ford",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"tn"
 },
   "bbox": [
     -88.07053,

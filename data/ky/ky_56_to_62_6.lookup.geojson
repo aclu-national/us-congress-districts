@@ -1,63 +1,13 @@
 {
-  "id": "ky_56_to_62_06",
+  "id": "ky_56_to_62_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"62",
-    "id":"021056062006",
-    "member":{
-        "56":{
-            "670":{
-                "district":"6",
-                "name":"Berry, Albert Seaton",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "3662":{
-                "district":"6",
-                "name":"Gooch, Daniel Linn",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "3662":{
-                "district":"6",
-                "name":"Gooch, Daniel Linn",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "7842":{
-                "district":"6",
-                "name":"Rhinock, Joseph Lafayette",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "7842":{
-                "district":"6",
-                "name":"Rhinock, Joseph Lafayette",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "7842":{
-                "district":"6",
-                "name":"Rhinock, Joseph Lafayette",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "8083":{
-                "district":"6",
-                "name":"Rouse, Arthur Blythe",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"ky"
 },
   "bbox": [
     -85.45698,

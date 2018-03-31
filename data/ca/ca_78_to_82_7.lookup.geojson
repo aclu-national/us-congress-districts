@@ -1,49 +1,13 @@
 {
-  "id": "ca_78_to_82_07",
+  "id": "ca_78_to_82_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"82",
-    "id":"006078082007",
-    "member":{
-        "78":{
-            "9406":{
-                "district":"7",
-                "name":"Tolan, John Harvey",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "9406":{
-                "district":"7",
-                "name":"Tolan, John Harvey",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "116":{
-                "district":"7",
-                "name":"Allen, John Joseph Jr.",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "116":{
-                "district":"7",
-                "name":"Allen, John Joseph Jr.",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "116":{
-                "district":"7",
-                "name":"Allen, John Joseph Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":7,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -122.34148,

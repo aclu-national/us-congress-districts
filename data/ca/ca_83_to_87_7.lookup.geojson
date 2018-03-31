@@ -1,49 +1,13 @@
 {
-  "id": "ca_83_to_87_07",
+  "id": "ca_83_to_87_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"87",
-    "id":"006083087007",
-    "member":{
-        "83":{
-            "116":{
-                "district":"7",
-                "name":"Allen, John Joseph Jr.",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "116":{
-                "district":"7",
-                "name":"Allen, John Joseph Jr.",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "116":{
-                "district":"7",
-                "name":"Allen, John Joseph Jr.",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "1911":{
-                "district":"7",
-                "name":"Cohelan, Jeffery",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "1911":{
-                "district":"7",
-                "name":"Cohelan, Jeffery",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":7,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -122.34148,

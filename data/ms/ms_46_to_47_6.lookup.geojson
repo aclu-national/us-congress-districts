@@ -1,33 +1,13 @@
 {
-  "id": "ms_46_to_47_06",
+  "id": "ms_46_to_47_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"47",
-    "id":"028046047006",
-    "member":{
-        "46":{
-            "1617":{
-                "district":"6",
-                "name":"Chalmers, James Ronald",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "1617":{
-                "district":"6",
-                "name":"Chalmers, James Ronald",
-                "party":"Democrat"
-            },
-            "5855":{
-                "district":"6",
-                "name":"Lynch, John Roy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Mississippi"
+    "district":6,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"ms"
 },
   "bbox": [
     -91.65501,

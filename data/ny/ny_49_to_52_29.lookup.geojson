@@ -2,41 +2,12 @@
   "id": "ny_49_to_52_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"52",
-    "id":"036049052029",
-    "member":{
-        "49":{
-            "2354":{
-                "district":"29",
-                "name":"Davenport, Ira",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "2354":{
-                "district":"29",
-                "name":"Davenport, Ira",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "7690":{
-                "district":"29",
-                "name":"Raines, John",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "7690":{
-                "district":"29",
-                "name":"Raines, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -77.74993,

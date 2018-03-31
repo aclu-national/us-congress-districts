@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"87",
-    "id":"036083087020",
-    "member":{
-        "83":{
-            "8050":{
-                "district":"20",
-                "name":"Roosevelt, Franklin Delano",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "2365":{
-                "district":"20",
-                "name":"Davidson, Irwin Delmore",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "9248":{
-                "district":"20",
-                "name":"Teller, Ludwig",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "9248":{
-                "district":"20",
-                "name":"Teller, Ludwig",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10555":{
-                "district":"20",
-                "name":"Ryan, William F.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -74.01078,

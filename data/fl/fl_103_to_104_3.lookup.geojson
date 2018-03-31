@@ -1,28 +1,13 @@
 {
-  "id": "fl_103_to_104_03",
+  "id": "fl_103_to_104_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"104",
-    "id":"012103104003",
-    "member":{
-        "103":{
-            "29328":{
-                "district":"3",
-                "name":"Brown, Corrine",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29328":{
-                "district":"3",
-                "name":"Brown, Corrine",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Florida"
+    "district":3,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"fl"
 },
   "bbox": [
     -82.80026,

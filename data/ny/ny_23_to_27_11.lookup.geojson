@@ -2,53 +2,12 @@
   "id": "ny_23_to_27_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"27",
-    "id":"036023027011",
-    "member":{
-        "23":{
-            "2142":{
-                "district":"11",
-                "name":"Cramer, John",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "2142":{
-                "district":"11",
-                "name":"Cramer, John",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "2466":{
-                "district":"11",
-                "name":"De Graff, John Isaac",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "1096":{
-                "district":"11",
-                "name":"Brown, Anson",
-                "party":"Whig"
-            },
-            "2644":{
-                "district":"11",
-                "name":"Doe, Nicholas Bartlett",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "5686":{
-                "district":"11",
-                "name":"Linn, Archibald Ladley",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -74.30667,

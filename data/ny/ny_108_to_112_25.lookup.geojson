@@ -2,48 +2,12 @@
   "id": "ny_108_to_112_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"112",
-    "id":"036108112025",
-    "member":{
-        "108":{
-            "15630":{
-                "district":"25",
-                "name":"Walsh, James T.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "15630":{
-                "district":"25",
-                "name":"Walsh, James T.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "15630":{
-                "district":"25",
-                "name":"Walsh, James T.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20935":{
-                "district":"25",
-                "name":"Maffei, Dan",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21158":{
-                "district":"25",
-                "name":"Buerkle, Ann Marie",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":25,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -77.61902,

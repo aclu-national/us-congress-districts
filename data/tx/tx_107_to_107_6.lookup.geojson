@@ -1,21 +1,13 @@
 {
-  "id": "tx_107_to_107_06",
+  "id": "tx_107_to_107_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"107",
-    "id":"048107107006",
-    "member":{
-        "107":{
-            "15085":{
-                "district":"6",
-                "name":"Barton, Joe L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"107",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"2001-01-03",
+    "start_session":107,
+    "state":"tx"
 },
   "bbox": [
     -97.78939,

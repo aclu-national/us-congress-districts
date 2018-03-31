@@ -1,49 +1,13 @@
 {
-  "id": "nh_108_to_112_01",
+  "id": "nh_108_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"033108112001",
-    "member":{
-        "108":{
-            "20335":{
-                "district":"1",
-                "name":"Bradley, Jeb",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20335":{
-                "district":"1",
-                "name":"Bradley, Jeb",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20731":{
-                "district":"1",
-                "name":"Shea-porter, Carol",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20731":{
-                "district":"1",
-                "name":"Shea-porter, Carol",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21152":{
-                "district":"1",
-                "name":"Guinta, Frank",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New Hampshire"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nh"
 },
   "bbox": [
     -71.73145,

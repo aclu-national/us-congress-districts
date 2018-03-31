@@ -1,49 +1,13 @@
 {
-  "id": "ky_93_to_97_01",
+  "id": "ky_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"021093097001",
-    "member":{
-        "93":{
-            "9056":{
-                "district":"1",
-                "name":"Stubblefield, Frank Albert",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14237":{
-                "district":"1",
-                "name":"Hubbard, Carroll",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14237":{
-                "district":"1",
-                "name":"Hubbard, Carroll",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14237":{
-                "district":"1",
-                "name":"Hubbard, Carroll",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14237":{
-                "district":"1",
-                "name":"Hubbard, Carroll",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Kentucky"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ky"
 },
   "bbox": [
     -89.57151,

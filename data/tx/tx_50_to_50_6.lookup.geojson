@@ -1,21 +1,13 @@
 {
-  "id": "tx_50_to_50_06",
+  "id": "tx_50_to_50_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"50",
-    "id":"048050050006",
-    "member":{
-        "50":{
-            "4":{
-                "district":"6",
-                "name":"Abbott, Jo (Joseph)",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"tx"
 },
   "bbox": [
     -98.00531,

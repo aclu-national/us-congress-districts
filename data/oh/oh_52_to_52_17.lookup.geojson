@@ -2,20 +2,12 @@
   "id": "oh_52_to_52_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"52",
-    "id":"039052052017",
-    "member":{
-        "52":{
-            "7285":{
-                "district":"17",
-                "name":"Pearson, Albert Jackson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"oh"
 },
   "bbox": [
     -81.85345,

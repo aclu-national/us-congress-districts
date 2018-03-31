@@ -1,21 +1,13 @@
 {
-  "id": "tn_9_to_9_03",
+  "id": "tn_9_to_9_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"9",
-    "id":"047009009003",
-    "member":{
-        "9":{
-            "2583":{
-                "district":"3",
-                "name":"Dickson, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"9",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1807-03-03",
+    "end_session":9,
+    "start_date":"1805-12-02",
+    "start_session":9,
+    "state":"tn"
 },
   "bbox": [
     -88.31957,

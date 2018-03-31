@@ -2,27 +2,12 @@
   "id": "va_8_to_9_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"9",
-    "id":"051008009014",
-    "member":{
-        "8":{
-            "1815":{
-                "district":"14",
-                "name":"Clay, Matthew",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "1815":{
-                "district":"14",
-                "name":"Clay, Matthew",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Virginia"
+    "district":14,
+    "end_date":"1807-03-03",
+    "end_session":9,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"va"
 },
   "bbox": [
     -79.71485,

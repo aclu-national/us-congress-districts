@@ -1,19 +1,13 @@
 {
-  "id": "co_113_to_115_07",
+  "id": "co_113_to_115_7",
   "type": "Feature",
   "properties": {
-    "ALAND":885996668,
-    "AWATER":25114102,
-    "CD113FP":"07",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0807",
-    "INTPTLAT":"+39.8261495",
-    "INTPTLON":"-105.0422237",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 7",
-    "STATEFP":"08"
+    "district":7,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"co"
 },
   "bbox": [
     -105.347332,

@@ -1,21 +1,13 @@
 {
-  "id": "oh_48_to_48_06",
+  "id": "oh_48_to_48_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"48",
-    "id":"039048048006",
-    "member":{
-        "48":{
-            "4425":{
-                "district":"6",
-                "name":"Hill, William David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Ohio"
+    "district":6,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"oh"
 },
   "bbox": [
     -84.80618,

@@ -2,34 +2,12 @@
   "id": "pa_30_to_32_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"32",
-    "id":"042030032022",
-    "member":{
-        "30":{
-            "3069":{
-                "district":"22",
-                "name":"Farrelly, John Wilson",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "4639":{
-                "district":"22",
-                "name":"Howe, John W.",
-                "party":"Free Soil"
-            }
-        },
-        "32":{
-            "4639":{
-                "district":"22",
-                "name":"Howe, John W.",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":22,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

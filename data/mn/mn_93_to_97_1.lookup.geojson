@@ -1,49 +1,13 @@
 {
-  "id": "mn_93_to_97_01",
+  "id": "mn_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"027093097001",
-    "member":{
-        "93":{
-            "7671":{
-                "district":"1",
-                "name":"Quie, Albert Harold",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "7671":{
-                "district":"1",
-                "name":"Quie, Albert Harold",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "7671":{
-                "district":"1",
-                "name":"Quie, Albert Harold",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14623":{
-                "district":"1",
-                "name":"Erdahl, Arlen Ingolf",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14623":{
-                "district":"1",
-                "name":"Erdahl, Arlen Ingolf",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Minnesota"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mn"
 },
   "bbox": [
     -93.52535,

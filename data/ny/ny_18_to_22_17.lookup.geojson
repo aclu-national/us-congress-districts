@@ -2,48 +2,12 @@
   "id": "ny_18_to_22_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"22",
-    "id":"036018022017",
-    "member":{
-        "18":{
-            "9222":{
-                "district":"17",
-                "name":"Taylor, John W.",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "9222":{
-                "district":"17",
-                "name":"Taylor, John W.",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "9222":{
-                "district":"17",
-                "name":"Taylor, John W.",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "9222":{
-                "district":"17",
-                "name":"Taylor, John W.",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "9222":{
-                "district":"17",
-                "name":"Taylor, John W.",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -74.1601,

@@ -2,48 +2,12 @@
   "id": "mi_83_to_87_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"87",
-    "id":"026083087017",
-    "member":{
-        "83":{
-            "6995":{
-                "district":"17",
-                "name":"Oakman, Charles Gibb",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "3830":{
-                "district":"17",
-                "name":"Griffiths, Martha Wright",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "3830":{
-                "district":"17",
-                "name":"Griffiths, Martha Wright",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "3830":{
-                "district":"17",
-                "name":"Griffiths, Martha Wright",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "3830":{
-                "district":"17",
-                "name":"Griffiths, Martha Wright",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Michigan"
+    "district":17,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mi"
 },
   "bbox": [
     -83.55174,

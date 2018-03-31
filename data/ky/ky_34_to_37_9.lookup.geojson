@@ -1,42 +1,13 @@
 {
-  "id": "ky_34_to_37_09",
+  "id": "ky_34_to_37_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"37",
-    "id":"021034037009",
-    "member":{
-        "34":{
-            "2116":{
-                "district":"9",
-                "name":"Cox, Leander Martin",
-                "party":"American"
-            }
-        },
-        "35":{
-            "6055":{
-                "district":"9",
-                "name":"Mason, John Calvin",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "6641":{
-                "district":"9",
-                "name":"Moore, Laban Theodore",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "37":{
-            "9708":{
-                "district":"9",
-                "name":"Wadsworth, William Henry",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Kentucky"
+    "district":9,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ky"
 },
   "bbox": [
     -84.34897,

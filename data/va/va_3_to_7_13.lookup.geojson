@@ -2,53 +2,12 @@
   "id": "va_3_to_7_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"7",
-    "id":"051003007013",
-    "member":{
-        "3":{
-            "3825":{
-                "district":"13",
-                "name":"Griffin, Samuel",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "1853":{
-                "district":"13",
-                "name":"Clopton, John",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "1853":{
-                "district":"13",
-                "name":"Clopton, John",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "6003":{
-                "district":"13",
-                "name":"Marshall, John",
-                "party":"Federalist"
-            },
-            "9239":{
-                "district":"13",
-                "name":"Tazewell, Littleton Walle",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "1853":{
-                "district":"13",
-                "name":"Clopton, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Virginia"
+    "district":13,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"va"
 },
   "bbox": [
     -77.79732,

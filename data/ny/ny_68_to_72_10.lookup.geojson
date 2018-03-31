@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"72",
-    "id":"036068072010",
-    "member":{
-        "68":{
-            "1611":{
-                "district":"10",
-                "name":"Celler, Emanuel",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1611":{
-                "district":"10",
-                "name":"Celler, Emanuel",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "1611":{
-                "district":"10",
-                "name":"Celler, Emanuel",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "1611":{
-                "district":"10",
-                "name":"Celler, Emanuel",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "1611":{
-                "district":"10",
-                "name":"Celler, Emanuel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -73.95338,

@@ -2,48 +2,12 @@
   "id": "il_58_to_62_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"62",
-    "id":"017058062020",
-    "member":{
-        "58":{
-            "7691":{
-                "district":"20",
-                "name":"Rainey, Henry Thomas",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "7691":{
-                "district":"20",
-                "name":"Rainey, Henry Thomas",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "7691":{
-                "district":"20",
-                "name":"Rainey, Henry Thomas",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "7691":{
-                "district":"20",
-                "name":"Rainey, Henry Thomas",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "7691":{
-                "district":"20",
-                "name":"Rainey, Henry Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":20,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -91.3701,

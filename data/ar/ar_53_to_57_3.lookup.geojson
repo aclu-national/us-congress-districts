@@ -1,49 +1,13 @@
 {
-  "id": "ar_53_to_57_03",
+  "id": "ar_53_to_57_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"57",
-    "id":"005053057003",
-    "member":{
-        "53":{
-            "6379":{
-                "district":"3",
-                "name":"McRae, Thomas Chipman",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "6379":{
-                "district":"3",
-                "name":"McRae, Thomas Chipman",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "6379":{
-                "district":"3",
-                "name":"McRae, Thomas Chipman",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "6379":{
-                "district":"3",
-                "name":"McRae, Thomas Chipman",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "6379":{
-                "district":"3",
-                "name":"McRae, Thomas Chipman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Arkansas"
+    "district":3,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ar"
 },
   "bbox": [
     -94.48587,

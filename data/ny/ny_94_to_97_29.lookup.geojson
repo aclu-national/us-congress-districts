@@ -2,41 +2,12 @@
   "id": "ny_94_to_97_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"97",
-    "id":"036094097029",
-    "member":{
-        "94":{
-            "14267":{
-                "district":"29",
-                "name":"Pattison, Edward",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14267":{
-                "district":"29",
-                "name":"Pattison, Edward",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14662":{
-                "district":"29",
-                "name":"Solomon, Gerald B.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14662":{
-                "district":"29",
-                "name":"Solomon, Gerald B.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -74.53731,

@@ -1,35 +1,13 @@
 {
-  "id": "wa_83_to_85_01",
+  "id": "wa_83_to_85_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"85",
-    "id":"053083085001",
-    "member":{
-        "83":{
-            "7313":{
-                "district":"1",
-                "name":"Pelly, Thomas Minor",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "7313":{
-                "district":"1",
-                "name":"Pelly, Thomas Minor",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "7313":{
-                "district":"1",
-                "name":"Pelly, Thomas Minor",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Washington"
+    "district":1,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"wa"
 },
   "bbox": [
     -123.02335,

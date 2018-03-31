@@ -1,49 +1,13 @@
 {
-  "id": "az_93_to_97_01",
+  "id": "az_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"004093097001",
-    "member":{
-        "93":{
-            "7845":{
-                "district":"1",
-                "name":"Rhodes, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "7845":{
-                "district":"1",
-                "name":"Rhodes, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "7845":{
-                "district":"1",
-                "name":"Rhodes, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "7845":{
-                "district":"1",
-                "name":"Rhodes, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "7845":{
-                "district":"1",
-                "name":"Rhodes, John Jacob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Arizona"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"az"
 },
   "bbox": [
     -112.30618,

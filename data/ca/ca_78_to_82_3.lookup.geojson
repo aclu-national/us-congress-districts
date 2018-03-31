@@ -1,49 +1,13 @@
 {
-  "id": "ca_78_to_82_03",
+  "id": "ca_78_to_82_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"82",
-    "id":"006078082003",
-    "member":{
-        "78":{
-            "4976":{
-                "district":"3",
-                "name":"Johnson, Justin Leroy",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4976":{
-                "district":"3",
-                "name":"Johnson, Justin Leroy",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "4976":{
-                "district":"3",
-                "name":"Johnson, Justin Leroy",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4976":{
-                "district":"3",
-                "name":"Johnson, Justin Leroy",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4976":{
-                "district":"3",
-                "name":"Johnson, Justin Leroy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":3,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -122.64642,

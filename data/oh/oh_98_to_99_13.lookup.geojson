@@ -2,27 +2,12 @@
   "id": "oh_98_to_99_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"99",
-    "id":"039098099013",
-    "member":{
-        "98":{
-            "14445":{
-                "district":"13",
-                "name":"Pease, Donald",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14445":{
-                "district":"13",
-                "name":"Pease, Donald",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Ohio"
+    "district":13,
+    "end_date":"1986-10-18",
+    "end_session":99,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"oh"
 },
   "bbox": [
     -82.74094,

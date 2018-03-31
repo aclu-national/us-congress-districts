@@ -2,48 +2,12 @@
   "id": "pa_53_to_57_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"57",
-    "id":"042053057012",
-    "member":{
-        "53":{
-            "4447":{
-                "district":"12",
-                "name":"Hines, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "5600":{
-                "district":"12",
-                "name":"Leisenring, John",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "10172":{
-                "district":"12",
-                "name":"Williams, Morgan B.",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2360":{
-                "district":"12",
-                "name":"Davenport, Stanley Woodward",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "7177":{
-                "district":"12",
-                "name":"Palmer, Henry Wilber",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"pa"
 },
   "bbox": [
     -76.31974,

@@ -1,28 +1,13 @@
 {
-  "id": "in_41_to_42_08",
+  "id": "in_41_to_42_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"42",
-    "id":"018041042008",
-    "member":{
-        "41":{
-            "9544":{
-                "district":"8",
-                "name":"Tyner, James Noble",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "9544":{
-                "district":"8",
-                "name":"Tyner, James Noble",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Indiana"
+    "district":8,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"in"
 },
   "bbox": [
     -86.58174,

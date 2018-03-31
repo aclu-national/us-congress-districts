@@ -1,35 +1,13 @@
 {
-  "id": "tx_55_to_57_01",
+  "id": "tx_55_to_57_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"57",
-    "id":"048055057001",
-    "member":{
-        "55":{
-            "396":{
-                "district":"1",
-                "name":"Ball, Thomas Henry",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "396":{
-                "district":"1",
-                "name":"Ball, Thomas Henry",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "396":{
-                "district":"1",
-                "name":"Ball, Thomas Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"tx"
 },
   "bbox": [
     -96.49671,

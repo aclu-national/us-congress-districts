@@ -1,35 +1,13 @@
 {
-  "id": "pa_4_to_6_07",
+  "id": "pa_4_to_6_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"6",
-    "id":"042004006007",
-    "member":{
-        "4":{
-            "5310":{
-                "district":"7",
-                "name":"Kittera, John Wilkes",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "5310":{
-                "district":"7",
-                "name":"Kittera, John Wilkes",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "5310":{
-                "district":"7",
-                "name":"Kittera, John Wilkes",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

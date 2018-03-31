@@ -1,40 +1,13 @@
 {
-  "id": "va_33_to_35_01",
+  "id": "va_33_to_35_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"35",
-    "id":"051033035001",
-    "member":{
-        "33":{
-            "534":{
-                "district":"1",
-                "name":"Bayly, Thomas Henry",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "3484":{
-                "district":"1",
-                "name":"Garnett, Muscoe Russell Hunter",
-                "party":"Democrat"
-            },
-            "534":{
-                "district":"1",
-                "name":"Bayly, Thomas Henry",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "3484":{
-                "district":"1",
-                "name":"Garnett, Muscoe Russell Hunter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"va"
 },
   "bbox": [
     -77.23506,

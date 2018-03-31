@@ -1,77 +1,13 @@
 {
-  "id": "ky_74_to_82_03",
+  "id": "ky_74_to_82_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"82",
-    "id":"021074082003",
-    "member":{
-        "74":{
-            "7073":{
-                "district":"3",
-                "name":"O'Neal, Emmet",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7073":{
-                "district":"3",
-                "name":"O'Neal, Emmet",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "7073":{
-                "district":"3",
-                "name":"O'Neal, Emmet",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "7073":{
-                "district":"3",
-                "name":"O'Neal, Emmet",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "7073":{
-                "district":"3",
-                "name":"O'Neal, Emmet",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "7073":{
-                "district":"3",
-                "name":"O'Neal, Emmet",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "6745":{
-                "district":"3",
-                "name":"Morton, Thruston Ballard",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6745":{
-                "district":"3",
-                "name":"Morton, Thruston Ballard",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "6745":{
-                "district":"3",
-                "name":"Morton, Thruston Ballard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"ky"
 },
   "bbox": [
     -85.94854,

@@ -1,112 +1,13 @@
 {
-  "id": "mn_74_to_87_05",
+  "id": "mn_74_to_87_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"87",
-    "id":"027074087005",
-    "member":{
-        "74":{
-            "1715":{
-                "district":"5",
-                "name":"Christianson, Theodore",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "4948":{
-                "district":"5",
-                "name":"Johnson, Dewey William",
-                "party":"Farmer-Labor"
-            }
-        },
-        "76":{
-            "10460":{
-                "district":"5",
-                "name":"Youngdahl, Oscar Ferdinand",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "10460":{
-                "district":"5",
-                "name":"Youngdahl, Oscar Ferdinand",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "5083":{
-                "district":"5",
-                "name":"Judd, Walter Henry",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "5083":{
-                "district":"5",
-                "name":"Judd, Walter Henry",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "5083":{
-                "district":"5",
-                "name":"Judd, Walter Henry",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "5083":{
-                "district":"5",
-                "name":"Judd, Walter Henry",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "5083":{
-                "district":"5",
-                "name":"Judd, Walter Henry",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "5083":{
-                "district":"5",
-                "name":"Judd, Walter Henry",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "5083":{
-                "district":"5",
-                "name":"Judd, Walter Henry",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "5083":{
-                "district":"5",
-                "name":"Judd, Walter Henry",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "5083":{
-                "district":"5",
-                "name":"Judd, Walter Henry",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "5083":{
-                "district":"5",
-                "name":"Judd, Walter Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Minnesota"
+    "district":5,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mn"
 },
   "bbox": [
     -93.32901,

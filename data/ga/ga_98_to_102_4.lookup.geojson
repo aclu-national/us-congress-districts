@@ -1,49 +1,13 @@
 {
-  "id": "ga_98_to_102_04",
+  "id": "ga_98_to_102_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"102",
-    "id":"013098102004",
-    "member":{
-        "100":{
-            "15120":{
-                "district":"4",
-                "name":"Swindall, Patrick L.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "95120":{
-                "district":"4",
-                "name":"Jones, Ben",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "95120":{
-                "district":"4",
-                "name":"Jones, Ben",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14249":{
-                "district":"4",
-                "name":"Levitas, Elliott",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15120":{
-                "district":"4",
-                "name":"Swindall, Patrick L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Georgia"
+    "district":4,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ga"
 },
   "bbox": [
     -84.4191,

@@ -1,28 +1,13 @@
 {
-  "id": "in_91_to_92_04",
+  "id": "in_91_to_92_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"92",
-    "id":"018091092004",
-    "member":{
-        "91":{
-            "18":{
-                "district":"4",
-                "name":"Adair, Edwin Ross",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "8084":{
-                "district":"4",
-                "name":"Roush, John Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Indiana"
+    "district":4,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"in"
 },
   "bbox": [
     -85.6866,

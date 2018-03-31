@@ -2,55 +2,12 @@
   "id": "ky_28_to_33_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"33",
-    "id":"021028033010",
-    "member":{
-        "28":{
-            "9375":{
-                "district":"10",
-                "name":"Tibbatts, John Wooleston",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "9375":{
-                "district":"10",
-                "name":"Tibbatts, John Wooleston",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "3424":{
-                "district":"10",
-                "name":"Gaines, John Pollard",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "8846":{
-                "district":"10",
-                "name":"Stanton, Richard Henry",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "8846":{
-                "district":"10",
-                "name":"Stanton, Richard Henry",
-                "party":"Democrat"
-            }
-        },
-        "33":{
-            "8846":{
-                "district":"10",
-                "name":"Stanton, Richard Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Kentucky"
+    "district":10,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ky"
 },
   "bbox": [
     -85.02417,

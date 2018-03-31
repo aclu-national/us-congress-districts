@@ -1,49 +1,13 @@
 {
-  "id": "md_108_to_112_08",
+  "id": "md_108_to_112_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"112",
-    "id":"024108112008",
-    "member":{
-        "108":{
-            "20330":{
-                "district":"8",
-                "name":"Van Hollen, Chris",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20330":{
-                "district":"8",
-                "name":"Van Hollen, Chris",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20330":{
-                "district":"8",
-                "name":"Van Hollen, Chris",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20330":{
-                "district":"8",
-                "name":"Van Hollen, Chris",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20330":{
-                "district":"8",
-                "name":"Van Hollen, Chris",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Maryland"
+    "district":8,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"md"
 },
   "bbox": [
     -77.52728,

@@ -1,28 +1,13 @@
 {
-  "id": "ma_53_to_54_07",
+  "id": "ma_53_to_54_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"54",
-    "id":"025053054007",
-    "member":{
-        "53":{
-            "3030":{
-                "district":"7",
-                "name":"Everett, William",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "466":{
-                "district":"7",
-                "name":"Barrett, William Emerson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ma"
 },
   "bbox": [
     -71.12158,

@@ -1,49 +1,13 @@
 {
-  "id": "mi_43_to_47_06",
+  "id": "mi_43_to_47_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"47",
-    "id":"026043047006",
-    "member":{
-        "43":{
-            "584":{
-                "district":"6",
-                "name":"Begole, Josiah Williams",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "2784":{
-                "district":"6",
-                "name":"Durand, George Harman",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "1016":{
-                "district":"6",
-                "name":"Brewer, Mark Spencer",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "1016":{
-                "district":"6",
-                "name":"Brewer, Mark Spencer",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "8769":{
-                "district":"6",
-                "name":"Spaulding, Oliver Lyman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Michigan"
+    "district":6,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"mi"
 },
   "bbox": [
     -84.83771,

@@ -2,48 +2,12 @@
   "id": "pa_68_to_72_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"72",
-    "id":"042068072013",
-    "member":{
-        "68":{
-            "1163":{
-                "district":"13",
-                "name":"Brumm, George Franklin",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "1163":{
-                "district":"13",
-                "name":"Brumm, George Franklin",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "7174":{
-                "district":"13",
-                "name":"Palmer, Cyrus Maffet",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "1163":{
-                "district":"13",
-                "name":"Brumm, George Franklin",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "1163":{
-                "district":"13",
-                "name":"Brumm, George Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -76.70148,

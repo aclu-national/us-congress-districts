@@ -1,47 +1,13 @@
 {
-  "id": "tx_94_to_97_01",
+  "id": "tx_94_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"048094097001",
-    "member":{
-        "94":{
-            "14291":{
-                "district":"1",
-                "name":"Hall, Sam",
-                "party":"Democrat"
-            },
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14291":{
-                "district":"1",
-                "name":"Hall, Sam",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14291":{
-                "district":"1",
-                "name":"Hall, Sam",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14291":{
-                "district":"1",
-                "name":"Hall, Sam",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"tx"
 },
   "bbox": [
     -96.454,

@@ -2,27 +2,12 @@
   "id": "pa_28_to_29_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"29",
-    "id":"042028029015",
-    "member":{
-        "28":{
-            "6877":{
-                "district":"15",
-                "name":"Nes, Henry",
-                "party":"Ind. Democrat"
-            }
-        },
-        "29":{
-            "6144":{
-                "district":"15",
-                "name":"McClean, Moses",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -77.47162,

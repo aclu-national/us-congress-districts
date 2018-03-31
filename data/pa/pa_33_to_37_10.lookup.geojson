@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"37",
-    "id":"042033037010",
-    "member":{
-        "33":{
-            "6458":{
-                "district":"10",
-                "name":"Middleswarth, Ner",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "5376":{
-                "district":"10",
-                "name":"Kunkel, John Christian",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "5376":{
-                "district":"10",
-                "name":"Kunkel, John Christian",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "5243":{
-                "district":"10",
-                "name":"Killinger, John Weinland",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "5243":{
-                "district":"10",
-                "name":"Killinger, John Weinland",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -77.36349,

@@ -1,21 +1,13 @@
 {
-  "id": "ms_34_to_34_03",
+  "id": "ms_34_to_34_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"34",
-    "id":"028034034003",
-    "member":{
-        "34":{
-            "439":{
-                "district":"3",
-                "name":"Barksdale, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Mississippi"
+    "district":3,
+    "end_date":"1857-03-03",
+    "end_session":34,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ms"
 },
   "bbox": [
     -90.32108,

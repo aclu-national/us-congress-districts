@@ -1,87 +1,13 @@
 {
-  "id": "va_74_to_82_03",
+  "id": "va_74_to_82_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"82",
-    "id":"051074082003",
-    "member":{
-        "74":{
-            "6598":{
-                "district":"3",
-                "name":"Montague, Andrew Jackson",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "6598":{
-                "district":"3",
-                "name":"Montague, Andrew Jackson",
-                "party":"Democrat"
-            },
-            "8220":{
-                "district":"3",
-                "name":"Satterfield, Dave Edward, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8220":{
-                "district":"3",
-                "name":"Satterfield, Dave Edward, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8220":{
-                "district":"3",
-                "name":"Satterfield, Dave Edward, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "8220":{
-                "district":"3",
-                "name":"Satterfield, Dave Edward, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "3499":{
-                "district":"3",
-                "name":"Gary, Julian Vaughan",
-                "party":"Democrat"
-            },
-            "8220":{
-                "district":"3",
-                "name":"Satterfield, Dave Edward, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "3499":{
-                "district":"3",
-                "name":"Gary, Julian Vaughan",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "3499":{
-                "district":"3",
-                "name":"Gary, Julian Vaughan",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "3499":{
-                "district":"3",
-                "name":"Gary, Julian Vaughan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Virginia"
+    "district":3,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"va"
 },
   "bbox": [
     -77.87837,

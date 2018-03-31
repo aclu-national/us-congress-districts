@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"90",
-    "id":"036088090024",
-    "member":{
-        "88":{
-            "3158":{
-                "district":"24",
-                "name":"Fino, Paul Albert",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "3158":{
-                "district":"24",
-                "name":"Fino, Paul Albert",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "3158":{
-                "district":"24",
-                "name":"Fino, Paul Albert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":24,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -73.89423,

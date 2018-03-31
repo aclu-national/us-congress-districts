@@ -1,35 +1,13 @@
 {
-  "id": "ga_29_to_31_07",
+  "id": "ga_29_to_31_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"31",
-    "id":"013029031007",
-    "member":{
-        "29":{
-            "8885":{
-                "district":"7",
-                "name":"Stephens, Alexander Hamilton",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "8885":{
-                "district":"7",
-                "name":"Stephens, Alexander Hamilton",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "8885":{
-                "district":"7",
-                "name":"Stephens, Alexander Hamilton",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"ga"
 },
   "bbox": [
     -84.12377,

@@ -1,49 +1,13 @@
 {
-  "id": "ny_23_to_27_02",
+  "id": "ny_23_to_27_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"27",
-    "id":"036023027002",
-    "member":{
-        "23":{
-            "9622":{
-                "district":"2",
-                "name":"Van Houten, Isaac B.",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "497":{
-                "district":"2",
-                "name":"Barton, Samuel",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "9606":{
-                "district":"2",
-                "name":"Vanderveer, Abraham",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "2475":{
-                "district":"2",
-                "name":"De La Montanya, James",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "2880":{
-                "district":"2",
-                "name":"Egbert, Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":2,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

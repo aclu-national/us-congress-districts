@@ -1,21 +1,13 @@
 {
-  "id": "az_92_to_92_02",
+  "id": "az_92_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"004092092002",
-    "member":{
-        "92":{
-            "10566":{
-                "district":"2",
-                "name":"Udall, Morris K.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"Arizona"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"az"
 },
   "bbox": [
     -114.81659,

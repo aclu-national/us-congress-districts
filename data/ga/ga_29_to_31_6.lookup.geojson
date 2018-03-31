@@ -1,35 +1,13 @@
 {
-  "id": "ga_29_to_31_06",
+  "id": "ga_29_to_31_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"31",
-    "id":"013029031006",
-    "member":{
-        "29":{
-            "1867":{
-                "district":"6",
-                "name":"Cobb, Howell",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "1867":{
-                "district":"6",
-                "name":"Cobb, Howell",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "1867":{
-                "district":"6",
-                "name":"Cobb, Howell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"Georgia"
+    "district":6,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"ga"
 },
   "bbox": [
     -84.25857,

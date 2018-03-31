@@ -1,54 +1,13 @@
 {
-  "id": "nm_103_to_107_01",
+  "id": "nm_103_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"035103107001",
-    "member":{
-        "103":{
-            "15624":{
-                "district":"1",
-                "name":"Schiff, Steven H.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15624":{
-                "district":"1",
-                "name":"Schiff, Steven H.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15624":{
-                "district":"1",
-                "name":"Schiff, Steven H.",
-                "party":"Republican"
-            },
-            "29779":{
-                "district":"1",
-                "name":"Wilson, Heather",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29779":{
-                "district":"1",
-                "name":"Wilson, Heather",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29779":{
-                "district":"1",
-                "name":"Wilson, Heather",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New Mexico"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nm"
 },
   "bbox": [
     -106.96289,

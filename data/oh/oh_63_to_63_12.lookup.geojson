@@ -2,20 +2,12 @@
   "id": "oh_63_to_63_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"63",
-    "id":"039063063012",
-    "member":{
-        "63":{
-            "1160":{
-                "district":"12",
-                "name":"Brumbaugh, Clement Laird",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"oh"
 },
   "bbox": [
     -83.26068,

@@ -2,55 +2,12 @@
   "id": "ny_73_to_78_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"78",
-    "id":"036073078033",
-    "member":{
-        "73":{
-            "8550":{
-                "district":"33",
-                "name":"Sisson, Frederick James",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "8550":{
-                "district":"33",
-                "name":"Sisson, Frederick James",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2688":{
-                "district":"33",
-                "name":"Douglas, Fred James",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "2688":{
-                "district":"33",
-                "name":"Douglas, Fred James",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "2688":{
-                "district":"33",
-                "name":"Douglas, Fred James",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "2688":{
-                "district":"33",
-                "name":"Douglas, Fred James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":33,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -75.88676,

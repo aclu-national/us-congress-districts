@@ -1,42 +1,13 @@
 {
-  "id": "tn_44_to_47_01",
+  "id": "tn_44_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"047044047001",
-    "member":{
-        "44":{
-            "6243":{
-                "district":"1",
-                "name":"McFarland, William",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "7721":{
-                "district":"1",
-                "name":"Randolph, James Henry",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "9229":{
-                "district":"1",
-                "name":"Taylor, Robert Love",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "7377":{
-                "district":"1",
-                "name":"Pettibone, Augustus Herman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"tn"
 },
   "bbox": [
     -83.9994,

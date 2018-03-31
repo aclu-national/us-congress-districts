@@ -1,49 +1,13 @@
 {
-  "id": "in_58_to_62_03",
+  "id": "in_58_to_62_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"62",
-    "id":"018058062003",
-    "member":{
-        "58":{
-            "10465":{
-                "district":"3",
-                "name":"Zenor, William Taylor",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "10465":{
-                "district":"3",
-                "name":"Zenor, William Taylor",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "2119":{
-                "district":"3",
-                "name":"Cox, William Elijah",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "2119":{
-                "district":"3",
-                "name":"Cox, William Elijah",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "2119":{
-                "district":"3",
-                "name":"Cox, William Elijah",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"in"
 },
   "bbox": [
     -87.07335,

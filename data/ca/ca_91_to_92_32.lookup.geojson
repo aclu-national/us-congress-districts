@@ -2,27 +2,12 @@
   "id": "ca_91_to_92_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"92",
-    "id":"006091092032",
-    "member":{
-        "91":{
-            "4592":{
-                "district":"32",
-                "name":"Hosmer, Craig",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "4592":{
-                "district":"32",
-                "name":"Hosmer, Craig",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":32,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -118.2485,

@@ -1,42 +1,13 @@
 {
-  "id": "la_99_to_102_03",
+  "id": "la_99_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"022099102003",
-    "member":{
-        "100":{
-            "14679":{
-                "district":"3",
-                "name":"Tauzin, Wilbert",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14679":{
-                "district":"3",
-                "name":"Tauzin, Wilbert",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14679":{
-                "district":"3",
-                "name":"Tauzin, Wilbert",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14679":{
-                "district":"3",
-                "name":"Tauzin, Wilbert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Louisiana"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"la"
 },
   "bbox": [
     -92.03538,

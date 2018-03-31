@@ -1,21 +1,13 @@
 {
-  "id": "nj_6_to_6_05",
+  "id": "nj_6_to_6_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"6",
-    "id":"034006006005",
-    "member":{
-        "6":{
-            "2351":{
-                "district":"5",
-                "name":"Davenport, Franklin",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"6",
-    "statename":"New Jersey"
+    "district":5,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1799-12-02",
+    "start_session":6,
+    "state":"nj"
 },
   "bbox": [
     -75.55979,

@@ -1,54 +1,13 @@
 {
-  "id": "ma_58_to_62_03",
+  "id": "ma_58_to_62_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"62",
-    "id":"025058062003",
-    "member":{
-        "58":{
-            "9277":{
-                "district":"3",
-                "name":"Thayer, John Randolph",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "4463":{
-                "district":"3",
-                "name":"Hoar, Rockwood",
-                "party":"Republican"
-            },
-            "9849":{
-                "district":"3",
-                "name":"Washburn, Charles Grenfill",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "9849":{
-                "district":"3",
-                "name":"Washburn, Charles Grenfill",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "9849":{
-                "district":"3",
-                "name":"Washburn, Charles Grenfill",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "9275":{
-                "district":"3",
-                "name":"Thayer, John Alden",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ma"
 },
   "bbox": [
     -72.13569,

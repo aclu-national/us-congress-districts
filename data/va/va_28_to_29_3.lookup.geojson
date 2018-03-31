@@ -1,28 +1,13 @@
 {
-  "id": "va_28_to_29_03",
+  "id": "va_28_to_29_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"29",
-    "id":"051028029003",
-    "member":{
-        "28":{
-            "1937":{
-                "district":"3",
-                "name":"Coles, Walter",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "9462":{
-                "district":"3",
-                "name":"Tredway, William Marshall",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Virginia"
+    "district":3,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"va"
 },
   "bbox": [
     -80.62578,

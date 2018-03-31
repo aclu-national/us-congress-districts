@@ -2,34 +2,12 @@
   "id": "tx_83_to_85_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"85",
-    "id":"048083085011",
-    "member":{
-        "83":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Texas"
+    "district":11,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tx"
 },
   "bbox": [
     -98.18001,

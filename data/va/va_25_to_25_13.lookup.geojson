@@ -2,25 +2,12 @@
   "id": "va_25_to_25_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"25",
-    "id":"051025025013",
-    "member":{
-        "25":{
-            "408":{
-                "district":"13",
-                "name":"Banks, Linn",
-                "party":"Democrat"
-            },
-            "7265":{
-                "district":"13",
-                "name":"Patton, John Mercer",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"25",
-    "statename":"Virginia"
+    "district":13,
+    "end_date":"1839-03-03",
+    "end_session":25,
+    "start_date":"1837-03-04",
+    "start_session":25,
+    "state":"va"
 },
   "bbox": [
     -78.66317,

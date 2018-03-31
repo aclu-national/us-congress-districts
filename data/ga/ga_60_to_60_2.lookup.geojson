@@ -1,21 +1,13 @@
 {
-  "id": "ga_60_to_60_02",
+  "id": "ga_60_to_60_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"60",
-    "id":"013060060002",
-    "member":{
-        "60":{
-            "3832":{
-                "district":"2",
-                "name":"Griggs, James Mathews",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Georgia"
+    "district":2,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ga"
 },
   "bbox": [
     -85.14193,

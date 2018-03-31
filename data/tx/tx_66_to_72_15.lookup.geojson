@@ -2,62 +2,12 @@
   "id": "tx_66_to_72_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"72",
-    "id":"048066072015",
-    "member":{
-        "66":{
-            "3482":{
-                "district":"15",
-                "name":"Garner, John Nance",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "3482":{
-                "district":"15",
-                "name":"Garner, John Nance",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "3482":{
-                "district":"15",
-                "name":"Garner, John Nance",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3482":{
-                "district":"15",
-                "name":"Garner, John Nance",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "3482":{
-                "district":"15",
-                "name":"Garner, John Nance",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "3482":{
-                "district":"15",
-                "name":"Garner, John Nance",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "3482":{
-                "district":"15",
-                "name":"Garner, John Nance",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":15,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -100.79707,

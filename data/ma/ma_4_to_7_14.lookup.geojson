@@ -2,41 +2,12 @@
   "id": "ma_4_to_7_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"7",
-    "id":"025004007014",
-    "member":{
-        "4":{
-            "9268":{
-                "district":"14",
-                "name":"Thacher, George",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "9268":{
-                "district":"14",
-                "name":"Thacher, George",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "9268":{
-                "district":"14",
-                "name":"Thacher, George",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "2294":{
-                "district":"14",
-                "name":"Cutts, Richard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Massachusetts"
+    "district":14,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"ma"
 },
   "bbox": [
     -71.08433,

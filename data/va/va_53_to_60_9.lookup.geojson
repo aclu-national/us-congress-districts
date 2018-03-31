@@ -1,75 +1,13 @@
 {
-  "id": "va_53_to_60_09",
+  "id": "va_53_to_60_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"60",
-    "id":"051053060009",
-    "member":{
-        "53":{
-            "6002":{
-                "district":"9",
-                "name":"Marshall, James William",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9744":{
-                "district":"9",
-                "name":"Walker, James Alexander",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "9744":{
-                "district":"9",
-                "name":"Walker, James Alexander",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "7840":{
-                "district":"9",
-                "name":"Rhea, William Francis",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "7840":{
-                "district":"9",
-                "name":"Rhea, William Francis",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "8573":{
-                "district":"9",
-                "name":"Slemp, Campbell",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "8573":{
-                "district":"9",
-                "name":"Slemp, Campbell",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "8573":{
-                "district":"9",
-                "name":"Slemp, Campbell",
-                "party":"Republican"
-            },
-            "8574":{
-                "district":"9",
-                "name":"Slemp, Campbell Bascom",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Virginia"
+    "district":9,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"va"
 },
   "bbox": [
     -83.67541,

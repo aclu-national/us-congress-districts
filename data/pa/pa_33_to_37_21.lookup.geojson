@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"37",
-    "id":"042033037021",
-    "member":{
-        "33":{
-            "7919":{
-                "district":"21",
-                "name":"Ritchie, David",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "7919":{
-                "district":"21",
-                "name":"Ritchie, David",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "7919":{
-                "district":"21",
-                "name":"Ritchie, David",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "6660":{
-                "district":"21",
-                "name":"Moorhead, James Kennedy",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "6660":{
-                "district":"21",
-                "name":"Moorhead, James Kennedy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":21,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -80.36087,

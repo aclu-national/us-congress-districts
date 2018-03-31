@@ -2,27 +2,12 @@
   "id": "oh_103_to_104_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"104",
-    "id":"039103104010",
-    "member":{
-        "103":{
-            "29388":{
-                "district":"10",
-                "name":"Hoke, Martin R.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29388":{
-                "district":"10",
-                "name":"Hoke, Martin R.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Ohio"
+    "district":10,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"oh"
 },
   "bbox": [
     -81.9714,

@@ -2,46 +2,12 @@
   "id": "pa_84_to_87_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"87",
-    "id":"042084087021",
-    "member":{
-        "84":{
-            "5136":{
-                "district":"21",
-                "name":"Kelley, Augustine Bernard",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "2513":{
-                "district":"21",
-                "name":"Dent, John Herman",
-                "party":"Democrat"
-            },
-            "5136":{
-                "district":"21",
-                "name":"Kelley, Augustine Bernard",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "2513":{
-                "district":"21",
-                "name":"Dent, John Herman",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "2513":{
-                "district":"21",
-                "name":"Dent, John Herman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":21,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -79.90495,

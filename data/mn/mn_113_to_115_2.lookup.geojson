@@ -1,19 +1,13 @@
 {
-  "id": "mn_113_to_115_02",
+  "id": "mn_113_to_115_2",
   "type": "Feature",
   "properties": {
-    "ALAND":6314631021,
-    "AWATER":243392500,
-    "CD113FP":"02",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2702",
-    "INTPTLAT":"+44.4789680",
-    "INTPTLON":"-092.8530418",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 2",
-    "STATEFP":"27"
+    "district":2,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mn"
 },
   "bbox": [
     -93.911401,

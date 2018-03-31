@@ -1,42 +1,13 @@
 {
-  "id": "mi_38_to_41_02",
+  "id": "mi_38_to_41_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"41",
-    "id":"026038041002",
-    "member":{
-        "38":{
-            "9572":{
-                "district":"2",
-                "name":"Upson, Charles",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "9572":{
-                "district":"2",
-                "name":"Upson, Charles",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "9572":{
-                "district":"2",
-                "name":"Upson, Charles",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "9000":{
-                "district":"2",
-                "name":"Stoughton, William Lewis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Michigan"
+    "district":2,
+    "end_date":"1871-03-03",
+    "end_session":41,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"mi"
 },
   "bbox": [
     -86.82483,

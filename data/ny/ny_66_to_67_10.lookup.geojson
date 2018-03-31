@@ -2,32 +2,12 @@
   "id": "ny_66_to_67_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"67",
-    "id":"036066067010",
-    "member":{
-        "66":{
-            "4173":{
-                "district":"10",
-                "name":"Haskell, Reuben Locke",
-                "party":"Republican"
-            },
-            "9681":{
-                "district":"10",
-                "name":"Volk, Lester David",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9681":{
-                "district":"10",
-                "name":"Volk, Lester David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -73.95338,

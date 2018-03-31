@@ -2,34 +2,12 @@
   "id": "pa_48_to_50_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"50",
-    "id":"042048050017",
-    "member":{
-        "48":{
-            "1451":{
-                "district":"17",
-                "name":"Campbell, Jacob Miller",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "1451":{
-                "district":"17",
-                "name":"Campbell, Jacob Miller",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "8329":{
-                "district":"17",
-                "name":"Scull, Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -79.41756,

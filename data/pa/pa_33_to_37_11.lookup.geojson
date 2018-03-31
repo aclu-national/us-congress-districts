@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"37",
-    "id":"042033037011",
-    "member":{
-        "33":{
-            "9019":{
-                "district":"11",
-                "name":"Straub, Christian Markle",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "1453":{
-                "district":"11",
-                "name":"Campbell, James Hepburn",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "2539":{
-                "district":"11",
-                "name":"Dewart, William Lewis",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "1453":{
-                "district":"11",
-                "name":"Campbell, James Hepburn",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "1453":{
-                "district":"11",
-                "name":"Campbell, James Hepburn",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -76.89844,

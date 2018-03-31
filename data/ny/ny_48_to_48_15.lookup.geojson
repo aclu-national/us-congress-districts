@@ -2,20 +2,12 @@
   "id": "ny_48_to_48_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"48",
-    "id":"036048048015",
-    "member":{
-        "48":{
-            "337":{
-                "district":"15",
-                "name":"Bagley, John Holroyd Jr",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -74.78069,

@@ -1,54 +1,13 @@
 {
-  "id": "pa_53_to_57_08",
+  "id": "pa_53_to_57_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"57",
-    "id":"042053057008",
-    "member":{
-        "53":{
-            "6833":{
-                "district":"8",
-                "name":"Mutchler, Howard",
-                "party":"Democrat"
-            },
-            "6834":{
-                "district":"8",
-                "name":"Mutchler, William",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "4146":{
-                "district":"8",
-                "name":"Hart, Joseph Johnson",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "5298":{
-                "district":"8",
-                "name":"Kirkpatrick, William Sebring",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "416":{
-                "district":"8",
-                "name":"Barber, Laird Howard",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "6833":{
-                "district":"8",
-                "name":"Mutchler, Howard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"pa"
 },
   "bbox": [
     -75.99735,

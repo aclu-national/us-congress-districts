@@ -1,21 +1,13 @@
 {
-  "id": "ma_17_to_17_02",
+  "id": "ma_17_to_17_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"17",
-    "id":"025017017002",
-    "member":{
-        "17":{
-            "481":{
-                "district":"2",
-                "name":"Barstow, Gideon",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ma"
 },
   "bbox": [
     -71.0829,

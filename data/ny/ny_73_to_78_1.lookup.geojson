@@ -1,56 +1,13 @@
 {
-  "id": "ny_73_to_78_01",
+  "id": "ny_73_to_78_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"78",
-    "id":"036073078001",
-    "member":{
-        "73":{
-            "327":{
-                "district":"1",
-                "name":"Bacon, Robert Low",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "327":{
-                "district":"1",
-                "name":"Bacon, Robert Low",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "327":{
-                "district":"1",
-                "name":"Bacon, Robert Low",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "3946":{
-                "district":"1",
-                "name":"Hall, Leonard Wood",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "3946":{
-                "district":"1",
-                "name":"Hall, Leonard Wood",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "3946":{
-                "district":"1",
-                "name":"Hall, Leonard Wood",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -73.84349,

@@ -2,34 +2,12 @@
   "id": "pa_30_to_32_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"32",
-    "id":"042030032017",
-    "member":{
-        "30":{
-            "779":{
-                "district":"17",
-                "name":"Blanchard, John",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "1430":{
-                "district":"17",
-                "name":"Calvin, Samuel",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "7189":{
-                "district":"17",
-                "name":"Parker, Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -78.62038,

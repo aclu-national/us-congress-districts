@@ -1,21 +1,13 @@
 {
-  "id": "tx_109_to_109_02",
+  "id": "tx_109_to_109_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"109",
-    "id":"048109109002",
-    "member":{
-        "109":{
-            "20528":{
-                "district":"2",
-                "name":"Poe, Ted",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Texas"
+    "district":2,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"tx"
 },
   "bbox": [
     -95.56831,

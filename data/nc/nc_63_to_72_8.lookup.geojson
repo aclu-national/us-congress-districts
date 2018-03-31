@@ -1,84 +1,13 @@
 {
-  "id": "nc_63_to_72_08",
+  "id": "nc_63_to_72_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"72",
-    "id":"037063072008",
-    "member":{
-        "63":{
-            "2684":{
-                "district":"8",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "2684":{
-                "district":"8",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "2684":{
-                "district":"8",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "2684":{
-                "district":"8",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "2684":{
-                "district":"8",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "2684":{
-                "district":"8",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2684":{
-                "district":"8",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "2684":{
-                "district":"8",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "2684":{
-                "district":"8",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "2684":{
-                "district":"8",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"North Carolina"
+    "district":8,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nc"
 },
   "bbox": [
     -81.91817,

@@ -1,28 +1,13 @@
 {
-  "id": "nj_88_to_89_02",
+  "id": "nj_88_to_89_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"89",
-    "id":"034088089002",
-    "member":{
-        "88":{
-            "3629":{
-                "district":"2",
-                "name":"Glenn, Milton Willits",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10750":{
-                "district":"2",
-                "name":"McGrath, Thomas C., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New Jersey"
+    "district":2,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"nj"
 },
   "bbox": [
     -75.41956,

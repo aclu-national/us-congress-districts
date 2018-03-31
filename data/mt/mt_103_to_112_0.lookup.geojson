@@ -1,84 +1,13 @@
 {
-  "id": "mt_103_to_112_00",
+  "id": "mt_103_to_112_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"112",
-    "id":"030103112000",
-    "member":{
-        "103":{
-            "14672":{
-                "district":"1",
-                "name":"Williams, Pat",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "14672":{
-                "district":"1",
-                "name":"Williams, Pat",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29738":{
-                "district":"1",
-                "name":"Hill, Rick",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29738":{
-                "district":"1",
-                "name":"Hill, Rick",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "20125":{
-                "district":"1",
-                "name":"Rehberg, Dennis R.",
-                "party":"Republican"
-            }
-        },
-        "108":{
-            "20125":{
-                "district":"1",
-                "name":"Rehberg, Dennis R.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20125":{
-                "district":"1",
-                "name":"Rehberg, Dennis R.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20125":{
-                "district":"1",
-                "name":"Rehberg, Dennis R.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20125":{
-                "district":"1",
-                "name":"Rehberg, Dennis R.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20125":{
-                "district":"1",
-                "name":"Rehberg, Denny",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Montana"
+    "district":0,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"mt"
 },
   "bbox": [
     -116.05,

@@ -1,28 +1,13 @@
 {
-  "id": "il_88_to_89_03",
+  "id": "il_88_to_89_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"89",
-    "id":"017088089003",
-    "member":{
-        "88":{
-            "6816":{
-                "district":"3",
-                "name":"Murphy, William Thomas",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "6816":{
-                "district":"3",
-                "name":"Murphy, William Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Illinois"
+    "district":3,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"il"
 },
   "bbox": [
     -87.74199,

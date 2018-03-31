@@ -1,54 +1,13 @@
 {
-  "id": "ia_31_to_35_01",
+  "id": "ia_31_to_35_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"35",
-    "id":"019031035001",
-    "member":{
-        "31":{
-            "6478":{
-                "district":"1",
-                "name":"Miller, Daniel Fry",
-                "party":"Whig"
-            },
-            "9344":{
-                "district":"1",
-                "name":"Thompson, William",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "4326":{
-                "district":"1",
-                "name":"Henn, Bernhart",
-                "party":"Democrat"
-            }
-        },
-        "33":{
-            "4326":{
-                "district":"1",
-                "name":"Henn, Bernhart",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "3931":{
-                "district":"1",
-                "name":"Hall, Augustus",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "2274":{
-                "district":"1",
-                "name":"Curtis, Samuel Ryan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"31",
-    "statename":"Iowa"
+    "district":1,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1849-03-05",
+    "start_session":31,
+    "state":"ia"
 },
   "bbox": [
     -96.13922,

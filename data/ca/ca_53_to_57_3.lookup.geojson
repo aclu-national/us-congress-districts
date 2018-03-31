@@ -1,54 +1,13 @@
 {
-  "id": "ca_53_to_57_03",
+  "id": "ca_53_to_57_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"57",
-    "id":"006053057003",
-    "member":{
-        "53":{
-            "2970":{
-                "district":"3",
-                "name":"English, Warren Barkley",
-                "party":"Democrat"
-            },
-            "4402":{
-                "district":"3",
-                "name":"Hilborn, Samuel Greeley",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "4402":{
-                "district":"3",
-                "name":"Hilborn, Samuel Greeley",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "4402":{
-                "district":"3",
-                "name":"Hilborn, Samuel Greeley",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "6443":{
-                "district":"3",
-                "name":"Metcalf, Victor Howard",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "6443":{
-                "district":"3",
-                "name":"Metcalf, Victor Howard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"California"
+    "district":3,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ca"
 },
   "bbox": [
     -123.09628,

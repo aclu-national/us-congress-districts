@@ -1,42 +1,13 @@
 {
-  "id": "ar_33_to_36_01",
+  "id": "ar_33_to_36_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"36",
-    "id":"005033036001",
-    "member":{
-        "33":{
-            "3800":{
-                "district":"1",
-                "name":"Greenwood, Alfred Burton",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "3800":{
-                "district":"1",
-                "name":"Greenwood, Alfred Burton",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "3800":{
-                "district":"1",
-                "name":"Greenwood, Alfred Burton",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "4440":{
-                "district":"1",
-                "name":"Hindman, Thomas Carmichael",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Arkansas"
+    "district":1,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ar"
 },
   "bbox": [
     -94.61792,

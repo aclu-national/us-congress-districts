@@ -1,28 +1,13 @@
 {
-  "id": "pa_28_to_29_07",
+  "id": "pa_28_to_29_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"29",
-    "id":"042028029007",
-    "member":{
-        "28":{
-            "6273":{
-                "district":"7",
-                "name":"McIlvaine, Abraham Robinson",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "6273":{
-                "district":"7",
-                "name":"McIlvaine, Abraham Robinson",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -76.13638,

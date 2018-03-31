@@ -1,35 +1,13 @@
 {
-  "id": "ky_90_to_92_04",
+  "id": "ky_90_to_92_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"92",
-    "id":"021090092004",
-    "member":{
-        "90":{
-            "10626":{
-                "district":"4",
-                "name":"Snyder, M. G.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10626":{
-                "district":"4",
-                "name":"Snyder, M. G.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10626":{
-                "district":"4",
-                "name":"Snyder, M. G.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Kentucky"
+    "district":4,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"ky"
 },
   "bbox": [
     -85.94854,

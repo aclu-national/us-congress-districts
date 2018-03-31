@@ -1,42 +1,13 @@
 {
-  "id": "nj_54_to_57_06",
+  "id": "nj_54_to_57_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"57",
-    "id":"034054057006",
-    "member":{
-        "54":{
-            "7203":{
-                "district":"6",
-                "name":"Parker, Richard Wayne",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "7203":{
-                "district":"6",
-                "name":"Parker, Richard Wayne",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "7203":{
-                "district":"6",
-                "name":"Parker, Richard Wayne",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "7203":{
-                "district":"6",
-                "name":"Parker, Richard Wayne",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"54",
-    "statename":"New Jersey"
+    "district":6,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1895-12-02",
+    "start_session":54,
+    "state":"nj"
 },
   "bbox": [
     -74.23835,

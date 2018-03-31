@@ -2,61 +2,12 @@
   "id": "ny_13_to_16_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"16",
-    "id":"036013016012",
-    "member":{
-        "13":{
-            "10282":{
-                "district":"12",
-                "name":"Winter, Elisha I.",
-                "party":"Federalist"
-            },
-            "8473":{
-                "district":"12",
-                "name":"Shipherd, Zebulon Rudd",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "47":{
-                "district":"12",
-                "name":"Adgate, Asa",
-                "party":"Republican"
-            },
-            "8231":{
-                "district":"12",
-                "name":"Savage, John",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "7178":{
-                "district":"12",
-                "name":"Palmer, John",
-                "party":"Republican"
-            },
-            "8231":{
-                "district":"12",
-                "name":"Savage, John",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "3852":{
-                "district":"12",
-                "name":"Gross, Ezra Carter",
-                "party":"Republican"
-            },
-            "7468":{
-                "district":"12",
-                "name":"Pitcher, Nathaniel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ny"
 },
   "bbox": [
     -74.72568,

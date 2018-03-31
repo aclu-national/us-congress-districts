@@ -1,28 +1,13 @@
 {
-  "id": "fl_88_to_89_05",
+  "id": "fl_88_to_89_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"89",
-    "id":"012088089005",
-    "member":{
-        "88":{
-            "4354":{
-                "district":"5",
-                "name":"Herlong, Albert Sydney, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "4354":{
-                "district":"5",
-                "name":"Herlong, Albert Sydney, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Florida"
+    "district":5,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"fl"
 },
   "bbox": [
     -82.85238,

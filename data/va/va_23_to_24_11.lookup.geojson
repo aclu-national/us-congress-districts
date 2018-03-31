@@ -2,32 +2,12 @@
   "id": "va_23_to_24_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"24",
-    "id":"051023024011",
-    "member":{
-        "23":{
-            "7963":{
-                "district":"11",
-                "name":"Robertson, John",
-                "party":"Anti-Jackson"
-            },
-            "8919":{
-                "district":"11",
-                "name":"Stevenson, Andrew",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "7963":{
-                "district":"11",
-                "name":"Robertson, John",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Virginia"
+    "district":11,
+    "end_date":"1837-03-03",
+    "end_session":24,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"va"
 },
   "bbox": [
     -77.79732,

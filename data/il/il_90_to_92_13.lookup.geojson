@@ -2,39 +2,12 @@
   "id": "il_90_to_92_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"92",
-    "id":"017090092013",
-    "member":{
-        "90":{
-            "10622":{
-                "district":"13",
-                "name":"Rumsfeld, Donald",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10622":{
-                "district":"13",
-                "name":"Rumsfeld, Donald",
-                "party":"Republican"
-            },
-            "12041":{
-                "district":"13",
-                "name":"Crane, Philip M.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "12041":{
-                "district":"13",
-                "name":"Crane, Philip M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Illinois"
+    "district":13,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"il"
 },
   "bbox": [
     -88.14519,

@@ -1,63 +1,13 @@
 {
-  "id": "tn_83_to_89_09",
+  "id": "tn_83_to_89_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"89",
-    "id":"047083089009",
-    "member":{
-        "83":{
-            "2376":{
-                "district":"9",
-                "name":"Davis, Clifford",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "2376":{
-                "district":"9",
-                "name":"Davis, Clifford",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "2376":{
-                "district":"9",
-                "name":"Davis, Clifford",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "2376":{
-                "district":"9",
-                "name":"Davis, Clifford",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "2376":{
-                "district":"9",
-                "name":"Davis, Clifford",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "2376":{
-                "district":"9",
-                "name":"Davis, Clifford",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10731":{
-                "district":"9",
-                "name":"Grider, George W.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Tennessee"
+    "district":9,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

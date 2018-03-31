@@ -1,49 +1,13 @@
 {
-  "id": "ky_23_to_27_03",
+  "id": "ky_23_to_27_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"27",
-    "id":"021023027003",
-    "member":{
-        "23":{
-            "9415":{
-                "district":"3",
-                "name":"Tompkins, Christopher",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "9558":{
-                "district":"3",
-                "name":"Underwood, Joseph Rogers",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "9558":{
-                "district":"3",
-                "name":"Underwood, Joseph Rogers",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "9558":{
-                "district":"3",
-                "name":"Underwood, Joseph Rogers",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "9558":{
-                "district":"3",
-                "name":"Underwood, Joseph Rogers",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ky"
 },
   "bbox": [
     -87.33585,

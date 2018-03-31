@@ -2,20 +2,12 @@
   "id": "ny_65_to_65_43",
   "type": "Feature",
   "properties": {
-    "district":"43",
-    "endcong":"65",
-    "id":"036065065043",
-    "member":{
-        "65":{
-            "3985":{
-                "district":"43",
-                "name":"Hamilton, Charles Mann",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":43,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

@@ -1,21 +1,13 @@
 {
-  "id": "ar_40_to_40_03",
+  "id": "ar_40_to_40_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"40",
-    "id":"005040040003",
-    "member":{
-        "40":{
-            "833":{
-                "district":"3",
-                "name":"Boles, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Arkansas"
+    "district":3,
+    "end_date":"1869-03-03",
+    "end_session":40,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"ar"
 },
   "bbox": [
     -94.61792,

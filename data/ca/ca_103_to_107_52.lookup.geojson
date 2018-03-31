@@ -2,48 +2,12 @@
   "id": "ca_103_to_107_52",
   "type": "Feature",
   "properties": {
-    "district":"52",
-    "endcong":"107",
-    "id":"006103107052",
-    "member":{
-        "103":{
-            "14835":{
-                "district":"52",
-                "name":"Hunter, Duncan L.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14835":{
-                "district":"52",
-                "name":"Hunter, Duncan L.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "14835":{
-                "district":"52",
-                "name":"Hunter, Duncan L.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "14835":{
-                "district":"52",
-                "name":"Hunter, Duncan L.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "14835":{
-                "district":"52",
-                "name":"Hunter, Duncan L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"California"
+    "district":52,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ca"
 },
   "bbox": [
     -117.06996,

@@ -1,35 +1,13 @@
 {
-  "id": "ny_103_to_105_04",
+  "id": "ny_103_to_105_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"105",
-    "id":"036103105004",
-    "member":{
-        "103":{
-            "29376":{
-                "district":"4",
-                "name":"Levy, David A.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29543":{
-                "district":"4",
-                "name":"Frisa, Daniel",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29744":{
-                "district":"4",
-                "name":"McCarthy, Carolyn",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -73.7682,

@@ -1,49 +1,13 @@
 {
-  "id": "ar_83_to_87_04",
+  "id": "ar_83_to_87_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"87",
-    "id":"005083087004",
-    "member":{
-        "83":{
-            "4110":{
-                "district":"4",
-                "name":"Harris, Oren",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "4110":{
-                "district":"4",
-                "name":"Harris, Oren",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "4110":{
-                "district":"4",
-                "name":"Harris, Oren",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "4110":{
-                "district":"4",
-                "name":"Harris, Oren",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "4110":{
-                "district":"4",
-                "name":"Harris, Oren",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Arkansas"
+    "district":4,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ar"
 },
   "bbox": [
     -94.48587,

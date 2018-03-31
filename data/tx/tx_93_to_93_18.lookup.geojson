@@ -2,20 +2,12 @@
   "id": "tx_93_to_93_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"93",
-    "id":"048093093018",
-    "member":{
-        "93":{
-            "14027":{
-                "district":"18",
-                "name":"Jordan, Barbara",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Texas"
+    "district":18,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tx"
 },
   "bbox": [
     -95.45122,

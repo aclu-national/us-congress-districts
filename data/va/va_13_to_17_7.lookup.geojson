@@ -1,49 +1,13 @@
 {
-  "id": "va_13_to_17_07",
+  "id": "va_13_to_17_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"17",
-    "id":"051013017007",
-    "member":{
-        "13":{
-            "1492":{
-                "district":"7",
-                "name":"Caperton, Hugh",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "8602":{
-                "district":"7",
-                "name":"Smith, Ballard",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "8602":{
-                "district":"7",
-                "name":"Smith, Ballard",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "8602":{
-                "district":"7",
-                "name":"Smith, Ballard",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "8696":{
-                "district":"7",
-                "name":"Smith, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -82.64474,

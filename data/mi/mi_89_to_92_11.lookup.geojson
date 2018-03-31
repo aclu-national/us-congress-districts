@@ -2,41 +2,12 @@
   "id": "mi_89_to_92_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"92",
-    "id":"026089092011",
-    "member":{
-        "89":{
-            "10711":{
-                "district":"11",
-                "name":"Clevenger, Raymond F.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11045":{
-                "district":"11",
-                "name":"Ruppe, Philip E.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11045":{
-                "district":"11",
-                "name":"Ruppe, Philip E.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11045":{
-                "district":"11",
-                "name":"Ruppe, Philip E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Michigan"
+    "district":11,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"mi"
 },
   "bbox": [
     -90.41814,

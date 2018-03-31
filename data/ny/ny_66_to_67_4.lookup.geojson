@@ -1,28 +1,13 @@
 {
-  "id": "ny_66_to_67_04",
+  "id": "ny_66_to_67_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"67",
-    "id":"036066067004",
-    "member":{
-        "66":{
-            "2236":{
-                "district":"4",
-                "name":"Cullen, Thomas Henry",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "2236":{
-                "district":"4",
-                "name":"Cullen, Thomas Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -74.03155,

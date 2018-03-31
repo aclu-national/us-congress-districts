@@ -1,49 +1,13 @@
 {
-  "id": "mo_93_to_97_01",
+  "id": "mo_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"029093097001",
-    "member":{
-        "93":{
-            "12009":{
-                "district":"1",
-                "name":"Clay, William",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "12009":{
-                "district":"1",
-                "name":"Clay, William",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "12009":{
-                "district":"1",
-                "name":"Clay, William",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "12009":{
-                "district":"1",
-                "name":"Clay, William",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "12009":{
-                "district":"1",
-                "name":"Clay, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Missouri"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mo"
 },
   "bbox": [
     -90.3804,

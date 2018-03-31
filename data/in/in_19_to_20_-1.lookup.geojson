@@ -2,15 +2,12 @@
   "id": "in_19_to_20_-1",
   "type": "Feature",
   "properties": {
-    "district":"-1",
-    "endcong":"20",
-    "id":"0180190200-1",
-    "member":{
-        "19":[],
-        "20":[]
-    },
-    "startcong":"19",
-    "statename":"Indiana"
+    "district":-1,
+    "end_date":"1829-03-03",
+    "end_session":20,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"in"
 },
   "bbox": [
     -87.52677,

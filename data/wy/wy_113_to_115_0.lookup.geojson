@@ -1,19 +1,13 @@
 {
-  "id": "wy_113_to_115_00",
+  "id": "wy_113_to_115_0",
   "type": "Feature",
   "properties": {
-    "ALAND":251471646614,
-    "AWATER":1862590113,
-    "CD113FP":"00",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5600",
-    "INTPTLAT":"+42.9918024",
-    "INTPTLON":"-107.5419255",
-    "LSAD":"C1",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District (at Large)",
-    "STATEFP":"56"
+    "district":0,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"wy"
 },
   "bbox": [
     -111.056889,

@@ -2,48 +2,12 @@
   "id": "fl_98_to_102_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"102",
-    "id":"012098102013",
-    "member":{
-        "100":{
-            "15037":{
-                "district":"13",
-                "name":"Mack, Connie",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15605":{
-                "district":"13",
-                "name":"Goss, Porter J.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15605":{
-                "district":"13",
-                "name":"Goss, Porter J.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "15037":{
-                "district":"13",
-                "name":"Mack, Connie",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15037":{
-                "district":"13",
-                "name":"Mack, Connie",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Florida"
+    "district":13,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"fl"
 },
   "bbox": [
     -82.64281,

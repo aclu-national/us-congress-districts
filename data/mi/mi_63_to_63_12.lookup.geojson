@@ -2,25 +2,12 @@
   "id": "mi_63_to_63_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"63",
-    "id":"026063063012",
-    "member":{
-        "63":{
-            "10441":{
-                "district":"12",
-                "name":"Young, Horace Olin",
-                "party":"Republican"
-            },
-            "5874":{
-                "district":"12",
-                "name":"MacDonald, William Josiah",
-                "party":"Progressive"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Michigan"
+    "district":12,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"mi"
 },
   "bbox": [
     -90.41814,

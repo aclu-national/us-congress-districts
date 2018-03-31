@@ -1,70 +1,13 @@
 {
-  "id": "al_65_to_72_01",
+  "id": "al_65_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"001065072001",
-    "member":{
-        "65":{
-            "3770":{
-                "district":"1",
-                "name":"Gray, Oscar Lee",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "6233":{
-                "district":"1",
-                "name":"McDuffie, John",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "6233":{
-                "district":"1",
-                "name":"McDuffie, John",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "6233":{
-                "district":"1",
-                "name":"McDuffie, John",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "6233":{
-                "district":"1",
-                "name":"McDuffie, John",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "6233":{
-                "district":"1",
-                "name":"McDuffie, John",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "6233":{
-                "district":"1",
-                "name":"McDuffie, John",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "6233":{
-                "district":"1",
-                "name":"McDuffie, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Alabama"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

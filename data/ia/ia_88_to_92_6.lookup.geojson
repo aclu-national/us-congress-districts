@@ -1,49 +1,13 @@
 {
-  "id": "ia_88_to_92_06",
+  "id": "ia_88_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"019088092006",
-    "member":{
-        "88":{
-            "4482":{
-                "district":"6",
-                "name":"Hoeven, Charles Bernard",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10730":{
-                "district":"6",
-                "name":"Greigg, Stanley L.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11032":{
-                "district":"6",
-                "name":"Mayne, Wiley",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11032":{
-                "district":"6",
-                "name":"Mayne, Wiley",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11032":{
-                "district":"6",
-                "name":"Mayne, Wiley",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Iowa"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ia"
 },
   "bbox": [
     -96.6397,

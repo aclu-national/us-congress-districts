@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"87",
-    "id":"006083087018",
-    "member":{
-        "83":{
-            "4592":{
-                "district":"18",
-                "name":"Hosmer, Craig",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4592":{
-                "district":"18",
-                "name":"Hosmer, Craig",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4592":{
-                "district":"18",
-                "name":"Hosmer, Craig",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "4592":{
-                "district":"18",
-                "name":"Hosmer, Craig",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "4592":{
-                "district":"18",
-                "name":"Hosmer, Craig",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":18,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -118.2485,

@@ -1,35 +1,13 @@
 {
-  "id": "ga_110_to_112_06",
+  "id": "ga_110_to_112_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"112",
-    "id":"013110112006",
-    "member":{
-        "110":{
-            "20505":{
-                "district":"6",
-                "name":"Price, Tom",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20505":{
-                "district":"6",
-                "name":"Price, Tom",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20505":{
-                "district":"6",
-                "name":"Price, Tom",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"110",
-    "statename":"Georgia"
+    "district":6,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2007-01-04",
+    "start_session":110,
+    "state":"ga"
 },
   "bbox": [
     -84.65923,

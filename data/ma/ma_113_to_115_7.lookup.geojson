@@ -1,19 +1,13 @@
 {
-  "id": "ma_113_to_115_07",
+  "id": "ma_113_to_115_7",
   "type": "Feature",
   "properties": {
-    "ALAND":162421640,
-    "AWATER":97472876,
-    "CD113FP":"07",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2507",
-    "INTPTLAT":"+42.3166876",
-    "INTPTLON":"-071.0094420",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 7",
-    "STATEFP":"25"
+    "district":7,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ma"
 },
   "bbox": [
     -71.174798,

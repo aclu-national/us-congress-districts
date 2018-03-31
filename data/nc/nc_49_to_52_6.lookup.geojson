@@ -1,42 +1,13 @@
 {
-  "id": "nc_49_to_52_06",
+  "id": "nc_49_to_52_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"52",
-    "id":"037049052006",
-    "member":{
-        "49":{
-            "643":{
-                "district":"6",
-                "name":"Bennett, Risden Tyler",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "8095":{
-                "district":"6",
-                "name":"Rowland, Alfred",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "8095":{
-                "district":"6",
-                "name":"Rowland, Alfred",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "90":{
-                "district":"6",
-                "name":"Alexander, Sydenham Benoni",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"nc"
 },
   "bbox": [
     -81.05803,

@@ -1,28 +1,13 @@
 {
-  "id": "ma_15_to_16_02",
+  "id": "ma_15_to_16_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"16",
-    "id":"025015016002",
-    "member":{
-        "15":{
-            "8510":{
-                "district":"2",
-                "name":"Silsbee, Nathaniel",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "8510":{
-                "district":"2",
-                "name":"Silsbee, Nathaniel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"ma"
 },
   "bbox": [
     -71.0829,

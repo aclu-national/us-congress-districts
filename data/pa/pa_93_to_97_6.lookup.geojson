@@ -1,49 +1,13 @@
 {
-  "id": "pa_93_to_97_06",
+  "id": "pa_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"042093097006",
-    "member":{
-        "93":{
-            "12035":{
-                "district":"6",
-                "name":"Yatron, Gus",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "12035":{
-                "district":"6",
-                "name":"Yatron, Gus",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "12035":{
-                "district":"6",
-                "name":"Yatron, Gus",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "12035":{
-                "district":"6",
-                "name":"Yatron, Gus",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "12035":{
-                "district":"6",
-                "name":"Yatron, Gus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -76.70148,

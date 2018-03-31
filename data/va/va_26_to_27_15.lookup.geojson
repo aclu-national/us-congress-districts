@@ -2,27 +2,12 @@
   "id": "va_26_to_27_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"27",
-    "id":"051026027015",
-    "member":{
-        "26":{
-            "5824":{
-                "district":"15",
-                "name":"Lucas, William",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "496":{
-                "district":"15",
-                "name":"Barton, Richard Walker",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"26",
-    "statename":"Virginia"
+    "district":15,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1839-12-02",
+    "start_session":26,
+    "state":"va"
 },
   "bbox": [
     -79.27184,

@@ -2,27 +2,12 @@
   "id": "pa_28_to_29_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"29",
-    "id":"042028029020",
-    "member":{
-        "28":{
-            "2566":{
-                "district":"20",
-                "name":"Dickey, John",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "3039":{
-                "district":"20",
-                "name":"Ewing, John Hoge",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":20,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

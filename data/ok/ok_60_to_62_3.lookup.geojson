@@ -1,35 +1,13 @@
 {
-  "id": "ok_60_to_62_03",
+  "id": "ok_60_to_62_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"62",
-    "id":"040060062003",
-    "member":{
-        "60":{
-            "2356":{
-                "district":"3",
-                "name":"Davenport, James Sanford",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "2167":{
-                "district":"3",
-                "name":"Creager, Charles Edward",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "2356":{
-                "district":"3",
-                "name":"Davenport, James Sanford",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Oklahoma"
+    "district":3,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ok"
 },
   "bbox": [
     -96.77712,

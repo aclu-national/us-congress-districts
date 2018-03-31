@@ -1,28 +1,13 @@
 {
-  "id": "mo_46_to_47_01",
+  "id": "mo_46_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"029046047001",
-    "member":{
-        "46":{
-            "1749":{
-                "district":"1",
-                "name":"Clardy, Martin Linn",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "1749":{
-                "district":"1",
-                "name":"Clardy, Martin Linn",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Missouri"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"mo"
 },
   "bbox": [
     -91.10002,

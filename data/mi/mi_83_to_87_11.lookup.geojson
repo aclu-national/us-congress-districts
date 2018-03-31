@@ -2,48 +2,12 @@
   "id": "mi_83_to_87_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"87",
-    "id":"026083087011",
-    "member":{
-        "83":{
-            "5349":{
-                "district":"11",
-                "name":"Knox, Victor Alfred",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "5349":{
-                "district":"11",
-                "name":"Knox, Victor Alfred",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "5349":{
-                "district":"11",
-                "name":"Knox, Victor Alfred",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "5349":{
-                "district":"11",
-                "name":"Knox, Victor Alfred",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "5349":{
-                "district":"11",
-                "name":"Knox, Victor Alfred",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Michigan"
+    "district":11,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mi"
 },
   "bbox": [
     -87.88824,

@@ -1,35 +1,13 @@
 {
-  "id": "mo_50_to_52_06",
+  "id": "mo_50_to_52_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"52",
-    "id":"029050052006",
-    "member":{
-        "50":{
-            "4265":{
-                "district":"6",
-                "name":"Heard, John Thaddeus",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "4265":{
-                "district":"6",
-                "name":"Heard, John Thaddeus",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "4265":{
-                "district":"6",
-                "name":"Heard, John Thaddeus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Missouri"
+    "district":6,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"mo"
 },
   "bbox": [
     -93.63244,

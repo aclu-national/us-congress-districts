@@ -1,47 +1,13 @@
 {
-  "id": "ct_89_to_92_02",
+  "id": "ct_89_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"009089092002",
-    "member":{
-        "89":{
-            "10627":{
-                "district":"2",
-                "name":"St. Onge, William L.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10627":{
-                "district":"2",
-                "name":"St. Onge, William L.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "10627":{
-                "district":"2",
-                "name":"St. Onge, William L.",
-                "party":"Democrat"
-            },
-            "12047":{
-                "district":"2",
-                "name":"Steele, Robert",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "12047":{
-                "district":"2",
-                "name":"Steele, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Connecticut"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"ct"
 },
   "bbox": [
     -72.75294,

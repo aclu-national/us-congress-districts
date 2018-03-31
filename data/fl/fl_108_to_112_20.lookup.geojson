@@ -2,48 +2,12 @@
   "id": "fl_108_to_112_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"112",
-    "id":"012108112020",
-    "member":{
-        "108":{
-            "29335":{
-                "district":"20",
-                "name":"Deutsch, Peter",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20504":{
-                "district":"20",
-                "name":"Wasserman-schultz, Debbie",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20504":{
-                "district":"20",
-                "name":"Wasserman-schultz, Debbie",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20504":{
-                "district":"20",
-                "name":"Wasserman-schultz, Debbie",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20504":{
-                "district":"20",
-                "name":"Wasserman Schultz, Debbie",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Florida"
+    "district":20,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"fl"
 },
   "bbox": [
     -80.44168,

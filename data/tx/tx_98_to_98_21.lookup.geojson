@@ -2,20 +2,12 @@
   "id": "tx_98_to_98_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"98",
-    "id":"048098098021",
-    "member":{
-        "98":{
-            "14645":{
-                "district":"21",
-                "name":"Loeffler, Thomas Gilbert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Texas"
+    "district":21,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"tx"
 },
   "bbox": [
     -104.98066,

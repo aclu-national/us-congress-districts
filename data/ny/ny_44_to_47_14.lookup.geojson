@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"47",
-    "id":"036044047014",
-    "member":{
-        "44":{
-            "575":{
-                "district":"14",
-                "name":"Beebe, George Monroe",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "575":{
-                "district":"14",
-                "name":"Beebe, George Monroe",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "3108":{
-                "district":"14",
-                "name":"Ferdon, John William",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "538":{
-                "district":"14",
-                "name":"Beach, Lewis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -75.14645,

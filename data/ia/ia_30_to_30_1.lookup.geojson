@@ -1,21 +1,13 @@
 {
-  "id": "ia_30_to_30_01",
+  "id": "ia_30_to_30_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"30",
-    "id":"019030030001",
-    "member":{
-        "30":{
-            "9344":{
-                "district":"1",
-                "name":"Thompson, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Iowa"
+    "district":1,
+    "end_date":"1849-03-03",
+    "end_session":30,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"ia"
 },
   "bbox": [
     -96.13922,

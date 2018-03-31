@@ -1,63 +1,13 @@
 {
-  "id": "ga_53_to_59_06",
+  "id": "ga_53_to_59_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"59",
-    "id":"013053059006",
-    "member":{
-        "53":{
-            "1377":{
-                "district":"6",
-                "name":"Cabaniss, Thomas Banks",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "485":{
-                "district":"6",
-                "name":"Bartlett, Charles Lafayette",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "485":{
-                "district":"6",
-                "name":"Bartlett, Charles Lafayette",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "485":{
-                "district":"6",
-                "name":"Bartlett, Charles Lafayette",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "485":{
-                "district":"6",
-                "name":"Bartlett, Charles Lafayette",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "485":{
-                "district":"6",
-                "name":"Bartlett, Charles Lafayette",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "485":{
-                "district":"6",
-                "name":"Bartlett, Charles Lafayette",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Georgia"
+    "district":6,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ga"
 },
   "bbox": [
     -84.62718,

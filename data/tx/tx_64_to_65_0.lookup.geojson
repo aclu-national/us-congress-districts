@@ -1,38 +1,13 @@
 {
-  "id": "tx_64_to_65_00",
+  "id": "tx_64_to_65_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"65",
-    "id":"048064065000",
-    "member":{
-        "64":{
-            "2390":{
-                "district":"99",
-                "name":"Davis, James Harvey",
-                "party":"Democrat"
-            },
-            "6342":{
-                "district":"99",
-                "name":"McLemore, Atkins Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "3489":{
-                "district":"99",
-                "name":"Garrett, Daniel Edward",
-                "party":"Democrat"
-            },
-            "6342":{
-                "district":"99",
-                "name":"McLemore, Atkins Jefferson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Texas"
+    "district":0,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

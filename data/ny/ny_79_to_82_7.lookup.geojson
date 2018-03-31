@@ -1,42 +1,13 @@
 {
-  "id": "ny_79_to_82_07",
+  "id": "ny_79_to_82_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"82",
-    "id":"036079082007",
-    "member":{
-        "79":{
-            "2477":{
-                "district":"7",
-                "name":"Delaney, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "2477":{
-                "district":"7",
-                "name":"Delaney, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "4290":{
-                "district":"7",
-                "name":"Heller, Louis Benjamin",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "4290":{
-                "district":"7",
-                "name":"Heller, Louis Benjamin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -74.00464,

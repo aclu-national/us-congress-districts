@@ -1,49 +1,13 @@
 {
-  "id": "sc_28_to_32_06",
+  "id": "sc_28_to_32_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"32",
-    "id":"045028032006",
-    "member":{
-        "28":{
-            "4535":{
-                "district":"6",
-                "name":"Holmes, Isaac Edward",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4535":{
-                "district":"6",
-                "name":"Holmes, Isaac Edward",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "4535":{
-                "district":"6",
-                "name":"Holmes, Isaac Edward",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "4535":{
-                "district":"6",
-                "name":"Holmes, Isaac Edward",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "53":{
-                "district":"6",
-                "name":"Aiken, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"South Carolina"
+    "district":6,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"sc"
 },
   "bbox": [
     -80.50279,

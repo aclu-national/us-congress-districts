@@ -2,27 +2,12 @@
   "id": "ny_11_to_12_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"12",
-    "id":"036011012015",
-    "member":{
-        "11":{
-            "7539":{
-                "district":"15",
-                "name":"Porter, Peter Buell",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "7539":{
-                "district":"15",
-                "name":"Porter, Peter Buell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"11",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1809-03-04",
+    "start_session":11,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

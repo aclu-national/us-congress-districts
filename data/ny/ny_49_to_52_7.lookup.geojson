@@ -1,42 +1,13 @@
 {
-  "id": "ny_49_to_52_07",
+  "id": "ny_49_to_52_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"52",
-    "id":"036049052007",
-    "member":{
-        "49":{
-            "33":{
-                "district":"7",
-                "name":"Adams, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "1180":{
-                "district":"7",
-                "name":"Bryce, Lloyd Stephens",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "2779":{
-                "district":"7",
-                "name":"Dunphy, Edward John",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "2779":{
-                "district":"7",
-                "name":"Dunphy, Edward John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -74.00863,

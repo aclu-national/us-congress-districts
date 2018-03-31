@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_27",
   "type": "Feature",
   "properties": {
-    "ALAND":1812793990,
-    "AWATER":7568290,
-    "CD113FP":"27",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0627",
-    "INTPTLAT":"+34.2650833",
-    "INTPTLON":"-117.9348875",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 27",
-    "STATEFP":"06"
+    "district":27,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -118.238808,

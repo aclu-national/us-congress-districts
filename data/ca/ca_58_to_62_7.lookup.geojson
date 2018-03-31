@@ -1,49 +1,13 @@
 {
-  "id": "ca_58_to_62_07",
+  "id": "ca_58_to_62_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"62",
-    "id":"006058062007",
-    "member":{
-        "58":{
-            "6320":{
-                "district":"7",
-                "name":"McLachlan, James",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "6320":{
-                "district":"7",
-                "name":"McLachlan, James",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "6320":{
-                "district":"7",
-                "name":"McLachlan, James",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "6320":{
-                "district":"7",
-                "name":"McLachlan, James",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "8891":{
-                "district":"7",
-                "name":"Stephens, William Dennison",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"California"
+    "district":7,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ca"
 },
   "bbox": [
     -118.9449,

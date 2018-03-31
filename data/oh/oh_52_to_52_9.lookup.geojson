@@ -1,21 +1,13 @@
 {
-  "id": "oh_52_to_52_09",
+  "id": "oh_52_to_52_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"52",
-    "id":"039052052009",
-    "member":{
-        "52":{
-            "7116":{
-                "district":"9",
-                "name":"Outhwaite, Joseph Hodson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Ohio"
+    "district":9,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"oh"
 },
   "bbox": [
     -83.65333,

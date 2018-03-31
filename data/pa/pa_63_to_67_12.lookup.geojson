@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"67",
-    "id":"042063067012",
-    "member":{
-        "63":{
-            "5566":{
-                "district":"12",
-                "name":"Lee, Robert Emmett",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4271":{
-                "district":"12",
-                "name":"Heaton, Robert Douglas",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "4271":{
-                "district":"12",
-                "name":"Heaton, Robert Douglas",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "7773":{
-                "district":"12",
-                "name":"Reber, John",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "7773":{
-                "district":"12",
-                "name":"Reber, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -76.70148,

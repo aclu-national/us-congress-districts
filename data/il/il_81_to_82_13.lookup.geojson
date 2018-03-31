@@ -2,27 +2,12 @@
   "id": "il_81_to_82_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"82",
-    "id":"017081082013",
-    "member":{
-        "81":{
-            "1723":{
-                "district":"13",
-                "name":"Church, Ralph Edwin",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "1722":{
-                "district":"13",
-                "name":"Church, Marguerite Stitt",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"81",
-    "statename":"Illinois"
+    "district":13,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1949-01-03",
+    "start_session":81,
+    "state":"il"
 },
   "bbox": [
     -88.26348,

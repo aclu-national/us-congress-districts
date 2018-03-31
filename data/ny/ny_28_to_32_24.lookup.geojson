@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"32",
-    "id":"036028032024",
-    "member":{
-        "28":{
-            "9982":{
-                "district":"24",
-                "name":"Wheaton, Horace",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "9982":{
-                "district":"24",
-                "name":"Wheaton, Horace",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "3720":{
-                "district":"24",
-                "name":"Gott, Daniel",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "3720":{
-                "district":"24",
-                "name":"Gott, Daniel",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "5027":{
-                "district":"24",
-                "name":"Jones, Daniel Terryll",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":24,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -76.49932,

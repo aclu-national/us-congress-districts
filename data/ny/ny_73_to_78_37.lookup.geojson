@@ -2,55 +2,12 @@
   "id": "ny_73_to_78_37",
   "type": "Feature",
   "properties": {
-    "district":"37",
-    "endcong":"78",
-    "id":"036073078037",
-    "member":{
-        "73":{
-            "8827":{
-                "district":"37",
-                "name":"Stalker, Gale Hamilton",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "1931":{
-                "district":"37",
-                "name":"Cole, William Sterling",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "1931":{
-                "district":"37",
-                "name":"Cole, William Sterling",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "1931":{
-                "district":"37",
-                "name":"Cole, William Sterling",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "1931":{
-                "district":"37",
-                "name":"Cole, William Sterling",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "1931":{
-                "district":"37",
-                "name":"Cole, William Sterling",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":37,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -77.74993,

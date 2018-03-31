@@ -1,35 +1,13 @@
 {
-  "id": "md_90_to_92_05",
+  "id": "md_90_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"024090092005",
-    "member":{
-        "90":{
-            "10752":{
-                "district":"5",
-                "name":"Machen, Hervey",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "12018":{
-                "district":"5",
-                "name":"Hogan, Lawrence J.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "12018":{
-                "district":"5",
-                "name":"Hogan, Lawrence J.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Maryland"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"md"
 },
   "bbox": [
     -77.27422,

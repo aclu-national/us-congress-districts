@@ -2,27 +2,12 @@
   "id": "va_8_to_9_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"9",
-    "id":"051008009018",
-    "member":{
-        "8":{
-            "3691":{
-                "district":"18",
-                "name":"Goodwyn, Peterson",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "3691":{
-                "district":"18",
-                "name":"Goodwyn, Peterson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Virginia"
+    "district":18,
+    "end_date":"1807-03-03",
+    "end_session":9,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"va"
 },
   "bbox": [
     -78.23935,

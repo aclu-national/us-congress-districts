@@ -1,28 +1,13 @@
 {
-  "id": "tx_103_to_104_03",
+  "id": "tx_103_to_104_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"104",
-    "id":"048103104003",
-    "member":{
-        "103":{
-            "29143":{
-                "district":"3",
-                "name":"Johnson, Sam",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29143":{
-                "district":"3",
-                "name":"Johnson, Sam",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Texas"
+    "district":3,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"tx"
 },
   "bbox": [
     -96.8864,

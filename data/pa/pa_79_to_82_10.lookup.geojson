@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"82",
-    "id":"042079082010",
-    "member":{
-        "79":{
-            "6813":{
-                "district":"10",
-                "name":"Murphy, John William",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "8290":{
-                "district":"10",
-                "name":"Scoblick, James Paul",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7078":{
-                "district":"10",
-                "name":"O'Neill, Harry",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7078":{
-                "district":"10",
-                "name":"O'Neill, Harry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -75.8347,

@@ -1,21 +1,13 @@
 {
-  "id": "la_98_to_98_08",
+  "id": "la_98_to_98_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"98",
-    "id":"022098098008",
-    "member":{
-        "98":{
-            "10602":{
-                "district":"8",
-                "name":"Long, Gillis W.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Louisiana"
+    "district":8,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"la"
 },
   "bbox": [
     -92.98146,

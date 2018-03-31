@@ -1,35 +1,13 @@
 {
-  "id": "ma_40_to_42_06",
+  "id": "ma_40_to_42_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"42",
-    "id":"025040042006",
-    "member":{
-        "40":{
-            "409":{
-                "district":"6",
-                "name":"Banks, Nathaniel Prentice",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "409":{
-                "district":"6",
-                "name":"Banks, Nathaniel Prentice",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "409":{
-                "district":"6",
-                "name":"Banks, Nathaniel Prentice",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"ma"
 },
   "bbox": [
     -71.33306,

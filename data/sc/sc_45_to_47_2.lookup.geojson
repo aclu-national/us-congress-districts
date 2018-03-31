@@ -1,45 +1,13 @@
 {
-  "id": "sc_45_to_47_02",
+  "id": "sc_45_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"045045047002",
-    "member":{
-        "45":{
-            "1396":{
-                "district":"2",
-                "name":"Cain, Richard Harvey",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "7019":{
-                "district":"2",
-                "name":"O'Connor, Michael",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "2553":{
-                "district":"2",
-                "name":"Dibble, Samuel",
-                "party":"Democrat"
-            },
-            "5886":{
-                "district":"2",
-                "name":"Mackey, Edmund William M.",
-                "party":"Republican"
-            },
-            "7019":{
-                "district":"2",
-                "name":"O'Connor, Michael",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"South Carolina"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"sc"
 },
   "bbox": [
     -81.37349,

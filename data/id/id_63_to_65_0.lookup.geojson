@@ -1,50 +1,13 @@
 {
-  "id": "id_63_to_65_00",
+  "id": "id_63_to_65_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"65",
-    "id":"016063065000",
-    "member":{
-        "63":{
-            "3367":{
-                "district":"98",
-                "name":"French, Burton Lee",
-                "party":"Republican"
-            },
-            "8598":{
-                "district":"98",
-                "name":"Smith, Addison Taylor",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "6190":{
-                "district":"98",
-                "name":"McCracken, Robert McDowell",
-                "party":"Republican"
-            },
-            "8598":{
-                "district":"98",
-                "name":"Smith, Addison Taylor",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "3367":{
-                "district":"98",
-                "name":"French, Burton Lee",
-                "party":"Republican"
-            },
-            "8598":{
-                "district":"98",
-                "name":"Smith, Addison Taylor",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Idaho"
+    "district":0,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"id"
 },
   "bbox": [
     -117.24303,

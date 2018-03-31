@@ -2,48 +2,12 @@
   "id": "ny_23_to_27_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"27",
-    "id":"036023027014",
-    "member":{
-        "23":{
-            "3598":{
-                "district":"14",
-                "name":"Gillet, Ransom Hooker",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "3598":{
-                "district":"14",
-                "name":"Gillet, Ransom Hooker",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "8785":{
-                "district":"14",
-                "name":"Spencer, James Bradley",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "3148":{
-                "district":"14",
-                "name":"Fine, John",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "9628":{
-                "district":"14",
-                "name":"Van Rensselaer, Henry Bel",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -75.83996,

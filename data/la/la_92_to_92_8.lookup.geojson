@@ -1,21 +1,13 @@
 {
-  "id": "la_92_to_92_08",
+  "id": "la_92_to_92_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"92",
-    "id":"022092092008",
-    "member":{
-        "92":{
-            "10746":{
-                "district":"8",
-                "name":"Long, Speedy O.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"Louisiana"
+    "district":8,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"la"
 },
   "bbox": [
     -93.88248,

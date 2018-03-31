@@ -2,32 +2,12 @@
   "id": "ma_15_to_16_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"16",
-    "id":"025015016020",
-    "member":{
-        "15":{
-            "5667":{
-                "district":"20",
-                "name":"Lincoln, Enoch",
-                "party":"Republican"
-            },
-            "7212":{
-                "district":"20",
-                "name":"Parris, Albion Keith",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "5667":{
-                "district":"20",
-                "name":"Lincoln, Enoch",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Massachusetts"
+    "district":20,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"ma"
 },
   "bbox": [
     -71.08433,

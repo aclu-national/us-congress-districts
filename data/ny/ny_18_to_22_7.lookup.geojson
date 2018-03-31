@@ -1,49 +1,13 @@
 {
-  "id": "ny_18_to_22_07",
+  "id": "ny_18_to_22_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"22",
-    "id":"036018022007",
-    "member":{
-        "18":{
-            "4914":{
-                "district":"7",
-                "name":"Jenkins, Lemuel",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "4167":{
-                "district":"7",
-                "name":"Hasbrouck, Abraham Bruyn",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "591":{
-                "district":"7",
-                "name":"Belden, George Ogilvie",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2545":{
-                "district":"7",
-                "name":"De Witt, Charles Gerrit",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "1059":{
-                "district":"7",
-                "name":"Brodhead, John Curtis",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -75.14645,

@@ -2,41 +2,12 @@
   "id": "pa_109_to_112_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"112",
-    "id":"042109112014",
-    "member":{
-        "109":{
-            "29561":{
-                "district":"14",
-                "name":"Doyle, Mike F.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29561":{
-                "district":"14",
-                "name":"Doyle, Mike F.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29561":{
-                "district":"14",
-                "name":"Doyle, Mike F.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29561":{
-                "district":"14",
-                "name":"Doyle, Mike",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"pa"
 },
   "bbox": [
     -80.17798,

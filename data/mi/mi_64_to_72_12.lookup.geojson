@@ -2,76 +2,12 @@
   "id": "mi_64_to_72_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"72",
-    "id":"026064072012",
-    "member":{
-        "64":{
-            "4887":{
-                "district":"12",
-                "name":"James, William Francis",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "4887":{
-                "district":"12",
-                "name":"James, William Francis",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "4887":{
-                "district":"12",
-                "name":"James, William Francis",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "4887":{
-                "district":"12",
-                "name":"James, William Francis",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "4887":{
-                "district":"12",
-                "name":"James, William Francis",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "4887":{
-                "district":"12",
-                "name":"James, William Francis",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4887":{
-                "district":"12",
-                "name":"James, William Francis",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4887":{
-                "district":"12",
-                "name":"James, William Francis",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4887":{
-                "district":"12",
-                "name":"James, William Francis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Michigan"
+    "district":12,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mi"
 },
   "bbox": [
     -90.41814,

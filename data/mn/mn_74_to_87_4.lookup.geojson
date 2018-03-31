@@ -1,112 +1,13 @@
 {
-  "id": "mn_74_to_87_04",
+  "id": "mn_74_to_87_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"87",
-    "id":"027074087004",
-    "member":{
-        "74":{
-            "5869":{
-                "district":"4",
-                "name":"Maas, Melvin Joseph",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "5869":{
-                "district":"4",
-                "name":"Maas, Melvin Joseph",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "5869":{
-                "district":"4",
-                "name":"Maas, Melvin Joseph",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "5869":{
-                "district":"4",
-                "name":"Maas, Melvin Joseph",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "5869":{
-                "district":"4",
-                "name":"Maas, Melvin Joseph",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "8851":{
-                "district":"4",
-                "name":"Starkey, Frank Thomas",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "2534":{
-                "district":"4",
-                "name":"Devitt, Edward James",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6134":{
-                "district":"4",
-                "name":"McCarthy, Eugene Joseph",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "6134":{
-                "district":"4",
-                "name":"McCarthy, Eugene Joseph",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "6134":{
-                "district":"4",
-                "name":"McCarthy, Eugene Joseph",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "6134":{
-                "district":"4",
-                "name":"McCarthy, Eugene Joseph",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "6134":{
-                "district":"4",
-                "name":"McCarthy, Eugene Joseph",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5098":{
-                "district":"4",
-                "name":"Karth, Joseph Edward",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "5098":{
-                "district":"4",
-                "name":"Karth, Joseph Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Minnesota"
+    "district":4,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mn"
 },
   "bbox": [
     -93.22792,

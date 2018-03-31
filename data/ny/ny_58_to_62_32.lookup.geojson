@@ -2,53 +2,12 @@
   "id": "ny_58_to_62_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"62",
-    "id":"036058062032",
-    "member":{
-        "58":{
-            "7347":{
-                "district":"32",
-                "name":"Perkins, James Breck",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "7347":{
-                "district":"32",
-                "name":"Perkins, James Breck",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "7347":{
-                "district":"32",
-                "name":"Perkins, James Breck",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "4203":{
-                "district":"32",
-                "name":"Havens, James Smith",
-                "party":"Democrat"
-            },
-            "7347":{
-                "district":"32",
-                "name":"Perkins, James Breck",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "2321":{
-                "district":"32",
-                "name":"Danforth, Henry Gold",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":32,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -77.99729,

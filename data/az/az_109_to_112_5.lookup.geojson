@@ -1,42 +1,13 @@
 {
-  "id": "az_109_to_112_05",
+  "id": "az_109_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"004109112005",
-    "member":{
-        "109":{
-            "29502":{
-                "district":"5",
-                "name":"Hayworth, J.d.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20700":{
-                "district":"5",
-                "name":"Mitchell, Harry E.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20700":{
-                "district":"5",
-                "name":"Mitchell, Harry E.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21105":{
-                "district":"5",
-                "name":"Schweikert, David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Arizona"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"az"
 },
   "bbox": [
     -112.148,

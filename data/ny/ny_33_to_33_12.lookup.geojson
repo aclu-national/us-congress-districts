@@ -2,25 +2,12 @@
   "id": "ny_33_to_33_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"33",
-    "id":"036033033012",
-    "member":{
-        "33":{
-            "2445":{
-                "district":"12",
-                "name":"Dean, Gilbert",
-                "party":"Democrat"
-            },
-            "9247":{
-                "district":"12",
-                "name":"Teller, Isaac",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -74.00011,

@@ -1,28 +1,13 @@
 {
-  "id": "ma_15_to_16_06",
+  "id": "ma_15_to_16_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"16",
-    "id":"025015016006",
-    "member":{
-        "15":{
-            "128":{
-                "district":"6",
-                "name":"Allen, Samuel Clesson",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "128":{
-                "district":"6",
-                "name":"Allen, Samuel Clesson",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"ma"
 },
   "bbox": [
     -72.99287,

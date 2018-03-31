@@ -1,77 +1,13 @@
 {
-  "id": "wa_64_to_72_02",
+  "id": "wa_64_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"053064072002",
-    "member":{
-        "64":{
-            "3898":{
-                "district":"2",
-                "name":"Hadley, Lindley Hoag",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "3898":{
-                "district":"2",
-                "name":"Hadley, Lindley Hoag",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "3898":{
-                "district":"2",
-                "name":"Hadley, Lindley Hoag",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3898":{
-                "district":"2",
-                "name":"Hadley, Lindley Hoag",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "3898":{
-                "district":"2",
-                "name":"Hadley, Lindley Hoag",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "3898":{
-                "district":"2",
-                "name":"Hadley, Lindley Hoag",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "3898":{
-                "district":"2",
-                "name":"Hadley, Lindley Hoag",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "3898":{
-                "district":"2",
-                "name":"Hadley, Lindley Hoag",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "3898":{
-                "district":"2",
-                "name":"Hadley, Lindley Hoag",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Washington"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"wa"
 },
   "bbox": [
     -124.76258,

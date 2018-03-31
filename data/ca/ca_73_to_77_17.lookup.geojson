@@ -2,53 +2,12 @@
   "id": "ca_73_to_77_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"77",
-    "id":"006073077017",
-    "member":{
-        "73":{
-            "1919":{
-                "district":"17",
-                "name":"Colden, Charles J.",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "1919":{
-                "district":"17",
-                "name":"Colden, Charles J.",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "1919":{
-                "district":"17",
-                "name":"Colden, Charles J.",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3549":{
-                "district":"17",
-                "name":"Geyer, Lee Edward",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "3549":{
-                "district":"17",
-                "name":"Geyer, Lee Edward",
-                "party":"Democrat"
-            },
-            "5255":{
-                "district":"17",
-                "name":"King, Cecil Rhodes",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"California"
+    "district":17,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ca"
 },
   "bbox": [
     -118.61454,

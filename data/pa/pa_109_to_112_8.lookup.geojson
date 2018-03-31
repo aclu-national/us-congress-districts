@@ -1,42 +1,13 @@
 {
-  "id": "pa_109_to_112_08",
+  "id": "pa_109_to_112_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"112",
-    "id":"042109112008",
-    "member":{
-        "109":{
-            "20524":{
-                "district":"8",
-                "name":"Fitzpatrick, Michael G.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20745":{
-                "district":"8",
-                "name":"Murphy, Patrick J.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20745":{
-                "district":"8",
-                "name":"Murphy, Patrick J.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20524":{
-                "district":"8",
-                "name":"Fitzpatrick, Michael G.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"pa"
 },
   "bbox": [
     -75.48406,

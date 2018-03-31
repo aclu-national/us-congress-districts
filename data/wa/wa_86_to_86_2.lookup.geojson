@@ -1,21 +1,13 @@
 {
-  "id": "wa_86_to_86_02",
+  "id": "wa_86_to_86_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"86",
-    "id":"053086086002",
-    "member":{
-        "86":{
-            "9968":{
-                "district":"2",
-                "name":"Westland, Alfred John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"86",
-    "statename":"Washington"
+    "district":2,
+    "end_date":"1960-09-01",
+    "end_session":86,
+    "start_date":"1959-01-07",
+    "start_session":86,
+    "state":"wa"
 },
   "bbox": [
     -124.76258,

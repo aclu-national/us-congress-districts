@@ -2,27 +2,12 @@
   "id": "ma_15_to_16_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"16",
-    "id":"025015016011",
-    "member":{
-        "15":{
-            "24":{
-                "district":"11",
-                "name":"Adams, Benjamin",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "24":{
-                "district":"11",
-                "name":"Adams, Benjamin",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"ma"
 },
   "bbox": [
     -72.28202,

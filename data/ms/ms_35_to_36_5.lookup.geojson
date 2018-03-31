@@ -1,33 +1,13 @@
 {
-  "id": "ms_35_to_36_05",
+  "id": "ms_35_to_36_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"36",
-    "id":"028035036005",
-    "member":{
-        "35":{
-            "6378":{
-                "district":"5",
-                "name":"McRae, John Jones",
-                "party":"Democrat"
-            },
-            "7681":{
-                "district":"5",
-                "name":"Quitman, John Anthony",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "6378":{
-                "district":"5",
-                "name":"McRae, John Jones",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"35",
-    "statename":"Mississippi"
+    "district":5,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1857-03-04",
+    "start_session":35,
+    "state":"ms"
 },
   "bbox": [
     -91.65501,

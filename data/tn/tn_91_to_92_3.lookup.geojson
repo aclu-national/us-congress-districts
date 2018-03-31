@@ -1,28 +1,13 @@
 {
-  "id": "tn_91_to_92_03",
+  "id": "tn_91_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"047091092003",
-    "member":{
-        "91":{
-            "10571":{
-                "district":"3",
-                "name":"Brock, William E., Iii",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13005":{
-                "district":"3",
-                "name":"Baker, Lamar",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"tn"
 },
   "bbox": [
     -85.87303,

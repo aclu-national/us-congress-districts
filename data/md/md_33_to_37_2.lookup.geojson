@@ -1,49 +1,13 @@
 {
-  "id": "md_33_to_37_02",
+  "id": "md_33_to_37_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"37",
-    "id":"024033037002",
-    "member":{
-        "33":{
-            "8492":{
-                "district":"2",
-                "name":"Shower, Jacob",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "7848":{
-                "district":"2",
-                "name":"Ricaud, James Barroll",
-                "party":"American"
-            }
-        },
-        "35":{
-            "7848":{
-                "district":"2",
-                "name":"Ricaud, James Barroll",
-                "party":"American"
-            }
-        },
-        "36":{
-            "9904":{
-                "district":"2",
-                "name":"Webster, Edwin Hanson",
-                "party":"American"
-            }
-        },
-        "37":{
-            "9904":{
-                "district":"2",
-                "name":"Webster, Edwin Hanson",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Maryland"
+    "district":2,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"md"
 },
   "bbox": [
     -77.31151,

@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"82",
-    "id":"036079082033",
-    "member":{
-        "79":{
-            "9203":{
-                "district":"33",
-                "name":"Taylor, Dean Park",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "9203":{
-                "district":"33",
-                "name":"Taylor, Dean Park",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "9203":{
-                "district":"33",
-                "name":"Taylor, Dean Park",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "9203":{
-                "district":"33",
-                "name":"Taylor, Dean Park",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":33,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -74.33683,

@@ -2,88 +2,12 @@
   "id": "tn_58_to_67_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"67",
-    "id":"047058067010",
-    "member":{
-        "58":{
-            "7251":{
-                "district":"10",
-                "name":"Patterson, Malcolm Rice",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "7251":{
-                "district":"10",
-                "name":"Patterson, Malcolm Rice",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "3694":{
-                "district":"10",
-                "name":"Gordon, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "3694":{
-                "district":"10",
-                "name":"Gordon, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "3694":{
-                "district":"10",
-                "name":"Gordon, George Washington",
-                "party":"Democrat"
-            },
-            "6293":{
-                "district":"10",
-                "name":"McKellar, Kenneth Douglas",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "6293":{
-                "district":"10",
-                "name":"McKellar, Kenneth Douglas",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "6293":{
-                "district":"10",
-                "name":"McKellar, Kenneth Douglas",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "3169":{
-                "district":"10",
-                "name":"Fisher, Hubert Frederick",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "3169":{
-                "district":"10",
-                "name":"Fisher, Hubert Frederick",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "3169":{
-                "district":"10",
-                "name":"Fisher, Hubert Frederick",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Tennessee"
+    "district":10,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

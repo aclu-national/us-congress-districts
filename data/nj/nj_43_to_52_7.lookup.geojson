@@ -1,84 +1,13 @@
 {
-  "id": "nj_43_to_52_07",
+  "id": "nj_43_to_52_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"52",
-    "id":"034043052007",
-    "member":{
-        "43":{
-            "8323":{
-                "district":"7",
-                "name":"Scudder, Isaac Williamson",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "4051":{
-                "district":"7",
-                "name":"Hardenbergh, Augustus Albert",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "4051":{
-                "district":"7",
-                "name":"Hardenbergh, Augustus Albert",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "1037":{
-                "district":"7",
-                "name":"Brigham, Lewis Alexander",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "4051":{
-                "district":"7",
-                "name":"Hardenbergh, Augustus Albert",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "6118":{
-                "district":"7",
-                "name":"McAdoo, William",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "6118":{
-                "district":"7",
-                "name":"McAdoo, William",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "6118":{
-                "district":"7",
-                "name":"McAdoo, William",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "6118":{
-                "district":"7",
-                "name":"McAdoo, William",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "6217":{
-                "district":"7",
-                "name":"McDonald, Edward Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New Jersey"
+    "district":7,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"nj"
 },
   "bbox": [
     -74.16609,

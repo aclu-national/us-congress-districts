@@ -1,33 +1,13 @@
 {
-  "id": "va_26_to_27_01",
+  "id": "va_26_to_27_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"27",
-    "id":"051026027001",
-    "member":{
-        "26":{
-            "4521":{
-                "district":"1",
-                "name":"Holleman, Joel",
-                "party":"Democrat"
-            },
-            "5938":{
-                "district":"1",
-                "name":"Mallory, Francis",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "5938":{
-                "district":"1",
-                "name":"Mallory, Francis",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"26",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1839-12-02",
+    "start_session":26,
+    "state":"va"
 },
   "bbox": [
     -76.93094,

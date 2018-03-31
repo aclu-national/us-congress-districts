@@ -1,35 +1,13 @@
 {
-  "id": "nc_30_to_32_09",
+  "id": "nc_30_to_32_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"32",
-    "id":"037030032009",
-    "member":{
-        "30":{
-            "7118":{
-                "district":"9",
-                "name":"Outlaw, David",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "7118":{
-                "district":"9",
-                "name":"Outlaw, David",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "7118":{
-                "district":"9",
-                "name":"Outlaw, David",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"North Carolina"
+    "district":9,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"nc"
 },
   "bbox": [
     -77.90007,

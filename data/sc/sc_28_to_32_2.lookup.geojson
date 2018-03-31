@@ -1,49 +1,13 @@
 {
-  "id": "sc_28_to_32_02",
+  "id": "sc_28_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"045028032002",
-    "member":{
-        "28":{
-            "8531":{
-                "district":"2",
-                "name":"Simpson, Richard Franklin",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "8531":{
-                "district":"2",
-                "name":"Simpson, Richard Franklin",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "8531":{
-                "district":"2",
-                "name":"Simpson, Richard Franklin",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "7087":{
-                "district":"2",
-                "name":"Orr, James Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "7087":{
-                "district":"2",
-                "name":"Orr, James Lawrence",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"South Carolina"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"sc"
 },
   "bbox": [
     -83.35395,

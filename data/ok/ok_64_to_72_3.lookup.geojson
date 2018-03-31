@@ -1,77 +1,13 @@
 {
-  "id": "ok_64_to_72_03",
+  "id": "ok_64_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"040064072003",
-    "member":{
-        "64":{
-            "1546":{
-                "district":"3",
-                "name":"Carter, Charles David",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "1546":{
-                "district":"3",
-                "name":"Carter, Charles David",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "1546":{
-                "district":"3",
-                "name":"Carter, Charles David",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1546":{
-                "district":"3",
-                "name":"Carter, Charles David",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "1546":{
-                "district":"3",
-                "name":"Carter, Charles David",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1546":{
-                "district":"3",
-                "name":"Carter, Charles David",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "1556":{
-                "district":"3",
-                "name":"Cartwright, Wilburn",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "1556":{
-                "district":"3",
-                "name":"Cartwright, Wilburn",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "1556":{
-                "district":"3",
-                "name":"Cartwright, Wilburn",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Oklahoma"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"ok"
 },
   "bbox": [
     -97.56274,

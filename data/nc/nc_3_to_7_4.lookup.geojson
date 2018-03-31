@@ -1,54 +1,13 @@
 {
-  "id": "nc_3_to_7_04",
+  "id": "nc_3_to_7_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"7",
-    "id":"037003007004",
-    "member":{
-        "3":{
-            "6401":{
-                "district":"4",
-                "name":"Mebane, Alexander",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "9048":{
-                "district":"4",
-                "name":"Strudwick, William Franci",
-                "party":"Federalist"
-            },
-            "9187":{
-                "district":"4",
-                "name":"Tatom, Absalom",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "8837":{
-                "district":"4",
-                "name":"Stanford, Richard",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "8837":{
-                "district":"4",
-                "name":"Stanford, Richard",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "8837":{
-                "district":"4",
-                "name":"Stanford, Richard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"nc"
 },
   "bbox": [
     -80.06674,

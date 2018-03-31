@@ -1,82 +1,13 @@
 {
-  "id": "ky_74_to_82_02",
+  "id": "ky_74_to_82_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"82",
-    "id":"021074082002",
-    "member":{
-        "74":{
-            "1563":{
-                "district":"2",
-                "name":"Cary, Glover H.",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "9672":{
-                "district":"2",
-                "name":"Vincent, Beverly Mills",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "9672":{
-                "district":"2",
-                "name":"Vincent, Beverly Mills",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "9672":{
-                "district":"2",
-                "name":"Vincent, Beverly Mills",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "9672":{
-                "district":"2",
-                "name":"Vincent, Beverly Mills",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "1831":{
-                "district":"2",
-                "name":"Clements, Earle C.",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "10002":{
-                "district":"2",
-                "name":"Whitaker, John Albert",
-                "party":"Democrat"
-            },
-            "1831":{
-                "district":"2",
-                "name":"Clements, Earle C.",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "10002":{
-                "district":"2",
-                "name":"Whitaker, John Albert",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "10002":{
-                "district":"2",
-                "name":"Whitaker, John Albert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Kentucky"
+    "district":2,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"ky"
 },
   "bbox": [
     -88.16021,

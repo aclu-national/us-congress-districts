@@ -2,48 +2,12 @@
   "id": "ma_108_to_112_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"112",
-    "id":"025108112010",
-    "member":{
-        "108":{
-            "29731":{
-                "district":"10",
-                "name":"Delahunt, William D.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29731":{
-                "district":"10",
-                "name":"Delahunt, William D.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29731":{
-                "district":"10",
-                "name":"Delahunt, William D.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29731":{
-                "district":"10",
-                "name":"Delahunt, William D.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21140":{
-                "district":"10",
-                "name":"Keating, Bill",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ma"
 },
   "bbox": [
     -71.09309,

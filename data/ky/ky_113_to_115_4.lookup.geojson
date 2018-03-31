@@ -1,19 +1,13 @@
 {
-  "id": "ky_113_to_115_04",
+  "id": "ky_113_to_115_4",
   "type": "Feature",
   "properties": {
-    "ALAND":11334216706,
-    "AWATER":290253457,
-    "CD113FP":"04",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2104",
-    "INTPTLAT":"+38.5689729",
-    "INTPTLON":"-084.4370062",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 4",
-    "STATEFP":"21"
+    "district":4,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ky"
 },
   "bbox": [
     -85.637861,

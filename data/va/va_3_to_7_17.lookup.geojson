@@ -2,48 +2,12 @@
   "id": "va_3_to_7_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"7",
-    "id":"051003007017",
-    "member":{
-        "3":{
-            "5564":{
-                "district":"17",
-                "name":"Lee, Richard Bland",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "1007":{
-                "district":"17",
-                "name":"Brent, Richard",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "1007":{
-                "district":"17",
-                "name":"Brent, Richard",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "7573":{
-                "district":"17",
-                "name":"Powell, Levin",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "1007":{
-                "district":"17",
-                "name":"Brent, Richard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Virginia"
+    "district":17,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"va"
 },
   "bbox": [
     -77.96204,

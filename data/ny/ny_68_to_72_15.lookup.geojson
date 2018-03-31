@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"72",
-    "id":"036068072015",
-    "member":{
-        "68":{
-            "938":{
-                "district":"15",
-                "name":"Boylan, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "938":{
-                "district":"15",
-                "name":"Boylan, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "938":{
-                "district":"15",
-                "name":"Boylan, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "938":{
-                "district":"15",
-                "name":"Boylan, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "938":{
-                "district":"15",
-                "name":"Boylan, John Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -74.01248,

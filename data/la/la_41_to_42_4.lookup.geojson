@@ -1,33 +1,13 @@
 {
-  "id": "la_41_to_42_04",
+  "id": "la_41_to_42_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"42",
-    "id":"022041042004",
-    "member":{
-        "41":{
-            "6900":{
-                "district":"4",
-                "name":"Newsham, Joseph Parkinson",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "6146":{
-                "district":"4",
-                "name":"McCleery, James",
-                "party":"Republican"
-            },
-            "812":{
-                "district":"4",
-                "name":"Boarman, Alexander \"Aleck\"",
-                "party":"Liberal Republican"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Louisiana"
+    "district":4,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"la"
 },
   "bbox": [
     -94.04334,

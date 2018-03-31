@@ -1,49 +1,13 @@
 {
-  "id": "al_58_to_62_08",
+  "id": "al_58_to_62_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"62",
-    "id":"001058062008",
-    "member":{
-        "58":{
-            "7882":{
-                "district":"8",
-                "name":"Richardson, William",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "7882":{
-                "district":"8",
-                "name":"Richardson, William",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "7882":{
-                "district":"8",
-                "name":"Richardson, William",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "7882":{
-                "district":"8",
-                "name":"Richardson, William",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "7882":{
-                "district":"8",
-                "name":"Richardson, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Alabama"
+    "district":8,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"al"
 },
   "bbox": [
     -88.20296,

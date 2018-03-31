@@ -1,21 +1,13 @@
 {
-  "id": "la_43_to_43_02",
+  "id": "la_43_to_43_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"43",
-    "id":"022043043002",
-    "member":{
-        "43":{
-            "8432":{
-                "district":"2",
-                "name":"Sheldon, Lionel Allen",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Louisiana"
+    "district":2,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"la"
 },
   "bbox": [
     -91.35307,

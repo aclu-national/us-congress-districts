@@ -1,42 +1,13 @@
 {
-  "id": "pa_84_to_87_08",
+  "id": "pa_84_to_87_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"87",
-    "id":"042084087008",
-    "member":{
-        "84":{
-            "5267":{
-                "district":"8",
-                "name":"King, Karl Clarence",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "2266":{
-                "district":"8",
-                "name":"Curtin, Willard Sevier",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "2266":{
-                "district":"8",
-                "name":"Curtin, Willard Sevier",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "2266":{
-                "district":"8",
-                "name":"Curtin, Willard Sevier",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -75.89147,

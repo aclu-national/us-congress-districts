@@ -1,28 +1,13 @@
 {
-  "id": "ky_88_to_89_07",
+  "id": "ky_88_to_89_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"89",
-    "id":"021088089007",
-    "member":{
-        "88":{
-            "7343":{
-                "district":"7",
-                "name":"Perkins, Carl Dewey",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "7343":{
-                "district":"7",
-                "name":"Perkins, Carl Dewey",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Kentucky"
+    "district":7,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ky"
 },
   "bbox": [
     -83.99152,

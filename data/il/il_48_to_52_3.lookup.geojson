@@ -1,49 +1,13 @@
 {
-  "id": "il_48_to_52_03",
+  "id": "il_48_to_52_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"52",
-    "id":"017048052003",
-    "member":{
-        "48":{
-            "2381":{
-                "district":"3",
-                "name":"Davis, George Royal",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "9815":{
-                "district":"3",
-                "name":"Ward, James Hugh",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "6065":{
-                "district":"3",
-                "name":"Mason, William Ernest",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "6065":{
-                "district":"3",
-                "name":"Mason, William Ernest",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "2785":{
-                "district":"3",
-                "name":"Durborow, Allan Cartheart",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":3,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -87.7263,

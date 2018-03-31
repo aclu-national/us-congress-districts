@@ -1,21 +1,13 @@
 {
-  "id": "nc_48_to_48_04",
+  "id": "nc_48_to_48_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"48",
-    "id":"037048048004",
-    "member":{
-        "48":{
-            "2120":{
-                "district":"4",
-                "name":"Cox, William Ruffin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"nc"
 },
   "bbox": [
     -79.5559,

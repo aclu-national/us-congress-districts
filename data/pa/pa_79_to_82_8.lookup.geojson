@@ -1,52 +1,13 @@
 {
-  "id": "pa_79_to_82_08",
+  "id": "pa_79_to_82_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"82",
-    "id":"042079082008",
-    "member":{
-        "79":{
-            "3538":{
-                "district":"8",
-                "name":"Gerlach, Charles Lewis",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3538":{
-                "district":"8",
-                "name":"Gerlach, Charles Lewis",
-                "party":"Republican"
-            },
-            "5656":{
-                "district":"8",
-                "name":"Lichtenwalter, Franklin H",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "5656":{
-                "district":"8",
-                "name":"Lichtenwalter, Franklin H",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "5267":{
-                "district":"8",
-                "name":"King, Karl Clarence",
-                "party":"Republican"
-            },
-            "9653":{
-                "district":"8",
-                "name":"Vaughn, Albert Clinton, S",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -75.89147,

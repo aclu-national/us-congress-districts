@@ -1,47 +1,13 @@
 {
-  "id": "wi_89_to_92_07",
+  "id": "wi_89_to_92_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"92",
-    "id":"055089092007",
-    "member":{
-        "89":{
-            "5410":{
-                "district":"7",
-                "name":"Laird, Melvin Robert",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "5410":{
-                "district":"7",
-                "name":"Laird, Melvin Robert",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "12036":{
-                "district":"7",
-                "name":"Obey, David R.",
-                "party":"Democrat"
-            },
-            "5410":{
-                "district":"7",
-                "name":"Laird, Melvin Robert",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "12036":{
-                "district":"7",
-                "name":"Obey, David R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Wisconsin"
+    "district":7,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"wi"
 },
   "bbox": [
     -90.92604,

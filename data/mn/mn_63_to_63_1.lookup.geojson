@@ -1,21 +1,13 @@
 {
-  "id": "mn_63_to_63_01",
+  "id": "mn_63_to_63_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"63",
-    "id":"027063063001",
-    "member":{
-        "63":{
-            "182":{
-                "district":"1",
-                "name":"Anderson, Sydney",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Minnesota"
+    "district":1,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"mn"
 },
   "bbox": [
     -93.76842,

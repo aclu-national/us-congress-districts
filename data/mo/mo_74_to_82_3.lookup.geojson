@@ -1,77 +1,13 @@
 {
-  "id": "mo_74_to_82_03",
+  "id": "mo_74_to_82_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"82",
-    "id":"029074082003",
-    "member":{
-        "74":{
-            "2761":{
-                "district":"3",
-                "name":"Duncan, Richard Meloan",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2761":{
-                "district":"3",
-                "name":"Duncan, Richard Meloan",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2761":{
-                "district":"3",
-                "name":"Duncan, Richard Meloan",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2761":{
-                "district":"3",
-                "name":"Duncan, Richard Meloan",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "1928":{
-                "district":"3",
-                "name":"Cole, William Clay",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "1928":{
-                "district":"3",
-                "name":"Cole, William Clay",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "1928":{
-                "district":"3",
-                "name":"Cole, William Clay",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "9927":{
-                "district":"3",
-                "name":"Welch, Philip James",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "9927":{
-                "district":"3",
-                "name":"Welch, Philip James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Missouri"
+    "district":3,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mo"
 },
   "bbox": [
     -95.7747,

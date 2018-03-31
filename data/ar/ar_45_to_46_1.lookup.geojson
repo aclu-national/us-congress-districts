@@ -1,28 +1,13 @@
 {
-  "id": "ar_45_to_46_01",
+  "id": "ar_45_to_46_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"46",
-    "id":"005045046001",
-    "member":{
-        "45":{
-            "3508":{
-                "district":"1",
-                "name":"Gause, Lucien Coatsworth",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "2775":{
-                "district":"1",
-                "name":"Dunn, Poindexter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Arkansas"
+    "district":1,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"ar"
 },
   "bbox": [
     -92.12134,

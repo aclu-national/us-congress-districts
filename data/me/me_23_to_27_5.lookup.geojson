@@ -1,54 +1,13 @@
 {
-  "id": "me_23_to_27_05",
+  "id": "me_23_to_27_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"27",
-    "id":"023023027005",
-    "member":{
-        "23":{
-            "6060":{
-                "district":"5",
-                "name":"Mason, Moses Jr.",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "6060":{
-                "district":"5",
-                "name":"Mason, Moses Jr.",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "1551":{
-                "district":"5",
-                "name":"Carter, Timothy Jarvis",
-                "party":"Democrat"
-            },
-            "7213":{
-                "district":"5",
-                "name":"Parris, Virgil Delphini",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "7213":{
-                "district":"5",
-                "name":"Parris, Virgil Delphini",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "5706":{
-                "district":"5",
-                "name":"Littlefield, Nathaniel Sw",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Maine"
+    "district":5,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"me"
 },
   "bbox": [
     -71.08433,

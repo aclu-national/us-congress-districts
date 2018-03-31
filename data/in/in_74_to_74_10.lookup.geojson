@@ -2,20 +2,12 @@
   "id": "in_74_to_74_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"74",
-    "id":"018074074010",
-    "member":{
-        "74":{
-            "3764":{
-                "district":"10",
-                "name":"Gray, Finly Hutchinson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Indiana"
+    "district":10,
+    "end_date":"1936-06-20",
+    "end_session":74,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"in"
 },
   "bbox": [
     -85.95353,

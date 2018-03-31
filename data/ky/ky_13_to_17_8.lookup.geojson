@@ -1,49 +1,13 @@
 {
-  "id": "ky_13_to_17_08",
+  "id": "ky_13_to_17_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"17",
-    "id":"021013017008",
-    "member":{
-        "13":{
-            "7083":{
-                "district":"8",
-                "name":"Ormsby, Stephen",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "7083":{
-                "district":"8",
-                "name":"Ormsby, Stephen",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "179":{
-                "district":"8",
-                "name":"Anderson, Richard Clough",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "179":{
-                "district":"8",
-                "name":"Anderson, Richard Clough",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "993":{
-                "district":"8",
-                "name":"Breckinridge, James Dougl",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Kentucky"
+    "district":8,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ky"
 },
   "bbox": [
     -85.94854,

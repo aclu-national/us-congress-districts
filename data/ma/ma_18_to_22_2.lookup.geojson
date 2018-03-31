@@ -1,49 +1,13 @@
 {
-  "id": "ma_18_to_22_02",
+  "id": "ma_18_to_22_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"22",
-    "id":"025018022002",
-    "member":{
-        "18":{
-            "2213":{
-                "district":"2",
-                "name":"Crowninshield, Benjamin Williams",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "2213":{
-                "district":"2",
-                "name":"Crowninshield, Benjamin Williams",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "2213":{
-                "district":"2",
-                "name":"Crowninshield, Benjamin Williams",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "2213":{
-                "district":"2",
-                "name":"Crowninshield, Benjamin Williams",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "1711":{
-                "district":"2",
-                "name":"Choate, Rufus",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ma"
 },
   "bbox": [
     -71.0829,

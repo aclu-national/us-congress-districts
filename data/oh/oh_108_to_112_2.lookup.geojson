@@ -1,54 +1,13 @@
 {
-  "id": "oh_108_to_112_02",
+  "id": "oh_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"039108112002",
-    "member":{
-        "108":{
-            "29386":{
-                "district":"2",
-                "name":"Portman, Rob",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20540":{
-                "district":"2",
-                "name":"Schmidt, Jean",
-                "party":"Republican"
-            },
-            "29386":{
-                "district":"2",
-                "name":"Portman, Rob",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20540":{
-                "district":"2",
-                "name":"Schmidt, Jean",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20540":{
-                "district":"2",
-                "name":"Schmidt, Jean",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20540":{
-                "district":"2",
-                "name":"Schmidt, Jean",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"oh"
 },
   "bbox": [
     -84.51364,

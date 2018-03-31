@@ -1,42 +1,13 @@
 {
-  "id": "me_29_to_32_06",
+  "id": "me_29_to_32_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"32",
-    "id":"023029032006",
-    "member":{
-        "29":{
-            "4001":{
-                "district":"6",
-                "name":"Hamlin, Hannibal",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "10112":{
-                "district":"6",
-                "name":"Wiley, James Sullivan",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "8903":{
-                "district":"6",
-                "name":"Stetson, Charles",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "9851":{
-                "district":"6",
-                "name":"Washburn, Isreal, Jr.",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"Maine"
+    "district":6,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"me"
 },
   "bbox": [
     -69.83319,

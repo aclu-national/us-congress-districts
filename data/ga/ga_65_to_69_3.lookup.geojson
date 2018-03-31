@@ -1,49 +1,13 @@
 {
-  "id": "ga_65_to_69_03",
+  "id": "ga_65_to_69_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"69",
-    "id":"013065069003",
-    "member":{
-        "65":{
-            "2178":{
-                "district":"3",
-                "name":"Crisp, Charles Robert",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "2178":{
-                "district":"3",
-                "name":"Crisp, Charles Robert",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "2178":{
-                "district":"3",
-                "name":"Crisp, Charles Robert",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "2178":{
-                "district":"3",
-                "name":"Crisp, Charles Robert",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2178":{
-                "district":"3",
-                "name":"Crisp, Charles Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Georgia"
+    "district":3,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ga"
 },
   "bbox": [
     -85.14193,

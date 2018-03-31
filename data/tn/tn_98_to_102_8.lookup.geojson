@@ -1,49 +1,13 @@
 {
-  "id": "tn_98_to_102_08",
+  "id": "tn_98_to_102_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"102",
-    "id":"047098102008",
-    "member":{
-        "100":{
-            "12038":{
-                "district":"8",
-                "name":"Jones, Edward",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15628":{
-                "district":"8",
-                "name":"Tanner, John",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15628":{
-                "district":"8",
-                "name":"Tanner, John",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "12038":{
-                "district":"8",
-                "name":"Jones, Edward",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "12038":{
-                "district":"8",
-                "name":"Jones, Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"tn"
 },
   "bbox": [
     -90.17889,

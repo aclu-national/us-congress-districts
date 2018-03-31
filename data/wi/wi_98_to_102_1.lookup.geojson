@@ -1,49 +1,13 @@
 {
-  "id": "wi_98_to_102_01",
+  "id": "wi_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"055098102001",
-    "member":{
-        "100":{
-            "13003":{
-                "district":"1",
-                "name":"Aspin, Les",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "13003":{
-                "district":"1",
-                "name":"Aspin, Les",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "13003":{
-                "district":"1",
-                "name":"Aspin, Les",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "13003":{
-                "district":"1",
-                "name":"Aspin, Les",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "13003":{
-                "district":"1",
-                "name":"Aspin, Les",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Wisconsin"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"wi"
 },
   "bbox": [
     -89.8375,

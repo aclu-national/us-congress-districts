@@ -1,49 +1,13 @@
 {
-  "id": "mn_58_to_62_08",
+  "id": "mn_58_to_62_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"62",
-    "id":"027058062008",
-    "member":{
-        "58":{
-            "568":{
-                "district":"8",
-                "name":"Bede, James Adam",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "568":{
-                "district":"8",
-                "name":"Bede, James Adam",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "568":{
-                "district":"8",
-                "name":"Bede, James Adam",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "6476":{
-                "district":"8",
-                "name":"Miller, Clarence Benjamin",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "6476":{
-                "district":"8",
-                "name":"Miller, Clarence Benjamin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Minnesota"
+    "district":8,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"mn"
 },
   "bbox": [
     -94.43035,

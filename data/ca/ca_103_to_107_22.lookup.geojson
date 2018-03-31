@@ -2,53 +2,12 @@
   "id": "ca_103_to_107_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"107",
-    "id":"006103107022",
-    "member":{
-        "103":{
-            "29314":{
-                "district":"22",
-                "name":"Huffington, Michael",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29506":{
-                "district":"22",
-                "name":"Seastrand, Andrea H.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29706":{
-                "district":"22",
-                "name":"Capps, Walter",
-                "party":"Democrat"
-            },
-            "29774":{
-                "district":"22",
-                "name":"Capps, Lois",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29774":{
-                "district":"22",
-                "name":"Capps, Lois",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29774":{
-                "district":"22",
-                "name":"Capps, Lois",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"California"
+    "district":22,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ca"
 },
   "bbox": [
     -121.34636,

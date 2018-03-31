@@ -2,34 +2,12 @@
   "id": "ma_55_to_57_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"57",
-    "id":"025055057010",
-    "member":{
-        "55":{
-            "472":{
-                "district":"10",
-                "name":"Barrows, Samuel June",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "6841":{
-                "district":"10",
-                "name":"Naphen, Henry Francis",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "6841":{
-                "district":"10",
-                "name":"Naphen, Henry Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"ma"
 },
   "bbox": [
     -71.13076,

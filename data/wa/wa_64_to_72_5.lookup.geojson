@@ -1,82 +1,13 @@
 {
-  "id": "wa_64_to_72_05",
+  "id": "wa_64_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"053064072005",
-    "member":{
-        "64":{
-            "2595":{
-                "district":"5",
-                "name":"Dill, Clarence Cleveland",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "2595":{
-                "district":"5",
-                "name":"Dill, Clarence Cleveland",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "9905":{
-                "district":"5",
-                "name":"Webster, John Stanley",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9905":{
-                "district":"5",
-                "name":"Webster, John Stanley",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "4423":{
-                "district":"5",
-                "name":"Hill, Samuel Billingsley",
-                "party":"Democrat"
-            },
-            "9905":{
-                "district":"5",
-                "name":"Webster, John Stanley",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "4423":{
-                "district":"5",
-                "name":"Hill, Samuel Billingsley",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "4423":{
-                "district":"5",
-                "name":"Hill, Samuel Billingsley",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "4423":{
-                "district":"5",
-                "name":"Hill, Samuel Billingsley",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "4423":{
-                "district":"5",
-                "name":"Hill, Samuel Billingsley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Washington"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"wa"
 },
   "bbox": [
     -121.18071,

@@ -1,28 +1,13 @@
 {
-  "id": "tn_6_to_7_00",
+  "id": "tn_6_to_7_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"7",
-    "id":"047006007000",
-    "member":{
-        "6":{
-            "1741":{
-                "district":"1",
-                "name":"Claiborne, William Charles Cole",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "2583":{
-                "district":"1",
-                "name":"Dickson, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"6",
-    "statename":"Tennessee"
+    "district":0,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1799-12-02",
+    "start_session":6,
+    "state":"tn"
 },
   "bbox": [
     -88.07053,

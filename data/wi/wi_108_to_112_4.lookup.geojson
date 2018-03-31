@@ -1,49 +1,13 @@
 {
-  "id": "wi_108_to_112_04",
+  "id": "wi_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"055108112004",
-    "member":{
-        "108":{
-            "15082":{
-                "district":"4",
-                "name":"Kleczka, Gerald D.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20537":{
-                "district":"4",
-                "name":"Moore, Gwen",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20537":{
-                "district":"4",
-                "name":"Moore, Gwen",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20537":{
-                "district":"4",
-                "name":"Moore, Gwen",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20537":{
-                "district":"4",
-                "name":"Moore, Gwen",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Wisconsin"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"wi"
 },
   "bbox": [
     -88.06619,

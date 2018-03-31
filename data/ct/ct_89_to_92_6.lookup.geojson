@@ -1,42 +1,13 @@
 {
-  "id": "ct_89_to_92_06",
+  "id": "ct_89_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"009089092006",
-    "member":{
-        "89":{
-            "10590":{
-                "district":"6",
-                "name":"Grabowski, Bernard F.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11033":{
-                "district":"6",
-                "name":"Meskill, Thomas J.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11033":{
-                "district":"6",
-                "name":"Meskill, Thomas J.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13016":{
-                "district":"6",
-                "name":"Grasso, Ella",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Connecticut"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"ct"
 },
   "bbox": [
     -73.53703,

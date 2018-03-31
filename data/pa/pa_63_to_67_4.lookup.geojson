@@ -1,49 +1,13 @@
 {
-  "id": "pa_63_to_67_04",
+  "id": "pa_63_to_67_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"67",
-    "id":"042063067004",
-    "member":{
-        "63":{
-            "2853":{
-                "district":"4",
-                "name":"Edmonds, George Washington",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "2853":{
-                "district":"4",
-                "name":"Edmonds, George Washington",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "2853":{
-                "district":"4",
-                "name":"Edmonds, George Washington",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "2853":{
-                "district":"4",
-                "name":"Edmonds, George Washington",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "2853":{
-                "district":"4",
-                "name":"Edmonds, George Washington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -75.20457,

@@ -1,49 +1,13 @@
 {
-  "id": "mn_58_to_62_06",
+  "id": "mn_58_to_62_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"62",
-    "id":"027058062006",
-    "member":{
-        "58":{
-            "1209":{
-                "district":"6",
-                "name":"Buckman, Clarence Bennett",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "1209":{
-                "district":"6",
-                "name":"Buckman, Clarence Bennett",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5673":{
-                "district":"6",
-                "name":"Lindbergh, Charles August",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "5673":{
-                "district":"6",
-                "name":"Lindbergh, Charles August",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5673":{
-                "district":"6",
-                "name":"Lindbergh, Charles August",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Minnesota"
+    "district":6,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"mn"
 },
   "bbox": [
     -95.76994,

@@ -1,49 +1,13 @@
 {
-  "id": "tn_28_to_32_06",
+  "id": "tn_28_to_32_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"32",
-    "id":"047028032006",
-    "member":{
-        "28":{
-            "1094":{
-                "district":"6",
-                "name":"Brown, Aaron Venable",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "6014":{
-                "district":"6",
-                "name":"Martin, Barclay",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "9296":{
-                "district":"6",
-                "name":"Thomas, James Houston",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "9296":{
-                "district":"6",
-                "name":"Thomas, James Houston",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "7510":{
-                "district":"6",
-                "name":"Polk, William Hawkins",
-                "party":"Ind. Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"tn"
 },
   "bbox": [
     -88.38051,

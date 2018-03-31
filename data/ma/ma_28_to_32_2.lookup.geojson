@@ -1,54 +1,13 @@
 {
-  "id": "ma_28_to_32_02",
+  "id": "ma_28_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"025028032002",
-    "member":{
-        "28":{
-            "5257":{
-                "district":"2",
-                "name":"King, Daniel Putnam",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "5257":{
-                "district":"2",
-                "name":"King, Daniel Putnam",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "5257":{
-                "district":"2",
-                "name":"King, Daniel Putnam",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "5257":{
-                "district":"2",
-                "name":"King, Daniel Putnam",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "3084":{
-                "district":"2",
-                "name":"Fay, Francis Ball",
-                "party":"Whig"
-            },
-            "7738":{
-                "district":"2",
-                "name":"Rantoul, Robert, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ma"
 },
   "bbox": [
     -71.14986,

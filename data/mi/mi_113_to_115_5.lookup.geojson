@@ -1,19 +1,13 @@
 {
-  "id": "mi_113_to_115_05",
+  "id": "mi_113_to_115_5",
   "type": "Feature",
   "properties": {
-    "ALAND":6083648709,
-    "AWATER":4835319595,
-    "CD113FP":"05",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2605",
-    "INTPTLAT":"+44.0818763",
-    "INTPTLON":"-083.6900106",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 5",
-    "STATEFP":"26"
+    "district":5,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mi"
 },
   "bbox": [
     -84.168127,

@@ -1,49 +1,13 @@
 {
-  "id": "sc_3_to_7_03",
+  "id": "sc_3_to_7_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"7",
-    "id":"045003007003",
-    "member":{
-        "3":{
-            "656":{
-                "district":"3",
-                "name":"Benton, Lemuel",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "656":{
-                "district":"3",
-                "name":"Benton, Lemuel",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "656":{
-                "district":"3",
-                "name":"Benton, Lemuel",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "4694":{
-                "district":"3",
-                "name":"Huger, Benjamin",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "4694":{
-                "district":"3",
-                "name":"Huger, Benjamin",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"sc"
 },
   "bbox": [
     -80.56393,

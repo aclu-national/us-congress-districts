@@ -1,66 +1,13 @@
 {
-  "id": "ga_28_to_28_00",
+  "id": "ga_28_to_28_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"28",
-    "id":"013028028000",
-    "member":{
-        "28":{
-            "1661":{
-                "district":"98",
-                "name":"Chappell, Absalom Harris",
-                "party":"Whig"
-            },
-            "1843":{
-                "district":"98",
-                "name":"Clinch, Duncan Lamont",
-                "party":"Whig"
-            },
-            "1867":{
-                "district":"98",
-                "name":"Cobb, Howell",
-                "party":"Democrat"
-            },
-            "2053":{
-                "district":"98",
-                "name":"Cooper, Mark Anthony",
-                "party":"Democrat"
-            },
-            "4046":{
-                "district":"98",
-                "name":"Haralson, Hugh Anderson",
-                "party":"Democrat"
-            },
-            "5836":{
-                "district":"98",
-                "name":"Lumpkin, John Henry",
-                "party":"Democrat"
-            },
-            "6473":{
-                "district":"98",
-                "name":"Millen, John",
-                "party":"Democrat"
-            },
-            "738":{
-                "district":"98",
-                "name":"Black, Edward Junius",
-                "party":"Democrat"
-            },
-            "8885":{
-                "district":"98",
-                "name":"Stephens, Alexander Hamilton",
-                "party":"Whig"
-            },
-            "8951":{
-                "district":"98",
-                "name":"Stiles, William Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Georgia"
+    "district":0,
+    "end_date":"1845-03-03",
+    "end_session":28,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ga"
 },
   "bbox": [
     -85.60517,

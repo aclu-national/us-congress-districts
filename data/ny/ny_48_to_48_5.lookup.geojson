@@ -1,21 +1,13 @@
 {
-  "id": "ny_48_to_48_05",
+  "id": "ny_48_to_48_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"48",
-    "id":"036048048005",
-    "member":{
-        "48":{
-            "6789":{
-                "district":"5",
-                "name":"Muller, Nicholas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -74.04718,

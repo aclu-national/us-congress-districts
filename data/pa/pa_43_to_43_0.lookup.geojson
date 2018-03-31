@@ -1,31 +1,13 @@
 {
-  "id": "pa_43_to_43_00",
+  "id": "pa_43_to_43_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"43",
-    "id":"042043043000",
-    "member":{
-        "43":{
-            "65":{
-                "district":"99",
-                "name":"Albright, Charles",
-                "party":"Republican"
-            },
-            "8291":{
-                "district":"99",
-                "name":"Scofield, Glenni William",
-                "party":"Republican"
-            },
-            "9405":{
-                "district":"99",
-                "name":"Todd, Lemuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Pennsylvania"
+    "district":0,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

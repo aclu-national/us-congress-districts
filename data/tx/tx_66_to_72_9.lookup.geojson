@@ -1,63 +1,13 @@
 {
-  "id": "tx_66_to_72_09",
+  "id": "tx_66_to_72_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"72",
-    "id":"048066072009",
-    "member":{
-        "66":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":9,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -97.85878,

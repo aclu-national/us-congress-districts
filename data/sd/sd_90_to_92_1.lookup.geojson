@@ -1,35 +1,13 @@
 {
-  "id": "sd_90_to_92_01",
+  "id": "sd_90_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"046090092001",
-    "member":{
-        "90":{
-            "10548":{
-                "district":"1",
-                "name":"Reifel, Ben",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10548":{
-                "district":"1",
-                "name":"Reifel, Ben",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13012":{
-                "district":"1",
-                "name":"Denholm, Frank",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"South Dakota"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"sd"
 },
   "bbox": [
     -98.72539,

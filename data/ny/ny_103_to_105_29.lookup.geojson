@@ -2,34 +2,12 @@
   "id": "ny_103_to_105_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"105",
-    "id":"036103105029",
-    "member":{
-        "103":{
-            "14248":{
-                "district":"29",
-                "name":"Lafalce, John",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "14248":{
-                "district":"29",
-                "name":"Lafalce, John",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "14248":{
-                "district":"29",
-                "name":"Lafalce, John J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -79.0756,

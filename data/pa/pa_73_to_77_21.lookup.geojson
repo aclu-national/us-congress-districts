@@ -2,48 +2,12 @@
   "id": "pa_73_to_77_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"77",
-    "id":"042073077021",
-    "member":{
-        "73":{
-            "9791":{
-                "district":"21",
-                "name":"Walter, Francis Eugene",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "9791":{
-                "district":"21",
-                "name":"Walter, Francis Eugene",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "9791":{
-                "district":"21",
-                "name":"Walter, Francis Eugene",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "9791":{
-                "district":"21",
-                "name":"Walter, Francis Eugene",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "9791":{
-                "district":"21",
-                "name":"Walter, Francis Eugene",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Pennsylvania"
+    "district":21,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"pa"
 },
   "bbox": [
     -75.99735,

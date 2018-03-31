@@ -1,54 +1,13 @@
 {
-  "id": "md_93_to_97_01",
+  "id": "md_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"024093097001",
-    "member":{
-        "93":{
-            "13049":{
-                "district":"1",
-                "name":"Mills, William",
-                "party":"Republican"
-            },
-            "14069":{
-                "district":"1",
-                "name":"Bauman, Robert",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14069":{
-                "district":"1",
-                "name":"Bauman, Robert",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14069":{
-                "district":"1",
-                "name":"Bauman, Robert",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14069":{
-                "district":"1",
-                "name":"Bauman, Robert",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14817":{
-                "district":"1",
-                "name":"Dyson, Royden",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"md"
 },
   "bbox": [
     -77.27422,

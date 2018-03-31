@@ -1,70 +1,13 @@
 {
-  "id": "al_65_to_72_08",
+  "id": "al_65_to_72_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"72",
-    "id":"001065072008",
-    "member":{
-        "65":{
-            "143":{
-                "district":"8",
-                "name":"Almon, Edward Berton",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "143":{
-                "district":"8",
-                "name":"Almon, Edward Berton",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "143":{
-                "district":"8",
-                "name":"Almon, Edward Berton",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "143":{
-                "district":"8",
-                "name":"Almon, Edward Berton",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "143":{
-                "district":"8",
-                "name":"Almon, Edward Berton",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "143":{
-                "district":"8",
-                "name":"Almon, Edward Berton",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "143":{
-                "district":"8",
-                "name":"Almon, Edward Berton",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "143":{
-                "district":"8",
-                "name":"Almon, Edward Berton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Alabama"
+    "district":8,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"al"
 },
   "bbox": [
     -88.20296,

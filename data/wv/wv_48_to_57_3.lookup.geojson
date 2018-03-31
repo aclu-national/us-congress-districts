@@ -1,84 +1,13 @@
 {
-  "id": "wv_48_to_57_03",
+  "id": "wv_48_to_57_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"57",
-    "id":"054048057003",
-    "member":{
-        "48":{
-            "8732":{
-                "district":"3",
-                "name":"Snyder, Charles Philip",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "8732":{
-                "district":"3",
-                "name":"Snyder, Charles Philip",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "8732":{
-                "district":"3",
-                "name":"Snyder, Charles Philip",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "68":{
-                "district":"3",
-                "name":"Alderson, John Duffy",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "68":{
-                "district":"3",
-                "name":"Alderson, John Duffy",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "68":{
-                "district":"3",
-                "name":"Alderson, John Duffy",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "4715":{
-                "district":"3",
-                "name":"Huling, James Hall",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2673":{
-                "district":"3",
-                "name":"Dorr, Charles Philips",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "5002":{
-                "district":"3",
-                "name":"Johnston, David Emmons",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "3426":{
-                "district":"3",
-                "name":"Gaines, Joseph Holt",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"West Virginia"
+    "district":3,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"wv"
 },
   "bbox": [
     -82.42048,

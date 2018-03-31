@@ -2,48 +2,12 @@
   "id": "oh_93_to_97_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"97",
-    "id":"039093097014",
-    "member":{
-        "93":{
-            "13040":{
-                "district":"14",
-                "name":"Seiberling, John",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "13040":{
-                "district":"14",
-                "name":"Seiberling, John",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "13040":{
-                "district":"14",
-                "name":"Seiberling, John",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "13040":{
-                "district":"14",
-                "name":"Seiberling, John",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "13040":{
-                "district":"14",
-                "name":"Seiberling, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"oh"
 },
   "bbox": [
     -81.68685,

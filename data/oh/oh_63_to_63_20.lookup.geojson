@@ -2,20 +2,12 @@
   "id": "oh_63_to_63_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"63",
-    "id":"039063063020",
-    "member":{
-        "63":{
-            "3702":{
-                "district":"20",
-                "name":"Gordon, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Ohio"
+    "district":20,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"oh"
 },
   "bbox": [
     -82.17342,

@@ -1,35 +1,13 @@
 {
-  "id": "al_34_to_36_04",
+  "id": "al_34_to_36_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"36",
-    "id":"001034036004",
-    "member":{
-        "34":{
-            "8706":{
-                "district":"4",
-                "name":"Smith, William Russell",
-                "party":"American"
-            }
-        },
-        "35":{
-            "6652":{
-                "district":"4",
-                "name":"Moore, Sydenham",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "6652":{
-                "district":"4",
-                "name":"Moore, Sydenham",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Alabama"
+    "district":4,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"al"
 },
   "bbox": [
     -88.42145,

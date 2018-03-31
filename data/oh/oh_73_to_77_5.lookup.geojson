@@ -1,49 +1,13 @@
 {
-  "id": "oh_73_to_77_05",
+  "id": "oh_73_to_77_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"77",
-    "id":"039073077005",
-    "member":{
-        "73":{
-            "5335":{
-                "district":"5",
-                "name":"Kniffin, Frank Charles",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "5335":{
-                "district":"5",
-                "name":"Kniffin, Frank Charles",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5335":{
-                "district":"5",
-                "name":"Kniffin, Frank Charles",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "1839":{
-                "district":"5",
-                "name":"Clevenger, Cliff",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "1839":{
-                "district":"5",
-                "name":"Clevenger, Cliff",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"oh"
 },
   "bbox": [
     -84.80618,

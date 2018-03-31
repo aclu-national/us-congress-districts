@@ -1,54 +1,13 @@
 {
-  "id": "ri_43_to_47_01",
+  "id": "ri_43_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"044043047001",
-    "member":{
-        "43":{
-            "2811":{
-                "district":"1",
-                "name":"Eames, Benjamin Tucker",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "2811":{
-                "district":"1",
-                "name":"Eames, Benjamin Tucker",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "2811":{
-                "district":"1",
-                "name":"Eames, Benjamin Tucker",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "71":{
-                "district":"1",
-                "name":"Aldrich, Nelson Wilmarth",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "71":{
-                "district":"1",
-                "name":"Aldrich, Nelson Wilmarth",
-                "party":"Republican"
-            },
-            "8799":{
-                "district":"1",
-                "name":"Spooner, Henry Joshua",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Rhode Island"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ri"
 },
   "bbox": [
     -71.61313,

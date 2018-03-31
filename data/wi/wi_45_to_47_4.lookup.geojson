@@ -1,35 +1,13 @@
 {
-  "id": "wi_45_to_47_04",
+  "id": "wi_45_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"055045047004",
-    "member":{
-        "45":{
-            "5860":{
-                "district":"4",
-                "name":"Lynde, William Pitt",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "2530":{
-                "district":"4",
-                "name":"Deuster, Peter Victor",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "2530":{
-                "district":"4",
-                "name":"Deuster, Peter Victor",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Wisconsin"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"wi"
 },
   "bbox": [
     -88.41954,

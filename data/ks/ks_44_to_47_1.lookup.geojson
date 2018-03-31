@@ -1,42 +1,13 @@
 {
-  "id": "ks_44_to_47_01",
+  "id": "ks_44_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"020044047001",
-    "member":{
-        "44":{
-            "7420":{
-                "district":"1",
-                "name":"Phillips, William Addison",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "7420":{
-                "district":"1",
-                "name":"Phillips, William Addison",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "172":{
-                "district":"1",
-                "name":"Anderson, John Alexander",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "172":{
-                "district":"1",
-                "name":"Anderson, John Alexander",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Kansas"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ks"
 },
   "bbox": [
     -102.05177,

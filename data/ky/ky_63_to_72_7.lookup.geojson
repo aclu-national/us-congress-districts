@@ -1,89 +1,13 @@
 {
-  "id": "ky_63_to_72_07",
+  "id": "ky_63_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"021063072007",
-    "member":{
-        "63":{
-            "1488":{
-                "district":"7",
-                "name":"Cantrill, James Campbell",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "1488":{
-                "district":"7",
-                "name":"Cantrill, James Campbell",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "1488":{
-                "district":"7",
-                "name":"Cantrill, James Campbell",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "1488":{
-                "district":"7",
-                "name":"Cantrill, James Campbell",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1488":{
-                "district":"7",
-                "name":"Cantrill, James Campbell",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "1488":{
-                "district":"7",
-                "name":"Cantrill, James Campbell",
-                "party":"Democrat"
-            },
-            "6708":{
-                "district":"7",
-                "name":"Morris, Joseph Watkins",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1659":{
-                "district":"7",
-                "name":"Chapman, Virgil Munday",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "1659":{
-                "district":"7",
-                "name":"Chapman, Virgil Munday",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "752":{
-                "district":"7",
-                "name":"Blackburn, Robert E. Lee",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "1659":{
-                "district":"7",
-                "name":"Chapman, Virgil Munday",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Kentucky"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ky"
 },
   "bbox": [
     -85.63796,

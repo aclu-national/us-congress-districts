@@ -2,48 +2,12 @@
   "id": "il_83_to_87_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"87",
-    "id":"017083087025",
-    "member":{
-        "83":{
-            "731":{
-                "district":"25",
-                "name":"Bishop, Cecil William \"Runt\"",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "3769":{
-                "district":"25",
-                "name":"Gray, Kenneth James",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "3769":{
-                "district":"25",
-                "name":"Gray, Kenneth James",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "3769":{
-                "district":"25",
-                "name":"Gray, Kenneth James",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "3769":{
-                "district":"25",
-                "name":"Gray, Kenneth James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":25,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -90.37408,

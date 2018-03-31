@@ -1,42 +1,13 @@
 {
-  "id": "sc_33_to_36_06",
+  "id": "sc_33_to_36_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"36",
-    "id":"045033036006",
-    "member":{
-        "33":{
-            "926":{
-                "district":"6",
-                "name":"Boyce, William Waters",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "926":{
-                "district":"6",
-                "name":"Boyce, William Waters",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "926":{
-                "district":"6",
-                "name":"Boyce, William Waters",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "926":{
-                "district":"6",
-                "name":"Boyce, William Waters",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"South Carolina"
+    "district":6,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"sc"
 },
   "bbox": [
     -81.61835,

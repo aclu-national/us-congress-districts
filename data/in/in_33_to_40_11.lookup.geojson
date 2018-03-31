@@ -2,69 +2,12 @@
   "id": "in_33_to_40_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"40",
-    "id":"018033040011",
-    "member":{
-        "33":{
-            "4074":{
-                "district":"11",
-                "name":"Harlan, Andrew Jackson",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "7384":{
-                "district":"11",
-                "name":"Pettit, John Upfold",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "7384":{
-                "district":"11",
-                "name":"Pettit, John Upfold",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "7384":{
-                "district":"11",
-                "name":"Pettit, John Upfold",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "8398":{
-                "district":"11",
-                "name":"Shanks, John Peter Cleave",
-                "party":"Republican"
-            }
-        },
-        "38":{
-            "6226":{
-                "district":"11",
-                "name":"McDowell, James Foster",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "8952":{
-                "district":"11",
-                "name":"Stillwell, Thomas Neel",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "8398":{
-                "district":"11",
-                "name":"Shanks, John Peter Cleave",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Indiana"
+    "district":11,
+    "end_date":"1869-03-03",
+    "end_session":40,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"in"
 },
   "bbox": [
     -86.37576,

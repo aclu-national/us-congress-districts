@@ -2,20 +2,12 @@
   "id": "ny_33_to_33_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"33",
-    "id":"036033033014",
-    "member":{
-        "33":{
-            "7298":{
-                "district":"14",
-                "name":"Peckham, Rufus Wheeler",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -74.26486,

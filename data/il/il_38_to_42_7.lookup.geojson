@@ -1,49 +1,13 @@
 {
-  "id": "il_38_to_42_07",
+  "id": "il_38_to_42_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"42",
-    "id":"017038042007",
-    "member":{
-        "38":{
-            "2843":{
-                "district":"7",
-                "name":"Eden, John Rice",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "1064":{
-                "district":"7",
-                "name":"Bromwell, Henry Pelham Holmes",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "1064":{
-                "district":"7",
-                "name":"Bromwell, Henry Pelham Holmes",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "6636":{
-                "district":"7",
-                "name":"Moore, Jesse Hale",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "6636":{
-                "district":"7",
-                "name":"Moore, Jesse Hale",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Illinois"
+    "district":7,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"il"
 },
   "bbox": [
     -89.2179,

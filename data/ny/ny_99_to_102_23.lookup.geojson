@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"102",
-    "id":"036099102023",
-    "member":{
-        "100":{
-            "9017":{
-                "district":"23",
-                "name":"Stratton, Samuel Studdiford",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15614":{
-                "district":"23",
-                "name":"McNulty, Michael R.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15614":{
-                "district":"23",
-                "name":"McNulty, Michael R.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "9017":{
-                "district":"23",
-                "name":"Stratton, Samuel Studdiford",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -74.3054,

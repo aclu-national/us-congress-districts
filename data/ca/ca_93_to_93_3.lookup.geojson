@@ -1,21 +1,13 @@
 {
-  "id": "ca_93_to_93_03",
+  "id": "ca_93_to_93_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"93",
-    "id":"006093093003",
-    "member":{
-        "93":{
-            "6756":{
-                "district":"3",
-                "name":"Moss, John Emerson, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"California"
+    "district":3,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ca"
 },
   "bbox": [
     -121.55917,

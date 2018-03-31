@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_40",
   "type": "Feature",
   "properties": {
-    "district":"40",
-    "endcong":"72",
-    "id":"036068072040",
-    "member":{
-        "68":{
-            "2491":{
-                "district":"40",
-                "name":"Dempsey, Stephen Wallace",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "2491":{
-                "district":"40",
-                "name":"Dempsey, Stephen Wallace",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "2491":{
-                "district":"40",
-                "name":"Dempsey, Stephen Wallace",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2491":{
-                "district":"40",
-                "name":"Dempsey, Stephen Wallace",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "200":{
-                "district":"40",
-                "name":"Andrews, Walter Gresham",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":40,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

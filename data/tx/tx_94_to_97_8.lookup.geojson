@@ -1,42 +1,13 @@
 {
-  "id": "tx_94_to_97_08",
+  "id": "tx_94_to_97_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"97",
-    "id":"048094097008",
-    "member":{
-        "94":{
-            "11013":{
-                "district":"8",
-                "name":"Eckhardt, Bob",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "11013":{
-                "district":"8",
-                "name":"Eckhardt, Bob",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "11013":{
-                "district":"8",
-                "name":"Eckhardt, Bob",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14822":{
-                "district":"8",
-                "name":"Fields, Jack",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"Texas"
+    "district":8,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"tx"
 },
   "bbox": [
     -95.53404,

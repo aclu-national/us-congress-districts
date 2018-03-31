@@ -1,49 +1,13 @@
 {
-  "id": "ny_108_to_112_03",
+  "id": "ny_108_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"036108112003",
-    "member":{
-        "108":{
-            "29375":{
-                "district":"3",
-                "name":"King, Peter T.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29375":{
-                "district":"3",
-                "name":"King, Peter T.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29375":{
-                "district":"3",
-                "name":"King, Peter T.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29375":{
-                "district":"3",
-                "name":"King, Peter T.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "29375":{
-                "district":"3",
-                "name":"King, Peter T.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -73.70528,

@@ -2,48 +2,12 @@
   "id": "tn_23_to_27_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"27",
-    "id":"047023027012",
-    "member":{
-        "23":{
-            "2187":{
-                "district":"12",
-                "name":"Crockett, David",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "4771":{
-                "district":"12",
-                "name":"Huntsman, Adam",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "2188":{
-                "district":"12",
-                "name":"Crockett, John Wesley",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "2188":{
-                "district":"12",
-                "name":"Crockett, John Wesley",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "1128":{
-                "district":"12",
-                "name":"Brown, Milton",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Tennessee"
+    "district":12,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"tn"
 },
   "bbox": [
     -89.77361,

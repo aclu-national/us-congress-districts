@@ -1,49 +1,13 @@
 {
-  "id": "pa_8_to_12_08",
+  "id": "pa_8_to_12_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"12",
-    "id":"042008012008",
-    "member":{
-        "10":{
-            "3147":{
-                "district":"8",
-                "name":"Findley, William",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "3147":{
-                "district":"8",
-                "name":"Findley, William",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "3147":{
-                "district":"8",
-                "name":"Findley, William",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "3147":{
-                "district":"8",
-                "name":"Findley, William",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "3147":{
-                "district":"8",
-                "name":"Findley, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"pa"
 },
   "bbox": [
     -79.90495,

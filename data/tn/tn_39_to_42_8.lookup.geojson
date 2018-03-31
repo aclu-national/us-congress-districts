@@ -1,42 +1,13 @@
 {
-  "id": "tn_39_to_42_08",
+  "id": "tn_39_to_42_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"42",
-    "id":"047039042008",
-    "member":{
-        "39":{
-            "5585":{
-                "district":"8",
-                "name":"Leftwich, John William",
-                "party":"Unionist"
-            }
-        },
-        "40":{
-            "6987":{
-                "district":"8",
-                "name":"Nunn, David Alexander",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "8701":{
-                "district":"8",
-                "name":"Smith, William Jay",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "9652":{
-                "district":"8",
-                "name":"Vaughan, William Wirt",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"39",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1865-03-04",
+    "start_session":39,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

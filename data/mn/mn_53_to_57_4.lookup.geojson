@@ -1,49 +1,13 @@
 {
-  "id": "mn_53_to_57_04",
+  "id": "mn_53_to_57_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"57",
-    "id":"027053057004",
-    "member":{
-        "53":{
-            "5231":{
-                "district":"4",
-                "name":"Kiefer, Andrew Robert",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "5231":{
-                "district":"4",
-                "name":"Kiefer, Andrew Robert",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "8908":{
-                "district":"4",
-                "name":"Stevens, Frederick Clement",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "8908":{
-                "district":"4",
-                "name":"Stevens, Frederick Clement",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "8908":{
-                "district":"4",
-                "name":"Stevens, Frederick Clement",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Minnesota"
+    "district":4,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mn"
 },
   "bbox": [
     -93.5189,

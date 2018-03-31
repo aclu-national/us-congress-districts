@@ -1,21 +1,13 @@
 {
-  "id": "nc_48_to_48_02",
+  "id": "nc_48_to_48_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"48",
-    "id":"037048048002",
-    "member":{
-        "48":{
-            "7042":{
-                "district":"2",
-                "name":"O'Hara, James E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"North Carolina"
+    "district":2,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"nc"
 },
   "bbox": [
     -78.41844,

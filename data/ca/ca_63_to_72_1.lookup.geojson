@@ -1,84 +1,13 @@
 {
-  "id": "ca_63_to_72_01",
+  "id": "ca_63_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"006063072001",
-    "member":{
-        "63":{
-            "5196":{
-                "district":"1",
-                "name":"Kent, William",
-                "party":"Independent"
-            }
-        },
-        "64":{
-            "5196":{
-                "district":"1",
-                "name":"Kent, William",
-                "party":"Independent"
-            }
-        },
-        "65":{
-            "5531":{
-                "district":"1",
-                "name":"Lea, Clarence Frederick",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "5531":{
-                "district":"1",
-                "name":"Lea, Clarence Frederick",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5531":{
-                "district":"1",
-                "name":"Lea, Clarence Frederick",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "5531":{
-                "district":"1",
-                "name":"Lea, Clarence Frederick",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "5531":{
-                "district":"1",
-                "name":"Lea, Clarence Frederick",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "5531":{
-                "district":"1",
-                "name":"Lea, Clarence Frederick",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "5531":{
-                "district":"1",
-                "name":"Lea, Clarence Frederick",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "5531":{
-                "district":"1",
-                "name":"Lea, Clarence Frederick",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"California"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ca"
 },
   "bbox": [
     -124.41501,

@@ -1,49 +1,13 @@
 {
-  "id": "ne_48_to_52_03",
+  "id": "ne_48_to_52_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"52",
-    "id":"031048052003",
-    "member":{
-        "48":{
-            "9586":{
-                "district":"3",
-                "name":"Valentine, Edward Kimble",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "2676":{
-                "district":"3",
-                "name":"Dorsey, George Washington",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "2676":{
-                "district":"3",
-                "name":"Dorsey, George Washington",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "2676":{
-                "district":"3",
-                "name":"Dorsey, George Washington",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "5159":{
-                "district":"3",
-                "name":"Kem, Omer Madison",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Nebraska"
+    "district":3,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ne"
 },
   "bbox": [
     -104.05351,

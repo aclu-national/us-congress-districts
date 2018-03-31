@@ -1,28 +1,13 @@
 {
-  "id": "ok_91_to_92_01",
+  "id": "ok_91_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"040091092001",
-    "member":{
-        "91":{
-            "590":{
-                "district":"1",
-                "name":"Belcher, Page Henry",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "590":{
-                "district":"1",
-                "name":"Belcher, Page Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Oklahoma"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ok"
 },
   "bbox": [
     -96.62303,

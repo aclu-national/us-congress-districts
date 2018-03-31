@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"67",
-    "id":"042063067025",
-    "member":{
-        "63":{
-            "8493":{
-                "district":"25",
-                "name":"Shreve, Milton William",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "5658":{
-                "district":"25",
-                "name":"Liebel, Michael Jr.",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "1765":{
-                "district":"25",
-                "name":"Clark, Henry Alden",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "8493":{
-                "district":"25",
-                "name":"Shreve, Milton William",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "8493":{
-                "district":"25",
-                "name":"Shreve, Milton William",
-                "party":"Ind. Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":25,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

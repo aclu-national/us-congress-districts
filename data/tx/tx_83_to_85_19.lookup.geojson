@@ -2,34 +2,12 @@
   "id": "tx_83_to_85_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"85",
-    "id":"048083085019",
-    "member":{
-        "83":{
-            "5924":{
-                "district":"19",
-                "name":"Mahon, George Herman",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5924":{
-                "district":"19",
-                "name":"Mahon, George Herman",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5924":{
-                "district":"19",
-                "name":"Mahon, George Herman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Texas"
+    "district":19,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tx"
 },
   "bbox": [
     -103.06508,

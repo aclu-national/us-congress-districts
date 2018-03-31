@@ -2,48 +2,12 @@
   "id": "oh_93_to_97_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"97",
-    "id":"039093097023",
-    "member":{
-        "93":{
-            "6548":{
-                "district":"23",
-                "name":"Minshall, William Edwin, Jr.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14260":{
-                "district":"23",
-                "name":"Mottl, Ronald",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14260":{
-                "district":"23",
-                "name":"Mottl, Ronald",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14260":{
-                "district":"23",
-                "name":"Mottl, Ronald",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14260":{
-                "district":"23",
-                "name":"Mottl, Ronald",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Ohio"
+    "district":23,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"oh"
 },
   "bbox": [
     -81.97126,

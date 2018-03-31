@@ -1,77 +1,13 @@
 {
-  "id": "mo_74_to_82_02",
+  "id": "mo_74_to_82_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"82",
-    "id":"029074082002",
-    "member":{
-        "74":{
-            "6876":{
-                "district":"2",
-                "name":"Nelson, William Lester",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "6876":{
-                "district":"2",
-                "name":"Nelson, William Lester",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "6876":{
-                "district":"2",
-                "name":"Nelson, William Lester",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "6876":{
-                "district":"2",
-                "name":"Nelson, William Lester",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "8284":{
-                "district":"2",
-                "name":"Schwabe, Max",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "8284":{
-                "district":"2",
-                "name":"Schwabe, Max",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "8284":{
-                "district":"2",
-                "name":"Schwabe, Max",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6765":{
-                "district":"2",
-                "name":"Moulder, Morgan Moore",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "6765":{
-                "district":"2",
-                "name":"Moulder, Morgan Moore",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Missouri"
+    "district":2,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mo"
 },
   "bbox": [
     -94.11427,

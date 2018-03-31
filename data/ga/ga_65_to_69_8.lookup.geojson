@@ -1,49 +1,13 @@
 {
-  "id": "ga_65_to_69_08",
+  "id": "ga_65_to_69_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"69",
-    "id":"013065069008",
-    "member":{
-        "65":{
-            "976":{
-                "district":"8",
-                "name":"Brand, Charles Hillyer",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "976":{
-                "district":"8",
-                "name":"Brand, Charles Hillyer",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "976":{
-                "district":"8",
-                "name":"Brand, Charles Hillyer",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "976":{
-                "district":"8",
-                "name":"Brand, Charles Hillyer",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "976":{
-                "district":"8",
-                "name":"Brand, Charles Hillyer",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Georgia"
+    "district":8,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ga"
 },
   "bbox": [
     -84.05504,

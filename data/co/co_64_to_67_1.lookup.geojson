@@ -1,42 +1,13 @@
 {
-  "id": "co_64_to_67_01",
+  "id": "co_64_to_67_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"67",
-    "id":"008064067001",
-    "member":{
-        "64":{
-            "4435":{
-                "district":"1",
-                "name":"Hilliard, Benjamin Clark",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "4435":{
-                "district":"1",
-                "name":"Hilliard, Benjamin Clark",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "9585":{
-                "district":"1",
-                "name":"Vaile, William Newell",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9585":{
-                "district":"1",
-                "name":"Vaile, William Newell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Colorado"
+    "district":1,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"co"
 },
   "bbox": [
     -105.05337,

@@ -1,49 +1,13 @@
 {
-  "id": "mn_98_to_102_01",
+  "id": "mn_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"027098102001",
-    "member":{
-        "100":{
-            "15052":{
-                "district":"1",
-                "name":"Penny, Timothy",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15052":{
-                "district":"1",
-                "name":"Penny, Timothy",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15052":{
-                "district":"1",
-                "name":"Penny, Timothy",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "15052":{
-                "district":"1",
-                "name":"Penny, Timothy",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15052":{
-                "district":"1",
-                "name":"Penny, Timothy",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Minnesota"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"mn"
 },
   "bbox": [
     -94.37165,

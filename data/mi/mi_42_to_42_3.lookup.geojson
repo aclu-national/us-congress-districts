@@ -1,21 +1,13 @@
 {
-  "id": "mi_42_to_42_03",
+  "id": "mi_42_to_42_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"42",
-    "id":"026042042003",
-    "member":{
-        "42":{
-            "762":{
-                "district":"3",
-                "name":"Blair, Austin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"42",
-    "statename":"Michigan"
+    "district":3,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1871-03-04",
+    "start_session":42,
+    "state":"mi"
 },
   "bbox": [
     -85.2994,

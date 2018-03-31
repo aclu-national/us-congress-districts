@@ -2,46 +2,12 @@
   "id": "pa_23_to_26_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"26",
-    "id":"042023026014",
-    "member":{
-        "23":{
-            "4313":{
-                "district":"14",
-                "name":"Henderson, Joseph",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "4313":{
-                "district":"14",
-                "name":"Henderson, Joseph",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "7560":{
-                "district":"14",
-                "name":"Potter, William Wilson",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "6200":{
-                "district":"14",
-                "name":"McCulloch, George",
-                "party":"Democrat"
-            },
-            "7560":{
-                "district":"14",
-                "name":"Potter, William Wilson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -78.55126,

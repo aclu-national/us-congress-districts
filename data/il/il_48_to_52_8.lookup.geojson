@@ -1,49 +1,13 @@
 {
-  "id": "il_48_to_52_08",
+  "id": "il_48_to_52_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"52",
-    "id":"017048052008",
-    "member":{
-        "48":{
-            "2237":{
-                "district":"8",
-                "name":"Cullen, William",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "7490":{
-                "district":"8",
-                "name":"Plumb, Ralph",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "7490":{
-                "district":"8",
-                "name":"Plumb, Ralph",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "4406":{
-                "district":"8",
-                "name":"Hill, Charles Augustus",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "8925":{
-                "district":"8",
-                "name":"Steward, Lewis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":8,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -89.1672,

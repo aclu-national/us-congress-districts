@@ -1,84 +1,13 @@
 {
-  "id": "me_63_to_72_04",
+  "id": "me_63_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"023063072004",
-    "member":{
-        "63":{
-            "3870":{
-                "district":"4",
-                "name":"Guernsey, Frank Edward",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "3870":{
-                "district":"4",
-                "name":"Guernsey, Frank Edward",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "4368":{
-                "district":"4",
-                "name":"Hersey, Ira Greenlief",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "4368":{
-                "district":"4",
-                "name":"Hersey, Ira Greenlief",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "4368":{
-                "district":"4",
-                "name":"Hersey, Ira Greenlief",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "4368":{
-                "district":"4",
-                "name":"Hersey, Ira Greenlief",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "4368":{
-                "district":"4",
-                "name":"Hersey, Ira Greenlief",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4368":{
-                "district":"4",
-                "name":"Hersey, Ira Greenlief",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8728":{
-                "district":"4",
-                "name":"Snow, Donald Francis",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "8728":{
-                "district":"4",
-                "name":"Snow, Donald Francis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Maine"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"me"
 },
   "bbox": [
     -70.02323,

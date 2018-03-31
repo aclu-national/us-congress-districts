@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"47",
-    "id":"036044047019",
-    "member":{
-        "44":{
-            "9995":{
-                "district":"19",
-                "name":"Wheeler, William Almon",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "4879":{
-                "district":"19",
-                "name":"James, Amaziah Bailey",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "4879":{
-                "district":"19",
-                "name":"James, Amaziah Bailey",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "7187":{
-                "district":"19",
-                "name":"Parker, Abraham X.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":19,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -75.83996,

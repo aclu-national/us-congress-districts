@@ -2,48 +2,12 @@
   "id": "ca_108_to_112_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"112",
-    "id":"006108112026",
-    "member":{
-        "108":{
-            "14813":{
-                "district":"26",
-                "name":"Dreier, David",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "14813":{
-                "district":"26",
-                "name":"Dreier, David",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "14813":{
-                "district":"26",
-                "name":"Dreier, David",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "14813":{
-                "district":"26",
-                "name":"Dreier, David",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "14813":{
-                "district":"26",
-                "name":"Dreier, David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":26,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -118.24871,

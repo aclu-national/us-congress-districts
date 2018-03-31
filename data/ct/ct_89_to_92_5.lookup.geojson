@@ -1,42 +1,13 @@
 {
-  "id": "ct_89_to_92_05",
+  "id": "ct_89_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"009089092005",
-    "member":{
-        "89":{
-            "6586":{
-                "district":"5",
-                "name":"Monagan, John Stephen",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "6586":{
-                "district":"5",
-                "name":"Monagan, John Stephen",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "6586":{
-                "district":"5",
-                "name":"Monagan, John Stephen",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "6586":{
-                "district":"5",
-                "name":"Monagan, John Stephen",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Connecticut"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"ct"
 },
   "bbox": [
     -73.55096,

@@ -1,28 +1,13 @@
 {
-  "id": "ms_83_to_84_01",
+  "id": "ms_83_to_84_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"84",
-    "id":"028083084001",
-    "member":{
-        "83":{
-            "13":{
-                "district":"1",
-                "name":"Abernethy, Thomas Gerstle",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "13":{
-                "district":"1",
-                "name":"Abernethy, Thomas Gerstle",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Mississippi"
+    "district":1,
+    "end_date":"1956-07-27",
+    "end_session":84,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ms"
 },
   "bbox": [
     -89.96596,

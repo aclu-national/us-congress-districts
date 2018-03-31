@@ -2,20 +2,12 @@
   "id": "ny_93_to_93_35",
   "type": "Feature",
   "properties": {
-    "district":"35",
-    "endcong":"93",
-    "id":"036093093035",
-    "member":{
-        "93":{
-            "10712":{
-                "district":"35",
-                "name":"Conable, Barber B., Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New York"
+    "district":35,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ny"
 },
   "bbox": [
     -78.48814,

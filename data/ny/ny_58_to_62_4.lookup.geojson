@@ -1,49 +1,13 @@
 {
-  "id": "ny_58_to_62_04",
+  "id": "ny_58_to_62_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"62",
-    "id":"036058062004",
-    "member":{
-        "58":{
-            "10220":{
-                "district":"4",
-                "name":"Wilson, Frank Eugene",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "5501":{
-                "district":"4",
-                "name":"Law, Charles Blakeslee",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5501":{
-                "district":"4",
-                "name":"Law, Charles Blakeslee",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "5501":{
-                "district":"4",
-                "name":"Law, Charles Blakeslee",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "10220":{
-                "district":"4",
-                "name":"Wilson, Frank Eugene",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -74.013,

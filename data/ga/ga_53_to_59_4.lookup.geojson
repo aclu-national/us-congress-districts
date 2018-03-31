@@ -1,63 +1,13 @@
 {
-  "id": "ga_53_to_59_04",
+  "id": "ga_53_to_59_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"59",
-    "id":"013053059004",
-    "member":{
-        "53":{
-            "6749":{
-                "district":"4",
-                "name":"Moses, Charles Leavell",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "6749":{
-                "district":"4",
-                "name":"Moses, Charles Leavell",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "44":{
-                "district":"4",
-                "name":"Adamson, William Charles",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "44":{
-                "district":"4",
-                "name":"Adamson, William Charles",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "44":{
-                "district":"4",
-                "name":"Adamson, William Charles",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "44":{
-                "district":"4",
-                "name":"Adamson, William Charles",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "44":{
-                "district":"4",
-                "name":"Adamson, William Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Georgia"
+    "district":4,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ga"
 },
   "bbox": [
     -85.33823,

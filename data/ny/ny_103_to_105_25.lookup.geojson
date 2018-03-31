@@ -2,34 +2,12 @@
   "id": "ny_103_to_105_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"105",
-    "id":"036103105025",
-    "member":{
-        "103":{
-            "15630":{
-                "district":"25",
-                "name":"Walsh, James T.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15630":{
-                "district":"25",
-                "name":"Walsh, James T.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15630":{
-                "district":"25",
-                "name":"Walsh, James T.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -76.7383,

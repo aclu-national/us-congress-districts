@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"97",
-    "id":"006094097021",
-    "member":{
-        "94":{
-            "10511":{
-                "district":"21",
-                "name":"Corman, James C.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10511":{
-                "district":"21",
-                "name":"Corman, James C.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10511":{
-                "district":"21",
-                "name":"Corman, James C.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14821":{
-                "district":"21",
-                "name":"Fiedler, Bobbi",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":21,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -118.55352,

@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"90",
-    "id":"036088090028",
-    "member":{
-        "88":{
-            "9978":{
-                "district":"28",
-                "name":"Wharton, James Ernest",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10764":{
-                "district":"28",
-                "name":"Resnick, Joseph Y.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10764":{
-                "district":"28",
-                "name":"Resnick, Joseph Y.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":28,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -74.78069,

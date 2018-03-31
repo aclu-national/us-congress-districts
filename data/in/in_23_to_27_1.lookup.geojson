@@ -1,49 +1,13 @@
 {
-  "id": "in_23_to_27_01",
+  "id": "in_23_to_27_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"27",
-    "id":"018023027001",
-    "member":{
-        "23":{
-            "852":{
-                "district":"1",
-                "name":"Boon, Ratliff",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "852":{
-                "district":"1",
-                "name":"Boon, Ratliff",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "852":{
-                "district":"1",
-                "name":"Boon, Ratliff",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "7633":{
-                "district":"1",
-                "name":"Proffit, George H.",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "7633":{
-                "district":"1",
-                "name":"Proffit, George H.",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

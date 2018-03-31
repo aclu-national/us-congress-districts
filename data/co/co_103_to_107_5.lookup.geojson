@@ -1,49 +1,13 @@
 {
-  "id": "co_103_to_107_05",
+  "id": "co_103_to_107_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"107",
-    "id":"008103107005",
-    "member":{
-        "103":{
-            "15419":{
-                "district":"5",
-                "name":"Hefley, Joel",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15419":{
-                "district":"5",
-                "name":"Hefley, Joel",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15419":{
-                "district":"5",
-                "name":"Hefley, Joel",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "15419":{
-                "district":"5",
-                "name":"Hefley, Joel",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "15419":{
-                "district":"5",
-                "name":"Hefley, Joel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Colorado"
+    "district":5,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"co"
 },
   "bbox": [
     -105.96975,

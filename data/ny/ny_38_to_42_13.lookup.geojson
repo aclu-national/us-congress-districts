@@ -2,48 +2,12 @@
   "id": "ny_38_to_42_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"42",
-    "id":"036038042013",
-    "member":{
-        "38":{
-            "8870":{
-                "district":"13",
-                "name":"Steele, John Benedict",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "4676":{
-                "district":"13",
-                "name":"Hubbell, Edwin Nelson",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "2072":{
-                "district":"13",
-                "name":"Cornell, Thomas",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "3843":{
-                "district":"13",
-                "name":"Griswold, John Ashley",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "9530":{
-                "district":"13",
-                "name":"Tuthill, Joseph Hasbrouck",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -74.78069,

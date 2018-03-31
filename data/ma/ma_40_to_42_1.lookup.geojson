@@ -1,35 +1,13 @@
 {
-  "id": "ma_40_to_42_01",
+  "id": "ma_40_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"025040042001",
-    "member":{
-        "40":{
-            "2895":{
-                "district":"1",
-                "name":"Eliot, Thomas Dawes",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "1220":{
-                "district":"1",
-                "name":"Buffington, James",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "1220":{
-                "district":"1",
-                "name":"Buffington, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"ma"
 },
   "bbox": [
     -71.19569,

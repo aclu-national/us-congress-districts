@@ -2,20 +2,12 @@
   "id": "tx_109_to_109_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"109",
-    "id":"048109109014",
-    "member":{
-        "109":{
-            "14290":{
-                "district":"14",
-                "name":"Paul, Ron",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Texas"
+    "district":14,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"tx"
 },
   "bbox": [
     -97.30592,

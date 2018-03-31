@@ -2,48 +2,12 @@
   "id": "ca_73_to_77_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"77",
-    "id":"006073077019",
-    "member":{
-        "73":{
-            "1950":{
-                "district":"19",
-                "name":"Collins, Samuel Lafort",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "1950":{
-                "district":"19",
-                "name":"Collins, Samuel Lafort",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "8444":{
-                "district":"19",
-                "name":"Sheppard, Harry Richard",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8444":{
-                "district":"19",
-                "name":"Sheppard, Harry Richard",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8444":{
-                "district":"19",
-                "name":"Sheppard, Harry Richard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"California"
+    "district":19,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ca"
 },
   "bbox": [
     -118.115,

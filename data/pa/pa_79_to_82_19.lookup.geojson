@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"82",
-    "id":"042079082019",
-    "member":{
-        "79":{
-            "3510":{
-                "district":"19",
-                "name":"Gavin, Leon Harry",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3510":{
-                "district":"19",
-                "name":"Gavin, Leon Harry",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3510":{
-                "district":"19",
-                "name":"Gavin, Leon Harry",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "3510":{
-                "district":"19",
-                "name":"Gavin, Leon Harry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -79.99978,

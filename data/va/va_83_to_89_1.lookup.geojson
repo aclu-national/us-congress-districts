@@ -1,63 +1,13 @@
 {
-  "id": "va_83_to_89_01",
+  "id": "va_83_to_89_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"89",
-    "id":"051083089001",
-    "member":{
-        "83":{
-            "7969":{
-                "district":"1",
-                "name":"Robeson, Edward John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "7969":{
-                "district":"1",
-                "name":"Robeson, Edward John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "7969":{
-                "district":"1",
-                "name":"Robeson, Edward John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "2706":{
-                "district":"1",
-                "name":"Downing, Thomas Nelms",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "2706":{
-                "district":"1",
-                "name":"Downing, Thomas Nelms",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "2706":{
-                "district":"1",
-                "name":"Downing, Thomas Nelms",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "2706":{
-                "district":"1",
-                "name":"Downing, Thomas Nelms",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"va"
 },
   "bbox": [
     -77.27158,

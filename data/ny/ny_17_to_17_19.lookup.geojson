@@ -2,20 +2,12 @@
   "id": "ny_17_to_17_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"17",
-    "id":"036017017019",
-    "member":{
-        "17":{
-            "5696":{
-                "district":"19",
-                "name":"Litchfield, Elisha",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"New York"
+    "district":19,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

@@ -2,27 +2,12 @@
   "id": "oh_98_to_99_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"99",
-    "id":"039098099019",
-    "member":{
-        "98":{
-            "15024":{
-                "district":"19",
-                "name":"Feighan, Edward F.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15024":{
-                "district":"19",
-                "name":"Feighan, Edward F.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Ohio"
+    "district":19,
+    "end_date":"1986-10-18",
+    "end_session":99,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"oh"
 },
   "bbox": [
     -81.97248,

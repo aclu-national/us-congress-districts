@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_43",
   "type": "Feature",
   "properties": {
-    "district":"43",
-    "endcong":"64",
-    "id":"036063064043",
-    "member":{
-        "63":{
-            "3985":{
-                "district":"43",
-                "name":"Hamilton, Charles Mann",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "3985":{
-                "district":"43",
-                "name":"Hamilton, Charles Mann",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":43,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

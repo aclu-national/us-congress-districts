@@ -1,35 +1,13 @@
 {
-  "id": "md_80_to_82_05",
+  "id": "md_80_to_82_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"82",
-    "id":"024080082005",
-    "member":{
-        "80":{
-            "8219":{
-                "district":"5",
-                "name":"Sasscer, Lansdale Ghiselin",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "8219":{
-                "district":"5",
-                "name":"Sasscer, Lansdale Ghiselin",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "8219":{
-                "district":"5",
-                "name":"Sasscer, Lansdale Ghiselin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"80",
-    "statename":"Maryland"
+    "district":5,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1947-01-03",
+    "start_session":80,
+    "state":"md"
 },
   "bbox": [
     -77.27422,

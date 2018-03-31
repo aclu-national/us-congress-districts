@@ -2,20 +2,12 @@
   "id": "ny_8_to_8_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"8",
-    "id":"036008008011",
-    "member":{
-        "8":{
-            "7173":{
-                "district":"11",
-                "name":"Palmer, Beriah",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1805-03-03",
+    "end_session":8,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ny"
 },
   "bbox": [
     -74.72568,

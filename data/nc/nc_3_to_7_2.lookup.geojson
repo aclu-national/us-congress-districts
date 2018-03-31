@@ -1,49 +1,13 @@
 {
-  "id": "nc_3_to_7_02",
+  "id": "nc_3_to_7_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"7",
-    "id":"037003007002",
-    "member":{
-        "3":{
-            "5734":{
-                "district":"2",
-                "name":"Locke, Matthew",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "5734":{
-                "district":"2",
-                "name":"Locke, Matthew",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "5734":{
-                "district":"2",
-                "name":"Locke, Matthew",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "4303":{
-                "district":"2",
-                "name":"Henderson, Archibald",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "4303":{
-                "district":"2",
-                "name":"Henderson, Archibald",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"North Carolina"
+    "district":2,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"nc"
 },
   "bbox": [
     -81.22938,

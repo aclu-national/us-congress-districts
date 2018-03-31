@@ -1,21 +1,13 @@
 {
-  "id": "ny_17_to_17_06",
+  "id": "ny_17_to_17_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"17",
-    "id":"036017017006",
-    "member":{
-        "17":{
-            "864":{
-                "district":"6",
-                "name":"Borland, Charles, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ny"
 },
   "bbox": [
     -74.7621,

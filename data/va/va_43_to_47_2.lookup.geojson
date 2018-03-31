@@ -1,49 +1,13 @@
 {
-  "id": "va_43_to_47_02",
+  "id": "va_43_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"051043047002",
-    "member":{
-        "43":{
-            "7480":{
-                "district":"2",
-                "name":"Platt, James Henry, Jr.",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "3666":{
-                "district":"2",
-                "name":"Goode, John Jr.",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "3666":{
-                "district":"2",
-                "name":"Goode, John Jr.",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "3666":{
-                "district":"2",
-                "name":"Goode, John Jr.",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "2551":{
-                "district":"2",
-                "name":"Dezendorf, John Frederick",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Virginia"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"va"
 },
   "bbox": [
     -77.61903,

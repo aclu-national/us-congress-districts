@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_24",
   "type": "Feature",
   "properties": {
-    "ALAND":680557173,
-    "AWATER":23270221,
-    "CD113FP":"24",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4824",
-    "INTPTLAT":"+32.9194727",
-    "INTPTLON":"-097.0127238",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 24",
-    "STATEFP":"48"
+    "district":24,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -97.212769,

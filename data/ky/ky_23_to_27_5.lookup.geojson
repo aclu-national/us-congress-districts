@@ -1,54 +1,13 @@
 {
-  "id": "ky_23_to_27_05",
+  "id": "ky_23_to_27_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"27",
-    "id":"021023027005",
-    "member":{
-        "23":{
-            "5622":{
-                "district":"5",
-                "name":"Letcher, Robert Perkins",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "4076":{
-                "district":"5",
-                "name":"Harlan, James",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "4076":{
-                "district":"5",
-                "name":"Harlan, James",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "181":{
-                "district":"5",
-                "name":"Anderson, Simeon H.",
-                "party":"Whig"
-            },
-            "9330":{
-                "district":"5",
-                "name":"Thompson, John Burton",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "9330":{
-                "district":"5",
-                "name":"Thompson, John Burton",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Kentucky"
+    "district":5,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ky"
 },
   "bbox": [
     -85.16996,

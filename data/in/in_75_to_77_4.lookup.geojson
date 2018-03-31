@@ -1,35 +1,13 @@
 {
-  "id": "in_75_to_77_04",
+  "id": "in_75_to_77_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"77",
-    "id":"018075077004",
-    "member":{
-        "75":{
-            "3060":{
-                "district":"4",
-                "name":"Farley, James Indus",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3605":{
-                "district":"4",
-                "name":"Gillie, George W.",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "3605":{
-                "district":"4",
-                "name":"Gillie, George W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"75",
-    "statename":"Indiana"
+    "district":4,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1937-01-05",
+    "start_session":75,
+    "state":"in"
 },
   "bbox": [
     -85.6866,

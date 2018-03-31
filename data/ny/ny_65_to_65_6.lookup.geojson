@@ -1,21 +1,13 @@
 {
-  "id": "ny_65_to_65_06",
+  "id": "ny_65_to_65_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"65",
-    "id":"036065065006",
-    "member":{
-        "65":{
-            "8092":{
-                "district":"6",
-                "name":"Rowe, Frederick William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -73.99736,

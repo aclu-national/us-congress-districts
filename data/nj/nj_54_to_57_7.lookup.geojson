@@ -1,47 +1,13 @@
 {
-  "id": "nj_54_to_57_07",
+  "id": "nj_54_to_57_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"57",
-    "id":"034054057007",
-    "member":{
-        "54":{
-            "6237":{
-                "district":"7",
-                "name":"McEwan, Thomas, Jr.",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "6237":{
-                "district":"7",
-                "name":"McEwan, Thomas, Jr.",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2309":{
-                "district":"7",
-                "name":"Daly, William Davis",
-                "party":"Democrat"
-            },
-            "6212":{
-                "district":"7",
-                "name":"McDermott, Allan Langdon",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "6212":{
-                "district":"7",
-                "name":"McDermott, Allan Langdon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"54",
-    "statename":"New Jersey"
+    "district":7,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1895-12-02",
+    "start_session":54,
+    "state":"nj"
 },
   "bbox": [
     -74.16609,

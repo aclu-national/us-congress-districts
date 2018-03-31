@@ -1,77 +1,13 @@
 {
-  "id": "mi_64_to_72_04",
+  "id": "mi_64_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"026064072004",
-    "member":{
-        "64":{
-            "3989":{
-                "district":"4",
-                "name":"Hamilton, Edward La Rue",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "3989":{
-                "district":"4",
-                "name":"Hamilton, Edward La Rue",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "3989":{
-                "district":"4",
-                "name":"Hamilton, Edward La Rue",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5218":{
-                "district":"4",
-                "name":"Ketcham, John Clark",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "5218":{
-                "district":"4",
-                "name":"Ketcham, John Clark",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "5218":{
-                "district":"4",
-                "name":"Ketcham, John Clark",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "5218":{
-                "district":"4",
-                "name":"Ketcham, John Clark",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "5218":{
-                "district":"4",
-                "name":"Ketcham, John Clark",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5218":{
-                "district":"4",
-                "name":"Ketcham, John Clark",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Michigan"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mi"
 },
   "bbox": [
     -86.82483,

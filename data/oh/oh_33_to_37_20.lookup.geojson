@@ -2,48 +2,12 @@
   "id": "oh_33_to_37_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"37",
-    "id":"039033037020",
-    "member":{
-        "33":{
-            "3567":{
-                "district":"20",
-                "name":"Giddings, Joshua Reed",
-                "party":"Free Soil"
-            }
-        },
-        "34":{
-            "3567":{
-                "district":"20",
-                "name":"Giddings, Joshua Reed",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "3567":{
-                "district":"20",
-                "name":"Giddings, Joshua Reed",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "4778":{
-                "district":"20",
-                "name":"Hutchins, John",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "4778":{
-                "district":"20",
-                "name":"Hutchins, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":20,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -81.08692,

@@ -2,48 +2,12 @@
   "id": "tn_23_to_27_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"27",
-    "id":"047023027011",
-    "member":{
-        "23":{
-            "4945":{
-                "district":"11",
-                "name":"Johnson, Cave",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "4945":{
-                "district":"11",
-                "name":"Johnson, Cave",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "1681":{
-                "district":"11",
-                "name":"Cheatham, Richard",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "4945":{
-                "district":"11",
-                "name":"Johnson, Cave",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "4945":{
-                "district":"11",
-                "name":"Johnson, Cave",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Tennessee"
+    "district":11,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"tn"
 },
   "bbox": [
     -88.21758,

@@ -1,42 +1,13 @@
 {
-  "id": "nj_99_to_102_09",
+  "id": "nj_99_to_102_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"102",
-    "id":"034099102009",
-    "member":{
-        "100":{
-            "15071":{
-                "district":"9",
-                "name":"Torricelli, Robert G.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15071":{
-                "district":"9",
-                "name":"Torricelli, Robert G.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15071":{
-                "district":"9",
-                "name":"Torricelli, Robert G.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15071":{
-                "district":"9",
-                "name":"Torricelli, Robert G.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New Jersey"
+    "district":9,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"nj"
 },
   "bbox": [
     -74.16539,

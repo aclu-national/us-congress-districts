@@ -2,48 +2,12 @@
   "id": "pa_73_to_77_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"77",
-    "id":"042073077010",
-    "member":{
-        "73":{
-            "5288":{
-                "district":"10",
-                "name":"Kinzer, John Roland",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "5288":{
-                "district":"10",
-                "name":"Kinzer, John Roland",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "5288":{
-                "district":"10",
-                "name":"Kinzer, John Roland",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "5288":{
-                "district":"10",
-                "name":"Kinzer, John Roland",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "5288":{
-                "district":"10",
-                "name":"Kinzer, John Roland",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

@@ -1,49 +1,13 @@
 {
-  "id": "il_98_to_102_04",
+  "id": "il_98_to_102_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"102",
-    "id":"017098102004",
-    "member":{
-        "100":{
-            "15409":{
-                "district":"4",
-                "name":"Davis, Jack",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15622":{
-                "district":"4",
-                "name":"Sangmeister, George E.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15622":{
-                "district":"4",
-                "name":"Sangmeister, George E.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14041":{
-                "district":"4",
-                "name":"O'Brien, George",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14041":{
-                "district":"4",
-                "name":"O'Brien, George",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Illinois"
+    "district":4,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"il"
 },
   "bbox": [
     -88.4179,

@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"82",
-    "id":"042079082020",
-    "member":{
-        "79":{
-            "9791":{
-                "district":"20",
-                "name":"Walter, Francis Eugene",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "9791":{
-                "district":"20",
-                "name":"Walter, Francis Eugene",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "9791":{
-                "district":"20",
-                "name":"Walter, Francis Eugene",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "9791":{
-                "district":"20",
-                "name":"Walter, Francis Eugene",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":20,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -75.99735,

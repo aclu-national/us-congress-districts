@@ -2,32 +2,12 @@
   "id": "pa_88_to_89_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"89",
-    "id":"042088089023",
-    "member":{
-        "88":{
-            "10598":{
-                "district":"23",
-                "name":"Johnson, Albert W.",
-                "party":"Republican"
-            },
-            "3510":{
-                "district":"23",
-                "name":"Gavin, Leon Harry",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10598":{
-                "district":"23",
-                "name":"Johnson, Albert W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Pennsylvania"
+    "district":23,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"pa"
 },
   "bbox": [
     -79.99978,

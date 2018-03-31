@@ -2,48 +2,12 @@
   "id": "mo_53_to_57_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"57",
-    "id":"029053057013",
-    "member":{
-        "53":{
-            "3418":{
-                "district":"13",
-                "name":"Fyan, Robert Washington",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "7728":{
-                "district":"13",
-                "name":"Raney, John Henry",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "7939":{
-                "district":"13",
-                "name":"Robb, Edward",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "7939":{
-                "district":"13",
-                "name":"Robb, Edward",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "7939":{
-                "district":"13",
-                "name":"Robb, Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Missouri"
+    "district":13,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mo"
 },
   "bbox": [
     -93.07678,

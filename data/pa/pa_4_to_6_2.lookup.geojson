@@ -1,35 +1,13 @@
 {
-  "id": "pa_4_to_6_02",
+  "id": "pa_4_to_6_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"6",
-    "id":"042004006002",
-    "member":{
-        "4":{
-            "6781":{
-                "district":"2",
-                "name":"Muhlenberg, Frederick A.",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "6155":{
-                "district":"2",
-                "name":"McClenachan, Blair",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "5594":{
-                "district":"2",
-                "name":"Leib, Michael",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

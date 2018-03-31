@@ -1,49 +1,13 @@
 {
-  "id": "vt_23_to_27_03",
+  "id": "vt_23_to_27_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"27",
-    "id":"050023027003",
-    "member":{
-        "23":{
-            "3027":{
-                "district":"3",
-                "name":"Everett, Horace",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "3027":{
-                "district":"3",
-                "name":"Everett, Horace",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "3027":{
-                "district":"3",
-                "name":"Everett, Horace",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "3027":{
-                "district":"3",
-                "name":"Everett, Horace",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "3027":{
-                "district":"3",
-                "name":"Everett, Horace",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Vermont"
+    "district":3,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"vt"
 },
   "bbox": [
     -72.87428,

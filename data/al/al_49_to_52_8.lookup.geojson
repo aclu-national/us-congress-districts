@@ -1,42 +1,13 @@
 {
-  "id": "al_49_to_52_08",
+  "id": "al_49_to_52_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"52",
-    "id":"001049052008",
-    "member":{
-        "49":{
-            "9992":{
-                "district":"8",
-                "name":"Wheeler, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "9992":{
-                "district":"8",
-                "name":"Wheeler, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "9992":{
-                "district":"8",
-                "name":"Wheeler, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "9992":{
-                "district":"8",
-                "name":"Wheeler, Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Alabama"
+    "district":8,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"al"
 },
   "bbox": [
     -88.20296,

@@ -1,42 +1,13 @@
 {
-  "id": "nj_99_to_102_03",
+  "id": "nj_99_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"034099102003",
-    "member":{
-        "100":{
-            "10739":{
-                "district":"3",
-                "name":"Howard, James J.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15454":{
-                "district":"3",
-                "name":"Pallone, Frank, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15454":{
-                "district":"3",
-                "name":"Pallone, Frank, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "10739":{
-                "district":"3",
-                "name":"Howard, James J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New Jersey"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"nj"
 },
   "bbox": [
     -74.2706,

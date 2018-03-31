@@ -1,77 +1,13 @@
 {
-  "id": "mi_64_to_72_06",
+  "id": "mi_64_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"026064072006",
-    "member":{
-        "64":{
-            "5139":{
-                "district":"6",
-                "name":"Kelley, Patrick Henry",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "5139":{
-                "district":"6",
-                "name":"Kelley, Patrick Henry",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "5139":{
-                "district":"6",
-                "name":"Kelley, Patrick Henry",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5139":{
-                "district":"6",
-                "name":"Kelley, Patrick Henry",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "4688":{
-                "district":"6",
-                "name":"Hudson, Grant Martin",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "4688":{
-                "district":"6",
-                "name":"Hudson, Grant Martin",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4688":{
-                "district":"6",
-                "name":"Hudson, Grant Martin",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4688":{
-                "district":"6",
-                "name":"Hudson, Grant Martin",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "7360":{
-                "district":"6",
-                "name":"Person, Seymour Howe",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Michigan"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mi"
 },
   "bbox": [
     -84.60329,

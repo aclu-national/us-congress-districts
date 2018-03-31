@@ -1,21 +1,13 @@
 {
-  "id": "va_32_to_32_06",
+  "id": "va_32_to_32_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"32",
-    "id":"051032032006",
-    "member":{
-        "32":{
-            "1580":{
-                "district":"6",
-                "name":"Caskie, John Samuels",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"32",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1851-03-04",
+    "start_session":32,
+    "state":"va"
 },
   "bbox": [
     -78.30661,

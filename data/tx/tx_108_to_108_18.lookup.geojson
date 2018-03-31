@@ -2,20 +2,12 @@
   "id": "tx_108_to_108_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"108",
-    "id":"048108108018",
-    "member":{
-        "108":{
-            "29573":{
-                "district":"18",
-                "name":"Jackson-lee, Sheila",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Texas"
+    "district":18,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tx"
 },
   "bbox": [
     -95.57467,

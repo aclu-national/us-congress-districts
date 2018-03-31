@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"82",
-    "id":"042079082032",
-    "member":{
-        "79":{
-            "2833":{
-                "district":"32",
-                "name":"Eberharter, Herman Peter",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "2833":{
-                "district":"32",
-                "name":"Eberharter, Herman Peter",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "2833":{
-                "district":"32",
-                "name":"Eberharter, Herman Peter",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2833":{
-                "district":"32",
-                "name":"Eberharter, Herman Peter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":32,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -80.02011,

@@ -2,41 +2,12 @@
   "id": "ny_13_to_16_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"16",
-    "id":"036013016013",
-    "member":{
-        "13":{
-            "928":{
-                "district":"13",
-                "name":"Boyd, Alexander",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "10417":{
-                "district":"13",
-                "name":"Yates, John Barentse",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "5524":{
-                "district":"13",
-                "name":"Lawyer, Thomas",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "7301":{
-                "district":"13",
-                "name":"Peek, Harmanus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ny"
 },
   "bbox": [
     -74.71158,

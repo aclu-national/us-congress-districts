@@ -1,49 +1,13 @@
 {
-  "id": "wi_58_to_62_08",
+  "id": "wi_58_to_62_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"62",
-    "id":"055058062008",
-    "member":{
-        "58":{
-            "2366":{
-                "district":"8",
-                "name":"Davidson, James Henry",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2366":{
-                "district":"8",
-                "name":"Davidson, James Henry",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2366":{
-                "district":"8",
-                "name":"Davidson, James Henry",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2366":{
-                "district":"8",
-                "name":"Davidson, James Henry",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "2366":{
-                "district":"8",
-                "name":"Davidson, James Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Wisconsin"
+    "district":8,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"wi"
 },
   "bbox": [
     -89.84539,

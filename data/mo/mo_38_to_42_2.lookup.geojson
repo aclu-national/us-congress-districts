@@ -1,49 +1,13 @@
 {
-  "id": "mo_38_to_42_02",
+  "id": "mo_38_to_42_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"42",
-    "id":"029038042002",
-    "member":{
-        "38":{
-            "808":{
-                "district":"2",
-                "name":"Blow, Henry Taylor",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "39":{
-            "808":{
-                "district":"2",
-                "name":"Blow, Henry Taylor",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "6893":{
-                "district":"2",
-                "name":"Newcomb, Carman Adam",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "3151":{
-                "district":"2",
-                "name":"Finkelnburg, Gustavus Adolphus",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "3151":{
-                "district":"2",
-                "name":"Finkelnburg, Gustavus Adolphus",
-                "party":"Liberal Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Missouri"
+    "district":2,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"mo"
 },
   "bbox": [
     -92.41366,

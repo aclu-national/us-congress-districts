@@ -1,49 +1,13 @@
 {
-  "id": "sc_3_to_7_06",
+  "id": "sc_3_to_7_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"7",
-    "id":"045003007006",
-    "member":{
-        "3":{
-            "7425":{
-                "district":"6",
-                "name":"Pickens, Andrew",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "2816":{
-                "district":"6",
-                "name":"Earle, Samuel",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "8695":{
-                "district":"6",
-                "name":"Smith, William",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "6979":{
-                "district":"6",
-                "name":"Nott, Abraham",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "6653":{
-                "district":"6",
-                "name":"Moore, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"South Carolina"
+    "district":6,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"sc"
 },
   "bbox": [
     -83.35395,

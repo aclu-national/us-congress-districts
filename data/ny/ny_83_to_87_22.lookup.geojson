@@ -2,53 +2,12 @@
   "id": "ny_83_to_87_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"87",
-    "id":"036083087022",
-    "member":{
-        "83":{
-            "3149":{
-                "district":"22",
-                "name":"Fine, Sidney Asher",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "3149":{
-                "district":"22",
-                "name":"Fine, Sidney Asher",
-                "party":"Democrat"
-            },
-            "4262":{
-                "district":"22",
-                "name":"Healey, James Christopher",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "4262":{
-                "district":"22",
-                "name":"Healey, James Christopher",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "4262":{
-                "district":"22",
-                "name":"Healey, James Christopher",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "4262":{
-                "district":"22",
-                "name":"Healey, James Christopher",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -73.93341,

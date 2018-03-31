@@ -1,54 +1,13 @@
 {
-  "id": "hi_108_to_112_01",
+  "id": "hi_108_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"015108112001",
-    "member":{
-        "108":{
-            "15245":{
-                "district":"1",
-                "name":"Abercrombie, Neil",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15245":{
-                "district":"1",
-                "name":"Abercrombie, Neil",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "15245":{
-                "district":"1",
-                "name":"Abercrombie, Neil",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "15245":{
-                "district":"1",
-                "name":"Abercrombie, Neil",
-                "party":"Democrat"
-            },
-            "20961":{
-                "district":"1",
-                "name":"Djou, Charles",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21124":{
-                "district":"1",
-                "name":"Hanabusa, Colleen",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Hawaii"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"hi"
 },
   "bbox": [
     -158.05868,

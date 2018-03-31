@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"82",
-    "id":"036079082011",
-    "member":{
-        "79":{
-            "4279":{
-                "district":"11",
-                "name":"Heffernan, James Joseph",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "4279":{
-                "district":"11",
-                "name":"Heffernan, James Joseph",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "4279":{
-                "district":"11",
-                "name":"Heffernan, James Joseph",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "4279":{
-                "district":"11",
-                "name":"Heffernan, James Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -73.99084,

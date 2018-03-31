@@ -1,84 +1,13 @@
 {
-  "id": "nc_63_to_72_06",
+  "id": "nc_63_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"037063072006",
-    "member":{
-        "63":{
-            "3641":{
-                "district":"6",
-                "name":"Godwin, Hannibal Lafayette",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3641":{
-                "district":"6",
-                "name":"Godwin, Hannibal Lafayette",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "3641":{
-                "district":"6",
-                "name":"Godwin, Hannibal Lafayette",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "3641":{
-                "district":"6",
-                "name":"Godwin, Hannibal Lafayette",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5865":{
-                "district":"6",
-                "name":"Lyon, Homer Le Grand",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "5865":{
-                "district":"6",
-                "name":"Lyon, Homer Le Grand",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "5865":{
-                "district":"6",
-                "name":"Lyon, Homer Le Grand",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "5865":{
-                "district":"6",
-                "name":"Lyon, Homer Le Grand",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "1771":{
-                "district":"6",
-                "name":"Clark, Jerome Bayard",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "1771":{
-                "district":"6",
-                "name":"Clark, Jerome Bayard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nc"
 },
   "bbox": [
     -79.46175,

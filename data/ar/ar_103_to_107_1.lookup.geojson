@@ -1,49 +1,13 @@
 {
-  "id": "ar_103_to_107_01",
+  "id": "ar_103_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"005103107001",
-    "member":{
-        "103":{
-            "29305":{
-                "district":"1",
-                "name":"Lambert, Blanche",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29305":{
-                "district":"1",
-                "name":"Lambert, Blanche",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29702":{
-                "district":"1",
-                "name":"Berry, Marion",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29702":{
-                "district":"1",
-                "name":"Berry, Marion",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29702":{
-                "district":"1",
-                "name":"Berry, Marion",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Arkansas"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ar"
 },
   "bbox": [
     -92.95131,

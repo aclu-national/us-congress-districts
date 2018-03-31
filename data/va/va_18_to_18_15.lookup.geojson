@@ -2,20 +2,12 @@
   "id": "va_18_to_18_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"18",
-    "id":"051018018015",
-    "member":{
-        "18":{
-            "421":{
-                "district":"15",
-                "name":"Barbour, John Strode",
-                "party":"Crawford Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Virginia"
+    "district":15,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"va"
 },
   "bbox": [
     -78.33832,

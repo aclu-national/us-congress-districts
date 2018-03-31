@@ -2,48 +2,12 @@
   "id": "ny_18_to_22_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"22",
-    "id":"036018022025",
-    "member":{
-        "18":{
-            "5515":{
-                "district":"25",
-                "name":"Lawrence, Samuel",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "4726":{
-                "district":"25",
-                "name":"Humphrey, Charles",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "10342":{
-                "district":"25",
-                "name":"Woodcock, David",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "6099":{
-                "district":"25",
-                "name":"Maxwell, Thomas",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "480":{
-                "district":"25",
-                "name":"Barstow, Gamaliel Henry",
-                "party":"Anti Masonic"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -76.96636,

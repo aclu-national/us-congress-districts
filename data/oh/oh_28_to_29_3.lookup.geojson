@@ -1,28 +1,13 @@
 {
-  "id": "oh_28_to_29_03",
+  "id": "oh_28_to_29_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"29",
-    "id":"039028029003",
-    "member":{
-        "28":{
-            "8259":{
-                "district":"3",
-                "name":"Schenck, Robert Cumming",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "8259":{
-                "district":"3",
-                "name":"Schenck, Robert Cumming",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -84.48565,

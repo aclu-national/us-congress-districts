@@ -1,35 +1,13 @@
 {
-  "id": "al_40_to_42_01",
+  "id": "al_40_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"001040042001",
-    "member":{
-        "40":{
-            "5142":{
-                "district":"1",
-                "name":"Kellogg, Francis William",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "1192":{
-                "district":"1",
-                "name":"Buck, Alfred Eliab",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "9509":{
-                "district":"1",
-                "name":"Turner, Benjamin Sterling",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Alabama"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"al"
 },
   "bbox": [
     -88.46442,

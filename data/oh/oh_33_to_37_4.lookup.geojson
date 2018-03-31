@@ -1,49 +1,13 @@
 {
-  "id": "oh_33_to_37_04",
+  "id": "oh_33_to_37_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"37",
-    "id":"039033037004",
-    "member":{
-        "33":{
-            "6920":{
-                "district":"4",
-                "name":"Nichols, Matthias H.",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "6920":{
-                "district":"4",
-                "name":"Nichols, Matthias H.",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "6920":{
-                "district":"4",
-                "name":"Nichols, Matthias H.",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "131":{
-                "district":"4",
-                "name":"Allen, William",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "131":{
-                "district":"4",
-                "name":"Allen, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -84.81241,

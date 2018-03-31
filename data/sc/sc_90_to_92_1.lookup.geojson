@@ -1,40 +1,13 @@
 {
-  "id": "sc_90_to_92_01",
+  "id": "sc_90_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"045090092001",
-    "member":{
-        "90":{
-            "7925":{
-                "district":"1",
-                "name":"Rivers, Lucius Mendel",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "7925":{
-                "district":"1",
-                "name":"Rivers, Lucius Mendel",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "13048":{
-                "district":"1",
-                "name":"Davis, Mendel",
-                "party":"Democrat"
-            },
-            "7925":{
-                "district":"1",
-                "name":"Rivers, Lucius Mendel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"sc"
 },
   "bbox": [
     -81.61403,

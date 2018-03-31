@@ -1,84 +1,13 @@
 {
-  "id": "ky_63_to_72_06",
+  "id": "ky_63_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"021063072006",
-    "member":{
-        "63":{
-            "8083":{
-                "district":"6",
-                "name":"Rouse, Arthur Blythe",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "8083":{
-                "district":"6",
-                "name":"Rouse, Arthur Blythe",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8083":{
-                "district":"6",
-                "name":"Rouse, Arthur Blythe",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "8083":{
-                "district":"6",
-                "name":"Rouse, Arthur Blythe",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "8083":{
-                "district":"6",
-                "name":"Rouse, Arthur Blythe",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "8083":{
-                "district":"6",
-                "name":"Rouse, Arthur Blythe",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "8083":{
-                "district":"6",
-                "name":"Rouse, Arthur Blythe",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "9828":{
-                "district":"6",
-                "name":"Ware, Orie S.",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "6895":{
-                "district":"6",
-                "name":"Newhall, Judson Lincoln",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "8778":{
-                "district":"6",
-                "name":"Spence, Brent",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ky"
 },
   "bbox": [
     -85.45698,

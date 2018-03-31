@@ -1,49 +1,13 @@
 {
-  "id": "nh_103_to_107_01",
+  "id": "nh_103_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"033103107001",
-    "member":{
-        "103":{
-            "29130":{
-                "district":"1",
-                "name":"Zeliff, Bill",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29130":{
-                "district":"1",
-                "name":"Zeliff, Bill",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29740":{
-                "district":"1",
-                "name":"Sununu, John E.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29740":{
-                "district":"1",
-                "name":"Sununu, John E.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29740":{
-                "district":"1",
-                "name":"Sununu, John E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New Hampshire"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nh"
 },
   "bbox": [
     -71.73145,

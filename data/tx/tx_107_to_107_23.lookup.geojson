@@ -2,20 +2,12 @@
   "id": "tx_107_to_107_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"107",
-    "id":"048107107023",
-    "member":{
-        "107":{
-            "39302":{
-                "district":"23",
-                "name":"Bonilla, Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"107",
-    "statename":"Texas"
+    "district":23,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"2001-01-03",
+    "start_session":107,
+    "state":"tx"
 },
   "bbox": [
     -106.42907,

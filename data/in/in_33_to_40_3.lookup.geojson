@@ -1,70 +1,13 @@
 {
-  "id": "in_33_to_40_03",
+  "id": "in_33_to_40_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"40",
-    "id":"018033040003",
-    "member":{
-        "33":{
-            "2765":{
-                "district":"3",
-                "name":"Dunham, Cyrus Livingston",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "2771":{
-                "district":"3",
-                "name":"Dunn, George Grundy",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "4701":{
-                "district":"3",
-                "name":"Hughes, James",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "2777":{
-                "district":"3",
-                "name":"Dunn, William McKee",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "2777":{
-                "district":"3",
-                "name":"Dunn, William McKee",
-                "party":"Republican"
-            }
-        },
-        "38":{
-            "4094":{
-                "district":"3",
-                "name":"Harrington, Henry William",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "4421":{
-                "district":"3",
-                "name":"Hill, Ralph",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "4756":{
-                "district":"3",
-                "name":"Hunter, Morton Craig",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1869-03-03",
+    "end_session":40,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"in"
 },
   "bbox": [
     -86.68571,

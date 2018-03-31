@@ -1,28 +1,13 @@
 {
-  "id": "tn_91_to_92_05",
+  "id": "tn_91_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"047091092005",
-    "member":{
-        "91":{
-            "10586":{
-                "district":"5",
-                "name":"Fulton, Richard A.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10586":{
-                "district":"5",
-                "name":"Fulton, Richard A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"tn"
 },
   "bbox": [
     -87.0549,

@@ -1,35 +1,13 @@
 {
-  "id": "ma_88_to_90_06",
+  "id": "ma_88_to_90_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"90",
-    "id":"025088090006",
-    "member":{
-        "88":{
-            "518":{
-                "district":"6",
-                "name":"Bates, William Henry",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "518":{
-                "district":"6",
-                "name":"Bates, William Henry",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "518":{
-                "district":"6",
-                "name":"Bates, William Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ma"
 },
   "bbox": [
     -71.25595,

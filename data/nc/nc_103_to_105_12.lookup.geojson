@@ -2,34 +2,12 @@
   "id": "nc_103_to_105_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"105",
-    "id":"037103105012",
-    "member":{
-        "103":{
-            "29383":{
-                "district":"12",
-                "name":"Watt, Melvin",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29383":{
-                "district":"12",
-                "name":"Watt, Melvin",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29383":{
-                "district":"12",
-                "name":"Watt, Melvin L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"North Carolina"
+    "district":12,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nc"
 },
   "bbox": [
     -81.24393,

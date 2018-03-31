@@ -1,84 +1,13 @@
 {
-  "id": "ma_78_to_87_08",
+  "id": "ma_78_to_87_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"87",
-    "id":"025078087008",
-    "member":{
-        "78":{
-            "3682":{
-                "district":"8",
-                "name":"Goodwin, Angier Louis",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "3682":{
-                "district":"8",
-                "name":"Goodwin, Angier Louis",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3682":{
-                "district":"8",
-                "name":"Goodwin, Angier Louis",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3682":{
-                "district":"8",
-                "name":"Goodwin, Angier Louis",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "3682":{
-                "district":"8",
-                "name":"Goodwin, Angier Louis",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "3682":{
-                "district":"8",
-                "name":"Goodwin, Angier Louis",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "5873":{
-                "district":"8",
-                "name":"MacDonald, Torbert Hart",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5873":{
-                "district":"8",
-                "name":"MacDonald, Torbert Hart",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5873":{
-                "district":"8",
-                "name":"MacDonald, Torbert Hart",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "5873":{
-                "district":"8",
-                "name":"MacDonald, Torbert Hart",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Massachusetts"
+    "district":8,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ma"
 },
   "bbox": [
     -71.14986,

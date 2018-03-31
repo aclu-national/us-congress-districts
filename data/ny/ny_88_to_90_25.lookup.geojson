@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"90",
-    "id":"036088090025",
-    "member":{
-        "88":{
-            "476":{
-                "district":"25",
-                "name":"Barry, Robert Raymond",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10760":{
-                "district":"25",
-                "name":"Ottinger, Richard L.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10760":{
-                "district":"25",
-                "name":"Ottinger, Richard L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -73.9827,

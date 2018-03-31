@@ -2,48 +2,12 @@
   "id": "ma_8_to_12_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"12",
-    "id":"025008012017",
-    "member":{
-        "10":{
-            "1635":{
-                "district":"17",
-                "name":"Chandler, John",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "3452":{
-                "district":"17",
-                "name":"Gannett, Barzillai",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "1527":{
-                "district":"17",
-                "name":"Carr, Francis",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "1156":{
-                "district":"17",
-                "name":"Bruce, Phineas",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "1635":{
-                "district":"17",
-                "name":"Chandler, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Massachusetts"
+    "district":17,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ma"
 },
   "bbox": [
     -70.23268,

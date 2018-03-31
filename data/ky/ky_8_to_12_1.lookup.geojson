@@ -1,49 +1,13 @@
 {
-  "id": "ky_8_to_12_01",
+  "id": "ky_8_to_12_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"12",
-    "id":"021008012001",
-    "member":{
-        "10":{
-            "5867":{
-                "district":"1",
-                "name":"Lyon, Matthew",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "5867":{
-                "district":"1",
-                "name":"Lyon, Matthew",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "6886":{
-                "district":"1",
-                "name":"New, Anthony",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "5867":{
-                "district":"1",
-                "name":"Lyon, Matthew",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "5867":{
-                "district":"1",
-                "name":"Lyon, Matthew",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Kentucky"
+    "district":1,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ky"
 },
   "bbox": [
     -89.57151,

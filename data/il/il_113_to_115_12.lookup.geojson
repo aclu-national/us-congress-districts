@@ -2,18 +2,12 @@
   "id": "il_113_to_115_12",
   "type": "Feature",
   "properties": {
-    "ALAND":12971312237,
-    "AWATER":462693958,
-    "CD113FP":"12",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1712",
-    "INTPTLAT":"+37.9933075",
-    "INTPTLON":"-089.4278909",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 12",
-    "STATEFP":"17"
+    "district":12,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"il"
 },
   "bbox": [
     -90.372734,

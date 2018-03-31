@@ -1,49 +1,13 @@
 {
-  "id": "tn_13_to_17_01",
+  "id": "tn_13_to_17_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"17",
-    "id":"047013017001",
-    "member":{
-        "13":{
-            "7838":{
-                "district":"1",
-                "name":"Rhea, John",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "7575":{
-                "district":"1",
-                "name":"Powell, Samuel",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "7838":{
-                "district":"1",
-                "name":"Rhea, John",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "7838":{
-                "district":"1",
-                "name":"Rhea, John",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "7838":{
-                "district":"1",
-                "name":"Rhea, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"tn"
 },
   "bbox": [
     -83.35824,

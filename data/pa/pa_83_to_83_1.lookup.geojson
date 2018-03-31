@@ -1,21 +1,13 @@
 {
-  "id": "pa_83_to_83_01",
+  "id": "pa_83_to_83_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"83",
-    "id":"042083083001",
-    "member":{
-        "83":{
-            "465":{
-                "district":"1",
-                "name":"Barrett, William A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1954-12-02",
+    "end_session":83,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"pa"
 },
   "bbox": [
     -75.21453,

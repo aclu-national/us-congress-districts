@@ -1,77 +1,13 @@
 {
-  "id": "tx_74_to_82_07",
+  "id": "tx_74_to_82_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"82",
-    "id":"048074082007",
-    "member":{
-        "74":{
-            "7266":{
-                "district":"7",
-                "name":"Patton, Nat",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7266":{
-                "district":"7",
-                "name":"Patton, Nat",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "7266":{
-                "district":"7",
-                "name":"Patton, Nat",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "7266":{
-                "district":"7",
-                "name":"Patton, Nat",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "7266":{
-                "district":"7",
-                "name":"Patton, Nat",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "7430":{
-                "district":"7",
-                "name":"Pickett, Thomas Augustus",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "7430":{
-                "district":"7",
-                "name":"Pickett, Thomas Augustus",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "7430":{
-                "district":"7",
-                "name":"Pickett, Thomas Augustus",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7430":{
-                "district":"7",
-                "name":"Pickett, Thomas Augustus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":7,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -96.454,

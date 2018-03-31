@@ -1,42 +1,13 @@
 {
-  "id": "ca_99_to_102_06",
+  "id": "ca_99_to_102_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"102",
-    "id":"006099102006",
-    "member":{
-        "100":{
-            "15011":{
-                "district":"6",
-                "name":"Boxer, Barbara",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15011":{
-                "district":"6",
-                "name":"Boxer, Barbara",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15011":{
-                "district":"6",
-                "name":"Boxer, Barbara",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15011":{
-                "district":"6",
-                "name":"Boxer, Barbara",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":6,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -123.023,

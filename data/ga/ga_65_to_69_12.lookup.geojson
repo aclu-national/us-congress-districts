@@ -2,48 +2,12 @@
   "id": "ga_65_to_69_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"69",
-    "id":"013065069012",
-    "member":{
-        "65":{
-            "5482":{
-                "district":"12",
-                "name":"Larsen, William Washington",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "5482":{
-                "district":"12",
-                "name":"Larsen, William Washington",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5482":{
-                "district":"12",
-                "name":"Larsen, William Washington",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "5482":{
-                "district":"12",
-                "name":"Larsen, William Washington",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "5482":{
-                "district":"12",
-                "name":"Larsen, William Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Georgia"
+    "district":12,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ga"
 },
   "bbox": [
     -83.97187,

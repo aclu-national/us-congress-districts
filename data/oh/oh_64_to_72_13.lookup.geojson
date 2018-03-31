@@ -2,76 +2,12 @@
   "id": "oh_64_to_72_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"72",
-    "id":"039064072013",
-    "member":{
-        "64":{
-            "7121":{
-                "district":"13",
-                "name":"Overmyer, Arthur Warren",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "7121":{
-                "district":"13",
-                "name":"Overmyer, Arthur Warren",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "583":{
-                "district":"13",
-                "name":"Begg, James Thomas",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "583":{
-                "district":"13",
-                "name":"Begg, James Thomas",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "583":{
-                "district":"13",
-                "name":"Begg, James Thomas",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "583":{
-                "district":"13",
-                "name":"Begg, James Thomas",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "583":{
-                "district":"13",
-                "name":"Begg, James Thomas",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "356":{
-                "district":"13",
-                "name":"Baird, Joseph Edward",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "3139":{
-                "district":"13",
-                "name":"Fiesinger, William Louis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":13,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -83.88356,

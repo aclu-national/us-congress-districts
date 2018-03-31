@@ -1,35 +1,13 @@
 {
-  "id": "in_44_to_46_05",
+  "id": "in_44_to_46_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"46",
-    "id":"018044046005",
-    "member":{
-        "44":{
-            "4529":{
-                "district":"5",
-                "name":"Holman, William Steele",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "1146":{
-                "district":"5",
-                "name":"Browne, Thomas McLelland",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "1146":{
-                "district":"5",
-                "name":"Browne, Thomas McLelland",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Indiana"
+    "district":5,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"in"
 },
   "bbox": [
     -85.30153,

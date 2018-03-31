@@ -2,48 +2,12 @@
   "id": "oh_108_to_112_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"112",
-    "id":"039108112012",
-    "member":{
-        "108":{
-            "20130":{
-                "district":"12",
-                "name":"Tiberi, Patrick J.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20130":{
-                "district":"12",
-                "name":"Tiberi, Patrick J.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20130":{
-                "district":"12",
-                "name":"Tiberi, Patrick J.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20130":{
-                "district":"12",
-                "name":"Tiberi, Patrick J.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20130":{
-                "district":"12",
-                "name":"Tiberi, Pat",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"oh"
 },
   "bbox": [
     -83.24961,

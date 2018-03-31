@@ -2,48 +2,12 @@
   "id": "ca_108_to_112_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"112",
-    "id":"006108112025",
-    "member":{
-        "108":{
-            "29315":{
-                "district":"25",
-                "name":"McKeon, Howard P. \"Buck\"",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29315":{
-                "district":"25",
-                "name":"McKeon, Howard P. \"Buck\"",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29315":{
-                "district":"25",
-                "name":"McKeon, Howard P. \"Buck\"",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29315":{
-                "district":"25",
-                "name":"McKeon, Howard P. \"Buck\"",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "29315":{
-                "district":"25",
-                "name":"McKeon, Howard P.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":25,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -119.65151,

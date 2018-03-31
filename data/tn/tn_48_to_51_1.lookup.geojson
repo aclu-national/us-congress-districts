@@ -1,42 +1,13 @@
 {
-  "id": "tn_48_to_51_01",
+  "id": "tn_48_to_51_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"51",
-    "id":"047048051001",
-    "member":{
-        "48":{
-            "7377":{
-                "district":"1",
-                "name":"Pettibone, Augustus Herman",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "7377":{
-                "district":"1",
-                "name":"Pettibone, Augustus Herman",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "1348":{
-                "district":"1",
-                "name":"Butler, Roderick Randum",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "9198":{
-                "district":"1",
-                "name":"Taylor, Alfred Alexander",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"tn"
 },
   "bbox": [
     -83.9994,

@@ -1,21 +1,13 @@
 {
-  "id": "pa_83_to_83_04",
+  "id": "pa_83_to_83_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"83",
-    "id":"042083083004",
-    "member":{
-        "83":{
-            "1719":{
-                "district":"4",
-                "name":"Chudoff, Earl",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1954-12-02",
+    "end_session":83,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"pa"
 },
   "bbox": [
     -75.22049,

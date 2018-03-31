@@ -2,20 +2,12 @@
   "id": "ma_17_to_17_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"17",
-    "id":"025017017012",
-    "member":{
-        "17":{
-            "705":{
-                "district":"12",
-                "name":"Bigelow, Lewis",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ma"
 },
   "bbox": [
     -72.29142,

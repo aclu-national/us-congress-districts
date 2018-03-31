@@ -2,27 +2,12 @@
   "id": "il_88_to_89_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"89",
-    "id":"017088089022",
-    "member":{
-        "88":{
-            "8814":{
-                "district":"22",
-                "name":"Springer, William Lee",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "8814":{
-                "district":"22",
-                "name":"Springer, William Lee",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Illinois"
+    "district":22,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"il"
 },
   "bbox": [
     -90.35534,

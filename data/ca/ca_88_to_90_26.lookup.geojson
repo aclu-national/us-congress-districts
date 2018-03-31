@@ -2,39 +2,12 @@
   "id": "ca_88_to_90_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"90",
-    "id":"006088090026",
-    "member":{
-        "88":{
-            "8051":{
-                "district":"26",
-                "name":"Roosevelt, James",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10790":{
-                "district":"26",
-                "name":"Rees, Thomas",
-                "party":"Democrat"
-            },
-            "8051":{
-                "district":"26",
-                "name":"Roosevelt, James",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10790":{
-                "district":"26",
-                "name":"Rees, Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":26,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -118.47813,

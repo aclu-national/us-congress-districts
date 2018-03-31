@@ -1,28 +1,13 @@
 {
-  "id": "nc_28_to_29_01",
+  "id": "nc_28_to_29_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"29",
-    "id":"037028029001",
-    "member":{
-        "28":{
-            "1846":{
-                "district":"1",
-                "name":"Clingman, Thomas Lanier",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "3733":{
-                "district":"1",
-                "name":"Graham, James",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"nc"
 },
   "bbox": [
     -84.32187,

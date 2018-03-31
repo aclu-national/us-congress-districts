@@ -2,34 +2,12 @@
   "id": "tx_83_to_85_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"85",
-    "id":"048083085014",
-    "member":{
-        "83":{
-            "5847":{
-                "district":"14",
-                "name":"Lyle, John Emmett, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "608":{
-                "district":"14",
-                "name":"Bell, John Junior",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "10446":{
-                "district":"14",
-                "name":"Young, John Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Texas"
+    "district":14,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tx"
 },
   "bbox": [
     -98.80491,

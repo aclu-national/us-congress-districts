@@ -1,49 +1,13 @@
 {
-  "id": "al_108_to_112_06",
+  "id": "al_108_to_112_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"112",
-    "id":"001108112006",
-    "member":{
-        "108":{
-            "29301":{
-                "district":"6",
-                "name":"Bachus, Spencer",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29301":{
-                "district":"6",
-                "name":"Bachus, Spencer",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29301":{
-                "district":"6",
-                "name":"Bachus, Spencer",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29301":{
-                "district":"6",
-                "name":"Bachus, Spencer",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "29301":{
-                "district":"6",
-                "name":"Bachus, Spencer",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Alabama"
+    "district":6,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"al"
 },
   "bbox": [
     -87.84068,

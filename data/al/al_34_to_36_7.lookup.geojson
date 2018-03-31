@@ -1,35 +1,13 @@
 {
-  "id": "al_34_to_36_07",
+  "id": "al_34_to_36_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"36",
-    "id":"001034036007",
-    "member":{
-        "34":{
-            "4113":{
-                "district":"7",
-                "name":"Harris, Sampson Willis",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "2264":{
-                "district":"7",
-                "name":"Curry, Jabez Lamar M.",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "2264":{
-                "district":"7",
-                "name":"Curry, Jabez Lamar M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Alabama"
+    "district":7,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"al"
 },
   "bbox": [
     -87.3417,

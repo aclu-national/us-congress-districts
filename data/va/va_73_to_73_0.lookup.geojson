@@ -1,61 +1,13 @@
 {
-  "id": "va_73_to_73_00",
+  "id": "va_73_to_73_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"73",
-    "id":"051073073000",
-    "member":{
-        "73":{
-            "10350":{
-                "district":"98",
-                "name":"Woodrum, Clifton Alexander",
-                "party":"Democrat"
-            },
-            "1245":{
-                "district":"98",
-                "name":"Burch, Thomas Granville",
-                "party":"Democrat"
-            },
-            "2335":{
-                "district":"98",
-                "name":"Darden, Colgate Whitehead",
-                "party":"Democrat"
-            },
-            "2726":{
-                "district":"98",
-                "name":"Drewry, Patrick Henry",
-                "party":"Democrat"
-            },
-            "3207":{
-                "district":"98",
-                "name":"Flannagan, John William, Jr.",
-                "party":"Democrat"
-            },
-            "6598":{
-                "district":"98",
-                "name":"Montague, Andrew Jackson",
-                "party":"Democrat"
-            },
-            "785":{
-                "district":"98",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            },
-            "7958":{
-                "district":"98",
-                "name":"Robertson, A. Willis",
-                "party":"Democrat"
-            },
-            "8636":{
-                "district":"98",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Virginia"
+    "district":0,
+    "end_date":"1934-06-18",
+    "end_session":73,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"va"
 },
   "bbox": [
     -83.67541,

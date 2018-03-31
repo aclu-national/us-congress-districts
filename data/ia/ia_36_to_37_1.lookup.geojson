@@ -1,33 +1,13 @@
 {
-  "id": "ia_36_to_37_01",
+  "id": "ia_36_to_37_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"37",
-    "id":"019036037001",
-    "member":{
-        "36":{
-            "2274":{
-                "district":"1",
-                "name":"Curtis, Samuel Ryan",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "10234":{
-                "district":"1",
-                "name":"Wilson, James Falconer",
-                "party":"Republican"
-            },
-            "2274":{
-                "district":"1",
-                "name":"Curtis, Samuel Ryan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"36",
-    "statename":"Iowa"
+    "district":1,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1859-03-04",
+    "start_session":36,
+    "state":"ia"
 },
   "bbox": [
     -96.1391,

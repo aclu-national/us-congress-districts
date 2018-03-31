@@ -1,42 +1,13 @@
 {
-  "id": "nj_54_to_57_03",
+  "id": "nj_54_to_57_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"57",
-    "id":"034054057003",
-    "member":{
-        "54":{
-            "4643":{
-                "district":"3",
-                "name":"Howell, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "4643":{
-                "district":"3",
-                "name":"Howell, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "4643":{
-                "district":"3",
-                "name":"Howell, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "4643":{
-                "district":"3",
-                "name":"Howell, Benjamin Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"54",
-    "statename":"New Jersey"
+    "district":3,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1895-12-02",
+    "start_session":54,
+    "state":"nj"
 },
   "bbox": [
     -74.79751,

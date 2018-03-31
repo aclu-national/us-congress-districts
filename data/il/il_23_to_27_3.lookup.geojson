@@ -1,54 +1,13 @@
 {
-  "id": "il_23_to_27_03",
+  "id": "il_23_to_27_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"27",
-    "id":"017023027003",
-    "member":{
-        "23":{
-            "2760":{
-                "district":"3",
-                "name":"Duncan, Joseph",
-                "party":"Jackson"
-            },
-            "6105":{
-                "district":"3",
-                "name":"May, William L.",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "6105":{
-                "district":"3",
-                "name":"May, William L.",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "6105":{
-                "district":"3",
-                "name":"May, William L.",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "9054":{
-                "district":"3",
-                "name":"Stuart, John Todd",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "9054":{
-                "district":"3",
-                "name":"Stuart, John Todd",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Illinois"
+    "district":3,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"il"
 },
   "bbox": [
     -91.51308,

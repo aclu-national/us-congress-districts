@@ -1,49 +1,13 @@
 {
-  "id": "la_108_to_112_05",
+  "id": "la_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"022108112005",
-    "member":{
-        "108":{
-            "20327":{
-                "district":"5",
-                "name":"Alexander, Rodney",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "90327":{
-                "district":"5",
-                "name":"Alexander, Rodney",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "90327":{
-                "district":"5",
-                "name":"Alexander, Rodney",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "90327":{
-                "district":"5",
-                "name":"Alexander, Rodney",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "90327":{
-                "district":"5",
-                "name":"Alexander, Rodney",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Louisiana"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"la"
 },
   "bbox": [
     -92.98146,

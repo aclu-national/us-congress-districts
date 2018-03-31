@@ -1,28 +1,13 @@
 {
-  "id": "ma_38_to_39_04",
+  "id": "ma_38_to_39_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"39",
-    "id":"025038039004",
-    "member":{
-        "38":{
-            "4559":{
-                "district":"4",
-                "name":"Hooper, Samuel",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "4559":{
-                "district":"4",
-                "name":"Hooper, Samuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1867-03-03",
+    "end_session":39,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ma"
 },
   "bbox": [
     -71.14998,

@@ -1,49 +1,13 @@
 {
-  "id": "il_48_to_52_04",
+  "id": "il_48_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"017048052004",
-    "member":{
-        "48":{
-            "27":{
-                "district":"4",
-                "name":"Adams, George Everett",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "27":{
-                "district":"4",
-                "name":"Adams, George Everett",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "27":{
-                "district":"4",
-                "name":"Adams, George Everett",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "27":{
-                "district":"4",
-                "name":"Adams, George Everett",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "6891":{
-                "district":"4",
-                "name":"Newberry, Walter Cass",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -88.26348,

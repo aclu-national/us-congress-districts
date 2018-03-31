@@ -1,63 +1,13 @@
 {
-  "id": "wv_65_to_71_02",
+  "id": "wv_65_to_71_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"71",
-    "id":"054065071002",
-    "member":{
-        "65":{
-            "904":{
-                "district":"2",
-                "name":"Bowers, George Meade",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "904":{
-                "district":"2",
-                "name":"Bowers, George Meade",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "904":{
-                "district":"2",
-                "name":"Bowers, George Meade",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "126":{
-                "district":"2",
-                "name":"Allen, Robert Edward Lee",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "918":{
-                "district":"2",
-                "name":"Bowman, Frank Llewellyn",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "918":{
-                "district":"2",
-                "name":"Bowman, Frank Llewellyn",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "918":{
-                "district":"2",
-                "name":"Bowman, Frank Llewellyn",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"West Virginia"
+    "district":2,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"wv"
 },
   "bbox": [
     -80.42224,

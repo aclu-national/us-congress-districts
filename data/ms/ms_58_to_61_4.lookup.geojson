@@ -1,42 +1,13 @@
 {
-  "id": "ms_58_to_61_04",
+  "id": "ms_58_to_61_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"61",
-    "id":"028058061004",
-    "member":{
-        "58":{
-            "4430":{
-                "district":"4",
-                "name":"Hill, Wilson Shedric",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "4430":{
-                "district":"4",
-                "name":"Hill, Wilson Shedric",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "4430":{
-                "district":"4",
-                "name":"Hill, Wilson Shedric",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "8551":{
-                "district":"4",
-                "name":"Sisson, Thomas Upton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Mississippi"
+    "district":4,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ms"
 },
   "bbox": [
     -90.17487,

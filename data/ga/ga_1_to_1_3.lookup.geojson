@@ -1,21 +1,13 @@
 {
-  "id": "ga_1_to_1_03",
+  "id": "ga_1_to_1_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"1",
-    "id":"013001001003",
-    "member":{
-        "1":{
-            "6071":{
-                "district":"3",
-                "name":"Mathews, George",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Georgia"
+    "district":3,
+    "end_date":"1791-03-03",
+    "end_session":1,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"ga"
 },
   "bbox": [
     -83.94155,

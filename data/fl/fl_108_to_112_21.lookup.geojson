@@ -2,48 +2,12 @@
   "id": "fl_108_to_112_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"112",
-    "id":"012108112021",
-    "member":{
-        "108":{
-            "29336":{
-                "district":"21",
-                "name":"Diaz-Balart, Lincoln",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29336":{
-                "district":"21",
-                "name":"Diaz-Balart, Lincoln",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29336":{
-                "district":"21",
-                "name":"Diaz-Balart, Lincoln",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29336":{
-                "district":"21",
-                "name":"Diaz-Balart, Lincoln",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20316":{
-                "district":"21",
-                "name":"Diaz-Balart, Mario",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Florida"
+    "district":21,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"fl"
 },
   "bbox": [
     -80.44221,

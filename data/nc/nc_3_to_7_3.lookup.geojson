@@ -1,49 +1,13 @@
 {
-  "id": "nc_3_to_7_03",
+  "id": "nc_3_to_7_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"7",
-    "id":"037003007003",
-    "member":{
-        "3":{
-            "10280":{
-                "district":"3",
-                "name":"Winston, Joseph",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "3342":{
-                "district":"3",
-                "name":"Franklin, Jesse",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "10176":{
-                "district":"3",
-                "name":"Williams, Robert",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "10176":{
-                "district":"3",
-                "name":"Williams, Robert",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "10176":{
-                "district":"3",
-                "name":"Williams, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"nc"
 },
   "bbox": [
     -80.99188,

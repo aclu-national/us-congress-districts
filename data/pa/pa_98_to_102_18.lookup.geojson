@@ -2,48 +2,12 @@
   "id": "pa_98_to_102_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"102",
-    "id":"042098102018",
-    "member":{
-        "100":{
-            "14460":{
-                "district":"18",
-                "name":"Walgren, Doug",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14460":{
-                "district":"18",
-                "name":"Walgren, Doug",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "29141":{
-                "district":"18",
-                "name":"Santorum, Rick",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14460":{
-                "district":"18",
-                "name":"Walgren, Doug",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14460":{
-                "district":"18",
-                "name":"Walgren, Doug",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"pa"
 },
   "bbox": [
     -80.36109,

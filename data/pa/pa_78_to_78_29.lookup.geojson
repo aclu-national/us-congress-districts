@@ -2,20 +2,12 @@
   "id": "pa_78_to_78_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"78",
-    "id":"042078078029",
-    "member":{
-        "78":{
-            "8009":{
-                "district":"29",
-                "name":"Rodgers, Robert Lewis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Pennsylvania"
+    "district":29,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

@@ -2,62 +2,12 @@
   "id": "tx_66_to_72_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"72",
-    "id":"048066072010",
-    "member":{
-        "66":{
-            "1188":{
-                "district":"10",
-                "name":"Buchanan, James Paul",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1188":{
-                "district":"10",
-                "name":"Buchanan, James Paul",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "1188":{
-                "district":"10",
-                "name":"Buchanan, James Paul",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1188":{
-                "district":"10",
-                "name":"Buchanan, James Paul",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "1188":{
-                "district":"10",
-                "name":"Buchanan, James Paul",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "1188":{
-                "district":"10",
-                "name":"Buchanan, James Paul",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "1188":{
-                "district":"10",
-                "name":"Buchanan, James Paul",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":10,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -98.2976,

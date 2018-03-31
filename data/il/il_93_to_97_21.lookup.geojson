@@ -2,48 +2,12 @@
   "id": "il_93_to_97_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"97",
-    "id":"017093097021",
-    "member":{
-        "93":{
-            "14033":{
-                "district":"21",
-                "name":"Madigan, Edward",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14033":{
-                "district":"21",
-                "name":"Madigan, Edward",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14033":{
-                "district":"21",
-                "name":"Madigan, Edward",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14033":{
-                "district":"21",
-                "name":"Madigan, Edward",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14033":{
-                "district":"21",
-                "name":"Madigan, Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Illinois"
+    "district":21,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"il"
 },
   "bbox": [
     -89.99503,

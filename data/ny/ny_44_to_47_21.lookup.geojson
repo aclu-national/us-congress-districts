@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"47",
-    "id":"036044047021",
-    "member":{
-        "44":{
-            "6506":{
-                "district":"21",
-                "name":"Miller, Samuel Franklin",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "1238":{
-                "district":"21",
-                "name":"Bundy, Solomon",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "10097":{
-                "district":"21",
-                "name":"Wilber, David",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "4870":{
-                "district":"21",
-                "name":"Jacobs, Ferris, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -75.88983,

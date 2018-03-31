@@ -2,41 +2,12 @@
   "id": "ny_94_to_97_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"97",
-    "id":"036094097017",
-    "member":{
-        "94":{
-            "10611":{
-                "district":"17",
-                "name":"Murphy, John M.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10611":{
-                "district":"17",
-                "name":"Murphy, John M.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10611":{
-                "district":"17",
-                "name":"Murphy, John M.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14846":{
-                "district":"17",
-                "name":"Molinari, Guy V.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

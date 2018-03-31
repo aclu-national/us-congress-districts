@@ -1,42 +1,13 @@
 {
-  "id": "mn_104_to_107_06",
+  "id": "mn_104_to_107_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"107",
-    "id":"027104107006",
-    "member":{
-        "104":{
-            "29533":{
-                "district":"6",
-                "name":"Luther, William P. \"Bill\"",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29533":{
-                "district":"6",
-                "name":"Luther, William P. \"Bill\"",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29533":{
-                "district":"6",
-                "name":"Luther, William P. \"Bill\"",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29533":{
-                "district":"6",
-                "name":"Luther, William P. \"Bill\"",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Minnesota"
+    "district":6,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"mn"
 },
   "bbox": [
     -93.51242,

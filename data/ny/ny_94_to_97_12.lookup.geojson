@@ -2,41 +2,12 @@
   "id": "ny_94_to_97_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"97",
-    "id":"036094097012",
-    "member":{
-        "94":{
-            "12008":{
-                "district":"12",
-                "name":"Chisholm, Shirley",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "12008":{
-                "district":"12",
-                "name":"Chisholm, Shirley",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "12008":{
-                "district":"12",
-                "name":"Chisholm, Shirley",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "12008":{
-                "district":"12",
-                "name":"Chisholm, Shirley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -73.95553,

@@ -1,33 +1,13 @@
 {
-  "id": "ma_91_to_92_06",
+  "id": "ma_91_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"025091092006",
-    "member":{
-        "91":{
-            "12040":{
-                "district":"6",
-                "name":"Harrington, Michael",
-                "party":"Democrat"
-            },
-            "518":{
-                "district":"6",
-                "name":"Bates, William Henry",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "12040":{
-                "district":"6",
-                "name":"Harrington, Michael",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ma"
 },
   "bbox": [
     -71.18241,

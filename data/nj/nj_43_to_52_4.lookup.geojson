@@ -1,84 +1,13 @@
 {
-  "id": "nj_43_to_52_04",
+  "id": "nj_43_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"034043052004",
-    "member":{
-        "43":{
-            "3997":{
-                "district":"4",
-                "name":"Hamilton, Robert",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "3997":{
-                "district":"4",
-                "name":"Hamilton, Robert",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "1751":{
-                "district":"4",
-                "name":"Clark, Alvah Augustus",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "1751":{
-                "district":"4",
-                "name":"Clark, Alvah Augustus",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "4102":{
-                "district":"4",
-                "name":"Harris, Henry Schenck",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "4655":{
-                "district":"4",
-                "name":"Howey, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "7433":{
-                "district":"4",
-                "name":"Pidcock, James Nelson",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "7433":{
-                "district":"4",
-                "name":"Pidcock, James Nelson",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "3329":{
-                "district":"4",
-                "name":"Fowler, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "3329":{
-                "district":"4",
-                "name":"Fowler, Samuel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New Jersey"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"nj"
 },
   "bbox": [
     -75.20392,

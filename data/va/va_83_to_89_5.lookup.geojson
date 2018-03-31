@@ -1,68 +1,13 @@
 {
-  "id": "va_83_to_89_05",
+  "id": "va_83_to_89_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"89",
-    "id":"051083089005",
-    "member":{
-        "83":{
-            "8839":{
-                "district":"5",
-                "name":"Stanley, Thomas Bahnson",
-                "party":"Democrat"
-            },
-            "9494":{
-                "district":"5",
-                "name":"Tuck, William Munford",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "9494":{
-                "district":"5",
-                "name":"Tuck, William Munford",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "9494":{
-                "district":"5",
-                "name":"Tuck, William Munford",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "9494":{
-                "district":"5",
-                "name":"Tuck, William Munford",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "9494":{
-                "district":"5",
-                "name":"Tuck, William Munford",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "9494":{
-                "district":"5",
-                "name":"Tuck, William Munford",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "9494":{
-                "district":"5",
-                "name":"Tuck, William Munford",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"va"
 },
   "bbox": [
     -81.67764,

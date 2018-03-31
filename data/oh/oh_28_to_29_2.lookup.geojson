@@ -1,28 +1,13 @@
 {
-  "id": "oh_28_to_29_02",
+  "id": "oh_28_to_29_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"29",
-    "id":"039028029002",
-    "member":{
-        "28":{
-            "9934":{
-                "district":"2",
-                "name":"Weller, John B.",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "2254":{
-                "district":"2",
-                "name":"Cunningham, Francis A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

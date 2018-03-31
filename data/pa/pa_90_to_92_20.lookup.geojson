@@ -2,34 +2,12 @@
   "id": "pa_90_to_92_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"92",
-    "id":"042090092020",
-    "member":{
-        "90":{
-            "4518":{
-                "district":"20",
-                "name":"Holland, Elmer Joseph",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "11067":{
-                "district":"20",
-                "name":"Gaydos, Joseph M.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "11067":{
-                "district":"20",
-                "name":"Gaydos, Joseph M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Pennsylvania"
+    "district":20,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"pa"
 },
   "bbox": [
     -80.01131,

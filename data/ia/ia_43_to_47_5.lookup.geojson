@@ -1,54 +1,13 @@
 {
-  "id": "ia_43_to_47_05",
+  "id": "ia_43_to_47_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"47",
-    "id":"019043047005",
-    "member":{
-        "43":{
-            "10232":{
-                "district":"5",
-                "name":"Wilson, James",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "10232":{
-                "district":"5",
-                "name":"Wilson, James",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "1781":{
-                "district":"5",
-                "name":"Clark, Rush",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "1781":{
-                "district":"5",
-                "name":"Clark, Rush",
-                "party":"Republican"
-            },
-            "9345":{
-                "district":"5",
-                "name":"Thompson, William George",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "9345":{
-                "district":"5",
-                "name":"Thompson, William George",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Iowa"
+    "district":5,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ia"
 },
   "bbox": [
     -93.23197,

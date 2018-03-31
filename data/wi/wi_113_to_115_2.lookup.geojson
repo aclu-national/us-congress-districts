@@ -1,19 +1,13 @@
 {
-  "id": "wi_113_to_115_02",
+  "id": "wi_113_to_115_2",
   "type": "Feature",
   "properties": {
-    "ALAND":11750285154,
-    "AWATER":189110867,
-    "CD113FP":"02",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5502",
-    "INTPTLAT":"+42.9842989",
-    "INTPTLON":"-089.7508561",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 2",
-    "STATEFP":"55"
+    "district":2,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"wi"
 },
   "bbox": [
     -90.430042,

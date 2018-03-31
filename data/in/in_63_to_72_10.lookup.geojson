@@ -2,83 +2,12 @@
   "id": "in_63_to_72_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"72",
-    "id":"018063072010",
-    "member":{
-        "63":{
-            "7373":{
-                "district":"10",
-                "name":"Peterson, John Barney",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "10336":{
-                "district":"10",
-                "name":"Wood, William Robert",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "10336":{
-                "district":"10",
-                "name":"Wood, William Robert",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "10336":{
-                "district":"10",
-                "name":"Wood, William Robert",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "10336":{
-                "district":"10",
-                "name":"Wood, William Robert",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "10336":{
-                "district":"10",
-                "name":"Wood, William Robert",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "10336":{
-                "district":"10",
-                "name":"Wood, William Robert",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "10336":{
-                "district":"10",
-                "name":"Wood, William Robert",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "10336":{
-                "district":"10",
-                "name":"Wood, William Robert",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "10336":{
-                "district":"10",
-                "name":"Wood, William Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Indiana"
+    "district":10,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"in"
 },
   "bbox": [
     -87.53144,

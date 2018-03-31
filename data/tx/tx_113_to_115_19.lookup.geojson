@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_19",
   "type": "Feature",
   "properties": {
-    "ALAND":66913956631,
-    "AWATER":282492726,
-    "CD113FP":"19",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4819",
-    "INTPTLAT":"+33.2452902",
-    "INTPTLON":"-101.2097385",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 19",
-    "STATEFP":"48"
+    "district":19,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -103.065078,

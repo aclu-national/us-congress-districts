@@ -1,49 +1,13 @@
 {
-  "id": "ut_98_to_102_02",
+  "id": "ut_98_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"049098102002",
-    "member":{
-        "100":{
-            "14042":{
-                "district":"2",
-                "name":"Owens, Wayne",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14042":{
-                "district":"2",
-                "name":"Owens, Wayne",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14042":{
-                "district":"2",
-                "name":"Owens, Wayne",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14438":{
-                "district":"2",
-                "name":"Marriott, Dan",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15111":{
-                "district":"2",
-                "name":"Monson, David S.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Utah"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ut"
 },
   "bbox": [
     -112.26273,

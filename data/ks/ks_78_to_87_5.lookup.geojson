@@ -1,84 +1,13 @@
 {
-  "id": "ks_78_to_87_05",
+  "id": "ks_78_to_87_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"87",
-    "id":"020078087005",
-    "member":{
-        "78":{
-            "4562":{
-                "district":"5",
-                "name":"Hope, Clifford Ragsdale",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4562":{
-                "district":"5",
-                "name":"Hope, Clifford Ragsdale",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "4562":{
-                "district":"5",
-                "name":"Hope, Clifford Ragsdale",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4562":{
-                "district":"5",
-                "name":"Hope, Clifford Ragsdale",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4562":{
-                "district":"5",
-                "name":"Hope, Clifford Ragsdale",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "4562":{
-                "district":"5",
-                "name":"Hope, Clifford Ragsdale",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4562":{
-                "district":"5",
-                "name":"Hope, Clifford Ragsdale",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "997":{
-                "district":"5",
-                "name":"Breeding, James Floyd",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "997":{
-                "district":"5",
-                "name":"Breeding, James Floyd",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "997":{
-                "district":"5",
-                "name":"Breeding, James Floyd",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Kansas"
+    "district":5,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ks"
 },
   "bbox": [
     -102.04533,

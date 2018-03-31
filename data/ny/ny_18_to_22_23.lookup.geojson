@@ -2,48 +2,12 @@
   "id": "ny_18_to_22_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"22",
-    "id":"036018022023",
-    "member":{
-        "18":{
-            "5696":{
-                "district":"23",
-                "name":"Litchfield, Elisha",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "331":{
-                "district":"23",
-                "name":"Badger, Luther",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "2817":{
-                "district":"23",
-                "name":"Earll, Jonas Jr.",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2817":{
-                "district":"23",
-                "name":"Earll, Jonas Jr.",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "4931":{
-                "district":"23",
-                "name":"Jewett, Freeborn Garretts",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -76.49932,

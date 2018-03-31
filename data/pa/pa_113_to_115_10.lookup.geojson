@@ -2,18 +2,12 @@
   "id": "pa_113_to_115_10",
   "type": "Feature",
   "properties": {
-    "ALAND":21698843505,
-    "AWATER":298027996,
-    "CD113FP":"10",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4210",
-    "INTPTLAT":"+41.3726930",
-    "INTPTLON":"-076.5231891",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 10",
-    "STATEFP":"42"
+    "district":10,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"pa"
 },
   "bbox": [
     -77.913929,

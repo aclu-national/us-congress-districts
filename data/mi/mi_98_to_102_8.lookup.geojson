@@ -1,49 +1,13 @@
 {
-  "id": "mi_98_to_102_08",
+  "id": "mi_98_to_102_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"102",
-    "id":"026098102008",
-    "member":{
-        "100":{
-            "14075":{
-                "district":"8",
-                "name":"Traxler, Bob",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14075":{
-                "district":"8",
-                "name":"Traxler, Bob",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14075":{
-                "district":"8",
-                "name":"Traxler, Bob",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14075":{
-                "district":"8",
-                "name":"Traxler, Bob",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14075":{
-                "district":"8",
-                "name":"Traxler, Bob",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Michigan"
+    "district":8,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"mi"
 },
   "bbox": [
     -84.2909,

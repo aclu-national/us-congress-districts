@@ -1,21 +1,13 @@
 {
-  "id": "ga_33_to_33_08",
+  "id": "ga_33_to_33_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"33",
-    "id":"013033033008",
-    "member":{
-        "33":{
-            "8885":{
-                "district":"8",
-                "name":"Stephens, Alexander Hamilton",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Georgia"
+    "district":8,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ga"
 },
   "bbox": [
     -83.30662,

@@ -1,35 +1,13 @@
 {
-  "id": "il_78_to_80_02",
+  "id": "il_78_to_80_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"80",
-    "id":"017078080002",
-    "member":{
-        "78":{
-            "8089":{
-                "district":"2",
-                "name":"Rowan, William A.",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "8089":{
-                "district":"2",
-                "name":"Rowan, William A.",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "9584":{
-                "district":"2",
-                "name":"Vail, Richard Bernard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Illinois"
+    "district":2,
+    "end_date":"1948-12-31",
+    "end_session":80,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"il"
 },
   "bbox": [
     -87.66153,

@@ -1,54 +1,13 @@
 {
-  "id": "nj_58_to_62_06",
+  "id": "nj_58_to_62_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"62",
-    "id":"034058062006",
-    "member":{
-        "58":{
-            "4707":{
-                "district":"6",
-                "name":"Hughes, William",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "108":{
-                "district":"6",
-                "name":"Allen, Henry Crosby",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "4707":{
-                "district":"6",
-                "name":"Hughes, William",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "4707":{
-                "district":"6",
-                "name":"Hughes, William",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "4141":{
-                "district":"6",
-                "name":"Hart, Archibald Chapman",
-                "party":"Democrat"
-            },
-            "4707":{
-                "district":"6",
-                "name":"Hughes, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New Jersey"
+    "district":6,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"nj"
 },
   "bbox": [
     -74.99202,

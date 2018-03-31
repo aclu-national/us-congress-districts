@@ -1,77 +1,13 @@
 {
-  "id": "mo_74_to_82_07",
+  "id": "mo_74_to_82_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"82",
-    "id":"029074082007",
-    "member":{
-        "74":{
-            "8484":{
-                "district":"7",
-                "name":"Short, Dewey",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "8484":{
-                "district":"7",
-                "name":"Short, Dewey",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "8484":{
-                "district":"7",
-                "name":"Short, Dewey",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "8484":{
-                "district":"7",
-                "name":"Short, Dewey",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "8484":{
-                "district":"7",
-                "name":"Short, Dewey",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "8484":{
-                "district":"7",
-                "name":"Short, Dewey",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "8484":{
-                "district":"7",
-                "name":"Short, Dewey",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "8484":{
-                "district":"7",
-                "name":"Short, Dewey",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "8484":{
-                "district":"7",
-                "name":"Short, Dewey",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Missouri"
+    "district":7,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mo"
 },
   "bbox": [
     -94.61866,

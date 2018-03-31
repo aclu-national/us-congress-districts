@@ -1,49 +1,13 @@
 {
-  "id": "ky_23_to_27_06",
+  "id": "ky_23_to_27_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"27",
-    "id":"021023027006",
-    "member":{
-        "23":{
-            "1696":{
-                "district":"6",
-                "name":"Chilton, Thomas",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "1417":{
-                "district":"6",
-                "name":"Calhoon, John",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "1417":{
-                "district":"6",
-                "name":"Calhoon, John",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "3787":{
-                "district":"6",
-                "name":"Green, Willis",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "3787":{
-                "district":"6",
-                "name":"Green, Willis",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ky"
 },
   "bbox": [
     -86.67798,

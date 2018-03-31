@@ -1,54 +1,13 @@
 {
-  "id": "ma_33_to_37_05",
+  "id": "ma_33_to_37_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"37",
-    "id":"025033037005",
-    "member":{
-        "33":{
-            "220":{
-                "district":"5",
-                "name":"Appleton, William",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "1283":{
-                "district":"5",
-                "name":"Burlingame, Anson",
-                "party":"American"
-            }
-        },
-        "35":{
-            "1283":{
-                "district":"5",
-                "name":"Burlingame, Anson",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "1283":{
-                "district":"5",
-                "name":"Burlingame, Anson",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "220":{
-                "district":"5",
-                "name":"Appleton, William",
-                "party":"Constitutional Unionist"
-            },
-            "4559":{
-                "district":"5",
-                "name":"Hooper, Samuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ma"
 },
   "bbox": [
     -71.14998,

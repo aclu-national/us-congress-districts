@@ -1,35 +1,13 @@
 {
-  "id": "ga_105_to_107_07",
+  "id": "ga_105_to_107_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"107",
-    "id":"013105107007",
-    "member":{
-        "105":{
-            "29511":{
-                "district":"7",
-                "name":"Barr, Bob",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29511":{
-                "district":"7",
-                "name":"Barr, Bob",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29511":{
-                "district":"7",
-                "name":"Barr, Bob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"ga"
 },
   "bbox": [
     -85.52726,

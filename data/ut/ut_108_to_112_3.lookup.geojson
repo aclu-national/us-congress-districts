@@ -1,49 +1,13 @@
 {
-  "id": "ut_108_to_112_03",
+  "id": "ut_108_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"049108112003",
-    "member":{
-        "108":{
-            "29766":{
-                "district":"3",
-                "name":"Cannon, Christopher",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29766":{
-                "district":"3",
-                "name":"Cannon, Christopher",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29766":{
-                "district":"3",
-                "name":"Cannon, Christopher",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20949":{
-                "district":"3",
-                "name":"Chaffetz, Jason",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20949":{
-                "district":"3",
-                "name":"Chaffetz, Jason",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Utah"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ut"
 },
   "bbox": [
     -114.05048,

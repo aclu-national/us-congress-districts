@@ -1,49 +1,13 @@
 {
-  "id": "ma_103_to_107_03",
+  "id": "ma_103_to_107_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"107",
-    "id":"025103107003",
-    "member":{
-        "103":{
-            "29357":{
-                "district":"3",
-                "name":"Blute, Peter I.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29357":{
-                "district":"3",
-                "name":"Blute, Peter I.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29729":{
-                "district":"3",
-                "name":"McGovern, James P.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29729":{
-                "district":"3",
-                "name":"McGovern, James P.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29729":{
-                "district":"3",
-                "name":"McGovern, James P.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ma"
 },
   "bbox": [
     -72.03522,

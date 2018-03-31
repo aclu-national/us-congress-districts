@@ -1,42 +1,13 @@
 {
-  "id": "wa_87_to_90_02",
+  "id": "wa_87_to_90_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"90",
-    "id":"053087090002",
-    "member":{
-        "87":{
-            "9968":{
-                "district":"2",
-                "name":"Westland, Alfred John",
-                "party":"Republican"
-            }
-        },
-        "88":{
-            "9968":{
-                "district":"2",
-                "name":"Westland, Alfred John",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10756":{
-                "district":"2",
-                "name":"Meeds, Lloyd",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10756":{
-                "district":"2",
-                "name":"Meeds, Lloyd",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"87",
-    "statename":"Washington"
+    "district":2,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1961-01-03",
+    "start_session":87,
+    "state":"wa"
 },
   "bbox": [
     -124.76258,

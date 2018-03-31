@@ -1,49 +1,13 @@
 {
-  "id": "oh_73_to_77_03",
+  "id": "oh_73_to_77_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"77",
-    "id":"039073077003",
-    "member":{
-        "73":{
-            "4075":{
-                "district":"3",
-                "name":"Harlan, Byron Berry",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "4075":{
-                "district":"3",
-                "name":"Harlan, Byron Berry",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "4075":{
-                "district":"3",
-                "name":"Harlan, Byron Berry",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8086":{
-                "district":"3",
-                "name":"Routzohn, Harry Nelson",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "4511":{
-                "district":"3",
-                "name":"Holbrock, Greg John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

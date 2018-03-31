@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"82",
-    "id":"042079082028",
-    "member":{
-        "79":{
-            "8009":{
-                "district":"28",
-                "name":"Rodgers, Robert Lewis",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "5112":{
-                "district":"28",
-                "name":"Kearns, Carroll Dundley",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "5112":{
-                "district":"28",
-                "name":"Kearns, Carroll Dundley",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "5112":{
-                "district":"28",
-                "name":"Kearns, Carroll Dundley",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":28,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

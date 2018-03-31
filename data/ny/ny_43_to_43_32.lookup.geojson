@@ -2,20 +2,12 @@
   "id": "ny_43_to_43_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"43",
-    "id":"036043043032",
-    "member":{
-        "43":{
-            "8368":{
-                "district":"32",
-                "name":"Sessions, Walter Loomis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New York"
+    "district":32,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

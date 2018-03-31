@@ -1,54 +1,13 @@
 {
-  "id": "pa_93_to_97_03",
+  "id": "pa_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"042093097003",
-    "member":{
-        "93":{
-            "10591":{
-                "district":"3",
-                "name":"Green, William J., III",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10591":{
-                "district":"3",
-                "name":"Green, William J., III",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14434":{
-                "district":"3",
-                "name":"Lederer, Raymond",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14434":{
-                "district":"3",
-                "name":"Lederer, Raymond",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14434":{
-                "district":"3",
-                "name":"Lederer, Raymond",
-                "party":"Democrat"
-            },
-            "14876":{
-                "district":"3",
-                "name":"Smith, Joseph F.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -75.18637,

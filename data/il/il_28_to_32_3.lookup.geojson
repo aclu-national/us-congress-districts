@@ -1,49 +1,13 @@
 {
-  "id": "il_28_to_32_03",
+  "id": "il_28_to_32_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"32",
-    "id":"017028032003",
-    "member":{
-        "28":{
-            "3129":{
-                "district":"3",
-                "name":"Ficklin, Orlando Bell",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "3129":{
-                "district":"3",
-                "name":"Ficklin, Orlando Bell",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "3129":{
-                "district":"3",
-                "name":"Ficklin, Orlando Bell",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "10456":{
-                "district":"3",
-                "name":"Young, Timothy Roberts",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "3129":{
-                "district":"3",
-                "name":"Ficklin, Orlando Bell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Illinois"
+    "district":3,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"il"
 },
   "bbox": [
     -89.70369,

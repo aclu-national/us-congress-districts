@@ -2,48 +2,12 @@
   "id": "ny_108_to_112_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"112",
-    "id":"036108112024",
-    "member":{
-        "108":{
-            "15007":{
-                "district":"24",
-                "name":"Boehlert, Sherwood L.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "15007":{
-                "district":"24",
-                "name":"Boehlert, Sherwood L.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20736":{
-                "district":"24",
-                "name":"Arcuri, Michael A.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20736":{
-                "district":"24",
-                "name":"Arcuri, Michael A.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21157":{
-                "district":"24",
-                "name":"Hanna, Richard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":24,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -77.02425,

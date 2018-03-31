@@ -2,27 +2,12 @@
   "id": "nc_88_to_89_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"89",
-    "id":"037088089010",
-    "member":{
-        "88":{
-            "10060":{
-                "district":"10",
-                "name":"Whitener, Basil Lee",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10060":{
-                "district":"10",
-                "name":"Whitener, Basil Lee",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"North Carolina"
+    "district":10,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"nc"
 },
   "bbox": [
     -82.41667,

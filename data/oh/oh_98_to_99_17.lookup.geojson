@@ -2,27 +2,12 @@
   "id": "oh_98_to_99_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"99",
-    "id":"039098099017",
-    "member":{
-        "98":{
-            "14671":{
-                "district":"17",
-                "name":"Williams, Lyle",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15121":{
-                "district":"17",
-                "name":"Traficant, James A., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1986-10-18",
+    "end_session":99,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"oh"
 },
   "bbox": [
     -81.08739,

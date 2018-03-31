@@ -1,49 +1,13 @@
 {
-  "id": "tn_23_to_27_05",
+  "id": "tn_23_to_27_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"27",
-    "id":"047023027005",
-    "member":{
-        "23":{
-            "3276":{
-                "district":"5",
-                "name":"Forester, John B.",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "3276":{
-                "district":"5",
-                "name":"Forester, John B.",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "9524":{
-                "district":"5",
-                "name":"Turney, Hopkins Lacy",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "9524":{
-                "district":"5",
-                "name":"Turney, Hopkins Lacy",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "9524":{
-                "district":"5",
-                "name":"Turney, Hopkins Lacy",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"tn"
 },
   "bbox": [
     -86.32029,

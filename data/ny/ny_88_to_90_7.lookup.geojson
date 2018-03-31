@@ -1,35 +1,13 @@
 {
-  "id": "ny_88_to_90_07",
+  "id": "ny_88_to_90_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"90",
-    "id":"036088090007",
-    "member":{
-        "88":{
-            "10500":{
-                "district":"7",
-                "name":"Addabbo, Joseph P.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10500":{
-                "district":"7",
-                "name":"Addabbo, Joseph P.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10500":{
-                "district":"7",
-                "name":"Addabbo, Joseph P.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -73.9239,

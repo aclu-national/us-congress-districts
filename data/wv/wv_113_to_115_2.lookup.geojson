@@ -1,19 +1,13 @@
 {
-  "id": "wv_113_to_115_02",
+  "id": "wv_113_to_115_2",
   "type": "Feature",
   "properties": {
-    "ALAND":20771452122,
-    "AWATER":121073250,
-    "CD113FP":"02",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5402",
-    "INTPTLAT":"+38.8387542",
-    "INTPTLON":"-080.1737613",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 2",
-    "STATEFP":"54"
+    "district":2,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"wv"
 },
   "bbox": [
     -82.064562,

@@ -1,49 +1,13 @@
 {
-  "id": "vt_23_to_27_04",
+  "id": "vt_23_to_27_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"27",
-    "id":"050023027004",
-    "member":{
-        "23":{
-            "106":{
-                "district":"4",
-                "name":"Allen, Heman (of Milton)",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "106":{
-                "district":"4",
-                "name":"Allen, Heman (of Milton)",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "106":{
-                "district":"4",
-                "name":"Allen, Heman (of Milton)",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "8648":{
-                "district":"4",
-                "name":"Smith, John",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "10435":{
-                "district":"4",
-                "name":"Young, Augustus",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Vermont"
+    "district":4,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"vt"
 },
   "bbox": [
     -73.39023,

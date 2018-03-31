@@ -1,84 +1,13 @@
 {
-  "id": "wi_63_to_72_02",
+  "id": "wi_63_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"055063072002",
-    "member":{
-        "63":{
-            "1268":{
-                "district":"2",
-                "name":"Burke, Michael Edmund",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "1268":{
-                "district":"2",
-                "name":"Burke, Michael Edmund",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "9680":{
-                "district":"2",
-                "name":"Voigt, Edward",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "9680":{
-                "district":"2",
-                "name":"Voigt, Edward",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9680":{
-                "district":"2",
-                "name":"Voigt, Edward",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "9680":{
-                "district":"2",
-                "name":"Voigt, Edward",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9680":{
-                "district":"2",
-                "name":"Voigt, Edward",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "5088":{
-                "district":"2",
-                "name":"Kading, Charles August",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "5088":{
-                "district":"2",
-                "name":"Kading, Charles August",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5088":{
-                "district":"2",
-                "name":"Kading, Charles August",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Wisconsin"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"wi"
 },
   "bbox": [
     -89.78581,

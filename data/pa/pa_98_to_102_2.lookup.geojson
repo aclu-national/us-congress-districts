@@ -1,54 +1,13 @@
 {
-  "id": "pa_98_to_102_02",
+  "id": "pa_98_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"042098102002",
-    "member":{
-        "100":{
-            "14629":{
-                "district":"2",
-                "name":"Gray, William H., III",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14629":{
-                "district":"2",
-                "name":"Gray, William H., III",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14629":{
-                "district":"2",
-                "name":"Gray, William H., III",
-                "party":"Democrat"
-            },
-            "29140":{
-                "district":"2",
-                "name":"Blackwell, Lucien E.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14629":{
-                "district":"2",
-                "name":"Gray, William H., III",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14629":{
-                "district":"2",
-                "name":"Gray, William H., III",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"pa"
 },
   "bbox": [
     -75.25164,

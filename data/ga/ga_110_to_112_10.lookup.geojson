@@ -2,39 +2,12 @@
   "id": "ga_110_to_112_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"112",
-    "id":"013110112010",
-    "member":{
-        "110":{
-            "20753":{
-                "district":"10",
-                "name":"Broun, Paul C.",
-                "party":"Republican"
-            },
-            "29513":{
-                "district":"10",
-                "name":"Norwood, Charlie",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20753":{
-                "district":"10",
-                "name":"Broun, Paul C.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20753":{
-                "district":"10",
-                "name":"Broun, Paul",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"110",
-    "statename":"Georgia"
+    "district":10,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2007-01-04",
+    "start_session":110,
+    "state":"ga"
 },
   "bbox": [
     -83.94627,

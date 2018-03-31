@@ -1,42 +1,13 @@
 {
-  "id": "ky_52_to_55_06",
+  "id": "ky_52_to_55_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"55",
-    "id":"021052055006",
-    "member":{
-        "52":{
-            "2563":{
-                "district":"6",
-                "name":"Dickerson, William Worth",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "670":{
-                "district":"6",
-                "name":"Berry, Albert Seaton",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "670":{
-                "district":"6",
-                "name":"Berry, Albert Seaton",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "670":{
-                "district":"6",
-                "name":"Berry, Albert Seaton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"ky"
 },
   "bbox": [
     -85.45698,

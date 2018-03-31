@@ -1,35 +1,13 @@
 {
-  "id": "oh_100_to_102_02",
+  "id": "oh_100_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"039100102002",
-    "member":{
-        "100":{
-            "14225":{
-                "district":"2",
-                "name":"Gradison, Willis",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14225":{
-                "district":"2",
-                "name":"Gradison, Willis",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14225":{
-                "district":"2",
-                "name":"Gradison, Willis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"100",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1987-01-06",
+    "start_session":100,
+    "state":"oh"
 },
   "bbox": [
     -84.533,

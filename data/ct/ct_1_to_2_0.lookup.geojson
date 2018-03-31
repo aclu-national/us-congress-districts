@@ -1,68 +1,13 @@
 {
-  "id": "ct_1_to_2_00",
+  "id": "ct_1_to_2_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"2",
-    "id":"009001002000",
-    "member":{
-        "1":{
-            "4766":{
-                "district":"98",
-                "name":"Huntington, Benjamin",
-                "party":"Pro-Administration"
-            },
-            "8457":{
-                "district":"98",
-                "name":"Sherman, Roger",
-                "party":"Pro-Administration"
-            },
-            "9062":{
-                "district":"98",
-                "name":"Sturges, Jonathan",
-                "party":"Pro-Administration"
-            },
-            "9489":{
-                "district":"98",
-                "name":"Trumbull, Jonathan",
-                "party":"Pro-Administration"
-            },
-            "9706":{
-                "district":"98",
-                "name":"Wadsworth, Jeremiah",
-                "party":"Pro-Administration"
-            }
-        },
-        "2":{
-            "4433":{
-                "district":"98",
-                "name":"Hillhouse, James",
-                "party":"Pro-Administration"
-            },
-            "5543":{
-                "district":"98",
-                "name":"Learned, Amasa",
-                "party":"Pro-Administration"
-            },
-            "9062":{
-                "district":"98",
-                "name":"Sturges, Jonathan",
-                "party":"Pro-Administration"
-            },
-            "9489":{
-                "district":"98",
-                "name":"Trumbull, Jonathan",
-                "party":"Pro-Administration"
-            },
-            "9706":{
-                "district":"98",
-                "name":"Wadsworth, Jeremiah",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Connecticut"
+    "district":0,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"ct"
 },
   "bbox": [
     -73.72778,

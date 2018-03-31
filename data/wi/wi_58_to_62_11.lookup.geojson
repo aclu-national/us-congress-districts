@@ -2,48 +2,12 @@
   "id": "wi_58_to_62_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"62",
-    "id":"055058062011",
-    "member":{
-        "58":{
-            "4913":{
-                "district":"11",
-                "name":"Jenkins, John James",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "4913":{
-                "district":"11",
-                "name":"Jenkins, John James",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "4913":{
-                "district":"11",
-                "name":"Jenkins, John James",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "5607":{
-                "district":"11",
-                "name":"Lenroot, Irvine Luther",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5607":{
-                "district":"11",
-                "name":"Lenroot, Irvine Luther",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Wisconsin"
+    "district":11,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"wi"
 },
   "bbox": [
     -92.88943,

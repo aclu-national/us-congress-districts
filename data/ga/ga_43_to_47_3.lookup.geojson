@@ -1,49 +1,13 @@
 {
-  "id": "ga_43_to_47_03",
+  "id": "ga_43_to_47_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"47",
-    "id":"013043047003",
-    "member":{
-        "43":{
-            "2022":{
-                "district":"3",
-                "name":"Cook, Philip",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "2022":{
-                "district":"3",
-                "name":"Cook, Philip",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "2022":{
-                "district":"3",
-                "name":"Cook, Philip",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "2022":{
-                "district":"3",
-                "name":"Cook, Philip",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "2022":{
-                "district":"3",
-                "name":"Cook, Philip",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Georgia"
+    "district":3,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ga"
 },
   "bbox": [
     -85.06833,

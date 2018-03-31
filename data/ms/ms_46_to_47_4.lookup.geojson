@@ -1,28 +1,13 @@
 {
-  "id": "ms_46_to_47_04",
+  "id": "ms_46_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"028046047004",
-    "member":{
-        "46":{
-            "8541":{
-                "district":"4",
-                "name":"Singleton, Otho Robards",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "8541":{
-                "district":"4",
-                "name":"Singleton, Otho Robards",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Mississippi"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"ms"
 },
   "bbox": [
     -90.75984,

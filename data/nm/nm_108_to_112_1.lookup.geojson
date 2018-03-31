@@ -1,49 +1,13 @@
 {
-  "id": "nm_108_to_112_01",
+  "id": "nm_108_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"035108112001",
-    "member":{
-        "108":{
-            "29779":{
-                "district":"1",
-                "name":"Wilson, Heather",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29779":{
-                "district":"1",
-                "name":"Wilson, Heather",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29779":{
-                "district":"1",
-                "name":"Wilson, Heather",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20930":{
-                "district":"1",
-                "name":"Heinrich, Martin",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20930":{
-                "district":"1",
-                "name":"Heinrich, Martin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New Mexico"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nm"
 },
   "bbox": [
     -106.96289,

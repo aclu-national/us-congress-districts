@@ -1,49 +1,13 @@
 {
-  "id": "md_3_to_7_06",
+  "id": "md_3_to_7_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"7",
-    "id":"024003007006",
-    "member":{
-        "3":{
-            "1716":{
-                "district":"6",
-                "name":"Christie, Gabriel",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "1716":{
-                "district":"6",
-                "name":"Christie, Gabriel",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "6087":{
-                "district":"6",
-                "name":"Matthews, William",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "1716":{
-                "district":"6",
-                "name":"Christie, Gabriel",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "222":{
-                "district":"6",
-                "name":"Archer, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"md"
 },
   "bbox": [
     -76.56939,

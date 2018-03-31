@@ -1,35 +1,13 @@
 {
-  "id": "pa_30_to_32_02",
+  "id": "pa_30_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"042030032002",
-    "member":{
-        "30":{
-            "4808":{
-                "district":"2",
-                "name":"Ingersoll, Joseph Reed",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "1636":{
-                "district":"2",
-                "name":"Chandler, Joseph Ripley",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "1636":{
-                "district":"2",
-                "name":"Chandler, Joseph Ripley",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -75.18229,

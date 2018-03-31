@@ -1,49 +1,13 @@
 {
-  "id": "ga_98_to_102_03",
+  "id": "ga_98_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"013098102003",
-    "member":{
-        "100":{
-            "15053":{
-                "district":"3",
-                "name":"Ray, Richard B.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15053":{
-                "district":"3",
-                "name":"Ray, Richard B.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15053":{
-                "district":"3",
-                "name":"Ray, Richard B.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "15053":{
-                "district":"3",
-                "name":"Ray, Richard B.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15053":{
-                "district":"3",
-                "name":"Ray, Richard B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Georgia"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ga"
 },
   "bbox": [
     -85.23657,

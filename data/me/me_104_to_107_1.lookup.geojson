@@ -1,42 +1,13 @@
 {
-  "id": "me_104_to_107_01",
+  "id": "me_104_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"023104107001",
-    "member":{
-        "104":{
-            "29527":{
-                "district":"1",
-                "name":"Longley, James B. Jr",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29728":{
-                "district":"1",
-                "name":"Allen, Thomas H.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29728":{
-                "district":"1",
-                "name":"Allen, Thomas H.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29728":{
-                "district":"1",
-                "name":"Allen, Thomas H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Maine"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"me"
 },
   "bbox": [
     -70.98907,

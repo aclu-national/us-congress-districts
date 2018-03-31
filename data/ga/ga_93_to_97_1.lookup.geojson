@@ -1,49 +1,13 @@
 {
-  "id": "ga_93_to_97_01",
+  "id": "ga_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"013093097001",
-    "member":{
-        "93":{
-            "14016":{
-                "district":"1",
-                "name":"Ginn, Bo",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14016":{
-                "district":"1",
-                "name":"Ginn, Bo",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14016":{
-                "district":"1",
-                "name":"Ginn, Bo",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14016":{
-                "district":"1",
-                "name":"Ginn, Bo",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14016":{
-                "district":"1",
-                "name":"Ginn, Bo",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Georgia"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ga"
 },
   "bbox": [
     -82.95707,

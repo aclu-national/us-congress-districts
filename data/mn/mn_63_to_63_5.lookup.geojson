@@ -1,21 +1,13 @@
 {
-  "id": "mn_63_to_63_05",
+  "id": "mn_63_to_63_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"63",
-    "id":"027063063005",
-    "member":{
-        "63":{
-            "8623":{
-                "district":"5",
-                "name":"Smith, George Ross",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Minnesota"
+    "district":5,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"mn"
 },
   "bbox": [
     -93.76704,

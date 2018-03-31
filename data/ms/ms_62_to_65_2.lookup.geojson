@@ -1,42 +1,13 @@
 {
-  "id": "ms_62_to_65_02",
+  "id": "ms_62_to_65_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"65",
-    "id":"028062065002",
-    "member":{
-        "62":{
-            "8888":{
-                "district":"2",
-                "name":"Stephens, Hubert Durrett",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "8888":{
-                "district":"2",
-                "name":"Stephens, Hubert Durrett",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "8888":{
-                "district":"2",
-                "name":"Stephens, Hubert Durrett",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8888":{
-                "district":"2",
-                "name":"Stephens, Hubert Durrett",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"62",
-    "statename":"Mississippi"
+    "district":2,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1911-04-04",
+    "start_session":62,
+    "state":"ms"
 },
   "bbox": [
     -90.45164,

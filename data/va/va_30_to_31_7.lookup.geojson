@@ -1,28 +1,13 @@
 {
-  "id": "va_30_to_31_07",
+  "id": "va_30_to_31_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"31",
-    "id":"051030031007",
-    "member":{
-        "30":{
-            "534":{
-                "district":"7",
-                "name":"Bayly, Thomas Henry",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "534":{
-                "district":"7",
-                "name":"Bayly, Thomas Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"va"
 },
   "bbox": [
     -77.27158,

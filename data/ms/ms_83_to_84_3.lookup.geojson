@@ -1,28 +1,13 @@
 {
-  "id": "ms_83_to_84_03",
+  "id": "ms_83_to_84_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"84",
-    "id":"028083084003",
-    "member":{
-        "83":{
-            "8616":{
-                "district":"3",
-                "name":"Smith, Frank Ellis",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "8616":{
-                "district":"3",
-                "name":"Smith, Frank Ellis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Mississippi"
+    "district":3,
+    "end_date":"1956-07-27",
+    "end_session":84,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ms"
 },
   "bbox": [
     -91.23593,

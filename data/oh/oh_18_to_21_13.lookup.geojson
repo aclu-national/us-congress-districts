@@ -2,41 +2,12 @@
   "id": "oh_18_to_21_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"21",
-    "id":"039018021013",
-    "member":{
-        "18":{
-            "10078":{
-                "district":"13",
-                "name":"Whittlesey, Elisha",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "10078":{
-                "district":"13",
-                "name":"Whittlesey, Elisha",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "10078":{
-                "district":"13",
-                "name":"Whittlesey, Elisha",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "10078":{
-                "district":"13",
-                "name":"Whittlesey, Elisha",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Ohio"
+    "district":13,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"oh"
 },
   "bbox": [
     -81.60884,

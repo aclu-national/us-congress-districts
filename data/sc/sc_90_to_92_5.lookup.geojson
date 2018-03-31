@@ -1,35 +1,13 @@
 {
-  "id": "sc_90_to_92_05",
+  "id": "sc_90_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"045090092005",
-    "member":{
-        "90":{
-            "10728":{
-                "district":"5",
-                "name":"Gettys, Thomas S.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "10728":{
-                "district":"5",
-                "name":"Gettys, Thomas S.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10728":{
-                "district":"5",
-                "name":"Gettys, Thomas S.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"South Carolina"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"sc"
 },
   "bbox": [
     -81.87443,

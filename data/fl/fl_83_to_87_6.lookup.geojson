@@ -1,49 +1,13 @@
 {
-  "id": "fl_83_to_87_06",
+  "id": "fl_83_to_87_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"87",
-    "id":"012083087006",
-    "member":{
-        "83":{
-            "8023":{
-                "district":"6",
-                "name":"Rogers, Dwight Laing",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "8032":{
-                "district":"6",
-                "name":"Rogers, Paul Grant",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "8032":{
-                "district":"6",
-                "name":"Rogers, Paul Grant",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "8032":{
-                "district":"6",
-                "name":"Rogers, Paul Grant",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "8032":{
-                "district":"6",
-                "name":"Rogers, Paul Grant",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Florida"
+    "district":6,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"fl"
 },
   "bbox": [
     -82.37482,

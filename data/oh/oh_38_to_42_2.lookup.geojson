@@ -1,54 +1,13 @@
 {
-  "id": "oh_38_to_42_02",
+  "id": "oh_38_to_42_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"42",
-    "id":"039038042002",
-    "member":{
-        "38":{
-            "5753":{
-                "district":"2",
-                "name":"Long, Alexander",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "4232":{
-                "district":"2",
-                "name":"Hayes, Rutherford Birchar",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "1565":{
-                "district":"2",
-                "name":"Cary, Samuel Fenton",
-                "party":"Ind. Republican"
-            },
-            "4232":{
-                "district":"2",
-                "name":"Hayes, Rutherford Birchar",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "8921":{
-                "district":"2",
-                "name":"Stevenson, Job Evans",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "8921":{
-                "district":"2",
-                "name":"Stevenson, Job Evans",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

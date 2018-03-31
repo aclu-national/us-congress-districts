@@ -1,63 +1,13 @@
 {
-  "id": "tx_66_to_72_03",
+  "id": "tx_66_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"048066072003",
-    "member":{
-        "66":{
-            "10443":{
-                "district":"3",
-                "name":"Young, James",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "8199":{
-                "district":"3",
-                "name":"Sanders, Morgan Gurley",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "8199":{
-                "district":"3",
-                "name":"Sanders, Morgan Gurley",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "8199":{
-                "district":"3",
-                "name":"Sanders, Morgan Gurley",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "8199":{
-                "district":"3",
-                "name":"Sanders, Morgan Gurley",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "8199":{
-                "district":"3",
-                "name":"Sanders, Morgan Gurley",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "8199":{
-                "district":"3",
-                "name":"Sanders, Morgan Gurley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -96.52995,

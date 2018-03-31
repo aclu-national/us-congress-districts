@@ -2,48 +2,12 @@
   "id": "oh_38_to_42_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"42",
-    "id":"039038042012",
-    "member":{
-        "38":{
-            "3142":{
-                "district":"12",
-                "name":"Finck, William Edward",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "3142":{
-                "district":"12",
-                "name":"Finck, William Edward",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "9636":{
-                "district":"12",
-                "name":"Van Trump, Philadelph",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "9636":{
-                "district":"12",
-                "name":"Van Trump, Philadelph",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "9636":{
-                "district":"12",
-                "name":"Van Trump, Philadelph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"oh"
 },
   "bbox": [
     -83.39401,

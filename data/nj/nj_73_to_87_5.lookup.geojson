@@ -1,119 +1,13 @@
 {
-  "id": "nj_73_to_87_05",
+  "id": "nj_73_to_87_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"87",
-    "id":"034073087005",
-    "member":{
-        "73":{
-            "2827":{
-                "district":"5",
-                "name":"Eaton, Charles Aubrey",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "2827":{
-                "district":"5",
-                "name":"Eaton, Charles Aubrey",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "2827":{
-                "district":"5",
-                "name":"Eaton, Charles Aubrey",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "2827":{
-                "district":"5",
-                "name":"Eaton, Charles Aubrey",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "2827":{
-                "district":"5",
-                "name":"Eaton, Charles Aubrey",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "2827":{
-                "district":"5",
-                "name":"Eaton, Charles Aubrey",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "2827":{
-                "district":"5",
-                "name":"Eaton, Charles Aubrey",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "2827":{
-                "district":"5",
-                "name":"Eaton, Charles Aubrey",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "2827":{
-                "district":"5",
-                "name":"Eaton, Charles Aubrey",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "2827":{
-                "district":"5",
-                "name":"Eaton, Charles Aubrey",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "3364":{
-                "district":"5",
-                "name":"Frelinghuysen, Peter H. B., II",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "3364":{
-                "district":"5",
-                "name":"Frelinghuysen, Peter H. B., II",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "3364":{
-                "district":"5",
-                "name":"Frelinghuysen, Peter H. B., II",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "3364":{
-                "district":"5",
-                "name":"Frelinghuysen, Peter H. B., II",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "3364":{
-                "district":"5",
-                "name":"Frelinghuysen, Peter H. B., II",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New Jersey"
+    "district":5,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"nj"
 },
   "bbox": [
     -74.88989,

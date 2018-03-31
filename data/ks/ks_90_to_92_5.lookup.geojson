@@ -1,35 +1,13 @@
 {
-  "id": "ks_90_to_92_05",
+  "id": "ks_90_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"020090092005",
-    "member":{
-        "90":{
-            "10625":{
-                "district":"5",
-                "name":"Skubitz, Joe",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10625":{
-                "district":"5",
-                "name":"Skubitz, Joe",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10625":{
-                "district":"5",
-                "name":"Skubitz, Joe",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Kansas"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"ks"
 },
   "bbox": [
     -99.54482,

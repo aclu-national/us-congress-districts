@@ -2,20 +2,12 @@
   "id": "pa_44_to_44_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"44",
-    "id":"042044044020",
-    "member":{
-        "44":{
-            "5887":{
-                "district":"20",
-                "name":"Mackey, Levi Augustus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":20,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -79.09518,

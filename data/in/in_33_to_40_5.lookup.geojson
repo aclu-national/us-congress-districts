@@ -1,70 +1,13 @@
 {
-  "id": "in_33_to_40_05",
+  "id": "in_33_to_40_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"40",
-    "id":"018033040005",
-    "member":{
-        "33":{
-            "7204":{
-                "district":"5",
-                "name":"Parker, Samuel Wilson",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "4527":{
-                "district":"5",
-                "name":"Holloway, David Pierson",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "5239":{
-                "district":"5",
-                "name":"Kilgore, David",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "5239":{
-                "district":"5",
-                "name":"Kilgore, David",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "5085":{
-                "district":"5",
-                "name":"Julian, George Washington",
-                "party":"Republican"
-            }
-        },
-        "38":{
-            "5085":{
-                "district":"5",
-                "name":"Julian, George Washington",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "5085":{
-                "district":"5",
-                "name":"Julian, George Washington",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "5085":{
-                "district":"5",
-                "name":"Julian, George Washington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Indiana"
+    "district":5,
+    "end_date":"1869-03-03",
+    "end_session":40,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"in"
 },
   "bbox": [
     -85.59694,

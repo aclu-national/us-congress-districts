@@ -1,35 +1,13 @@
 {
-  "id": "ma_45_to_47_06",
+  "id": "ma_45_to_47_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"47",
-    "id":"025045047006",
-    "member":{
-        "45":{
-            "5782":{
-                "district":"6",
-                "name":"Loring, George Bailey",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "5782":{
-                "district":"6",
-                "name":"Loring, George Bailey",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "8978":{
-                "district":"6",
-                "name":"Stone, Eben Francis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"ma"
 },
   "bbox": [
     -71.18247,

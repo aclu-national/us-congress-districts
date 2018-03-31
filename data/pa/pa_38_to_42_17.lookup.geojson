@@ -2,48 +2,12 @@
   "id": "pa_38_to_42_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"42",
-    "id":"042038042017",
-    "member":{
-        "38":{
-            "6121":{
-                "district":"17",
-                "name":"McAllister, Archibald",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "434":{
-                "district":"17",
-                "name":"Barker, Abraham Andrews",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "6691":{
-                "district":"17",
-                "name":"Morrell, Daniel Johnson",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "6691":{
-                "district":"17",
-                "name":"Morrell, Daniel Johnson",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "8775":{
-                "district":"17",
-                "name":"Speer, Robert Milton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"pa"
 },
   "bbox": [
     -79.05606,

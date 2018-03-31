@@ -1,68 +1,13 @@
 {
-  "id": "sc_58_to_64_02",
+  "id": "sc_58_to_64_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"64",
-    "id":"045058064002",
-    "member":{
-        "58":{
-            "2189":{
-                "district":"2",
-                "name":"Croft, George William",
-                "party":"Democrat"
-            },
-            "2190":{
-                "district":"2",
-                "name":"Croft, Theodore Gaillard",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "7244":{
-                "district":"2",
-                "name":"Patterson, James O'Hanlon",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "7244":{
-                "district":"2",
-                "name":"Patterson, James O'Hanlon",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "7244":{
-                "district":"2",
-                "name":"Patterson, James O'Hanlon",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "1370":{
-                "district":"2",
-                "name":"Byrnes, James Francis",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "1370":{
-                "district":"2",
-                "name":"Byrnes, James Francis",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "1370":{
-                "district":"2",
-                "name":"Byrnes, James Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"South Carolina"
+    "district":2,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"sc"
 },
   "bbox": [
     -82.35722,

@@ -2,20 +2,12 @@
   "id": "oh_22_to_22_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"22",
-    "id":"039022022014",
-    "member":{
-        "22":{
-            "2030":{
-                "district":"14",
-                "name":"Cooke, Eleutheros",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"22",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1831-12-05",
+    "start_session":22,
+    "state":"oh"
 },
   "bbox": [
     -83.42128,

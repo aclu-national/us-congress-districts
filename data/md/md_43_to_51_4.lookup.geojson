@@ -1,77 +1,13 @@
 {
-  "id": "md_43_to_51_04",
+  "id": "md_43_to_51_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"51",
-    "id":"024043051004",
-    "member":{
-        "43":{
-            "9104":{
-                "district":"4",
-                "name":"Swann, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "9104":{
-                "district":"4",
-                "name":"Swann, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "9104":{
-                "district":"4",
-                "name":"Swann, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "6325":{
-                "district":"4",
-                "name":"McLane, Robert Milligan",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "6325":{
-                "district":"4",
-                "name":"McLane, Robert Milligan",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "3145":{
-                "district":"4",
-                "name":"Findlay, John Van Lear",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "3145":{
-                "district":"4",
-                "name":"Findlay, John Van Lear",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "7757":{
-                "district":"4",
-                "name":"Rayner, Isidor",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "8958":{
-                "district":"4",
-                "name":"Stockbridge, Henry, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Maryland"
+    "district":4,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"md"
 },
   "bbox": [
     -76.65872,

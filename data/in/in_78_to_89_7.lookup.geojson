@@ -1,98 +1,13 @@
 {
-  "id": "in_78_to_89_07",
+  "id": "in_78_to_89_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"89",
-    "id":"018078089007",
-    "member":{
-        "78":{
-            "5434":{
-                "district":"7",
-                "name":"Landis, Gerald Wayne",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "5434":{
-                "district":"7",
-                "name":"Landis, Gerald Wayne",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "5434":{
-                "district":"7",
-                "name":"Landis, Gerald Wayne",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6951":{
-                "district":"7",
-                "name":"Noland, James E.",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "986":{
-                "district":"7",
-                "name":"Bray, William Gilmer",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "986":{
-                "district":"7",
-                "name":"Bray, William Gilmer",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "986":{
-                "district":"7",
-                "name":"Bray, William Gilmer",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "986":{
-                "district":"7",
-                "name":"Bray, William Gilmer",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "986":{
-                "district":"7",
-                "name":"Bray, William Gilmer",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "986":{
-                "district":"7",
-                "name":"Bray, William Gilmer",
-                "party":"Republican"
-            }
-        },
-        "88":{
-            "986":{
-                "district":"7",
-                "name":"Bray, William Gilmer",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "986":{
-                "district":"7",
-                "name":"Bray, William Gilmer",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Indiana"
+    "district":7,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"in"
 },
   "bbox": [
     -87.98816,

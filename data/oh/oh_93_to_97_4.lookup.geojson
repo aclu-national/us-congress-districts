@@ -1,54 +1,13 @@
 {
-  "id": "oh_93_to_97_04",
+  "id": "oh_93_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"039093097004",
-    "member":{
-        "93":{
-            "14018":{
-                "district":"4",
-                "name":"Guyer, Tennyson",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14018":{
-                "district":"4",
-                "name":"Guyer, Tennyson",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14018":{
-                "district":"4",
-                "name":"Guyer, Tennyson",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14018":{
-                "district":"4",
-                "name":"Guyer, Tennyson",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14018":{
-                "district":"4",
-                "name":"Guyer, Tennyson",
-                "party":"Republican"
-            },
-            "14875":{
-                "district":"4",
-                "name":"Oxley, Michael",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"oh"
 },
   "bbox": [
     -84.80381,

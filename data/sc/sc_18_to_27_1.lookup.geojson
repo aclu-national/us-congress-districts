@@ -1,84 +1,13 @@
 {
-  "id": "sc_18_to_27_01",
+  "id": "sc_18_to_27_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"27",
-    "id":"045018027001",
-    "member":{
-        "18":{
-            "7503":{
-                "district":"1",
-                "name":"Poinsett, Joel Roberts",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "2721":{
-                "district":"1",
-                "name":"Drayton, William",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "2721":{
-                "district":"1",
-                "name":"Drayton, William",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2721":{
-                "district":"1",
-                "name":"Drayton, William",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "2721":{
-                "district":"1",
-                "name":"Drayton, William",
-                "party":"Jackson"
-            }
-        },
-        "23":{
-            "7456":{
-                "district":"1",
-                "name":"Pinckney, Henry Laurens",
-                "party":"Nullifier"
-            }
-        },
-        "24":{
-            "7456":{
-                "district":"1",
-                "name":"Pinckney, Henry Laurens",
-                "party":"Nullifier"
-            }
-        },
-        "25":{
-            "5588":{
-                "district":"1",
-                "name":"Legare, Hugh Swinton",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "4535":{
-                "district":"1",
-                "name":"Holmes, Isaac Edward",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "4535":{
-                "district":"1",
-                "name":"Holmes, Isaac Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"sc"
 },
   "bbox": [
     -80.50279,

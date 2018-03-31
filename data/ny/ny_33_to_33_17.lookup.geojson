@@ -2,20 +2,12 @@
   "id": "ny_33_to_33_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"33",
-    "id":"036033033017",
-    "member":{
-        "33":{
-            "7341":{
-                "district":"17",
-                "name":"Perkins, Bishop",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -75.83996,

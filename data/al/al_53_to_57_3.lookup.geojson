@@ -1,54 +1,13 @@
 {
-  "id": "al_53_to_57_03",
+  "id": "al_53_to_57_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"57",
-    "id":"001053057003",
-    "member":{
-        "53":{
-            "4130":{
-                "district":"3",
-                "name":"Harrison, George Paul",
-                "party":"Democrat"
-            },
-            "6996":{
-                "district":"3",
-                "name":"Oates, William Calvin",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "4130":{
-                "district":"3",
-                "name":"Harrison, George Paul",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "1821":{
-                "district":"3",
-                "name":"Clayton, Henry De Lamar",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "1821":{
-                "district":"3",
-                "name":"Clayton, Henry De Lamar",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "1821":{
-                "district":"3",
-                "name":"Clayton, Henry De Lamar",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Alabama"
+    "district":3,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"al"
 },
   "bbox": [
     -86.19636,

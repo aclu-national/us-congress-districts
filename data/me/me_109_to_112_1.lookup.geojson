@@ -1,42 +1,13 @@
 {
-  "id": "me_109_to_112_01",
+  "id": "me_109_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"023109112001",
-    "member":{
-        "109":{
-            "29728":{
-                "district":"1",
-                "name":"Allen, Thomas H.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29728":{
-                "district":"1",
-                "name":"Allen, Thomas H.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20920":{
-                "district":"1",
-                "name":"Pingree, Chellie",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20920":{
-                "district":"1",
-                "name":"Pingree, Chellie",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Maine"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"me"
 },
   "bbox": [
     -70.98907,

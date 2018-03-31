@@ -2,102 +2,12 @@
   "id": "in_78_to_89_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"89",
-    "id":"018078089010",
-    "member":{
-        "78":{
-            "8813":{
-                "district":"10",
-                "name":"Springer, Raymond Smiley",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "8813":{
-                "district":"10",
-                "name":"Springer, Raymond Smiley",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "4165":{
-                "district":"10",
-                "name":"Harvey, Ralph",
-                "party":"Republican"
-            },
-            "8813":{
-                "district":"10",
-                "name":"Springer, Raymond Smiley",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4165":{
-                "district":"10",
-                "name":"Harvey, Ralph",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4165":{
-                "district":"10",
-                "name":"Harvey, Ralph",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "4165":{
-                "district":"10",
-                "name":"Harvey, Ralph",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4165":{
-                "district":"10",
-                "name":"Harvey, Ralph",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4165":{
-                "district":"10",
-                "name":"Harvey, Ralph",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "4081":{
-                "district":"10",
-                "name":"Harmon, Randall S.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "4165":{
-                "district":"10",
-                "name":"Harvey, Ralph",
-                "party":"Republican"
-            }
-        },
-        "88":{
-            "4165":{
-                "district":"10",
-                "name":"Harvey, Ralph",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "4165":{
-                "district":"10",
-                "name":"Harvey, Ralph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Indiana"
+    "district":10,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"in"
 },
   "bbox": [
     -85.95398,

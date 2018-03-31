@@ -1,42 +1,13 @@
 {
-  "id": "ca_49_to_52_04",
+  "id": "ca_49_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"006049052004",
-    "member":{
-        "49":{
-            "6731":{
-                "district":"4",
-                "name":"Morrow, William W.",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "6731":{
-                "district":"4",
-                "name":"Morrow, William W.",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "6731":{
-                "district":"4",
-                "name":"Morrow, William W.",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "2291":{
-                "district":"4",
-                "name":"Cutting, John Tyler",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"California"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ca"
 },
   "bbox": [
     -123.10803,

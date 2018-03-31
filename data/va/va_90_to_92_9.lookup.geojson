@@ -1,35 +1,13 @@
 {
-  "id": "va_90_to_92_09",
+  "id": "va_90_to_92_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"92",
-    "id":"051090092009",
-    "member":{
-        "90":{
-            "9802":{
-                "district":"9",
-                "name":"Wampler, William Creed",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "9802":{
-                "district":"9",
-                "name":"Wampler, William Creed",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "9802":{
-                "district":"9",
-                "name":"Wampler, William Creed",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Virginia"
+    "district":9,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"va"
 },
   "bbox": [
     -83.67541,

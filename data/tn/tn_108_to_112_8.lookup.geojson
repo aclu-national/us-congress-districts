@@ -1,49 +1,13 @@
 {
-  "id": "tn_108_to_112_08",
+  "id": "tn_108_to_112_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"112",
-    "id":"047108112008",
-    "member":{
-        "108":{
-            "15628":{
-                "district":"8",
-                "name":"Tanner, John S.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15628":{
-                "district":"8",
-                "name":"Tanner, John S.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "15628":{
-                "district":"8",
-                "name":"Tanner, John S.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "15628":{
-                "district":"8",
-                "name":"Tanner, John S.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21181":{
-                "district":"8",
-                "name":"Fincher, Stephen",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tn"
 },
   "bbox": [
     -90.17927,

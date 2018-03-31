@@ -2,20 +2,12 @@
   "id": "ny_48_to_48_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"48",
-    "id":"036048048032",
-    "member":{
-        "48":{
-            "8038":{
-                "district":"32",
-                "name":"Rogers, William Findlay",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":32,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

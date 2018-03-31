@@ -1,28 +1,13 @@
 {
-  "id": "va_104_to_105_05",
+  "id": "va_104_to_105_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"105",
-    "id":"051104105005",
-    "member":{
-        "104":{
-            "15452":{
-                "district":"5",
-                "name":"Payne, Lewis Franklin, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29767":{
-                "district":"5",
-                "name":"Goode, Virgil H., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"va"
 },
   "bbox": [
     -80.62598,

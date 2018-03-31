@@ -1,19 +1,13 @@
 {
-  "id": "mi_113_to_115_01",
+  "id": "mi_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":64822394957,
-    "AWATER":75784519849,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2601",
-    "INTPTLAT":"+46.1573045",
-    "INTPTLON":"-086.4369120",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"26"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mi"
 },
   "bbox": [
     -90.418392,

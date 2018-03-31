@@ -1,49 +1,13 @@
 {
-  "id": "mn_88_to_92_08",
+  "id": "mn_88_to_92_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"92",
-    "id":"027088092008",
-    "member":{
-        "88":{
-            "789":{
-                "district":"8",
-                "name":"Blatnik, John Anton",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "789":{
-                "district":"8",
-                "name":"Blatnik, John Anton",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "789":{
-                "district":"8",
-                "name":"Blatnik, John Anton",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "789":{
-                "district":"8",
-                "name":"Blatnik, John Anton",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "789":{
-                "district":"8",
-                "name":"Blatnik, John Anton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Minnesota"
+    "district":8,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mn"
 },
   "bbox": [
     -94.43035,

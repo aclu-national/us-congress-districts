@@ -2,18 +2,12 @@
   "id": "ny_113_to_115_24",
   "type": "Feature",
   "properties": {
-    "ALAND":6186411570,
-    "AWATER":3271907723,
-    "CD113FP":"24",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3624",
-    "INTPTLAT":"+43.2103194",
-    "INTPTLON":"-076.6480936",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 24",
-    "STATEFP":"36"
+    "district":24,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ny"
 },
   "bbox": [
     -77.387995,

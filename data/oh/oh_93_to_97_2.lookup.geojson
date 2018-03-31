@@ -1,49 +1,13 @@
 {
-  "id": "oh_93_to_97_02",
+  "id": "oh_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"039093097002",
-    "member":{
-        "93":{
-            "10510":{
-                "district":"2",
-                "name":"Clancy, Donald D.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "10510":{
-                "district":"2",
-                "name":"Clancy, Donald D.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14070":{
-                "district":"2",
-                "name":"Luken, Thomas A.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14070":{
-                "district":"2",
-                "name":"Luken, Thomas A.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14070":{
-                "district":"2",
-                "name":"Luken, Thomas A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

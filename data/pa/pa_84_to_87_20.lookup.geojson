@@ -2,41 +2,12 @@
   "id": "pa_84_to_87_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"87",
-    "id":"042084087020",
-    "member":{
-        "84":{
-            "9645":{
-                "district":"20",
-                "name":"Van Zandt, James Edward",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "9645":{
-                "district":"20",
-                "name":"Van Zandt, James Edward",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "9645":{
-                "district":"20",
-                "name":"Van Zandt, James Edward",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "9645":{
-                "district":"20",
-                "name":"Van Zandt, James Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":20,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -78.8066,

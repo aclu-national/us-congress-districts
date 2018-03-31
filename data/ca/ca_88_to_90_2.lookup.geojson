@@ -1,35 +1,13 @@
 {
-  "id": "ca_88_to_90_02",
+  "id": "ca_88_to_90_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"90",
-    "id":"006088090002",
-    "member":{
-        "88":{
-            "4957":{
-                "district":"2",
-                "name":"Johnson, Harold Terry",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "4957":{
-                "district":"2",
-                "name":"Johnson, Harold Terry",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "4957":{
-                "district":"2",
-                "name":"Johnson, Harold Terry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":2,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -123.71917,

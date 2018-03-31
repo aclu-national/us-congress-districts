@@ -1,28 +1,13 @@
 {
-  "id": "tx_51_to_52_02",
+  "id": "tx_51_to_52_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"52",
-    "id":"048051052002",
-    "member":{
-        "51":{
-            "6043":{
-                "district":"2",
-                "name":"Martin, William Harrison",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "5761":{
-                "district":"2",
-                "name":"Long, John Benjamin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Texas"
+    "district":2,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"tx"
 },
   "bbox": [
     -96.83099,

@@ -1,49 +1,13 @@
 {
-  "id": "in_93_to_97_02",
+  "id": "in_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"018093097002",
-    "member":{
-        "93":{
-            "12020":{
-                "district":"2",
-                "name":"Landgrebe, Earl F.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14222":{
-                "district":"2",
-                "name":"Fithian, Floyd",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14222":{
-                "district":"2",
-                "name":"Fithian, Floyd",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14222":{
-                "district":"2",
-                "name":"Fithian, Floyd",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14222":{
-                "district":"2",
-                "name":"Fithian, Floyd",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Indiana"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"in"
 },
   "bbox": [
     -87.52677,

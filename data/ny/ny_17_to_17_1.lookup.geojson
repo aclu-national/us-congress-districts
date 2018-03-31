@@ -1,26 +1,13 @@
 {
-  "id": "ny_17_to_17_01",
+  "id": "ny_17_to_17_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"17",
-    "id":"036017017001",
-    "member":{
-        "17":{
-            "10333":{
-                "district":"1",
-                "name":"Wood, Silas",
-                "party":"Republican"
-            },
-            "1918":{
-                "district":"1",
-                "name":"Colden, Cadwallader David",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

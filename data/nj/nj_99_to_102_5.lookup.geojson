@@ -1,42 +1,13 @@
 {
-  "id": "nj_99_to_102_05",
+  "id": "nj_99_to_102_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"102",
-    "id":"034099102005",
-    "member":{
-        "100":{
-            "14855":{
-                "district":"5",
-                "name":"Roukema, Marge",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14855":{
-                "district":"5",
-                "name":"Roukema, Marge",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14855":{
-                "district":"5",
-                "name":"Roukema, Marge",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14855":{
-                "district":"5",
-                "name":"Roukema, Marge",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New Jersey"
+    "district":5,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"nj"
 },
   "bbox": [
     -74.99212,

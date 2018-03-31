@@ -1,49 +1,13 @@
 {
-  "id": "md_38_to_42_05",
+  "id": "md_38_to_42_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"42",
-    "id":"024038042005",
-    "member":{
-        "38":{
-            "4096":{
-                "district":"5",
-                "name":"Harris, Benjamin Gwinn",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "4096":{
-                "district":"5",
-                "name":"Harris, Benjamin Gwinn",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "8979":{
-                "district":"5",
-                "name":"Stone, Frederick",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "8979":{
-                "district":"5",
-                "name":"Stone, Frederick",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "6428":{
-                "district":"5",
-                "name":"Merrick, William Matthew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Maryland"
+    "district":5,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"md"
 },
   "bbox": [
     -77.52734,

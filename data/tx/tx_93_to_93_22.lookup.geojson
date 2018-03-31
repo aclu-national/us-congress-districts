@@ -2,20 +2,12 @@
   "id": "tx_93_to_93_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"93",
-    "id":"048093093022",
-    "member":{
-        "93":{
-            "1577":{
-                "district":"22",
-                "name":"Casey, Robert Randolph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Texas"
+    "district":22,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tx"
 },
   "bbox": [
     -96.08881,

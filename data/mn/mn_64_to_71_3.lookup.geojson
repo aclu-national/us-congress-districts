@@ -1,70 +1,13 @@
 {
-  "id": "mn_64_to_71_03",
+  "id": "mn_64_to_71_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"71",
-    "id":"027064071003",
-    "member":{
-        "64":{
-            "2375":{
-                "district":"3",
-                "name":"Davis, Charles Russell",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "2375":{
-                "district":"3",
-                "name":"Davis, Charles Russell",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "2375":{
-                "district":"3",
-                "name":"Davis, Charles Russell",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "2375":{
-                "district":"3",
-                "name":"Davis, Charles Russell",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "2375":{
-                "district":"3",
-                "name":"Davis, Charles Russell",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "188":{
-                "district":"3",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "188":{
-                "district":"3",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "188":{
-                "district":"3",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Minnesota"
+    "district":3,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mn"
 },
   "bbox": [
     -94.78688,

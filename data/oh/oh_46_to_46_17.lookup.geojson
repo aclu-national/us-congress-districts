@@ -2,20 +2,12 @@
   "id": "oh_46_to_46_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"46",
-    "id":"039046046017",
-    "member":{
-        "46":{
-            "6596":{
-                "district":"17",
-                "name":"Monroe, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"oh"
 },
   "bbox": [
     -82.90323,

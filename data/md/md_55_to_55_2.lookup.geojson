@@ -1,21 +1,13 @@
 {
-  "id": "md_55_to_55_02",
+  "id": "md_55_to_55_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"55",
-    "id":"024055055002",
-    "member":{
-        "55":{
-            "374":{
-                "district":"2",
-                "name":"Baker, William Benjamin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Maryland"
+    "district":2,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"md"
 },
   "bbox": [
     -77.31151,

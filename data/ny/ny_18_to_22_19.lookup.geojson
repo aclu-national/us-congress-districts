@@ -2,48 +2,12 @@
   "id": "ny_18_to_22_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"22",
-    "id":"036018022019",
-    "member":{
-        "18":{
-            "7871":{
-                "district":"19",
-                "name":"Richards, John",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "8069":{
-                "district":"19",
-                "name":"Ross, Henry Howard",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "5121":{
-                "district":"19",
-                "name":"Keese, Richard",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "3141":{
-                "district":"19",
-                "name":"Finch, Isaac",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "4497":{
-                "district":"19",
-                "name":"Hogan, William",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":19,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -74.72568,

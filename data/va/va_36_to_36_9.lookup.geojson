@@ -1,21 +1,13 @@
 {
-  "id": "va_36_to_36_09",
+  "id": "va_36_to_36_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"36",
-    "id":"051036036009",
-    "member":{
-        "36":{
-            "4108":{
-                "district":"9",
-                "name":"Harris, John Thomas",
-                "party":"Ind. Democrat"
-            }
-        }
-    },
-    "startcong":"36",
-    "statename":"Virginia"
+    "district":9,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1859-03-04",
+    "start_session":36,
+    "state":"va"
 },
   "bbox": [
     -80.05606,

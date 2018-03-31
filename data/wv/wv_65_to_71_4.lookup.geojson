@@ -1,68 +1,13 @@
 {
-  "id": "wv_65_to_71_04",
+  "id": "wv_65_to_71_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"71",
-    "id":"054065071004",
-    "member":{
-        "65":{
-            "10367":{
-                "district":"4",
-                "name":"Woodyard, Harry Chapman",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "10367":{
-                "district":"4",
-                "name":"Woodyard, Harry Chapman",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "10367":{
-                "district":"4",
-                "name":"Woodyard, Harry Chapman",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "4954":{
-                "district":"4",
-                "name":"Johnson, George William",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "10367":{
-                "district":"4",
-                "name":"Woodyard, Harry Chapman",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4702":{
-                "district":"4",
-                "name":"Hughes, James Anthony",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4507":{
-                "district":"4",
-                "name":"Hogg, Robert Lynn",
-                "party":"Republican"
-            },
-            "4702":{
-                "district":"4",
-                "name":"Hughes, James Anthony",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"West Virginia"
+    "district":4,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"wv"
 },
   "bbox": [
     -82.50768,

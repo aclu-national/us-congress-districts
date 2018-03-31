@@ -2,27 +2,12 @@
   "id": "ny_66_to_67_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"67",
-    "id":"036066067015",
-    "member":{
-        "66":{
-            "2666":{
-                "district":"15",
-                "name":"Dooling, Peter Joseph",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "8158":{
-                "district":"15",
-                "name":"Ryan, Thomas Jefferson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -74.01248,

@@ -2,60 +2,12 @@
   "id": "ny_73_to_78_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"78",
-    "id":"036073078025",
-    "member":{
-        "73":{
-            "6469":{
-                "district":"25",
-                "name":"Millard, Charles Dunsmore",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "6469":{
-                "district":"25",
-                "name":"Millard, Charles Dunsmore",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "3446":{
-                "district":"25",
-                "name":"Gamble, Ralph Abernethy",
-                "party":"Republican"
-            },
-            "6469":{
-                "district":"25",
-                "name":"Millard, Charles Dunsmore",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "3446":{
-                "district":"25",
-                "name":"Gamble, Ralph Abernethy",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "3446":{
-                "district":"25",
-                "name":"Gamble, Ralph Abernethy",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "3446":{
-                "district":"25",
-                "name":"Gamble, Ralph Abernethy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -74.23447,

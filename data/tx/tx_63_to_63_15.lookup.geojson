@@ -2,20 +2,12 @@
   "id": "tx_63_to_63_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"63",
-    "id":"048063063015",
-    "member":{
-        "63":{
-            "3482":{
-                "district":"15",
-                "name":"Garner, John Nance",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Texas"
+    "district":15,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"tx"
 },
   "bbox": [
     -102.56699,

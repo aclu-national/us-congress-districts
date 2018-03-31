@@ -1,28 +1,13 @@
 {
-  "id": "in_21_to_22_02",
+  "id": "in_21_to_22_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"22",
-    "id":"018021022002",
-    "member":{
-        "21":{
-            "4926":{
-                "district":"2",
-                "name":"Jennings, Jonathan",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "1529":{
-                "district":"2",
-                "name":"Carr, John",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"21",
-    "statename":"Indiana"
+    "district":2,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1829-03-04",
+    "start_session":21,
+    "state":"in"
 },
   "bbox": [
     -86.68142,

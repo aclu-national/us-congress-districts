@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"82",
-    "id":"036079082022",
-    "member":{
-        "79":{
-            "7568":{
-                "district":"22",
-                "name":"Powell, Adam Clayton, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "7568":{
-                "district":"22",
-                "name":"Powell, Adam Clayton, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "7568":{
-                "district":"22",
-                "name":"Powell, Adam Clayton, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7568":{
-                "district":"22",
-                "name":"Powell, Adam Clayton, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -73.9611,

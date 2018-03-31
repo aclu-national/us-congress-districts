@@ -1,35 +1,13 @@
 {
-  "id": "pa_30_to_32_03",
+  "id": "pa_30_to_32_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"32",
-    "id":"042030032003",
-    "member":{
-        "30":{
-            "1101":{
-                "district":"3",
-                "name":"Brown, Charles",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "6634":{
-                "district":"3",
-                "name":"Moore, Henry Dunning",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "6634":{
-                "district":"3",
-                "name":"Moore, Henry Dunning",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -75.19249,

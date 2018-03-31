@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"97",
-    "id":"006094097024",
-    "member":{
-        "94":{
-            "14280":{
-                "district":"24",
-                "name":"Waxman, Henry",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14280":{
-                "district":"24",
-                "name":"Waxman, Henry",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14280":{
-                "district":"24",
-                "name":"Waxman, Henry",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14280":{
-                "district":"24",
-                "name":"Waxman, Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":24,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -118.42911,

@@ -2,48 +2,12 @@
   "id": "ca_78_to_82_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"82",
-    "id":"006078082022",
-    "member":{
-        "78":{
-            "7415":{
-                "district":"22",
-                "name":"Phillips, John",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "7415":{
-                "district":"22",
-                "name":"Phillips, John",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "7415":{
-                "district":"22",
-                "name":"Phillips, John",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7415":{
-                "district":"22",
-                "name":"Phillips, John",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "7415":{
-                "district":"22",
-                "name":"Phillips, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":22,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -118.115,

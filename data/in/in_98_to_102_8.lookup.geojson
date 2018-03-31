@@ -1,49 +1,13 @@
 {
-  "id": "in_98_to_102_08",
+  "id": "in_98_to_102_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"102",
-    "id":"018098102008",
-    "member":{
-        "100":{
-            "15041":{
-                "district":"8",
-                "name":"McCloskey, Francis X.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15041":{
-                "district":"8",
-                "name":"McCloskey, Francis X.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15041":{
-                "district":"8",
-                "name":"McCloskey, Francis X.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "15041":{
-                "district":"8",
-                "name":"McCloskey, Francis X.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15041":{
-                "district":"8",
-                "name":"McCloskey, Francis X.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Indiana"
+    "district":8,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"in"
 },
   "bbox": [
     -88.09212,

@@ -1,42 +1,13 @@
 {
-  "id": "pa_84_to_87_03",
+  "id": "pa_84_to_87_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"87",
-    "id":"042084087003",
-    "member":{
-        "84":{
-            "1368":{
-                "district":"3",
-                "name":"Byrne, James Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "1368":{
-                "district":"3",
-                "name":"Byrne, James Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "1368":{
-                "district":"3",
-                "name":"Byrne, James Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "1368":{
-                "district":"3",
-                "name":"Byrne, James Aloysius",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -75.19245,

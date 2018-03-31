@@ -1,21 +1,13 @@
 {
-  "id": "ms_45_to_45_05",
+  "id": "ms_45_to_45_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"45",
-    "id":"028045045005",
-    "member":{
-        "45":{
-            "4553":{
-                "district":"5",
-                "name":"Hooker, Charles Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Mississippi"
+    "district":5,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"ms"
 },
   "bbox": [
     -91.15815,

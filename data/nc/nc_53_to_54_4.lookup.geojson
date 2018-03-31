@@ -1,28 +1,13 @@
 {
-  "id": "nc_53_to_54_04",
+  "id": "nc_53_to_54_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"54",
-    "id":"037053054004",
-    "member":{
-        "53":{
-            "1240":{
-                "district":"4",
-                "name":"Bunn, Benjamin Hickman",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9046":{
-                "district":"4",
-                "name":"Strowd, William Franklin",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"nc"
 },
   "bbox": [
     -79.5559,

@@ -2,73 +2,12 @@
   "id": "pa_18_to_22_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"22",
-    "id":"042018022016",
-    "member":{
-        "18":{
-            "138":{
-                "district":"16",
-                "name":"Allison, James Jr.",
-                "party":"Jackson Republican"
-            },
-            "3293":{
-                "district":"16",
-                "name":"Forward, Walter",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "7088":{
-                "district":"16",
-                "name":"Orr, Robert Jr.",
-                "party":"Jackson"
-            },
-            "8920":{
-                "district":"16",
-                "name":"Stevenson, James S.",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "7088":{
-                "district":"16",
-                "name":"Orr, Robert Jr.",
-                "party":"Jackson"
-            },
-            "8920":{
-                "district":"16",
-                "name":"Stevenson, James S.",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2506":{
-                "district":"16",
-                "name":"Denny, Harmar",
-                "party":"Anti Masonic"
-            },
-            "3617":{
-                "district":"16",
-                "name":"Gilmore, John",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "2506":{
-                "district":"16",
-                "name":"Denny, Harmar",
-                "party":"Anti Masonic"
-            },
-            "3617":{
-                "district":"16",
-                "name":"Gilmore, John",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

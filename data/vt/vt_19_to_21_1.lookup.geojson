@@ -1,35 +1,13 @@
 {
-  "id": "vt_19_to_21_01",
+  "id": "vt_19_to_21_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"21",
-    "id":"050019021001",
-    "member":{
-        "19":{
-            "959":{
-                "district":"1",
-                "name":"Bradley, William Czar",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "4746":{
-                "district":"1",
-                "name":"Hunt, Jonathan",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "4746":{
-                "district":"1",
-                "name":"Hunt, Jonathan",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Vermont"
+    "district":1,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"vt"
 },
   "bbox": [
     -73.29094,

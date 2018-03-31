@@ -2,48 +2,12 @@
   "id": "ca_103_to_107_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"107",
-    "id":"006103107021",
-    "member":{
-        "103":{
-            "14669":{
-                "district":"21",
-                "name":"Thomas, William Marshall",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14669":{
-                "district":"21",
-                "name":"Thomas, William Marshall",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "14669":{
-                "district":"21",
-                "name":"Thomas, William Marshall",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "14669":{
-                "district":"21",
-                "name":"Thomas, William Marshall",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "14669":{
-                "district":"21",
-                "name":"Thomas, William Marshall",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"California"
+    "district":21,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ca"
 },
   "bbox": [
     -119.91568,

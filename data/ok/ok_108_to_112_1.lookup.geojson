@@ -1,49 +1,13 @@
 {
-  "id": "ok_108_to_112_01",
+  "id": "ok_108_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"040108112001",
-    "member":{
-        "108":{
-            "20131":{
-                "district":"1",
-                "name":"Sullivan, John",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20131":{
-                "district":"1",
-                "name":"Sullivan, John",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20131":{
-                "district":"1",
-                "name":"Sullivan, John",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20131":{
-                "district":"1",
-                "name":"Sullivan, John",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20131":{
-                "district":"1",
-                "name":"Sullivan, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Oklahoma"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ok"
 },
   "bbox": [
     -96.29809,

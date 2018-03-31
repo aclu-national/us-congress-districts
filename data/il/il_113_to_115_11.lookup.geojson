@@ -2,18 +2,12 @@
   "id": "il_113_to_115_11",
   "type": "Feature",
   "properties": {
-    "ALAND":727673674,
-    "AWATER":14266224,
-    "CD113FP":"11",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1711",
-    "INTPTLAT":"+41.6427983",
-    "INTPTLON":"-088.1459487",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 11",
-    "STATEFP":"17"
+    "district":11,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"il"
 },
   "bbox": [
     -88.40469,

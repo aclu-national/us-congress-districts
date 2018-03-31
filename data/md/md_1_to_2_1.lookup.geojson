@@ -1,28 +1,13 @@
 {
-  "id": "md_1_to_2_01",
+  "id": "md_1_to_2_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"2",
-    "id":"024001002001",
-    "member":{
-        "1":{
-            "8983":{
-                "district":"1",
-                "name":"Stone, Michael Jenifer",
-                "party":"Anti-Administration"
-            }
-        },
-        "2":{
-            "5224":{
-                "district":"1",
-                "name":"Key, Philip",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"md"
 },
   "bbox": [
     -77.27422,

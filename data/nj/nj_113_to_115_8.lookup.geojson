@@ -1,19 +1,13 @@
 {
-  "id": "nj_113_to_115_08",
+  "id": "nj_113_to_115_8",
   "type": "Feature",
   "properties": {
-    "ALAND":141851306,
-    "AWATER":37187528,
-    "CD113FP":"08",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3408",
-    "INTPTLAT":"+40.7230434",
-    "INTPTLON":"-074.1085887",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 8",
-    "STATEFP":"34"
+    "district":8,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nj"
 },
   "bbox": [
     -74.254216,

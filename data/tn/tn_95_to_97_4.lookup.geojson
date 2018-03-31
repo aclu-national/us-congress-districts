@@ -1,35 +1,13 @@
 {
-  "id": "tn_95_to_97_04",
+  "id": "tn_95_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"047095097004",
-    "member":{
-        "95":{
-            "14423":{
-                "district":"4",
-                "name":"Gore, Albert, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14423":{
-                "district":"4",
-                "name":"Gore, Albert, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14423":{
-                "district":"4",
-                "name":"Gore, Albert, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"95",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1977-01-04",
+    "start_session":95,
+    "state":"tn"
 },
   "bbox": [
     -86.9608,

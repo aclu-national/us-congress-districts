@@ -1,49 +1,13 @@
 {
-  "id": "vt_28_to_32_01",
+  "id": "vt_28_to_32_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"32",
-    "id":"050028032001",
-    "member":{
-        "28":{
-            "3256":{
-                "district":"1",
-                "name":"Foot, Solomon",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "3256":{
-                "district":"1",
-                "name":"Foot, Solomon",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "4345":{
-                "district":"1",
-                "name":"Henry, William",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "4345":{
-                "district":"1",
-                "name":"Henry, William",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "6543":{
-                "district":"1",
-                "name":"Miner, Ahiman Louis",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Vermont"
+    "district":1,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"vt"
 },
   "bbox": [
     -73.43123,

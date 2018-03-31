@@ -1,35 +1,13 @@
 {
-  "id": "ar_90_to_92_04",
+  "id": "ar_90_to_92_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"92",
-    "id":"005090092004",
-    "member":{
-        "90":{
-            "10791":{
-                "district":"4",
-                "name":"Pryor, David",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "10791":{
-                "district":"4",
-                "name":"Pryor, David",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10791":{
-                "district":"4",
-                "name":"Pryor, David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Arkansas"
+    "district":4,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"ar"
 },
   "bbox": [
     -94.04345,

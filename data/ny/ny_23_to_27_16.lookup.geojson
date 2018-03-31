@@ -2,48 +2,12 @@
   "id": "ny_23_to_27_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"27",
-    "id":"036023027016",
-    "member":{
-        "23":{
-            "5955":{
-                "district":"16",
-                "name":"Mann, Abijah Jr.",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "5955":{
-                "district":"16",
-                "name":"Mann, Abijah Jr.",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "5774":{
-                "district":"16",
-                "name":"Loomis, Arphaxed",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "2645":{
-                "district":"16",
-                "name":"Doig, Andrew Wheeler",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "2645":{
-                "district":"16",
-                "name":"Doig, Andrew Wheeler",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -75.85052,

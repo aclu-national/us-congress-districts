@@ -1,35 +1,13 @@
 {
-  "id": "va_10_to_12_06",
+  "id": "va_10_to_12_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"12",
-    "id":"051010012006",
-    "member":{
-        "10":{
-            "9468":{
-                "district":"6",
-                "name":"Trigg, Abram",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "8428":{
-                "district":"6",
-                "name":"Sheffey, Daniel",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "8428":{
-                "district":"6",
-                "name":"Sheffey, Daniel",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"10",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1807-10-26",
+    "start_session":10,
+    "state":"va"
 },
   "bbox": [
     -83.67541,

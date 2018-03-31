@@ -2,53 +2,12 @@
   "id": "pa_68_to_72_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"72",
-    "id":"042068072012",
-    "member":{
-        "68":{
-            "1572":{
-                "district":"12",
-                "name":"Casey, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1521":{
-                "district":"12",
-                "name":"Carpenter, Edmund Nelson",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "1572":{
-                "district":"12",
-                "name":"Casey, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "1572":{
-                "district":"12",
-                "name":"Casey, John Joseph",
-                "party":"Democrat"
-            },
-            "9527":{
-                "district":"12",
-                "name":"Turpin, Charles Murray",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9527":{
-                "district":"12",
-                "name":"Turpin, Charles Murray",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -76.31974,

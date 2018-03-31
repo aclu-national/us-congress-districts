@@ -1,26 +1,13 @@
 {
-  "id": "nm_62_to_62_00",
+  "id": "nm_62_to_62_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"62",
-    "id":"035062062000",
-    "member":{
-        "62":{
-            "2263":{
-                "district":"98",
-                "name":"Curry, George",
-                "party":"Republican"
-            },
-            "3112":{
-                "district":"98",
-                "name":"Fergusson, Harvey Butler",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"62",
-    "statename":"New Mexico"
+    "district":0,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1911-04-04",
+    "start_session":62,
+    "state":"nm"
 },
   "bbox": [
     -109.05017,

@@ -2,48 +2,12 @@
   "id": "ky_13_to_17_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"17",
-    "id":"021013017010",
-    "member":{
-        "13":{
-            "2795":{
-                "district":"10",
-                "name":"Duval, William Pope",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "4052":{
-                "district":"10",
-                "name":"Hardin, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "8772":{
-                "district":"10",
-                "name":"Speed, Thomas",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "4052":{
-                "district":"10",
-                "name":"Hardin, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "4052":{
-                "district":"10",
-                "name":"Hardin, Benjamin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Kentucky"
+    "district":10,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ky"
 },
   "bbox": [
     -86.39433,

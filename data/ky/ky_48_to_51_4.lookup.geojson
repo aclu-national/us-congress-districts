@@ -1,42 +1,13 @@
 {
-  "id": "ky_48_to_51_04",
+  "id": "ky_48_to_51_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"51",
-    "id":"021048051004",
-    "member":{
-        "48":{
-            "7965":{
-                "district":"4",
-                "name":"Robertson, Thomas Austin",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "7965":{
-                "district":"4",
-                "name":"Robertson, Thomas Austin",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "6600":{
-                "district":"4",
-                "name":"Montgomery, Alexander Brooks",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "6600":{
-                "district":"4",
-                "name":"Montgomery, Alexander Brooks",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Kentucky"
+    "district":4,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ky"
 },
   "bbox": [
     -87.13768,

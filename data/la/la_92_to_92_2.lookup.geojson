@@ -1,21 +1,13 @@
 {
-  "id": "la_92_to_92_02",
+  "id": "la_92_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"022092092002",
-    "member":{
-        "92":{
-            "824":{
-                "district":"2",
-                "name":"Boggs, Thomas Hale",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"Louisiana"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"la"
 },
   "bbox": [
     -90.28028,

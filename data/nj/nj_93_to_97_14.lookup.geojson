@@ -2,48 +2,12 @@
   "id": "nj_93_to_97_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"97",
-    "id":"034093097014",
-    "member":{
-        "93":{
-            "2329":{
-                "district":"14",
-                "name":"Daniels, Dominick V.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "2329":{
-                "district":"14",
-                "name":"Daniels, Dominick V.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14433":{
-                "district":"14",
-                "name":"Lefante, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14631":{
-                "district":"14",
-                "name":"Guarini, Frank Joseph",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14631":{
-                "district":"14",
-                "name":"Guarini, Frank Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New Jersey"
+    "district":14,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nj"
 },
   "bbox": [
     -74.16607,

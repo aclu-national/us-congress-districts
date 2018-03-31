@@ -2,27 +2,12 @@
   "id": "va_8_to_9_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"9",
-    "id":"051008009021",
-    "member":{
-        "8":{
-            "7727":{
-                "district":"21",
-                "name":"Randolph, Thomas Mann",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "7727":{
-                "district":"21",
-                "name":"Randolph, Thomas Mann",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Virginia"
+    "district":21,
+    "end_date":"1807-03-03",
+    "end_session":9,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"va"
 },
   "bbox": [
     -79.43704,

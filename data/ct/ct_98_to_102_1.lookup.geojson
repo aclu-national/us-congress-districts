@@ -1,49 +1,13 @@
 {
-  "id": "ct_98_to_102_01",
+  "id": "ct_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"009098102001",
-    "member":{
-        "100":{
-            "14877":{
-                "district":"1",
-                "name":"Kennelly, Barbara B.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14877":{
-                "district":"1",
-                "name":"Kennelly, Barbara B.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14877":{
-                "district":"1",
-                "name":"Kennelly, Barbara B.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14877":{
-                "district":"1",
-                "name":"Kennelly, Barbara B.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14877":{
-                "district":"1",
-                "name":"Kennelly, Barbara B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Connecticut"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ct"
 },
   "bbox": [
     -72.8407,

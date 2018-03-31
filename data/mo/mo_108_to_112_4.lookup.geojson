@@ -1,49 +1,13 @@
 {
-  "id": "mo_108_to_112_04",
+  "id": "mo_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"029108112004",
-    "member":{
-        "108":{
-            "14451":{
-                "district":"4",
-                "name":"Skelton, Ike",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "14451":{
-                "district":"4",
-                "name":"Skelton, Ike",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "14451":{
-                "district":"4",
-                "name":"Skelton, Ike",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "14451":{
-                "district":"4",
-                "name":"Skelton, Ike",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21149":{
-                "district":"4",
-                "name":"Hartzler, Vicky",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Missouri"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mo"
 },
   "bbox": [
     -94.61798,

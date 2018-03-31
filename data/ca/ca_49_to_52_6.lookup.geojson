@@ -1,42 +1,13 @@
 {
-  "id": "ca_49_to_52_06",
+  "id": "ca_49_to_52_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"52",
-    "id":"006049052006",
-    "member":{
-        "49":{
-            "5984":{
-                "district":"6",
-                "name":"Markham, Henry Harrison",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "9607":{
-                "district":"6",
-                "name":"Vandever, William",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "9607":{
-                "district":"6",
-                "name":"Vandever, William",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "906":{
-                "district":"6",
-                "name":"Bowers, William Wallace",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"California"
+    "district":6,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ca"
 },
   "bbox": [
     -121.97874,

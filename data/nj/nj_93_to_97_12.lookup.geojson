@@ -2,48 +2,12 @@
   "id": "nj_93_to_97_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"97",
-    "id":"034093097012",
-    "member":{
-        "93":{
-            "14046":{
-                "district":"12",
-                "name":"Rinaldo, Matthew",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14046":{
-                "district":"12",
-                "name":"Rinaldo, Matthew",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14046":{
-                "district":"12",
-                "name":"Rinaldo, Matthew",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14046":{
-                "district":"12",
-                "name":"Rinaldo, Matthew",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14046":{
-                "district":"12",
-                "name":"Rinaldo, Matthew",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New Jersey"
+    "district":12,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nj"
 },
   "bbox": [
     -74.463,

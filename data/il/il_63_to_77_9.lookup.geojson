@@ -1,119 +1,13 @@
 {
-  "id": "il_63_to_77_09",
+  "id": "il_63_to_77_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"77",
-    "id":"017063077009",
-    "member":{
-        "63":{
-            "1048":{
-                "district":"9",
-                "name":"Britten, Frederick Albert",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "1048":{
-                "district":"9",
-                "name":"Britten, Frederick Albert",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "1048":{
-                "district":"9",
-                "name":"Britten, Frederick Albert",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "1048":{
-                "district":"9",
-                "name":"Britten, Frederick Albert",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "1048":{
-                "district":"9",
-                "name":"Britten, Frederick Albert",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "1048":{
-                "district":"9",
-                "name":"Britten, Frederick Albert",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "1048":{
-                "district":"9",
-                "name":"Britten, Frederick Albert",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "1048":{
-                "district":"9",
-                "name":"Britten, Frederick Albert",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "1048":{
-                "district":"9",
-                "name":"Britten, Frederick Albert",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "1048":{
-                "district":"9",
-                "name":"Britten, Frederick Albert",
-                "party":"Republican"
-            }
-        },
-        "73":{
-            "1048":{
-                "district":"9",
-                "name":"Britten, Frederick Albert",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "6122":{
-                "district":"9",
-                "name":"McAndrews, James",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "6122":{
-                "district":"9",
-                "name":"McAndrews, James",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "6122":{
-                "district":"9",
-                "name":"McAndrews, James",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2541":{
-                "district":"9",
-                "name":"Dewey, Charles Schuveldt",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Illinois"
+    "district":9,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"il"
 },
   "bbox": [
     -87.65933,

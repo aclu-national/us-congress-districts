@@ -1,28 +1,13 @@
 {
-  "id": "fl_103_to_104_08",
+  "id": "fl_103_to_104_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"104",
-    "id":"012103104008",
-    "member":{
-        "103":{
-            "14842":{
-                "district":"8",
-                "name":"McCollum, Bill",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14842":{
-                "district":"8",
-                "name":"McCollum, Bill",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Florida"
+    "district":8,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"fl"
 },
   "bbox": [
     -81.65893,

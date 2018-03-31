@@ -1,21 +1,13 @@
 {
-  "id": "tn_37_to_37_03",
+  "id": "tn_37_to_37_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"37",
-    "id":"047037037003",
-    "member":{
-        "37":{
-            "1026":{
-                "district":"3",
-                "name":"Bridges, George Washington",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"37",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1861-03-04",
+    "start_session":37,
+    "state":"tn"
 },
   "bbox": [
     -85.87303,

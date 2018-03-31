@@ -2,48 +2,12 @@
   "id": "ca_73_to_77_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"77",
-    "id":"006073077015",
-    "member":{
-        "73":{
-            "9453":{
-                "district":"15",
-                "name":"Traeger, William Isham",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "2081":{
-                "district":"15",
-                "name":"Costello, John Martin",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2081":{
-                "district":"15",
-                "name":"Costello, John Martin",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2081":{
-                "district":"15",
-                "name":"Costello, John Martin",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2081":{
-                "district":"15",
-                "name":"Costello, John Martin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"California"
+    "district":15,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ca"
 },
   "bbox": [
     -118.36323,

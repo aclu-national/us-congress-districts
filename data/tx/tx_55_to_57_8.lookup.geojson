@@ -1,35 +1,13 @@
 {
-  "id": "tx_55_to_57_08",
+  "id": "tx_55_to_57_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"57",
-    "id":"048055057008",
-    "member":{
-        "55":{
-            "5460":{
-                "district":"8",
-                "name":"Lanham, Samuel Willis Tucker",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "5460":{
-                "district":"8",
-                "name":"Lanham, Samuel Willis Tucker",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "5460":{
-                "district":"8",
-                "name":"Lanham, Samuel Willis Tucker",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Texas"
+    "district":8,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"tx"
 },
   "bbox": [
     -100.23619,

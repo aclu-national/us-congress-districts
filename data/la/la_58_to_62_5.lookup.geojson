@@ -1,49 +1,13 @@
 {
-  "id": "la_58_to_62_05",
+  "id": "la_58_to_62_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"62",
-    "id":"022058062005",
-    "member":{
-        "58":{
-            "7734":{
-                "district":"5",
-                "name":"Ransdell, Joseph Eugene",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "7734":{
-                "district":"5",
-                "name":"Ransdell, Joseph Eugene",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "7734":{
-                "district":"5",
-                "name":"Ransdell, Joseph Eugene",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "7734":{
-                "district":"5",
-                "name":"Ransdell, Joseph Eugene",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "7734":{
-                "district":"5",
-                "name":"Ransdell, Joseph Eugene",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Louisiana"
+    "district":5,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"la"
 },
   "bbox": [
     -93.23861,

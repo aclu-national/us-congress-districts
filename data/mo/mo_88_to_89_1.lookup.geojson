@@ -1,28 +1,13 @@
 {
-  "id": "mo_88_to_89_01",
+  "id": "mo_88_to_89_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"89",
-    "id":"029088089001",
-    "member":{
-        "88":{
-            "5097":{
-                "district":"1",
-                "name":"Karsten, Frank Melvin",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "5097":{
-                "district":"1",
-                "name":"Karsten, Frank Melvin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Missouri"
+    "district":1,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mo"
 },
   "bbox": [
     -90.43904,

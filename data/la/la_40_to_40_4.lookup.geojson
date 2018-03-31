@@ -1,21 +1,13 @@
 {
-  "id": "la_40_to_40_04",
+  "id": "la_40_to_40_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"40",
-    "id":"022040040004",
-    "member":{
-        "40":{
-            "9669":{
-                "district":"4",
-                "name":"Vidal, Michel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Louisiana"
+    "district":4,
+    "end_date":"1869-03-03",
+    "end_session":40,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"la"
 },
   "bbox": [
     -93.9053,

@@ -2,27 +2,12 @@
   "id": "tx_88_to_89_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"89",
-    "id":"048088089022",
-    "member":{
-        "88":{
-            "1577":{
-                "district":"22",
-                "name":"Casey, Robert Randolph",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "1577":{
-                "district":"22",
-                "name":"Casey, Robert Randolph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Texas"
+    "district":22,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"tx"
 },
   "bbox": [
     -95.92132,

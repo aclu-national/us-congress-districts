@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_34",
   "type": "Feature",
   "properties": {
-    "ALAND":21213105382,
-    "AWATER":3364572718,
-    "CD113FP":"34",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4834",
-    "INTPTLAT":"+26.7738163",
-    "INTPTLON":"-097.9253663",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 34",
-    "STATEFP":"48"
+    "district":34,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -98.235497,

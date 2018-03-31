@@ -2,27 +2,12 @@
   "id": "oh_28_to_29_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"29",
-    "id":"039028029013",
-    "member":{
-        "28":{
-            "4985":{
-                "district":"13",
-                "name":"Johnson, Perley Brown",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "7214":{
-                "district":"13",
-                "name":"Parrish, Isaac",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":13,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -82.47252,

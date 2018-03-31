@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"82",
-    "id":"042079082031",
-    "member":{
-        "79":{
-            "3409":{
-                "district":"31",
-                "name":"Fulton, James Grove",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3409":{
-                "district":"31",
-                "name":"Fulton, James Grove",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3409":{
-                "district":"31",
-                "name":"Fulton, James Grove",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "3409":{
-                "district":"31",
-                "name":"Fulton, James Grove",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":31,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -80.36087,

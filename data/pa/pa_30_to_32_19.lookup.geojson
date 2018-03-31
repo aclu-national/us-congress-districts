@@ -2,34 +2,12 @@
   "id": "pa_30_to_32_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"32",
-    "id":"042030032019",
-    "member":{
-        "30":{
-            "5960":{
-                "district":"19",
-                "name":"Mann, Job",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "5960":{
-                "district":"19",
-                "name":"Mann, Job",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "5373":{
-                "district":"19",
-                "name":"Kuhns, Joseph Henry",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -79.90495,

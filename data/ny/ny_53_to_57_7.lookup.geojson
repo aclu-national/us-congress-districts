@@ -1,54 +1,13 @@
 {
-  "id": "ny_53_to_57_07",
+  "id": "ny_53_to_57_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"57",
-    "id":"036053057007",
-    "member":{
-        "53":{
-            "487":{
-                "district":"7",
-                "name":"Bartlett, Franklin",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "487":{
-                "district":"7",
-                "name":"Bartlett, Franklin",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "9656":{
-                "district":"7",
-                "name":"Vehslage, John Herman George",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "6789":{
-                "district":"7",
-                "name":"Muller, Nicholas",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "5618":{
-                "district":"7",
-                "name":"Lessler, Montague",
-                "party":"Republican"
-            },
-            "6789":{
-                "district":"7",
-                "name":"Muller, Nicholas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ny"
 },
   "bbox": [
     -74.04718,

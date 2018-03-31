@@ -1,49 +1,13 @@
 {
-  "id": "mi_103_to_107_07",
+  "id": "mi_103_to_107_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"107",
-    "id":"026103107007",
-    "member":{
-        "103":{
-            "29364":{
-                "district":"7",
-                "name":"Smith, Nick",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29364":{
-                "district":"7",
-                "name":"Smith, Nick",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29364":{
-                "district":"7",
-                "name":"Smith, Nick",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29364":{
-                "district":"7",
-                "name":"Smith, Nick",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29364":{
-                "district":"7",
-                "name":"Smith, Nick",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Michigan"
+    "district":7,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"mi"
 },
   "bbox": [
     -85.3085,

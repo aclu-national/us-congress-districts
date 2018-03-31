@@ -2,14 +2,12 @@
   "id": "ga_1_to_1_-1",
   "type": "Feature",
   "properties": {
-    "district":"-1",
-    "endcong":"1",
-    "id":"0130010010-1",
-    "member":{
-        "1":[]
-    },
-    "startcong":"1",
-    "statename":"Georgia"
+    "district":-1,
+    "end_date":"1791-03-03",
+    "end_session":1,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"ga"
 },
   "bbox": [
     -91.23593,

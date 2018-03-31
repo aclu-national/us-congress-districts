@@ -1,28 +1,13 @@
 {
-  "id": "ny_6_to_7_06",
+  "id": "ny_6_to_7_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"7",
-    "id":"036006007006",
-    "member":{
-        "6":{
-            "722":{
-                "district":"6",
-                "name":"Bird, John",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "9625":{
-                "district":"6",
-                "name":"Van Ness, John Peter",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"6",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1799-12-02",
+    "start_session":6,
+    "state":"ny"
 },
   "bbox": [
     -73.92963,

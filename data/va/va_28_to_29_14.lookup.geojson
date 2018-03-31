@@ -2,27 +2,12 @@
   "id": "va_28_to_29_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"29",
-    "id":"051028029014",
-    "member":{
-        "28":{
-            "9081":{
-                "district":"14",
-                "name":"Summers, George William",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "4974":{
-                "district":"14",
-                "name":"Johnson, Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Virginia"
+    "district":14,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"va"
 },
   "bbox": [
     -82.64474,

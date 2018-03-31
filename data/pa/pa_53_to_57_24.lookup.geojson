@@ -2,48 +2,12 @@
   "id": "pa_53_to_57_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"57",
-    "id":"042053057024",
-    "member":{
-        "53":{
-            "8547":{
-                "district":"24",
-                "name":"Sipe, William Allen",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "14":{
-                "district":"24",
-                "name":"Acheson, Ernest Francis",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "14":{
-                "district":"24",
-                "name":"Acheson, Ernest Francis",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "14":{
-                "district":"24",
-                "name":"Acheson, Ernest Francis",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "14":{
-                "district":"24",
-                "name":"Acheson, Ernest Francis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Pennsylvania"
+    "district":24,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"pa"
 },
   "bbox": [
     -80.51949,

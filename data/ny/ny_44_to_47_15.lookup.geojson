@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"47",
-    "id":"036044047015",
-    "member":{
-        "44":{
-            "337":{
-                "district":"15",
-                "name":"Bagley, John Holroyd Jr",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "6110":{
-                "district":"15",
-                "name":"Mayham, Stephen Lorenzo",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "5788":{
-                "district":"15",
-                "name":"Lounsbery, William",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "2072":{
-                "district":"15",
-                "name":"Cornell, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -74.78069,

@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_30",
   "type": "Feature",
   "properties": {
-    "ALAND":352114654,
-    "AWATER":5012015,
-    "CD113FP":"30",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0630",
-    "INTPTLAT":"+34.2018725",
-    "INTPTLON":"-118.5469560",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 30",
-    "STATEFP":"06"
+    "district":30,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -118.718625,

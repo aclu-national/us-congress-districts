@@ -2,41 +2,12 @@
   "id": "ca_99_to_102_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"102",
-    "id":"006099102017",
-    "member":{
-        "100":{
-            "14652":{
-                "district":"17",
-                "name":"Pashayan, Charles Sahag",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14652":{
-                "district":"17",
-                "name":"Pashayan, Charles Sahag",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "29105":{
-                "district":"17",
-                "name":"Dooley, Calvin",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14652":{
-                "district":"17",
-                "name":"Pashayan, Charles Sahag",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":17,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -120.31409,

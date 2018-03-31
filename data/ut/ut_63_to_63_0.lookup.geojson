@@ -1,26 +1,13 @@
 {
-  "id": "ut_63_to_63_00",
+  "id": "ut_63_to_63_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"63",
-    "id":"049063063000",
-    "member":{
-        "63":{
-            "4652":{
-                "district":"98",
-                "name":"Howell, Joseph",
-                "party":"Republican"
-            },
-            "4963":{
-                "district":"98",
-                "name":"Johnson, Jacob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Utah"
+    "district":0,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ut"
 },
   "bbox": [
     -114.053,

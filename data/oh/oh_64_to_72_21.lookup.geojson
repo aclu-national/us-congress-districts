@@ -2,76 +2,12 @@
   "id": "oh_64_to_72_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"72",
-    "id":"039064072021",
-    "member":{
-        "64":{
-            "2199":{
-                "district":"21",
-                "name":"Crosser, Robert",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "2199":{
-                "district":"21",
-                "name":"Crosser, Robert",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "317":{
-                "district":"21",
-                "name":"Babka, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "3422":{
-                "district":"21",
-                "name":"Gahn, Harry Conrad",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "2199":{
-                "district":"21",
-                "name":"Crosser, Robert",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2199":{
-                "district":"21",
-                "name":"Crosser, Robert",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "2199":{
-                "district":"21",
-                "name":"Crosser, Robert",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "2199":{
-                "district":"21",
-                "name":"Crosser, Robert",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "2199":{
-                "district":"21",
-                "name":"Crosser, Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":21,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -81.71832,

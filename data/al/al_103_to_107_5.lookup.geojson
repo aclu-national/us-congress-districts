@@ -1,49 +1,13 @@
 {
-  "id": "al_103_to_107_05",
+  "id": "al_103_to_107_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"107",
-    "id":"001103107005",
-    "member":{
-        "103":{
-            "29100":{
-                "district":"5",
-                "name":"Cramer, Bud",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29100":{
-                "district":"5",
-                "name":"Cramer, Bud",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29100":{
-                "district":"5",
-                "name":"Cramer, Robert E. \"Bud\"",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29100":{
-                "district":"5",
-                "name":"Cramer, Robert E. \"Bud\"",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29100":{
-                "district":"5",
-                "name":"Cramer, Robert E. \"Bud\"",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Alabama"
+    "district":5,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"al"
 },
   "bbox": [
     -88.20296,

@@ -2,62 +2,12 @@
   "id": "ga_53_to_59_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"59",
-    "id":"013053059011",
-    "member":{
-        "53":{
-            "9516":{
-                "district":"11",
-                "name":"Turner, Henry Gray",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9516":{
-                "district":"11",
-                "name":"Turner, Henry Gray",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "979":{
-                "district":"11",
-                "name":"Brantley, William Gordon",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "979":{
-                "district":"11",
-                "name":"Brantley, William Gordon",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "979":{
-                "district":"11",
-                "name":"Brantley, William Gordon",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "979":{
-                "district":"11",
-                "name":"Brantley, William Gordon",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "979":{
-                "district":"11",
-                "name":"Brantley, William Gordon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Georgia"
+    "district":11,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ga"
 },
   "bbox": [
     -83.74387,

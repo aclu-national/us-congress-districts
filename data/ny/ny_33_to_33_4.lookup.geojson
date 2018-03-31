@@ -1,21 +1,13 @@
 {
-  "id": "ny_33_to_33_04",
+  "id": "ny_33_to_33_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"33",
-    "id":"036033033004",
-    "member":{
-        "33":{
-            "9786":{
-                "district":"4",
-                "name":"Walsh, Michael",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -74.00861,

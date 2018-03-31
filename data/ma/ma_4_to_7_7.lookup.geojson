@@ -1,42 +1,13 @@
 {
-  "id": "ma_4_to_7_07",
+  "id": "ma_4_to_7_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"7",
-    "id":"025004007007",
-    "member":{
-        "4":{
-            "5611":{
-                "district":"7",
-                "name":"Leonard, George",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "1232":{
-                "district":"7",
-                "name":"Bullock, Stephen",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "733":{
-                "district":"7",
-                "name":"Bishop, Phanuel",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "733":{
-                "district":"7",
-                "name":"Bishop, Phanuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"ma"
 },
   "bbox": [
     -71.49831,

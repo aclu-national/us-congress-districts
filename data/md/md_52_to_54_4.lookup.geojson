@@ -1,35 +1,13 @@
 {
-  "id": "md_52_to_54_04",
+  "id": "md_52_to_54_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"54",
-    "id":"024052054004",
-    "member":{
-        "52":{
-            "7757":{
-                "district":"4",
-                "name":"Rayner, Isidor",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "7757":{
-                "district":"4",
-                "name":"Rayner, Isidor",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "2104":{
-                "district":"4",
-                "name":"Cowen, John Kissig",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Maryland"
+    "district":4,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"md"
 },
   "bbox": [
     -76.65398,

@@ -1,21 +1,13 @@
 {
-  "id": "tx_47_to_47_06",
+  "id": "tx_47_to_47_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"47",
-    "id":"048047047006",
-    "member":{
-        "47":{
-            "9573":{
-                "district":"6",
-                "name":"Upson, Christopher Columbus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

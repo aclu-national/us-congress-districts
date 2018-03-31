@@ -1,82 +1,13 @@
 {
-  "id": "md_43_to_51_03",
+  "id": "md_43_to_51_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"51",
-    "id":"024043051003",
-    "member":{
-        "43":{
-            "7005":{
-                "district":"3",
-                "name":"O'Brien, William J.",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "7005":{
-                "district":"3",
-                "name":"O'Brien, William J.",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "5247":{
-                "district":"3",
-                "name":"Kimmel, William",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "5247":{
-                "district":"3",
-                "name":"Kimmel, William",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "4472":{
-                "district":"3",
-                "name":"Hoblitzell, Fetter Schrie",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "4472":{
-                "district":"3",
-                "name":"Hoblitzell, Fetter Schrie",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "1929":{
-                "district":"3",
-                "name":"Cole, William Hinson",
-                "party":"Democrat"
-            },
-            "8119":{
-                "district":"3",
-                "name":"Rusk, Harry Welles",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "8119":{
-                "district":"3",
-                "name":"Rusk, Harry Welles",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "8119":{
-                "district":"3",
-                "name":"Rusk, Harry Welles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"md"
 },
   "bbox": [
     -76.62557,

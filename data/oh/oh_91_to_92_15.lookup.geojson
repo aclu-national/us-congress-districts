@@ -2,27 +2,12 @@
   "id": "oh_91_to_92_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"92",
-    "id":"039091092015",
-    "member":{
-        "91":{
-            "11058":{
-                "district":"15",
-                "name":"Wylie, Chalmers P.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11058":{
-                "district":"15",
-                "name":"Wylie, Chalmers P.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"oh"
 },
   "bbox": [
     -83.65333,

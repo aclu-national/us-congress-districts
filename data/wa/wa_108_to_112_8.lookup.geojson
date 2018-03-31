@@ -1,49 +1,13 @@
 {
-  "id": "wa_108_to_112_08",
+  "id": "wa_108_to_112_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"112",
-    "id":"053108112008",
-    "member":{
-        "108":{
-            "39312":{
-                "district":"8",
-                "name":"Dunn, Jennifer",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20536":{
-                "district":"8",
-                "name":"Reichert, Dave",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20536":{
-                "district":"8",
-                "name":"Reichert, Dave",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20536":{
-                "district":"8",
-                "name":"Reichert, Dave",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20536":{
-                "district":"8",
-                "name":"Reichert, Dave",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Washington"
+    "district":8,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"wa"
 },
   "bbox": [
     -122.37156,

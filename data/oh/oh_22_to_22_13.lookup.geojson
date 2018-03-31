@@ -2,20 +2,12 @@
   "id": "oh_22_to_22_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"22",
-    "id":"039022022013",
-    "member":{
-        "22":{
-            "10078":{
-                "district":"13",
-                "name":"Whittlesey, Elisha",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"22",
-    "statename":"Ohio"
+    "district":13,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1831-12-05",
+    "start_session":22,
+    "state":"oh"
 },
   "bbox": [
     -81.59785,

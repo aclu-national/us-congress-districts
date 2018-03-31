@@ -2,18 +2,12 @@
   "id": "oh_113_to_115_13",
   "type": "Feature",
   "properties": {
-    "ALAND":2316184973,
-    "AWATER":70028461,
-    "CD113FP":"13",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3913",
-    "INTPTLAT":"+41.1496303",
-    "INTPTLON":"-080.9786969",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 13",
-    "STATEFP":"39"
+    "district":13,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"oh"
 },
   "bbox": [
     -81.650647,

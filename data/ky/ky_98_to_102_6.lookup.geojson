@@ -1,49 +1,13 @@
 {
-  "id": "ky_98_to_102_06",
+  "id": "ky_98_to_102_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"102",
-    "id":"021098102006",
-    "member":{
-        "100":{
-            "14635":{
-                "district":"6",
-                "name":"Hopkins, Larry Jones",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14635":{
-                "district":"6",
-                "name":"Hopkins, Larry Jones",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14635":{
-                "district":"6",
-                "name":"Hopkins, Larry Jones",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14635":{
-                "district":"6",
-                "name":"Hopkins, Larry Jones",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14635":{
-                "district":"6",
-                "name":"Hopkins, Larry Jones",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ky"
 },
   "bbox": [
     -85.4675,

@@ -1,28 +1,13 @@
 {
-  "id": "ga_34_to_35_04",
+  "id": "ga_34_to_35_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"35",
-    "id":"013034035004",
-    "member":{
-        "34":{
-            "9831":{
-                "district":"4",
-                "name":"Warner, Hiram",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "3496":{
-                "district":"4",
-                "name":"Gartrell, Lucius Jeremiah",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Georgia"
+    "district":4,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ga"
 },
   "bbox": [
     -85.2938,

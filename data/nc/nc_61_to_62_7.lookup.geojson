@@ -1,28 +1,13 @@
 {
-  "id": "nc_61_to_62_07",
+  "id": "nc_61_to_62_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"62",
-    "id":"037061062007",
-    "member":{
-        "61":{
-            "7160":{
-                "district":"7",
-                "name":"Page, Robert Newton",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "7160":{
-                "district":"7",
-                "name":"Page, Robert Newton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"61",
-    "statename":"North Carolina"
+    "district":7,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1909-03-04",
+    "start_session":61,
+    "state":"nc"
 },
   "bbox": [
     -80.88218,

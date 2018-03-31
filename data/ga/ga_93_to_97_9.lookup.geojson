@@ -1,49 +1,13 @@
 {
-  "id": "ga_93_to_97_09",
+  "id": "ga_93_to_97_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"97",
-    "id":"013093097009",
-    "member":{
-        "93":{
-            "5436":{
-                "district":"9",
-                "name":"Landrum, Phillip Mitchell",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "5436":{
-                "district":"9",
-                "name":"Landrum, Phillip Mitchell",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14429":{
-                "district":"9",
-                "name":"Jenkins, Ed",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14429":{
-                "district":"9",
-                "name":"Jenkins, Ed",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14429":{
-                "district":"9",
-                "name":"Jenkins, Ed",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Georgia"
+    "district":9,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ga"
 },
   "bbox": [
     -85.26512,

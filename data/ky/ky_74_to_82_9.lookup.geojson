@@ -1,82 +1,13 @@
 {
-  "id": "ky_74_to_82_09",
+  "id": "ky_74_to_82_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"82",
-    "id":"021074082009",
-    "member":{
-        "74":{
-            "7996":{
-                "district":"9",
-                "name":"Robsion, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "7996":{
-                "district":"9",
-                "name":"Robsion, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "7996":{
-                "district":"9",
-                "name":"Robsion, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "7996":{
-                "district":"9",
-                "name":"Robsion, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "7996":{
-                "district":"9",
-                "name":"Robsion, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "7996":{
-                "district":"9",
-                "name":"Robsion, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "5650":{
-                "district":"9",
-                "name":"Lewis, William",
-                "party":"Republican"
-            },
-            "7996":{
-                "district":"9",
-                "name":"Robsion, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3649":{
-                "district":"9",
-                "name":"Golden, James Stephen",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "3649":{
-                "district":"9",
-                "name":"Golden, James Stephen",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Kentucky"
+    "district":9,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"ky"
 },
   "bbox": [
     -85.97741,

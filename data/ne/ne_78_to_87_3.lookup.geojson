@@ -1,89 +1,13 @@
 {
-  "id": "ne_78_to_87_03",
+  "id": "ne_78_to_87_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"87",
-    "id":"031078087003",
-    "member":{
-        "78":{
-            "8879":{
-                "district":"3",
-                "name":"Stefan, Karl",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "8879":{
-                "district":"3",
-                "name":"Stefan, Karl",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "8879":{
-                "district":"3",
-                "name":"Stefan, Karl",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "8879":{
-                "district":"3",
-                "name":"Stefan, Karl",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4134":{
-                "district":"3",
-                "name":"Harrison, Robert Dinsmore",
-                "party":"Republican"
-            },
-            "8879":{
-                "district":"3",
-                "name":"Stefan, Karl",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "4134":{
-                "district":"3",
-                "name":"Harrison, Robert Dinsmore",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4134":{
-                "district":"3",
-                "name":"Harrison, Robert Dinsmore",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4134":{
-                "district":"3",
-                "name":"Harrison, Robert Dinsmore",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "1050":{
-                "district":"3",
-                "name":"Brock, Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10504":{
-                "district":"3",
-                "name":"Beerman, Ralph F.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Nebraska"
+    "district":3,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ne"
 },
   "bbox": [
     -98.31038,

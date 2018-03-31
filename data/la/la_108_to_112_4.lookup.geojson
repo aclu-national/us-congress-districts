@@ -1,49 +1,13 @@
 {
-  "id": "la_108_to_112_04",
+  "id": "la_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"022108112004",
-    "member":{
-        "108":{
-            "15451":{
-                "district":"4",
-                "name":"McCrery, Jim",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "15451":{
-                "district":"4",
-                "name":"McCrery, Jim",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "15451":{
-                "district":"4",
-                "name":"McCrery, Jim",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20918":{
-                "district":"4",
-                "name":"Fleming, John",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20918":{
-                "district":"4",
-                "name":"Fleming, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Louisiana"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"la"
 },
   "bbox": [
     -94.04315,

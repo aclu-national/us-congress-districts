@@ -1,42 +1,13 @@
 {
-  "id": "md_24_to_27_01",
+  "id": "md_24_to_27_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"27",
-    "id":"024024027001",
-    "member":{
-        "24":{
-            "8871":{
-                "district":"1",
-                "name":"Steele, John Nevett",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "2502":{
-                "district":"1",
-                "name":"Dennis, John",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "2502":{
-                "district":"1",
-                "name":"Dennis, John",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "5037":{
-                "district":"1",
-                "name":"Jones, Isaac Dashiell",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"24",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1835-12-07",
+    "start_session":24,
+    "state":"md"
 },
   "bbox": [
     -76.34127,

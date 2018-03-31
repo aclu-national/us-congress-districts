@@ -1,49 +1,13 @@
 {
-  "id": "nh_93_to_97_01",
+  "id": "nh_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"033093097001",
-    "member":{
-        "93":{
-            "10639":{
-                "district":"1",
-                "name":"Wyman, Louis C.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14284":{
-                "district":"1",
-                "name":"D Amours, Norman",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14284":{
-                "district":"1",
-                "name":"D Amours, Norman",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14284":{
-                "district":"1",
-                "name":"D Amours, Norman",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14284":{
-                "district":"1",
-                "name":"D Amours, Norman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New Hampshire"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nh"
 },
   "bbox": [
     -71.73155,

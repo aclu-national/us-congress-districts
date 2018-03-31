@@ -2,20 +2,12 @@
   "id": "ca_98_to_98_38",
   "type": "Feature",
   "properties": {
-    "district":"38",
-    "endcong":"98",
-    "id":"006098098038",
-    "member":{
-        "98":{
-            "14266":{
-                "district":"38",
-                "name":"Patterson, Jerry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"California"
+    "district":38,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ca"
 },
   "bbox": [
     -118.09272,

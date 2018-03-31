@@ -1,42 +1,13 @@
 {
-  "id": "az_109_to_112_02",
+  "id": "az_109_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"004109112002",
-    "member":{
-        "109":{
-            "20304":{
-                "district":"2",
-                "name":"Franks, Trent",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20304":{
-                "district":"2",
-                "name":"Franks, Trent",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20304":{
-                "district":"2",
-                "name":"Franks, Trent",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20304":{
-                "district":"2",
-                "name":"Franks, Trent",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Arizona"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"az"
 },
   "bbox": [
     -114.75562,

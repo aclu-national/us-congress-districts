@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"32",
-    "id":"036028032017",
-    "member":{
-        "28":{
-            "654":{
-                "district":"17",
-                "name":"Benton, Charles Swan",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "654":{
-                "district":"17",
-                "name":"Benton, Charles Swan",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "7374":{
-                "district":"17",
-                "name":"Petrie, George",
-                "party":"Ind. Democrat"
-            }
-        },
-        "31":{
-            "81":{
-                "district":"17",
-                "name":"Alexander, Henry Porteous",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "1217":{
-                "district":"17",
-                "name":"Buell, Alexander Hamilton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -75.21911,

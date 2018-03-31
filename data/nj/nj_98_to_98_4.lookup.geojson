@@ -1,21 +1,13 @@
 {
-  "id": "nj_98_to_98_04",
+  "id": "nj_98_to_98_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"98",
-    "id":"034098098004",
-    "member":{
-        "98":{
-            "14863":{
-                "district":"4",
-                "name":"Smith, Christopher H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New Jersey"
+    "district":4,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"nj"
 },
   "bbox": [
     -75.11632,

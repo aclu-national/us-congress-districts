@@ -2,53 +2,12 @@
   "id": "fl_98_to_102_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"102",
-    "id":"012098102018",
-    "member":{
-        "100":{
-            "7333":{
-                "district":"18",
-                "name":"Pepper, Claude Denson",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15634":{
-                "district":"18",
-                "name":"Ros-lehtinen, Ileana",
-                "party":"Republican"
-            },
-            "7333":{
-                "district":"18",
-                "name":"Pepper, Claude Denson",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15634":{
-                "district":"18",
-                "name":"Ros-lehtinen, Ileana",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "7333":{
-                "district":"18",
-                "name":"Pepper, Claude Denson",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "7333":{
-                "district":"18",
-                "name":"Pepper, Claude Denson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Florida"
+    "district":18,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"fl"
 },
   "bbox": [
     -80.3232,

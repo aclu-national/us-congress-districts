@@ -2,39 +2,12 @@
   "id": "pa_90_to_92_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"92",
-    "id":"042090092027",
-    "member":{
-        "90":{
-            "3409":{
-                "district":"27",
-                "name":"Fulton, James Grove",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "3409":{
-                "district":"27",
-                "name":"Fulton, James Grove",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13057":{
-                "district":"27",
-                "name":"Conover, William",
-                "party":"Republican"
-            },
-            "3409":{
-                "district":"27",
-                "name":"Fulton, James Grove",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Pennsylvania"
+    "district":27,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"pa"
 },
   "bbox": [
     -80.36087,

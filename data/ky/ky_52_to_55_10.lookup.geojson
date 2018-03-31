@@ -2,56 +2,12 @@
   "id": "ky_52_to_55_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"55",
-    "id":"021052055010",
-    "member":{
-        "52":{
-            "5166":{
-                "district":"10",
-                "name":"Kendall, John Wikerson",
-                "party":"Democrat"
-            },
-            "5169":{
-                "district":"10",
-                "name":"Kendall, Joseph Morgan",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "565":{
-                "district":"10",
-                "name":"Beckner, William Morgan",
-                "party":"Democrat"
-            },
-            "5695":{
-                "district":"10",
-                "name":"Lisle, Marcus Claiborne",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "4570":{
-                "district":"10",
-                "name":"Hopkins, Nathan Thomas",
-                "party":"Republican"
-            },
-            "5169":{
-                "district":"10",
-                "name":"Kendall, Joseph Morgan",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "3195":{
-                "district":"10",
-                "name":"Fitzpatrick, Thomas Young",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Kentucky"
+    "district":10,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"ky"
 },
   "bbox": [
     -84.34897,

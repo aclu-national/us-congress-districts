@@ -1,21 +1,13 @@
 {
-  "id": "tn_43_to_43_06",
+  "id": "tn_43_to_43_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"43",
-    "id":"047043043006",
-    "member":{
-        "43":{
-            "10076":{
-                "district":"6",
-                "name":"Whitthorne, Washington Curran",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"tn"
 },
   "bbox": [
     -88.02474,

@@ -1,49 +1,13 @@
 {
-  "id": "ny_108_to_112_08",
+  "id": "ny_108_to_112_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"112",
-    "id":"036108112008",
-    "member":{
-        "108":{
-            "29377":{
-                "district":"8",
-                "name":"Nadler, Jerrold",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29377":{
-                "district":"8",
-                "name":"Nadler, Jerrold",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29377":{
-                "district":"8",
-                "name":"Nadler, Jerrold",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29377":{
-                "district":"8",
-                "name":"Nadler, Jerrold",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29377":{
-                "district":"8",
-                "name":"Nadler, Jerrold",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":8,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -74.04731,

@@ -1,42 +1,13 @@
 {
-  "id": "wi_89_to_92_09",
+  "id": "wi_89_to_92_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"92",
-    "id":"055089092009",
-    "member":{
-        "89":{
-            "2383":{
-                "district":"9",
-                "name":"Davis, Glenn Robert",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "2383":{
-                "district":"9",
-                "name":"Davis, Glenn Robert",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "2383":{
-                "district":"9",
-                "name":"Davis, Glenn Robert",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "2383":{
-                "district":"9",
-                "name":"Davis, Glenn Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Wisconsin"
+    "district":9,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"wi"
 },
   "bbox": [
     -88.5424,

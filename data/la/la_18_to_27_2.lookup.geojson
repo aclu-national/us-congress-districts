@@ -1,84 +1,13 @@
 {
-  "id": "la_18_to_27_02",
+  "id": "la_18_to_27_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"27",
-    "id":"022018027002",
-    "member":{
-        "18":{
-            "3880":{
-                "district":"2",
-                "name":"Gurley, Henry Hosford",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "3880":{
-                "district":"2",
-                "name":"Gurley, Henry Hosford",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "3880":{
-                "district":"2",
-                "name":"Gurley, Henry Hosford",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "3880":{
-                "district":"2",
-                "name":"Gurley, Henry Hosford",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "9306":{
-                "district":"2",
-                "name":"Thomas, Philemon",
-                "party":"Anti-Jackson"
-            }
-        },
-        "23":{
-            "9306":{
-                "district":"2",
-                "name":"Thomas, Philemon",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "7912":{
-                "district":"2",
-                "name":"Ripley, Eleazar Wheelock",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "7912":{
-                "district":"2",
-                "name":"Ripley, Eleazar Wheelock",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "1700":{
-                "district":"2",
-                "name":"Chinn, Thomas Withers",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "2427":{
-                "district":"2",
-                "name":"Dawson, John Bennett",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Louisiana"
+    "district":2,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"la"
 },
   "bbox": [
     -91.82307,

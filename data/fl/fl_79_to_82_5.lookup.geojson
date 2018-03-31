@@ -1,42 +1,13 @@
 {
-  "id": "fl_79_to_82_05",
+  "id": "fl_79_to_82_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"82",
-    "id":"012079082005",
-    "member":{
-        "79":{
-            "4318":{
-                "district":"5",
-                "name":"Hendricks, Joseph Edward",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "4318":{
-                "district":"5",
-                "name":"Hendricks, Joseph Edward",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "4354":{
-                "district":"5",
-                "name":"Herlong, Albert Sydney, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "4354":{
-                "district":"5",
-                "name":"Herlong, Albert Sydney, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Florida"
+    "district":5,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"fl"
 },
   "bbox": [
     -82.77635,

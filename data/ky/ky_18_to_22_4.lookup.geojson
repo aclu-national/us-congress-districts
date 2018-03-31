@@ -1,49 +1,13 @@
 {
-  "id": "ky_18_to_22_04",
+  "id": "ky_18_to_22_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"22",
-    "id":"021018022004",
-    "member":{
-        "18":{
-            "5622":{
-                "district":"4",
-                "name":"Letcher, Robert Perkins",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "5622":{
-                "district":"4",
-                "name":"Letcher, Robert Perkins",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "5622":{
-                "district":"4",
-                "name":"Letcher, Robert Perkins",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "5622":{
-                "district":"4",
-                "name":"Letcher, Robert Perkins",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "5622":{
-                "district":"4",
-                "name":"Letcher, Robert Perkins",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Kentucky"
+    "district":4,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ky"
 },
   "bbox": [
     -84.74554,

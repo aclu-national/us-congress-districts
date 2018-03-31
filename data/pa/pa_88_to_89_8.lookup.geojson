@@ -1,28 +1,13 @@
 {
-  "id": "pa_88_to_89_08",
+  "id": "pa_88_to_89_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"89",
-    "id":"042088089008",
-    "member":{
-        "88":{
-            "2266":{
-                "district":"8",
-                "name":"Curtin, Willard Sevier",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "2266":{
-                "district":"8",
-                "name":"Curtin, Willard Sevier",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"pa"
 },
   "bbox": [
     -75.89147,

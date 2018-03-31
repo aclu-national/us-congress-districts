@@ -1,49 +1,13 @@
 {
-  "id": "sc_28_to_32_03",
+  "id": "sc_28_to_32_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"32",
-    "id":"045028032003",
-    "member":{
-        "28":{
-            "10362":{
-                "district":"3",
-                "name":"Woodward, Joseph Addison",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "10362":{
-                "district":"3",
-                "name":"Woodward, Joseph Addison",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "10362":{
-                "district":"3",
-                "name":"Woodward, Joseph Addison",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "10362":{
-                "district":"3",
-                "name":"Woodward, Joseph Addison",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "10362":{
-                "district":"3",
-                "name":"Woodward, Joseph Addison",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"sc"
 },
   "bbox": [
     -81.42755,

@@ -1,49 +1,13 @@
 {
-  "id": "pa_18_to_22_05",
+  "id": "pa_18_to_22_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"22",
-    "id":"042018022005",
-    "member":{
-        "18":{
-            "5985":{
-                "district":"5",
-                "name":"Markley, Philip Swenk",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "5985":{
-                "district":"5",
-                "name":"Markley, Philip Swenk",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "8897":{
-                "district":"5",
-                "name":"Sterigere, John Benton",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "8897":{
-                "district":"5",
-                "name":"Sterigere, John Benton",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "5961":{
-                "district":"5",
-                "name":"Mann, Joel Keith",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"pa"
 },
   "bbox": [
     -75.69679,

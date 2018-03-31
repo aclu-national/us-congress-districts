@@ -2,20 +2,12 @@
   "id": "pa_44_to_44_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"44",
-    "id":"042044044024",
-    "member":{
-        "44":{
-            "9765":{
-                "district":"24",
-                "name":"Wallace, John Winfield",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":24,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

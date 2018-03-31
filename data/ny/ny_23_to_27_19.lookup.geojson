@@ -2,48 +2,12 @@
   "id": "ny_23_to_27_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"27",
-    "id":"036023027019",
-    "member":{
-        "23":{
-            "7161":{
-                "district":"19",
-                "name":"Page, Sherman",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "7161":{
-                "district":"19",
-                "name":"Page, Sherman",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "7599":{
-                "district":"19",
-                "name":"Prentiss, John Holmes",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "7599":{
-                "district":"19",
-                "name":"Prentiss, John Holmes",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "922":{
-                "district":"19",
-                "name":"Bowne, Samuel Smith",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":19,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -75.41693,

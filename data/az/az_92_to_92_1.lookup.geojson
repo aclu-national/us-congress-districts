@@ -1,21 +1,13 @@
 {
-  "id": "az_92_to_92_01",
+  "id": "az_92_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"004092092001",
-    "member":{
-        "92":{
-            "7845":{
-                "district":"1",
-                "name":"Rhodes, John Jacob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"Arizona"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"az"
 },
   "bbox": [
     -112.10052,

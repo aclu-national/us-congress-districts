@@ -1,43 +1,13 @@
 {
-  "id": "ky_38_to_42_02",
+  "id": "ky_38_to_42_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"42",
-    "id":"021038042002",
-    "member":{
-        "38":{
-            "10422":{
-                "district":"2",
-                "name":"Yeaman, George Helm",
-                "party":"Unionist"
-            }
-        },
-        "39":{
-            "7922":{
-                "district":"2",
-                "name":"Ritter, Burwell Clark",
-                "party":"Democrat"
-            }
-        },
-        "40":[],
-        "41":{
-            "9114":{
-                "district":"2",
-                "name":"Sweeney, William Northcut",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "6269":{
-                "district":"2",
-                "name":"McHenry, Henry Davis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Kentucky"
+    "district":2,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ky"
 },
   "bbox": [
     -87.92708,

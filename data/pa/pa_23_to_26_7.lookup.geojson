@@ -1,42 +1,13 @@
 {
-  "id": "pa_23_to_26_07",
+  "id": "pa_23_to_26_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"26",
-    "id":"042023026007",
-    "member":{
-        "23":{
-            "9709":{
-                "district":"7",
-                "name":"Wagener, David Douglas",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "9709":{
-                "district":"7",
-                "name":"Wagener, David Douglas",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "9709":{
-                "district":"7",
-                "name":"Wagener, David Douglas",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "9709":{
-                "district":"7",
-                "name":"Wagener, David Douglas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -75.99735,

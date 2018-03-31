@@ -1,49 +1,13 @@
 {
-  "id": "ma_98_to_102_03",
+  "id": "ma_98_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"025098102003",
-    "member":{
-        "100":{
-            "14216":{
-                "district":"3",
-                "name":"Early, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14216":{
-                "district":"3",
-                "name":"Early, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14216":{
-                "district":"3",
-                "name":"Early, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14216":{
-                "district":"3",
-                "name":"Early, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14216":{
-                "district":"3",
-                "name":"Early, Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ma"
 },
   "bbox": [
     -72.21807,

@@ -1,49 +1,13 @@
 {
-  "id": "va_98_to_102_06",
+  "id": "va_98_to_102_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"102",
-    "id":"051098102006",
-    "member":{
-        "100":{
-            "15048":{
-                "district":"6",
-                "name":"Olin, James R.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15048":{
-                "district":"6",
-                "name":"Olin, James R.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15048":{
-                "district":"6",
-                "name":"Olin, James R.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "15048":{
-                "district":"6",
-                "name":"Olin, James R.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15048":{
-                "district":"6",
-                "name":"Olin, James R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"va"
 },
   "bbox": [
     -80.29635,

@@ -2,46 +2,12 @@
   "id": "pa_23_to_26_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"26",
-    "id":"042023026024",
-    "member":{
-        "23":{
-            "407":{
-                "district":"24",
-                "name":"Banks, John",
-                "party":"Anti Masonic"
-            }
-        },
-        "24":{
-            "407":{
-                "district":"24",
-                "name":"Banks, John",
-                "party":"Anti Masonic"
-            },
-            "7287":{
-                "district":"24",
-                "name":"Pearson, John James",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "4343":{
-                "district":"24",
-                "name":"Henry, Thomas",
-                "party":"Anti Masonic"
-            }
-        },
-        "26":{
-            "4343":{
-                "district":"24",
-                "name":"Henry, Thomas",
-                "party":"Anti Masonic"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":24,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

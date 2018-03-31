@@ -2,48 +2,12 @@
   "id": "ca_108_to_112_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"112",
-    "id":"006108112029",
-    "member":{
-        "108":{
-            "20104":{
-                "district":"29",
-                "name":"Schiff, Adam B.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20104":{
-                "district":"29",
-                "name":"Schiff, Adam B.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20104":{
-                "district":"29",
-                "name":"Schiff, Adam B.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20104":{
-                "district":"29",
-                "name":"Schiff, Adam B.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20104":{
-                "district":"29",
-                "name":"Schiff, Adam B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":29,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -118.3423,

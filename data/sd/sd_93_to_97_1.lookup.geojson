@@ -1,49 +1,13 @@
 {
-  "id": "sd_93_to_97_01",
+  "id": "sd_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"046093097001",
-    "member":{
-        "93":{
-            "13012":{
-                "district":"1",
-                "name":"Denholm, Frank",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14268":{
-                "district":"1",
-                "name":"Pressler, Larry",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14268":{
-                "district":"1",
-                "name":"Pressler, Larry",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14617":{
-                "district":"1",
-                "name":"Daschle, Thomas Andrew",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14617":{
-                "district":"1",
-                "name":"Daschle, Thomas Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"South Dakota"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"sd"
 },
   "bbox": [
     -98.72539,

@@ -2,48 +2,12 @@
   "id": "nj_108_to_112_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"112",
-    "id":"034108112010",
-    "member":{
-        "108":{
-            "15619":{
-                "district":"10",
-                "name":"Payne, Donald M.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15619":{
-                "district":"10",
-                "name":"Payne, Donald M.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "15619":{
-                "district":"10",
-                "name":"Payne, Donald M.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "15619":{
-                "district":"10",
-                "name":"Payne, Donald M.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "15619":{
-                "district":"10",
-                "name":"Payne, Donald M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New Jersey"
+    "district":10,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nj"
 },
   "bbox": [
     -74.33179,

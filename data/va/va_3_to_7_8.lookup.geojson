@@ -1,49 +1,13 @@
 {
-  "id": "va_3_to_7_08",
+  "id": "va_3_to_7_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"7",
-    "id":"051003007008",
-    "member":{
-        "3":{
-            "1739":{
-                "district":"8",
-                "name":"Claiborne, Thomas",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "1739":{
-                "district":"8",
-                "name":"Claiborne, Thomas",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "1739":{
-                "district":"8",
-                "name":"Claiborne, Thomas",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "3668":{
-                "district":"8",
-                "name":"Goode, Samuel",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "1739":{
-                "district":"8",
-                "name":"Claiborne, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"va"
 },
   "bbox": [
     -78.74044,

@@ -1,42 +1,13 @@
 {
-  "id": "la_33_to_36_01",
+  "id": "la_33_to_36_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"36",
-    "id":"022033036001",
-    "member":{
-        "33":{
-            "2755":{
-                "district":"1",
-                "name":"Dunbar, William",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "2999":{
-                "district":"1",
-                "name":"Eustis, George Jr.",
-                "party":"American"
-            }
-        },
-        "35":{
-            "2999":{
-                "district":"1",
-                "name":"Eustis, George Jr.",
-                "party":"American"
-            }
-        },
-        "36":{
-            "882":{
-                "district":"1",
-                "name":"Bouligny, John Edward",
-                "party":"American"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Louisiana"
+    "district":1,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"la"
 },
   "bbox": [
     -90.11151,

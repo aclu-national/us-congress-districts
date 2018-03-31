@@ -1,54 +1,13 @@
 {
-  "id": "pa_68_to_72_06",
+  "id": "pa_68_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"042068072006",
-    "member":{
-        "68":{
-            "9948":{
-                "district":"6",
-                "name":"Welsh, George Austin",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9948":{
-                "district":"6",
-                "name":"Welsh, George Austin",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9948":{
-                "district":"6",
-                "name":"Welsh, George Austin",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9948":{
-                "district":"6",
-                "name":"Welsh, George Austin",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2406":{
-                "district":"6",
-                "name":"Davis, Robert Lee",
-                "party":"Republican"
-            },
-            "9948":{
-                "district":"6",
-                "name":"Welsh, George Austin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

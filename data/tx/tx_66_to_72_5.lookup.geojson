@@ -1,63 +1,13 @@
 {
-  "id": "tx_66_to_72_05",
+  "id": "tx_66_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"048066072005",
-    "member":{
-        "66":{
-            "9087":{
-                "district":"5",
-                "name":"Sumners, Hatton William",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "9087":{
-                "district":"5",
-                "name":"Sumners, Hatton William",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "9087":{
-                "district":"5",
-                "name":"Sumners, Hatton William",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9087":{
-                "district":"5",
-                "name":"Sumners, Hatton William",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "9087":{
-                "district":"5",
-                "name":"Sumners, Hatton William",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "9087":{
-                "district":"5",
-                "name":"Sumners, Hatton William",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "9087":{
-                "district":"5",
-                "name":"Sumners, Hatton William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -97.08745,

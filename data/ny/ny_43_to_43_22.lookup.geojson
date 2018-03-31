@@ -2,20 +2,12 @@
   "id": "ny_43_to_43_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"43",
-    "id":"036043043022",
-    "member":{
-        "43":{
-            "7951":{
-                "district":"22",
-                "name":"Roberts, Ellis Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ny"
 },
   "bbox": [
     -75.88676,

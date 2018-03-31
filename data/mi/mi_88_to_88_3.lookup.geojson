@@ -1,21 +1,13 @@
 {
-  "id": "mi_88_to_88_03",
+  "id": "mi_88_to_88_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"88",
-    "id":"026088088003",
-    "member":{
-        "88":{
-            "4935":{
-                "district":"3",
-                "name":"Johansen, August Edgar",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Michigan"
+    "district":3,
+    "end_date":"1964-10-03",
+    "end_session":88,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mi"
 },
   "bbox": [
     -85.76617,

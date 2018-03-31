@@ -1,35 +1,13 @@
 {
-  "id": "tx_83_to_85_06",
+  "id": "tx_83_to_85_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"85",
-    "id":"048083085006",
-    "member":{
-        "83":{
-            "9241":{
-                "district":"6",
-                "name":"Teague, Olin Earl",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "9241":{
-                "district":"6",
-                "name":"Teague, Olin Earl",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "9241":{
-                "district":"6",
-                "name":"Teague, Olin Earl",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tx"
 },
   "bbox": [
     -97.49711,

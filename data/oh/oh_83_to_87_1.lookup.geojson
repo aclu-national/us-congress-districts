@@ -1,49 +1,13 @@
 {
-  "id": "oh_83_to_87_01",
+  "id": "oh_83_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"039083087001",
-    "member":{
-        "83":{
-            "8260":{
-                "district":"1",
-                "name":"Scherer, Gordon Harry",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "8260":{
-                "district":"1",
-                "name":"Scherer, Gordon Harry",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "8260":{
-                "district":"1",
-                "name":"Scherer, Gordon Harry",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "8260":{
-                "district":"1",
-                "name":"Scherer, Gordon Harry",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "8260":{
-                "district":"1",
-                "name":"Scherer, Gordon Harry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Ohio"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"oh"
 },
   "bbox": [
     -84.53941,

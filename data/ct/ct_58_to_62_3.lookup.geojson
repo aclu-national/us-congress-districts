@@ -1,54 +1,13 @@
 {
-  "id": "ct_58_to_62_03",
+  "id": "ct_58_to_62_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"62",
-    "id":"009058062003",
-    "member":{
-        "58":{
-            "978":{
-                "district":"3",
-                "name":"Brandegee, Frank Bosworth",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "4398":{
-                "district":"3",
-                "name":"Higgins, Edwin Werter",
-                "party":"Republican"
-            },
-            "978":{
-                "district":"3",
-                "name":"Brandegee, Frank Bosworth",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "4398":{
-                "district":"3",
-                "name":"Higgins, Edwin Werter",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "4398":{
-                "district":"3",
-                "name":"Higgins, Edwin Werter",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "4398":{
-                "district":"3",
-                "name":"Higgins, Edwin Werter",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Connecticut"
+    "district":3,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ct"
 },
   "bbox": [
     -72.46673,

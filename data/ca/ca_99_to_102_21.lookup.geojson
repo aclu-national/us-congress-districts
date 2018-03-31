@@ -2,41 +2,12 @@
   "id": "ca_99_to_102_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"102",
-    "id":"006099102021",
-    "member":{
-        "100":{
-            "15413":{
-                "district":"21",
-                "name":"Gallegly, Elton",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15413":{
-                "district":"21",
-                "name":"Gallegly, Elton",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15413":{
-                "district":"21",
-                "name":"Gallegly, Elton",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14821":{
-                "district":"21",
-                "name":"Fiedler, Bobbi",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":21,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -119.5775,

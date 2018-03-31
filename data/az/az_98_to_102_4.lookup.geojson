@@ -1,49 +1,13 @@
 {
-  "id": "az_98_to_102_04",
+  "id": "az_98_to_102_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"102",
-    "id":"004098102004",
-    "member":{
-        "100":{
-            "15429":{
-                "district":"4",
-                "name":"Kyl, Jon",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15429":{
-                "district":"4",
-                "name":"Kyl, Jon",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15429":{
-                "district":"4",
-                "name":"Kyl, Jon",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14449":{
-                "district":"4",
-                "name":"Rudd, Eldon",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14449":{
-                "district":"4",
-                "name":"Rudd, Eldon",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Arizona"
+    "district":4,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"az"
 },
   "bbox": [
     -112.31159,

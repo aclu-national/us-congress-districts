@@ -2,27 +2,12 @@
   "id": "ny_106_to_107_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"107",
-    "id":"036106107018",
-    "member":{
-        "106":{
-            "15612":{
-                "district":"18",
-                "name":"Lowey, Nita M.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "15612":{
-                "district":"18",
-                "name":"Lowey, Nita M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"106",
-    "statename":"New York"
+    "district":18,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1999-01-06",
+    "start_session":106,
+    "state":"ny"
 },
   "bbox": [
     -73.90492,

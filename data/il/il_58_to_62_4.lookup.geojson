@@ -1,49 +1,13 @@
 {
-  "id": "il_58_to_62_04",
+  "id": "il_58_to_62_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"62",
-    "id":"017058062004",
-    "member":{
-        "58":{
-            "3305":{
-                "district":"4",
-                "name":"Foster, George Peter",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "9977":{
-                "district":"4",
-                "name":"Wharton, Charles Stuart",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "6213":{
-                "district":"4",
-                "name":"McDermott, James Thomas",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "6213":{
-                "district":"4",
-                "name":"McDermott, James Thomas",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "6213":{
-                "district":"4",
-                "name":"McDermott, James Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":4,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -87.74345,

@@ -1,84 +1,13 @@
 {
-  "id": "in_63_to_72_02",
+  "id": "in_63_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"018063072002",
-    "member":{
-        "63":{
-            "2241":{
-                "district":"2",
-                "name":"Cullop, William Allen",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "2241":{
-                "district":"2",
-                "name":"Cullop, William Allen",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "782":{
-                "district":"2",
-                "name":"Bland, Oscar Edward",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "782":{
-                "district":"2",
-                "name":"Bland, Oscar Edward",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "782":{
-                "district":"2",
-                "name":"Bland, Oscar Edward",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "3801":{
-                "district":"2",
-                "name":"Greenwood, Arthur Herbert",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3801":{
-                "district":"2",
-                "name":"Greenwood, Arthur Herbert",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "3801":{
-                "district":"2",
-                "name":"Greenwood, Arthur Herbert",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "3801":{
-                "district":"2",
-                "name":"Greenwood, Arthur Herbert",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "3801":{
-                "district":"2",
-                "name":"Greenwood, Arthur Herbert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Indiana"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"in"
 },
   "bbox": [
     -87.75683,

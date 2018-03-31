@@ -2,20 +2,12 @@
   "id": "ny_48_to_48_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"48",
-    "id":"036048048020",
-    "member":{
-        "48":{
-            "9950":{
-                "district":"20",
-                "name":"Wemple, Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -74.86771,

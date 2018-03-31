@@ -2,34 +2,12 @@
   "id": "ny_103_to_105_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"105",
-    "id":"036103105027",
-    "member":{
-        "103":{
-            "15618":{
-                "district":"27",
-                "name":"Paxon, L. William",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15618":{
-                "district":"27",
-                "name":"Paxon, L. William",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15618":{
-                "district":"27",
-                "name":"Paxon, L. William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -78.8325,

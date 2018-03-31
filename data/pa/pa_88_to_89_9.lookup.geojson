@@ -1,28 +1,13 @@
 {
-  "id": "pa_88_to_89_09",
+  "id": "pa_88_to_89_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"89",
-    "id":"042088089009",
-    "member":{
-        "88":{
-            "2298":{
-                "district":"9",
-                "name":"Dague, Paul Bartram",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "2298":{
-                "district":"9",
-                "name":"Dague, Paul Bartram",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Pennsylvania"
+    "district":9,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

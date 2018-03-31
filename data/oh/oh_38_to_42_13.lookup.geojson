@@ -2,53 +2,12 @@
   "id": "oh_38_to_42_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"42",
-    "id":"039038042013",
-    "member":{
-        "38":{
-            "7079":{
-                "district":"13",
-                "name":"O'Neill, John",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "2479":{
-                "district":"13",
-                "name":"Delano, Columbus",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "2479":{
-                "district":"13",
-                "name":"Delano, Columbus",
-                "party":"Republican"
-            },
-            "6678":{
-                "district":"13",
-                "name":"Morgan, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "6678":{
-                "district":"13",
-                "name":"Morgan, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "6678":{
-                "district":"13",
-                "name":"Morgan, George Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Ohio"
+    "district":13,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"oh"
 },
   "bbox": [
     -82.78249,

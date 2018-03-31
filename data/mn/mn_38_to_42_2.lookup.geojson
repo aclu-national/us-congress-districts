@@ -1,49 +1,13 @@
 {
-  "id": "mn_38_to_42_02",
+  "id": "mn_38_to_42_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"42",
-    "id":"027038042002",
-    "member":{
-        "38":{
-            "2658":{
-                "district":"2",
-                "name":"Donnelly, Ignatius",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "2658":{
-                "district":"2",
-                "name":"Donnelly, Ignatius",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "2658":{
-                "district":"2",
-                "name":"Donnelly, Ignatius",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "10218":{
-                "district":"2",
-                "name":"Wilson, Eugene McLanahan",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "298":{
-                "district":"2",
-                "name":"Averill, John Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Minnesota"
+    "district":2,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"mn"
 },
   "bbox": [
     -97.23921,

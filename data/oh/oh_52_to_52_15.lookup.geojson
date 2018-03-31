@@ -2,20 +2,12 @@
   "id": "oh_52_to_52_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"52",
-    "id":"039052052015",
-    "member":{
-        "52":{
-            "4153":{
-                "district":"15",
-                "name":"Harter, Michael Daniel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"oh"
 },
   "bbox": [
     -83.24962,

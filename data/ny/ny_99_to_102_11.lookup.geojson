@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"102",
-    "id":"036099102011",
-    "member":{
-        "100":{
-            "15072":{
-                "district":"11",
-                "name":"Towns, Edolphus",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15072":{
-                "district":"11",
-                "name":"Towns, Edolphus",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15072":{
-                "district":"11",
-                "name":"Towns, Edolphus",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15072":{
-                "district":"11",
-                "name":"Towns, Edolphus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -74.0003,

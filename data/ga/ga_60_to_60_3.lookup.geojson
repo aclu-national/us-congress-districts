@@ -1,21 +1,13 @@
 {
-  "id": "ga_60_to_60_03",
+  "id": "ga_60_to_60_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"60",
-    "id":"013060060003",
-    "member":{
-        "60":{
-            "5638":{
-                "district":"3",
-                "name":"Lewis, Elijah Banks",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Georgia"
+    "district":3,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ga"
 },
   "bbox": [
     -85.06833,

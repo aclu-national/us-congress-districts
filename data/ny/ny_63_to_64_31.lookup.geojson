@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"64",
-    "id":"036063064031",
-    "member":{
-        "63":{
-            "6433":{
-                "district":"31",
-                "name":"Merritt, Edwin Albert",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "8721":{
-                "district":"31",
-                "name":"Snell, Bertrand Hollis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -75.83996,

@@ -1,49 +1,13 @@
 {
-  "id": "md_83_to_87_06",
+  "id": "md_83_to_87_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"87",
-    "id":"024083087006",
-    "member":{
-        "83":{
-            "4785":{
-                "district":"6",
-                "name":"Hyde, Dewitt Stephen",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4785":{
-                "district":"6",
-                "name":"Hyde, Dewitt Stephen",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4785":{
-                "district":"6",
-                "name":"Hyde, Dewitt Stephen",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "3249":{
-                "district":"6",
-                "name":"Foley, John Robert",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10535":{
-                "district":"6",
-                "name":"Mathias, Charles McCurdy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

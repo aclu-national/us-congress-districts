@@ -1,49 +1,13 @@
 {
-  "id": "md_93_to_97_03",
+  "id": "md_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"024093097003",
-    "member":{
-        "93":{
-            "13039":{
-                "district":"3",
-                "name":"Sarbanes, Paul",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "13039":{
-                "district":"3",
-                "name":"Sarbanes, Paul",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14440":{
-                "district":"3",
-                "name":"Mikulski, Barbara",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14440":{
-                "district":"3",
-                "name":"Mikulski, Barbara",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14440":{
-                "district":"3",
-                "name":"Mikulski, Barbara",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"md"
 },
   "bbox": [
     -76.78769,

@@ -2,69 +2,12 @@
   "id": "va_53_to_60_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"60",
-    "id":"051053060010",
-    "member":{
-        "53":{
-            "9498":{
-                "district":"10",
-                "name":"Tucker, Henry St. George",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9498":{
-                "district":"10",
-                "name":"Tucker, Henry St. George",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "10432":{
-                "district":"10",
-                "name":"Yost, Jacob",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "7666":{
-                "district":"10",
-                "name":"Quarles, Julian Minor",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "3225":{
-                "district":"10",
-                "name":"Flood, Henry De La Warr",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "3225":{
-                "district":"10",
-                "name":"Flood, Henry De La Warr",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "3225":{
-                "district":"10",
-                "name":"Flood, Henry De La Warr",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "3225":{
-                "district":"10",
-                "name":"Flood, Henry De La Warr",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"va"
 },
   "bbox": [
     -80.29614,

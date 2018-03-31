@@ -1,28 +1,13 @@
 {
-  "id": "ma_53_to_54_04",
+  "id": "ma_53_to_54_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"54",
-    "id":"025053054004",
-    "member":{
-        "53":{
-            "221":{
-                "district":"4",
-                "name":"Apsley, Lewis Dewart",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "221":{
-                "district":"4",
-                "name":"Apsley, Lewis Dewart",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ma"
 },
   "bbox": [
     -72.09956,

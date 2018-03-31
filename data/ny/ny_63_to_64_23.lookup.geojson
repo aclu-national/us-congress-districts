@@ -2,32 +2,12 @@
   "id": "ny_63_to_64_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"64",
-    "id":"036063064023",
-    "member":{
-        "63":{
-            "3725":{
-                "district":"23",
-                "name":"Goulden, Joseph Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3725":{
-                "district":"23",
-                "name":"Goulden, Joseph Aloysius",
-                "party":"Democrat"
-            },
-            "632":{
-                "district":"23",
-                "name":"Bennet, William Stiles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -73.95124,

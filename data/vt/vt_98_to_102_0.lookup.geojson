@@ -1,49 +1,13 @@
 {
-  "id": "vt_98_to_102_00",
+  "id": "vt_98_to_102_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"102",
-    "id":"050098102000",
-    "member":{
-        "100":{
-            "14240":{
-                "district":"1",
-                "name":"Jeffords, James",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15626":{
-                "district":"1",
-                "name":"Smith, Peter",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "29147":{
-                "district":"1",
-                "name":"Sanders, Bernard",
-                "party":"Independent"
-            }
-        },
-        "98":{
-            "14240":{
-                "district":"1",
-                "name":"Jeffords, James",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14240":{
-                "district":"1",
-                "name":"Jeffords, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Vermont"
+    "district":0,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"vt"
 },
   "bbox": [
     -73.42967,

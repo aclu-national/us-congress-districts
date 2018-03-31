@@ -1,49 +1,13 @@
 {
-  "id": "wv_108_to_112_02",
+  "id": "wv_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"054108112002",
-    "member":{
-        "108":{
-            "20146":{
-                "district":"2",
-                "name":"Capito, Shelley Moore",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20146":{
-                "district":"2",
-                "name":"Capito, Shelley Moore",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20146":{
-                "district":"2",
-                "name":"Capito, Shelley Moore",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20146":{
-                "district":"2",
-                "name":"Capito, Shelley Moore",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20146":{
-                "district":"2",
-                "name":"Capito, Shelley Moore",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"West Virginia"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"wv"
 },
   "bbox": [
     -82.22157,

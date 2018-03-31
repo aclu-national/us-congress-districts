@@ -1,28 +1,13 @@
 {
-  "id": "va_23_to_24_03",
+  "id": "va_23_to_24_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"24",
-    "id":"051023024003",
-    "member":{
-        "23":{
-            "225":{
-                "district":"3",
-                "name":"Archer, William Segar",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "5049":{
-                "district":"3",
-                "name":"Jones, John Winston",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Virginia"
+    "district":3,
+    "end_date":"1837-03-03",
+    "end_session":24,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"va"
 },
   "bbox": [
     -78.24083,

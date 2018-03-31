@@ -2,20 +2,12 @@
   "id": "ma_13_to_13_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"13",
-    "id":"025013013019",
-    "member":{
-        "13":{
-            "7194":{
-                "district":"19",
-                "name":"Parker, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Massachusetts"
+    "district":19,
+    "end_date":"1815-03-03",
+    "end_session":13,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ma"
 },
   "bbox": [
     -70.35592,

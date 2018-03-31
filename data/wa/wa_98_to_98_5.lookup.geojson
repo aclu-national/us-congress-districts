@@ -1,21 +1,13 @@
 {
-  "id": "wa_98_to_98_05",
+  "id": "wa_98_to_98_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"98",
-    "id":"053098098005",
-    "member":{
-        "98":{
-            "10726":{
-                "district":"5",
-                "name":"Foley, Thomas S.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Washington"
+    "district":5,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"wa"
 },
   "bbox": [
     -119.36962,

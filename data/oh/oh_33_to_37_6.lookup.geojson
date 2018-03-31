@@ -1,49 +1,13 @@
 {
-  "id": "oh_33_to_37_06",
+  "id": "oh_33_to_37_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"37",
-    "id":"039033037006",
-    "member":{
-        "33":{
-            "2929":{
-                "district":"6",
-                "name":"Ellison, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "2962":{
-                "district":"6",
-                "name":"Emrie, Jonas Reece",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "1890":{
-                "district":"6",
-                "name":"Cockerill, Joseph Randolph",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "4633":{
-                "district":"6",
-                "name":"Howard, William",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "10014":{
-                "district":"6",
-                "name":"White, Chilton Allen",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":6,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -84.31964,

@@ -1,19 +1,13 @@
 {
-  "id": "ma_113_to_115_08",
+  "id": "ma_113_to_115_8",
   "type": "Feature",
   "properties": {
-    "ALAND":845313811,
-    "AWATER":447648415,
-    "CD113FP":"08",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2508",
-    "INTPTLAT":"+42.1947343",
-    "INTPTLON":"-070.9440053",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 8",
-    "STATEFP":"25"
+    "district":8,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ma"
 },
   "bbox": [
     -71.303785,

@@ -1,49 +1,13 @@
 {
-  "id": "mn_58_to_62_03",
+  "id": "mn_58_to_62_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"62",
-    "id":"027058062003",
-    "member":{
-        "58":{
-            "2375":{
-                "district":"3",
-                "name":"Davis, Charles Russell",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2375":{
-                "district":"3",
-                "name":"Davis, Charles Russell",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2375":{
-                "district":"3",
-                "name":"Davis, Charles Russell",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2375":{
-                "district":"3",
-                "name":"Davis, Charles Russell",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "2375":{
-                "district":"3",
-                "name":"Davis, Charles Russell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Minnesota"
+    "district":3,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"mn"
 },
   "bbox": [
     -94.78688,

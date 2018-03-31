@@ -1,21 +1,13 @@
 {
-  "id": "tx_47_to_47_05",
+  "id": "tx_47_to_47_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"47",
-    "id":"048047047005",
-    "member":{
-        "47":{
-            "5034":{
-                "district":"5",
-                "name":"Jones, George Washington",
-                "party":"National Greenbacker"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Texas"
+    "district":5,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"tx"
 },
   "bbox": [
     -100.23619,

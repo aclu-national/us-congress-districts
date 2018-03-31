@@ -2,48 +2,12 @@
   "id": "oh_38_to_42_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"42",
-    "id":"039038042015",
-    "member":{
-        "38":{
-            "6705":{
-                "district":"15",
-                "name":"Morris, James Remley",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "7476":{
-                "district":"15",
-                "name":"Plants, Tobias Avery",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "7476":{
-                "district":"15",
-                "name":"Plants, Tobias Avery",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "6630":{
-                "district":"15",
-                "name":"Moore, Eliakim Hastings",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "8807":{
-                "district":"15",
-                "name":"Sprague, William Peter",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"oh"
 },
   "bbox": [
     -82.32389,

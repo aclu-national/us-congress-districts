@@ -1,49 +1,13 @@
 {
-  "id": "wi_98_to_102_02",
+  "id": "wi_98_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"055098102002",
-    "member":{
-        "100":{
-            "5101":{
-                "district":"2",
-                "name":"Kastenmeier, Robert William",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "5101":{
-                "district":"2",
-                "name":"Kastenmeier, Robert William",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "29150":{
-                "district":"2",
-                "name":"Klug, Scott L.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "5101":{
-                "district":"2",
-                "name":"Kastenmeier, Robert William",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "5101":{
-                "district":"2",
-                "name":"Kastenmeier, Robert William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Wisconsin"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"wi"
 },
   "bbox": [
     -90.54424,

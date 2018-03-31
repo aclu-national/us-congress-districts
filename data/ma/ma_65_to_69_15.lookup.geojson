@@ -2,53 +2,12 @@
   "id": "ma_65_to_69_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"69",
-    "id":"025065069015",
-    "member":{
-        "65":{
-            "3794":{
-                "district":"15",
-                "name":"Greene, William Stedman",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "3794":{
-                "district":"15",
-                "name":"Greene, William Stedman",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3794":{
-                "district":"15",
-                "name":"Greene, William Stedman",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "3794":{
-                "district":"15",
-                "name":"Greene, William Stedman",
-                "party":"Republican"
-            },
-            "5537":{
-                "district":"15",
-                "name":"Leach, Robert Milton",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "6033":{
-                "district":"15",
-                "name":"Martin, Joseph William, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Massachusetts"
+    "district":15,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ma"
 },
   "bbox": [
     -71.3817,

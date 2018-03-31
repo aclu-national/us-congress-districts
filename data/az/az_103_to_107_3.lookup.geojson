@@ -1,49 +1,13 @@
 {
-  "id": "az_103_to_107_03",
+  "id": "az_103_to_107_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"107",
-    "id":"004103107003",
-    "member":{
-        "103":{
-            "14454":{
-                "district":"3",
-                "name":"Stump, Bob",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14454":{
-                "district":"3",
-                "name":"Stump, Bob",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "14454":{
-                "district":"3",
-                "name":"Stump, Bob",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "14454":{
-                "district":"3",
-                "name":"Stump, Bob",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "14454":{
-                "district":"3",
-                "name":"Stump, Bob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Arizona"
+    "district":3,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"az"
 },
   "bbox": [
     -114.75562,

@@ -1,47 +1,13 @@
 {
-  "id": "va_19_to_22_01",
+  "id": "va_19_to_22_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"22",
-    "id":"051019022001",
-    "member":{
-        "19":{
-            "6905":{
-                "district":"1",
-                "name":"Newton, Thomas, Jr.",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "6905":{
-                "district":"1",
-                "name":"Newton, Thomas, Jr.",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "5819":{
-                "district":"1",
-                "name":"Loyall, George",
-                "party":"Jackson"
-            },
-            "6905":{
-                "district":"1",
-                "name":"Newton, Thomas, Jr.",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "6905":{
-                "district":"1",
-                "name":"Newton, Thomas, Jr.",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -76.93094,

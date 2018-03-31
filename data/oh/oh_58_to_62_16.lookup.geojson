@@ -2,53 +2,12 @@
   "id": "oh_58_to_62_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"62",
-    "id":"039058062016",
-    "member":{
-        "58":{
-            "3588":{
-                "district":"16",
-                "name":"Gill, Joseph John",
-                "party":"Republican"
-            },
-            "9914":{
-                "district":"16",
-                "name":"Weems, Capell Lane",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "9914":{
-                "district":"16",
-                "name":"Weems, Capell Lane",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "9914":{
-                "district":"16",
-                "name":"Weems, Capell Lane",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "4524":{
-                "district":"16",
-                "name":"Hollingsworth, David Adams",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "3336":{
-                "district":"16",
-                "name":"Francis, William Bates",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Ohio"
+    "district":16,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"oh"
 },
   "bbox": [
     -81.33956,

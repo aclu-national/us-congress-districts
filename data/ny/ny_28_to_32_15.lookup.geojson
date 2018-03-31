@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"32",
-    "id":"036028032015",
-    "member":{
-        "28":{
-            "8904":{
-                "district":"15",
-                "name":"Stetson, Lemuel",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "8134":{
-                "district":"15",
-                "name":"Russell, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "5516":{
-                "district":"15",
-                "name":"Lawrence, Sidney",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "9368":{
-                "district":"15",
-                "name":"Thurman, John Richardson",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "8134":{
-                "district":"15",
-                "name":"Russell, Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -74.85417,

@@ -1,28 +1,13 @@
 {
-  "id": "ny_6_to_7_08",
+  "id": "ny_6_to_7_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"7",
-    "id":"036006007008",
-    "member":{
-        "6":{
-            "3628":{
-                "district":"8",
-                "name":"Glen, Henry",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "9630":{
-                "district":"8",
-                "name":"Van Rensselaer, Killian K",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"6",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1799-12-02",
+    "start_session":6,
+    "state":"ny"
 },
   "bbox": [
     -74.71158,

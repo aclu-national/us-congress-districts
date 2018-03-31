@@ -2,48 +2,12 @@
   "id": "ca_103_to_107_47",
   "type": "Feature",
   "properties": {
-    "district":"47",
-    "endcong":"107",
-    "id":"006103107047",
-    "member":{
-        "103":{
-            "15601":{
-                "district":"47",
-                "name":"Cox, C. Christopher",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15601":{
-                "district":"47",
-                "name":"Cox, C. Christopher",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15601":{
-                "district":"47",
-                "name":"Cox, Christopher",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "15601":{
-                "district":"47",
-                "name":"Cox, Christopher",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "15601":{
-                "district":"47",
-                "name":"Cox, Christopher",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"California"
+    "district":47,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ca"
 },
   "bbox": [
     -117.90779,

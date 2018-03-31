@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_34",
   "type": "Feature",
   "properties": {
-    "district":"34",
-    "endcong":"62",
-    "id":"036058062034",
-    "member":{
-        "58":{
-            "9704":{
-                "district":"34",
-                "name":"Wadsworth, James Wolcott",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "9704":{
-                "district":"34",
-                "name":"Wadsworth, James Wolcott",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "7538":{
-                "district":"34",
-                "name":"Porter, Peter Augustus",
-                "party":"Ind. Republican"
-            }
-        },
-        "61":{
-            "8517":{
-                "district":"34",
-                "name":"Simmons, James Samuel",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "8517":{
-                "district":"34",
-                "name":"Simmons, James Samuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":34,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

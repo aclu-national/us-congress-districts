@@ -1,21 +1,13 @@
 {
-  "id": "mn_72_to_72_02",
+  "id": "mn_72_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"027072072002",
-    "member":{
-        "72":{
-            "1734":{
-                "district":"2",
-                "name":"Clague, Frank",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"72",
-    "statename":"Minnesota"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1931-12-07",
+    "start_session":72,
+    "state":"mn"
 },
   "bbox": [
     -96.45351,

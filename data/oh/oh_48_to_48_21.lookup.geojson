@@ -2,20 +2,12 @@
   "id": "oh_48_to_48_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"48",
-    "id":"039048048021",
-    "member":{
-        "48":{
-            "3263":{
-                "district":"21",
-                "name":"Foran, Martin Ambrose",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Ohio"
+    "district":21,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"oh"
 },
   "bbox": [
     -81.97126,

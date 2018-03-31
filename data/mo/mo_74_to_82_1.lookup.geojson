@@ -1,77 +1,13 @@
 {
-  "id": "mo_74_to_82_01",
+  "id": "mo_74_to_82_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"82",
-    "id":"029074082001",
-    "member":{
-        "74":{
-            "8047":{
-                "district":"1",
-                "name":"Romjue, Milton Andrew",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8047":{
-                "district":"1",
-                "name":"Romjue, Milton Andrew",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8047":{
-                "district":"1",
-                "name":"Romjue, Milton Andrew",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8047":{
-                "district":"1",
-                "name":"Romjue, Milton Andrew",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "248":{
-                "district":"1",
-                "name":"Arnold, Samuel Washington",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "248":{
-                "district":"1",
-                "name":"Arnold, Samuel Washington",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "248":{
-                "district":"1",
-                "name":"Arnold, Samuel Washington",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "5905":{
-                "district":"1",
-                "name":"Magee, Clare",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5905":{
-                "district":"1",
-                "name":"Magee, Clare",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Missouri"
+    "district":1,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mo"
 },
   "bbox": [
     -94.2188,

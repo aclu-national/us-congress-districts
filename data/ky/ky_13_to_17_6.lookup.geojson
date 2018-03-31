@@ -1,54 +1,13 @@
 {
-  "id": "ky_13_to_17_06",
+  "id": "ky_13_to_17_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"17",
-    "id":"021013017006",
-    "member":{
-        "13":{
-            "8407":{
-                "district":"6",
-                "name":"Sharp, Solomon P.",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "8407":{
-                "district":"6",
-                "name":"Sharp, Solomon P.",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "9737":{
-                "district":"6",
-                "name":"Walker, David",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "4951":{
-                "district":"6",
-                "name":"Johnson, Francis",
-                "party":"Republican"
-            },
-            "9737":{
-                "district":"6",
-                "name":"Walker, David",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "4951":{
-                "district":"6",
-                "name":"Johnson, Francis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ky"
 },
   "bbox": [
     -87.16414,

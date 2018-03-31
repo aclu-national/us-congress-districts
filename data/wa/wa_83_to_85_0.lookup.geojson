@@ -1,35 +1,13 @@
 {
-  "id": "wa_83_to_85_00",
+  "id": "wa_83_to_85_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"85",
-    "id":"053083085000",
-    "member":{
-        "83":{
-            "5912":{
-                "district":"99",
-                "name":"Magnuson, Donald Hammer",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5912":{
-                "district":"99",
-                "name":"Magnuson, Donald Hammer",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5912":{
-                "district":"99",
-                "name":"Magnuson, Donald Hammer",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Washington"
+    "district":0,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"wa"
 },
   "bbox": [
     -124.76258,

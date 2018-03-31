@@ -1,42 +1,13 @@
 {
-  "id": "fl_69_to_72_04",
+  "id": "fl_69_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"012069072004",
-    "member":{
-        "69":{
-            "8335":{
-                "district":"4",
-                "name":"Sears, William Joseph",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "8335":{
-                "district":"4",
-                "name":"Sears, William Joseph",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7134":{
-                "district":"4",
-                "name":"Owen, Ruth Bryan",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "7134":{
-                "district":"4",
-                "name":"Owen, Ruth Bryan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"69",
-    "statename":"Florida"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1925-03-04",
+    "start_session":69,
+    "state":"fl"
 },
   "bbox": [
     -82.9264,

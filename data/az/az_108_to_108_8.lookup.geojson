@@ -1,21 +1,13 @@
 {
-  "id": "az_108_to_108_08",
+  "id": "az_108_to_108_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"108",
-    "id":"004108108008",
-    "member":{
-        "108":{
-            "15105":{
-                "district":"8",
-                "name":"Kolbe, James T.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Arizona"
+    "district":8,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"az"
 },
   "bbox": [
     -111.27946,

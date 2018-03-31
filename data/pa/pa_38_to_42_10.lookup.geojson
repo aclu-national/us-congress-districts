@@ -2,48 +2,12 @@
   "id": "pa_38_to_42_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"42",
-    "id":"042038042010",
-    "member":{
-        "38":{
-            "9045":{
-                "district":"10",
-                "name":"Strouse, Myer",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "9045":{
-                "district":"10",
-                "name":"Strouse, Myer",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "1398":{
-                "district":"10",
-                "name":"Cake, Henry Lutz",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "1398":{
-                "district":"10",
-                "name":"Cake, Henry Lutz",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "5243":{
-                "district":"10",
-                "name":"Killinger, John Weinland",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"pa"
 },
   "bbox": [
     -76.70148,

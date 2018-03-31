@@ -1,28 +1,13 @@
 {
-  "id": "oh_103_to_104_03",
+  "id": "oh_103_to_104_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"104",
-    "id":"039103104003",
-    "member":{
-        "103":{
-            "14632":{
-                "district":"3",
-                "name":"Hall, Tony Patrick",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "14632":{
-                "district":"3",
-                "name":"Hall, Tony Patrick",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"oh"
 },
   "bbox": [
     -84.4857,

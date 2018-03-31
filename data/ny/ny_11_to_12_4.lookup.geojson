@@ -1,28 +1,13 @@
 {
-  "id": "ny_11_to_12_04",
+  "id": "ny_11_to_12_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"12",
-    "id":"036011012004",
-    "member":{
-        "11":{
-            "2961":{
-                "district":"4",
-                "name":"Emott, James",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "2961":{
-                "district":"4",
-                "name":"Emott, James",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"11",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1809-03-04",
+    "start_session":11,
+    "state":"ny"
 },
   "bbox": [
     -74.00011,

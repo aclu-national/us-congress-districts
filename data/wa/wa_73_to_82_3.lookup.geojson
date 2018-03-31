@@ -1,89 +1,13 @@
 {
-  "id": "wa_73_to_82_03",
+  "id": "wa_73_to_82_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"82",
-    "id":"053073082003",
-    "member":{
-        "73":{
-            "8667":{
-                "district":"3",
-                "name":"Smith, Martin Fernard",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "8667":{
-                "district":"3",
-                "name":"Smith, Martin Fernard",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8667":{
-                "district":"3",
-                "name":"Smith, Martin Fernard",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8667":{
-                "district":"3",
-                "name":"Smith, Martin Fernard",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8667":{
-                "district":"3",
-                "name":"Smith, Martin Fernard",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "6957":{
-                "district":"3",
-                "name":"Norman, Fred Barthold",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "8230":{
-                "district":"3",
-                "name":"Savage, Charles Raymon",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5885":{
-                "district":"3",
-                "name":"Mack, Russell Vernon",
-                "party":"Republican"
-            },
-            "6957":{
-                "district":"3",
-                "name":"Norman, Fred Barthold",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "5885":{
-                "district":"3",
-                "name":"Mack, Russell Vernon",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "5885":{
-                "district":"3",
-                "name":"Mack, Russell Vernon",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Washington"
+    "district":3,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"wa"
 },
   "bbox": [
     -124.36355,

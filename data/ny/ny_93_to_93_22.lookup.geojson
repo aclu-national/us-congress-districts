@@ -2,20 +2,12 @@
   "id": "ny_93_to_93_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"93",
-    "id":"036093093022",
-    "member":{
-        "93":{
-            "10705":{
-                "district":"22",
-                "name":"Bingham, Jonathan B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ny"
 },
   "bbox": [
     -73.93341,

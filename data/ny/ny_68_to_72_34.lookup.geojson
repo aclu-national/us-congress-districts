@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_34",
   "type": "Feature",
   "properties": {
-    "district":"34",
-    "endcong":"72",
-    "id":"036068072034",
-    "member":{
-        "68":{
-            "1795":{
-                "district":"34",
-                "name":"Clarke, John Davenport",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9410":{
-                "district":"34",
-                "name":"Tolley, Harold Sumner",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "1795":{
-                "district":"34",
-                "name":"Clarke, John Davenport",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "1795":{
-                "district":"34",
-                "name":"Clarke, John Davenport",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "1795":{
-                "district":"34",
-                "name":"Clarke, John Davenport",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":34,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -76.13018,

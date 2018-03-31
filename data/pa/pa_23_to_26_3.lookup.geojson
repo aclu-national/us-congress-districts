@@ -1,47 +1,13 @@
 {
-  "id": "pa_23_to_26_03",
+  "id": "pa_23_to_26_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"26",
-    "id":"042023026003",
-    "member":{
-        "23":{
-            "9868":{
-                "district":"3",
-                "name":"Watmough, John Goddard",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "257":{
-                "district":"3",
-                "name":"Ash, Michael Woolston",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "4085":{
-                "district":"3",
-                "name":"Harper, Francis Jacob",
-                "party":"Democrat"
-            },
-            "6847":{
-                "district":"3",
-                "name":"Naylor, Charles",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "6847":{
-                "district":"3",
-                "name":"Naylor, Charles",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -75.19286,

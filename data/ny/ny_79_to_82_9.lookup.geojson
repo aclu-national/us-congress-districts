@@ -1,42 +1,13 @@
 {
-  "id": "ny_79_to_82_09",
+  "id": "ny_79_to_82_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"82",
-    "id":"036079082009",
-    "member":{
-        "79":{
-            "5199":{
-                "district":"9",
-                "name":"Keogh, Eugene James",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5199":{
-                "district":"9",
-                "name":"Keogh, Eugene James",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "5199":{
-                "district":"9",
-                "name":"Keogh, Eugene James",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5199":{
-                "district":"9",
-                "name":"Keogh, Eugene James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":9,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -73.9348,

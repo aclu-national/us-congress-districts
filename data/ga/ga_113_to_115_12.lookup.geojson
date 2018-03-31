@@ -2,18 +2,12 @@
   "id": "ga_113_to_115_12",
   "type": "Feature",
   "properties": {
-    "ALAND":21200434641,
-    "AWATER":376934988,
-    "CD113FP":"12",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1312",
-    "INTPTLAT":"+32.4133308",
-    "INTPTLON":"-082.2238419",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 12",
-    "STATEFP":"13"
+    "district":12,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ga"
 },
   "bbox": [
     -83.226536,

@@ -1,68 +1,13 @@
 {
-  "id": "ga_53_to_59_03",
+  "id": "ga_53_to_59_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"59",
-    "id":"013053059003",
-    "member":{
-        "53":{
-            "2177":{
-                "district":"3",
-                "name":"Crisp, Charles Frederick",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "2177":{
-                "district":"3",
-                "name":"Crisp, Charles Frederick",
-                "party":"Democrat"
-            },
-            "2178":{
-                "district":"3",
-                "name":"Crisp, Charles Robert",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "5638":{
-                "district":"3",
-                "name":"Lewis, Elijah Banks",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "5638":{
-                "district":"3",
-                "name":"Lewis, Elijah Banks",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "5638":{
-                "district":"3",
-                "name":"Lewis, Elijah Banks",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "5638":{
-                "district":"3",
-                "name":"Lewis, Elijah Banks",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "5638":{
-                "district":"3",
-                "name":"Lewis, Elijah Banks",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Georgia"
+    "district":3,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ga"
 },
   "bbox": [
     -85.06833,

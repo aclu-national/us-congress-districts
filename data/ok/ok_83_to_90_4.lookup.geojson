@@ -1,70 +1,13 @@
 {
-  "id": "ok_83_to_90_04",
+  "id": "ok_83_to_90_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"90",
-    "id":"040083090004",
-    "member":{
-        "83":{
-            "8866":{
-                "district":"4",
-                "name":"Steed, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "8866":{
-                "district":"4",
-                "name":"Steed, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "8866":{
-                "district":"4",
-                "name":"Steed, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "8866":{
-                "district":"4",
-                "name":"Steed, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "8866":{
-                "district":"4",
-                "name":"Steed, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "8866":{
-                "district":"4",
-                "name":"Steed, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "8866":{
-                "district":"4",
-                "name":"Steed, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "8866":{
-                "district":"4",
-                "name":"Steed, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Oklahoma"
+    "district":4,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ok"
 },
   "bbox": [
     -97.67588,

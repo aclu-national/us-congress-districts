@@ -1,28 +1,13 @@
 {
-  "id": "md_1_to_2_04",
+  "id": "md_1_to_2_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"2",
-    "id":"024001002004",
-    "member":{
-        "1":{
-            "8693":{
-                "district":"4",
-                "name":"Smith, William",
-                "party":"Anti-Administration"
-            }
-        },
-        "2":{
-            "8896":{
-                "district":"4",
-                "name":"Sterett, Samuel",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Maryland"
+    "district":4,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"md"
 },
   "bbox": [
     -77.1697,

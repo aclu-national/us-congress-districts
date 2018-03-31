@@ -2,41 +2,12 @@
   "id": "ca_99_to_102_45",
   "type": "Feature",
   "properties": {
-    "district":"45",
-    "endcong":"102",
-    "id":"006099102045",
-    "member":{
-        "100":{
-            "14835":{
-                "district":"45",
-                "name":"Hunter, Duncan L.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14835":{
-                "district":"45",
-                "name":"Hunter, Duncan L.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14835":{
-                "district":"45",
-                "name":"Hunter, Duncan L.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14835":{
-                "district":"45",
-                "name":"Hunter, Duncan L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":45,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -117.22649,

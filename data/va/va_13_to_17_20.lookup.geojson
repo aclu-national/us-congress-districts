@@ -2,53 +2,12 @@
   "id": "va_13_to_17_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"17",
-    "id":"051013017020",
-    "member":{
-        "13":{
-            "4964":{
-                "district":"20",
-                "name":"Johnson, James",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "4964":{
-                "district":"20",
-                "name":"Johnson, James",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "4964":{
-                "district":"20",
-                "name":"Johnson, James",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "3767":{
-                "district":"20",
-                "name":"Gray, John Cowper",
-                "party":"Republican"
-            },
-            "4964":{
-                "district":"20",
-                "name":"Johnson, James",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "8601":{
-                "district":"20",
-                "name":"Smith, Arthur",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":20,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -77.61903,

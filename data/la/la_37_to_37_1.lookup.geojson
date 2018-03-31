@@ -1,21 +1,13 @@
 {
-  "id": "la_37_to_37_01",
+  "id": "la_37_to_37_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"37",
-    "id":"022037037001",
-    "member":{
-        "37":{
-            "3205":{
-                "district":"1",
-                "name":"Flanders, Benjamin Frankl",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"37",
-    "statename":"Louisiana"
+    "district":1,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1861-03-04",
+    "start_session":37,
+    "state":"la"
 },
   "bbox": [
     -90.11151,

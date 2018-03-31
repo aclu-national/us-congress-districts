@@ -1,35 +1,13 @@
 {
-  "id": "pa_4_to_6_06",
+  "id": "pa_4_to_6_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"6",
-    "id":"042004006006",
-    "member":{
-        "4":{
-            "5890":{
-                "district":"6",
-                "name":"Maclay, Samuel",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "4037":{
-                "district":"6",
-                "name":"Hanna, John Andre",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "4037":{
-                "district":"6",
-                "name":"Hanna, John Andre",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"pa"
 },
   "bbox": [
     -79.85369,

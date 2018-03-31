@@ -1,54 +1,13 @@
 {
-  "id": "oh_73_to_77_04",
+  "id": "oh_73_to_77_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"77",
-    "id":"039073077004",
-    "member":{
-        "73":{
-            "5324":{
-                "district":"4",
-                "name":"Kloeb, Frank Le Blond",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "5324":{
-                "district":"4",
-                "name":"Kloeb, Frank Le Blond",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5324":{
-                "district":"4",
-                "name":"Kloeb, Frank Le Blond",
-                "party":"Democrat"
-            },
-            "61":{
-                "district":"4",
-                "name":"Albaugh, Walter Hugh",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "5059":{
-                "district":"4",
-                "name":"Jones, Robert Franklin",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "5059":{
-                "district":"4",
-                "name":"Jones, Robert Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"oh"
 },
   "bbox": [
     -84.81241,

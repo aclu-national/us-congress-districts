@@ -2,48 +2,12 @@
   "id": "pa_103_to_107_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"107",
-    "id":"042103107018",
-    "member":{
-        "103":{
-            "29141":{
-                "district":"18",
-                "name":"Santorum, Rick",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29561":{
-                "district":"18",
-                "name":"Doyle, Mike F.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29561":{
-                "district":"18",
-                "name":"Doyle, Mike F.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29561":{
-                "district":"18",
-                "name":"Doyle, Mike F.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29561":{
-                "district":"18",
-                "name":"Doyle, Mike F.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"pa"
 },
   "bbox": [
     -80.10032,

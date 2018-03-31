@@ -1,28 +1,13 @@
 {
-  "id": "ma_15_to_16_09",
+  "id": "ma_15_to_16_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"16",
-    "id":"025015016009",
-    "member":{
-        "15":{
-            "3252":{
-                "district":"9",
-                "name":"Folger, Walter Jr.",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "3252":{
-                "district":"9",
-                "name":"Folger, Walter Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Massachusetts"
+    "district":9,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"ma"
 },
   "bbox": [
     -70.97739,

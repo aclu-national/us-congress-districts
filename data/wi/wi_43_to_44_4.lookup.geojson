@@ -1,28 +1,13 @@
 {
-  "id": "wi_43_to_44_04",
+  "id": "wi_43_to_44_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"44",
-    "id":"055043044004",
-    "member":{
-        "43":{
-            "6551":{
-                "district":"4",
-                "name":"Mitchell, Alexander",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "5860":{
-                "district":"4",
-                "name":"Lynde, William Pitt",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Wisconsin"
+    "district":4,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"wi"
 },
   "bbox": [
     -88.41954,

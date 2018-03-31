@@ -1,63 +1,13 @@
 {
-  "id": "va_83_to_89_08",
+  "id": "va_83_to_89_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"89",
-    "id":"051083089008",
-    "member":{
-        "83":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"va"
 },
   "bbox": [
     -78.83921,

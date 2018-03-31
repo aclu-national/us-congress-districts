@@ -2,48 +2,12 @@
   "id": "oh_73_to_77_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"77",
-    "id":"039073077015",
-    "member":{
-        "73":{
-            "8341":{
-                "district":"15",
-                "name":"Secrest, Robert Thompson",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "8341":{
-                "district":"15",
-                "name":"Secrest, Robert Thompson",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8341":{
-                "district":"15",
-                "name":"Secrest, Robert Thompson",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8341":{
-                "district":"15",
-                "name":"Secrest, Robert Thompson",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8341":{
-                "district":"15",
-                "name":"Secrest, Robert Thompson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"oh"
 },
   "bbox": [
     -82.23397,

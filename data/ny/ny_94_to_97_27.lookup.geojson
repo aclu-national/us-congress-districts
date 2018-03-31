@@ -2,41 +2,12 @@
   "id": "ny_94_to_97_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"97",
-    "id":"036094097027",
-    "member":{
-        "94":{
-            "14253":{
-                "district":"27",
-                "name":"McHugh, Matthew",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14253":{
-                "district":"27",
-                "name":"McHugh, Matthew",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14253":{
-                "district":"27",
-                "name":"McHugh, Matthew",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14253":{
-                "district":"27",
-                "name":"McHugh, Matthew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -76.73071,

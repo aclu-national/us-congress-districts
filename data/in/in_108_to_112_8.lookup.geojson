@@ -1,49 +1,13 @@
 {
-  "id": "in_108_to_112_08",
+  "id": "in_108_to_112_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"112",
-    "id":"018108112008",
-    "member":{
-        "108":{
-            "29520":{
-                "district":"8",
-                "name":"Hostettler, John N.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29520":{
-                "district":"8",
-                "name":"Hostettler, John N.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20718":{
-                "district":"8",
-                "name":"Ellsworth, Brad",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20718":{
-                "district":"8",
-                "name":"Ellsworth, Brad",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21132":{
-                "district":"8",
-                "name":"Bucshon, Larry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Indiana"
+    "district":8,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"in"
 },
   "bbox": [
     -88.0585,

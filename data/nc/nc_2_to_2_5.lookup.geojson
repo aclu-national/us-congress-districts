@@ -1,21 +1,13 @@
 {
-  "id": "nc_2_to_2_05",
+  "id": "nc_2_to_2_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"2",
-    "id":"037002002005",
-    "member":{
-        "2":{
-            "3859":{
-                "district":"5",
-                "name":"Grove, William Barry",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"2",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1791-03-04",
+    "start_session":2,
+    "state":"nc"
 },
   "bbox": [
     -80.50662,

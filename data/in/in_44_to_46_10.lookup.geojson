@@ -2,34 +2,12 @@
   "id": "in_44_to_46_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"46",
-    "id":"018044046010",
-    "member":{
-        "44":{
-            "4235":{
-                "district":"10",
-                "name":"Haymond, William Summerville",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "1422":{
-                "district":"10",
-                "name":"Calkins, William Henry",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "1422":{
-                "district":"10",
-                "name":"Calkins, William Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Indiana"
+    "district":10,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"in"
 },
   "bbox": [
     -87.52677,

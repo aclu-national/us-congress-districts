@@ -2,41 +2,12 @@
   "id": "oh_18_to_21_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"21",
-    "id":"039018021012",
-    "member":{
-        "18":{
-            "8582":{
-                "district":"12",
-                "name":"Sloane, John",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "8582":{
-                "district":"12",
-                "name":"Sloane, John",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "8582":{
-                "district":"12",
-                "name":"Sloane, John",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "9351":{
-                "district":"12",
-                "name":"Thomson, John",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"oh"
 },
   "bbox": [
     -82.22509,

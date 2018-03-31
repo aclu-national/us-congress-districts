@@ -1,49 +1,13 @@
 {
-  "id": "nc_8_to_12_05",
+  "id": "nc_8_to_12_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"12",
-    "id":"037008012005",
-    "member":{
-        "10":{
-            "5163":{
-                "district":"5",
-                "name":"Kenan, Thomas",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "5163":{
-                "district":"5",
-                "name":"Kenan, Thomas",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "5275":{
-                "district":"5",
-                "name":"King, William Rufus DeVane",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "3594":{
-                "district":"5",
-                "name":"Gillespie, James",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "5163":{
-                "district":"5",
-                "name":"Kenan, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"nc"
 },
   "bbox": [
     -79.07117,

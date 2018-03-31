@@ -2,48 +2,12 @@
   "id": "il_48_to_52_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"52",
-    "id":"017048052010",
-    "member":{
-        "48":{
-            "10378":{
-                "district":"10",
-                "name":"Worthington, Nicholas Ellsworth",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "10378":{
-                "district":"10",
-                "name":"Worthington, Nicholas Ellsworth",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "7548":{
-                "district":"10",
-                "name":"Post, Philip Sidney",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "7548":{
-                "district":"10",
-                "name":"Post, Philip Sidney",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "7548":{
-                "district":"10",
-                "name":"Post, Philip Sidney",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":10,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -90.4515,

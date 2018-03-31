@@ -1,21 +1,13 @@
 {
-  "id": "mi_42_to_42_04",
+  "id": "mi_42_to_42_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"42",
-    "id":"026042042004",
-    "member":{
-        "42":{
-            "3317":{
-                "district":"4",
-                "name":"Foster, Wilder De Ayr",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"42",
-    "statename":"Michigan"
+    "district":4,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1871-03-04",
+    "start_session":42,
+    "state":"mi"
 },
   "bbox": [
     -87.36838,

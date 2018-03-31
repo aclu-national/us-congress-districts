@@ -1,63 +1,13 @@
 {
-  "id": "va_83_to_89_07",
+  "id": "va_83_to_89_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"89",
-    "id":"051083089007",
-    "member":{
-        "83":{
-            "4125":{
-                "district":"7",
-                "name":"Harrison, Burr Powell",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "4125":{
-                "district":"7",
-                "name":"Harrison, Burr Powell",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "4125":{
-                "district":"7",
-                "name":"Harrison, Burr Powell",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "4125":{
-                "district":"7",
-                "name":"Harrison, Burr Powell",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "4125":{
-                "district":"7",
-                "name":"Harrison, Burr Powell",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "10603":{
-                "district":"7",
-                "name":"Marsh, John O., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10603":{
-                "district":"7",
-                "name":"Marsh, John O., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"va"
 },
   "bbox": [
     -80.05606,

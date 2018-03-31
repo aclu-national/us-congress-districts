@@ -1,49 +1,13 @@
 {
-  "id": "pa_73_to_77_05",
+  "id": "pa_73_to_77_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"77",
-    "id":"042073077005",
-    "member":{
-        "73":{
-            "2000":{
-                "district":"5",
-                "name":"Connolly, James Joseph",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "2675":{
-                "district":"5",
-                "name":"Dorsey, Frank Joseph Gerald",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2675":{
-                "district":"5",
-                "name":"Dorsey, Frank Joseph Gerald",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3495":{
-                "district":"5",
-                "name":"Gartner, Fred Christian",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "8615":{
-                "district":"5",
-                "name":"Smith, Francis Raphael",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"pa"
 },
   "bbox": [
     -75.15905,

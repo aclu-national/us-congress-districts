@@ -1,21 +1,13 @@
 {
-  "id": "mo_92_to_92_07",
+  "id": "mo_92_to_92_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"92",
-    "id":"029092092007",
-    "member":{
-        "92":{
-            "10523":{
-                "district":"7",
-                "name":"Hall, Durward G.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"Missouri"
+    "district":7,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"mo"
 },
   "bbox": [
     -94.61866,

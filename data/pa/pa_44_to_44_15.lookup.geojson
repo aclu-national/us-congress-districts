@@ -2,20 +2,12 @@
   "id": "pa_44_to_44_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"44",
-    "id":"042044044015",
-    "member":{
-        "44":{
-            "7571":{
-                "district":"15",
-                "name":"Powell, Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -76.92708,

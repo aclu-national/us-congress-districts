@@ -1,35 +1,13 @@
 {
-  "id": "md_52_to_54_03",
+  "id": "md_52_to_54_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"54",
-    "id":"024052054003",
-    "member":{
-        "52":{
-            "8119":{
-                "district":"3",
-                "name":"Rusk, Harry Welles",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "8119":{
-                "district":"3",
-                "name":"Rusk, Harry Welles",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "8119":{
-                "district":"3",
-                "name":"Rusk, Harry Welles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"md"
 },
   "bbox": [
     -76.62893,

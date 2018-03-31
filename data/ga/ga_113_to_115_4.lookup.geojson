@@ -1,19 +1,13 @@
 {
-  "id": "ga_113_to_115_04",
+  "id": "ga_113_to_115_4",
   "type": "Feature",
   "properties": {
-    "ALAND":1286289173,
-    "AWATER":22911803,
-    "CD113FP":"04",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1304",
-    "INTPTLAT":"+33.6996000",
-    "INTPTLON":"-084.0505632",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 4",
-    "STATEFP":"13"
+    "district":4,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ga"
 },
   "bbox": [
     -84.313073,

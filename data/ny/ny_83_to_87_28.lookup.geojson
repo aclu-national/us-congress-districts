@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"87",
-    "id":"036083087028",
-    "member":{
-        "83":{
-            "8177":{
-                "district":"28",
-                "name":"St. George, Katharine Price Collier",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "8177":{
-                "district":"28",
-                "name":"St. George, Katharine Price Collier",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "8177":{
-                "district":"28",
-                "name":"St. George, Katharine Price Collier",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "8177":{
-                "district":"28",
-                "name":"St. George, Katharine Price Collier",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "8177":{
-                "district":"28",
-                "name":"St. George, Katharine Price Collier",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":28,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

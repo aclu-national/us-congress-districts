@@ -1,35 +1,13 @@
 {
-  "id": "al_34_to_36_03",
+  "id": "al_34_to_36_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"36",
-    "id":"001034036003",
-    "member":{
-        "34":{
-            "2698":{
-                "district":"3",
-                "name":"Dowdell, James Ferguson",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "2698":{
-                "district":"3",
-                "name":"Dowdell, James Ferguson",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "1852":{
-                "district":"3",
-                "name":"Clopton, David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Alabama"
+    "district":3,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"al"
 },
   "bbox": [
     -86.92137,

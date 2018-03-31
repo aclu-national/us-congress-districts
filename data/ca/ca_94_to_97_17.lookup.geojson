@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"97",
-    "id":"006094097017",
-    "member":{
-        "94":{
-            "14246":{
-                "district":"17",
-                "name":"Krebs, John",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14246":{
-                "district":"17",
-                "name":"Krebs, John",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14652":{
-                "district":"17",
-                "name":"Pashayan, Charles Sahag",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14652":{
-                "district":"17",
-                "name":"Pashayan, Charles Sahag",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":17,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -120.31507,

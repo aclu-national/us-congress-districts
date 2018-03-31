@@ -1,49 +1,13 @@
 {
-  "id": "sc_93_to_97_02",
+  "id": "sc_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"045093097002",
-    "member":{
-        "93":{
-            "13042":{
-                "district":"2",
-                "name":"Spence, Floyd",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "13042":{
-                "district":"2",
-                "name":"Spence, Floyd",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "13042":{
-                "district":"2",
-                "name":"Spence, Floyd",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "13042":{
-                "district":"2",
-                "name":"Spence, Floyd",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "13042":{
-                "district":"2",
-                "name":"Spence, Floyd",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"South Carolina"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"sc"
 },
   "bbox": [
     -81.77243,

@@ -1,21 +1,13 @@
 {
-  "id": "ga_20_to_20_07",
+  "id": "ga_20_to_20_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"20",
-    "id":"013020020007",
-    "member":{
-        "20":{
-            "3233":{
-                "district":"7",
-                "name":"Floyd, John",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"20",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"1829-03-03",
+    "end_session":20,
+    "start_date":"1827-12-03",
+    "start_session":20,
+    "state":"ga"
 },
   "bbox": [
     -85.1146,

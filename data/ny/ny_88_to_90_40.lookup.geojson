@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_40",
   "type": "Feature",
   "properties": {
-    "district":"40",
-    "endcong":"90",
-    "id":"036088090040",
-    "member":{
-        "88":{
-            "6516":{
-                "district":"40",
-                "name":"Miller, William Edward",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10771":{
-                "district":"40",
-                "name":"Smith, Henry P., III",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "10771":{
-                "district":"40",
-                "name":"Smith, Henry P., III",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":40,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

@@ -1,35 +1,13 @@
 {
-  "id": "pa_90_to_92_02",
+  "id": "pa_90_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"042090092002",
-    "member":{
-        "90":{
-            "6936":{
-                "district":"2",
-                "name":"Nix, Robert Nelson C., Sr.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "6936":{
-                "district":"2",
-                "name":"Nix, Robert Nelson C., Sr.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "6936":{
-                "district":"2",
-                "name":"Nix, Robert Nelson C., Sr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"pa"
 },
   "bbox": [
     -75.26422,

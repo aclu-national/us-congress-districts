@@ -2,48 +2,12 @@
   "id": "fl_93_to_97_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"97",
-    "id":"012093097012",
-    "member":{
-        "93":{
-            "11007":{
-                "district":"12",
-                "name":"Burke, J. Herbert",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "11007":{
-                "district":"12",
-                "name":"Burke, J. Herbert",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "11007":{
-                "district":"12",
-                "name":"Burke, J. Herbert",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14663":{
-                "district":"12",
-                "name":"Stack, Edward John",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14860":{
-                "district":"12",
-                "name":"Shaw, Clay",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Florida"
+    "district":12,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"fl"
 },
   "bbox": [
     -80.88123,

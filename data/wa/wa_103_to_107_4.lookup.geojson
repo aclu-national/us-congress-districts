@@ -1,49 +1,13 @@
 {
-  "id": "wa_103_to_107_04",
+  "id": "wa_103_to_107_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"107",
-    "id":"053103107004",
-    "member":{
-        "103":{
-            "29937":{
-                "district":"4",
-                "name":"Inslee, Jay",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29580":{
-                "district":"4",
-                "name":"Hastings, Richard \"Doc\"",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29580":{
-                "district":"4",
-                "name":"Hastings, Richard \"Doc\"",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29580":{
-                "district":"4",
-                "name":"Hastings, Richard \"Doc\"",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29580":{
-                "district":"4",
-                "name":"Hastings, Richard \"Doc\"",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Washington"
+    "district":4,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"wa"
 },
   "bbox": [
     -121.52394,

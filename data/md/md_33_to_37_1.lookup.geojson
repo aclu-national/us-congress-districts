@@ -1,49 +1,13 @@
 {
-  "id": "md_33_to_37_01",
+  "id": "md_33_to_37_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"37",
-    "id":"024033037001",
-    "member":{
-        "33":{
-            "3343":{
-                "district":"1",
-                "name":"Franklin, John Rankin",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "8936":{
-                "district":"1",
-                "name":"Stewart, James Augustus",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "8936":{
-                "district":"1",
-                "name":"Stewart, James Augustus",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "8936":{
-                "district":"1",
-                "name":"Stewart, James Augustus",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "2176":{
-                "district":"1",
-                "name":"Crisfield, John Woodland",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"md"
 },
   "bbox": [
     -76.38376,

@@ -1,84 +1,13 @@
 {
-  "id": "nj_43_to_52_01",
+  "id": "nj_43_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"034043052001",
-    "member":{
-        "43":{
-            "4258":{
-                "district":"1",
-                "name":"Hazelton, John Wright",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "8543":{
-                "district":"1",
-                "name":"Sinnickson, Clement Hall",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "8543":{
-                "district":"1",
-                "name":"Sinnickson, Clement Hall",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "7970":{
-                "district":"1",
-                "name":"Robeson, George Maxwell",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "7970":{
-                "district":"1",
-                "name":"Robeson, George Maxwell",
-                "party":"Republican"
-            }
-        },
-        "48":{
-            "3117":{
-                "district":"1",
-                "name":"Ferrell, Thomas Merrill",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "4451":{
-                "district":"1",
-                "name":"Hires, George",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "4451":{
-                "district":"1",
-                "name":"Hires, George",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "662":{
-                "district":"1",
-                "name":"Bergen, Christopher Augus",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "662":{
-                "district":"1",
-                "name":"Bergen, Christopher Augus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New Jersey"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"nj"
 },
   "bbox": [
     -75.55979,

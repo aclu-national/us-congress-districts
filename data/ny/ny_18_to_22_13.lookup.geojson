@@ -2,48 +2,12 @@
   "id": "ny_18_to_22_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"22",
-    "id":"036018022013",
-    "member":{
-        "18":{
-            "10150":{
-                "district":"13",
-                "name":"Williams, Isaac, Jr.",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "206":{
-                "district":"13",
-                "name":"Angel, William G.",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "1674":{
-                "district":"13",
-                "name":"Chase, Samuel",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "206":{
-                "district":"13",
-                "name":"Angel, William G.",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "206":{
-                "district":"13",
-                "name":"Angel, William G.",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -75.41693,

@@ -1,49 +1,13 @@
 {
-  "id": "md_93_to_97_02",
+  "id": "md_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"024093097002",
-    "member":{
-        "93":{
-            "10601":{
-                "district":"2",
-                "name":"Long, Clarence D.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10601":{
-                "district":"2",
-                "name":"Long, Clarence D.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10601":{
-                "district":"2",
-                "name":"Long, Clarence D.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10601":{
-                "district":"2",
-                "name":"Long, Clarence D.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "10601":{
-                "district":"2",
-                "name":"Long, Clarence D.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Maryland"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"md"
 },
   "bbox": [
     -76.8696,

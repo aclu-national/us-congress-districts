@@ -1,47 +1,13 @@
 {
-  "id": "mo_34_to_37_03",
+  "id": "mo_34_to_37_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"37",
-    "id":"029034037003",
-    "member":{
-        "34":{
-            "5674":{
-                "district":"3",
-                "name":"Lindley, James Johnson",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "1773":{
-                "district":"3",
-                "name":"Clark, John Bullock",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "1773":{
-                "district":"3",
-                "name":"Clark, John Bullock",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "1773":{
-                "district":"3",
-                "name":"Clark, John Bullock",
-                "party":"Democrat"
-            },
-            "3961":{
-                "district":"3",
-                "name":"Hall, William Augustus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Missouri"
+    "district":3,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"mo"
 },
   "bbox": [
     -93.77482,

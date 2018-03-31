@@ -1,42 +1,13 @@
 {
-  "id": "ky_52_to_55_04",
+  "id": "ky_52_to_55_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"55",
-    "id":"021052055004",
-    "member":{
-        "52":{
-            "6600":{
-                "district":"4",
-                "name":"Montgomery, Alexander Brooks",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "6600":{
-                "district":"4",
-                "name":"Montgomery, Alexander Brooks",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "5644":{
-                "district":"4",
-                "name":"Lewis, John William",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "8609":{
-                "district":"4",
-                "name":"Smith, David Highbaugh",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Kentucky"
+    "district":4,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"ky"
 },
   "bbox": [
     -87.13768,

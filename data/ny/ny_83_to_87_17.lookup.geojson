@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"87",
-    "id":"036083087017",
-    "member":{
-        "83":{
-            "2089":{
-                "district":"17",
-                "name":"Coudert, Frederic Rene, Jr.",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "2089":{
-                "district":"17",
-                "name":"Coudert, Frederic Rene, Jr.",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "2089":{
-                "district":"17",
-                "name":"Coudert, Frederic Rene, Jr.",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "5678":{
-                "district":"17",
-                "name":"Lindsay, John Vliet",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "5678":{
-                "district":"17",
-                "name":"Lindsay, John Vliet",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -74.00555,

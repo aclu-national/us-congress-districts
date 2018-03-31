@@ -2,27 +2,12 @@
   "id": "pa_88_to_89_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"89",
-    "id":"042088089013",
-    "member":{
-        "88":{
-            "10557":{
-                "district":"13",
-                "name":"Schweiker, Richard S.",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10557":{
-                "district":"13",
-                "name":"Schweiker, Richard S.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"pa"
 },
   "bbox": [
     -75.69679,

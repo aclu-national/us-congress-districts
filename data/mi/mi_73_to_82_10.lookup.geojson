@@ -2,83 +2,12 @@
   "id": "mi_73_to_82_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"82",
-    "id":"026073082010",
-    "member":{
-        "73":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Michigan"
+    "district":10,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mi"
 },
   "bbox": [
     -85.56467,

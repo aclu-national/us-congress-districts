@@ -2,20 +2,12 @@
   "id": "pa_78_to_78_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"78",
-    "id":"042078078024",
-    "member":{
-        "78":{
-            "8735":{
-                "district":"24",
-                "name":"Snyder, John Buell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Pennsylvania"
+    "district":24,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"pa"
 },
   "bbox": [
     -80.51949,

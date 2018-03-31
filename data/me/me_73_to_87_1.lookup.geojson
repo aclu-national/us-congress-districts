@@ -1,119 +1,13 @@
 {
-  "id": "me_73_to_87_01",
+  "id": "me_73_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"023073087001",
-    "member":{
-        "73":{
-            "577":{
-                "district":"1",
-                "name":"Beedy, Carroll Lynwood",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "4002":{
-                "district":"1",
-                "name":"Hamlin, Simon Moulton",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7061":{
-                "district":"1",
-                "name":"Oliver, James Churchill",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "7061":{
-                "district":"1",
-                "name":"Oliver, James Churchill",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "7061":{
-                "district":"1",
-                "name":"Oliver, James Churchill",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "3924":{
-                "district":"1",
-                "name":"Hale, Robert",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "3924":{
-                "district":"1",
-                "name":"Hale, Robert",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3924":{
-                "district":"1",
-                "name":"Hale, Robert",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3924":{
-                "district":"1",
-                "name":"Hale, Robert",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "3924":{
-                "district":"1",
-                "name":"Hale, Robert",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "3924":{
-                "district":"1",
-                "name":"Hale, Robert",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "3924":{
-                "district":"1",
-                "name":"Hale, Robert",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "3924":{
-                "district":"1",
-                "name":"Hale, Robert",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "7061":{
-                "district":"1",
-                "name":"Oliver, James Churchill",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10519":{
-                "district":"1",
-                "name":"Garland, Peter A.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Maine"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"me"
 },
   "bbox": [
     -71.08433,

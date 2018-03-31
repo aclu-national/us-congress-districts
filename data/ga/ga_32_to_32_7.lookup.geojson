@@ -1,21 +1,13 @@
 {
-  "id": "ga_32_to_32_07",
+  "id": "ga_32_to_32_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"32",
-    "id":"013032032007",
-    "member":{
-        "32":{
-            "8885":{
-                "district":"7",
-                "name":"Stephens, Alexander Hamilton",
-                "party":"Union"
-            }
-        }
-    },
-    "startcong":"32",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1851-03-04",
+    "start_session":32,
+    "state":"ga"
 },
   "bbox": [
     -83.68745,

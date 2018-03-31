@@ -1,49 +1,13 @@
 {
-  "id": "va_43_to_47_07",
+  "id": "va_43_to_47_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"47",
-    "id":"051043047007",
-    "member":{
-        "43":{
-            "4108":{
-                "district":"7",
-                "name":"Harris, John Thomas",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "4108":{
-                "district":"7",
-                "name":"Harris, John Thomas",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "4108":{
-                "district":"7",
-                "name":"Harris, John Thomas",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "4108":{
-                "district":"7",
-                "name":"Harris, John Thomas",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "7267":{
-                "district":"7",
-                "name":"Paul, John",
-                "party":"Readjuster Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"va"
 },
   "bbox": [
     -80.05606,

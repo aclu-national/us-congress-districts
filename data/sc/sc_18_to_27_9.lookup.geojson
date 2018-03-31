@@ -1,84 +1,13 @@
 {
-  "id": "sc_18_to_27_09",
+  "id": "sc_18_to_27_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"27",
-    "id":"045018027009",
-    "member":{
-        "18":{
-            "9500":{
-                "district":"9",
-                "name":"Tucker, Starling",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "9500":{
-                "district":"9",
-                "name":"Tucker, Starling",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "9500":{
-                "district":"9",
-                "name":"Tucker, Starling",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "9500":{
-                "district":"9",
-                "name":"Tucker, Starling",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "3821":{
-                "district":"9",
-                "name":"Griffin, John King",
-                "party":"Nullifier"
-            }
-        },
-        "23":{
-            "3821":{
-                "district":"9",
-                "name":"Griffin, John King",
-                "party":"Nullifier"
-            }
-        },
-        "24":{
-            "3821":{
-                "district":"9",
-                "name":"Griffin, John King",
-                "party":"Nullifier"
-            }
-        },
-        "25":{
-            "3821":{
-                "district":"9",
-                "name":"Griffin, John King",
-                "party":"Nullifier"
-            }
-        },
-        "26":{
-            "3821":{
-                "district":"9",
-                "name":"Griffin, John King",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "1413":{
-                "district":"9",
-                "name":"Caldwell, Patrick Calhoun",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"South Carolina"
+    "district":9,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"sc"
 },
   "bbox": [
     -82.31488,

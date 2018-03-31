@@ -1,21 +1,13 @@
 {
-  "id": "nc_90_to_90_04",
+  "id": "nc_90_to_90_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"90",
-    "id":"037090090004",
-    "member":{
-        "90":{
-            "11018":{
-                "district":"4",
-                "name":"Gardner, James C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"nc"
 },
   "bbox": [
     -80.18268,

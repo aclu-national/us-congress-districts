@@ -1,98 +1,13 @@
 {
-  "id": "in_78_to_89_03",
+  "id": "in_78_to_89_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"89",
-    "id":"018078089003",
-    "member":{
-        "78":{
-            "3756":{
-                "district":"3",
-                "name":"Grant, Robert Allen",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "3756":{
-                "district":"3",
-                "name":"Grant, Robert Allen",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3756":{
-                "district":"3",
-                "name":"Grant, Robert Allen",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "2193":{
-                "district":"3",
-                "name":"Crook, Thurman Charles",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2227":{
-                "district":"3",
-                "name":"Crumpacker, Shepard J., Jr.",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "2227":{
-                "district":"3",
-                "name":"Crumpacker, Shepard J., Jr.",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "2227":{
-                "district":"3",
-                "name":"Crumpacker, Shepard J., Jr.",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "6933":{
-                "district":"3",
-                "name":"Nimtz, F. Jay",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "948":{
-                "district":"3",
-                "name":"Brademas, John",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "948":{
-                "district":"3",
-                "name":"Brademas, John",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "948":{
-                "district":"3",
-                "name":"Brademas, John",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "948":{
-                "district":"3",
-                "name":"Brademas, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"in"
 },
   "bbox": [
     -86.93273,

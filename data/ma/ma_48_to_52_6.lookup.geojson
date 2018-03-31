@@ -1,49 +1,13 @@
 {
-  "id": "ma_48_to_52_06",
+  "id": "ma_48_to_52_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"52",
-    "id":"025048052006",
-    "member":{
-        "48":{
-            "5799":{
-                "district":"6",
-                "name":"Lovering, Henry Bacon",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "5799":{
-                "district":"6",
-                "name":"Lovering, Henry Bacon",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "5738":{
-                "district":"6",
-                "name":"Lodge, Henry Cabot",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "5738":{
-                "district":"6",
-                "name":"Lodge, Henry Cabot",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "5738":{
-                "district":"6",
-                "name":"Lodge, Henry Cabot",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ma"
 },
   "bbox": [
     -71.18968,

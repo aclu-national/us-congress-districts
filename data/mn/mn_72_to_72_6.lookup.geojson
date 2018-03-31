@@ -1,21 +1,13 @@
 {
-  "id": "mn_72_to_72_06",
+  "id": "mn_72_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"027072072006",
-    "member":{
-        "72":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"72",
-    "statename":"Minnesota"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1931-12-07",
+    "start_session":72,
+    "state":"mn"
 },
   "bbox": [
     -95.60315,

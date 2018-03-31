@@ -1,79 +1,13 @@
 {
-  "id": "mo_23_to_27_00",
+  "id": "mo_23_to_27_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"27",
-    "id":"029023027000",
-    "member":{
-        "23":{
-            "1226":{
-                "district":"98",
-                "name":"Bull, John",
-                "party":"Anti-Jackson"
-            },
-            "268":{
-                "district":"98",
-                "name":"Ashley, William Henry",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "268":{
-                "district":"98",
-                "name":"Ashley, William Henry",
-                "party":"Anti-Jackson"
-            },
-            "4122":{
-                "district":"98",
-                "name":"Harrison, Albert Galliton",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "4122":{
-                "district":"98",
-                "name":"Harrison, Albert Galliton",
-                "party":"Democrat"
-            },
-            "6491":{
-                "district":"98",
-                "name":"Miller, John",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "4122":{
-                "district":"98",
-                "name":"Harrison, Albert Galliton",
-                "party":"Democrat"
-            },
-            "4888":{
-                "district":"98",
-                "name":"Jameson, John",
-                "party":"Democrat"
-            },
-            "6491":{
-                "district":"98",
-                "name":"Miller, John",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "2870":{
-                "district":"98",
-                "name":"Edwards, John Cummins",
-                "party":"Democrat"
-            },
-            "6491":{
-                "district":"98",
-                "name":"Miller, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Missouri"
+    "district":0,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"mo"
 },
   "bbox": [
     -95.7747,

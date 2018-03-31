@@ -1,49 +1,13 @@
 {
-  "id": "ct_93_to_97_06",
+  "id": "ct_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"009093097006",
-    "member":{
-        "93":{
-            "13016":{
-                "district":"6",
-                "name":"Grasso, Ella",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14258":{
-                "district":"6",
-                "name":"Moffett, Anthony",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14258":{
-                "district":"6",
-                "name":"Moffett, Anthony",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14258":{
-                "district":"6",
-                "name":"Moffett, Anthony",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14258":{
-                "district":"6",
-                "name":"Moffett, Anthony",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Connecticut"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ct"
 },
   "bbox": [
     -73.53703,

@@ -2,48 +2,12 @@
   "id": "pa_93_to_97_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"97",
-    "id":"042093097014",
-    "member":{
-        "93":{
-            "6661":{
-                "district":"14",
-                "name":"Moorhead, William Singer",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "6661":{
-                "district":"14",
-                "name":"Moorhead, William Singer",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "6661":{
-                "district":"14",
-                "name":"Moorhead, William Singer",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "6661":{
-                "district":"14",
-                "name":"Moorhead, William Singer",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14808":{
-                "district":"14",
-                "name":"Coyne, William J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -80.04653,

@@ -1,28 +1,13 @@
 {
-  "id": "il_88_to_89_02",
+  "id": "il_88_to_89_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"89",
-    "id":"017088089002",
-    "member":{
-        "88":{
-            "7041":{
-                "district":"2",
-                "name":"O'Hara, Barratt",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "7041":{
-                "district":"2",
-                "name":"O'Hara, Barratt",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Illinois"
+    "district":2,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"il"
 },
   "bbox": [
     -87.64673,

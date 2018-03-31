@@ -2,27 +2,12 @@
   "id": "va_26_to_27_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"27",
-    "id":"051026027021",
-    "member":{
-        "26":{
-            "8878":{
-                "district":"21",
-                "name":"Steenrod, Lewis",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "8878":{
-                "district":"21",
-                "name":"Steenrod, Lewis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"26",
-    "statename":"Virginia"
+    "district":21,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1839-12-02",
+    "start_session":26,
+    "state":"va"
 },
   "bbox": [
     -81.20107,

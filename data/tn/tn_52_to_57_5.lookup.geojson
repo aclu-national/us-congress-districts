@@ -1,56 +1,13 @@
 {
-  "id": "tn_52_to_57_05",
+  "id": "tn_52_to_57_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"57",
-    "id":"047052057005",
-    "member":{
-        "52":{
-            "7877":{
-                "district":"5",
-                "name":"Richardson, James Daniel",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "7877":{
-                "district":"5",
-                "name":"Richardson, James Daniel",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "7877":{
-                "district":"5",
-                "name":"Richardson, James Daniel",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "7877":{
-                "district":"5",
-                "name":"Richardson, James Daniel",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "7877":{
-                "district":"5",
-                "name":"Richardson, James Daniel",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "7877":{
-                "district":"5",
-                "name":"Richardson, James Daniel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"tn"
 },
   "bbox": [
     -86.9608,

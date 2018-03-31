@@ -1,82 +1,13 @@
 {
-  "id": "ok_64_to_72_05",
+  "id": "ok_64_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"040064072005",
-    "member":{
-        "64":{
-            "9332":{
-                "district":"5",
-                "name":"Thompson, Joseph Bryan",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "9332":{
-                "district":"5",
-                "name":"Thompson, Joseph Bryan",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "4092":{
-                "district":"5",
-                "name":"Harreld, John William",
-                "party":"Republican"
-            },
-            "9332":{
-                "district":"5",
-                "name":"Thompson, Joseph Bryan",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "9102":{
-                "district":"5",
-                "name":"Swank, Fetcher B.",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "9102":{
-                "district":"5",
-                "name":"Swank, Fetcher B.",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9102":{
-                "district":"5",
-                "name":"Swank, Fetcher B.",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "9102":{
-                "district":"5",
-                "name":"Swank, Fetcher B.",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "8985":{
-                "district":"5",
-                "name":"Stone, Ulysses Stevens",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9102":{
-                "district":"5",
-                "name":"Swank, Fetcher B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Oklahoma"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"ok"
 },
   "bbox": [
     -97.67588,

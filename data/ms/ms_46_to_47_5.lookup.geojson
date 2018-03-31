@@ -1,28 +1,13 @@
 {
-  "id": "ms_46_to_47_05",
+  "id": "ms_46_to_47_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"47",
-    "id":"028046047005",
-    "member":{
-        "46":{
-            "4553":{
-                "district":"5",
-                "name":"Hooker, Charles Edward",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "4553":{
-                "district":"5",
-                "name":"Hooker, Charles Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Mississippi"
+    "district":5,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"ms"
 },
   "bbox": [
     -91.15815,

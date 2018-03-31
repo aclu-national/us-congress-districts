@@ -1,49 +1,13 @@
 {
-  "id": "mi_98_to_102_02",
+  "id": "mi_98_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"026098102002",
-    "member":{
-        "100":{
-            "14446":{
-                "district":"2",
-                "name":"Pursell, Carl",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14446":{
-                "district":"2",
-                "name":"Pursell, Carl",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14446":{
-                "district":"2",
-                "name":"Pursell, Carl",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14446":{
-                "district":"2",
-                "name":"Pursell, Carl",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14446":{
-                "district":"2",
-                "name":"Pursell, Carl",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Michigan"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"mi"
 },
   "bbox": [
     -84.94225,

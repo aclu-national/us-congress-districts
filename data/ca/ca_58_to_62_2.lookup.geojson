@@ -1,49 +1,13 @@
 {
-  "id": "ca_58_to_62_02",
+  "id": "ca_58_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"006058062002",
-    "member":{
-        "58":{
-            "613":{
-                "district":"2",
-                "name":"Bell, Theodore Arlington",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "6309":{
-                "district":"2",
-                "name":"McKinlay, Duncan E.",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "6309":{
-                "district":"2",
-                "name":"McKinlay, Duncan E.",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "6309":{
-                "district":"2",
-                "name":"McKinlay, Duncan E.",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5196":{
-                "district":"2",
-                "name":"Kent, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"California"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ca"
 },
   "bbox": [
     -124.02322,

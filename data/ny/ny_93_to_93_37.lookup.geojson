@@ -2,20 +2,12 @@
   "id": "ny_93_to_93_37",
   "type": "Feature",
   "properties": {
-    "district":"37",
-    "endcong":"93",
-    "id":"036093093037",
-    "member":{
-        "93":{
-            "2752":{
-                "district":"37",
-                "name":"Dulski, Thaddeus J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New York"
+    "district":37,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ny"
 },
   "bbox": [
     -78.90744,

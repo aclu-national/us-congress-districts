@@ -2,81 +2,12 @@
   "id": "oh_64_to_72_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"72",
-    "id":"039064072014",
-    "member":{
-        "64":{
-            "10177":{
-                "district":"14",
-                "name":"Williams, Seward Henry",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "2362":{
-                "district":"14",
-                "name":"Davey, Martin Luther",
-                "party":"Democrat"
-            },
-            "519":{
-                "district":"14",
-                "name":"Bathrick, Elsworth Raymon",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "2362":{
-                "district":"14",
-                "name":"Davey, Martin Luther",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5336":{
-                "district":"14",
-                "name":"Knight, Charles Landon",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "2362":{
-                "district":"14",
-                "name":"Davey, Martin Luther",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2362":{
-                "district":"14",
-                "name":"Davey, Martin Luther",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "2362":{
-                "district":"14",
-                "name":"Davey, Martin Luther",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "8351":{
-                "district":"14",
-                "name":"Seiberling, Francis",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "8351":{
-                "district":"14",
-                "name":"Seiberling, Francis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -82.34808,

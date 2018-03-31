@@ -2,27 +2,12 @@
   "id": "pa_88_to_89_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"89",
-    "id":"042088089025",
-    "member":{
-        "88":{
-            "1763":{
-                "district":"25",
-                "name":"Clark, Frank Monroe",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "1763":{
-                "district":"25",
-                "name":"Clark, Frank Monroe",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Pennsylvania"
+    "district":25,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

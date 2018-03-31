@@ -2,20 +2,12 @@
   "id": "pa_7_to_7_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"7",
-    "id":"042007007010",
-    "member":{
-        "7":{
-            "10352":{
-                "district":"10",
-                "name":"Woods, Henry",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"7",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1801-03-04",
+    "start_session":7,
+    "state":"pa"
 },
   "bbox": [
     -79.41756,

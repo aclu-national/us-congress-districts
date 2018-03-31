@@ -2,48 +2,12 @@
   "id": "oh_93_to_97_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"97",
-    "id":"039093097018",
-    "member":{
-        "93":{
-            "4247":{
-                "district":"18",
-                "name":"Hays, Wayne Levere",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "4247":{
-                "district":"18",
-                "name":"Hays, Wayne Levere",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14402":{
-                "district":"18",
-                "name":"Applegate, Douglas",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14402":{
-                "district":"18",
-                "name":"Applegate, Douglas",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14402":{
-                "district":"18",
-                "name":"Applegate, Douglas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Ohio"
+    "district":18,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"oh"
 },
   "bbox": [
     -81.72861,

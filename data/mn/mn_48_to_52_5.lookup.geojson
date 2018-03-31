@@ -1,49 +1,13 @@
 {
-  "id": "mn_48_to_52_05",
+  "id": "mn_48_to_52_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"52",
-    "id":"027048052005",
-    "member":{
-        "48":{
-            "6870":{
-                "district":"5",
-                "name":"Nelson, Knute",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "6870":{
-                "district":"5",
-                "name":"Nelson, Knute",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "6870":{
-                "district":"5",
-                "name":"Nelson, Knute",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "1970":{
-                "district":"5",
-                "name":"Comstock, Solomon Gilman",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "3976":{
-                "district":"5",
-                "name":"Halvorson, Kittel",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Minnesota"
+    "district":5,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mn"
 },
   "bbox": [
     -97.23921,

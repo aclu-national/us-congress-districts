@@ -2,41 +2,12 @@
   "id": "va_19_to_22_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"22",
-    "id":"051019022010",
-    "member":{
-        "19":{
-            "7929":{
-                "district":"10",
-                "name":"Rives, William Cabell",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "7929":{
-                "district":"10",
-                "name":"Rives, William Cabell",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "3703":{
-                "district":"10",
-                "name":"Gordon, William Fitzhugh",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "3703":{
-                "district":"10",
-                "name":"Gordon, William Fitzhugh",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -79.43704,

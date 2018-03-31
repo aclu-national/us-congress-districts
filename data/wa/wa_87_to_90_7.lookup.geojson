@@ -1,42 +1,13 @@
 {
-  "id": "wa_87_to_90_07",
+  "id": "wa_87_to_90_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"90",
-    "id":"053087090007",
-    "member":{
-        "87":{
-            "5912":{
-                "district":"7",
-                "name":"Magnuson, Donald Hammer",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "10629":{
-                "district":"7",
-                "name":"Stinson, Bill",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10700":{
-                "district":"7",
-                "name":"Adams, Brock",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10700":{
-                "district":"7",
-                "name":"Adams, Brock",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"87",
-    "statename":"Washington"
+    "district":7,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1961-01-03",
+    "start_session":87,
+    "state":"wa"
 },
   "bbox": [
     -122.52813,

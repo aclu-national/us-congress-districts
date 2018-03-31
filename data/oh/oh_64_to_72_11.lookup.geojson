@@ -2,76 +2,12 @@
   "id": "oh_64_to_72_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"72",
-    "id":"039064072011",
-    "member":{
-        "64":{
-            "7889":{
-                "district":"11",
-                "name":"Ricketts, Edwin Darlington",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "1817":{
-                "district":"11",
-                "name":"Claypool, Horatio Clifford",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "7889":{
-                "district":"11",
-                "name":"Ricketts, Edwin Darlington",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "7889":{
-                "district":"11",
-                "name":"Ricketts, Edwin Darlington",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "9559":{
-                "district":"11",
-                "name":"Underwood, Mell Gilbert",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9559":{
-                "district":"11",
-                "name":"Underwood, Mell Gilbert",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "9559":{
-                "district":"11",
-                "name":"Underwood, Mell Gilbert",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "9559":{
-                "district":"11",
-                "name":"Underwood, Mell Gilbert",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "9559":{
-                "district":"11",
-                "name":"Underwood, Mell Gilbert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":11,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -83.39401,

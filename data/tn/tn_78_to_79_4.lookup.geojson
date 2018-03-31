@@ -1,28 +1,13 @@
 {
-  "id": "tn_78_to_79_04",
+  "id": "tn_78_to_79_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"79",
-    "id":"047078079004",
-    "member":{
-        "78":{
-            "3704":{
-                "district":"4",
-                "name":"Gore, Albert Arnold",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "3704":{
-                "district":"4",
-                "name":"Gore, Albert Arnold",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1946-08-02",
+    "end_session":79,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"tn"
 },
   "bbox": [
     -87.15049,

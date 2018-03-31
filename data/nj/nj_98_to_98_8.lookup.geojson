@@ -1,21 +1,13 @@
 {
-  "id": "nj_98_to_98_08",
+  "id": "nj_98_to_98_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"98",
-    "id":"034098098008",
-    "member":{
-        "98":{
-            "12042":{
-                "district":"8",
-                "name":"Roe, Robert A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New Jersey"
+    "district":8,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"nj"
 },
   "bbox": [
     -74.59919,

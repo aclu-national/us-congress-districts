@@ -2,65 +2,12 @@
   "id": "ny_73_to_78_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"78",
-    "id":"036073078017",
-    "member":{
-        "73":{
-            "7386":{
-                "district":"17",
-                "name":"Peyser, Theodore Albert",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "7386":{
-                "district":"17",
-                "name":"Peyser, Theodore Albert",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "494":{
-                "district":"17",
-                "name":"Barton, Bruce",
-                "party":"Republican"
-            },
-            "7386":{
-                "district":"17",
-                "name":"Peyser, Theodore Albert",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "494":{
-                "district":"17",
-                "name":"Barton, Bruce",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "388":{
-                "district":"17",
-                "name":"Baldwin, Joseph Clark",
-                "party":"Republican"
-            },
-            "8530":{
-                "district":"17",
-                "name":"Simpson, Kenneth Farrand",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "388":{
-                "district":"17",
-                "name":"Baldwin, Joseph Clark",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -73.99967,

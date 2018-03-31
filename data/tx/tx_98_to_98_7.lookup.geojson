@@ -1,21 +1,13 @@
 {
-  "id": "tx_98_to_98_07",
+  "id": "tx_98_to_98_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"98",
-    "id":"048098098007",
-    "member":{
-        "98":{
-            "13002":{
-                "district":"7",
-                "name":"Archer, W.R.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Texas"
+    "district":7,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"tx"
 },
   "bbox": [
     -95.96078,

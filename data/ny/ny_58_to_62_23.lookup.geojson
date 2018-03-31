@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"62",
-    "id":"036058062023",
-    "member":{
-        "58":{
-            "8754":{
-                "district":"23",
-                "name":"Southwick, George Newell",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "8754":{
-                "district":"23",
-                "name":"Southwick, George Newell",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "8754":{
-                "district":"23",
-                "name":"Southwick, George Newell",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "8754":{
-                "district":"23",
-                "name":"Southwick, George Newell",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "2461":{
-                "district":"23",
-                "name":"De Forest, Henry Schermer",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -74.30667,

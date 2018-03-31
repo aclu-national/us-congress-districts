@@ -1,49 +1,13 @@
 {
-  "id": "ny_58_to_62_05",
+  "id": "ny_58_to_62_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"62",
-    "id":"036058062005",
-    "member":{
-        "58":{
-            "506":{
-                "district":"5",
-                "name":"Bassett, Edward Murray",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "9727":{
-                "district":"5",
-                "name":"Waldo, George Ernest",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "9727":{
-                "district":"5",
-                "name":"Waldo, George Ernest",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "10452":{
-                "district":"5",
-                "name":"Young, Richard",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "7775":{
-                "district":"5",
-                "name":"Redfield, William Cox",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -74.04215,

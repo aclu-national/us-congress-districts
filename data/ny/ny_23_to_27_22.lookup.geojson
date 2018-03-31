@@ -2,78 +2,12 @@
   "id": "ny_23_to_27_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"27",
-    "id":"036023027022",
-    "member":{
-        "23":{
-            "3971":{
-                "district":"22",
-                "name":"Halsey, Nicoll",
-                "party":"Jackson"
-            },
-            "4191":{
-                "district":"22",
-                "name":"Hathaway, Samuel Gilbert",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "5614":{
-                "district":"22",
-                "name":"Leonard, Stephen Banks",
-                "party":"Jackson"
-            },
-            "7835":{
-                "district":"22",
-                "name":"Reynolds, Joseph",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "1169":{
-                "district":"22",
-                "name":"Bruyn, Andrew De Witt",
-                "party":"Democrat"
-            },
-            "3766":{
-                "district":"22",
-                "name":"Gray, Hiram",
-                "party":"Democrat"
-            },
-            "580":{
-                "district":"22",
-                "name":"Beers, Cyrus",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "2312":{
-                "district":"22",
-                "name":"Dana, Amasa",
-                "party":"Democrat"
-            },
-            "5614":{
-                "district":"22",
-                "name":"Leonard, Stephen Banks",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "7225":{
-                "district":"22",
-                "name":"Partridge, Samuel",
-                "party":"Democrat"
-            },
-            "7905":{
-                "district":"22",
-                "name":"Riggs, Lewis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -76.96636,

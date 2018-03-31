@@ -1,28 +1,13 @@
 {
-  "id": "md_88_to_89_06",
+  "id": "md_88_to_89_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"89",
-    "id":"024088089006",
-    "member":{
-        "88":{
-            "10535":{
-                "district":"6",
-                "name":"Mathias, Charles McCurdy",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10535":{
-                "district":"6",
-                "name":"Mathias, Charles McCurdy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

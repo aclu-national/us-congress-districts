@@ -1,49 +1,13 @@
 {
-  "id": "wv_83_to_87_01",
+  "id": "wv_83_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"054083087001",
-    "member":{
-        "83":{
-            "6584":{
-                "district":"1",
-                "name":"Mollohan, Robert Homer",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "6584":{
-                "district":"1",
-                "name":"Mollohan, Robert Homer",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "6626":{
-                "district":"1",
-                "name":"Moore, Arch Alfred, Jr.",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "6626":{
-                "district":"1",
-                "name":"Moore, Arch Alfred, Jr.",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "6626":{
-                "district":"1",
-                "name":"Moore, Arch Alfred, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"West Virginia"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"wv"
 },
   "bbox": [
     -80.94378,

@@ -2,48 +2,12 @@
   "id": "il_108_to_112_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"112",
-    "id":"017108112017",
-    "member":{
-        "108":{
-            "15023":{
-                "district":"17",
-                "name":"Evans, Lane",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15023":{
-                "district":"17",
-                "name":"Evans, Lane",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20716":{
-                "district":"17",
-                "name":"Hare, Phil",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20716":{
-                "district":"17",
-                "name":"Hare, Phil",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21130":{
-                "district":"17",
-                "name":"Schilling, Bobby",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Illinois"
+    "district":17,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"il"
 },
   "bbox": [
     -91.51308,

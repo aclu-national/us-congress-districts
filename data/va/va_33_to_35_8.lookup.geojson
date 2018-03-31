@@ -1,35 +1,13 @@
 {
-  "id": "va_33_to_35_08",
+  "id": "va_33_to_35_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"35",
-    "id":"051033035008",
-    "member":{
-        "33":{
-            "3080":{
-                "district":"8",
-                "name":"Faulkner, Charles James",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "3080":{
-                "district":"8",
-                "name":"Faulkner, Charles James",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "3080":{
-                "district":"8",
-                "name":"Faulkner, Charles James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"va"
 },
   "bbox": [
     -79.27184,

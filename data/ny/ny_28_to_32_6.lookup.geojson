@@ -1,54 +1,13 @@
 {
-  "id": "ny_28_to_32_06",
+  "id": "ny_28_to_32_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"32",
-    "id":"036028032006",
-    "member":{
-        "28":{
-            "3160":{
-                "district":"6",
-                "name":"Fish, Hamilton",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "1469":{
-                "district":"6",
-                "name":"Campbell, William W.",
-                "party":"American"
-            }
-        },
-        "30":{
-            "3773":{
-                "district":"6",
-                "name":"Greeley, Horace",
-                "party":"Whig"
-            },
-            "4845":{
-                "district":"6",
-                "name":"Jackson, David Sherwood",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "1078":{
-                "district":"6",
-                "name":"Brooks, James",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "1078":{
-                "district":"6",
-                "name":"Brooks, James",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -74.01248,

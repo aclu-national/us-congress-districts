@@ -2,20 +2,12 @@
   "id": "va_18_to_18_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"18",
-    "id":"051018018017",
-    "member":{
-        "18":{
-            "10155":{
-                "district":"17",
-                "name":"Williams, Jared",
-                "party":"Crawford Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Virginia"
+    "district":17,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"va"
 },
   "bbox": [
     -78.86928,

@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"47",
-    "id":"036044047024",
-    "member":{
-        "44":{
-            "375":{
-                "district":"24",
-                "name":"Baker, William Henry",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "375":{
-                "district":"24",
-                "name":"Baker, William Henry",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "6059":{
-                "district":"24",
-                "name":"Mason, Joseph",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "6059":{
-                "district":"24",
-                "name":"Mason, Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":24,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

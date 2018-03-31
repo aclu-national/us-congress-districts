@@ -2,20 +2,12 @@
   "id": "ny_92_to_92_40",
   "type": "Feature",
   "properties": {
-    "district":"40",
-    "endcong":"92",
-    "id":"036092092040",
-    "member":{
-        "92":{
-            "10771":{
-                "district":"40",
-                "name":"Smith, Henry P., III",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"New York"
+    "district":40,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

@@ -1,42 +1,13 @@
 {
-  "id": "mo_34_to_37_07",
+  "id": "mo_34_to_37_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"37",
-    "id":"029034037007",
-    "member":{
-        "34":{
-            "1559":{
-                "district":"7",
-                "name":"Caruthers, Samuel",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "1559":{
-                "district":"7",
-                "name":"Caruthers, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "6945":{
-                "district":"7",
-                "name":"Noell, John William",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "6945":{
-                "district":"7",
-                "name":"Noell, John William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Missouri"
+    "district":7,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"mo"
 },
   "bbox": [
     -91.80911,

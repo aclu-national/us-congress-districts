@@ -1,49 +1,13 @@
 {
-  "id": "il_43_to_47_04",
+  "id": "il_43_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"017043047004",
-    "member":{
-        "43":{
-            "4773":{
-                "district":"4",
-                "name":"Hurlbut, Stephen",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "4773":{
-                "district":"4",
-                "name":"Hurlbut, Stephen",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "5492":{
-                "district":"4",
-                "name":"Lathrop, William",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "8461":{
-                "district":"4",
-                "name":"Sherwin, John Crocker",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "8461":{
-                "district":"4",
-                "name":"Sherwin, John Crocker",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -89.40144,

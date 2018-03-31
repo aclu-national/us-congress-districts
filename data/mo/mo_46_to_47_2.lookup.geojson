@@ -1,33 +1,13 @@
 {
-  "id": "mo_46_to_47_02",
+  "id": "mo_46_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"029046047002",
-    "member":{
-        "46":{
-            "9942":{
-                "district":"2",
-                "name":"Wells, Erastus",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "129":{
-                "district":"2",
-                "name":"Allen, Thomas",
-                "party":"Democrat"
-            },
-            "6336":{
-                "district":"2",
-                "name":"McLean, James Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Missouri"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"mo"
 },
   "bbox": [
     -90.73653,

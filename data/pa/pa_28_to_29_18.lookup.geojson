@@ -2,27 +2,12 @@
   "id": "pa_28_to_29_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"29",
-    "id":"042028029018",
-    "member":{
-        "28":{
-            "8927":{
-                "district":"18",
-                "name":"Stewart, Andrew",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "8927":{
-                "district":"18",
-                "name":"Stewart, Andrew",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -80.51949,

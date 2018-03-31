@@ -1,35 +1,13 @@
 {
-  "id": "in_44_to_46_06",
+  "id": "in_44_to_46_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"46",
-    "id":"018044046006",
-    "member":{
-        "44":{
-            "7988":{
-                "district":"6",
-                "name":"Robinson, Milton Stapp",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "7988":{
-                "district":"6",
-                "name":"Robinson, Milton Stapp",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "6839":{
-                "district":"6",
-                "name":"Myers, William Ralph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Indiana"
+    "district":6,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"in"
 },
   "bbox": [
     -86.25168,

@@ -2,27 +2,12 @@
   "id": "ma_91_to_92_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"92",
-    "id":"025091092011",
-    "member":{
-        "91":{
-            "1265":{
-                "district":"11",
-                "name":"Burke, James Anthony",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "1265":{
-                "district":"11",
-                "name":"Burke, James Anthony",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ma"
 },
   "bbox": [
     -71.23816,

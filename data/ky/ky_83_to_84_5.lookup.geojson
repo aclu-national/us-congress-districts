@@ -1,28 +1,13 @@
 {
-  "id": "ky_83_to_84_05",
+  "id": "ky_83_to_84_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"84",
-    "id":"021083084005",
-    "member":{
-        "83":{
-            "8778":{
-                "district":"5",
-                "name":"Spence, Brent",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "8778":{
-                "district":"5",
-                "name":"Spence, Brent",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Kentucky"
+    "district":5,
+    "end_date":"1956-07-27",
+    "end_session":84,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ky"
 },
   "bbox": [
     -85.45698,

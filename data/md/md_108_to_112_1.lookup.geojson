@@ -1,49 +1,13 @@
 {
-  "id": "md_108_to_112_01",
+  "id": "md_108_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"024108112001",
-    "member":{
-        "108":{
-            "29122":{
-                "district":"1",
-                "name":"Gilchrest, Wayne T.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29122":{
-                "district":"1",
-                "name":"Gilchrest, Wayne T.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29122":{
-                "district":"1",
-                "name":"Gilchrest, Wayne T.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20921":{
-                "district":"1",
-                "name":"Kratovil, Frank Jr.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21139":{
-                "district":"1",
-                "name":"Harris, Andy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"md"
 },
   "bbox": [
     -76.7548,

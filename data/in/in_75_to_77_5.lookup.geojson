@@ -1,35 +1,13 @@
 {
-  "id": "in_75_to_77_05",
+  "id": "in_75_to_77_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"77",
-    "id":"018075077005",
-    "member":{
-        "75":{
-            "3841":{
-                "district":"5",
-                "name":"Griswold, Glenn Hasenfrat",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "4082":{
-                "district":"5",
-                "name":"Harness, Forest Arthur",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "4082":{
-                "district":"5",
-                "name":"Harness, Forest Arthur",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"75",
-    "statename":"Indiana"
+    "district":5,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1937-01-05",
+    "start_session":75,
+    "state":"in"
 },
   "bbox": [
     -86.6958,

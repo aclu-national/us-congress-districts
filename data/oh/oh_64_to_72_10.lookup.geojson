@@ -2,76 +2,12 @@
   "id": "oh_64_to_72_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"72",
-    "id":"039064072010",
-    "member":{
-        "64":{
-            "9131":{
-                "district":"10",
-                "name":"Switzer, Robert Mauck",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "9131":{
-                "district":"10",
-                "name":"Switzer, Robert Mauck",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "3308":{
-                "district":"10",
-                "name":"Foster, Israel Moore",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3308":{
-                "district":"10",
-                "name":"Foster, Israel Moore",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "3308":{
-                "district":"10",
-                "name":"Foster, Israel Moore",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "4917":{
-                "district":"10",
-                "name":"Jenkins, Thomas Albert",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4917":{
-                "district":"10",
-                "name":"Jenkins, Thomas Albert",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4917":{
-                "district":"10",
-                "name":"Jenkins, Thomas Albert",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4917":{
-                "district":"10",
-                "name":"Jenkins, Thomas Albert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":10,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -82.81602,

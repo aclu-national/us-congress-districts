@@ -2,46 +2,12 @@
   "id": "ny_79_to_82_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"82",
-    "id":"036079082024",
-    "member":{
-        "79":{
-            "7683":{
-                "district":"24",
-                "name":"Rabin, Benjamin J.",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "4831":{
-                "district":"24",
-                "name":"Isacson, Leo",
-                "party":"American Labor"
-            },
-            "7683":{
-                "district":"24",
-                "name":"Rabin, Benjamin J.",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "2646":{
-                "district":"24",
-                "name":"Dollinger, Isidore",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2646":{
-                "district":"24",
-                "name":"Dollinger, Isidore",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":24,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -73.92118,

@@ -1,122 +1,13 @@
 {
-  "id": "la_44_to_57_03",
+  "id": "la_44_to_57_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"57",
-    "id":"022044057003",
-    "member":{
-        "44":{
-            "2346":{
-                "district":"3",
-                "name":"Darrall, Chester Bidwell",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "17":{
-                "district":"3",
-                "name":"Acklen, Joseph Hayes",
-                "party":"Democrat"
-            },
-            "2346":{
-                "district":"3",
-                "name":"Darrall, Chester Bidwell",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "17":{
-                "district":"3",
-                "name":"Acklen, Joseph Hayes",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "2346":{
-                "district":"3",
-                "name":"Darrall, Chester Bidwell",
-                "party":"Republican"
-            }
-        },
-        "48":{
-            "5147":{
-                "district":"3",
-                "name":"Kellogg, William Pitt",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "3511":{
-                "district":"3",
-                "name":"Gay, Edward James",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "3511":{
-                "district":"3",
-                "name":"Gay, Edward James",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "3511":{
-                "district":"3",
-                "name":"Gay, Edward James",
-                "party":"Democrat"
-            },
-            "7609":{
-                "district":"3",
-                "name":"Price, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "7609":{
-                "district":"3",
-                "name":"Price, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "7609":{
-                "district":"3",
-                "name":"Price, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "7609":{
-                "district":"3",
-                "name":"Price, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "1092":{
-                "district":"3",
-                "name":"Broussard, Robert Foligny",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "1092":{
-                "district":"3",
-                "name":"Broussard, Robert Foligny",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "1092":{
-                "district":"3",
-                "name":"Broussard, Robert Foligny",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Louisiana"
+    "district":3,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"la"
 },
   "bbox": [
     -93.9053,

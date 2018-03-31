@@ -1,28 +1,13 @@
 {
-  "id": "in_91_to_92_05",
+  "id": "in_91_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"018091092005",
-    "member":{
-        "91":{
-            "10552":{
-                "district":"5",
-                "name":"Roudebush, Richard L.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13018":{
-                "district":"5",
-                "name":"Hillis, Elwood",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Indiana"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"in"
 },
   "bbox": [
     -86.77447,

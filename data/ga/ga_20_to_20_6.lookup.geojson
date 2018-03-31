@@ -1,21 +1,13 @@
 {
-  "id": "ga_20_to_20_06",
+  "id": "ga_20_to_20_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"20",
-    "id":"013020020006",
-    "member":{
-        "20":{
-            "3291":{
-                "district":"6",
-                "name":"Fort, Tomlinson",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"20",
-    "statename":"Georgia"
+    "district":6,
+    "end_date":"1829-03-03",
+    "end_session":20,
+    "start_date":"1827-12-03",
+    "start_session":20,
+    "state":"ga"
 },
   "bbox": [
     -83.86353,

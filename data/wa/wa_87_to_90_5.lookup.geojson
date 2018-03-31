@@ -1,42 +1,13 @@
 {
-  "id": "wa_87_to_90_05",
+  "id": "wa_87_to_90_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"90",
-    "id":"053087090005",
-    "member":{
-        "87":{
-            "4579":{
-                "district":"5",
-                "name":"Horan, Walter Franklin",
-                "party":"Republican"
-            }
-        },
-        "88":{
-            "4579":{
-                "district":"5",
-                "name":"Horan, Walter Franklin",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10726":{
-                "district":"5",
-                "name":"Foley, Thomas S.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10726":{
-                "district":"5",
-                "name":"Foley, Thomas S.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"87",
-    "statename":"Washington"
+    "district":5,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1961-01-03",
+    "start_session":87,
+    "state":"wa"
 },
   "bbox": [
     -121.18071,

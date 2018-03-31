@@ -1,35 +1,13 @@
 {
-  "id": "va_10_to_12_02",
+  "id": "va_10_to_12_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"12",
-    "id":"051010012002",
-    "member":{
-        "10":{
-            "6729":{
-                "district":"2",
-                "name":"Morrow, John",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "8894":{
-                "district":"2",
-                "name":"Stephenson, James",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "367":{
-                "district":"2",
-                "name":"Baker, John",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"10",
-    "statename":"Virginia"
+    "district":2,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1807-10-26",
+    "start_session":10,
+    "state":"va"
 },
   "bbox": [
     -79.27184,

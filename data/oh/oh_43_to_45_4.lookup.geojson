@@ -1,35 +1,13 @@
 {
-  "id": "oh_43_to_45_04",
+  "id": "oh_43_to_45_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"45",
-    "id":"039043045004",
-    "member":{
-        "43":{
-            "3876":{
-                "district":"4",
-                "name":"Gunckel, Lewis B.",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "6347":{
-                "district":"4",
-                "name":"McMahon, John A.",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "6347":{
-                "district":"4",
-                "name":"McMahon, John A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"oh"
 },
   "bbox": [
     -84.81516,

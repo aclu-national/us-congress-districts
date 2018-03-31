@@ -1,42 +1,13 @@
 {
-  "id": "az_109_to_112_03",
+  "id": "az_109_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"004109112003",
-    "member":{
-        "109":{
-            "29501":{
-                "district":"3",
-                "name":"Shadegg, John B.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29501":{
-                "district":"3",
-                "name":"Shadegg, John B.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29501":{
-                "district":"3",
-                "name":"Shadegg, John B.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21104":{
-                "district":"3",
-                "name":"Quayle, Ben",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Arizona"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"az"
 },
   "bbox": [
     -112.26426,

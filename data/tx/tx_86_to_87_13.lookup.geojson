@@ -2,32 +2,12 @@
   "id": "tx_86_to_87_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"87",
-    "id":"048086087013",
-    "member":{
-        "86":{
-            "4796":{
-                "district":"13",
-                "name":"Ikard, Frank Neville",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10546":{
-                "district":"13",
-                "name":"Purcell, Graham",
-                "party":"Democrat"
-            },
-            "4796":{
-                "district":"13",
-                "name":"Ikard, Frank Neville",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"86",
-    "statename":"Texas"
+    "district":13,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1959-01-07",
+    "start_session":86,
+    "state":"tx"
 },
   "bbox": [
     -101.03888,

@@ -2,34 +2,12 @@
   "id": "nc_103_to_105_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"105",
-    "id":"037103105011",
-    "member":{
-        "103":{
-            "29135":{
-                "district":"11",
-                "name":"Taylor, Charles H.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29135":{
-                "district":"11",
-                "name":"Taylor, Charles H.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29135":{
-                "district":"11",
-                "name":"Taylor, Charles H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"North Carolina"
+    "district":11,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nc"
 },
   "bbox": [
     -84.32195,

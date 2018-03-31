@@ -1,21 +1,13 @@
 {
-  "id": "wa_86_to_86_05",
+  "id": "wa_86_to_86_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"86",
-    "id":"053086086005",
-    "member":{
-        "86":{
-            "4579":{
-                "district":"5",
-                "name":"Horan, Walter Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"86",
-    "statename":"Washington"
+    "district":5,
+    "end_date":"1960-09-01",
+    "end_session":86,
+    "start_date":"1959-01-07",
+    "start_session":86,
+    "state":"wa"
 },
   "bbox": [
     -121.18071,

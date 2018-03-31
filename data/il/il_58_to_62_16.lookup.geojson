@@ -2,48 +2,12 @@
   "id": "il_58_to_62_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"62",
-    "id":"017058062016",
-    "member":{
-        "58":{
-            "3730":{
-                "district":"16",
-                "name":"Graff, Joseph Verdi",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "3730":{
-                "district":"16",
-                "name":"Graff, Joseph Verdi",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3730":{
-                "district":"16",
-                "name":"Graff, Joseph Verdi",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3730":{
-                "district":"16",
-                "name":"Graff, Joseph Verdi",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "8976":{
-                "district":"16",
-                "name":"Stone, Claudius Ulysses",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":16,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -89.98911,

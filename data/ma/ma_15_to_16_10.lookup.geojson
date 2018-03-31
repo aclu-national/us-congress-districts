@@ -2,27 +2,12 @@
   "id": "ma_15_to_16_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"16",
-    "id":"025015016010",
-    "member":{
-        "15":{
-            "6743":{
-                "district":"10",
-                "name":"Morton, Marcus",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "6743":{
-                "district":"10",
-                "name":"Morton, Marcus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"ma"
 },
   "bbox": [
     -71.395,

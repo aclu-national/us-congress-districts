@@ -1,49 +1,13 @@
 {
-  "id": "pa_8_to_12_06",
+  "id": "pa_8_to_12_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"12",
-    "id":"042008012006",
-    "member":{
-        "10":{
-            "5151":{
-                "district":"6",
-                "name":"Kelly, James",
-                "party":"Federalist"
-            }
-        },
-        "11":{
-            "2164":{
-                "district":"6",
-                "name":"Crawford, William",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "2164":{
-                "district":"6",
-                "name":"Crawford, William",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "8938":{
-                "district":"6",
-                "name":"Stewart, John",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "5151":{
-                "district":"6",
-                "name":"Kelly, James",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"pa"
 },
   "bbox": [
     -77.47162,

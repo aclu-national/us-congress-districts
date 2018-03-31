@@ -1,49 +1,13 @@
 {
-  "id": "wv_98_to_102_01",
+  "id": "wv_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"054098102001",
-    "member":{
-        "100":{
-            "15083":{
-                "district":"1",
-                "name":"Mollohan, Alan B.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15083":{
-                "district":"1",
-                "name":"Mollohan, Alan B.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15083":{
-                "district":"1",
-                "name":"Mollohan, Alan B.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "15083":{
-                "district":"1",
-                "name":"Mollohan, Alan B.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15083":{
-                "district":"1",
-                "name":"Mollohan, Alan B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"West Virginia"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"wv"
 },
   "bbox": [
     -81.7561,

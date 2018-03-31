@@ -2,48 +2,12 @@
   "id": "ma_8_to_12_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"12",
-    "id":"025008012015",
-    "member":{
-        "10":{
-            "4798":{
-                "district":"15",
-                "name":"Ilsley, Daniel",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "10069":{
-                "district":"15",
-                "name":"Whitman, Exekiel",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "10090":{
-                "district":"15",
-                "name":"Widgery, William",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "9707":{
-                "district":"15",
-                "name":"Wadsworth, Peleg",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "9707":{
-                "district":"15",
-                "name":"Wadsworth, Peleg",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Massachusetts"
+    "district":15,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ma"
 },
   "bbox": [
     -70.80556,

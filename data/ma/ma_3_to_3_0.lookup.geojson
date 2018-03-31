@@ -1,21 +1,13 @@
 {
-  "id": "ma_3_to_3_00",
+  "id": "ma_3_to_3_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"3",
-    "id":"025003003000",
-    "member":{
-        "3":{
-            "1865":{
-                "district":"99",
-                "name":"Cobb, David",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Massachusetts"
+    "district":0,
+    "end_date":"1795-03-03",
+    "end_session":3,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ma"
 },
   "bbox": [
     -73.50814,

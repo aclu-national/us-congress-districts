@@ -1,42 +1,13 @@
 {
-  "id": "ks_56_to_59_02",
+  "id": "ks_56_to_59_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"59",
-    "id":"020056059002",
-    "member":{
-        "56":{
-            "907":{
-                "district":"2",
-                "name":"Bowersock, Justin De Witt",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "907":{
-                "district":"2",
-                "name":"Bowersock, Justin De Witt",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "907":{
-                "district":"2",
-                "name":"Bowersock, Justin De Witt",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "907":{
-                "district":"2",
-                "name":"Bowersock, Justin De Witt",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Kansas"
+    "district":2,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"ks"
 },
   "bbox": [
     -95.5256,

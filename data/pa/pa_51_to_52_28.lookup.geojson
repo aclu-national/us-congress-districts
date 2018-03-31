@@ -2,27 +2,12 @@
   "id": "pa_51_to_52_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"52",
-    "id":"042051052028",
-    "member":{
-        "51":{
-            "5204":{
-                "district":"28",
-                "name":"Kerr, James",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "5368":{
-                "district":"28",
-                "name":"Kribbs, George Frederic",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":28,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -79.70044,

@@ -1,119 +1,13 @@
 {
-  "id": "nh_33_to_47_01",
+  "id": "nh_33_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"033033047001",
-    "member":{
-        "33":{
-            "5313":{
-                "district":"1",
-                "name":"Kittredge, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "7449":{
-                "district":"1",
-                "name":"Pike, James",
-                "party":"American"
-            }
-        },
-        "35":{
-            "7449":{
-                "district":"1",
-                "name":"Pike, James",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "6011":{
-                "district":"1",
-                "name":"Marston, Gilman",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "6011":{
-                "district":"1",
-                "name":"Marston, Gilman",
-                "party":"Republican"
-            }
-        },
-        "38":{
-            "5978":{
-                "district":"1",
-                "name":"Marcy, Daniel",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "6011":{
-                "district":"1",
-                "name":"Marston, Gilman",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "2888":{
-                "district":"1",
-                "name":"Ela, Jacob Hart",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "2888":{
-                "district":"1",
-                "name":"Ela, Jacob Hart",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "4379":{
-                "district":"1",
-                "name":"Hibbard, Ellery Albee",
-                "party":"Democrat"
-            }
-        },
-        "43":{
-            "8589":{
-                "district":"1",
-                "name":"Small, William Bradbury",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "5030":{
-                "district":"1",
-                "name":"Jones, Frank",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "5030":{
-                "district":"1",
-                "name":"Jones, Frank",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "3944":{
-                "district":"1",
-                "name":"Hall, Joshua Gilman",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "3944":{
-                "district":"1",
-                "name":"Hall, Joshua Gilman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New Hampshire"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"nh"
 },
   "bbox": [
     -71.73155,

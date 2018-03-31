@@ -2,41 +2,12 @@
   "id": "va_19_to_22_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"22",
-    "id":"051019022015",
-    "member":{
-        "19":{
-            "421":{
-                "district":"15",
-                "name":"Barbour, John Strode",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "421":{
-                "district":"15",
-                "name":"Barbour, John Strode",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "421":{
-                "district":"15",
-                "name":"Barbour, John Strode",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "421":{
-                "district":"15",
-                "name":"Barbour, John Strode",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":15,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -78.33832,

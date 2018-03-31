@@ -2,27 +2,12 @@
   "id": "va_8_to_9_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"9",
-    "id":"051008009016",
-    "member":{
-        "8":{
-            "2977":{
-                "district":"16",
-                "name":"Eppes, John Wayles",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "2977":{
-                "district":"16",
-                "name":"Eppes, John Wayles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Virginia"
+    "district":16,
+    "end_date":"1807-03-03",
+    "end_session":9,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"va"
 },
   "bbox": [
     -78.24083,

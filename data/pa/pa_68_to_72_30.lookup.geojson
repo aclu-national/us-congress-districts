@@ -2,48 +2,12 @@
   "id": "pa_68_to_72_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"72",
-    "id":"042068072030",
-    "member":{
-        "68":{
-            "5193":{
-                "district":"30",
-                "name":"Kent, Everett",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2123":{
-                "district":"30",
-                "name":"Coyle, William Radford",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "5193":{
-                "district":"30",
-                "name":"Kent, Everett",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "2123":{
-                "district":"30",
-                "name":"Coyle, William Radford",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2123":{
-                "district":"30",
-                "name":"Coyle, William Radford",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":30,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -75.99735,

@@ -2,97 +2,12 @@
   "id": "in_78_to_89_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"89",
-    "id":"018078089011",
-    "member":{
-        "78":{
-            "5831":{
-                "district":"11",
-                "name":"Ludlow, Louis Leon",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "5831":{
-                "district":"11",
-                "name":"Ludlow, Louis Leon",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5831":{
-                "district":"11",
-                "name":"Ludlow, Louis Leon",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "4869":{
-                "district":"11",
-                "name":"Jacobs, Andrew, Sr.",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1152":{
-                "district":"11",
-                "name":"Brownson, Charles Bruce",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "1152":{
-                "district":"11",
-                "name":"Brownson, Charles Bruce",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "1152":{
-                "district":"11",
-                "name":"Brownson, Charles Bruce",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "1152":{
-                "district":"11",
-                "name":"Brownson, Charles Bruce",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "458":{
-                "district":"11",
-                "name":"Barr, Joseph Walker",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10507":{
-                "district":"11",
-                "name":"Bruce, Donald C.",
-                "party":"Republican"
-            }
-        },
-        "88":{
-            "10507":{
-                "district":"11",
-                "name":"Bruce, Donald C.",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10742":{
-                "district":"11",
-                "name":"Jacobs, Andrew, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Indiana"
+    "district":11,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"in"
 },
   "bbox": [
     -86.32829,

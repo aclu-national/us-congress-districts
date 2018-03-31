@@ -1,84 +1,13 @@
 {
-  "id": "me_88_to_97_02",
+  "id": "me_88_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"023088097002",
-    "member":{
-        "88":{
-            "6276":{
-                "district":"2",
-                "name":"McIntire, Clifford Guy",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10736":{
-                "district":"2",
-                "name":"Hathaway, William D.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10736":{
-                "district":"2",
-                "name":"Hathaway, William D.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "10736":{
-                "district":"2",
-                "name":"Hathaway, William D.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10736":{
-                "district":"2",
-                "name":"Hathaway, William D.",
-                "party":"Democrat"
-            }
-        },
-        "93":{
-            "14010":{
-                "district":"2",
-                "name":"Cohen, William",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14010":{
-                "district":"2",
-                "name":"Cohen, William",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14010":{
-                "district":"2",
-                "name":"Cohen, William",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14661":{
-                "district":"2",
-                "name":"Snowe, Olympia",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14661":{
-                "district":"2",
-                "name":"Snowe, Olympia",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Maine"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"me"
 },
   "bbox": [
     -71.08433,

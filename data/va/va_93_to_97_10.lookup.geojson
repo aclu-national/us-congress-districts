@@ -2,48 +2,12 @@
   "id": "va_93_to_97_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"97",
-    "id":"051093097010",
-    "member":{
-        "93":{
-            "1154":{
-                "district":"10",
-                "name":"Broyhill, Joel Thomas",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14215":{
-                "district":"10",
-                "name":"Fisher, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14215":{
-                "district":"10",
-                "name":"Fisher, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14215":{
-                "district":"10",
-                "name":"Fisher, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14869":{
-                "district":"10",
-                "name":"Wolf, Frank R.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"va"
 },
   "bbox": [
     -77.96204,

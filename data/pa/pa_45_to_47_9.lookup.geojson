@@ -1,35 +1,13 @@
 {
-  "id": "pa_45_to_47_09",
+  "id": "pa_45_to_47_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"47",
-    "id":"042045047009",
-    "member":{
-        "45":{
-            "8597":{
-                "district":"9",
-                "name":"Smith, Abraham Herr",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "8597":{
-                "district":"9",
-                "name":"Smith, Abraham Herr",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "8597":{
-                "district":"9",
-                "name":"Smith, Abraham Herr",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Pennsylvania"
+    "district":9,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

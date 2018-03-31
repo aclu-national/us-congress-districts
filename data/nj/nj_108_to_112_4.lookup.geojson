@@ -1,49 +1,13 @@
 {
-  "id": "nj_108_to_112_04",
+  "id": "nj_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"034108112004",
-    "member":{
-        "108":{
-            "14863":{
-                "district":"4",
-                "name":"Smith, Christopher H.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "14863":{
-                "district":"4",
-                "name":"Smith, Christopher H.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "14863":{
-                "district":"4",
-                "name":"Smith, Christopher H.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "14863":{
-                "district":"4",
-                "name":"Smith, Christopher H.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "14863":{
-                "district":"4",
-                "name":"Smith, Christopher H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New Jersey"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nj"
 },
   "bbox": [
     -74.89858,

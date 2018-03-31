@@ -1,35 +1,13 @@
 {
-  "id": "pa_48_to_50_05",
+  "id": "pa_48_to_50_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"50",
-    "id":"042048050005",
-    "member":{
-        "48":{
-            "4080":{
-                "district":"5",
-                "name":"Harmer, Alfred Crout",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "4080":{
-                "district":"5",
-                "name":"Harmer, Alfred Crout",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "4080":{
-                "district":"5",
-                "name":"Harmer, Alfred Crout",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -75.24101,

@@ -1,75 +1,13 @@
 {
-  "id": "ne_39_to_46_00",
+  "id": "ne_39_to_46_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"46",
-    "id":"031039046000",
-    "member":{
-        "39":{
-            "5988":{
-                "district":"1",
-                "name":"Marquette, Turner Mastin",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "9149":{
-                "district":"1",
-                "name":"Taffe, John",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "9149":{
-                "district":"1",
-                "name":"Taffe, John",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "9149":{
-                "district":"1",
-                "name":"Taffe, John",
-                "party":"Republican"
-            }
-        },
-        "43":{
-            "2202":{
-                "district":"1",
-                "name":"Crounse, Lorenzo",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "2202":{
-                "district":"1",
-                "name":"Crounse, Lorenzo",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "5934":{
-                "district":"1",
-                "name":"Majors, Thomas Jefferson",
-                "party":"Republican"
-            },
-            "9925":{
-                "district":"1",
-                "name":"Welch, Frank",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "9586":{
-                "district":"1",
-                "name":"Valentine, Edward Kimble",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"39",
-    "statename":"Nebraska"
+    "district":0,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1865-03-04",
+    "start_session":39,
+    "state":"ne"
 },
   "bbox": [
     -104.05351,

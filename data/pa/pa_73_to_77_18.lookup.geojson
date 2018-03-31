@@ -2,53 +2,12 @@
   "id": "pa_73_to_77_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"77",
-    "id":"042073077018",
-    "member":{
-        "73":{
-            "3243":{
-                "district":"18",
-                "name":"Focht, Benjamin Kurtz",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "3243":{
-                "district":"18",
-                "name":"Focht, Benjamin Kurtz",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "3243":{
-                "district":"18",
-                "name":"Focht, Benjamin Kurtz",
-                "party":"Republican"
-            },
-            "8532":{
-                "district":"18",
-                "name":"Simpson, Richard Murray",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "8532":{
-                "district":"18",
-                "name":"Simpson, Richard Murray",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "8532":{
-                "district":"18",
-                "name":"Simpson, Richard Murray",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"pa"
 },
   "bbox": [
     -78.80838,

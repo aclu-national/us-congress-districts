@@ -2,27 +2,12 @@
   "id": "fl_91_to_92_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"92",
-    "id":"012091092011",
-    "member":{
-        "91":{
-            "7333":{
-                "district":"11",
-                "name":"Pepper, Claude Denson",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "7333":{
-                "district":"11",
-                "name":"Pepper, Claude Denson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Florida"
+    "district":11,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"fl"
 },
   "bbox": [
     -80.87358,

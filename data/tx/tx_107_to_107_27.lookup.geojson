@@ -2,20 +2,12 @@
   "id": "tx_107_to_107_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"107",
-    "id":"048107107027",
-    "member":{
-        "107":{
-            "15049":{
-                "district":"27",
-                "name":"Ortiz, Solomon P.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"107",
-    "statename":"Texas"
+    "district":27,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"2001-01-03",
+    "start_session":107,
+    "state":"tx"
 },
   "bbox": [
     -97.98589,

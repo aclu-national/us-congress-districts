@@ -1,28 +1,13 @@
 {
-  "id": "va_41_to_42_06",
+  "id": "va_41_to_42_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"42",
-    "id":"051041042006",
-    "member":{
-        "41":{
-            "6537":{
-                "district":"6",
-                "name":"Milnes, William, Jr.",
-                "party":"Conservative"
-            }
-        },
-        "42":{
-            "4108":{
-                "district":"6",
-                "name":"Harris, John Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"va"
 },
   "bbox": [
     -80.29614,

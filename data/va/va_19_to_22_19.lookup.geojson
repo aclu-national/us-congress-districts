@@ -2,41 +2,12 @@
   "id": "va_19_to_22_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"22",
-    "id":"051019022019",
-    "member":{
-        "19":{
-            "6189":{
-                "district":"19",
-                "name":"McCoy, William",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "6189":{
-                "district":"19",
-                "name":"McCoy, William",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "6189":{
-                "district":"19",
-                "name":"McCoy, William",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "6189":{
-                "district":"19",
-                "name":"McCoy, William",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":19,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -80.3633,

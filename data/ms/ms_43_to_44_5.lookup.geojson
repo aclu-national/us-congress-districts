@@ -1,28 +1,13 @@
 {
-  "id": "ms_43_to_44_05",
+  "id": "ms_43_to_44_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"44",
-    "id":"028043044005",
-    "member":{
-        "43":{
-            "6288":{
-                "district":"5",
-                "name":"McKee, George Colin",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "4553":{
-                "district":"5",
-                "name":"Hooker, Charles Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Mississippi"
+    "district":5,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ms"
 },
   "bbox": [
     -91.21403,

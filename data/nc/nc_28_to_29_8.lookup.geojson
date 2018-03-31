@@ -1,28 +1,13 @@
 {
-  "id": "nc_28_to_29_08",
+  "id": "nc_28_to_29_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"29",
-    "id":"037028029008",
-    "member":{
-        "28":{
-            "254":{
-                "district":"8",
-                "name":"Arrington, Archibald Hunt",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "1766":{
-                "district":"8",
-                "name":"Clark, Henry Selby",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"North Carolina"
+    "district":8,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"nc"
 },
   "bbox": [
     -78.2569,

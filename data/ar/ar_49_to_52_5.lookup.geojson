@@ -1,42 +1,13 @@
 {
-  "id": "ar_49_to_52_05",
+  "id": "ar_49_to_52_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"52",
-    "id":"005049052005",
-    "member":{
-        "49":{
-            "7302":{
-                "district":"5",
-                "name":"Peel, Samuel West",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "7302":{
-                "district":"5",
-                "name":"Peel, Samuel West",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "7302":{
-                "district":"5",
-                "name":"Peel, Samuel West",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "7302":{
-                "district":"5",
-                "name":"Peel, Samuel West",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Arkansas"
+    "district":5,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ar"
 },
   "bbox": [
     -94.61792,

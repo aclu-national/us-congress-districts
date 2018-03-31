@@ -1,21 +1,13 @@
 {
-  "id": "ga_104_to_104_04",
+  "id": "ga_104_to_104_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"104",
-    "id":"013104104004",
-    "member":{
-        "104":{
-            "29341":{
-                "district":"4",
-                "name":"Linder, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Georgia"
+    "district":4,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"ga"
 },
   "bbox": [
     -84.3773,

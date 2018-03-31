@@ -2,53 +2,12 @@
   "id": "va_13_to_17_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"17",
-    "id":"051013017017",
-    "member":{
-        "13":{
-            "7486":{
-                "district":"17",
-                "name":"Pleasants, James",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "7486":{
-                "district":"17",
-                "name":"Pleasants, James",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "7486":{
-                "district":"17",
-                "name":"Pleasants, James",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "225":{
-                "district":"17",
-                "name":"Archer, William Segar",
-                "party":"Republican"
-            },
-            "7486":{
-                "district":"17",
-                "name":"Pleasants, James",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "225":{
-                "district":"17",
-                "name":"Archer, William Segar",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":17,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -78.24083,

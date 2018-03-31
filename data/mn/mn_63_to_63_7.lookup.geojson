@@ -1,21 +1,13 @@
 {
-  "id": "mn_63_to_63_07",
+  "id": "mn_63_to_63_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"63",
-    "id":"027063063007",
-    "member":{
-        "63":{
-            "9683":{
-                "district":"7",
-                "name":"Volstead, Andrew John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Minnesota"
+    "district":7,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"mn"
 },
   "bbox": [
     -96.85775,

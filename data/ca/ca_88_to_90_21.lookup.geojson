@@ -2,34 +2,12 @@
   "id": "ca_88_to_90_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"90",
-    "id":"006088090021",
-    "member":{
-        "88":{
-            "10595":{
-                "district":"21",
-                "name":"Hawkins, Augustus F.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10595":{
-                "district":"21",
-                "name":"Hawkins, Augustus F.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10595":{
-                "district":"21",
-                "name":"Hawkins, Augustus F.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":21,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -118.29161,

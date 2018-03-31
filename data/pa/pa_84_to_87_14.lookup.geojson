@@ -2,41 +2,12 @@
   "id": "pa_84_to_87_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"87",
-    "id":"042084087014",
-    "member":{
-        "84":{
-            "7844":{
-                "district":"14",
-                "name":"Rhodes, George Milton",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "7844":{
-                "district":"14",
-                "name":"Rhodes, George Milton",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "7844":{
-                "district":"14",
-                "name":"Rhodes, George Milton",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "7844":{
-                "district":"14",
-                "name":"Rhodes, George Milton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -76.44018,

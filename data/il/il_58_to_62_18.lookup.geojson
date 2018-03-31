@@ -2,48 +2,12 @@
   "id": "il_58_to_62_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"62",
-    "id":"017058062018",
-    "member":{
-        "58":{
-            "1483":{
-                "district":"18",
-                "name":"Cannon, Joseph Gurney",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "1483":{
-                "district":"18",
-                "name":"Cannon, Joseph Gurney",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "1483":{
-                "district":"18",
-                "name":"Cannon, Joseph Gurney",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "1483":{
-                "district":"18",
-                "name":"Cannon, Joseph Gurney",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "1483":{
-                "district":"18",
-                "name":"Cannon, Joseph Gurney",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":18,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -88.47123,

@@ -1,35 +1,13 @@
 {
-  "id": "ma_70_to_72_01",
+  "id": "ma_70_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"025070072001",
-    "member":{
-        "70":{
-            "9460":{
-                "district":"1",
-                "name":"Treadway, Allen Towner",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9460":{
-                "district":"1",
-                "name":"Treadway, Allen Towner",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9460":{
-                "district":"1",
-                "name":"Treadway, Allen Towner",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ma"
 },
   "bbox": [
     -73.50814,

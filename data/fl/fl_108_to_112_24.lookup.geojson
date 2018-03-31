@@ -2,48 +2,12 @@
   "id": "fl_108_to_112_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"112",
-    "id":"012108112024",
-    "member":{
-        "108":{
-            "20315":{
-                "district":"24",
-                "name":"Feeney, Tom",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20315":{
-                "district":"24",
-                "name":"Feeney, Tom",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20315":{
-                "district":"24",
-                "name":"Feeney, Tom",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20911":{
-                "district":"24",
-                "name":"Kosmas, Suzanne M.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21120":{
-                "district":"24",
-                "name":"Adams, Sandra",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Florida"
+    "district":24,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"fl"
 },
   "bbox": [
     -81.59319,

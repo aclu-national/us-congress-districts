@@ -2,48 +2,12 @@
   "id": "il_103_to_107_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"107",
-    "id":"017103107013",
-    "member":{
-        "103":{
-            "15098":{
-                "district":"13",
-                "name":"Fawell, Harris W.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15098":{
-                "district":"13",
-                "name":"Fawell, Harris W.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15098":{
-                "district":"13",
-                "name":"Fawell, Harris W.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29912":{
-                "district":"13",
-                "name":"Biggert, Judy",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29912":{
-                "district":"13",
-                "name":"Biggert, Judy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Illinois"
+    "district":13,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"il"
 },
   "bbox": [
     -88.26307,

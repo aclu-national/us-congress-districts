@@ -2,25 +2,12 @@
   "id": "ny_17_to_17_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"17",
-    "id":"036017017015",
-    "member":{
-        "17":{
-            "1464":{
-                "district":"15",
-                "name":"Campbell, Samuel",
-                "party":"Republican"
-            },
-            "4211":{
-                "district":"15",
-                "name":"Hawkes, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ny"
 },
   "bbox": [
     -76.29951,

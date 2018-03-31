@@ -2,48 +2,12 @@
   "id": "pa_68_to_72_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"72",
-    "id":"042068072019",
-    "member":{
-        "68":{
-            "8552":{
-                "district":"19",
-                "name":"Sites, Frank Crawford",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9109":{
-                "district":"19",
-                "name":"Swartz, Joshua William",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "2695":{
-                "district":"19",
-                "name":"Doutrich, Isaac Hoffer",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2695":{
-                "district":"19",
-                "name":"Doutrich, Isaac Hoffer",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2695":{
-                "district":"19",
-                "name":"Doutrich, Isaac Hoffer",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -77.62724,

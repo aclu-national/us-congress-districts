@@ -1,28 +1,13 @@
 {
-  "id": "ny_63_to_64_01",
+  "id": "ny_63_to_64_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"64",
-    "id":"036063064001",
-    "member":{
-        "63":{
-            "1127":{
-                "district":"1",
-                "name":"Brown, Lathrop",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4385":{
-                "district":"1",
-                "name":"Hicks, Frederick Cocks",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -73.84349,

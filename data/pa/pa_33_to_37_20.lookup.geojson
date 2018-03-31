@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"37",
-    "id":"042033037020",
-    "member":{
-        "33":{
-            "2428":{
-                "district":"20",
-                "name":"Dawson, John Littleton",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "5337":{
-                "district":"20",
-                "name":"Knight, Jonathan",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "6610":{
-                "district":"20",
-                "name":"Montgomery, William",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "6610":{
-                "district":"20",
-                "name":"Montgomery, William",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "5530":{
-                "district":"20",
-                "name":"Lazear, Jesse",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":20,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -80.51949,

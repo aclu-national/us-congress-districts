@@ -1,63 +1,13 @@
 {
-  "id": "ms_28_to_29_00",
+  "id": "ms_28_to_29_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"29",
-    "id":"028028029000",
-    "member":{
-        "28":{
-            "4004":{
-                "district":"98",
-                "name":"Hammett, William H.",
-                "party":"Democrat"
-            },
-            "7955":{
-                "district":"98",
-                "name":"Roberts, Robert Whyte",
-                "party":"Democrat"
-            },
-            "9325":{
-                "district":"98",
-                "name":"Thompson, Jacob",
-                "party":"Democrat"
-            },
-            "9502":{
-                "district":"98",
-                "name":"Tucker, Tilghman Mayfield",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "2393":{
-                "district":"98",
-                "name":"Davis, Jefferson",
-                "party":"Democrat"
-            },
-            "2905":{
-                "district":"98",
-                "name":"Ellett, Henry Thomas",
-                "party":"Democrat"
-            },
-            "41":{
-                "district":"98",
-                "name":"Adams, Stephen",
-                "party":"Democrat"
-            },
-            "7955":{
-                "district":"98",
-                "name":"Roberts, Robert Whyte",
-                "party":"Democrat"
-            },
-            "9325":{
-                "district":"98",
-                "name":"Thompson, Jacob",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Mississippi"
+    "district":0,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ms"
 },
   "bbox": [
     -91.65501,

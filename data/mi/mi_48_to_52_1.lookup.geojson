@@ -1,49 +1,13 @@
 {
-  "id": "mi_48_to_52_01",
+  "id": "mi_48_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"026048052001",
-    "member":{
-        "48":{
-            "6108":{
-                "district":"1",
-                "name":"Maybury, William Cotter",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "6108":{
-                "district":"1",
-                "name":"Maybury, William Cotter",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "1704":{
-                "district":"1",
-                "name":"Chipman, John Logan",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "1704":{
-                "district":"1",
-                "name":"Chipman, John Logan",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "1704":{
-                "district":"1",
-                "name":"Chipman, John Logan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Michigan"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mi"
 },
   "bbox": [
     -83.55174,

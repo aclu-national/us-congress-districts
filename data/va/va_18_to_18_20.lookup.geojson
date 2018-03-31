@@ -2,20 +2,12 @@
   "id": "va_18_to_18_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"18",
-    "id":"051018018020",
-    "member":{
-        "18":{
-            "3234":{
-                "district":"20",
-                "name":"Floyd, John",
-                "party":"Crawford Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Virginia"
+    "district":20,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"va"
 },
   "bbox": [
     -81.30748,

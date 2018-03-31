@@ -1,49 +1,13 @@
 {
-  "id": "nj_108_to_112_02",
+  "id": "nj_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"034108112002",
-    "member":{
-        "108":{
-            "29539":{
-                "district":"2",
-                "name":"Lobiondo, Frank A.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29539":{
-                "district":"2",
-                "name":"Lobiondo, Frank A.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29539":{
-                "district":"2",
-                "name":"Lobiondo, Frank A.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29539":{
-                "district":"2",
-                "name":"Lobiondo, Frank A.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "29539":{
-                "district":"2",
-                "name":"Lobiondo, Frank A.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New Jersey"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nj"
 },
   "bbox": [
     -75.55961,

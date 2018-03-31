@@ -1,21 +1,13 @@
 {
-  "id": "nh_92_to_92_01",
+  "id": "nh_92_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"033092092001",
-    "member":{
-        "92":{
-            "10639":{
-                "district":"1",
-                "name":"Wyman, Louis C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"New Hampshire"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"nh"
 },
   "bbox": [
     -71.73155,

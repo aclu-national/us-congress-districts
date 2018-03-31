@@ -2,34 +2,12 @@
   "id": "mo_50_to_52_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"52",
-    "id":"029050052011",
-    "member":{
-        "50":{
-            "784":{
-                "district":"11",
-                "name":"Bland, Richard Parks",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "784":{
-                "district":"11",
-                "name":"Bland, Richard Parks",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "784":{
-                "district":"11",
-                "name":"Bland, Richard Parks",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Missouri"
+    "district":11,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"mo"
 },
   "bbox": [
     -92.85992,

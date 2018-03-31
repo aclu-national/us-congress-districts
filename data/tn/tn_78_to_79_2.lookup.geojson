@@ -1,28 +1,13 @@
 {
-  "id": "tn_78_to_79_02",
+  "id": "tn_78_to_79_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"79",
-    "id":"047078079002",
-    "member":{
-        "78":{
-            "4925":{
-                "district":"2",
-                "name":"Jennings, John Jr.",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4925":{
-                "district":"2",
-                "name":"Jennings, John Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Tennessee"
+    "district":2,
+    "end_date":"1946-08-02",
+    "end_session":79,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"tn"
 },
   "bbox": [
     -84.86016,

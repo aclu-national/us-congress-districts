@@ -1,35 +1,13 @@
 {
-  "id": "ga_40_to_42_07",
+  "id": "ga_40_to_42_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"42",
-    "id":"013040042007",
-    "member":{
-        "40":{
-            "10451":{
-                "district":"7",
-                "name":"Young, Pierce Manning Butler",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "10451":{
-                "district":"7",
-                "name":"Young, Pierce Manning Butler",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "10451":{
-                "district":"7",
-                "name":"Young, Pierce Manning Butler",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"ga"
 },
   "bbox": [
     -85.60517,

@@ -1,54 +1,13 @@
 {
-  "id": "sd_108_to_112_00",
+  "id": "sd_108_to_112_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"112",
-    "id":"046108112000",
-    "member":{
-        "108":{
-            "20348":{
-                "district":"1",
-                "name":"Janklow, William J.",
-                "party":"Republican"
-            },
-            "20349":{
-                "district":"1",
-                "name":"Herseth, Stephanie",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20349":{
-                "district":"1",
-                "name":"Herseth, Stephanie",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20349":{
-                "district":"1",
-                "name":"Herseth, Stephanie",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20349":{
-                "district":"1",
-                "name":"Herseth, Stephanie",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21177":{
-                "district":"1",
-                "name":"Noem, Kristi",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"South Dakota"
+    "district":0,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"sd"
 },
   "bbox": [
     -104.0577,

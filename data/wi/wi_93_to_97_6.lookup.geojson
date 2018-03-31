@@ -1,54 +1,13 @@
 {
-  "id": "wi_93_to_97_06",
+  "id": "wi_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"055093097006",
-    "member":{
-        "93":{
-            "11051":{
-                "district":"6",
-                "name":"Steiger, William A.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "11051":{
-                "district":"6",
-                "name":"Steiger, William A.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "11051":{
-                "district":"6",
-                "name":"Steiger, William A.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "11051":{
-                "district":"6",
-                "name":"Steiger, William A.",
-                "party":"Republican"
-            },
-            "14675":{
-                "district":"6",
-                "name":"Petri, Thomas",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14675":{
-                "district":"6",
-                "name":"Petri, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Wisconsin"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"wi"
 },
   "bbox": [
     -90.55257,

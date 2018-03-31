@@ -1,35 +1,13 @@
 {
-  "id": "pa_90_to_92_01",
+  "id": "pa_90_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"042090092001",
-    "member":{
-        "90":{
-            "465":{
-                "district":"1",
-                "name":"Barrett, William A.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "465":{
-                "district":"1",
-                "name":"Barrett, William A.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "465":{
-                "district":"1",
-                "name":"Barrett, William A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

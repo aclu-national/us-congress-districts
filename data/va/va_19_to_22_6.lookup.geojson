@@ -1,42 +1,13 @@
 {
-  "id": "va_19_to_22_06",
+  "id": "va_19_to_22_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"22",
-    "id":"051019022006",
-    "member":{
-        "19":{
-            "2361":{
-                "district":"6",
-                "name":"Davenport, Thomas",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "2361":{
-                "district":"6",
-                "name":"Davenport, Thomas",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2361":{
-                "district":"6",
-                "name":"Davenport, Thomas",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "2361":{
-                "district":"6",
-                "name":"Davenport, Thomas",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -79.71485,

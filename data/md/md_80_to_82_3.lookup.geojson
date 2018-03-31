@@ -1,40 +1,13 @@
 {
-  "id": "md_80_to_82_03",
+  "id": "md_80_to_82_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"82",
-    "id":"024080082003",
-    "member":{
-        "80":{
-            "2304":{
-                "district":"3",
-                "name":"D'alesandro, Thomas",
-                "party":"Democrat"
-            },
-            "3480":{
-                "district":"3",
-                "name":"Garmatz, Edward Alexander",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "3480":{
-                "district":"3",
-                "name":"Garmatz, Edward Alexander",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "3480":{
-                "district":"3",
-                "name":"Garmatz, Edward Alexander",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"80",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1947-01-03",
+    "start_session":80,
+    "state":"md"
 },
   "bbox": [
     -76.63674,

@@ -1,49 +1,13 @@
 {
-  "id": "ny_38_to_42_06",
+  "id": "ny_38_to_42_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"42",
-    "id":"036038042006",
-    "member":{
-        "38":{
-            "9812":{
-                "district":"6",
-                "name":"Ward, Elijah",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "7755":{
-                "district":"6",
-                "name":"Raymond, Henry Jarvis",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "8946":{
-                "district":"6",
-                "name":"Stewart, Thomas Elliott",
-                "party":"Conservative Republican"
-            }
-        },
-        "41":{
-            "2118":{
-                "district":"6",
-                "name":"Cox, Samuel Sullivan",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "2118":{
-                "district":"6",
-                "name":"Cox, Samuel Sullivan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -74.01514,

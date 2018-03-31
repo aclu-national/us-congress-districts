@@ -1,28 +1,13 @@
 {
-  "id": "ky_83_to_84_04",
+  "id": "ky_83_to_84_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"84",
-    "id":"021083084004",
-    "member":{
-        "83":{
-            "1682":{
-                "district":"4",
-                "name":"Chelf, Frank Leslie",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "1682":{
-                "district":"4",
-                "name":"Chelf, Frank Leslie",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Kentucky"
+    "district":4,
+    "end_date":"1956-07-27",
+    "end_session":84,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ky"
 },
   "bbox": [
     -86.27761,

@@ -1,49 +1,13 @@
 {
-  "id": "ny_108_to_112_07",
+  "id": "ny_108_to_112_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"112",
-    "id":"036108112007",
-    "member":{
-        "108":{
-            "29925":{
-                "district":"7",
-                "name":"Crowley, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29925":{
-                "district":"7",
-                "name":"Crowley, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29925":{
-                "district":"7",
-                "name":"Crowley, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29925":{
-                "district":"7",
-                "name":"Crowley, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29925":{
-                "district":"7",
-                "name":"Crowley, Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":7,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -73.92501,

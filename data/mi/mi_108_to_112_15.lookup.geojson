@@ -2,48 +2,12 @@
   "id": "mi_108_to_112_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"112",
-    "id":"026108112015",
-    "member":{
-        "108":{
-            "2605":{
-                "district":"15",
-                "name":"Dingell, John David Jr.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "2605":{
-                "district":"15",
-                "name":"Dingell, John David Jr.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "2605":{
-                "district":"15",
-                "name":"Dingell, John David Jr.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "2605":{
-                "district":"15",
-                "name":"Dingell, John David Jr.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "2605":{
-                "district":"15",
-                "name":"Dingell, John D.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Michigan"
+    "district":15,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mi"
 },
   "bbox": [
     -83.79984,

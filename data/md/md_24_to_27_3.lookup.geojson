@@ -1,47 +1,13 @@
 {
-  "id": "md_24_to_27_03",
+  "id": "md_24_to_27_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"27",
-    "id":"024024027003",
-    "member":{
-        "24":{
-            "9518":{
-                "district":"3",
-                "name":"Turner, James",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "10377":{
-                "district":"3",
-                "name":"Worthington, John Tolley",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "10377":{
-                "district":"3",
-                "name":"Worthington, John Tolley",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "10154":{
-                "district":"3",
-                "name":"Williams, James Wray",
-                "party":"Democrat"
-            },
-            "8375":{
-                "district":"3",
-                "name":"Sewall, Charles S.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"24",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1835-12-07",
+    "start_session":24,
+    "state":"md"
 },
   "bbox": [
     -77.1679,

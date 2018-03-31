@@ -2,83 +2,12 @@
   "id": "in_63_to_72_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"72",
-    "id":"018063072013",
-    "member":{
-        "63":{
-            "453":{
-                "district":"13",
-                "name":"Barnhart, Henry A.",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "453":{
-                "district":"13",
-                "name":"Barnhart, Henry A.",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "453":{
-                "district":"13",
-                "name":"Barnhart, Henry A.",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "4383":{
-                "district":"13",
-                "name":"Hickey, Andrew James",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "4383":{
-                "district":"13",
-                "name":"Hickey, Andrew James",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "4383":{
-                "district":"13",
-                "name":"Hickey, Andrew James",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "4383":{
-                "district":"13",
-                "name":"Hickey, Andrew James",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4383":{
-                "district":"13",
-                "name":"Hickey, Andrew James",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4383":{
-                "district":"13",
-                "name":"Hickey, Andrew James",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "7376":{
-                "district":"13",
-                "name":"Pettengill, Samuel Barrett",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Indiana"
+    "district":13,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"in"
 },
   "bbox": [
     -86.93273,

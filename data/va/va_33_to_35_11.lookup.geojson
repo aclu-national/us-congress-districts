@@ -2,39 +2,12 @@
   "id": "va_33_to_35_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"35",
-    "id":"051033035011",
-    "member":{
-        "33":{
-            "5632":{
-                "district":"11",
-                "name":"Lewis, Charles Swearinger",
-                "party":"Democrat"
-            },
-            "8725":{
-                "district":"11",
-                "name":"Snodgrass, John Fryall",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "1507":{
-                "district":"11",
-                "name":"Carlile, John Snyder",
-                "party":"American"
-            }
-        },
-        "35":{
-            "4912":{
-                "district":"11",
-                "name":"Jenkins, Albert Gallatin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Virginia"
+    "district":11,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"va"
 },
   "bbox": [
     -82.50768,

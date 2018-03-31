@@ -2,41 +2,12 @@
   "id": "ca_99_to_102_36",
   "type": "Feature",
   "properties": {
-    "district":"36",
-    "endcong":"102",
-    "id":"006099102036",
-    "member":{
-        "100":{
-            "10573":{
-                "district":"36",
-                "name":"Brown, George E., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "10573":{
-                "district":"36",
-                "name":"Brown, George E., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "10573":{
-                "district":"36",
-                "name":"Brown, George E., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "10573":{
-                "district":"36",
-                "name":"Brown, George E., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":36,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -117.68264,

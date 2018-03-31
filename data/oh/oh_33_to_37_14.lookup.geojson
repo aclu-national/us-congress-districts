@@ -2,53 +2,12 @@
   "id": "oh_33_to_37_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"37",
-    "id":"039033037014",
-    "member":{
-        "33":{
-            "4958":{
-                "district":"14",
-                "name":"Johnson, Harvey Hull",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "797":{
-                "district":"14",
-                "name":"Bliss, Philemon",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "797":{
-                "district":"14",
-                "name":"Bliss, Philemon",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "772":{
-                "district":"14",
-                "name":"Blake, Harrison Gray Otis",
-                "party":"Republican"
-            },
-            "8795":{
-                "district":"14",
-                "name":"Spink, Cyrus",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "772":{
-                "district":"14",
-                "name":"Blake, Harrison Gray Otis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -82.43688,

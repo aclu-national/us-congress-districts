@@ -2,41 +2,12 @@
   "id": "ny_34_to_37_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"37",
-    "id":"036034037014",
-    "member":{
-        "34":{
-            "2582":{
-                "district":"14",
-                "name":"Dickson, Samuel",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "2073":{
-                "district":"14",
-                "name":"Corning, Erastus",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "7833":{
-                "district":"14",
-                "name":"Reynolds, John Hazard",
-                "party":"Anti-Lecompton Democrat"
-            }
-        },
-        "37":{
-            "2073":{
-                "district":"14",
-                "name":"Corning, Erastus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -74.26486,

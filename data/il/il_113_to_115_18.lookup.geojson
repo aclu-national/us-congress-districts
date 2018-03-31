@@ -2,18 +2,12 @@
   "id": "il_113_to_115_18",
   "type": "Feature",
   "properties": {
-    "ALAND":27236489311,
-    "AWATER":382253738,
-    "CD113FP":"18",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1718",
-    "INTPTLAT":"+40.2271844",
-    "INTPTLON":"-090.0691183",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 18",
-    "STATEFP":"17"
+    "district":18,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"il"
 },
   "bbox": [
     -91.513079,

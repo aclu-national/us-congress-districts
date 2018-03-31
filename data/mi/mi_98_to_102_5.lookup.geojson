@@ -1,49 +1,13 @@
 {
-  "id": "mi_98_to_102_05",
+  "id": "mi_98_to_102_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"102",
-    "id":"026098102005",
-    "member":{
-        "100":{
-            "15103":{
-                "district":"5",
-                "name":"Henry, Paul B.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15103":{
-                "district":"5",
-                "name":"Henry, Paul B.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15103":{
-                "district":"5",
-                "name":"Henry, Paul B.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14450":{
-                "district":"5",
-                "name":"Sawyer, Harold",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15103":{
-                "district":"5",
-                "name":"Henry, Paul B.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Michigan"
+    "district":5,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"mi"
 },
   "bbox": [
     -86.01826,

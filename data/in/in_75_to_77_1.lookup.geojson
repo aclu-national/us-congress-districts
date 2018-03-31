@@ -1,35 +1,13 @@
 {
-  "id": "in_75_to_77_01",
+  "id": "in_75_to_77_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"77",
-    "id":"018075077001",
-    "member":{
-        "75":{
-            "8275":{
-                "district":"1",
-                "name":"Schulte, William Theodore",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8275":{
-                "district":"1",
-                "name":"Schulte, William Theodore",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8275":{
-                "district":"1",
-                "name":"Schulte, William Theodore",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"75",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1937-01-05",
+    "start_session":75,
+    "state":"in"
 },
   "bbox": [
     -87.52677,

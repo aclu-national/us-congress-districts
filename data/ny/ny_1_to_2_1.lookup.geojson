@@ -1,28 +1,13 @@
 {
-  "id": "ny_1_to_2_01",
+  "id": "ny_1_to_2_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"2",
-    "id":"036001002001",
-    "member":{
-        "1":{
-            "3237":{
-                "district":"1",
-                "name":"Floyd, William",
-                "party":"Anti-Administration"
-            }
-        },
-        "2":{
-            "9463":{
-                "district":"1",
-                "name":"Tredwell, Thomas",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

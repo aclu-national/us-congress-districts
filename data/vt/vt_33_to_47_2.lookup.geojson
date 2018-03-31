@@ -1,119 +1,13 @@
 {
-  "id": "vt_33_to_47_02",
+  "id": "vt_33_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"050033047002",
-    "member":{
-        "33":{
-            "9448":{
-                "district":"2",
-                "name":"Tracy, Andrew",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "6696":{
-                "district":"2",
-                "name":"Morrill, Justin Smith",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "6696":{
-                "district":"2",
-                "name":"Morrill, Justin Smith",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "6696":{
-                "district":"2",
-                "name":"Morrill, Justin Smith",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "6696":{
-                "district":"2",
-                "name":"Morrill, Justin Smith",
-                "party":"Republican"
-            }
-        },
-        "38":{
-            "6696":{
-                "district":"2",
-                "name":"Morrill, Justin Smith",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "6696":{
-                "district":"2",
-                "name":"Morrill, Justin Smith",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "7504":{
-                "district":"2",
-                "name":"Poland, Luke Potter",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "7504":{
-                "district":"2",
-                "name":"Poland, Luke Potter",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "7504":{
-                "district":"2",
-                "name":"Poland, Luke Potter",
-                "party":"Republican"
-            }
-        },
-        "43":{
-            "7504":{
-                "district":"2",
-                "name":"Poland, Luke Potter",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "2496":{
-                "district":"2",
-                "name":"Denison, Dudley Chase",
-                "party":"Ind. Republican"
-            }
-        },
-        "45":{
-            "2496":{
-                "district":"2",
-                "name":"Denison, Dudley Chase",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "9541":{
-                "district":"2",
-                "name":"Tyler, James Manning",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "9541":{
-                "district":"2",
-                "name":"Tyler, James Manning",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Vermont"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"vt"
 },
   "bbox": [
     -73.00806,

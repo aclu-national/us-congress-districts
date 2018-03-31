@@ -1,42 +1,13 @@
 {
-  "id": "hi_99_to_102_02",
+  "id": "hi_99_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"015099102002",
-    "member":{
-        "100":{
-            "14400":{
-                "district":"2",
-                "name":"Akaka, Daniel",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14400":{
-                "district":"2",
-                "name":"Akaka, Daniel",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "10757":{
-                "district":"2",
-                "name":"Mink, Patsy T.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14400":{
-                "district":"2",
-                "name":"Akaka, Daniel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Hawaii"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"hi"
 },
   "bbox": [
     -178.33949,

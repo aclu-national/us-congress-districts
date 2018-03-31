@@ -1,21 +1,13 @@
 {
-  "id": "in_74_to_74_01",
+  "id": "in_74_to_74_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"74",
-    "id":"018074074001",
-    "member":{
-        "74":{
-            "8275":{
-                "district":"1",
-                "name":"Schulte, William Theodore",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1936-06-20",
+    "end_session":74,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"in"
 },
   "bbox": [
     -87.52677,

@@ -2,53 +2,12 @@
   "id": "ny_108_to_112_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"112",
-    "id":"036108112029",
-    "member":{
-        "108":{
-            "15423":{
-                "district":"29",
-                "name":"Houghton, Amory \"Amo\", Jr.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20520":{
-                "district":"29",
-                "name":"Kuhl, John R. Jr.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20520":{
-                "district":"29",
-                "name":"Kuhl, John R. Jr.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20937":{
-                "district":"29",
-                "name":"Massa, Eric",
-                "party":"Democrat"
-            },
-            "21101":{
-                "district":"29",
-                "name":"Reed, Thomas",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21101":{
-                "district":"29",
-                "name":"Reed, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":29,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -79.06129,

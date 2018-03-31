@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"82",
-    "id":"042079082027",
-    "member":{
-        "79":{
-            "5136":{
-                "district":"27",
-                "name":"Kelley, Augustine Bernard",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5136":{
-                "district":"27",
-                "name":"Kelley, Augustine Bernard",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "5136":{
-                "district":"27",
-                "name":"Kelley, Augustine Bernard",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5136":{
-                "district":"27",
-                "name":"Kelley, Augustine Bernard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":27,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -79.90495,

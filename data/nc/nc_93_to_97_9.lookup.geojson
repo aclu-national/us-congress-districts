@@ -1,49 +1,13 @@
 {
-  "id": "nc_93_to_97_09",
+  "id": "nc_93_to_97_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"97",
-    "id":"037093097009",
-    "member":{
-        "93":{
-            "14035":{
-                "district":"9",
-                "name":"Martin, James",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14035":{
-                "district":"9",
-                "name":"Martin, James",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14035":{
-                "district":"9",
-                "name":"Martin, James",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14035":{
-                "district":"9",
-                "name":"Martin, James",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14035":{
-                "district":"9",
-                "name":"Martin, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"North Carolina"
+    "district":9,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nc"
 },
   "bbox": [
     -81.53762,

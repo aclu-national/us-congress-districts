@@ -1,51 +1,13 @@
 {
-  "id": "ga_9_to_9_00",
+  "id": "ga_9_to_9_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"9",
-    "id":"013009009000",
-    "member":{
-        "9":{
-            "1174":{
-                "district":"98",
-                "name":"Bryan, Joseph",
-                "party":"Republican"
-            },
-            "2819":{
-                "district":"98",
-                "name":"Early, Peter",
-                "party":"Republican"
-            },
-            "6393":{
-                "district":"98",
-                "name":"Mead, Cowles",
-                "party":"Republican"
-            },
-            "6422":{
-                "district":"98",
-                "name":"Meriwether, David",
-                "party":"Republican"
-            },
-            "686":{
-                "district":"98",
-                "name":"Bibb, William Wyatt",
-                "party":"Republican"
-            },
-            "8595":{
-                "district":"98",
-                "name":"Smelt, Dennis",
-                "party":"Republican"
-            },
-            "8761":{
-                "district":"98",
-                "name":"Spalding, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"9",
-    "statename":"Georgia"
+    "district":0,
+    "end_date":"1807-03-03",
+    "end_session":9,
+    "start_date":"1805-12-02",
+    "start_session":9,
+    "state":"ga"
 },
   "bbox": [
     -83.94155,

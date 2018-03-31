@@ -1,21 +1,13 @@
 {
-  "id": "la_98_to_98_06",
+  "id": "la_98_to_98_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"98",
-    "id":"022098098006",
-    "member":{
-        "98":{
-            "14259":{
-                "district":"6",
-                "name":"Moore, W. Henson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Louisiana"
+    "district":6,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"la"
 },
   "bbox": [
     -91.31656,

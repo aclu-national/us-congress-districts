@@ -1,49 +1,13 @@
 {
-  "id": "ar_108_to_112_01",
+  "id": "ar_108_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"005108112001",
-    "member":{
-        "108":{
-            "29702":{
-                "district":"1",
-                "name":"Berry, Marion",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29702":{
-                "district":"1",
-                "name":"Berry, Marion",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29702":{
-                "district":"1",
-                "name":"Berry, Marion",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29702":{
-                "district":"1",
-                "name":"Berry, Marion",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21106":{
-                "district":"1",
-                "name":"Crawford, Rick",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Arkansas"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ar"
 },
   "bbox": [
     -92.95131,

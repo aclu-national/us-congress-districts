@@ -1,54 +1,13 @@
 {
-  "id": "oh_93_to_97_01",
+  "id": "oh_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"039093097001",
-    "member":{
-        "93":{
-            "13019":{
-                "district":"1",
-                "name":"Keating, William",
-                "party":"Republican"
-            },
-            "14070":{
-                "district":"1",
-                "name":"Luken, Thomas A.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14225":{
-                "district":"1",
-                "name":"Gradison, Willis",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14225":{
-                "district":"1",
-                "name":"Gradison, Willis",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14225":{
-                "district":"1",
-                "name":"Gradison, Willis",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14225":{
-                "district":"1",
-                "name":"Gradison, Willis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Ohio"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"oh"
 },
   "bbox": [
     -84.56446,

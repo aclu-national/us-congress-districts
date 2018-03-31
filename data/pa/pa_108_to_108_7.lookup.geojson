@@ -1,21 +1,13 @@
 {
-  "id": "pa_108_to_108_07",
+  "id": "pa_108_to_108_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"108",
-    "id":"042108108007",
-    "member":{
-        "108":{
-            "15447":{
-                "district":"7",
-                "name":"Weldon, Curt",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"pa"
 },
   "bbox": [
     -75.64156,

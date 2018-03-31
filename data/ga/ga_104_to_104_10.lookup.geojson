@@ -2,20 +2,12 @@
   "id": "ga_104_to_104_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"104",
-    "id":"013104104010",
-    "member":{
-        "104":{
-            "29513":{
-                "district":"10",
-                "name":"Norwood, Charlie",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Georgia"
+    "district":10,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"ga"
 },
   "bbox": [
     -84.09492,

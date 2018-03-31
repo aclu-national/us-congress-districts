@@ -1,35 +1,13 @@
 {
-  "id": "ma_88_to_90_05",
+  "id": "ma_88_to_90_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"90",
-    "id":"025088090005",
-    "member":{
-        "88":{
-            "10538":{
-                "district":"5",
-                "name":"Morse, F. Bradford",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10538":{
-                "district":"5",
-                "name":"Morse, F. Bradford",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "10538":{
-                "district":"5",
-                "name":"Morse, F. Bradford",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ma"
 },
   "bbox": [
     -71.43009,

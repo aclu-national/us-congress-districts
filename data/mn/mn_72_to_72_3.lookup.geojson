@@ -1,21 +1,13 @@
 {
-  "id": "mn_72_to_72_03",
+  "id": "mn_72_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"027072072003",
-    "member":{
-        "72":{
-            "188":{
-                "district":"3",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"72",
-    "statename":"Minnesota"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1931-12-07",
+    "start_session":72,
+    "state":"mn"
 },
   "bbox": [
     -94.78688,

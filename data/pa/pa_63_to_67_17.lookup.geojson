@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"67",
-    "id":"042063067017",
-    "member":{
-        "63":{
-            "2524":{
-                "district":"17",
-                "name":"Dershem, Franklin Lewis",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3243":{
-                "district":"17",
-                "name":"Focht, Benjamin Kurtz",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "3243":{
-                "district":"17",
-                "name":"Focht, Benjamin Kurtz",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "3243":{
-                "district":"17",
-                "name":"Focht, Benjamin Kurtz",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3243":{
-                "district":"17",
-                "name":"Focht, Benjamin Kurtz",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -78.38034,

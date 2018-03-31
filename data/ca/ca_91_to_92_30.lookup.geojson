@@ -2,27 +2,12 @@
   "id": "ca_91_to_92_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"92",
-    "id":"006091092030",
-    "member":{
-        "91":{
-            "10621":{
-                "district":"30",
-                "name":"Roybal, Edward R.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10621":{
-                "district":"30",
-                "name":"Roybal, Edward R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":30,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -118.3459,

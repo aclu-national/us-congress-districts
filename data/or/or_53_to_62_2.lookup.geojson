@@ -1,84 +1,13 @@
 {
-  "id": "or_53_to_62_02",
+  "id": "or_53_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"041053062002",
-    "member":{
-        "53":{
-            "2927":{
-                "district":"2",
-                "name":"Ellis, William Russell",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "2927":{
-                "district":"2",
-                "name":"Ellis, William Russell",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2927":{
-                "district":"2",
-                "name":"Ellis, William Russell",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "6616":{
-                "district":"2",
-                "name":"Moody, Malcolm Adelbert",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "6616":{
-                "district":"2",
-                "name":"Moody, Malcolm Adelbert",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "10194":{
-                "district":"2",
-                "name":"Williamson, John Newton",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "10194":{
-                "district":"2",
-                "name":"Williamson, John Newton",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2927":{
-                "district":"2",
-                "name":"Ellis, William Russell",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2927":{
-                "district":"2",
-                "name":"Ellis, William Russell",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5397":{
-                "district":"2",
-                "name":"Lafferty, Abraham Walter",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Oregon"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"or"
 },
   "bbox": [
     -124.03446,

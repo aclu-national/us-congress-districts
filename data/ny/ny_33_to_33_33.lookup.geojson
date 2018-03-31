@@ -2,20 +2,12 @@
   "id": "ny_33_to_33_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"33",
-    "id":"036033033033",
-    "member":{
-        "33":{
-            "3107":{
-                "district":"33",
-                "name":"Fenton, Reuben Eaton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":33,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

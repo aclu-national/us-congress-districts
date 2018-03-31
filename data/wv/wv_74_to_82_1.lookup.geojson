@@ -1,77 +1,13 @@
 {
-  "id": "wv_74_to_82_01",
+  "id": "wv_74_to_82_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"82",
-    "id":"054074082001",
-    "member":{
-        "74":{
-            "7702":{
-                "district":"1",
-                "name":"Ramsay, Robert Lincoln",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7702":{
-                "district":"1",
-                "name":"Ramsay, Robert Lincoln",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8263":{
-                "district":"1",
-                "name":"Schiffler, Andrew Charles",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "7702":{
-                "district":"1",
-                "name":"Ramsay, Robert Lincoln",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "8263":{
-                "district":"1",
-                "name":"Schiffler, Andrew Charles",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "6856":{
-                "district":"1",
-                "name":"Neely, Matthew Mansfield",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5790":{
-                "district":"1",
-                "name":"Love, Francis Johnson",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7702":{
-                "district":"1",
-                "name":"Ramsay, Robert Lincoln",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7702":{
-                "district":"1",
-                "name":"Ramsay, Robert Lincoln",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"West Virginia"
+    "district":1,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"wv"
 },
   "bbox": [
     -80.94378,

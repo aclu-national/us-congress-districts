@@ -1,21 +1,13 @@
 {
-  "id": "pa_78_to_78_06",
+  "id": "pa_78_to_78_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"78",
-    "id":"042078078006",
-    "member":{
-        "78":{
-            "6836":{
-                "district":"6",
-                "name":"Myers, Francis John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

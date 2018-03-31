@@ -1,89 +1,13 @@
 {
-  "id": "nj_63_to_72_07",
+  "id": "nj_63_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"034063072007",
-    "member":{
-        "63":{
-            "1002":{
-                "district":"7",
-                "name":"Bremner, Robert Gunn",
-                "party":"Democrat"
-            },
-            "2734":{
-                "district":"7",
-                "name":"Drukker, Dow Henry",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "2734":{
-                "district":"7",
-                "name":"Drukker, Dow Henry",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "2734":{
-                "district":"7",
-                "name":"Drukker, Dow Henry",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "7684":{
-                "district":"7",
-                "name":"Radcliffe, Amos Henry",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "7684":{
-                "district":"7",
-                "name":"Radcliffe, Amos Henry",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "8350":{
-                "district":"7",
-                "name":"Seger, George Nicholas",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "8350":{
-                "district":"7",
-                "name":"Seger, George Nicholas",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "8350":{
-                "district":"7",
-                "name":"Seger, George Nicholas",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8350":{
-                "district":"7",
-                "name":"Seger, George Nicholas",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "8350":{
-                "district":"7",
-                "name":"Seger, George Nicholas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New Jersey"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nj"
 },
   "bbox": [
     -74.28915,

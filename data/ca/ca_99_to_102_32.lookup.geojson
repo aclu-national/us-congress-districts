@@ -2,41 +2,12 @@
   "id": "ca_99_to_102_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"102",
-    "id":"006099102032",
-    "member":{
-        "100":{
-            "12001":{
-                "district":"32",
-                "name":"Anderson, Glenn M.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "12001":{
-                "district":"32",
-                "name":"Anderson, Glenn M.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "12001":{
-                "district":"32",
-                "name":"Anderson, Glenn M.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "12001":{
-                "district":"32",
-                "name":"Anderson, Glenn M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":32,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -118.3202,

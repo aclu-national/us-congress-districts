@@ -1,35 +1,13 @@
 {
-  "id": "ga_105_to_107_04",
+  "id": "ga_105_to_107_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"107",
-    "id":"013105107004",
-    "member":{
-        "105":{
-            "29344":{
-                "district":"4",
-                "name":"McKinney, Cynthia A.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29344":{
-                "district":"4",
-                "name":"McKinney, Cynthia A.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29344":{
-                "district":"4",
-                "name":"McKinney, Cynthia A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Georgia"
+    "district":4,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"ga"
 },
   "bbox": [
     -84.35022,

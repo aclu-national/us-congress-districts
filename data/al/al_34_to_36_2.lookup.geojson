@@ -1,35 +1,13 @@
 {
-  "id": "al_34_to_36_02",
+  "id": "al_34_to_36_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"36",
-    "id":"001034036002",
-    "member":{
-        "34":{
-            "8486":{
-                "district":"2",
-                "name":"Shorter, Eli Sims",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "8486":{
-                "district":"2",
-                "name":"Shorter, Eli Sims",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "7644":{
-                "district":"2",
-                "name":"Pugh, James Lawrence",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Alabama"
+    "district":2,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"al"
 },
   "bbox": [
     -86.90894,

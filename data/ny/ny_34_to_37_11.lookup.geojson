@@ -2,41 +2,12 @@
   "id": "ny_34_to_37_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"37",
-    "id":"036034037011",
-    "member":{
-        "34":{
-            "5271":{
-                "district":"11",
-                "name":"King, Rufus H.",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "8144":{
-                "district":"11",
-                "name":"Russell, William Fiero",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "5197":{
-                "district":"11",
-                "name":"Kenyon, William Scheuneman",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "8870":{
-                "district":"11",
-                "name":"Steele, John Benedict",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -74.78069,

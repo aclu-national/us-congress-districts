@@ -1,54 +1,13 @@
 {
-  "id": "mi_33_to_37_01",
+  "id": "mi_33_to_37_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"37",
-    "id":"026033037001",
-    "member":{
-        "33":{
-            "9053":{
-                "district":"1",
-                "name":"Stuart, David",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "4634":{
-                "district":"1",
-                "name":"Howard, William Alanson",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "4634":{
-                "district":"1",
-                "name":"Howard, William Alanson",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "2044":{
-                "district":"1",
-                "name":"Cooper, George Byran",
-                "party":"Democrat"
-            },
-            "4634":{
-                "district":"1",
-                "name":"Howard, William Alanson",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "3748":{
-                "district":"1",
-                "name":"Granger, Bradley Francis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Michigan"
+    "district":1,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"mi"
 },
   "bbox": [
     -84.71867,

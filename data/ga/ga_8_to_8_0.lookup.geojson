@@ -1,36 +1,13 @@
 {
-  "id": "ga_8_to_8_00",
+  "id": "ga_8_to_8_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"8",
-    "id":"013008008000",
-    "member":{
-        "8":{
-            "1174":{
-                "district":"98",
-                "name":"Bryan, Joseph",
-                "party":"Republican"
-            },
-            "2819":{
-                "district":"98",
-                "name":"Early, Peter",
-                "party":"Republican"
-            },
-            "4012":{
-                "district":"98",
-                "name":"Hammond, Samuel",
-                "party":"Republican"
-            },
-            "6422":{
-                "district":"98",
-                "name":"Meriwether, David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Georgia"
+    "district":0,
+    "end_date":"1805-03-03",
+    "end_session":8,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ga"
 },
   "bbox": [
     -83.94155,

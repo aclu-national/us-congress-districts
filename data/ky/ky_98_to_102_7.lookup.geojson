@@ -1,49 +1,13 @@
 {
-  "id": "ky_98_to_102_07",
+  "id": "ky_98_to_102_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"102",
-    "id":"021098102007",
-    "member":{
-        "100":{
-            "15228":{
-                "district":"7",
-                "name":"Perkins, Carl C.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15228":{
-                "district":"7",
-                "name":"Perkins, Carl C.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15228":{
-                "district":"7",
-                "name":"Perkins, Carl C.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "7343":{
-                "district":"7",
-                "name":"Perkins, Carl Dewey",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15228":{
-                "district":"7",
-                "name":"Perkins, Carl C.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Kentucky"
+    "district":7,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ky"
 },
   "bbox": [
     -84.02648,

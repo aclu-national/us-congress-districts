@@ -2,20 +2,12 @@
   "id": "ny_8_to_8_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"8",
-    "id":"036008008016",
-    "member":{
-        "8":{
-            "7230":{
-                "district":"16",
-                "name":"Paterson, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1805-03-03",
+    "end_session":8,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ny"
 },
   "bbox": [
     -76.96636,

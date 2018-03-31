@@ -2,48 +2,12 @@
   "id": "ny_23_to_27_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"27",
-    "id":"036023027024",
-    "member":{
-        "23":{
-            "2434":{
-                "district":"24",
-                "name":"Day, Rowland",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "2681":{
-                "district":"24",
-                "name":"Doubleday, Ulysses Freeman",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "6943":{
-                "district":"24",
-                "name":"Noble, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "6673":{
-                "district":"24",
-                "name":"Morgan, Christopher",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "6673":{
-                "district":"24",
-                "name":"Morgan, Christopher",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":24,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -76.74021,

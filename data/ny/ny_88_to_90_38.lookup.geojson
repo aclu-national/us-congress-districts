@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_38",
   "type": "Feature",
   "properties": {
-    "district":"38",
-    "endcong":"90",
-    "id":"036088090038",
-    "member":{
-        "88":{
-            "3670":{
-                "district":"38",
-                "name":"Goodell, Charles Ellswort",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "3670":{
-                "district":"38",
-                "name":"Goodell, Charles Ellswort",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "3670":{
-                "district":"38",
-                "name":"Goodell, Charles Ellswort",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":38,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

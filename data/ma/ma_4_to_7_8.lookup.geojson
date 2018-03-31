@@ -1,42 +1,13 @@
 {
-  "id": "ma_4_to_7_08",
+  "id": "ma_4_to_7_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"7",
-    "id":"025004007008",
-    "member":{
-        "4":{
-            "154":{
-                "district":"8",
-                "name":"Ames, Fisher",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "7108":{
-                "district":"8",
-                "name":"Otis, Harrison Gray",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "7108":{
-                "district":"8",
-                "name":"Otis, Harrison Gray",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "3001":{
-                "district":"8",
-                "name":"Eustis, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Massachusetts"
+    "district":8,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"ma"
 },
   "bbox": [
     -71.60284,

@@ -2,32 +2,12 @@
   "id": "oh_91_to_92_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"92",
-    "id":"039091092019",
-    "member":{
-        "91":{
-            "12044":{
-                "district":"19",
-                "name":"Carney, Charles",
-                "party":"Democrat"
-            },
-            "5301":{
-                "district":"19",
-                "name":"Kirwan, Michael Joseph",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "12044":{
-                "district":"19",
-                "name":"Carney, Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Ohio"
+    "district":19,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"oh"
 },
   "bbox": [
     -81.00103,

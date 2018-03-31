@@ -1,54 +1,13 @@
 {
-  "id": "la_58_to_62_06",
+  "id": "la_58_to_62_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"62",
-    "id":"022058062006",
-    "member":{
-        "58":{
-            "7964":{
-                "district":"6",
-                "name":"Robertson, Samuel Matthew",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "7964":{
-                "district":"6",
-                "name":"Robertson, Samuel Matthew",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "3083":{
-                "district":"6",
-                "name":"Favrot, George Kent",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "10089":{
-                "district":"6",
-                "name":"Wickliffe, Robert Charles",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "10089":{
-                "district":"6",
-                "name":"Wickliffe, Robert Charles",
-                "party":"Democrat"
-            },
-            "6683":{
-                "district":"6",
-                "name":"Morgan, Lewis Lovering",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Louisiana"
+    "district":6,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"la"
 },
   "bbox": [
     -91.82307,

@@ -2,48 +2,12 @@
   "id": "ma_48_to_52_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"52",
-    "id":"025048052010",
-    "member":{
-        "48":{
-            "7861":{
-                "district":"10",
-                "name":"Rice, William Whitney",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "7861":{
-                "district":"10",
-                "name":"Rice, William Whitney",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "8132":{
-                "district":"10",
-                "name":"Russell, John Edwards",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "9750":{
-                "district":"10",
-                "name":"Walker, Joseph Henry",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "9750":{
-                "district":"10",
-                "name":"Walker, Joseph Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ma"
 },
   "bbox": [
     -72.28202,

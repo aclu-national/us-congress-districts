@@ -1,56 +1,13 @@
 {
-  "id": "pa_1_to_1_00",
+  "id": "pa_1_to_1_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"1",
-    "id":"042001001000",
-    "member":{
-        "1":{
-            "10405":{
-                "district":"98",
-                "name":"Wynkoop, Henry",
-                "party":"Pro-Administration"
-            },
-            "1859":{
-                "district":"98",
-                "name":"Clymer, George",
-                "party":"Pro-Administration"
-            },
-            "3196":{
-                "district":"98",
-                "name":"Fitzsimons, Thomas",
-                "party":"Pro-Administration"
-            },
-            "4156":{
-                "district":"98",
-                "name":"Hartley, Thomas",
-                "party":"Pro-Administration"
-            },
-            "4390":{
-                "district":"98",
-                "name":"Hiester, Daniel",
-                "party":"Anti-Administration"
-            },
-            "6781":{
-                "district":"98",
-                "name":"Muhlenberg, Frederick A.",
-                "party":"Anti-Administration"
-            },
-            "6784":{
-                "district":"98",
-                "name":"Muhlenberg, John Peter Gabriel",
-                "party":"Pro-Administration"
-            },
-            "8312":{
-                "district":"98",
-                "name":"Scott, Thomas",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Pennsylvania"
+    "district":0,
+    "end_date":"1791-03-03",
+    "end_session":1,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

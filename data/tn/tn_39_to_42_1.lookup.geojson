@@ -1,42 +1,13 @@
 {
-  "id": "tn_39_to_42_01",
+  "id": "tn_39_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"047039042001",
-    "member":{
-        "39":{
-            "9226":{
-                "district":"1",
-                "name":"Taylor, Nathaniel Green",
-                "party":"Unionist"
-            }
-        },
-        "40":{
-            "1348":{
-                "district":"1",
-                "name":"Butler, Roderick Randum",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "1348":{
-                "district":"1",
-                "name":"Butler, Roderick Randum",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "1348":{
-                "district":"1",
-                "name":"Butler, Roderick Randum",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"39",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1865-03-04",
+    "start_session":39,
+    "state":"tn"
 },
   "bbox": [
     -83.79431,

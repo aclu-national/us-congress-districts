@@ -1,21 +1,13 @@
 {
-  "id": "pa_62_to_62_02",
+  "id": "pa_62_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"042062062002",
-    "member":{
-        "62":{
-            "7828":{
-                "district":"2",
-                "name":"Reyburn, William Stuart",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"62",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1911-04-04",
+    "start_session":62,
+    "state":"pa"
 },
   "bbox": [
     -75.19222,

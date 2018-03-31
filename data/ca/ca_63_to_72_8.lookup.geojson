@@ -1,84 +1,13 @@
 {
-  "id": "ca_63_to_72_08",
+  "id": "ca_63_to_72_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"72",
-    "id":"006063072008",
-    "member":{
-        "63":{
-            "4230":{
-                "district":"8",
-                "name":"Hayes, Everis Anson",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "4230":{
-                "district":"8",
-                "name":"Hayes, Everis Anson",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "4230":{
-                "district":"8",
-                "name":"Hayes, Everis Anson",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "4370":{
-                "district":"8",
-                "name":"Hersman, Hugh Steel",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "3352":{
-                "district":"8",
-                "name":"Free, Arthur Monroe",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "3352":{
-                "district":"8",
-                "name":"Free, Arthur Monroe",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "3352":{
-                "district":"8",
-                "name":"Free, Arthur Monroe",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "3352":{
-                "district":"8",
-                "name":"Free, Arthur Monroe",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "3352":{
-                "district":"8",
-                "name":"Free, Arthur Monroe",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "3352":{
-                "district":"8",
-                "name":"Free, Arthur Monroe",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"California"
+    "district":8,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ca"
 },
   "bbox": [
     -122.52069,

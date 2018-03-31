@@ -1,28 +1,13 @@
 {
-  "id": "tx_64_to_65_04",
+  "id": "tx_64_to_65_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"65",
-    "id":"048064065004",
-    "member":{
-        "64":{
-            "7753":{
-                "district":"4",
-                "name":"Rayburn, Sam",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "7753":{
-                "district":"4",
-                "name":"Rayburn, Sam",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Texas"
+    "district":4,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"tx"
 },
   "bbox": [
     -96.94513,

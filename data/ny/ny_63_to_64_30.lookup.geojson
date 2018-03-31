@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"64",
-    "id":"036063064030",
-    "member":{
-        "63":{
-            "9776":{
-                "district":"30",
-                "name":"Wallin, Samuel",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "1663":{
-                "district":"30",
-                "name":"Charles, William Barclay",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":30,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -74.86771,

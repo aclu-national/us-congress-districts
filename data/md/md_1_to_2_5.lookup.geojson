@@ -1,28 +1,13 @@
 {
-  "id": "md_1_to_2_05",
+  "id": "md_1_to_2_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"2",
-    "id":"024001002005",
-    "member":{
-        "1":{
-            "3430":{
-                "district":"5",
-                "name":"Gale, George",
-                "party":"Pro-Administration"
-            }
-        },
-        "2":{
-            "6830":{
-                "district":"5",
-                "name":"Murray, William Vans",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Maryland"
+    "district":5,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"md"
 },
   "bbox": [
     -76.34127,

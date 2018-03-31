@@ -1,26 +1,13 @@
 {
-  "id": "ny_43_to_43_06",
+  "id": "ny_43_to_43_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"43",
-    "id":"036043043006",
-    "member":{
-        "43":{
-            "1078":{
-                "district":"6",
-                "name":"Brooks, James",
-                "party":"Democrat"
-            },
-            "2118":{
-                "district":"6",
-                "name":"Cox, Samuel Sullivan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ny"
 },
   "bbox": [
     -73.98928,

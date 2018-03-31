@@ -1,54 +1,13 @@
 {
-  "id": "ma_65_to_69_05",
+  "id": "ma_65_to_69_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"69",
-    "id":"025065069005",
-    "member":{
-        "65":{
-            "8031":{
-                "district":"5",
-                "name":"Rogers, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "8031":{
-                "district":"5",
-                "name":"Rogers, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "8031":{
-                "district":"5",
-                "name":"Rogers, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "8031":{
-                "district":"5",
-                "name":"Rogers, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "8024":{
-                "district":"5",
-                "name":"Rogers, Edith Nourse",
-                "party":"Republican"
-            },
-            "8031":{
-                "district":"5",
-                "name":"Rogers, John Jacob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ma"
 },
   "bbox": [
     -71.68969,

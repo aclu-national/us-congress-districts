@@ -1,54 +1,13 @@
 {
-  "id": "mo_83_to_87_04",
+  "id": "mo_83_to_87_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"87",
-    "id":"029083087004",
-    "member":{
-        "83":{
-            "4431":{
-                "district":"4",
-                "name":"Hillelson, Jeffrey Paul",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "1717":{
-                "district":"4",
-                "name":"Christopher, George Henry",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "1717":{
-                "district":"4",
-                "name":"Christopher, George Henry",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "1717":{
-                "district":"4",
-                "name":"Christopher, George Henry",
-                "party":"Democrat"
-            },
-            "7717":{
-                "district":"4",
-                "name":"Randall, William Joseph",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "7717":{
-                "district":"4",
-                "name":"Randall, William Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Missouri"
+    "district":4,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mo"
 },
   "bbox": [
     -94.61798,

@@ -1,19 +1,13 @@
 {
-  "id": "nj_113_to_115_01",
+  "id": "nj_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":906588892,
-    "AWATER":51956591,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3401",
-    "INTPTLAT":"+39.7919878",
-    "INTPTLON":"-075.0580299",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"34"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nj"
 },
   "bbox": [
     -75.450688,

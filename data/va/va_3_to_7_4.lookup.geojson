@@ -1,49 +1,13 @@
 {
-  "id": "va_3_to_7_04",
+  "id": "va_3_to_7_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"7",
-    "id":"051003007004",
-    "member":{
-        "3":{
-            "7603":{
-                "district":"4",
-                "name":"Preston, Francis",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "7603":{
-                "district":"4",
-                "name":"Preston, Francis",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "9468":{
-                "district":"4",
-                "name":"Trigg, Abram",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "9468":{
-                "district":"4",
-                "name":"Trigg, Abram",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "9468":{
-                "district":"4",
-                "name":"Trigg, Abram",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"va"
 },
   "bbox": [
     -83.67541,

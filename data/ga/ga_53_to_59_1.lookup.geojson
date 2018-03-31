@@ -1,68 +1,13 @@
 {
-  "id": "ga_53_to_59_01",
+  "id": "ga_53_to_59_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"59",
-    "id":"013053059001",
-    "member":{
-        "53":{
-            "5620":{
-                "district":"1",
-                "name":"Lester, Rufus Ezekiel",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "5620":{
-                "district":"1",
-                "name":"Lester, Rufus Ezekiel",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "5620":{
-                "district":"1",
-                "name":"Lester, Rufus Ezekiel",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "5620":{
-                "district":"1",
-                "name":"Lester, Rufus Ezekiel",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "5620":{
-                "district":"1",
-                "name":"Lester, Rufus Ezekiel",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "5620":{
-                "district":"1",
-                "name":"Lester, Rufus Ezekiel",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "5620":{
-                "district":"1",
-                "name":"Lester, Rufus Ezekiel",
-                "party":"Democrat"
-            },
-            "7123":{
-                "district":"1",
-                "name":"Overstreet, James Whetstone",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Georgia"
+    "district":1,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ga"
 },
   "bbox": [
     -82.67446,

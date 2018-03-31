@@ -2,32 +2,12 @@
   "id": "ca_91_to_92_35",
   "type": "Feature",
   "properties": {
-    "district":"35",
-    "endcong":"92",
-    "id":"006091092035",
-    "member":{
-        "91":{
-            "12043":{
-                "district":"35",
-                "name":"Schmitz, John G.",
-                "party":"Republican"
-            },
-            "9578":{
-                "district":"35",
-                "name":"Utt, James Boyd",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "12043":{
-                "district":"35",
-                "name":"Schmitz, John G.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":35,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -117.98942,

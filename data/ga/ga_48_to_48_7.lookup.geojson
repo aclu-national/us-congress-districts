@@ -1,21 +1,13 @@
 {
-  "id": "ga_48_to_48_07",
+  "id": "ga_48_to_48_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"48",
-    "id":"013048048007",
-    "member":{
-        "48":{
-            "1833":{
-                "district":"7",
-                "name":"Clements, Judson Claudius",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ga"
 },
   "bbox": [
     -85.60517,

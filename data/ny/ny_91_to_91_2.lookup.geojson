@@ -1,21 +1,13 @@
 {
-  "id": "ny_91_to_91_02",
+  "id": "ny_91_to_91_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"91",
-    "id":"036091091002",
-    "member":{
-        "91":{
-            "10592":{
-                "district":"2",
-                "name":"Grover, James R., Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New York"
+    "district":2,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ny"
 },
   "bbox": [
     -73.53371,

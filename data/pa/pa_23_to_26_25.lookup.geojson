@@ -2,41 +2,12 @@
   "id": "pa_23_to_26_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"26",
-    "id":"042023026025",
-    "member":{
-        "23":{
-            "3429":{
-                "district":"25",
-                "name":"Galbraith, John",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "3429":{
-                "district":"25",
-                "name":"Galbraith, John",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "7491":{
-                "district":"25",
-                "name":"Plumer, Arnold",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "3429":{
-                "district":"25",
-                "name":"Galbraith, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":25,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

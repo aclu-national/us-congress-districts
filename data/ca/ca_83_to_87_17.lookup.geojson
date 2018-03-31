@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"87",
-    "id":"006083087017",
-    "member":{
-        "83":{
-            "5255":{
-                "district":"17",
-                "name":"King, Cecil Rhodes",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5255":{
-                "district":"17",
-                "name":"King, Cecil Rhodes",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5255":{
-                "district":"17",
-                "name":"King, Cecil Rhodes",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5255":{
-                "district":"17",
-                "name":"King, Cecil Rhodes",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "5255":{
-                "district":"17",
-                "name":"King, Cecil Rhodes",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":17,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -118.61454,

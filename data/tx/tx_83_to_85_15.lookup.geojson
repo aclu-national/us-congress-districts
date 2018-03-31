@@ -2,34 +2,12 @@
   "id": "tx_83_to_85_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"85",
-    "id":"048083085015",
-    "member":{
-        "83":{
-            "660":{
-                "district":"15",
-                "name":"Bentsen, Lloyd Millard Jr",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5241":{
-                "district":"15",
-                "name":"Kilgore, Joe Madison",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5241":{
-                "district":"15",
-                "name":"Kilgore, Joe Madison",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Texas"
+    "district":15,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tx"
 },
   "bbox": [
     -100.66755,

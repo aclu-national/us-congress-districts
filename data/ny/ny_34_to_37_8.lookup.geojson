@@ -1,42 +1,13 @@
 {
-  "id": "ny_34_to_37_08",
+  "id": "ny_34_to_37_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"37",
-    "id":"036034037008",
-    "member":{
-        "34":{
-            "9719":{
-                "district":"8",
-                "name":"Wakeman, Abram",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "1767":{
-                "district":"8",
-                "name":"Clark, Horace Francis",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "1767":{
-                "district":"8",
-                "name":"Clark, Horace Francis",
-                "party":"Anti-Lecompton Democrat"
-            }
-        },
-        "37":{
-            "2481":{
-                "district":"8",
-                "name":"Delaplaine, Isaac Clason",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -74.00468,

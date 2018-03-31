@@ -2,20 +2,12 @@
   "id": "ma_14_to_14_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"14",
-    "id":"025014014018",
-    "member":{
-        "14":{
-            "7860":{
-                "district":"18",
-                "name":"Rice, Thomas",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"14",
-    "statename":"Massachusetts"
+    "district":18,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1815-12-04",
+    "start_session":14,
+    "state":"ma"
 },
   "bbox": [
     -70.22426,

@@ -2,48 +2,12 @@
   "id": "ma_65_to_69_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"69",
-    "id":"025065069011",
-    "member":{
-        "65":{
-            "9395":{
-                "district":"11",
-                "name":"Tinkham, George Holden",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "9395":{
-                "district":"11",
-                "name":"Tinkham, George Holden",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9395":{
-                "district":"11",
-                "name":"Tinkham, George Holden",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "9395":{
-                "district":"11",
-                "name":"Tinkham, George Holden",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9395":{
-                "district":"11",
-                "name":"Tinkham, George Holden",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ma"
 },
   "bbox": [
     -71.1912,

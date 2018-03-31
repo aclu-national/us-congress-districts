@@ -1,49 +1,13 @@
 {
-  "id": "va_93_to_97_05",
+  "id": "va_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"051093097005",
-    "member":{
-        "93":{
-            "12011":{
-                "district":"5",
-                "name":"Daniel, W. C.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "12011":{
-                "district":"5",
-                "name":"Daniel, W. C.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "12011":{
-                "district":"5",
-                "name":"Daniel, W. C.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "12011":{
-                "district":"5",
-                "name":"Daniel, W. C.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "12011":{
-                "district":"5",
-                "name":"Daniel, W. C.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"va"
 },
   "bbox": [
     -80.63399,

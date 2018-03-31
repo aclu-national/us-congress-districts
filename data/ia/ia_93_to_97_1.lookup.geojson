@@ -1,49 +1,13 @@
 {
-  "id": "ia_93_to_97_01",
+  "id": "ia_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"019093097001",
-    "member":{
-        "93":{
-            "14036":{
-                "district":"1",
-                "name":"Mezvinsky, Edward",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14036":{
-                "district":"1",
-                "name":"Mezvinsky, Edward",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14432":{
-                "district":"1",
-                "name":"Leach, James",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14432":{
-                "district":"1",
-                "name":"Leach, James",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14432":{
-                "district":"1",
-                "name":"Leach, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Iowa"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ia"
 },
   "bbox": [
     -92.76664,

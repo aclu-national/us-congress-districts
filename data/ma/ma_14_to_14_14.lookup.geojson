@@ -2,20 +2,12 @@
   "id": "ma_14_to_14_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"14",
-    "id":"025014014014",
-    "member":{
-        "14":{
-            "5256":{
-                "district":"14",
-                "name":"King, Cyrus",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"14",
-    "statename":"Massachusetts"
+    "district":14,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1815-12-04",
+    "start_session":14,
+    "state":"ma"
 },
   "bbox": [
     -70.98796,

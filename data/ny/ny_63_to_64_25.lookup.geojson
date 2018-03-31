@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"64",
-    "id":"036063064025",
-    "member":{
-        "63":{
-            "9200":{
-                "district":"25",
-                "name":"Taylor, Benjamin Irving",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4775":{
-                "district":"25",
-                "name":"Husted, James William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -74.23447,

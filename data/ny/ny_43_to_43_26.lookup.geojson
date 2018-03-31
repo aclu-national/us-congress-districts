@@ -2,20 +2,12 @@
   "id": "ny_43_to_43_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"43",
-    "id":"036043043026",
-    "member":{
-        "43":{
-            "5427":{
-                "district":"26",
-                "name":"Lamport, William Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ny"
 },
   "bbox": [
     -78.06096,

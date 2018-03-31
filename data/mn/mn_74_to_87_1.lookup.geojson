@@ -1,117 +1,13 @@
 {
-  "id": "mn_74_to_87_01",
+  "id": "mn_74_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"027074087001",
-    "member":{
-        "74":{
-            "188":{
-                "district":"1",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "188":{
-                "district":"1",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "188":{
-                "district":"1",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "188":{
-                "district":"1",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "188":{
-                "district":"1",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "188":{
-                "district":"1",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "188":{
-                "district":"1",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "188":{
-                "district":"1",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "188":{
-                "district":"1",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "188":{
-                "district":"1",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "188":{
-                "district":"1",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "188":{
-                "district":"1",
-                "name":"Andresen, August Herman",
-                "party":"Republican"
-            },
-            "7671":{
-                "district":"1",
-                "name":"Quie, Albert Harold",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "7671":{
-                "district":"1",
-                "name":"Quie, Albert Harold",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "7671":{
-                "district":"1",
-                "name":"Quie, Albert Harold",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Minnesota"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mn"
 },
   "bbox": [
     -93.76842,

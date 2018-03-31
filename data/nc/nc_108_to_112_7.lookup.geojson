@@ -1,49 +1,13 @@
 {
-  "id": "nc_108_to_112_07",
+  "id": "nc_108_to_112_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"112",
-    "id":"037108112007",
-    "member":{
-        "108":{
-            "29746":{
-                "district":"7",
-                "name":"McIntyre, Mike",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29746":{
-                "district":"7",
-                "name":"McIntyre, Mike",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29746":{
-                "district":"7",
-                "name":"McIntyre, Mike",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29746":{
-                "district":"7",
-                "name":"McIntyre, Mike",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29746":{
-                "district":"7",
-                "name":"McIntyre, Mike",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"North Carolina"
+    "district":7,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nc"
 },
   "bbox": [
     -79.46175,

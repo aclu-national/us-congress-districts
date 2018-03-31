@@ -1,21 +1,13 @@
 {
-  "id": "wa_86_to_86_03",
+  "id": "wa_86_to_86_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"86",
-    "id":"053086086003",
-    "member":{
-        "86":{
-            "5885":{
-                "district":"3",
-                "name":"Mack, Russell Vernon",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"86",
-    "statename":"Washington"
+    "district":3,
+    "end_date":"1960-09-01",
+    "end_session":86,
+    "start_date":"1959-01-07",
+    "start_session":86,
+    "state":"wa"
 },
   "bbox": [
     -124.36355,

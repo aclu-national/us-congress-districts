@@ -2,20 +2,12 @@
   "id": "ny_93_to_93_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"93",
-    "id":"036093093014",
-    "member":{
-        "93":{
-            "8049":{
-                "district":"14",
-                "name":"Rooney, John James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ny"
 },
   "bbox": [
     -74.00862,

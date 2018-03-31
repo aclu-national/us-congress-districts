@@ -1,19 +1,13 @@
 {
-  "id": "hi_113_to_115_01",
+  "id": "hi_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":541575618,
-    "AWATER":456528194,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1501",
-    "INTPTLAT":"+21.3226396",
-    "INTPTLON":"-157.9059542",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"15"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"hi"
 },
   "bbox": [
     -158.182049,

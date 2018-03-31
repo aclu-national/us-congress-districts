@@ -2,34 +2,12 @@
   "id": "pa_30_to_32_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"32",
-    "id":"042030032014",
-    "member":{
-        "30":{
-            "2836":{
-                "district":"14",
-                "name":"Eckert, George Nicholas",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "7470":{
-                "district":"14",
-                "name":"Pitman, Charles Wesley",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "687":{
-                "district":"14",
-                "name":"Bibighaus, Thomas Marshal",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -77.02923,

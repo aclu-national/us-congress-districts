@@ -2,20 +2,12 @@
   "id": "ny_91_to_91_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"91",
-    "id":"036091091033",
-    "member":{
-        "91":{
-            "7995":{
-                "district":"33",
-                "name":"Robison, Howard Winfield",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New York"
+    "district":33,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ny"
 },
   "bbox": [
     -76.96599,

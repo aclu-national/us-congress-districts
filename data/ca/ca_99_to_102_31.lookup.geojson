@@ -2,41 +2,12 @@
   "id": "ca_99_to_102_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"102",
-    "id":"006099102031",
-    "member":{
-        "100":{
-            "14816":{
-                "district":"31",
-                "name":"Dymally, Mervyn M.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14816":{
-                "district":"31",
-                "name":"Dymally, Mervyn M.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14816":{
-                "district":"31",
-                "name":"Dymally, Mervyn M.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14816":{
-                "district":"31",
-                "name":"Dymally, Mervyn M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":31,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -118.3777,

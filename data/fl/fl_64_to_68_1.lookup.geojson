@@ -1,49 +1,13 @@
 {
-  "id": "fl_64_to_68_01",
+  "id": "fl_64_to_68_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"68",
-    "id":"012064068001",
-    "member":{
-        "64":{
-            "8765":{
-                "district":"1",
-                "name":"Sparkman, Stephen Milancthon",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "2717":{
-                "district":"1",
-                "name":"Drane, Herbert Jackson",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "2717":{
-                "district":"1",
-                "name":"Drane, Herbert Jackson",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "2717":{
-                "district":"1",
-                "name":"Drane, Herbert Jackson",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "2717":{
-                "district":"1",
-                "name":"Drane, Herbert Jackson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Florida"
+    "district":1,
+    "end_date":"1925-03-03",
+    "end_session":68,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"fl"
 },
   "bbox": [
     -82.85238,

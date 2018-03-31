@@ -2,46 +2,12 @@
   "id": "ny_44_to_47_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"47",
-    "id":"036044047016",
-    "member":{
-        "44":{
-            "26":{
-                "district":"16",
-                "name":"Adams, Charles Henry",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "345":{
-                "district":"16",
-                "name":"Bailey, John Mosher",
-                "party":"Republican"
-            },
-            "7679":{
-                "district":"16",
-                "name":"Quinn, Terence John",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "345":{
-                "district":"16",
-                "name":"Bailey, John Mosher",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "6949":{
-                "district":"16",
-                "name":"Nolan, Michael Nicholas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -74.26486,

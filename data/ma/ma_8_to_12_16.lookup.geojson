@@ -2,48 +2,12 @@
   "id": "ma_8_to_12_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"12",
-    "id":"025008012016",
-    "member":{
-        "10":{
-            "2021":{
-                "district":"16",
-                "name":"Cook, Orchard",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "2021":{
-                "district":"16",
-                "name":"Cook, Orchard",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "9173":{
-                "district":"16",
-                "name":"Tallman, Peleg",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "9271":{
-                "district":"16",
-                "name":"Thatcher, Samuel",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "2021":{
-                "district":"16",
-                "name":"Cook, Orchard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Massachusetts"
+    "district":16,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ma"
 },
   "bbox": [
     -70.22426,

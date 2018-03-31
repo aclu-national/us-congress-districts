@@ -1,28 +1,13 @@
 {
-  "id": "fl_91_to_92_08",
+  "id": "fl_91_to_92_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"92",
-    "id":"012091092008",
-    "member":{
-        "91":{
-            "2143":{
-                "district":"8",
-                "name":"Cramer, William Cato",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13047":{
-                "district":"8",
-                "name":"Young, C.w.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Florida"
+    "district":8,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"fl"
 },
   "bbox": [
     -82.85238,

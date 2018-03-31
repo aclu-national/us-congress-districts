@@ -1,21 +1,13 @@
 {
-  "id": "tx_108_to_108_08",
+  "id": "tx_108_to_108_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"108",
-    "id":"048108108008",
-    "member":{
-        "108":{
-            "29760":{
-                "district":"8",
-                "name":"Brady, Kevin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Texas"
+    "district":8,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tx"
 },
   "bbox": [
     -95.83024,

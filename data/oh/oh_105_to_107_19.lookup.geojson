@@ -2,34 +2,12 @@
   "id": "oh_105_to_107_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"107",
-    "id":"039105107019",
-    "member":{
-        "105":{
-            "29553":{
-                "district":"19",
-                "name":"LaTourette, Steven C.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29553":{
-                "district":"19",
-                "name":"LaTourette, Steven C.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29553":{
-                "district":"19",
-                "name":"LaTourette, Steven C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Ohio"
+    "district":19,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"oh"
 },
   "bbox": [
     -81.88576,

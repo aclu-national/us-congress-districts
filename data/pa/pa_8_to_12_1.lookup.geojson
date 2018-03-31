@@ -1,114 +1,13 @@
 {
-  "id": "pa_8_to_12_01",
+  "id": "pa_8_to_12_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"12",
-    "id":"042008012001",
-    "member":{
-        "10":{
-            "1814":{
-                "district":"1",
-                "name":"Clay, Joseph",
-                "party":"Republican"
-            },
-            "7537":{
-                "district":"1",
-                "name":"Porter, John",
-                "party":"Republican"
-            },
-            "7867":{
-                "district":"1",
-                "name":"Richards, Jacob",
-                "party":"Republican"
-            },
-            "8243":{
-                "district":"1",
-                "name":"Say, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "184":{
-                "district":"1",
-                "name":"Anderson, William",
-                "party":"Republican"
-            },
-            "7537":{
-                "district":"1",
-                "name":"Porter, John",
-                "party":"Republican"
-            },
-            "8243":{
-                "district":"1",
-                "name":"Say, Benjamin",
-                "party":"Republican"
-            },
-            "8381":{
-                "district":"1",
-                "name":"Seybert, Adam",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "184":{
-                "district":"1",
-                "name":"Anderson, William",
-                "party":"Republican"
-            },
-            "6538":{
-                "district":"1",
-                "name":"Milnor, James",
-                "party":"Federalist"
-            },
-            "8381":{
-                "district":"1",
-                "name":"Seybert, Adam",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "1814":{
-                "district":"1",
-                "name":"Clay, Joseph",
-                "party":"Republican"
-            },
-            "5594":{
-                "district":"1",
-                "name":"Leib, Michael",
-                "party":"Republican"
-            },
-            "7867":{
-                "district":"1",
-                "name":"Richards, Jacob",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "1814":{
-                "district":"1",
-                "name":"Clay, Joseph",
-                "party":"Republican"
-            },
-            "5594":{
-                "district":"1",
-                "name":"Leib, Michael",
-                "party":"Republican"
-            },
-            "7537":{
-                "district":"1",
-                "name":"Porter, John",
-                "party":"Republican"
-            },
-            "7867":{
-                "district":"1",
-                "name":"Richards, Jacob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"pa"
 },
   "bbox": [
     -75.60155,

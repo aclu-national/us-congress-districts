@@ -1,21 +1,13 @@
 {
-  "id": "mn_72_to_72_08",
+  "id": "mn_72_to_72_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"72",
-    "id":"027072072008",
-    "member":{
-        "72":{
-            "7472":{
-                "district":"8",
-                "name":"Pittenger, William Alvin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"72",
-    "statename":"Minnesota"
+    "district":8,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1931-12-07",
+    "start_session":72,
+    "state":"mn"
 },
   "bbox": [
     -94.43035,

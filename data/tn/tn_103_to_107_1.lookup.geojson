@@ -1,49 +1,13 @@
 {
-  "id": "tn_103_to_107_01",
+  "id": "tn_103_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"047103107001",
-    "member":{
-        "103":{
-            "10616":{
-                "district":"1",
-                "name":"Quillen, James H.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "10616":{
-                "district":"1",
-                "name":"Quillen, James H.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29755":{
-                "district":"1",
-                "name":"Jenkins, William L.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29755":{
-                "district":"1",
-                "name":"Jenkins, William L.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29755":{
-                "district":"1",
-                "name":"Jenkins, William L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"tn"
 },
   "bbox": [
     -83.79797,

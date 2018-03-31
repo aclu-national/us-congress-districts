@@ -1,49 +1,13 @@
 {
-  "id": "mi_33_to_37_04",
+  "id": "mi_33_to_37_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"37",
-    "id":"026033037004",
-    "member":{
-        "33":{
-            "8909":{
-                "district":"4",
-                "name":"Stevens, Hestor Lockhart",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "7294":{
-                "district":"4",
-                "name":"Peck, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "5535":{
-                "district":"4",
-                "name":"Leach, De Witt Clinton",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "5535":{
-                "district":"4",
-                "name":"Leach, De Witt Clinton",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "9485":{
-                "district":"4",
-                "name":"Trowbridge, Rowland Ebene",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Michigan"
+    "district":4,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"mi"
 },
   "bbox": [
     -90.41814,

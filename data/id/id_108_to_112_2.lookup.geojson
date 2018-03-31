@@ -1,49 +1,13 @@
 {
-  "id": "id_108_to_112_02",
+  "id": "id_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"016108112002",
-    "member":{
-        "108":{
-            "29910":{
-                "district":"2",
-                "name":"Simpson, Mike K.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29910":{
-                "district":"2",
-                "name":"Simpson, Mike K.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29910":{
-                "district":"2",
-                "name":"Simpson, Mike K.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29910":{
-                "district":"2",
-                "name":"Simpson, Mike K.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "29910":{
-                "district":"2",
-                "name":"Simpson, Mike",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Idaho"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"id"
 },
   "bbox": [
     -116.28056,

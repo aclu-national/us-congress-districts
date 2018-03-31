@@ -1,19 +1,13 @@
 {
-  "id": "tx_113_to_115_03",
+  "id": "tx_113_to_115_3",
   "type": "Feature",
   "properties": {
-    "ALAND":1245509639,
-    "AWATER":97796244,
-    "CD113FP":"03",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4803",
-    "INTPTLAT":"+33.1594719",
-    "INTPTLON":"-096.6132709",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 3",
-    "STATEFP":"48"
+    "district":3,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -96.843984,

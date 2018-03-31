@@ -1,28 +1,13 @@
 {
-  "id": "va_41_to_42_07",
+  "id": "va_41_to_42_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"42",
-    "id":"051041042007",
-    "member":{
-        "41":{
-            "6301":{
-                "district":"7",
-                "name":"McKenzie, Lewis",
-                "party":"Conservative"
-            }
-        },
-        "42":{
-            "985":{
-                "district":"7",
-                "name":"Braxton, Elliott Muse",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"va"
 },
   "bbox": [
     -78.45292,

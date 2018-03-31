@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_35",
   "type": "Feature",
   "properties": {
-    "district":"35",
-    "endcong":"97",
-    "id":"006094097035",
-    "member":{
-        "94":{
-            "14250":{
-                "district":"35",
-                "name":"Lloyd, Jim",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14250":{
-                "district":"35",
-                "name":"Lloyd, Jim",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14250":{
-                "district":"35",
-                "name":"Lloyd, Jim",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14813":{
-                "district":"35",
-                "name":"Dreier, David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":35,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -118.18063,

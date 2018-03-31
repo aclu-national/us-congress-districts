@@ -1,49 +1,13 @@
 {
-  "id": "oh_33_to_37_08",
+  "id": "oh_33_to_37_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"37",
-    "id":"039033037008",
-    "member":{
-        "33":{
-            "2077":{
-                "district":"8",
-                "name":"Corwin, Moses Bledso",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "8843":{
-                "district":"8",
-                "name":"Stanton, Benjamin",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "8843":{
-                "district":"8",
-                "name":"Stanton, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "8843":{
-                "district":"8",
-                "name":"Stanton, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "8435":{
-                "district":"8",
-                "name":"Shellabarger, Samuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":8,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -84.05374,

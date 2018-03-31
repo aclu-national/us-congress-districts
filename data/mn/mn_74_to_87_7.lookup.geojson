@@ -1,112 +1,13 @@
 {
-  "id": "mn_74_to_87_07",
+  "id": "mn_74_to_87_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"87",
-    "id":"027074087007",
-    "member":{
-        "74":{
-            "5384":{
-                "district":"7",
-                "name":"Kvale, Paul John",
-                "party":"Farmer-Labor"
-            }
-        },
-        "75":{
-            "5384":{
-                "district":"7",
-                "name":"Kvale, Paul John",
-                "party":"Farmer-Labor"
-            }
-        },
-        "76":{
-            "158":{
-                "district":"7",
-                "name":"Andersen, Herman Carl",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "158":{
-                "district":"7",
-                "name":"Andersen, Herman Carl",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "158":{
-                "district":"7",
-                "name":"Andersen, Herman Carl",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "158":{
-                "district":"7",
-                "name":"Andersen, Herman Carl",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "158":{
-                "district":"7",
-                "name":"Andersen, Herman Carl",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "158":{
-                "district":"7",
-                "name":"Andersen, Herman Carl",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "158":{
-                "district":"7",
-                "name":"Andersen, Herman Carl",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "158":{
-                "district":"7",
-                "name":"Andersen, Herman Carl",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "158":{
-                "district":"7",
-                "name":"Andersen, Herman Carl",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "158":{
-                "district":"7",
-                "name":"Andersen, Herman Carl",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "158":{
-                "district":"7",
-                "name":"Andersen, Herman Carl",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "158":{
-                "district":"7",
-                "name":"Andersen, Herman Carl",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Minnesota"
+    "district":7,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mn"
 },
   "bbox": [
     -96.85775,

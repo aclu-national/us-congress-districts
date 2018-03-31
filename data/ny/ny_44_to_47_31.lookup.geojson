@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"47",
-    "id":"036044047031",
-    "member":{
-        "44":{
-            "4591":{
-                "district":"31",
-                "name":"Hoskins, George Gilbert",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "622":{
-                "district":"31",
-                "name":"Benedict, Charles Brewste",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "2212":{
-                "district":"31",
-                "name":"Crowley, Richard",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "2212":{
-                "district":"31",
-                "name":"Crowley, Richard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"90",
-    "id":"036088090023",
-    "member":{
-        "88":{
-            "1205":{
-                "district":"23",
-                "name":"Buckley, Charles Anthony",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10705":{
-                "district":"23",
-                "name":"Bingham, Jonathan B.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10705":{
-                "district":"23",
-                "name":"Bingham, Jonathan B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -73.9246,

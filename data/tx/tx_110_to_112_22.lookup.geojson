@@ -2,34 +2,12 @@
   "id": "tx_110_to_112_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"112",
-    "id":"048110112022",
-    "member":{
-        "110":{
-            "29761":{
-                "district":"22",
-                "name":"Lampson, Nick",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20948":{
-                "district":"22",
-                "name":"Olson, Pete",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20948":{
-                "district":"22",
-                "name":"Olson, Pete",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"110",
-    "statename":"Texas"
+    "district":22,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2007-01-04",
+    "start_session":110,
+    "state":"tx"
 },
   "bbox": [
     -95.95329,

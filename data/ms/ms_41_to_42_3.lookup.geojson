@@ -1,28 +1,13 @@
 {
-  "id": "ms_41_to_42_03",
+  "id": "ms_41_to_42_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"42",
-    "id":"028041042003",
-    "member":{
-        "41":{
-            "475":{
-                "district":"3",
-                "name":"Barry, Henry W.",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "475":{
-                "district":"3",
-                "name":"Barry, Henry W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Mississippi"
+    "district":3,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"ms"
 },
   "bbox": [
     -90.32108,

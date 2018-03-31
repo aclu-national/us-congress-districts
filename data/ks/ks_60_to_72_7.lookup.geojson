@@ -1,110 +1,13 @@
 {
-  "id": "ks_60_to_72_07",
+  "id": "ks_60_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"020060072007",
-    "member":{
-        "60":{
-            "5902":{
-                "district":"7",
-                "name":"Madison, Edmond Haggard",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "5902":{
-                "district":"7",
-                "name":"Madison, Edmond Haggard",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5902":{
-                "district":"7",
-                "name":"Madison, Edmond Haggard",
-                "party":"Republican"
-            },
-            "6855":{
-                "district":"7",
-                "name":"Neeley, George Arthur",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "6855":{
-                "district":"7",
-                "name":"Neeley, George Arthur",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "8490":{
-                "district":"7",
-                "name":"Shouse, Jouett",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8490":{
-                "district":"7",
-                "name":"Shouse, Jouett",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "9394":{
-                "district":"7",
-                "name":"Tincher, Jasper Napoleon",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9394":{
-                "district":"7",
-                "name":"Tincher, Jasper Napoleon",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "9394":{
-                "district":"7",
-                "name":"Tincher, Jasper Napoleon",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9394":{
-                "district":"7",
-                "name":"Tincher, Jasper Napoleon",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4562":{
-                "district":"7",
-                "name":"Hope, Clifford Ragsdale",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4562":{
-                "district":"7",
-                "name":"Hope, Clifford Ragsdale",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4562":{
-                "district":"7",
-                "name":"Hope, Clifford Ragsdale",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Kansas"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ks"
 },
   "bbox": [
     -102.04533,

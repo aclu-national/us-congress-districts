@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"102",
-    "id":"036099102025",
-    "member":{
-        "100":{
-            "15007":{
-                "district":"25",
-                "name":"Boehlert, Sherwood L.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15007":{
-                "district":"25",
-                "name":"Boehlert, Sherwood L.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15007":{
-                "district":"25",
-                "name":"Boehlert, Sherwood L.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15007":{
-                "district":"25",
-                "name":"Boehlert, Sherwood L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -76.66687,

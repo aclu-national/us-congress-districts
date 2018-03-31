@@ -2,27 +2,12 @@
   "id": "mo_46_to_47_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"47",
-    "id":"029046047012",
-    "member":{
-        "46":{
-            "4188":{
-                "district":"12",
-                "name":"Hatch, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "4188":{
-                "district":"12",
-                "name":"Hatch, William Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Missouri"
+    "district":12,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"mo"
 },
   "bbox": [
     -93.37521,

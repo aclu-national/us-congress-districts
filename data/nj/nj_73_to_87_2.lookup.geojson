@@ -1,119 +1,13 @@
 {
-  "id": "nj_73_to_87_02",
+  "id": "nj_73_to_87_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"87",
-    "id":"034073087002",
-    "member":{
-        "73":{
-            "318":{
-                "district":"2",
-                "name":"Bacharach, Isaac",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "318":{
-                "district":"2",
-                "name":"Bacharach, Isaac",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "9952":{
-                "district":"2",
-                "name":"Wene, Elmer H.",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "4906":{
-                "district":"2",
-                "name":"Jeffries, Walter Sooy",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "9952":{
-                "district":"2",
-                "name":"Wene, Elmer H.",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "9952":{
-                "district":"2",
-                "name":"Wene, Elmer H.",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "4031":{
-                "district":"2",
-                "name":"Hand, Thomas Millet",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "4031":{
-                "district":"2",
-                "name":"Hand, Thomas Millet",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4031":{
-                "district":"2",
-                "name":"Hand, Thomas Millet",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4031":{
-                "district":"2",
-                "name":"Hand, Thomas Millet",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "4031":{
-                "district":"2",
-                "name":"Hand, Thomas Millet",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4031":{
-                "district":"2",
-                "name":"Hand, Thomas Millet",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "3629":{
-                "district":"2",
-                "name":"Glenn, Milton Willits",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "3629":{
-                "district":"2",
-                "name":"Glenn, Milton Willits",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "3629":{
-                "district":"2",
-                "name":"Glenn, Milton Willits",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New Jersey"
+    "district":2,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"nj"
 },
   "bbox": [
     -75.41956,

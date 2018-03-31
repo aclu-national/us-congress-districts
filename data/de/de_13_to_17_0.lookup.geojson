@@ -1,79 +1,13 @@
 {
-  "id": "de_13_to_17_00",
+  "id": "de_13_to_17_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"17",
-    "id":"010013017000",
-    "member":{
-        "13":{
-            "2056":{
-                "district":"98",
-                "name":"Cooper, Thomas",
-                "party":"Federalist"
-            },
-            "7897":{
-                "district":"98",
-                "name":"Ridgely, Henry Moore",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "1825":{
-                "district":"98",
-                "name":"Clayton, Thomas",
-                "party":"Federalist"
-            },
-            "2056":{
-                "district":"98",
-                "name":"Cooper, Thomas",
-                "party":"Federalist"
-            }
-        },
-        "15":{
-            "3958":{
-                "district":"98",
-                "name":"Hall, Willard",
-                "party":"Republican"
-            },
-            "6323":{
-                "district":"98",
-                "name":"McLane, Louis",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "3958":{
-                "district":"98",
-                "name":"Hall, Willard",
-                "party":"Republican"
-            },
-            "6323":{
-                "district":"98",
-                "name":"McLane, Louis",
-                "party":"Federalist"
-            }
-        },
-        "17":{
-            "6323":{
-                "district":"98",
-                "name":"McLane, Louis",
-                "party":"Federalist"
-            },
-            "8013":{
-                "district":"98",
-                "name":"Rodney, Caesar Augustus",
-                "party":"Republican"
-            },
-            "8014":{
-                "district":"98",
-                "name":"Rodney, Daniel",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Delaware"
+    "district":0,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"de"
 },
   "bbox": [
     -75.78876,

@@ -1,84 +1,13 @@
 {
-  "id": "in_63_to_72_03",
+  "id": "in_63_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"018063072003",
-    "member":{
-        "63":{
-            "2119":{
-                "district":"3",
-                "name":"Cox, William Elijah",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "2119":{
-                "district":"3",
-                "name":"Cox, William Elijah",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "2119":{
-                "district":"3",
-                "name":"Cox, William Elijah",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "2754":{
-                "district":"3",
-                "name":"Dunbar, James Whitson",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "2754":{
-                "district":"3",
-                "name":"Dunbar, James Whitson",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "3466":{
-                "district":"3",
-                "name":"Gardner, Frank",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3466":{
-                "district":"3",
-                "name":"Gardner, Frank",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "3466":{
-                "district":"3",
-                "name":"Gardner, Frank",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "2754":{
-                "district":"3",
-                "name":"Dunbar, James Whitson",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2207":{
-                "district":"3",
-                "name":"Crowe, Eugene Burgess",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"in"
 },
   "bbox": [
     -87.07335,

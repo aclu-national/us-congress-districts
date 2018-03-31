@@ -1,49 +1,13 @@
 {
-  "id": "il_28_to_32_04",
+  "id": "il_28_to_32_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"32",
-    "id":"017028032004",
-    "member":{
-        "28":{
-            "9953":{
-                "district":"4",
-                "name":"Wentworth, John",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "9953":{
-                "district":"4",
-                "name":"Wentworth, John",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "9953":{
-                "district":"4",
-                "name":"Wentworth, John",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "9953":{
-                "district":"4",
-                "name":"Wentworth, John",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "6585":{
-                "district":"4",
-                "name":"Molony, Richard Sheppard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Illinois"
+    "district":4,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"il"
 },
   "bbox": [
     -89.86243,

@@ -1,49 +1,13 @@
 {
-  "id": "wv_98_to_102_02",
+  "id": "wv_98_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"054098102002",
-    "member":{
-        "100":{
-            "15065":{
-                "district":"2",
-                "name":"Staggers, Harley O., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15065":{
-                "district":"2",
-                "name":"Staggers, Harley O., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15065":{
-                "district":"2",
-                "name":"Staggers, Harley O., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "15065":{
-                "district":"2",
-                "name":"Staggers, Harley O., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15065":{
-                "district":"2",
-                "name":"Staggers, Harley O., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"West Virginia"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"wv"
 },
   "bbox": [
     -81.381,

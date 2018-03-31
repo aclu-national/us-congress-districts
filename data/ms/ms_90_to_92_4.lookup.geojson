@@ -1,35 +1,13 @@
 {
-  "id": "ms_90_to_92_04",
+  "id": "ms_90_to_92_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"92",
-    "id":"028090092004",
-    "member":{
-        "90":{
-            "11035":{
-                "district":"4",
-                "name":"Montgomery, G. V.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "11035":{
-                "district":"4",
-                "name":"Montgomery, G. V.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "11035":{
-                "district":"4",
-                "name":"Montgomery, G. V.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Mississippi"
+    "district":4,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"ms"
 },
   "bbox": [
     -91.21403,

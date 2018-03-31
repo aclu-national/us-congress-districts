@@ -1,28 +1,13 @@
 {
-  "id": "ma_43_to_44_06",
+  "id": "ma_43_to_44_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"44",
-    "id":"025043044006",
-    "member":{
-        "43":{
-            "1335":{
-                "district":"6",
-                "name":"Butler, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "9317":{
-                "district":"6",
-                "name":"Thompson, Charles Perkins",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ma"
 },
   "bbox": [
     -71.18247,

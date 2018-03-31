@@ -2,20 +2,12 @@
   "id": "ny_48_to_48_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"48",
-    "id":"036048048026",
-    "member":{
-        "48":{
-            "7273":{
-                "district":"26",
-                "name":"Payne, Sereno Elisha",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -77.37471,

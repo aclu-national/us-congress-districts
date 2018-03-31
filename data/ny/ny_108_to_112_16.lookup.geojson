@@ -2,48 +2,12 @@
   "id": "ny_108_to_112_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"112",
-    "id":"036108112016",
-    "member":{
-        "108":{
-            "29134":{
-                "district":"16",
-                "name":"Serrano, Jose E.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29134":{
-                "district":"16",
-                "name":"Serrano, Jose E.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29134":{
-                "district":"16",
-                "name":"Serrano, Jose E.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29134":{
-                "district":"16",
-                "name":"Serrano, Jose E.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29134":{
-                "district":"16",
-                "name":"Serrano, Jose E.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":16,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -73.93341,

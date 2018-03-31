@@ -1,54 +1,13 @@
 {
-  "id": "oh_108_to_112_05",
+  "id": "oh_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"039108112005",
-    "member":{
-        "108":{
-            "15604":{
-                "district":"5",
-                "name":"Gillmor, Paul E.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "15604":{
-                "district":"5",
-                "name":"Gillmor, Paul E.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "15604":{
-                "district":"5",
-                "name":"Gillmor, Paul E.",
-                "party":"Republican"
-            },
-            "20755":{
-                "district":"5",
-                "name":"Latta, Robert E.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20755":{
-                "district":"5",
-                "name":"Latta, Robert E.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20755":{
-                "district":"5",
-                "name":"Latta, Robert E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"oh"
 },
   "bbox": [
     -84.80621,

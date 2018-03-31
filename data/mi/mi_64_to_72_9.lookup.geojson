@@ -1,77 +1,13 @@
 {
-  "id": "mi_64_to_72_09",
+  "id": "mi_64_to_72_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"72",
-    "id":"026064072009",
-    "member":{
-        "64":{
-            "6327":{
-                "district":"9",
-                "name":"McLaughlin, James Campbell",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "6327":{
-                "district":"9",
-                "name":"McLaughlin, James Campbell",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6327":{
-                "district":"9",
-                "name":"McLaughlin, James Campbell",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6327":{
-                "district":"9",
-                "name":"McLaughlin, James Campbell",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6327":{
-                "district":"9",
-                "name":"McLaughlin, James Campbell",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "6327":{
-                "district":"9",
-                "name":"McLaughlin, James Campbell",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "6327":{
-                "district":"9",
-                "name":"McLaughlin, James Campbell",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "6327":{
-                "district":"9",
-                "name":"McLaughlin, James Campbell",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "6327":{
-                "district":"9",
-                "name":"McLaughlin, James Campbell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Michigan"
+    "district":9,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mi"
 },
   "bbox": [
     -86.54101,

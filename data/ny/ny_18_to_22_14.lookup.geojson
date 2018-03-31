@@ -2,48 +2,12 @@
   "id": "ny_18_to_22_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"22",
-    "id":"036018022014",
-    "member":{
-        "18":{
-            "8997":{
-                "district":"14",
-                "name":"Storrs, Henry Randolph",
-                "party":"Adams-Clay Federalist"
-            }
-        },
-        "19":{
-            "8997":{
-                "district":"14",
-                "name":"Storrs, Henry Randolph",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "8997":{
-                "district":"14",
-                "name":"Storrs, Henry Randolph",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "8997":{
-                "district":"14",
-                "name":"Storrs, Henry Randolph",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "553":{
-                "district":"14",
-                "name":"Beardsley, Samuel",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -75.88676,

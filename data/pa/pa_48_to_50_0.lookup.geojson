@@ -1,35 +1,13 @@
 {
-  "id": "pa_48_to_50_00",
+  "id": "pa_48_to_50_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"50",
-    "id":"042048050000",
-    "member":{
-        "48":{
-            "2915":{
-                "district":"99",
-                "name":"Elliott, Mortimer Fitzlan",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "7091":{
-                "district":"99",
-                "name":"Osborne, Edwin Sylvanus",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "7091":{
-                "district":"99",
-                "name":"Osborne, Edwin Sylvanus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":0,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

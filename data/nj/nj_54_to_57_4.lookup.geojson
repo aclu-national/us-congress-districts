@@ -1,47 +1,13 @@
 {
-  "id": "nj_54_to_57_04",
+  "id": "nj_54_to_57_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"57",
-    "id":"034054057004",
-    "member":{
-        "54":{
-            "7471":{
-                "district":"4",
-                "name":"Pitney, Mahlon",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "7471":{
-                "district":"4",
-                "name":"Pitney, Mahlon",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "8182":{
-                "district":"4",
-                "name":"Salmon, Joshua S.",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "3202":{
-                "district":"4",
-                "name":"Flanagan, De Witt Clinton",
-                "party":"Democrat"
-            },
-            "8182":{
-                "district":"4",
-                "name":"Salmon, Joshua S.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"54",
-    "statename":"New Jersey"
+    "district":4,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1895-12-02",
+    "start_session":54,
+    "state":"nj"
 },
   "bbox": [
     -75.20392,

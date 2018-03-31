@@ -1,42 +1,13 @@
 {
-  "id": "oh_18_to_21_03",
+  "id": "oh_18_to_21_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"21",
-    "id":"039018021003",
-    "member":{
-        "18":{
-            "6340":{
-                "district":"3",
-                "name":"McLean, William",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "6340":{
-                "district":"3",
-                "name":"McLean, William",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "6340":{
-                "district":"3",
-                "name":"McLean, William",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "2145":{
-                "district":"3",
-                "name":"Crane, Joseph Halsey",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"oh"
 },
   "bbox": [
     -84.81516,

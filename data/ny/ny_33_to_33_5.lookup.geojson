@@ -1,21 +1,13 @@
 {
-  "id": "ny_33_to_33_05",
+  "id": "ny_33_to_33_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"33",
-    "id":"036033033005",
-    "member":{
-        "33":{
-            "9533":{
-                "district":"5",
-                "name":"Tweed, William Marcy",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -73.99745,

@@ -2,34 +2,12 @@
   "id": "ny_103_to_105_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"105",
-    "id":"036103105023",
-    "member":{
-        "103":{
-            "15007":{
-                "district":"23",
-                "name":"Boehlert, Sherwood L.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15007":{
-                "district":"23",
-                "name":"Boehlert, Sherwood L.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15007":{
-                "district":"23",
-                "name":"Boehlert, Sherwood L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -75.99404,

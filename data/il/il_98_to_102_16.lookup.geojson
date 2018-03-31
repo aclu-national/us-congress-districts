@@ -2,48 +2,12 @@
   "id": "il_98_to_102_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"102",
-    "id":"017098102016",
-    "member":{
-        "100":{
-            "14841":{
-                "district":"16",
-                "name":"Martin, Lynn M.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14841":{
-                "district":"16",
-                "name":"Martin, Lynn M.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "29116":{
-                "district":"16",
-                "name":"Cox, John W. Jr.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14841":{
-                "district":"16",
-                "name":"Martin, Lynn M.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14841":{
-                "district":"16",
-                "name":"Martin, Lynn M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Illinois"
+    "district":16,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"il"
 },
   "bbox": [
     -90.6564,

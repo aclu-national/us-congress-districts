@@ -1,49 +1,13 @@
 {
-  "id": "ny_28_to_32_08",
+  "id": "ny_28_to_32_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"32",
-    "id":"036028032008",
-    "member":{
-        "28":{
-            "2405":{
-                "district":"8",
-                "name":"Davis, Richard David",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "10366":{
-                "district":"8",
-                "name":"Woodworth, William W.",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "9840":{
-                "district":"8",
-                "name":"Warren, Cornelius",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "3965":{
-                "district":"8",
-                "name":"Halloway, Ransom",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "2445":{
-                "district":"8",
-                "name":"Dean, Gilbert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -74.00011,

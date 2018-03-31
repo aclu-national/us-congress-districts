@@ -1,49 +1,13 @@
 {
-  "id": "wi_108_to_112_05",
+  "id": "wi_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"055108112005",
-    "member":{
-        "108":{
-            "14657":{
-                "district":"5",
-                "name":"Sensenbrenner, Frank James",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "14657":{
-                "district":"5",
-                "name":"Sensenbrenner, Frank James",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "14657":{
-                "district":"5",
-                "name":"Sensenbrenner, Frank James",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "14657":{
-                "district":"5",
-                "name":"Sensenbrenner, Frank James",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "14657":{
-                "district":"5",
-                "name":"Sensenbrenner, F. James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Wisconsin"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"wi"
 },
   "bbox": [
     -88.79701,

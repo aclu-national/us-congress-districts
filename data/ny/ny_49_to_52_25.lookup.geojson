@@ -2,41 +2,12 @@
   "id": "ny_49_to_52_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"52",
-    "id":"036049052025",
-    "member":{
-        "49":{
-            "4452":{
-                "district":"25",
-                "name":"Hiscock, Frank",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "592":{
-                "district":"25",
-                "name":"Belden, James Jerome",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "592":{
-                "district":"25",
-                "name":"Belden, James Jerome",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "592":{
-                "district":"25",
-                "name":"Belden, James Jerome",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -76.49932,

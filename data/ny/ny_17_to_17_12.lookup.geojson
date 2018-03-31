@@ -2,25 +2,12 @@
   "id": "ny_17_to_17_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"17",
-    "id":"036017017012",
-    "member":{
-        "17":{
-            "7468":{
-                "district":"12",
-                "name":"Pitcher, Nathaniel",
-                "party":"Republican"
-            },
-            "9800":{
-                "district":"12",
-                "name":"Walworth, Reuben Hyde",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ny"
 },
   "bbox": [
     -74.72568,

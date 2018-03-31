@@ -2,48 +2,12 @@
   "id": "il_108_to_112_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"112",
-    "id":"017108112018",
-    "member":{
-        "108":{
-            "29517":{
-                "district":"18",
-                "name":"Lahood, Ray",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29517":{
-                "district":"18",
-                "name":"Lahood, Ray",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29517":{
-                "district":"18",
-                "name":"Lahood, Ray",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20914":{
-                "district":"18",
-                "name":"Schock, Aaron",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20914":{
-                "district":"18",
-                "name":"Schock, Aaron",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Illinois"
+    "district":18,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"il"
 },
   "bbox": [
     -91.26585,

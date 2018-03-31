@@ -1,49 +1,13 @@
 {
-  "id": "pa_68_to_72_05",
+  "id": "pa_68_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"042068072005",
-    "member":{
-        "68":{
-            "2000":{
-                "district":"5",
-                "name":"Connolly, James Joseph",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "2000":{
-                "district":"5",
-                "name":"Connolly, James Joseph",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "2000":{
-                "district":"5",
-                "name":"Connolly, James Joseph",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2000":{
-                "district":"5",
-                "name":"Connolly, James Joseph",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2000":{
-                "district":"5",
-                "name":"Connolly, James Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -75.1402,

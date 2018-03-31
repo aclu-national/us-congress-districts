@@ -1,49 +1,13 @@
 {
-  "id": "ca_78_to_82_09",
+  "id": "ca_78_to_82_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"82",
-    "id":"006078082009",
-    "member":{
-        "78":{
-            "3518":{
-                "district":"9",
-                "name":"Gearhart, Bertrand Wesley",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "3518":{
-                "district":"9",
-                "name":"Gearhart, Bertrand Wesley",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3518":{
-                "district":"9",
-                "name":"Gearhart, Bertrand Wesley",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "10013":{
-                "district":"9",
-                "name":"White, Cecil Fielding",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "4751":{
-                "district":"9",
-                "name":"Hunter, Allan Oakley",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":9,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -121.48677,

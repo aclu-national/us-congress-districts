@@ -1,49 +1,13 @@
 {
-  "id": "mi_83_to_87_09",
+  "id": "mi_83_to_87_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"87",
-    "id":"026083087009",
-    "member":{
-        "83":{
-            "9338":{
-                "district":"9",
-                "name":"Thompson, Ruth",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "9338":{
-                "district":"9",
-                "name":"Thompson, Ruth",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "3824":{
-                "district":"9",
-                "name":"Griffin, Robert Paul",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "3824":{
-                "district":"9",
-                "name":"Griffin, Robert Paul",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "3824":{
-                "district":"9",
-                "name":"Griffin, Robert Paul",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Michigan"
+    "district":9,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mi"
 },
   "bbox": [
     -86.54101,

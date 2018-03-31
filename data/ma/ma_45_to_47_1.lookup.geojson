@@ -1,35 +1,13 @@
 {
-  "id": "ma_45_to_47_01",
+  "id": "ma_45_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"025045047001",
-    "member":{
-        "45":{
-            "2151":{
-                "district":"1",
-                "name":"Crapo, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "2151":{
-                "district":"1",
-                "name":"Crapo, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "2151":{
-                "district":"1",
-                "name":"Crapo, William Wallace",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"ma"
 },
   "bbox": [
     -71.31644,

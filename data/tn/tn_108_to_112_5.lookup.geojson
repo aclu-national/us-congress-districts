@@ -1,49 +1,13 @@
 {
-  "id": "tn_108_to_112_05",
+  "id": "tn_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"047108112005",
-    "member":{
-        "108":{
-            "15019":{
-                "district":"5",
-                "name":"Cooper, Jim",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15019":{
-                "district":"5",
-                "name":"Cooper, Jim",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "15019":{
-                "district":"5",
-                "name":"Cooper, Jim",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "15019":{
-                "district":"5",
-                "name":"Cooper, Jim",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "15019":{
-                "district":"5",
-                "name":"Cooper, Jim",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tn"
 },
   "bbox": [
     -87.15223,

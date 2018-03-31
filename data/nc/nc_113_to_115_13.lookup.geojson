@@ -2,18 +2,12 @@
   "id": "nc_113_to_115_13",
   "type": "Feature",
   "properties": {
-    "ALAND":5906425897,
-    "AWATER":87231418,
-    "CD113FP":"13",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3713",
-    "INTPTLAT":"+35.7832281",
-    "INTPTLON":"-078.2131072",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 13",
-    "STATEFP":"37"
+    "district":13,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nc"
 },
   "bbox": [
     -78.877114,

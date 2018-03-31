@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"72",
-    "id":"036068072020",
-    "member":{
-        "68":{
-            "5406":{
-                "district":"20",
-                "name":"La Guardia, Fiorello Henry",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "5406":{
-                "district":"20",
-                "name":"La Guardia, Fiorello Henry",
-                "party":"American Labor"
-            }
-        },
-        "70":{
-            "5406":{
-                "district":"20",
-                "name":"La Guardia, Fiorello Henry",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "5406":{
-                "district":"20",
-                "name":"La Guardia, Fiorello Henry",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5406":{
-                "district":"20",
-                "name":"La Guardia, Fiorello Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -73.95433,

@@ -1,42 +1,13 @@
 {
-  "id": "oh_18_to_21_04",
+  "id": "oh_18_to_21_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"21",
-    "id":"039018021004",
-    "member":{
-        "18":{
-            "9597":{
-                "district":"4",
-                "name":"Vance, Joseph",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "9597":{
-                "district":"4",
-                "name":"Vance, Joseph",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "9597":{
-                "district":"4",
-                "name":"Vance, Joseph",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "9597":{
-                "district":"4",
-                "name":"Vance, Joseph",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"oh"
 },
   "bbox": [
     -84.34343,

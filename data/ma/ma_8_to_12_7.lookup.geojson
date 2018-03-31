@@ -1,54 +1,13 @@
 {
-  "id": "ma_8_to_12_07",
+  "id": "ma_8_to_12_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"12",
-    "id":"025008012007",
-    "member":{
-        "10":{
-            "436":{
-                "district":"7",
-                "name":"Barker, Joseph",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "531":{
-                "district":"7",
-                "name":"Baylies, William",
-                "party":"Federalist"
-            },
-            "9510":{
-                "district":"7",
-                "name":"Turner, Charles, Jr.",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "9510":{
-                "district":"7",
-                "name":"Turner, Charles, Jr.",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "6571":{
-                "district":"7",
-                "name":"Mitchell, Nahum",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "436":{
-                "district":"7",
-                "name":"Barker, Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ma"
 },
   "bbox": [
     -71.08019,

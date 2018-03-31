@@ -1,63 +1,13 @@
 {
-  "id": "tx_66_to_72_07",
+  "id": "tx_66_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"048066072007",
-    "member":{
-        "66":{
-            "1029":{
-                "district":"7",
-                "name":"Briggs, Clay Stone",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1029":{
-                "district":"7",
-                "name":"Briggs, Clay Stone",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "1029":{
-                "district":"7",
-                "name":"Briggs, Clay Stone",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1029":{
-                "district":"7",
-                "name":"Briggs, Clay Stone",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "1029":{
-                "district":"7",
-                "name":"Briggs, Clay Stone",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "1029":{
-                "district":"7",
-                "name":"Briggs, Clay Stone",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "1029":{
-                "district":"7",
-                "name":"Briggs, Clay Stone",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -96.06489,

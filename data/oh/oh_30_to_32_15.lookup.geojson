@@ -2,34 +2,12 @@
   "id": "oh_30_to_32_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"32",
-    "id":"039030032015",
-    "member":{
-        "30":{
-            "5192":{
-                "district":"15",
-                "name":"Kennon, William Jr.",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "4763":{
-                "district":"15",
-                "name":"Hunter, William Forrest",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "4763":{
-                "district":"15",
-                "name":"Hunter, William Forrest",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"oh"
 },
   "bbox": [
     -81.47313,

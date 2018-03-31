@@ -1,33 +1,13 @@
 {
-  "id": "nj_91_to_92_06",
+  "id": "nj_91_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"034091092006",
-    "member":{
-        "91":{
-            "12046":{
-                "district":"6",
-                "name":"Forsythe, Edwin B.",
-                "party":"Republican"
-            },
-            "1393":{
-                "district":"6",
-                "name":"Cahill, William Thomas",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "12046":{
-                "district":"6",
-                "name":"Forsythe, Edwin B.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New Jersey"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nj"
 },
   "bbox": [
     -75.11632,

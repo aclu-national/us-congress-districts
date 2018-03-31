@@ -1,42 +1,13 @@
 {
-  "id": "tn_39_to_42_03",
+  "id": "tn_39_to_42_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"42",
-    "id":"047039042003",
-    "member":{
-        "39":{
-            "8972":{
-                "district":"3",
-                "name":"Stokes, William",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "40":{
-            "8972":{
-                "district":"3",
-                "name":"Stokes, William",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "8972":{
-                "district":"3",
-                "name":"Stokes, William",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "3487":{
-                "district":"3",
-                "name":"Garrett, Abraham Ellison",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"39",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1865-03-04",
+    "start_session":39,
+    "state":"tn"
 },
   "bbox": [
     -86.23999,

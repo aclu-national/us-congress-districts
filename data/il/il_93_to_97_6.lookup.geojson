@@ -1,49 +1,13 @@
 {
-  "id": "il_93_to_97_06",
+  "id": "il_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"017093097006",
-    "member":{
-        "93":{
-            "1941":{
-                "district":"6",
-                "name":"Collier, Harold Reginald",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14239":{
-                "district":"6",
-                "name":"Hyde, Henry",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14239":{
-                "district":"6",
-                "name":"Hyde, Henry",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14239":{
-                "district":"6",
-                "name":"Hyde, Henry",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14239":{
-                "district":"6",
-                "name":"Hyde, Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Illinois"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"il"
 },
   "bbox": [
     -88.03183,

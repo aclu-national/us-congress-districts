@@ -2,48 +2,12 @@
   "id": "pa_68_to_72_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"72",
-    "id":"042068072031",
-    "member":{
-        "68":{
-            "10404":{
-                "district":"31",
-                "name":"Wyant, Adam Martin",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "10404":{
-                "district":"31",
-                "name":"Wyant, Adam Martin",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "10404":{
-                "district":"31",
-                "name":"Wyant, Adam Martin",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "10404":{
-                "district":"31",
-                "name":"Wyant, Adam Martin",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "10404":{
-                "district":"31",
-                "name":"Wyant, Adam Martin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":31,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -79.90495,

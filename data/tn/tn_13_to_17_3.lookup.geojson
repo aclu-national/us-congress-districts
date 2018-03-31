@@ -1,49 +1,13 @@
 {
-  "id": "tn_13_to_17_03",
+  "id": "tn_13_to_17_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"17",
-    "id":"047013017003",
-    "member":{
-        "13":{
-            "4115":{
-                "district":"3",
-                "name":"Harris, Thomas K.",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "9295":{
-                "district":"3",
-                "name":"Thomas, Isaac",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "5029":{
-                "district":"3",
-                "name":"Jones, Francis",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "5029":{
-                "district":"3",
-                "name":"Jones, Francis",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "5029":{
-                "district":"3",
-                "name":"Jones, Francis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"tn"
 },
   "bbox": [
     -86.32029,

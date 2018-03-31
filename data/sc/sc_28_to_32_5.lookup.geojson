@@ -1,49 +1,13 @@
 {
-  "id": "sc_28_to_32_05",
+  "id": "sc_28_to_32_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"32",
-    "id":"045028032005",
-    "member":{
-        "28":{
-            "1313":{
-                "district":"5",
-                "name":"Burt, Armistead",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "1313":{
-                "district":"5",
-                "name":"Burt, Armistead",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "1313":{
-                "district":"5",
-                "name":"Burt, Armistead",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "1313":{
-                "district":"5",
-                "name":"Burt, Armistead",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "1313":{
-                "district":"5",
-                "name":"Burt, Armistead",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"South Carolina"
+    "district":5,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"sc"
 },
   "bbox": [
     -82.74096,

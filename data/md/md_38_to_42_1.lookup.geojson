@@ -1,49 +1,13 @@
 {
-  "id": "md_38_to_42_01",
+  "id": "md_38_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"024038042001",
-    "member":{
-        "38":{
-            "2173":{
-                "district":"1",
-                "name":"Creswell, John Andrew Jackson",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "39":{
-            "6206":{
-                "district":"1",
-                "name":"McCullough, Hiram",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "6206":{
-                "district":"1",
-                "name":"McCullough, Hiram",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "3977":{
-                "district":"1",
-                "name":"Hambleton, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "3977":{
-                "district":"1",
-                "name":"Hambleton, Samuel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"md"
 },
   "bbox": [
     -76.38376,

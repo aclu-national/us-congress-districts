@@ -1,21 +1,13 @@
 {
-  "id": "sc_44_to_44_05",
+  "id": "sc_44_to_44_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"44",
-    "id":"045044044005",
-    "member":{
-        "44":{
-            "8590":{
-                "district":"5",
-                "name":"Smalls, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"South Carolina"
+    "district":5,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"sc"
 },
   "bbox": [
     -82.35722,

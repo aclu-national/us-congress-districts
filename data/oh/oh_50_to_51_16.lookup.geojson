@@ -2,27 +2,12 @@
   "id": "oh_50_to_51_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"51",
-    "id":"039050051016",
-    "member":{
-        "50":{
-            "10119":{
-                "district":"16",
-                "name":"Wilkins, Beriah",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "7137":{
-                "district":"16",
-                "name":"Owens, James W.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Ohio"
+    "district":16,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"oh"
 },
   "bbox": [
     -82.78249,

@@ -1,35 +1,13 @@
 {
-  "id": "nc_40_to_42_05",
+  "id": "nc_40_to_42_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"42",
-    "id":"037040042005",
-    "member":{
-        "40":{
-            "5485":{
-                "district":"5",
-                "name":"Lash, Israel George",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "5485":{
-                "district":"5",
-                "name":"Lash, Israel George",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "5536":{
-                "district":"5",
-                "name":"Leach, James Madison",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"nc"
 },
   "bbox": [
     -80.97608,

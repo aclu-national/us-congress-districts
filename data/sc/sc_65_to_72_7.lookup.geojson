@@ -1,75 +1,13 @@
 {
-  "id": "sc_65_to_72_07",
+  "id": "sc_65_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"045065072007",
-    "member":{
-        "65":{
-            "5624":{
-                "district":"7",
-                "name":"Lever, Asbury Francis",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "5624":{
-                "district":"7",
-                "name":"Lever, Asbury Francis",
-                "party":"Democrat"
-            },
-            "5956":{
-                "district":"7",
-                "name":"Mann, Edward Coke",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "3404":{
-                "district":"7",
-                "name":"Fulmer, Hampton Pitts",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "3404":{
-                "district":"7",
-                "name":"Fulmer, Hampton Pitts",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3404":{
-                "district":"7",
-                "name":"Fulmer, Hampton Pitts",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "3404":{
-                "district":"7",
-                "name":"Fulmer, Hampton Pitts",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "3404":{
-                "district":"7",
-                "name":"Fulmer, Hampton Pitts",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "3404":{
-                "district":"7",
-                "name":"Fulmer, Hampton Pitts",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"South Carolina"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"sc"
 },
   "bbox": [
     -81.5718,

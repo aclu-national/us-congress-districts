@@ -2,48 +2,12 @@
   "id": "ma_23_to_27_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"27",
-    "id":"025023027011",
-    "member":{
-        "23":{
-            "7789":{
-                "district":"11",
-                "name":"Reed, John",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "7789":{
-                "district":"11",
-                "name":"Reed, John",
-                "party":"Anti Masonic"
-            }
-        },
-        "25":{
-            "7789":{
-                "district":"11",
-                "name":"Reed, John",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "7789":{
-                "district":"11",
-                "name":"Reed, John",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "1284":{
-                "district":"11",
-                "name":"Burnell, Barker",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ma"
 },
   "bbox": [
     -70.97725,

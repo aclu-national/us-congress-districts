@@ -2,48 +2,12 @@
   "id": "ny_18_to_22_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"22",
-    "id":"036018022016",
-    "member":{
-        "18":{
-            "1390":{
-                "district":"16",
-                "name":"Cady, John Watts",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "5982":{
-                "district":"16",
-                "name":"Markell, Henry",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "5982":{
-                "district":"16",
-                "name":"Markell, Henry",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "239":{
-                "district":"16",
-                "name":"Arnold, Benedict",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "8744":{
-                "district":"16",
-                "name":"Soule, Nathan",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -74.86771,

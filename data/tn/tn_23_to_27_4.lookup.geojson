@@ -1,54 +1,13 @@
 {
-  "id": "tn_23_to_27_04",
+  "id": "tn_23_to_27_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"27",
-    "id":"047023027004",
-    "member":{
-        "23":{
-            "8832":{
-                "district":"4",
-                "name":"Standifer, James",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "8832":{
-                "district":"4",
-                "name":"Standifer, James",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "8832":{
-                "district":"4",
-                "name":"Standifer, James",
-                "party":"Whig"
-            },
-            "8986":{
-                "district":"4",
-                "name":"Stone, William",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "759":{
-                "district":"4",
-                "name":"Blackwell, Julius W",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "1465":{
-                "district":"4",
-                "name":"Campbell, Thomas Jefferson",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"tn"
 },
   "bbox": [
     -85.87305,

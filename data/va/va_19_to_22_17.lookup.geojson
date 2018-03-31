@@ -2,41 +2,12 @@
   "id": "va_19_to_22_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"22",
-    "id":"051019022017",
-    "member":{
-        "19":{
-            "7569":{
-                "district":"17",
-                "name":"Powell, Alfred H.",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "125":{
-                "district":"17",
-                "name":"Allen, Robert",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "125":{
-                "district":"17",
-                "name":"Allen, Robert",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "125":{
-                "district":"17",
-                "name":"Allen, Robert",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":17,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -78.86928,

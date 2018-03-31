@@ -1,99 +1,13 @@
 {
-  "id": "pa_8_to_12_03",
+  "id": "pa_8_to_12_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"12",
-    "id":"042008012003",
-    "member":{
-        "10":{
-            "4393":{
-                "district":"3",
-                "name":"Hiester, John",
-                "party":"Republican"
-            },
-            "4916":{
-                "district":"3",
-                "name":"Jenkins, Robert",
-                "party":"Federalist"
-            },
-            "7873":{
-                "district":"3",
-                "name":"Richards, Matthias",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "4391":{
-                "district":"3",
-                "name":"Hiester, Daniel",
-                "party":"Republican"
-            },
-            "4916":{
-                "district":"3",
-                "name":"Jenkins, Robert",
-                "party":"Federalist"
-            },
-            "7873":{
-                "district":"3",
-                "name":"Richards, Matthias",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "2409":{
-                "district":"3",
-                "name":"Davis, Roger",
-                "party":"Republican"
-            },
-            "4789":{
-                "district":"3",
-                "name":"Hyneman, John M.",
-                "party":"Republican"
-            },
-            "5577":{
-                "district":"3",
-                "name":"Lefever, Joseph",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "10054":{
-                "district":"3",
-                "name":"Whitehill, John",
-                "party":"Republican"
-            },
-            "169":{
-                "district":"3",
-                "name":"Anderson, Isaac",
-                "party":"Republican"
-            },
-            "4394":{
-                "district":"3",
-                "name":"Hiester, Joseph",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "10054":{
-                "district":"3",
-                "name":"Whitehill, John",
-                "party":"Republican"
-            },
-            "169":{
-                "district":"3",
-                "name":"Anderson, Isaac",
-                "party":"Republican"
-            },
-            "5812":{
-                "district":"3",
-                "name":"Lower, Christian",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

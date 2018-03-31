@@ -2,27 +2,12 @@
   "id": "tx_105_to_106_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"106",
-    "id":"048105106010",
-    "member":{
-        "105":{
-            "29571":{
-                "district":"10",
-                "name":"Doggett, Lloyd",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29571":{
-                "district":"10",
-                "name":"Doggett, Lloyd",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Texas"
+    "district":10,
+    "end_date":"2000-12-15",
+    "end_session":106,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"tx"
 },
   "bbox": [
     -98.0664,

@@ -1,33 +1,13 @@
 {
-  "id": "md_56_to_57_01",
+  "id": "md_56_to_57_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"57",
-    "id":"024056057001",
-    "member":{
-        "56":{
-            "5211":{
-                "district":"1",
-                "name":"Kerr, Josiah Leeds",
-                "party":"Republican"
-            },
-            "8658":{
-                "district":"1",
-                "name":"Smith, John Walter",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "4866":{
-                "district":"1",
-                "name":"Jackson, William Humphrey",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"md"
 },
   "bbox": [
     -76.38376,

@@ -2,34 +2,12 @@
   "id": "ma_45_to_47_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"47",
-    "id":"025045047010",
-    "member":{
-        "45":{
-            "6956":{
-                "district":"10",
-                "name":"Norcross, Amasa",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "6956":{
-                "district":"10",
-                "name":"Norcross, Amasa",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "6956":{
-                "district":"10",
-                "name":"Norcross, Amasa",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"ma"
 },
   "bbox": [
     -73.06862,

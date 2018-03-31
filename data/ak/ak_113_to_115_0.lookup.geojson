@@ -1,19 +1,13 @@
 {
-  "id": "ak_113_to_115_00",
+  "id": "ak_113_to_115_0",
   "type": "Feature",
   "properties": {
-    "ALAND":1478466120147,
-    "AWATER":244870402040,
-    "CD113FP":"00",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0200",
-    "INTPTLAT":"+63.3461910",
-    "INTPTLON":"-152.8370679",
-    "LSAD":"C1",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District (at Large)",
-    "STATEFP":"02"
+    "district":0,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ak"
 },
   "bbox": [
     -179.231086,

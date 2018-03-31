@@ -2,27 +2,12 @@
   "id": "ny_9_to_10_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"10",
-    "id":"036009010011",
-    "member":{
-        "10":{
-            "9328":{
-                "district":"11",
-                "name":"Thompson, John",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "8175":{
-                "district":"11",
-                "name":"Sailly, Peter",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"9",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1809-03-03",
+    "end_session":10,
+    "start_date":"1805-12-02",
+    "start_session":9,
+    "state":"ny"
 },
   "bbox": [
     -74.72568,

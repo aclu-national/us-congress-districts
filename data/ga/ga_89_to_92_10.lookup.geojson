@@ -2,41 +2,12 @@
   "id": "ga_89_to_92_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"92",
-    "id":"013089092010",
-    "member":{
-        "89":{
-            "10563":{
-                "district":"10",
-                "name":"Stephens, Robert G., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10563":{
-                "district":"10",
-                "name":"Stephens, Robert G., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "10563":{
-                "district":"10",
-                "name":"Stephens, Robert G., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10563":{
-                "district":"10",
-                "name":"Stephens, Robert G., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Georgia"
+    "district":10,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"ga"
 },
   "bbox": [
     -84.05504,

@@ -1,42 +1,13 @@
 {
-  "id": "ks_56_to_59_06",
+  "id": "ks_56_to_59_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"59",
-    "id":"020056059006",
-    "member":{
-        "56":{
-            "7798":{
-                "district":"6",
-                "name":"Reeder, William Augustus",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "7798":{
-                "district":"6",
-                "name":"Reeder, William Augustus",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "7798":{
-                "district":"6",
-                "name":"Reeder, William Augustus",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "7798":{
-                "district":"6",
-                "name":"Reeder, William Augustus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Kansas"
+    "district":6,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"ks"
 },
   "bbox": [
     -102.05177,

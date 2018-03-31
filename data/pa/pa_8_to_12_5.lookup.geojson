@@ -1,49 +1,13 @@
 {
-  "id": "pa_8_to_12_05",
+  "id": "pa_8_to_12_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"12",
-    "id":"042008012005",
-    "member":{
-        "10":{
-            "6601":{
-                "district":"5",
-                "name":"Montgomery, Daniel, Jr.",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "8620":{
-                "district":"5",
-                "name":"Smith, George",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "8620":{
-                "district":"5",
-                "name":"Smith, George",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "3805":{
-                "district":"5",
-                "name":"Gregg, Andrew",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "3805":{
-                "district":"5",
-                "name":"Gregg, Andrew",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"pa"
 },
   "bbox": [
     -78.95606,

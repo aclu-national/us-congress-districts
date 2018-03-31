@@ -1,49 +1,13 @@
 {
-  "id": "in_58_to_62_06",
+  "id": "in_58_to_62_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"62",
-    "id":"018058062006",
-    "member":{
-        "58":{
-            "9875":{
-                "district":"6",
-                "name":"Watson, James Eli",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "9875":{
-                "district":"6",
-                "name":"Watson, James Eli",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "9875":{
-                "district":"6",
-                "name":"Watson, James Eli",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "445":{
-                "district":"6",
-                "name":"Barnard, William Oscar",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "3764":{
-                "district":"6",
-                "name":"Gray, Finly Hutchinson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Indiana"
+    "district":6,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"in"
 },
   "bbox": [
     -85.95398,

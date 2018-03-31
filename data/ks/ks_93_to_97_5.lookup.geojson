@@ -1,49 +1,13 @@
 {
-  "id": "ks_93_to_97_05",
+  "id": "ks_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"020093097005",
-    "member":{
-        "93":{
-            "10625":{
-                "district":"5",
-                "name":"Skubitz, Joe",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "10625":{
-                "district":"5",
-                "name":"Skubitz, Joe",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "10625":{
-                "district":"5",
-                "name":"Skubitz, Joe",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14670":{
-                "district":"5",
-                "name":"Whittaker, Robert",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14670":{
-                "district":"5",
-                "name":"Whittaker, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Kansas"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ks"
 },
   "bbox": [
     -98.3498,

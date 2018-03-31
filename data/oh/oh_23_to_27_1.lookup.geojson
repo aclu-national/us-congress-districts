@@ -1,49 +1,13 @@
 {
-  "id": "oh_23_to_27_01",
+  "id": "oh_23_to_27_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"27",
-    "id":"039023027001",
-    "member":{
-        "23":{
-            "5868":{
-                "district":"1",
-                "name":"Lytle, Robert Todd",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "8991":{
-                "district":"1",
-                "name":"Storer, Bellamy",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "2756":{
-                "district":"1",
-                "name":"Duncan, Alexander",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "2756":{
-                "district":"1",
-                "name":"Duncan, Alexander",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "7323":{
-                "district":"1",
-                "name":"Pendleton, Nathanael Greene",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Ohio"
+    "district":1,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

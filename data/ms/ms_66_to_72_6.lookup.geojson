@@ -1,63 +1,13 @@
 {
-  "id": "ms_66_to_72_06",
+  "id": "ms_66_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"028066072006",
-    "member":{
-        "66":{
-            "4984":{
-                "district":"6",
-                "name":"Johnson, Paul Burney",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "4984":{
-                "district":"6",
-                "name":"Johnson, Paul Burney",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "10256":{
-                "district":"6",
-                "name":"Wilson, Thomas Webber",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "10256":{
-                "district":"6",
-                "name":"Wilson, Thomas Webber",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "10256":{
-                "district":"6",
-                "name":"Wilson, Thomas Webber",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "3954":{
-                "district":"6",
-                "name":"Hall, Robert Samuel",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "3954":{
-                "district":"6",
-                "name":"Hall, Robert Samuel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Mississippi"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ms"
 },
   "bbox": [
     -90.24766,

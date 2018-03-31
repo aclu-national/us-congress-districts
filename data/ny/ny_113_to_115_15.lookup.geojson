@@ -2,18 +2,12 @@
   "id": "ny_113_to_115_15",
   "type": "Feature",
   "properties": {
-    "ALAND":37651331,
-    "AWATER":6368722,
-    "CD113FP":"15",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3615",
-    "INTPTLAT":"+40.8240670",
-    "INTPTLON":"-073.8911572",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 15",
-    "STATEFP":"36"
+    "district":15,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ny"
 },
   "bbox": [
     -73.933406,

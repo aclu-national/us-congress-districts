@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"47",
-    "id":"036044047030",
-    "member":{
-        "44":{
-            "2420":{
-                "district":"30",
-                "name":"Davy, John Madison",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "4143":{
-                "district":"30",
-                "name":"Hart, Elizur Kirke",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "9639":{
-                "district":"30",
-                "name":"Van Voorhis, John",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "9639":{
-                "district":"30",
-                "name":"Van Voorhis, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":30,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -78.46648,

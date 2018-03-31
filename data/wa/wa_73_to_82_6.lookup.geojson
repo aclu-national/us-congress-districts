@@ -1,84 +1,13 @@
 {
-  "id": "wa_73_to_82_06",
+  "id": "wa_73_to_82_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"82",
-    "id":"053073082006",
-    "member":{
-        "73":{
-            "5728":{
-                "district":"6",
-                "name":"Lloyd, Wesley",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "5728":{
-                "district":"6",
-                "name":"Lloyd, Wesley",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "1899":{
-                "district":"6",
-                "name":"Coffee, John Main",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "1899":{
-                "district":"6",
-                "name":"Coffee, John Main",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "1899":{
-                "district":"6",
-                "name":"Coffee, John Main",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "1899":{
-                "district":"6",
-                "name":"Coffee, John Main",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "1899":{
-                "district":"6",
-                "name":"Coffee, John Main",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "9409":{
-                "district":"6",
-                "name":"Tollefson, Thor Carl",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "9409":{
-                "district":"6",
-                "name":"Tollefson, Thor Carl",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "9409":{
-                "district":"6",
-                "name":"Tollefson, Thor Carl",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Washington"
+    "district":6,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"wa"
 },
   "bbox": [
     -122.84155,

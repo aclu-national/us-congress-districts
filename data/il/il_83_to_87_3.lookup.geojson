@@ -1,49 +1,13 @@
 {
-  "id": "il_83_to_87_03",
+  "id": "il_83_to_87_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"87",
-    "id":"017083087003",
-    "member":{
-        "83":{
-            "1324":{
-                "district":"3",
-                "name":"Busbey, Fred Ernst",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "6819":{
-                "district":"3",
-                "name":"Murray, James Cunningham",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "1367":{
-                "district":"3",
-                "name":"Byrne, Emmet Francis",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "6816":{
-                "district":"3",
-                "name":"Murphy, William Thomas",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "6816":{
-                "district":"3",
-                "name":"Murphy, William Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":3,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -87.74207,

@@ -2,48 +2,12 @@
   "id": "il_83_to_87_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"87",
-    "id":"017083087021",
-    "member":{
-        "83":{
-            "5884":{
-                "district":"21",
-                "name":"Mack, Peter Francis Jr.",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5884":{
-                "district":"21",
-                "name":"Mack, Peter Francis Jr.",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5884":{
-                "district":"21",
-                "name":"Mack, Peter Francis Jr.",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5884":{
-                "district":"21",
-                "name":"Mack, Peter Francis Jr.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "5884":{
-                "district":"21",
-                "name":"Mack, Peter Francis Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":21,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -90.15375,

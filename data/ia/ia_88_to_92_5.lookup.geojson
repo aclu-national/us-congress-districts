@@ -1,49 +1,13 @@
 {
-  "id": "ia_88_to_92_05",
+  "id": "ia_88_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"019088092005",
-    "member":{
-        "88":{
-            "8672":{
-                "district":"5",
-                "name":"Smith, Neal Edward",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "8672":{
-                "district":"5",
-                "name":"Smith, Neal Edward",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "8672":{
-                "district":"5",
-                "name":"Smith, Neal Edward",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "8672":{
-                "district":"5",
-                "name":"Smith, Neal Edward",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "8672":{
-                "district":"5",
-                "name":"Smith, Neal Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Iowa"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ia"
 },
   "bbox": [
     -94.44358,

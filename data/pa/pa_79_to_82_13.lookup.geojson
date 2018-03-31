@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"82",
-    "id":"042079082013",
-    "member":{
-        "79":{
-            "4475":{
-                "district":"13",
-                "name":"Hoch, Daniel Knabb",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "6780":{
-                "district":"13",
-                "name":"Muhlenberg, Frederick Augustus",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7844":{
-                "district":"13",
-                "name":"Rhodes, George Milton",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7844":{
-                "district":"13",
-                "name":"Rhodes, George Milton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -76.44018,

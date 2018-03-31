@@ -2,20 +2,12 @@
   "id": "ca_93_to_93_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"93",
-    "id":"006093093031",
-    "member":{
-        "93":{
-            "10640":{
-                "district":"31",
-                "name":"Wilson, Charles H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"California"
+    "district":31,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ca"
 },
   "bbox": [
     -118.43832,

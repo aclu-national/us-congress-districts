@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"82",
-    "id":"036079082023",
-    "member":{
-        "79":{
-            "5859":{
-                "district":"23",
-                "name":"Lynch, Walter Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5859":{
-                "district":"23",
-                "name":"Lynch, Walter Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "5859":{
-                "district":"23",
-                "name":"Lynch, Walter Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "3149":{
-                "district":"23",
-                "name":"Fine, Sidney Asher",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -73.93341,

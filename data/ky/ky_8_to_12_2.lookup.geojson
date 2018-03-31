@@ -1,49 +1,13 @@
 {
-  "id": "ky_8_to_12_02",
+  "id": "ky_8_to_12_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"12",
-    "id":"021008012002",
-    "member":{
-        "10":{
-            "941":{
-                "district":"2",
-                "name":"Boyle, John",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "6290":{
-                "district":"2",
-                "name":"McKee, Samuel",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "6290":{
-                "district":"2",
-                "name":"McKee, Samuel",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "941":{
-                "district":"2",
-                "name":"Boyle, John",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "941":{
-                "district":"2",
-                "name":"Boyle, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Kentucky"
+    "district":2,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ky"
 },
   "bbox": [
     -85.057,

@@ -1,77 +1,13 @@
 {
-  "id": "mo_74_to_82_08",
+  "id": "mo_74_to_82_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"82",
-    "id":"029074082008",
-    "member":{
-        "74":{
-            "10139":{
-                "district":"8",
-                "name":"Williams, Clyde",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "10139":{
-                "district":"8",
-                "name":"Williams, Clyde",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "10139":{
-                "district":"8",
-                "name":"Williams, Clyde",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "10139":{
-                "district":"8",
-                "name":"Williams, Clyde",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "2945":{
-                "district":"8",
-                "name":"Elmer, William Price",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "1517":{
-                "district":"8",
-                "name":"Carnahan, Albert Sidney Johnston",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "412":{
-                "district":"8",
-                "name":"Banta, Parke Monroe",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "1517":{
-                "district":"8",
-                "name":"Carnahan, Albert Sidney Johnston",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1517":{
-                "district":"8",
-                "name":"Carnahan, Albert Sidney Johnston",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Missouri"
+    "district":8,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mo"
 },
   "bbox": [
     -92.85992,

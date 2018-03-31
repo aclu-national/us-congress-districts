@@ -2,20 +2,12 @@
   "id": "ny_48_to_48_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"48",
-    "id":"036048048023",
-    "member":{
-        "48":{
-            "8812":{
-                "district":"23",
-                "name":"Spriggs, John Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -75.88676,

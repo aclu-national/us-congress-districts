@@ -2,76 +2,12 @@
   "id": "tx_74_to_82_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"82",
-    "id":"048074082014",
-    "member":{
-        "74":{
-            "5314":{
-                "district":"14",
-                "name":"Kleberg, Richard Mifflin, Sr.",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5314":{
-                "district":"14",
-                "name":"Kleberg, Richard Mifflin, Sr.",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "5314":{
-                "district":"14",
-                "name":"Kleberg, Richard Mifflin, Sr.",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "5314":{
-                "district":"14",
-                "name":"Kleberg, Richard Mifflin, Sr.",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "5314":{
-                "district":"14",
-                "name":"Kleberg, Richard Mifflin, Sr.",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "5847":{
-                "district":"14",
-                "name":"Lyle, John Emmett, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5847":{
-                "district":"14",
-                "name":"Lyle, John Emmett, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "5847":{
-                "district":"14",
-                "name":"Lyle, John Emmett, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5847":{
-                "district":"14",
-                "name":"Lyle, John Emmett, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":14,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -98.80491,

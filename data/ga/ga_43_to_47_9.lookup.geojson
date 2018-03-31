@@ -1,49 +1,13 @@
 {
-  "id": "ga_43_to_47_09",
+  "id": "ga_43_to_47_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"47",
-    "id":"013043047009",
-    "member":{
-        "43":{
-            "602":{
-                "district":"9",
-                "name":"Bell, Hiram Parks",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "4405":{
-                "district":"9",
-                "name":"Hill, Benjamin Harvey",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "602":{
-                "district":"9",
-                "name":"Bell, Hiram Parks",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "8773":{
-                "district":"9",
-                "name":"Speer, Emory",
-                "party":"Ind. Democrat"
-            }
-        },
-        "47":{
-            "8773":{
-                "district":"9",
-                "name":"Speer, Emory",
-                "party":"Ind. Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Georgia"
+    "district":9,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ga"
 },
   "bbox": [
     -84.6571,

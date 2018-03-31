@@ -1,21 +1,13 @@
 {
-  "id": "va_18_to_18_06",
+  "id": "va_18_to_18_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"18",
-    "id":"051018018006",
-    "member":{
-        "18":{
-            "9496":{
-                "district":"6",
-                "name":"Tucker, George",
-                "party":"Crawford Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"va"
 },
   "bbox": [
     -79.71485,

@@ -1,49 +1,13 @@
 {
-  "id": "mi_83_to_87_06",
+  "id": "mi_83_to_87_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"87",
-    "id":"026083087006",
-    "member":{
-        "83":{
-            "1748":{
-                "district":"6",
-                "name":"Clardy, Kit Francis",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4251":{
-                "district":"6",
-                "name":"Hayworth, Donald",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "1620":{
-                "district":"6",
-                "name":"Chamberlain, Charles Ernest",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "1620":{
-                "district":"6",
-                "name":"Chamberlain, Charles Ernest",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "1620":{
-                "district":"6",
-                "name":"Chamberlain, Charles Ernest",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Michigan"
+    "district":6,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mi"
 },
   "bbox": [
     -84.60329,

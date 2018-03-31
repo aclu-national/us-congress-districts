@@ -1,49 +1,13 @@
 {
-  "id": "nc_73_to_77_07",
+  "id": "nc_73_to_77_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"77",
-    "id":"037073077007",
-    "member":{
-        "73":{
-            "1771":{
-                "district":"7",
-                "name":"Clark, Jerome Bayard",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "1771":{
-                "district":"7",
-                "name":"Clark, Jerome Bayard",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "1771":{
-                "district":"7",
-                "name":"Clark, Jerome Bayard",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "1771":{
-                "district":"7",
-                "name":"Clark, Jerome Bayard",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "1771":{
-                "district":"7",
-                "name":"Clark, Jerome Bayard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"North Carolina"
+    "district":7,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"nc"
 },
   "bbox": [
     -79.46175,

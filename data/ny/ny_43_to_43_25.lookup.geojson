@@ -2,20 +2,12 @@
   "id": "ny_43_to_43_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"43",
-    "id":"036043043025",
-    "member":{
-        "43":{
-            "5875":{
-                "district":"25",
-                "name":"MacDougall, Clinton Dugal",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ny"
 },
   "bbox": [
     -77.37471,

@@ -1,98 +1,13 @@
 {
-  "id": "or_78_to_89_02",
+  "id": "or_78_to_89_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"89",
-    "id":"041078089002",
-    "member":{
-        "78":{
-            "8960":{
-                "district":"2",
-                "name":"Stockman, Lowell",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "8960":{
-                "district":"2",
-                "name":"Stockman, Lowell",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "8960":{
-                "district":"2",
-                "name":"Stockman, Lowell",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "8960":{
-                "district":"2",
-                "name":"Stockman, Lowell",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "8960":{
-                "district":"2",
-                "name":"Stockman, Lowell",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "2038":{
-                "district":"2",
-                "name":"Coon, Samuel Harrison",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "2038":{
-                "district":"2",
-                "name":"Coon, Samuel Harrison",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "9551":{
-                "district":"2",
-                "name":"Ullman, Albert Conrad",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "9551":{
-                "district":"2",
-                "name":"Ullman, Albert Conrad",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "9551":{
-                "district":"2",
-                "name":"Ullman, Albert Conrad",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "9551":{
-                "district":"2",
-                "name":"Ullman, Albert Conrad",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "9551":{
-                "district":"2",
-                "name":"Ullman, Albert Conrad",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Oregon"
+    "district":2,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"or"
 },
   "bbox": [
     -122.29035,

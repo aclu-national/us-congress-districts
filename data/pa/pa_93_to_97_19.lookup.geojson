@@ -2,48 +2,12 @@
   "id": "pa_93_to_97_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"97",
-    "id":"042093097019",
-    "member":{
-        "93":{
-            "10521":{
-                "district":"19",
-                "name":"Goodling, George A.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14288":{
-                "district":"19",
-                "name":"Goodling, William",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14288":{
-                "district":"19",
-                "name":"Goodling, William",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14288":{
-                "district":"19",
-                "name":"Goodling, William",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14288":{
-                "district":"19",
-                "name":"Goodling, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -77.47162,

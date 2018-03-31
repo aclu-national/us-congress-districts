@@ -2,27 +2,12 @@
   "id": "pa_28_to_29_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"29",
-    "id":"042028029011",
-    "member":{
-        "28":{
-            "696":{
-                "district":"11",
-                "name":"Bidlack, Benjamin Alden",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "5595":{
-                "district":"11",
-                "name":"Leib, Owen D.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -76.79485,

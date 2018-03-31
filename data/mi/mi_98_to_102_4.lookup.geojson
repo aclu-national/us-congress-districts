@@ -1,49 +1,13 @@
 {
-  "id": "mi_98_to_102_04",
+  "id": "mi_98_to_102_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"102",
-    "id":"026098102004",
-    "member":{
-        "100":{
-            "15446":{
-                "district":"4",
-                "name":"Upton, Fred",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15446":{
-                "district":"4",
-                "name":"Upton, Fred",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15446":{
-                "district":"4",
-                "name":"Upton, Fred",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14872":{
-                "district":"4",
-                "name":"Siljander, Mark",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14872":{
-                "district":"4",
-                "name":"Siljander, Mark",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Michigan"
+    "district":4,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"mi"
 },
   "bbox": [
     -86.82181,

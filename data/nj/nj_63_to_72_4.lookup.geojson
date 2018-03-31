@@ -1,84 +1,13 @@
 {
-  "id": "nj_63_to_72_04",
+  "id": "nj_63_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"034063072004",
-    "member":{
-        "63":{
-            "9780":{
-                "district":"4",
-                "name":"Walsh, Allan Bartholomew",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4781":{
-                "district":"4",
-                "name":"Hutchinson, Elijah Cubber",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "4781":{
-                "district":"4",
-                "name":"Hutchinson, Elijah Cubber",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "4781":{
-                "district":"4",
-                "name":"Hutchinson, Elijah Cubber",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "4781":{
-                "district":"4",
-                "name":"Hutchinson, Elijah Cubber",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "1142":{
-                "district":"4",
-                "name":"Browne, Charles",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2827":{
-                "district":"4",
-                "name":"Eaton, Charles Aubrey",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "2827":{
-                "district":"4",
-                "name":"Eaton, Charles Aubrey",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2827":{
-                "district":"4",
-                "name":"Eaton, Charles Aubrey",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2827":{
-                "district":"4",
-                "name":"Eaton, Charles Aubrey",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New Jersey"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nj"
 },
   "bbox": [
     -75.19511,

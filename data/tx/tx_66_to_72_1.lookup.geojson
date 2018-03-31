@@ -1,63 +1,13 @@
 {
-  "id": "tx_66_to_72_01",
+  "id": "tx_66_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"048066072001",
-    "member":{
-        "66":{
-            "739":{
-                "district":"1",
-                "name":"Black, Eugene",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "739":{
-                "district":"1",
-                "name":"Black, Eugene",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "739":{
-                "district":"1",
-                "name":"Black, Eugene",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "739":{
-                "district":"1",
-                "name":"Black, Eugene",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "739":{
-                "district":"1",
-                "name":"Black, Eugene",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -95.86333,

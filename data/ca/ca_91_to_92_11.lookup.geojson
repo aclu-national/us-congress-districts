@@ -2,27 +2,12 @@
   "id": "ca_91_to_92_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"92",
-    "id":"006091092011",
-    "member":{
-        "91":{
-            "11063":{
-                "district":"11",
-                "name":"McCloskey, Paul",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11063":{
-                "district":"11",
-                "name":"McCloskey, Paul",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":11,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -122.52069,

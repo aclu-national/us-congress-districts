@@ -1,89 +1,13 @@
 {
-  "id": "ky_63_to_72_02",
+  "id": "ky_63_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"021063072002",
-    "member":{
-        "63":{
-            "8838":{
-                "district":"2",
-                "name":"Stanley, Augustus Owsley",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "5249":{
-                "district":"2",
-                "name":"Kincheloe, David Hayes",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "5249":{
-                "district":"2",
-                "name":"Kincheloe, David Hayes",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "5249":{
-                "district":"2",
-                "name":"Kincheloe, David Hayes",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5249":{
-                "district":"2",
-                "name":"Kincheloe, David Hayes",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "5249":{
-                "district":"2",
-                "name":"Kincheloe, David Hayes",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "5249":{
-                "district":"2",
-                "name":"Kincheloe, David Hayes",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "5249":{
-                "district":"2",
-                "name":"Kincheloe, David Hayes",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "2677":{
-                "district":"2",
-                "name":"Dorsey, John Lloyd Jr.",
-                "party":"Democrat"
-            },
-            "5249":{
-                "district":"2",
-                "name":"Kincheloe, David Hayes",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "1563":{
-                "district":"2",
-                "name":"Cary, Glover H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Kentucky"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ky"
 },
   "bbox": [
     -88.16021,

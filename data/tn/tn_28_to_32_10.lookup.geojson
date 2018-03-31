@@ -2,48 +2,12 @@
   "id": "tn_28_to_32_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"32",
-    "id":"047028032010",
-    "member":{
-        "28":{
-            "260":{
-                "district":"10",
-                "name":"Ashe, John Baptista",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "8844":{
-                "district":"10",
-                "name":"Stanton, Frederick Perry",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "8844":{
-                "district":"10",
-                "name":"Stanton, Frederick Perry",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "8844":{
-                "district":"10",
-                "name":"Stanton, Frederick Perry",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "8844":{
-                "district":"10",
-                "name":"Stanton, Frederick Perry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Tennessee"
+    "district":10,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

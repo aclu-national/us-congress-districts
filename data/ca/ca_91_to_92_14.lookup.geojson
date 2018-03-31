@@ -2,27 +2,12 @@
   "id": "ca_91_to_92_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"92",
-    "id":"006091092014",
-    "member":{
-        "91":{
-            "10793":{
-                "district":"14",
-                "name":"Waldie, Jerome",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10793":{
-                "district":"14",
-                "name":"Waldie, Jerome",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":14,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -122.42978,

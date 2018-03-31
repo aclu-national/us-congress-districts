@@ -1,28 +1,13 @@
 {
-  "id": "va_8_to_9_01",
+  "id": "va_8_to_9_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"9",
-    "id":"051008009001",
-    "member":{
-        "8":{
-            "4858":{
-                "district":"1",
-                "name":"Jackson, John George",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "4858":{
-                "district":"1",
-                "name":"Jackson, John George",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1807-03-03",
+    "end_session":9,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"va"
 },
   "bbox": [
     -81.81415,

@@ -1,49 +1,13 @@
 {
-  "id": "ia_98_to_102_05",
+  "id": "ia_98_to_102_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"102",
-    "id":"019098102005",
-    "member":{
-        "100":{
-            "15106":{
-                "district":"5",
-                "name":"Lightfoot, James R.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15106":{
-                "district":"5",
-                "name":"Lightfoot, James R.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15106":{
-                "district":"5",
-                "name":"Lightfoot, James R.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14230":{
-                "district":"5",
-                "name":"Harkin, Tom",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15106":{
-                "district":"5",
-                "name":"Lightfoot, James R.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Iowa"
+    "district":5,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ia"
 },
   "bbox": [
     -96.13881,

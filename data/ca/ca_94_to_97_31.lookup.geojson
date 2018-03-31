@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"97",
-    "id":"006094097031",
-    "member":{
-        "94":{
-            "10640":{
-                "district":"31",
-                "name":"Wilson, Charles H.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10640":{
-                "district":"31",
-                "name":"Wilson, Charles H.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10640":{
-                "district":"31",
-                "name":"Wilson, Charles H.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14816":{
-                "district":"31",
-                "name":"Dymally, Mervyn M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":31,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -118.37861,

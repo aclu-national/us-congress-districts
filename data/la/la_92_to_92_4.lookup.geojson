@@ -1,21 +1,13 @@
 {
-  "id": "la_92_to_92_04",
+  "id": "la_92_to_92_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"92",
-    "id":"022092092004",
-    "member":{
-        "92":{
-            "10567":{
-                "district":"4",
-                "name":"Waggoner, Joe D., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"Louisiana"
+    "district":4,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"la"
 },
   "bbox": [
     -94.04334,

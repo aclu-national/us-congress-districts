@@ -1,21 +1,13 @@
 {
-  "id": "pa_78_to_78_07",
+  "id": "pa_78_to_78_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"78",
-    "id":"042078078007",
-    "member":{
-        "78":{
-            "8301":{
-                "district":"7",
-                "name":"Scott, Hugh Doggett, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"pa"
 },
   "bbox": [
     -75.26422,

@@ -1,28 +1,13 @@
 {
-  "id": "wv_63_to_64_00",
+  "id": "wv_63_to_64_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"64",
-    "id":"054063064000",
-    "member":{
-        "63":{
-            "9093":{
-                "district":"99",
-                "name":"Sutherland, Howard",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "9093":{
-                "district":"99",
-                "name":"Sutherland, Howard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"West Virginia"
+    "district":0,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"wv"
 },
   "bbox": [
     -82.64474,

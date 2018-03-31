@@ -1,49 +1,13 @@
 {
-  "id": "il_108_to_112_03",
+  "id": "il_108_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"017108112003",
-    "member":{
-        "108":{
-            "15036":{
-                "district":"3",
-                "name":"Lipinski, William O.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20508":{
-                "district":"3",
-                "name":"Lipinski, Daniel",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20508":{
-                "district":"3",
-                "name":"Lipinski, Daniel",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20508":{
-                "district":"3",
-                "name":"Lipinski, Daniel",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20508":{
-                "district":"3",
-                "name":"Lipinski, Daniel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Illinois"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"il"
 },
   "bbox": [
     -87.92006,

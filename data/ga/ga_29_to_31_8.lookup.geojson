@@ -1,35 +1,13 @@
 {
-  "id": "ga_29_to_31_08",
+  "id": "ga_29_to_31_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"31",
-    "id":"013029031008",
-    "member":{
-        "29":{
-            "9423":{
-                "district":"8",
-                "name":"Toombs, Robert",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "9423":{
-                "district":"8",
-                "name":"Toombs, Robert",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "9423":{
-                "district":"8",
-                "name":"Toombs, Robert",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"Georgia"
+    "district":8,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"ga"
 },
   "bbox": [
     -83.27522,

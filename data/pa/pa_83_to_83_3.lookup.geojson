@@ -1,21 +1,13 @@
 {
-  "id": "pa_83_to_83_03",
+  "id": "pa_83_to_83_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"83",
-    "id":"042083083003",
-    "member":{
-        "83":{
-            "1368":{
-                "district":"3",
-                "name":"Byrne, James Aloysius",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1954-12-02",
+    "end_session":83,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"pa"
 },
   "bbox": [
     -75.19245,

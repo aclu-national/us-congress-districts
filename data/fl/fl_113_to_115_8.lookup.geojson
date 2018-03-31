@@ -1,19 +1,13 @@
 {
-  "id": "fl_113_to_115_08",
+  "id": "fl_113_to_115_8",
   "type": "Feature",
   "properties": {
-    "ALAND":4537623442,
-    "AWATER":1709473053,
-    "CD113FP":"08",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1208",
-    "INTPTLAT":"+28.1646486",
-    "INTPTLON":"-080.6989059",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 8",
-    "STATEFP":"12"
+    "district":8,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"fl"
 },
   "bbox": [
     -81.161224,

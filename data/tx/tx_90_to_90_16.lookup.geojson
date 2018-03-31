@@ -2,20 +2,12 @@
   "id": "tx_90_to_90_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"90",
-    "id":"048090090016",
-    "member":{
-        "90":{
-            "10783":{
-                "district":"16",
-                "name":"White, Richard C.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Texas"
+    "district":16,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

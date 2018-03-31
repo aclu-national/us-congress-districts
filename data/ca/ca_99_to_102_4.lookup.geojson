@@ -1,42 +1,13 @@
 {
-  "id": "ca_99_to_102_04",
+  "id": "ca_99_to_102_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"102",
-    "id":"006099102004",
-    "member":{
-        "100":{
-            "14624":{
-                "district":"4",
-                "name":"Fazio, Victor Herbert",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14624":{
-                "district":"4",
-                "name":"Fazio, Victor Herbert",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14624":{
-                "district":"4",
-                "name":"Fazio, Victor Herbert",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14624":{
-                "district":"4",
-                "name":"Fazio, Victor Herbert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":4,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -122.40285,

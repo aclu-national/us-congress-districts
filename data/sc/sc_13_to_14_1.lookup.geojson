@@ -1,28 +1,13 @@
 {
-  "id": "sc_13_to_14_01",
+  "id": "sc_13_to_14_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"14",
-    "id":"045013014001",
-    "member":{
-        "13":{
-            "1688":{
-                "district":"1",
-                "name":"Cheves, Langdon",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "6462":{
-                "district":"1",
-                "name":"Middleton, Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"sc"
 },
   "bbox": [
     -80.50279,

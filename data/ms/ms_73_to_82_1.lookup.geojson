@@ -1,84 +1,13 @@
 {
-  "id": "ms_73_to_82_01",
+  "id": "ms_73_to_82_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"82",
-    "id":"028073082001",
-    "member":{
-        "73":{
-            "7731":{
-                "district":"1",
-                "name":"Rankin, John Elliott",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "7731":{
-                "district":"1",
-                "name":"Rankin, John Elliott",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7731":{
-                "district":"1",
-                "name":"Rankin, John Elliott",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "7731":{
-                "district":"1",
-                "name":"Rankin, John Elliott",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "7731":{
-                "district":"1",
-                "name":"Rankin, John Elliott",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "7731":{
-                "district":"1",
-                "name":"Rankin, John Elliott",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "7731":{
-                "district":"1",
-                "name":"Rankin, John Elliott",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "7731":{
-                "district":"1",
-                "name":"Rankin, John Elliott",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "7731":{
-                "district":"1",
-                "name":"Rankin, John Elliott",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7731":{
-                "district":"1",
-                "name":"Rankin, John Elliott",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Mississippi"
+    "district":1,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ms"
 },
   "bbox": [
     -89.08866,

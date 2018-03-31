@@ -1,26 +1,13 @@
 {
-  "id": "ga_2_to_2_01",
+  "id": "ga_2_to_2_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"2",
-    "id":"013002002001",
-    "member":{
-        "2":{
-            "6472":{
-                "district":"1",
-                "name":"Milledge, John",
-                "party":"Anti-Administration"
-            },
-            "9885":{
-                "district":"1",
-                "name":"Wayne, Anthony",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"2",
-    "statename":"Georgia"
+    "district":1,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1791-03-04",
+    "start_session":2,
+    "state":"ga"
 },
   "bbox": [
     -82.09721,

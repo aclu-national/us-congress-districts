@@ -1,21 +1,13 @@
 {
-  "id": "tn_43_to_43_09",
+  "id": "tn_43_to_43_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"43",
-    "id":"047043043009",
-    "member":{
-        "43":{
-            "5630":{
-                "district":"9",
-                "name":"Lewis, Barbour",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Tennessee"
+    "district":9,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

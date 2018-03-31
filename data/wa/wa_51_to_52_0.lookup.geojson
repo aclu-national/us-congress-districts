@@ -1,28 +1,13 @@
 {
-  "id": "wa_51_to_52_00",
+  "id": "wa_51_to_52_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"52",
-    "id":"053051052000",
-    "member":{
-        "51":{
-            "10242":{
-                "district":"1",
-                "name":"Wilson, John Lockwood",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "10242":{
-                "district":"1",
-                "name":"Wilson, John Lockwood",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Washington"
+    "district":0,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"wa"
 },
   "bbox": [
     -124.76258,

@@ -1,70 +1,13 @@
 {
-  "id": "sc_65_to_72_01",
+  "id": "sc_65_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"045065072001",
-    "member":{
-        "65":{
-            "9974":{
-                "district":"1",
-                "name":"Whaley, Richard Smith",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "9974":{
-                "district":"1",
-                "name":"Whaley, Richard Smith",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5749":{
-                "district":"1",
-                "name":"Logan, William Turner",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "5749":{
-                "district":"1",
-                "name":"Logan, William Turner",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "6356":{
-                "district":"1",
-                "name":"McMillan, Thomas Sanders",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "6356":{
-                "district":"1",
-                "name":"McMillan, Thomas Sanders",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "6356":{
-                "district":"1",
-                "name":"McMillan, Thomas Sanders",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "6356":{
-                "district":"1",
-                "name":"McMillan, Thomas Sanders",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"sc"
 },
   "bbox": [
     -81.08264,

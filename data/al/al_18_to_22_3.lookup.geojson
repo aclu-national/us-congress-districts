@@ -1,49 +1,13 @@
 {
-  "id": "al_18_to_22_03",
+  "id": "al_18_to_22_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"22",
-    "id":"001018022003",
-    "member":{
-        "18":{
-            "7130":{
-                "district":"3",
-                "name":"Owen, George Washington",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "7130":{
-                "district":"3",
-                "name":"Owen, George Washington",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "7130":{
-                "district":"3",
-                "name":"Owen, George Washington",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "5635":{
-                "district":"3",
-                "name":"Lewis, Dixon Hall",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "5635":{
-                "district":"3",
-                "name":"Lewis, Dixon Hall",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Alabama"
+    "district":3,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"al"
 },
   "bbox": [
     -88.47309,

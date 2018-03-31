@@ -2,48 +2,12 @@
   "id": "ca_103_to_107_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"107",
-    "id":"006103107026",
-    "member":{
-        "103":{
-            "15005":{
-                "district":"26",
-                "name":"Berman, Howard  L.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "15005":{
-                "district":"26",
-                "name":"Berman, Howard  L.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "15005":{
-                "district":"26",
-                "name":"Berman, Howard  L.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "15005":{
-                "district":"26",
-                "name":"Berman, Howard  L.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "15005":{
-                "district":"26",
-                "name":"Berman, Howard  L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"California"
+    "district":26,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ca"
 },
   "bbox": [
     -118.50747,

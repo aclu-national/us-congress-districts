@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_38",
   "type": "Feature",
   "properties": {
-    "ALAND":262777889,
-    "AWATER":3823564,
-    "CD113FP":"38",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0638",
-    "INTPTLAT":"+33.9404239",
-    "INTPTLON":"-118.0626291",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 38",
-    "STATEFP":"06"
+    "district":38,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -118.167704,

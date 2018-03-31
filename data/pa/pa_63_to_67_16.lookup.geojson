@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"67",
-    "id":"042063067016",
-    "member":{
-        "63":{
-            "5615":{
-                "district":"16",
-                "name":"Lesher, John Vandling",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "5615":{
-                "district":"16",
-                "name":"Lesher, John Vandling",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "5615":{
-                "district":"16",
-                "name":"Lesher, John Vandling",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "5615":{
-                "district":"16",
-                "name":"Lesher, John Vandling",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5321":{
-                "district":"16",
-                "name":"Kline, Isaac Clinton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -76.949,

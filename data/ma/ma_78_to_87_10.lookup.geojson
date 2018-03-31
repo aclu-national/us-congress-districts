@@ -2,83 +2,12 @@
   "id": "ma_78_to_87_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"87",
-    "id":"025078087010",
-    "member":{
-        "78":{
-            "4371":{
-                "district":"10",
-                "name":"Herter, Christian",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4371":{
-                "district":"10",
-                "name":"Herter, Christian",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "4371":{
-                "district":"10",
-                "name":"Herter, Christian",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4371":{
-                "district":"10",
-                "name":"Herter, Christian",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4371":{
-                "district":"10",
-                "name":"Herter, Christian",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "2272":{
-                "district":"10",
-                "name":"Curtis, Laurence",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "2272":{
-                "district":"10",
-                "name":"Curtis, Laurence",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "2272":{
-                "district":"10",
-                "name":"Curtis, Laurence",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "2272":{
-                "district":"10",
-                "name":"Curtis, Laurence",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "2272":{
-                "district":"10",
-                "name":"Curtis, Laurence",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ma"
 },
   "bbox": [
     -71.27032,

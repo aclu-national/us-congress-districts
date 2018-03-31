@@ -1,19 +1,13 @@
 {
-  "id": "al_113_to_115_01",
+  "id": "al_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":15713054160,
-    "AWATER":2275852112,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0101",
-    "INTPTLAT":"+31.0020519",
-    "INTPTLON":"-087.7879717",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"01"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"al"
 },
   "bbox": [
     -88.46443,

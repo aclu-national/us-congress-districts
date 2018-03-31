@@ -2,34 +2,12 @@
   "id": "pa_90_to_92_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"92",
-    "id":"042090092021",
-    "member":{
-        "90":{
-            "2513":{
-                "district":"21",
-                "name":"Dent, John Herman",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "2513":{
-                "district":"21",
-                "name":"Dent, John Herman",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "2513":{
-                "district":"21",
-                "name":"Dent, John Herman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Pennsylvania"
+    "district":21,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"pa"
 },
   "bbox": [
     -79.90495,

@@ -2,41 +2,12 @@
   "id": "il_54_to_57_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"57",
-    "id":"017054057013",
-    "member":{
-        "54":{
-            "9836":{
-                "district":"13",
-                "name":"Warner, Vespasian",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "9836":{
-                "district":"13",
-                "name":"Warner, Vespasian",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "9836":{
-                "district":"13",
-                "name":"Warner, Vespasian",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "9836":{
-                "district":"13",
-                "name":"Warner, Vespasian",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"54",
-    "statename":"Illinois"
+    "district":13,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1895-12-02",
+    "start_session":54,
+    "state":"il"
 },
   "bbox": [
     -89.26941,

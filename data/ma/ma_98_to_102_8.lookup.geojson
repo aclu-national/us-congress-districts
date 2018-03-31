@@ -1,49 +1,13 @@
 {
-  "id": "ma_98_to_102_08",
+  "id": "ma_98_to_102_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"102",
-    "id":"025098102008",
-    "member":{
-        "100":{
-            "15427":{
-                "district":"8",
-                "name":"Kennedy, Joseph P. II",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15427":{
-                "district":"8",
-                "name":"Kennedy, Joseph P. II",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15427":{
-                "district":"8",
-                "name":"Kennedy, Joseph P. II",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "7081":{
-                "district":"8",
-                "name":"O'Neill, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "7081":{
-                "district":"8",
-                "name":"O'Neill, Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Massachusetts"
+    "district":8,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ma"
 },
   "bbox": [
     -71.2857,

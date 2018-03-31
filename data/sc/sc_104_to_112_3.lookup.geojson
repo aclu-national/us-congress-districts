@@ -1,77 +1,13 @@
 {
-  "id": "sc_104_to_112_03",
+  "id": "sc_104_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"045104112003",
-    "member":{
-        "104":{
-            "29566":{
-                "district":"3",
-                "name":"Graham, Lindsey O.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29566":{
-                "district":"3",
-                "name":"Graham, Lindsey O.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29566":{
-                "district":"3",
-                "name":"Graham, Lindsey O.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29566":{
-                "district":"3",
-                "name":"Graham, Lindsey O.",
-                "party":"Republican"
-            }
-        },
-        "108":{
-            "20347":{
-                "district":"3",
-                "name":"Barrett, J. Gresham",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20347":{
-                "district":"3",
-                "name":"Barrett, J. Gresham",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20347":{
-                "district":"3",
-                "name":"Barrett, J. Gresham",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20347":{
-                "district":"3",
-                "name":"Barrett, J. Gresham",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21174":{
-                "district":"3",
-                "name":"Duncan, Jeffrey",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"sc"
 },
   "bbox": [
     -83.35324,

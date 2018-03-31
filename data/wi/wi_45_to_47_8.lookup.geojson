@@ -1,35 +1,13 @@
 {
-  "id": "wi_45_to_47_08",
+  "id": "wi_45_to_47_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"47",
-    "id":"055045047008",
-    "member":{
-        "45":{
-            "7567":{
-                "district":"8",
-                "name":"Pound, Thaddeus Coleman",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "7567":{
-                "district":"8",
-                "name":"Pound, Thaddeus Coleman",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "7567":{
-                "district":"8",
-                "name":"Pound, Thaddeus Coleman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Wisconsin"
+    "district":8,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"wi"
 },
   "bbox": [
     -92.88943,

@@ -1,49 +1,13 @@
 {
-  "id": "ut_93_to_97_01",
+  "id": "ut_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"049093097001",
-    "member":{
-        "93":{
-            "13027":{
-                "district":"1",
-                "name":"McKay, K. Gunn",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "13027":{
-                "district":"1",
-                "name":"McKay, K. Gunn",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "13027":{
-                "district":"1",
-                "name":"McKay, K. Gunn",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "13027":{
-                "district":"1",
-                "name":"McKay, K. Gunn",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14829":{
-                "district":"1",
-                "name":"Hansen, James V.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Utah"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ut"
 },
   "bbox": [
     -114.04255,

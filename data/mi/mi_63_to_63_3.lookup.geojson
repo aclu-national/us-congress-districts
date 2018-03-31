@@ -1,21 +1,13 @@
 {
-  "id": "mi_63_to_63_03",
+  "id": "mi_63_to_63_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"63",
-    "id":"026063063003",
-    "member":{
-        "63":{
-            "8654":{
-                "district":"3",
-                "name":"Smith, John M. C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Michigan"
+    "district":3,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"mi"
 },
   "bbox": [
     -85.76617,

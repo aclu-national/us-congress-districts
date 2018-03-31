@@ -1,35 +1,13 @@
 {
-  "id": "nc_30_to_32_07",
+  "id": "nc_30_to_32_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"32",
-    "id":"037030032007",
-    "member":{
-        "30":{
-            "6284":{
-                "district":"7",
-                "name":"McKay, James Iver",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "262":{
-                "district":"7",
-                "name":"Ashe, William Shepperd",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "262":{
-                "district":"7",
-                "name":"Ashe, William Shepperd",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"North Carolina"
+    "district":7,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"nc"
 },
   "bbox": [
     -79.46175,

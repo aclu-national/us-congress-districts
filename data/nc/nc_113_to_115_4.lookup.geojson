@@ -1,19 +1,13 @@
 {
-  "id": "nc_113_to_115_04",
+  "id": "nc_113_to_115_4",
   "type": "Feature",
   "properties": {
-    "ALAND":2707726740,
-    "AWATER":56188978,
-    "CD113FP":"04",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3704",
-    "INTPTLAT":"+35.6243203",
-    "INTPTLON":"-078.9951446",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 4",
-    "STATEFP":"37"
+    "district":4,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nc"
 },
   "bbox": [
     -79.472576,

@@ -1,42 +1,13 @@
 {
-  "id": "la_99_to_102_07",
+  "id": "la_99_to_102_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"102",
-    "id":"022099102007",
-    "member":{
-        "100":{
-            "15418":{
-                "district":"7",
-                "name":"Hayes, Jimmy",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15418":{
-                "district":"7",
-                "name":"Hayes, Jimmy",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15418":{
-                "district":"7",
-                "name":"Hayes, Jimmy",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "13056":{
-                "district":"7",
-                "name":"Breaux, John B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Louisiana"
+    "district":7,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"la"
 },
   "bbox": [
     -93.90535,

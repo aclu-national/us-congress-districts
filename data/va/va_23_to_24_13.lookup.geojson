@@ -2,27 +2,12 @@
   "id": "va_23_to_24_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"24",
-    "id":"051023024013",
-    "member":{
-        "23":{
-            "7265":{
-                "district":"13",
-                "name":"Patton, John Mercer",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "7265":{
-                "district":"13",
-                "name":"Patton, John Mercer",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Virginia"
+    "district":13,
+    "end_date":"1837-03-03",
+    "end_session":24,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"va"
 },
   "bbox": [
     -78.66317,

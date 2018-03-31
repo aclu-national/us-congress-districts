@@ -1,54 +1,13 @@
 {
-  "id": "pa_13_to_17_09",
+  "id": "pa_13_to_17_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"17",
-    "id":"042013017009",
-    "member":{
-        "13":{
-            "429":{
-                "district":"9",
-                "name":"Bard, David",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "1301":{
-                "district":"9",
-                "name":"Burnside, Thomas",
-                "party":"Republican"
-            },
-            "5894":{
-                "district":"9",
-                "name":"Maclay, William Plunkett",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "5894":{
-                "district":"9",
-                "name":"Maclay, William Plunkett",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "5894":{
-                "district":"9",
-                "name":"Maclay, William Plunkett",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "1119":{
-                "district":"9",
-                "name":"Brown, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Pennsylvania"
+    "district":9,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"pa"
 },
   "bbox": [
     -78.95606,

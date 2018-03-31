@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"67",
-    "id":"042063067023",
-    "member":{
-        "63":{
-            "1531":{
-                "district":"23",
-                "name":"Carr, Wooda Nicholas",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4578":{
-                "district":"23",
-                "name":"Hopwood, Robert Freeman",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "8899":{
-                "district":"23",
-                "name":"Sterling, Bruce Foster",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "5171":{
-                "district":"23",
-                "name":"Kendall, Samuel Austin",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5171":{
-                "district":"23",
-                "name":"Kendall, Samuel Austin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":23,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -80.51949,

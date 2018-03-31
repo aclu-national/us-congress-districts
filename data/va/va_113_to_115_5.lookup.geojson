@@ -1,19 +1,13 @@
 {
-  "id": "va_113_to_115_05",
+  "id": "va_113_to_115_5",
   "type": "Feature",
   "properties": {
-    "ALAND":25977070020,
-    "AWATER":391685611,
-    "CD113FP":"05",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5105",
-    "INTPTLAT":"+37.3323415",
-    "INTPTLON":"-078.7235580",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 5",
-    "STATEFP":"51"
+    "district":5,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"va"
 },
   "bbox": [
     -80.235455,

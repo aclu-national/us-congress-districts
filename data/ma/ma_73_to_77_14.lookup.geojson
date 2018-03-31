@@ -2,48 +2,12 @@
   "id": "ma_73_to_77_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"77",
-    "id":"025073077014",
-    "member":{
-        "73":{
-            "6033":{
-                "district":"14",
-                "name":"Martin, Joseph William, Jr.",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "6033":{
-                "district":"14",
-                "name":"Martin, Joseph William, Jr.",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "6033":{
-                "district":"14",
-                "name":"Martin, Joseph William, Jr.",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "6033":{
-                "district":"14",
-                "name":"Martin, Joseph William, Jr.",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "6033":{
-                "district":"14",
-                "name":"Martin, Joseph William, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Massachusetts"
+    "district":14,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ma"
 },
   "bbox": [
     -71.56396,

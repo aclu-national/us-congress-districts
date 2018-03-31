@@ -1,35 +1,13 @@
 {
-  "id": "ks_53_to_55_00",
+  "id": "ks_53_to_55_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"55",
-    "id":"020053055000",
-    "member":{
-        "53":{
-            "4119":{
-                "district":"99",
-                "name":"Harris, William Alexander",
-                "party":"Populist"
-            }
-        },
-        "54":{
-            "809":{
-                "district":"99",
-                "name":"Blue, Richard Whiting",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "873":{
-                "district":"99",
-                "name":"Botkin, Jeremiah Dunham",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Kansas"
+    "district":0,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ks"
 },
   "bbox": [
     -102.05177,

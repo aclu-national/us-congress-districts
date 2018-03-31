@@ -1,103 +1,13 @@
 {
-  "id": "md_68_to_79_05",
+  "id": "md_68_to_79_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"79",
-    "id":"024068079005",
-    "member":{
-        "68":{
-            "3449":{
-                "district":"5",
-                "name":"Gambrill, Stephen Warfield",
-                "party":"Democrat"
-            },
-            "6778":{
-                "district":"5",
-                "name":"Mudd, Sydney Emanuel, II",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "3449":{
-                "district":"5",
-                "name":"Gambrill, Stephen Warfield",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "3449":{
-                "district":"5",
-                "name":"Gambrill, Stephen Warfield",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "3449":{
-                "district":"5",
-                "name":"Gambrill, Stephen Warfield",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "3449":{
-                "district":"5",
-                "name":"Gambrill, Stephen Warfield",
-                "party":"Democrat"
-            }
-        },
-        "73":{
-            "3449":{
-                "district":"5",
-                "name":"Gambrill, Stephen Warfield",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "3449":{
-                "district":"5",
-                "name":"Gambrill, Stephen Warfield",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "3449":{
-                "district":"5",
-                "name":"Gambrill, Stephen Warfield",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8219":{
-                "district":"5",
-                "name":"Sasscer, Lansdale Ghiselin",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8219":{
-                "district":"5",
-                "name":"Sasscer, Lansdale Ghiselin",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "8219":{
-                "district":"5",
-                "name":"Sasscer, Lansdale Ghiselin",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "8219":{
-                "district":"5",
-                "name":"Sasscer, Lansdale Ghiselin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Maryland"
+    "district":5,
+    "end_date":"1946-08-02",
+    "end_session":79,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"md"
 },
   "bbox": [
     -77.27422,

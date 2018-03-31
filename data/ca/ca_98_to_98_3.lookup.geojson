@@ -1,21 +1,13 @@
 {
-  "id": "ca_98_to_98_03",
+  "id": "ca_98_to_98_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"98",
-    "id":"006098098003",
-    "member":{
-        "98":{
-            "14649":{
-                "district":"3",
-                "name":"Matsui, Robert Takeo",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"California"
+    "district":3,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ca"
 },
   "bbox": [
     -121.55917,

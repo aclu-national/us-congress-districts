@@ -1,49 +1,13 @@
 {
-  "id": "co_58_to_62_00",
+  "id": "co_58_to_62_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"62",
-    "id":"008058062000",
-    "member":{
-        "58":{
-            "1075":{
-                "district":"99",
-                "name":"Brooks, Franklin Eli",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "1075":{
-                "district":"99",
-                "name":"Brooks, Franklin Eli",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2016":{
-                "district":"99",
-                "name":"Cook, George Washington",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "9205":{
-                "district":"99",
-                "name":"Taylor, Edward Thomas",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "9205":{
-                "district":"99",
-                "name":"Taylor, Edward Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Colorado"
+    "district":0,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"co"
 },
   "bbox": [
     -109.06026,

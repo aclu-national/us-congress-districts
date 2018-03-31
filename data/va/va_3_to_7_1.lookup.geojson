@@ -1,49 +1,13 @@
 {
-  "id": "va_3_to_7_01",
+  "id": "va_3_to_7_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"7",
-    "id":"051003007001",
-    "member":{
-        "3":{
-            "8148":{
-                "district":"1",
-                "name":"Rutherford, Robert",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "8148":{
-                "district":"1",
-                "name":"Rutherford, Robert",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "6674":{
-                "district":"1",
-                "name":"Morgan, Daniel",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "7159":{
-                "district":"1",
-                "name":"Page, Robert",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "8646":{
-                "district":"1",
-                "name":"Smith, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"va"
 },
   "bbox": [
     -78.54409,

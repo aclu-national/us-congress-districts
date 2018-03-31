@@ -1,35 +1,13 @@
 {
-  "id": "nc_103_to_105_06",
+  "id": "nc_103_to_105_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"105",
-    "id":"037103105006",
-    "member":{
-        "103":{
-            "15092":{
-                "district":"6",
-                "name":"Coble, Howard",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15092":{
-                "district":"6",
-                "name":"Coble, Howard",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15092":{
-                "district":"6",
-                "name":"Coble, Howard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nc"
 },
   "bbox": [
     -80.63055,

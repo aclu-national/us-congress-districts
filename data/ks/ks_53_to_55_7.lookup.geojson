@@ -1,35 +1,13 @@
 {
-  "id": "ks_53_to_55_07",
+  "id": "ks_53_to_55_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"55",
-    "id":"020053055007",
-    "member":{
-        "53":{
-            "8529":{
-                "district":"7",
-                "name":"Simpson, Jeremiah \"Jerry\"",
-                "party":"Populist"
-            }
-        },
-        "54":{
-            "5754":{
-                "district":"7",
-                "name":"Long, Chester Isaiah",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "8529":{
-                "district":"7",
-                "name":"Simpson, Jeremiah \"Jerry\"",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Kansas"
+    "district":7,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ks"
 },
   "bbox": [
     -102.04533,

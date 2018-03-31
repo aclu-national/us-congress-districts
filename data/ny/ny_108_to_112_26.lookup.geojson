@@ -2,53 +2,12 @@
   "id": "ny_108_to_112_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"112",
-    "id":"036108112026",
-    "member":{
-        "108":{
-            "29928":{
-                "district":"26",
-                "name":"Reynolds, Thomas M.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29928":{
-                "district":"26",
-                "name":"Reynolds, Thomas M.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29928":{
-                "district":"26",
-                "name":"Reynolds, Thomas M.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20936":{
-                "district":"26",
-                "name":"Lee, Christopher",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20936":{
-                "district":"26",
-                "name":"Lee, Christopher",
-                "party":"Republican"
-            },
-            "21194":{
-                "district":"26",
-                "name":"Hochul, Kathy",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":26,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -78.94546,

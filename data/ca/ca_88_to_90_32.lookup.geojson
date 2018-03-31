@@ -2,34 +2,12 @@
   "id": "ca_88_to_90_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"90",
-    "id":"006088090032",
-    "member":{
-        "88":{
-            "4592":{
-                "district":"32",
-                "name":"Hosmer, Craig",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "4592":{
-                "district":"32",
-                "name":"Hosmer, Craig",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "4592":{
-                "district":"32",
-                "name":"Hosmer, Craig",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":32,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -118.26632,

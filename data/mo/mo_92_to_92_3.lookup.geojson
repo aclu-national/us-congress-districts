@@ -1,21 +1,13 @@
 {
-  "id": "mo_92_to_92_03",
+  "id": "mo_92_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"029092092003",
-    "member":{
-        "92":{
-            "9072":{
-                "district":"3",
-                "name":"Sullivan, Leonor Kretzer",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"Missouri"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"mo"
 },
   "bbox": [
     -90.33205,

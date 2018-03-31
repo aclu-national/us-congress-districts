@@ -1,49 +1,13 @@
 {
-  "id": "al_93_to_97_06",
+  "id": "al_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"001093097006",
-    "member":{
-        "93":{
-            "10706":{
-                "district":"6",
-                "name":"Buchanan, John H., Jr.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "10706":{
-                "district":"6",
-                "name":"Buchanan, John H., Jr.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "10706":{
-                "district":"6",
-                "name":"Buchanan, John H., Jr.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "10706":{
-                "district":"6",
-                "name":"Buchanan, John H., Jr.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14862":{
-                "district":"6",
-                "name":"Smith, Albert Lee, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Alabama"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"al"
 },
   "bbox": [
     -87.20495,

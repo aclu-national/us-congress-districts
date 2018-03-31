@@ -1,42 +1,13 @@
 {
-  "id": "mi_89_to_92_06",
+  "id": "mi_89_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"026089092006",
-    "member":{
-        "89":{
-            "1620":{
-                "district":"6",
-                "name":"Chamberlain, Charles Ernest",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "1620":{
-                "district":"6",
-                "name":"Chamberlain, Charles Ernest",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "1620":{
-                "district":"6",
-                "name":"Chamberlain, Charles Ernest",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "1620":{
-                "district":"6",
-                "name":"Chamberlain, Charles Ernest",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Michigan"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"mi"
 },
   "bbox": [
     -84.71867,

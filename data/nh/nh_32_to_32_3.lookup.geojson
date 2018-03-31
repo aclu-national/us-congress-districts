@@ -1,21 +1,13 @@
 {
-  "id": "nh_32_to_32_03",
+  "id": "nh_32_to_32_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"32",
-    "id":"033032032003",
-    "member":{
-        "32":{
-            "7348":{
-                "district":"3",
-                "name":"Perkins, Jared",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"32",
-    "statename":"New Hampshire"
+    "district":3,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1851-03-04",
+    "start_session":32,
+    "state":"nh"
 },
   "bbox": [
     -72.55725,

@@ -1,49 +1,13 @@
 {
-  "id": "ca_73_to_77_01",
+  "id": "ca_73_to_77_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"77",
-    "id":"006073077001",
-    "member":{
-        "73":{
-            "5531":{
-                "district":"1",
-                "name":"Lea, Clarence Frederick",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "5531":{
-                "district":"1",
-                "name":"Lea, Clarence Frederick",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5531":{
-                "district":"1",
-                "name":"Lea, Clarence Frederick",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "5531":{
-                "district":"1",
-                "name":"Lea, Clarence Frederick",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "5531":{
-                "district":"1",
-                "name":"Lea, Clarence Frederick",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"California"
+    "district":1,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ca"
 },
   "bbox": [
     -124.41501,

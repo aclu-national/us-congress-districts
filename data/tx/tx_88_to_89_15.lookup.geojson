@@ -2,27 +2,12 @@
   "id": "tx_88_to_89_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"89",
-    "id":"048088089015",
-    "member":{
-        "88":{
-            "5241":{
-                "district":"15",
-                "name":"Kilgore, Joe Madison",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10716":{
-                "district":"15",
-                "name":"De La Garza, Eligio",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Texas"
+    "district":15,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"tx"
 },
   "bbox": [
     -100.66755,

@@ -1,49 +1,13 @@
 {
-  "id": "fl_83_to_87_02",
+  "id": "fl_83_to_87_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"87",
-    "id":"012083087002",
-    "member":{
-        "83":{
-            "633":{
-                "district":"2",
-                "name":"Bennett, Charles Edward",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "633":{
-                "district":"2",
-                "name":"Bennett, Charles Edward",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "633":{
-                "district":"2",
-                "name":"Bennett, Charles Edward",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "633":{
-                "district":"2",
-                "name":"Bennett, Charles Edward",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "633":{
-                "district":"2",
-                "name":"Bennett, Charles Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Florida"
+    "district":2,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"fl"
 },
   "bbox": [
     -82.0495,

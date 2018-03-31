@@ -1,33 +1,13 @@
 {
-  "id": "nj_91_to_92_08",
+  "id": "nj_91_to_92_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"92",
-    "id":"034091092008",
-    "member":{
-        "91":{
-            "10529":{
-                "district":"8",
-                "name":"Joelson, Charles S.",
-                "party":"Democrat"
-            },
-            "12042":{
-                "district":"8",
-                "name":"Roe, Robert A.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "12042":{
-                "district":"8",
-                "name":"Roe, Robert A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New Jersey"
+    "district":8,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nj"
 },
   "bbox": [
     -74.5028,

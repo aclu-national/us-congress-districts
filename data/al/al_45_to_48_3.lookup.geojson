@@ -1,42 +1,13 @@
 {
-  "id": "al_45_to_48_03",
+  "id": "al_45_to_48_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"48",
-    "id":"001045048003",
-    "member":{
-        "45":{
-            "10157":{
-                "district":"3",
-                "name":"Williams, Jeremiah Norman",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "8186":{
-                "district":"3",
-                "name":"Samford, William James",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "6996":{
-                "district":"3",
-                "name":"Oates, William Calvin",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "6996":{
-                "district":"3",
-                "name":"Oates, William Calvin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Alabama"
+    "district":3,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"al"
 },
   "bbox": [
     -86.19636,

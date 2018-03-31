@@ -1,49 +1,13 @@
 {
-  "id": "mi_43_to_47_07",
+  "id": "mi_43_to_47_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"47",
-    "id":"026043047007",
-    "member":{
-        "43":{
-            "1981":{
-                "district":"7",
-                "name":"Conger, Omar Dwight",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "1981":{
-                "district":"7",
-                "name":"Conger, Omar Dwight",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "1981":{
-                "district":"7",
-                "name":"Conger, Omar Dwight",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "1981":{
-                "district":"7",
-                "name":"Conger, Omar Dwight",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "7863":{
-                "district":"7",
-                "name":"Rich, John Tyler",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Michigan"
+    "district":7,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"mi"
 },
   "bbox": [
     -83.69959,

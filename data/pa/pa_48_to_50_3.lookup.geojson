@@ -1,35 +1,13 @@
 {
-  "id": "pa_48_to_50_03",
+  "id": "pa_48_to_50_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"50",
-    "id":"042048050003",
-    "member":{
-        "48":{
-            "7715":{
-                "district":"3",
-                "name":"Randall, Samuel Jackson",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "7715":{
-                "district":"3",
-                "name":"Randall, Samuel Jackson",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "7715":{
-                "district":"3",
-                "name":"Randall, Samuel Jackson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -75.16632,

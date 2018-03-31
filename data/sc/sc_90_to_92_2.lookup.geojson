@@ -1,35 +1,13 @@
 {
-  "id": "sc_90_to_92_02",
+  "id": "sc_90_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"045090092002",
-    "member":{
-        "90":{
-            "10634":{
-                "district":"2",
-                "name":"Watson, Albert W.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10634":{
-                "district":"2",
-                "name":"Watson, Albert W.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13042":{
-                "district":"2",
-                "name":"Spence, Floyd",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"South Carolina"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"sc"
 },
   "bbox": [
     -81.77243,

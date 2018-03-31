@@ -2,20 +2,12 @@
   "id": "ny_98_to_98_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"98",
-    "id":"036098098019",
-    "member":{
-        "98":{
-            "12003":{
-                "district":"19",
-                "name":"Biaggi, Mario",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New York"
+    "district":19,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ny"
 },
   "bbox": [
     -73.91435,

@@ -2,20 +2,12 @@
   "id": "oh_63_to_63_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"63",
-    "id":"039063063016",
-    "member":{
-        "63":{
-            "3336":{
-                "district":"16",
-                "name":"Francis, William Bates",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Ohio"
+    "district":16,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"oh"
 },
   "bbox": [
     -81.33956,

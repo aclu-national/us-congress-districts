@@ -1,49 +1,13 @@
 {
-  "id": "ca_78_to_82_06",
+  "id": "ca_78_to_82_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"82",
-    "id":"006078082006",
-    "member":{
-        "78":{
-            "1545":{
-                "district":"6",
-                "name":"Carter, Albert Edward",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "6483":{
-                "district":"6",
-                "name":"Miller, George Paul",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "6483":{
-                "district":"6",
-                "name":"Miller, George Paul",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "6483":{
-                "district":"6",
-                "name":"Miller, George Paul",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "6483":{
-                "district":"6",
-                "name":"Miller, George Paul",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":6,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -122.42978,

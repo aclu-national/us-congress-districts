@@ -2,48 +2,12 @@
   "id": "oh_58_to_62_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"62",
-    "id":"039058062020",
-    "member":{
-        "58":{
-            "585":{
-                "district":"20",
-                "name":"Beidler, Jacob Atlee",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "585":{
-                "district":"20",
-                "name":"Beidler, Jacob Atlee",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "4657":{
-                "district":"20",
-                "name":"Howland, Leonard Paul",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "4657":{
-                "district":"20",
-                "name":"Howland, Leonard Paul",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "4657":{
-                "district":"20",
-                "name":"Howland, Leonard Paul",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Ohio"
+    "district":20,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"oh"
 },
   "bbox": [
     -82.17342,

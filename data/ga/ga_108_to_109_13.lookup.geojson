@@ -2,27 +2,12 @@
   "id": "ga_108_to_109_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"109",
-    "id":"013108109013",
-    "member":{
-        "108":{
-            "20321":{
-                "district":"13",
-                "name":"Scott, David",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20321":{
-                "district":"13",
-                "name":"Scott, David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Georgia"
+    "district":13,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ga"
 },
   "bbox": [
     -84.85071,

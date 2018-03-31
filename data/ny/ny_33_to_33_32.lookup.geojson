@@ -2,20 +2,12 @@
   "id": "ny_33_to_33_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"33",
-    "id":"036033033032",
-    "member":{
-        "33":{
-            "4200":{
-                "district":"32",
-                "name":"Haven, Solomon George",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":32,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

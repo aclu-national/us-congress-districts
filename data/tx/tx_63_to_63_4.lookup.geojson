@@ -1,21 +1,13 @@
 {
-  "id": "tx_63_to_63_04",
+  "id": "tx_63_to_63_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"63",
-    "id":"048063063004",
-    "member":{
-        "63":{
-            "7753":{
-                "district":"4",
-                "name":"Rayburn, Sam",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Texas"
+    "district":4,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"tx"
 },
   "bbox": [
     -96.94513,

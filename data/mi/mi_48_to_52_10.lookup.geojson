@@ -2,48 +2,12 @@
   "id": "mi_48_to_52_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"52",
-    "id":"026048052010",
-    "member":{
-        "48":{
-            "4185":{
-                "district":"10",
-                "name":"Hatch, Herschel Harrison",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "3172":{
-                "district":"10",
-                "name":"Fisher, Spencer Oliver",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "3172":{
-                "district":"10",
-                "name":"Fisher, Spencer Oliver",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "9987":{
-                "district":"10",
-                "name":"Wheeler, Frank Willis",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "9888":{
-                "district":"10",
-                "name":"Weadock, Thomas Addis Emmet",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Michigan"
+    "district":10,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mi"
 },
   "bbox": [
     -85.11974,

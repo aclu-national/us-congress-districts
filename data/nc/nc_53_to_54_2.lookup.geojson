@@ -1,28 +1,13 @@
 {
-  "id": "nc_53_to_54_02",
+  "id": "nc_53_to_54_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"54",
-    "id":"037053054002",
-    "member":{
-        "53":{
-            "10337":{
-                "district":"2",
-                "name":"Woodard, Frederick A.",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "10337":{
-                "district":"2",
-                "name":"Woodard, Frederick A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"North Carolina"
+    "district":2,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"nc"
 },
   "bbox": [
     -78.5113,

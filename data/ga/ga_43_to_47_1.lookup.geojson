@@ -1,59 +1,13 @@
 {
-  "id": "ga_43_to_47_01",
+  "id": "ga_43_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"013043047001",
-    "member":{
-        "43":{
-            "7746":{
-                "district":"1",
-                "name":"Rawls, Morgan",
-                "party":"Democrat"
-            },
-            "8577":{
-                "district":"1",
-                "name":"Sloan, Andrew",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "4159":{
-                "district":"1",
-                "name":"Hartridge, Julian",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "3213":{
-                "district":"1",
-                "name":"Fleming, William Bennett",
-                "party":"Democrat"
-            },
-            "4159":{
-                "district":"1",
-                "name":"Hartridge, Julian",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "6914":{
-                "district":"1",
-                "name":"Nicholls, John Calhoun",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "741":{
-                "district":"1",
-                "name":"Black, George Robison",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Georgia"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ga"
 },
   "bbox": [
     -83.1368,

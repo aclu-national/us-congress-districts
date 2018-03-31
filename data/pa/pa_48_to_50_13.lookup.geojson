@@ -2,34 +2,12 @@
   "id": "pa_48_to_50_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"50",
-    "id":"042048050013",
-    "member":{
-        "48":{
-            "1162":{
-                "district":"13",
-                "name":"Brumm, Charles Napoleon",
-                "party":"National Greenbacker"
-            }
-        },
-        "49":{
-            "1162":{
-                "district":"13",
-                "name":"Brumm, Charles Napoleon",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "1162":{
-                "district":"13",
-                "name":"Brumm, Charles Napoleon",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -76.70148,

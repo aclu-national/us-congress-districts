@@ -1,119 +1,13 @@
 {
-  "id": "mo_58_to_72_01",
+  "id": "mo_58_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"029058072001",
-    "member":{
-        "58":{
-            "5727":{
-                "district":"1",
-                "name":"Lloyd, James Tilghman",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "5727":{
-                "district":"1",
-                "name":"Lloyd, James Tilghman",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "5727":{
-                "district":"1",
-                "name":"Lloyd, James Tilghman",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "5727":{
-                "district":"1",
-                "name":"Lloyd, James Tilghman",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "5727":{
-                "district":"1",
-                "name":"Lloyd, James Tilghman",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "5727":{
-                "district":"1",
-                "name":"Lloyd, James Tilghman",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "5727":{
-                "district":"1",
-                "name":"Lloyd, James Tilghman",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8047":{
-                "district":"1",
-                "name":"Romjue, Milton Andrew",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "8047":{
-                "district":"1",
-                "name":"Romjue, Milton Andrew",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "6534":{
-                "district":"1",
-                "name":"Millspaugh, Frank Crenshaw",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "8047":{
-                "district":"1",
-                "name":"Romjue, Milton Andrew",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "8047":{
-                "district":"1",
-                "name":"Romjue, Milton Andrew",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "8047":{
-                "district":"1",
-                "name":"Romjue, Milton Andrew",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "8047":{
-                "district":"1",
-                "name":"Romjue, Milton Andrew",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "8047":{
-                "district":"1",
-                "name":"Romjue, Milton Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Missouri"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"mo"
 },
   "bbox": [
     -93.37521,

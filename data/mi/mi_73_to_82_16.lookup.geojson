@@ -2,83 +2,12 @@
   "id": "mi_73_to_82_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"82",
-    "id":"026073082016",
-    "member":{
-        "73":{
-            "5616":{
-                "district":"16",
-                "name":"Lesinski, John",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "5616":{
-                "district":"16",
-                "name":"Lesinski, John",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5616":{
-                "district":"16",
-                "name":"Lesinski, John",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "5616":{
-                "district":"16",
-                "name":"Lesinski, John",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "5616":{
-                "district":"16",
-                "name":"Lesinski, John",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "5616":{
-                "district":"16",
-                "name":"Lesinski, John",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "5616":{
-                "district":"16",
-                "name":"Lesinski, John",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5616":{
-                "district":"16",
-                "name":"Lesinski, John",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "5616":{
-                "district":"16",
-                "name":"Lesinski, John",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5617":{
-                "district":"16",
-                "name":"Lesinski, John, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Michigan"
+    "district":16,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mi"
 },
   "bbox": [
     -83.54716,

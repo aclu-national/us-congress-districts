@@ -1,47 +1,13 @@
 {
-  "id": "ky_48_to_51_06",
+  "id": "ky_48_to_51_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"51",
-    "id":"021048051006",
-    "member":{
-        "48":{
-            "1509":{
-                "district":"6",
-                "name":"Carlisle, John Griffin",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "1509":{
-                "district":"6",
-                "name":"Carlisle, John Griffin",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "1509":{
-                "district":"6",
-                "name":"Carlisle, John Griffin",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "1509":{
-                "district":"6",
-                "name":"Carlisle, John Griffin",
-                "party":"Democrat"
-            },
-            "2563":{
-                "district":"6",
-                "name":"Dickerson, William Worth",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ky"
 },
   "bbox": [
     -85.45698,

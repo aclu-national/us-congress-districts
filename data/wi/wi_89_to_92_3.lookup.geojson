@@ -1,42 +1,13 @@
 {
-  "id": "wi_89_to_92_03",
+  "id": "wi_89_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"055089092003",
-    "member":{
-        "89":{
-            "10564":{
-                "district":"3",
-                "name":"Thomson, Vernon W.",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "10564":{
-                "district":"3",
-                "name":"Thomson, Vernon W.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10564":{
-                "district":"3",
-                "name":"Thomson, Vernon W.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10564":{
-                "district":"3",
-                "name":"Thomson, Vernon W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Wisconsin"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"wi"
 },
   "bbox": [
     -92.808,

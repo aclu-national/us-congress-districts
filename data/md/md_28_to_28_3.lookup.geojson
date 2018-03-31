@@ -1,21 +1,13 @@
 {
-  "id": "md_28_to_28_03",
+  "id": "md_28_to_28_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"28",
-    "id":"024028028003",
-    "member":{
-        "28":{
-            "9969":{
-                "district":"3",
-                "name":"Wethered, John",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"1845-03-03",
+    "end_session":28,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"md"
 },
   "bbox": [
     -77.31151,

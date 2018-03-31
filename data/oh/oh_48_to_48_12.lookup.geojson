@@ -2,20 +2,12 @@
   "id": "oh_48_to_48_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"48",
-    "id":"039048048012",
-    "member":{
-        "48":{
-            "4140":{
-                "district":"12",
-                "name":"Hart, Alphonso",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"oh"
 },
   "bbox": [
     -84.05274,

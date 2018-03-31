@@ -1,77 +1,13 @@
 {
-  "id": "mo_74_to_82_09",
+  "id": "mo_74_to_82_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"82",
-    "id":"029074082009",
-    "member":{
-        "74":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Missouri"
+    "district":9,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mo"
 },
   "bbox": [
     -92.31443,

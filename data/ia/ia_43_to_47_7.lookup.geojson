@@ -1,49 +1,13 @@
 {
-  "id": "ia_43_to_47_07",
+  "id": "ia_43_to_47_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"47",
-    "id":"019043047007",
-    "member":{
-        "43":{
-            "5100":{
-                "district":"7",
-                "name":"Kasson, John Adam",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "5100":{
-                "district":"7",
-                "name":"Kasson, John Adam",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "2250":{
-                "district":"7",
-                "name":"Cummings, Henry Johnson B",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "3601":{
-                "district":"7",
-                "name":"Gillette, Edward Hooker",
-                "party":"National Greenbacker"
-            }
-        },
-        "47":{
-            "5100":{
-                "district":"7",
-                "name":"Kasson, John Adam",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Iowa"
+    "district":7,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ia"
 },
   "bbox": [
     -94.74482,

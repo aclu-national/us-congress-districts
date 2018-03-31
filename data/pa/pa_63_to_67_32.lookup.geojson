@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"67",
-    "id":"042063067032",
-    "member":{
-        "63":{
-            "426":{
-                "district":"32",
-                "name":"Barchfeld, Andrew Jackson",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "426":{
-                "district":"32",
-                "name":"Barchfeld, Andrew Jackson",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "91449":{
-                "district":"32",
-                "name":"Campbell, Guy Edgar",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "91449":{
-                "district":"32",
-                "name":"Campbell, Guy Edgar",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "91449":{
-                "district":"32",
-                "name":"Campbell, Guy Edgar",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":32,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -80.36087,

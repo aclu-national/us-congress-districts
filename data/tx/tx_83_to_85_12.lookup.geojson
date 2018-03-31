@@ -2,34 +2,12 @@
   "id": "tx_83_to_85_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"85",
-    "id":"048083085012",
-    "member":{
-        "83":{
-            "5826":{
-                "district":"12",
-                "name":"Lucas, Wingate Hezekiah",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "10391":{
-                "district":"12",
-                "name":"Wright, James Claud, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "10391":{
-                "district":"12",
-                "name":"Wright, James Claud, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Texas"
+    "district":12,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tx"
 },
   "bbox": [
     -98.06854,

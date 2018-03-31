@@ -2,48 +2,12 @@
   "id": "pa_73_to_77_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"77",
-    "id":"042073077019",
-    "member":{
-        "73":{
-            "2695":{
-                "district":"19",
-                "name":"Doutrich, Isaac Hoffer",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "2695":{
-                "district":"19",
-                "name":"Doutrich, Isaac Hoffer",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "9134":{
-                "district":"19",
-                "name":"Swope, Guy Jacob",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "5377":{
-                "district":"19",
-                "name":"Kunkel, John Crain",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "5377":{
-                "district":"19",
-                "name":"Kunkel, John Crain",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"pa"
 },
   "bbox": [
     -77.62724,

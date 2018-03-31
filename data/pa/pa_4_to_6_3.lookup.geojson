@@ -1,35 +1,13 @@
 {
-  "id": "pa_4_to_6_03",
+  "id": "pa_4_to_6_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"6",
-    "id":"042004006003",
-    "member":{
-        "4":{
-            "9308":{
-                "district":"3",
-                "name":"Thomas, Richard",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "9308":{
-                "district":"3",
-                "name":"Thomas, Richard",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "9308":{
-                "district":"3",
-                "name":"Thomas, Richard",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"pa"
 },
   "bbox": [
     -76.13638,

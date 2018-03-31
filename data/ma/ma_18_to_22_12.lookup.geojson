@@ -2,48 +2,12 @@
   "id": "ma_18_to_22_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"22",
-    "id":"025018022012",
-    "member":{
-        "18":{
-            "530":{
-                "district":"12",
-                "name":"Baylies, Francis",
-                "party":"Jackson Federalist"
-            }
-        },
-        "19":{
-            "530":{
-                "district":"12",
-                "name":"Baylies, Francis",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "4480":{
-                "district":"12",
-                "name":"Hodges, James Leonard",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "4480":{
-                "district":"12",
-                "name":"Hodges, James Leonard",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "4480":{
-                "district":"12",
-                "name":"Hodges, James Leonard",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ma"
 },
   "bbox": [
     -71.395,

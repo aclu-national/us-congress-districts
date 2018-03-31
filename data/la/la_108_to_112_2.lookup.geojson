@@ -1,49 +1,13 @@
 {
-  "id": "la_108_to_112_02",
+  "id": "la_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"022108112002",
-    "member":{
-        "108":{
-            "29120":{
-                "district":"2",
-                "name":"Jefferson, William J.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29120":{
-                "district":"2",
-                "name":"Jefferson, William J.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29120":{
-                "district":"2",
-                "name":"Jefferson, William J.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20917":{
-                "district":"2",
-                "name":"Cao, Anh",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21137":{
-                "district":"2",
-                "name":"Richmond, Cedric",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Louisiana"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"la"
 },
   "bbox": [
     -90.28028,

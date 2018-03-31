@@ -2,41 +2,12 @@
   "id": "mi_89_to_92_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"92",
-    "id":"026089092014",
-    "member":{
-        "89":{
-            "10540":{
-                "district":"14",
-                "name":"Nedzi, Lucien N.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10540":{
-                "district":"14",
-                "name":"Nedzi, Lucien N.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "10540":{
-                "district":"14",
-                "name":"Nedzi, Lucien N.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10540":{
-                "district":"14",
-                "name":"Nedzi, Lucien N.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Michigan"
+    "district":14,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"mi"
 },
   "bbox": [
     -83.08171,

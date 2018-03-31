@@ -1,49 +1,13 @@
 {
-  "id": "tn_23_to_27_03",
+  "id": "tn_23_to_27_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"27",
-    "id":"047023027003",
-    "member":{
-        "23":{
-            "5532":{
-                "district":"3",
-                "name":"Lea, Luke",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "5532":{
-                "district":"3",
-                "name":"Lea, Luke",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "10168":{
-                "district":"3",
-                "name":"Williams, Joseph Lanier",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "10168":{
-                "district":"3",
-                "name":"Williams, Joseph Lanier",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "10168":{
-                "district":"3",
-                "name":"Williams, Joseph Lanier",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"tn"
 },
   "bbox": [
     -84.5476,

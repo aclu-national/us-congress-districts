@@ -2,53 +2,12 @@
   "id": "mi_83_to_87_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"87",
-    "id":"026083087014",
-    "member":{
-        "83":{
-            "7682":{
-                "district":"14",
-                "name":"Rabaut, Louis Charles",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "7682":{
-                "district":"14",
-                "name":"Rabaut, Louis Charles",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "7682":{
-                "district":"14",
-                "name":"Rabaut, Louis Charles",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "7682":{
-                "district":"14",
-                "name":"Rabaut, Louis Charles",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10554":{
-                "district":"14",
-                "name":"Ryan, Harold M.",
-                "party":"Democrat"
-            },
-            "7682":{
-                "district":"14",
-                "name":"Rabaut, Louis Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Michigan"
+    "district":14,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mi"
 },
   "bbox": [
     -83.02597,

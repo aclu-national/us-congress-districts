@@ -2,32 +2,12 @@
   "id": "va_28_to_29_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"29",
-    "id":"051028029011",
-    "member":{
-        "28":{
-            "9235":{
-                "district":"11",
-                "name":"Taylor, William",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "6225":{
-                "district":"11",
-                "name":"McDowell, James",
-                "party":"Democrat"
-            },
-            "9235":{
-                "district":"11",
-                "name":"Taylor, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Virginia"
+    "district":11,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"va"
 },
   "bbox": [
     -79.69962,

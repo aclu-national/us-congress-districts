@@ -1,49 +1,13 @@
 {
-  "id": "az_98_to_102_01",
+  "id": "az_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"004098102001",
-    "member":{
-        "100":{
-            "15440":{
-                "district":"1",
-                "name":"Rhodes, John J",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15440":{
-                "district":"1",
-                "name":"Rhodes, John J",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15440":{
-                "district":"1",
-                "name":"Rhodes, John J",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "15039":{
-                "district":"1",
-                "name":"McCain, John S",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15039":{
-                "district":"1",
-                "name":"McCain, John S",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Arizona"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"az"
 },
   "bbox": [
     -112.0826,

@@ -2,27 +2,12 @@
   "id": "tx_64_to_65_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"65",
-    "id":"048064065012",
-    "member":{
-        "64":{
-            "1427":{
-                "district":"12",
-                "name":"Callaway, Oscar",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "10233":{
-                "district":"12",
-                "name":"Wilson, James Clifton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Texas"
+    "district":12,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"tx"
 },
   "bbox": [
     -98.9244,

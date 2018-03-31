@@ -1,84 +1,13 @@
 {
-  "id": "nc_78_to_87_09",
+  "id": "nc_78_to_87_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"87",
-    "id":"037078087009",
-    "member":{
-        "78":{
-            "2684":{
-                "district":"9",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "2684":{
-                "district":"9",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "2684":{
-                "district":"9",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "2684":{
-                "district":"9",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2684":{
-                "district":"9",
-                "name":"Doughton, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "82":{
-                "district":"9",
-                "name":"Alexander, Hugh Quincy",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "82":{
-                "district":"9",
-                "name":"Alexander, Hugh Quincy",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "82":{
-                "district":"9",
-                "name":"Alexander, Hugh Quincy",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "82":{
-                "district":"9",
-                "name":"Alexander, Hugh Quincy",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "82":{
-                "district":"9",
-                "name":"Alexander, Hugh Quincy",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"North Carolina"
+    "district":9,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"nc"
 },
   "bbox": [
     -81.91817,

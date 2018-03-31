@@ -1,35 +1,13 @@
 {
-  "id": "sc_15_to_17_08",
+  "id": "sc_15_to_17_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"17",
-    "id":"045015017008",
-    "member":{
-        "15":{
-            "6879":{
-                "district":"8",
-                "name":"Nesbitt, Wilson",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "6195":{
-                "district":"8",
-                "name":"McCreary, John",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "3620":{
-                "district":"8",
-                "name":"Gist, Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"South Carolina"
+    "district":8,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"sc"
 },
   "bbox": [
     -82.22647,

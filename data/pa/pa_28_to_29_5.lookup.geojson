@@ -1,28 +1,13 @@
 {
-  "id": "pa_28_to_29_05",
+  "id": "pa_28_to_29_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"29",
-    "id":"042028029005",
-    "member":{
-        "28":{
-            "10433":{
-                "district":"5",
-                "name":"Yost, Jacob Senewell",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "10433":{
-                "district":"5",
-                "name":"Yost, Jacob Senewell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -75.69679,

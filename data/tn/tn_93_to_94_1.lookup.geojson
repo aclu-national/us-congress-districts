@@ -1,28 +1,13 @@
 {
-  "id": "tn_93_to_94_01",
+  "id": "tn_93_to_94_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"94",
-    "id":"047093094001",
-    "member":{
-        "93":{
-            "10616":{
-                "district":"1",
-                "name":"Quillen, James H.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "10616":{
-                "district":"1",
-                "name":"Quillen, James H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1976-10-01",
+    "end_session":94,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tn"
 },
   "bbox": [
     -83.79431,

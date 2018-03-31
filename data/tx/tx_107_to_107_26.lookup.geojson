@@ -2,20 +2,12 @@
   "id": "tx_107_to_107_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"107",
-    "id":"048107107026",
-    "member":{
-        "107":{
-            "15125":{
-                "district":"26",
-                "name":"Armey, Richard K.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"107",
-    "statename":"Texas"
+    "district":26,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"2001-01-03",
+    "start_session":107,
+    "state":"tx"
 },
   "bbox": [
     -97.3985,

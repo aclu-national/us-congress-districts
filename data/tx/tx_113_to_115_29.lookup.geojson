@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_29",
   "type": "Feature",
   "properties": {
-    "ALAND":484452903,
-    "AWATER":10450235,
-    "CD113FP":"29",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4829",
-    "INTPTLAT":"+29.6881608",
-    "INTPTLON":"-095.1998072",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 29",
-    "STATEFP":"48"
+    "district":29,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -95.41718,

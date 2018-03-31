@@ -1,35 +1,13 @@
 {
-  "id": "ny_3_to_5_03",
+  "id": "ny_3_to_5_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"5",
-    "id":"036003005003",
-    "member":{
-        "3":{
-            "9602":{
-                "district":"3",
-                "name":"Van Cortlandt, Philip",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "9602":{
-                "district":"3",
-                "name":"Van Cortlandt, Philip",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "9602":{
-                "district":"3",
-                "name":"Van Cortlandt, Philip",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1799-03-03",
+    "end_session":5,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

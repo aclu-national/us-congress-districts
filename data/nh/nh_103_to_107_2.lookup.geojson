@@ -1,49 +1,13 @@
 {
-  "id": "nh_103_to_107_02",
+  "id": "nh_103_to_107_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"107",
-    "id":"033103107002",
-    "member":{
-        "103":{
-            "29131":{
-                "district":"2",
-                "name":"Swett, Dick",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29538":{
-                "district":"2",
-                "name":"Bass, Charles F.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29538":{
-                "district":"2",
-                "name":"Bass, Charles F.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29538":{
-                "district":"2",
-                "name":"Bass, Charles F.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29538":{
-                "district":"2",
-                "name":"Bass, Charles F.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New Hampshire"
+    "district":2,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nh"
 },
   "bbox": [
     -72.55725,

@@ -1,35 +1,13 @@
 {
-  "id": "in_75_to_77_07",
+  "id": "in_75_to_77_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"77",
-    "id":"018075077007",
-    "member":{
-        "75":{
-            "3801":{
-                "district":"7",
-                "name":"Greenwood, Arthur Herbert",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "5434":{
-                "district":"7",
-                "name":"Landis, Gerald Wayne",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "5434":{
-                "district":"7",
-                "name":"Landis, Gerald Wayne",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"75",
-    "statename":"Indiana"
+    "district":7,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1937-01-05",
+    "start_session":75,
+    "state":"in"
 },
   "bbox": [
     -87.98816,

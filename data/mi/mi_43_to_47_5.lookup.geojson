@@ -1,54 +1,13 @@
 {
-  "id": "mi_43_to_47_05",
+  "id": "mi_43_to_47_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"47",
-    "id":"026043047005",
-    "member":{
-        "43":{
-            "10189":{
-                "district":"5",
-                "name":"Williams, William Brewster",
-                "party":"Republican"
-            },
-            "3317":{
-                "district":"5",
-                "name":"Foster, Wilder De Ayr",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "10189":{
-                "district":"5",
-                "name":"Williams, William Brewster",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "8981":{
-                "district":"5",
-                "name":"Stone, John Wesley",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "8981":{
-                "district":"5",
-                "name":"Stone, John Wesley",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "9901":{
-                "district":"5",
-                "name":"Webber, George Washington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Michigan"
+    "district":5,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"mi"
 },
   "bbox": [
     -86.46168,

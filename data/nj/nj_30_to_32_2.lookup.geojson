@@ -1,35 +1,13 @@
 {
-  "id": "nj_30_to_32_02",
+  "id": "nj_30_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"034030032002",
-    "member":{
-        "30":{
-            "6894":{
-                "district":"2",
-                "name":"Newell, William Augustus",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "6894":{
-                "district":"2",
-                "name":"Newell, William Augustus",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "8557":{
-                "district":"2",
-                "name":"Skelton, Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"New Jersey"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"nj"
 },
   "bbox": [
     -75.05452,

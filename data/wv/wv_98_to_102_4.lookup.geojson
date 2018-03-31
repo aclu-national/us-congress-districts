@@ -1,49 +1,13 @@
 {
-  "id": "wv_98_to_102_04",
+  "id": "wv_98_to_102_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"102",
-    "id":"054098102004",
-    "member":{
-        "100":{
-            "14448":{
-                "district":"4",
-                "name":"Rahall, Nick Joe",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14448":{
-                "district":"4",
-                "name":"Rahall, Nick Joe",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14448":{
-                "district":"4",
-                "name":"Rahall, Nick Joe",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14448":{
-                "district":"4",
-                "name":"Rahall, Nick Joe",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14448":{
-                "district":"4",
-                "name":"Rahall, Nick Joe",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"West Virginia"
+    "district":4,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"wv"
 },
   "bbox": [
     -82.64339,

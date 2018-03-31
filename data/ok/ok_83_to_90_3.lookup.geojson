@@ -1,70 +1,13 @@
 {
-  "id": "ok_83_to_90_03",
+  "id": "ok_83_to_90_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"90",
-    "id":"040083090003",
-    "member":{
-        "83":{
-            "62":{
-                "district":"3",
-                "name":"Albert, Carl",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "62":{
-                "district":"3",
-                "name":"Albert, Carl",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "62":{
-                "district":"3",
-                "name":"Albert, Carl",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "62":{
-                "district":"3",
-                "name":"Albert, Carl",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "62":{
-                "district":"3",
-                "name":"Albert, Carl",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "62":{
-                "district":"3",
-                "name":"Albert, Carl",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "62":{
-                "district":"3",
-                "name":"Albert, Carl",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "62":{
-                "district":"3",
-                "name":"Albert, Carl",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Oklahoma"
+    "district":3,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ok"
 },
   "bbox": [
     -97.56274,

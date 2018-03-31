@@ -2,20 +2,12 @@
   "id": "ca_98_to_98_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"98",
-    "id":"006098098014",
-    "member":{
-        "98":{
-            "14660":{
-                "district":"14",
-                "name":"Shumway, Norman David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"California"
+    "district":14,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ca"
 },
   "bbox": [
     -123.71917,

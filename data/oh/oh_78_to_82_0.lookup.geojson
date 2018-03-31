@@ -1,49 +1,13 @@
 {
-  "id": "oh_78_to_82_00",
+  "id": "oh_78_to_82_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"82",
-    "id":"039078082000",
-    "member":{
-        "78":{
-            "621":{
-                "district":"99",
-                "name":"Bender, George Harrison",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "621":{
-                "district":"99",
-                "name":"Bender, George Harrison",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "621":{
-                "district":"99",
-                "name":"Bender, George Harrison",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "10454":{
-                "district":"99",
-                "name":"Young, Stephen Marvin",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "621":{
-                "district":"99",
-                "name":"Bender, George Harrison",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Ohio"
+    "district":0,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

@@ -2,41 +2,12 @@
   "id": "ca_99_to_102_44",
   "type": "Feature",
   "properties": {
-    "district":"44",
-    "endcong":"102",
-    "id":"006099102044",
-    "member":{
-        "100":{
-            "15004":{
-                "district":"44",
-                "name":"Bates, Jim",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15004":{
-                "district":"44",
-                "name":"Bates, Jim",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "29107":{
-                "district":"44",
-                "name":"Cunningham, Randy \"Duke\"",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15004":{
-                "district":"44",
-                "name":"Bates, Jim",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":44,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -117.23944,

@@ -1,49 +1,13 @@
 {
-  "id": "il_23_to_27_02",
+  "id": "il_23_to_27_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"27",
-    "id":"017023027002",
-    "member":{
-        "23":{
-            "1579":{
-                "district":"2",
-                "name":"Casey, Zadoc",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "1579":{
-                "district":"2",
-                "name":"Casey, Zadoc",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "1579":{
-                "district":"2",
-                "name":"Casey, Zadoc",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "1579":{
-                "district":"2",
-                "name":"Casey, Zadoc",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "1579":{
-                "district":"2",
-                "name":"Casey, Zadoc",
-                "party":"Ind. Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Illinois"
+    "district":2,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"il"
 },
   "bbox": [
     -89.70369,

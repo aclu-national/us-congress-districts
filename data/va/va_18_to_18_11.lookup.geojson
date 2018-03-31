@@ -2,20 +2,12 @@
   "id": "va_18_to_18_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"18",
-    "id":"051018018011",
-    "member":{
-        "18":{
-            "424":{
-                "district":"11",
-                "name":"Barbour, Philip Pendleton",
-                "party":"Crawford Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Virginia"
+    "district":11,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"va"
 },
   "bbox": [
     -78.66317,

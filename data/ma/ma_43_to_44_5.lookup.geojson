@@ -1,28 +1,13 @@
 {
-  "id": "ma_43_to_44_05",
+  "id": "ma_43_to_44_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"44",
-    "id":"025043044005",
-    "member":{
-        "43":{
-            "3663":{
-                "district":"5",
-                "name":"Gooch, Daniel Wheelwright",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "409":{
-                "district":"5",
-                "name":"Banks, Nathaniel Prentice",
-                "party":"Independent"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ma"
 },
   "bbox": [
     -71.28595,

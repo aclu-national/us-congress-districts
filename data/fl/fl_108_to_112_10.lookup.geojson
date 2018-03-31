@@ -2,48 +2,12 @@
   "id": "fl_108_to_112_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"112",
-    "id":"012108112010",
-    "member":{
-        "108":{
-            "13047":{
-                "district":"10",
-                "name":"Young, Bill C.w.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "13047":{
-                "district":"10",
-                "name":"Young, Bill C.w.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "13047":{
-                "district":"10",
-                "name":"Young, Bill C.w.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "13047":{
-                "district":"10",
-                "name":"Young, Bill C. W.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "13047":{
-                "district":"10",
-                "name":"Young, C. W. Bill",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Florida"
+    "district":10,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"fl"
 },
   "bbox": [
     -82.85113,

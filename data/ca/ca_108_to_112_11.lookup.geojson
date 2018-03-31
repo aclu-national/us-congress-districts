@@ -2,48 +2,12 @@
   "id": "ca_108_to_112_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"112",
-    "id":"006108112011",
-    "member":{
-        "108":{
-            "29311":{
-                "district":"11",
-                "name":"Pombo, Richard W.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29311":{
-                "district":"11",
-                "name":"Pombo, Richard W.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20702":{
-                "district":"11",
-                "name":"McNerney, Jerry",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20702":{
-                "district":"11",
-                "name":"McNerney, Jerry",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20702":{
-                "district":"11",
-                "name":"McNerney, Jerry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":11,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -122.0393,

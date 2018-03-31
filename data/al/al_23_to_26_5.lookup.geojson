@@ -1,42 +1,13 @@
 {
-  "id": "al_23_to_26_05",
+  "id": "al_23_to_26_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"26",
-    "id":"001023026005",
-    "member":{
-        "23":{
-            "6812":{
-                "district":"5",
-                "name":"Murphy, John",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "5864":{
-                "district":"5",
-                "name":"Lyon, Francis Stother",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "5864":{
-                "district":"5",
-                "name":"Lyon, Francis Stother",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "2485":{
-                "district":"5",
-                "name":"Dellet, James",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Alabama"
+    "district":5,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

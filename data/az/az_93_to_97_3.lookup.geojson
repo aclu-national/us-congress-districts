@@ -1,49 +1,13 @@
 {
-  "id": "az_93_to_97_03",
+  "id": "az_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"004093097003",
-    "member":{
-        "93":{
-            "11050":{
-                "district":"3",
-                "name":"Steiger, Sam",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "11050":{
-                "district":"3",
-                "name":"Steiger, Sam",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "94454":{
-                "district":"3",
-                "name":"Stump, Bob",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "94454":{
-                "district":"3",
-                "name":"Stump, Bob",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "94454":{
-                "district":"3",
-                "name":"Stump, Bob",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Arizona"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"az"
 },
   "bbox": [
     -114.81659,

@@ -2,83 +2,12 @@
   "id": "mi_73_to_82_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"82",
-    "id":"026073082015",
-    "member":{
-        "73":{
-            "2604":{
-                "district":"15",
-                "name":"Dingell, John David",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "2604":{
-                "district":"15",
-                "name":"Dingell, John David",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2604":{
-                "district":"15",
-                "name":"Dingell, John David",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2604":{
-                "district":"15",
-                "name":"Dingell, John David",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2604":{
-                "district":"15",
-                "name":"Dingell, John David",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "2604":{
-                "district":"15",
-                "name":"Dingell, John David",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "2604":{
-                "district":"15",
-                "name":"Dingell, John David",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "2604":{
-                "district":"15",
-                "name":"Dingell, John David",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "2604":{
-                "district":"15",
-                "name":"Dingell, John David",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2604":{
-                "district":"15",
-                "name":"Dingell, John David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Michigan"
+    "district":15,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mi"
 },
   "bbox": [
     -83.17125,

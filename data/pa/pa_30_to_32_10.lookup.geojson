@@ -2,34 +2,12 @@
   "id": "pa_30_to_32_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"32",
-    "id":"042030032010",
-    "member":{
-        "30":{
-            "1061":{
-                "district":"10",
-                "name":"Brodhead, Richard",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "2600":{
-                "district":"10",
-                "name":"Dimmick, Milo Melankthon",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "2600":{
-                "district":"10",
-                "name":"Dimmick, Milo Melankthon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -75.99735,

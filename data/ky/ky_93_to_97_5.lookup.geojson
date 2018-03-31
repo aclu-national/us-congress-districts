@@ -1,49 +1,13 @@
 {
-  "id": "ky_93_to_97_05",
+  "id": "ky_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"021093097005",
-    "member":{
-        "93":{
-            "10710":{
-                "district":"5",
-                "name":"Carter, Tim L.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "10710":{
-                "district":"5",
-                "name":"Carter, Tim L.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "10710":{
-                "district":"5",
-                "name":"Carter, Tim L.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "10710":{
-                "district":"5",
-                "name":"Carter, Tim L.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14854":{
-                "district":"5",
-                "name":"Rogers, Harold",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Kentucky"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ky"
 },
   "bbox": [
     -85.97741,

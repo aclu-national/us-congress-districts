@@ -1,21 +1,13 @@
 {
-  "id": "ca_93_to_93_09",
+  "id": "ca_93_to_93_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"93",
-    "id":"006093093009",
-    "member":{
-        "93":{
-            "10583":{
-                "district":"9",
-                "name":"Edwards, Don",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"California"
+    "district":9,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ca"
 },
   "bbox": [
     -122.16118,

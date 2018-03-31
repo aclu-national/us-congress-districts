@@ -2,48 +2,12 @@
   "id": "ma_23_to_27_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"27",
-    "id":"025023027012",
-    "member":{
-        "23":{
-            "34":{
-                "district":"12",
-                "name":"Adams, John Quincy",
-                "party":"Anti Masonic"
-            }
-        },
-        "24":{
-            "34":{
-                "district":"12",
-                "name":"Adams, John Quincy",
-                "party":"Anti Masonic"
-            }
-        },
-        "25":{
-            "34":{
-                "district":"12",
-                "name":"Adams, John Quincy",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "34":{
-                "district":"12",
-                "name":"Adams, John Quincy",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "34":{
-                "district":"12",
-                "name":"Adams, John Quincy",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ma"
 },
   "bbox": [
     -71.1521,

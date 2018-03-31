@@ -1,49 +1,13 @@
 {
-  "id": "mn_48_to_52_04",
+  "id": "mn_48_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"027048052004",
-    "member":{
-        "48":{
-            "9853":{
-                "district":"4",
-                "name":"Washburn, William Drew",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "3585":{
-                "district":"4",
-                "name":"Gilfillan, John Bachop",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "7852":{
-                "district":"4",
-                "name":"Rice, Edmund",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "8722":{
-                "district":"4",
-                "name":"Snider, Samuel Prather",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "1591":{
-                "district":"4",
-                "name":"Castle, James Nathan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Minnesota"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mn"
 },
   "bbox": [
     -94.26153,

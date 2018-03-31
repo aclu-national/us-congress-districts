@@ -1,28 +1,13 @@
 {
-  "id": "ma_53_to_54_03",
+  "id": "ma_53_to_54_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"54",
-    "id":"025053054003",
-    "member":{
-        "53":{
-            "9750":{
-                "district":"3",
-                "name":"Walker, Joseph Henry",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "9750":{
-                "district":"3",
-                "name":"Walker, Joseph Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ma"
 },
   "bbox": [
     -72.13569,

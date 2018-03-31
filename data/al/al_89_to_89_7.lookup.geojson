@@ -1,21 +1,13 @@
 {
-  "id": "al_89_to_89_07",
+  "id": "al_89_to_89_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"89",
-    "id":"001089089007",
-    "member":{
-        "89":{
-            "10755":{
-                "district":"7",
-                "name":"Martin, James D.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Alabama"
+    "district":7,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"al"
 },
   "bbox": [
     -88.27462,

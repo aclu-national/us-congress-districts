@@ -1,35 +1,13 @@
 {
-  "id": "ma_70_to_72_03",
+  "id": "ma_70_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"025070072003",
-    "member":{
-        "70":{
-            "3296":{
-                "district":"3",
-                "name":"Foss, Frank Herbert",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "3296":{
-                "district":"3",
-                "name":"Foss, Frank Herbert",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "3296":{
-                "district":"3",
-                "name":"Foss, Frank Herbert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ma"
 },
   "bbox": [
     -72.50308,

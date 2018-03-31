@@ -2,34 +2,12 @@
   "id": "pa_30_to_32_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"32",
-    "id":"042030032018",
-    "member":{
-        "30":{
-            "8927":{
-                "district":"18",
-                "name":"Stewart, Andrew",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "7034":{
-                "district":"18",
-                "name":"Ogle, Andrew Jackson",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "2428":{
-                "district":"18",
-                "name":"Dawson, John Littleton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -80.51949,

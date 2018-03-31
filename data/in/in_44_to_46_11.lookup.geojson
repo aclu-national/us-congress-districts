@@ -2,34 +2,12 @@
   "id": "in_44_to_46_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"46",
-    "id":"018044046011",
-    "member":{
-        "44":{
-            "3011":{
-                "district":"11",
-                "name":"Evans, James La Fayette",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "3011":{
-                "district":"11",
-                "name":"Evans, James La Fayette",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "2105":{
-                "district":"11",
-                "name":"Cowgill, Calvin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Indiana"
+    "district":11,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"in"
 },
   "bbox": [
     -86.58174,

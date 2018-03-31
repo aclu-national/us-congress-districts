@@ -1,28 +1,13 @@
 {
-  "id": "nh_30_to_31_02",
+  "id": "nh_30_to_31_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"31",
-    "id":"033030031002",
-    "member":{
-        "30":{
-            "7291":{
-                "district":"2",
-                "name":"Peaslee, Charles Hazen",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "7291":{
-                "district":"2",
-                "name":"Peaslee, Charles Hazen",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"New Hampshire"
+    "district":2,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"nh"
 },
   "bbox": [
     -72.09003,

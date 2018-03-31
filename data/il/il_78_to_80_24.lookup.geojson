@@ -2,39 +2,12 @@
   "id": "il_78_to_80_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"80",
-    "id":"017078080024",
-    "member":{
-        "78":{
-            "4282":{
-                "district":"24",
-                "name":"Heidinger, James Vandaveer",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "1851":{
-                "district":"24",
-                "name":"Clippinger, Roy",
-                "party":"Republican"
-            },
-            "4282":{
-                "district":"24",
-                "name":"Heidinger, James Vandaveer",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "1851":{
-                "district":"24",
-                "name":"Clippinger, Roy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Illinois"
+    "district":24,
+    "end_date":"1948-12-31",
+    "end_session":80,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"il"
 },
   "bbox": [
     -89.04504,

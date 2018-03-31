@@ -1,21 +1,13 @@
 {
-  "id": "in_90_to_90_04",
+  "id": "in_90_to_90_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"90",
-    "id":"018090090004",
-    "member":{
-        "90":{
-            "18":{
-                "district":"4",
-                "name":"Adair, Edwin Ross",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Indiana"
+    "district":4,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"in"
 },
   "bbox": [
     -86.06266,

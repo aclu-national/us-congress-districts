@@ -1,80 +1,13 @@
 {
-  "id": "va_53_to_60_02",
+  "id": "va_53_to_60_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"60",
-    "id":"051053060002",
-    "member":{
-        "53":{
-            "9540":{
-                "district":"2",
-                "name":"Tyler, David Gardiner",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9540":{
-                "district":"2",
-                "name":"Tyler, David Gardiner",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "10290":{
-                "district":"2",
-                "name":"Wise, Richard Alsop",
-                "party":"Republican"
-            },
-            "10457":{
-                "district":"2",
-                "name":"Young, William Albin",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "10290":{
-                "district":"2",
-                "name":"Wise, Richard Alsop",
-                "party":"Republican"
-            },
-            "10457":{
-                "district":"2",
-                "name":"Young, William Albin",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "6111":{
-                "district":"2",
-                "name":"Maynard, Harry Lee",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "6111":{
-                "district":"2",
-                "name":"Maynard, Harry Lee",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "6111":{
-                "district":"2",
-                "name":"Maynard, Harry Lee",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "6111":{
-                "district":"2",
-                "name":"Maynard, Harry Lee",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Virginia"
+    "district":2,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"va"
 },
   "bbox": [
     -77.50192,

@@ -1,28 +1,13 @@
 {
-  "id": "ms_43_to_44_02",
+  "id": "ms_43_to_44_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"44",
-    "id":"028043044002",
-    "member":{
-        "43":{
-            "4637":{
-                "district":"2",
-                "name":"Howe, Albert Richards",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "9943":{
-                "district":"2",
-                "name":"Wells, Guilford Wiley",
-                "party":"Ind. Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Mississippi"
+    "district":2,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ms"
 },
   "bbox": [
     -91.2326,

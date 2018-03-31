@@ -1,70 +1,13 @@
 {
-  "id": "va_53_to_60_08",
+  "id": "va_53_to_60_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"60",
-    "id":"051053060008",
-    "member":{
-        "53":{
-            "6420":{
-                "district":"8",
-                "name":"Meredith, Elisha Edward",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "6420":{
-                "district":"8",
-                "name":"Meredith, Elisha Edward",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "7931":{
-                "district":"8",
-                "name":"Rixey, John Franklin",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "7931":{
-                "district":"8",
-                "name":"Rixey, John Franklin",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "7931":{
-                "district":"8",
-                "name":"Rixey, John Franklin",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "7931":{
-                "district":"8",
-                "name":"Rixey, John Franklin",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "7931":{
-                "district":"8",
-                "name":"Rixey, John Franklin",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "1508":{
-                "district":"8",
-                "name":"Carlin, Charles Creighton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"va"
 },
   "bbox": [
     -78.36979,

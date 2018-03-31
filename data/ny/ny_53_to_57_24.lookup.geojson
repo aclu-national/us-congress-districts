@@ -2,53 +2,12 @@
   "id": "ny_53_to_57_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"57",
-    "id":"036053057024",
-    "member":{
-        "53":{
-            "1689":{
-                "district":"24",
-                "name":"Chickering, Charles Addison",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "1689":{
-                "district":"24",
-                "name":"Chickering, Charles Addison",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "1689":{
-                "district":"24",
-                "name":"Chickering, Charles Addison",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "1689":{
-                "district":"24",
-                "name":"Chickering, Charles Addison",
-                "party":"Republican"
-            },
-            "8414":{
-                "district":"24",
-                "name":"Shaw, Albert Duane",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "5331":{
-                "district":"24",
-                "name":"Knapp, Charles Luman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"New York"
+    "district":24,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

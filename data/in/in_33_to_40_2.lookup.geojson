@@ -1,70 +1,13 @@
 {
-  "id": "in_33_to_40_02",
+  "id": "in_33_to_40_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"40",
-    "id":"018033040002",
-    "member":{
-        "33":{
-            "2972":{
-                "district":"2",
-                "name":"English, William Hayden",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "2972":{
-                "district":"2",
-                "name":"English, William Hayden",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "2972":{
-                "district":"2",
-                "name":"English, William Hayden",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "2972":{
-                "district":"2",
-                "name":"English, William Hayden",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "2153":{
-                "district":"2",
-                "name":"Cravens, James Addison",
-                "party":"Democrat"
-            }
-        },
-        "38":{
-            "2153":{
-                "district":"2",
-                "name":"Cravens, James Addison",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "5212":{
-                "district":"2",
-                "name":"Kerr, Michael Crawford",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "5212":{
-                "district":"2",
-                "name":"Kerr, Michael Crawford",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Indiana"
+    "district":2,
+    "end_date":"1869-03-03",
+    "end_session":40,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"in"
 },
   "bbox": [
     -86.8139,

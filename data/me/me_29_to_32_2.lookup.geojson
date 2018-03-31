@@ -1,42 +1,13 @@
 {
-  "id": "me_29_to_32_02",
+  "id": "me_29_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"023029032002",
-    "member":{
-        "29":{
-            "2768":{
-                "district":"2",
-                "name":"Dunlap, Robert Pinckney",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "1745":{
-                "district":"2",
-                "name":"Clapp, Asa William Henry",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "5706":{
-                "district":"2",
-                "name":"Littlefield, Nathaniel Sw",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "218":{
-                "district":"2",
-                "name":"Appleton, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"Maine"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"me"
 },
   "bbox": [
     -70.82174,

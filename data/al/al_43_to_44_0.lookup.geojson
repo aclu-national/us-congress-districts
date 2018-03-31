@@ -1,38 +1,13 @@
 {
-  "id": "al_43_to_44_00",
+  "id": "al_43_to_44_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"44",
-    "id":"001043044000",
-    "member":{
-        "43":{
-            "10007":{
-                "district":"99",
-                "name":"White, Alexander",
-                "party":"Republican"
-            },
-            "8425":{
-                "district":"99",
-                "name":"Sheats, Charles Christopher",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "3283":{
-                "district":"99",
-                "name":"Forney, William Henry",
-                "party":"Democrat"
-            },
-            "5631":{
-                "district":"99",
-                "name":"Lewis, Burwell Boykin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Alabama"
+    "district":0,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

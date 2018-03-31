@@ -1,42 +1,13 @@
 {
-  "id": "al_45_to_48_02",
+  "id": "al_45_to_48_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"48",
-    "id":"001045048002",
-    "member":{
-        "45":{
-            "4349":{
-                "district":"2",
-                "name":"Herbert, Hilary Abner",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "4349":{
-                "district":"2",
-                "name":"Herbert, Hilary Abner",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "4349":{
-                "district":"2",
-                "name":"Herbert, Hilary Abner",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "4349":{
-                "district":"2",
-                "name":"Herbert, Hilary Abner",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Alabama"
+    "district":2,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"al"
 },
   "bbox": [
     -88.02938,

@@ -1,21 +1,13 @@
 {
-  "id": "al_89_to_89_06",
+  "id": "al_89_to_89_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"89",
-    "id":"001089089006",
-    "member":{
-        "89":{
-            "10706":{
-                "district":"6",
-                "name":"Buchanan, John H., Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Alabama"
+    "district":6,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"al"
 },
   "bbox": [
     -87.20495,

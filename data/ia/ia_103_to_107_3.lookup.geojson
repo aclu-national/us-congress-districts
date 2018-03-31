@@ -1,49 +1,13 @@
 {
-  "id": "ia_103_to_107_03",
+  "id": "ia_103_to_107_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"107",
-    "id":"019103107003",
-    "member":{
-        "103":{
-            "15106":{
-                "district":"3",
-                "name":"Lightfoot, James R.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15106":{
-                "district":"3",
-                "name":"Lightfoot, James R.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29721":{
-                "district":"3",
-                "name":"Boswell, Leonard L.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29721":{
-                "district":"3",
-                "name":"Boswell, Leonard L.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29721":{
-                "district":"3",
-                "name":"Boswell, Leonard L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Iowa"
+    "district":3,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ia"
 },
   "bbox": [
     -95.38549,

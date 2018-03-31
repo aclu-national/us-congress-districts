@@ -1,49 +1,13 @@
 {
-  "id": "nc_8_to_12_08",
+  "id": "nc_8_to_12_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"12",
-    "id":"037008012008",
-    "member":{
-        "10":{
-            "8837":{
-                "district":"8",
-                "name":"Stanford, Richard",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "8837":{
-                "district":"8",
-                "name":"Stanford, Richard",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "8837":{
-                "district":"8",
-                "name":"Stanford, Richard",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "8837":{
-                "district":"8",
-                "name":"Stanford, Richard",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "8837":{
-                "district":"8",
-                "name":"Stanford, Richard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"North Carolina"
+    "district":8,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"nc"
 },
   "bbox": [
     -79.5559,

@@ -2,27 +2,12 @@
   "id": "ma_53_to_54_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"54",
-    "id":"025053054011",
-    "member":{
-        "53":{
-            "2719":{
-                "district":"11",
-                "name":"Draper, William Franklin",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "2719":{
-                "district":"11",
-                "name":"Draper, William Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ma"
 },
   "bbox": [
     -71.57159,

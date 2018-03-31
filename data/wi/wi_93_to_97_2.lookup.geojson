@@ -1,49 +1,13 @@
 {
-  "id": "wi_93_to_97_02",
+  "id": "wi_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"055093097002",
-    "member":{
-        "93":{
-            "5101":{
-                "district":"2",
-                "name":"Kastenmeier, Robert William",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "5101":{
-                "district":"2",
-                "name":"Kastenmeier, Robert William",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "5101":{
-                "district":"2",
-                "name":"Kastenmeier, Robert William",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "5101":{
-                "district":"2",
-                "name":"Kastenmeier, Robert William",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "5101":{
-                "district":"2",
-                "name":"Kastenmeier, Robert William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Wisconsin"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"wi"
 },
   "bbox": [
     -90.43004,

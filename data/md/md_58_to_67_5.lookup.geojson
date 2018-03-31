@@ -1,84 +1,13 @@
 {
-  "id": "md_58_to_67_05",
+  "id": "md_58_to_67_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"67",
-    "id":"024058067005",
-    "member":{
-        "58":{
-            "6777":{
-                "district":"5",
-                "name":"Mudd, Sydney Emanuel",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "6777":{
-                "district":"5",
-                "name":"Mudd, Sydney Emanuel",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "6777":{
-                "district":"5",
-                "name":"Mudd, Sydney Emanuel",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "6777":{
-                "district":"5",
-                "name":"Mudd, Sydney Emanuel",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "7210":{
-                "district":"5",
-                "name":"Parran, Thomas",
-                "party":"Republican"
-            }
-        },
-        "63":{
-            "8618":{
-                "district":"5",
-                "name":"Smith, Frank Owens",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "6778":{
-                "district":"5",
-                "name":"Mudd, Sydney Emanuel, II",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "6778":{
-                "district":"5",
-                "name":"Mudd, Sydney Emanuel, II",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6778":{
-                "district":"5",
-                "name":"Mudd, Sydney Emanuel, II",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6778":{
-                "district":"5",
-                "name":"Mudd, Sydney Emanuel, II",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Maryland"
+    "district":5,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"md"
 },
   "bbox": [
     -77.27422,

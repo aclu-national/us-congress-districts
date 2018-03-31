@@ -2,27 +2,12 @@
   "id": "va_23_to_24_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"24",
-    "id":"051023024016",
-    "member":{
-        "23":{
-            "541":{
-                "district":"16",
-                "name":"Beale, James Madison Hite",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "541":{
-                "district":"16",
-                "name":"Beale, James Madison Hite",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Virginia"
+    "district":16,
+    "end_date":"1837-03-03",
+    "end_session":24,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"va"
 },
   "bbox": [
     -80.05606,

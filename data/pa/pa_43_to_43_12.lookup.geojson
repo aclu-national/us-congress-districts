@@ -2,20 +2,12 @@
   "id": "pa_43_to_43_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"43",
-    "id":"042043043012",
-    "member":{
-        "43":{
-            "8482":{
-                "district":"12",
-                "name":"Shoemaker, Lazarus Denison",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"pa"
 },
   "bbox": [
     -76.31974,

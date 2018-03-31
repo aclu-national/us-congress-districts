@@ -2,20 +2,12 @@
   "id": "ny_65_to_65_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"65",
-    "id":"036065065023",
-    "member":{
-        "65":{
-            "7058":{
-                "district":"23",
-                "name":"Oliver, Daniel Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -73.95124,

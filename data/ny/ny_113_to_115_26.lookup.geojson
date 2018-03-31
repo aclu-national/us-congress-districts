@@ -2,18 +2,12 @@
   "id": "ny_113_to_115_26",
   "type": "Feature",
   "properties": {
-    "ALAND":567556586,
-    "AWATER":35634529,
-    "CD113FP":"26",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3626",
-    "INTPTLAT":"+42.9618255",
-    "INTPTLON":"-078.8409831",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 26",
-    "STATEFP":"36"
+    "district":26,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ny"
 },
   "bbox": [
     -79.075367,

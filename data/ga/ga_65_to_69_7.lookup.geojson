@@ -1,49 +1,13 @@
 {
-  "id": "ga_65_to_69_07",
+  "id": "ga_65_to_69_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"69",
-    "id":"013065069007",
-    "member":{
-        "65":{
-            "5558":{
-                "district":"7",
-                "name":"Lee, Gordon",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "5558":{
-                "district":"7",
-                "name":"Lee, Gordon",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5558":{
-                "district":"7",
-                "name":"Lee, Gordon",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "5558":{
-                "district":"7",
-                "name":"Lee, Gordon",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "5558":{
-                "district":"7",
-                "name":"Lee, Gordon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ga"
 },
   "bbox": [
     -85.60517,

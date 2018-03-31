@@ -2,88 +2,12 @@
   "id": "mi_73_to_82_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"82",
-    "id":"026073082011",
-    "member":{
-        "73":{
-            "1131":{
-                "district":"11",
-                "name":"Brown, Prentiss Marsh",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "1131":{
-                "district":"11",
-                "name":"Brown, Prentiss Marsh",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5832":{
-                "district":"11",
-                "name":"Luecke, John Frederick",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "953":{
-                "district":"11",
-                "name":"Bradley, Frederick Van Ness",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "953":{
-                "district":"11",
-                "name":"Bradley, Frederick Van Ness",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "953":{
-                "district":"11",
-                "name":"Bradley, Frederick Van Ness",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "953":{
-                "district":"11",
-                "name":"Bradley, Frederick Van Ness",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "7551":{
-                "district":"11",
-                "name":"Potter, Charles Edward",
-                "party":"Republican"
-            },
-            "953":{
-                "district":"11",
-                "name":"Bradley, Frederick Van Ness",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7551":{
-                "district":"11",
-                "name":"Potter, Charles Edward",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "7551":{
-                "district":"11",
-                "name":"Potter, Charles Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Michigan"
+    "district":11,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mi"
 },
   "bbox": [
     -87.88824,

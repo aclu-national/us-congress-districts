@@ -1,21 +1,13 @@
 {
-  "id": "md_28_to_28_06",
+  "id": "md_28_to_28_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"28",
-    "id":"024028028006",
-    "member":{
-        "28":{
-            "8780":{
-                "district":"6",
-                "name":"Spence, Thomas Ara",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1845-03-03",
+    "end_session":28,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"md"
 },
   "bbox": [
     -76.38376,

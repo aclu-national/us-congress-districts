@@ -1,49 +1,13 @@
 {
-  "id": "nj_93_to_97_04",
+  "id": "nj_93_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"034093097004",
-    "member":{
-        "93":{
-            "9322":{
-                "district":"4",
-                "name":"Thompson, Frank, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "9322":{
-                "district":"4",
-                "name":"Thompson, Frank, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "9322":{
-                "district":"4",
-                "name":"Thompson, Frank, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "9322":{
-                "district":"4",
-                "name":"Thompson, Frank, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14863":{
-                "district":"4",
-                "name":"Smith, Christopher H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New Jersey"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nj"
 },
   "bbox": [
     -74.89811,

@@ -1,89 +1,13 @@
 {
-  "id": "ct_63_to_72_05",
+  "id": "ct_63_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"009063072005",
-    "member":{
-        "63":{
-            "5187":{
-                "district":"5",
-                "name":"Kennedy, William",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3637":{
-                "district":"5",
-                "name":"Glynn, James Peter",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "3637":{
-                "district":"5",
-                "name":"Glynn, James Peter",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "3637":{
-                "district":"5",
-                "name":"Glynn, James Peter",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3637":{
-                "district":"5",
-                "name":"Glynn, James Peter",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "7104":{
-                "district":"5",
-                "name":"O'Sullivan, Patrick",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3637":{
-                "district":"5",
-                "name":"Glynn, James Peter",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "3637":{
-                "district":"5",
-                "name":"Glynn, James Peter",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "3637":{
-                "district":"5",
-                "name":"Glynn, James Peter",
-                "party":"Republican"
-            },
-            "3716":{
-                "district":"5",
-                "name":"Goss, Edward Wheeler",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "3716":{
-                "district":"5",
-                "name":"Goss, Edward Wheeler",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Connecticut"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ct"
 },
   "bbox": [
     -73.51807,

@@ -2,76 +2,12 @@
   "id": "tx_74_to_82_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"82",
-    "id":"048074082017",
-    "member":{
-        "74":{
-            "788":{
-                "district":"17",
-                "name":"Blanton, Thomas Lindsay",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "3488":{
-                "district":"17",
-                "name":"Garrett, Clyde Leonard",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3488":{
-                "district":"17",
-                "name":"Garrett, Clyde Leonard",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8140":{
-                "district":"17",
-                "name":"Russell, Sam Morris",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "8140":{
-                "district":"17",
-                "name":"Russell, Sam Morris",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "8140":{
-                "district":"17",
-                "name":"Russell, Sam Morris",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "1282":{
-                "district":"17",
-                "name":"Burleson, Omar Truman",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "1282":{
-                "district":"17",
-                "name":"Burleson, Omar Truman",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1282":{
-                "district":"17",
-                "name":"Burleson, Omar Truman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":17,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -100.66535,

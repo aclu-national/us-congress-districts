@@ -1,49 +1,13 @@
 {
-  "id": "il_48_to_52_06",
+  "id": "il_48_to_52_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"52",
-    "id":"017048052006",
-    "member":{
-        "48":{
-            "4458":{
-                "district":"6",
-                "name":"Hitt, Robert Roberts",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "4458":{
-                "district":"6",
-                "name":"Hitt, Robert Roberts",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "4458":{
-                "district":"6",
-                "name":"Hitt, Robert Roberts",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "4458":{
-                "district":"6",
-                "name":"Hitt, Robert Roberts",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "4458":{
-                "district":"6",
-                "name":"Hitt, Robert Roberts",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":6,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -90.65653,

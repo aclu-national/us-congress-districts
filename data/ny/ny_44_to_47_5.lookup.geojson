@@ -1,42 +1,13 @@
 {
-  "id": "ny_44_to_47_05",
+  "id": "ny_44_to_47_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"47",
-    "id":"036044047005",
-    "member":{
-        "44":{
-            "6395":{
-                "district":"5",
-                "name":"Meade, Edwin Ruthven",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "6789":{
-                "district":"5",
-                "name":"Muller, Nicholas",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "6789":{
-                "district":"5",
-                "name":"Muller, Nicholas",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "10320":{
-                "district":"5",
-                "name":"Wood, Benjamin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -74.04718,

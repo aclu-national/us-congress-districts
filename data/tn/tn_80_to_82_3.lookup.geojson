@@ -1,35 +1,13 @@
 {
-  "id": "tn_80_to_82_03",
+  "id": "tn_80_to_82_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"82",
-    "id":"047080082003",
-    "member":{
-        "80":{
-            "5122":{
-                "district":"3",
-                "name":"Kefauver, Carey Estes",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "3346":{
-                "district":"3",
-                "name":"Frazier, James Beriah, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "3346":{
-                "district":"3",
-                "name":"Frazier, James Beriah, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"80",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1947-01-03",
+    "start_session":80,
+    "state":"tn"
 },
   "bbox": [
     -85.99773,

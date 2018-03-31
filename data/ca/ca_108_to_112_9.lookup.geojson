@@ -1,49 +1,13 @@
 {
-  "id": "ca_108_to_112_09",
+  "id": "ca_108_to_112_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"112",
-    "id":"006108112009",
-    "member":{
-        "108":{
-            "29778":{
-                "district":"9",
-                "name":"Lee, Barbara",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29778":{
-                "district":"9",
-                "name":"Lee, Barbara",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29778":{
-                "district":"9",
-                "name":"Lee, Barbara",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29778":{
-                "district":"9",
-                "name":"Lee, Barbara",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29778":{
-                "district":"9",
-                "name":"Lee, Barbara",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":9,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -122.33567,

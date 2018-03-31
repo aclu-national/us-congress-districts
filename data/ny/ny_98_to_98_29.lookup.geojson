@@ -2,20 +2,12 @@
   "id": "ny_98_to_98_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"98",
-    "id":"036098098029",
-    "member":{
-        "98":{
-            "10596":{
-                "district":"29",
-                "name":"Horton, Frank J.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ny"
 },
   "bbox": [
     -77.68049,

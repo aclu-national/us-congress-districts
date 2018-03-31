@@ -2,41 +2,12 @@
   "id": "ny_94_to_97_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"97",
-    "id":"036094097026",
-    "member":{
-        "94":{
-            "14015":{
-                "district":"26",
-                "name":"Gilman, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14015":{
-                "district":"26",
-                "name":"Gilman, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14015":{
-                "district":"26",
-                "name":"Gilman, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14015":{
-                "district":"26",
-                "name":"Gilman, Benjamin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -74.7621,

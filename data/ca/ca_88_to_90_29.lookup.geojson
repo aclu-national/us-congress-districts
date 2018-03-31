@@ -2,34 +2,12 @@
   "id": "ca_88_to_90_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"90",
-    "id":"006088090029",
-    "member":{
-        "88":{
-            "10573":{
-                "district":"29",
-                "name":"Brown, George E., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10573":{
-                "district":"29",
-                "name":"Brown, George E., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10573":{
-                "district":"29",
-                "name":"Brown, George E., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":29,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -118.30054,

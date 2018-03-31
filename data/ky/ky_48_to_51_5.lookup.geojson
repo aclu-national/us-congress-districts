@@ -1,42 +1,13 @@
 {
-  "id": "ky_48_to_51_05",
+  "id": "ky_48_to_51_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"51",
-    "id":"021048051005",
-    "member":{
-        "48":{
-            "10199":{
-                "district":"5",
-                "name":"Willis, Albert Shelby",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "10199":{
-                "district":"5",
-                "name":"Willis, Albert Shelby",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "1557":{
-                "district":"5",
-                "name":"Caruth, Asher Graham",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "1557":{
-                "district":"5",
-                "name":"Caruth, Asher Graham",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Kentucky"
+    "district":5,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ky"
 },
   "bbox": [
     -85.94854,

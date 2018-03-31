@@ -2,20 +2,12 @@
   "id": "tx_93_to_93_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"93",
-    "id":"048093093017",
-    "member":{
-        "93":{
-            "1282":{
-                "district":"17",
-                "name":"Burleson, Omar Truman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Texas"
+    "district":17,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tx"
 },
   "bbox": [
     -101.69501,

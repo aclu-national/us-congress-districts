@@ -2,20 +2,12 @@
   "id": "ma_14_to_14_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"14",
-    "id":"025014014010",
-    "member":{
-        "14":{
-            "9983":{
-                "district":"10",
-                "name":"Wheaton, Laban",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"14",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1815-12-04",
+    "start_session":14,
+    "state":"ma"
 },
   "bbox": [
     -71.395,

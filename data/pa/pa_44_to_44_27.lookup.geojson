@@ -2,20 +2,12 @@
   "id": "pa_44_to_44_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"44",
-    "id":"042044044027",
-    "member":{
-        "44":{
-            "2879":{
-                "district":"27",
-                "name":"Egbert, Albert Gallatin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":27,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -80.51943,

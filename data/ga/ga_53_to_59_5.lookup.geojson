@@ -1,63 +1,13 @@
 {
-  "id": "ga_53_to_59_05",
+  "id": "ga_53_to_59_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"59",
-    "id":"013053059005",
-    "member":{
-        "53":{
-            "5717":{
-                "district":"5",
-                "name":"Livingston, Leonidas Feli",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "5717":{
-                "district":"5",
-                "name":"Livingston, Leonidas Feli",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "5717":{
-                "district":"5",
-                "name":"Livingston, Leonidas Feli",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "5717":{
-                "district":"5",
-                "name":"Livingston, Leonidas Feli",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "5717":{
-                "district":"5",
-                "name":"Livingston, Leonidas Feli",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "5717":{
-                "district":"5",
-                "name":"Livingston, Leonidas Feli",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "5717":{
-                "district":"5",
-                "name":"Livingston, Leonidas Feli",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Georgia"
+    "district":5,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ga"
 },
   "bbox": [
     -84.91106,

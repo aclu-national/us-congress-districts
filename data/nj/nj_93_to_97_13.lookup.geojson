@@ -2,48 +2,12 @@
   "id": "nj_93_to_97_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"97",
-    "id":"034093097013",
-    "member":{
-        "93":{
-            "14034":{
-                "district":"13",
-                "name":"Maraziti, Joseph",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14255":{
-                "district":"13",
-                "name":"Meyner, Helen",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14255":{
-                "district":"13",
-                "name":"Meyner, Helen",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14614":{
-                "district":"13",
-                "name":"Courter, James Andrew",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14614":{
-                "district":"13",
-                "name":"Courter, James Andrew",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New Jersey"
+    "district":13,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nj"
 },
   "bbox": [
     -75.20392,

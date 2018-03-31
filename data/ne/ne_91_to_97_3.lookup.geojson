@@ -1,63 +1,13 @@
 {
-  "id": "ne_91_to_97_03",
+  "id": "ne_91_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"031091097003",
-    "member":{
-        "91":{
-            "10534":{
-                "district":"3",
-                "name":"Martin, David T.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10534":{
-                "district":"3",
-                "name":"Martin, David T.",
-                "party":"Republican"
-            }
-        },
-        "93":{
-            "10534":{
-                "district":"3",
-                "name":"Martin, David T.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14276":{
-                "district":"3",
-                "name":"Smith, Virginia",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14276":{
-                "district":"3",
-                "name":"Smith, Virginia",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14276":{
-                "district":"3",
-                "name":"Smith, Virginia",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14276":{
-                "district":"3",
-                "name":"Smith, Virginia",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Nebraska"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ne"
 },
   "bbox": [
     -104.05351,

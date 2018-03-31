@@ -1,84 +1,13 @@
 {
-  "id": "wi_63_to_72_07",
+  "id": "wi_63_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"055063072007",
-    "member":{
-        "63":{
-            "2988":{
-                "district":"7",
-                "name":"Esch, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "2988":{
-                "district":"7",
-                "name":"Esch, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "2988":{
-                "district":"7",
-                "name":"Esch, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "2988":{
-                "district":"7",
-                "name":"Esch, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "562":{
-                "district":"7",
-                "name":"Beck, Joseph David",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "562":{
-                "district":"7",
-                "name":"Beck, Joseph David",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "562":{
-                "district":"7",
-                "name":"Beck, Joseph David",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "562":{
-                "district":"7",
-                "name":"Beck, Joseph David",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4720":{
-                "district":"7",
-                "name":"Hull, Merlin",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "10299":{
-                "district":"7",
-                "name":"Withrow, Gardner Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Wisconsin"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"wi"
 },
   "bbox": [
     -91.42519,

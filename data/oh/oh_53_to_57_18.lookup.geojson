@@ -2,48 +2,12 @@
   "id": "oh_53_to_57_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"57",
-    "id":"039053057018",
-    "member":{
-        "53":{
-            "4797":{
-                "district":"18",
-                "name":"Ikirt, George Pierce",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9195":{
-                "district":"18",
-                "name":"Tayler, Robert Walker",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "9195":{
-                "district":"18",
-                "name":"Tayler, Robert Walker",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "9195":{
-                "district":"18",
-                "name":"Tayler, Robert Walker",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "9195":{
-                "district":"18",
-                "name":"Tayler, Robert Walker",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Ohio"
+    "district":18,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"oh"
 },
   "bbox": [
     -81.65005,

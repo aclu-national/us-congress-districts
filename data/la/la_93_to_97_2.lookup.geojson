@@ -1,49 +1,13 @@
 {
-  "id": "la_93_to_97_02",
+  "id": "la_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"022093097002",
-    "member":{
-        "93":{
-            "14067":{
-                "district":"2",
-                "name":"Boggs, Corinne",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14067":{
-                "district":"2",
-                "name":"Boggs, Corinne",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14067":{
-                "district":"2",
-                "name":"Boggs, Corinne",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14067":{
-                "district":"2",
-                "name":"Boggs, Corinne",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14067":{
-                "district":"2",
-                "name":"Boggs, Corinne",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Louisiana"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"la"
 },
   "bbox": [
     -90.27934,

@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"72",
-    "id":"036068072021",
-    "member":{
-        "68":{
-            "9937":{
-                "district":"21",
-                "name":"Weller, Royal Hurlburt",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9937":{
-                "district":"21",
-                "name":"Weller, Royal Hurlburt",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "9937":{
-                "district":"21",
-                "name":"Weller, Royal Hurlburt",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "3509":{
-                "district":"21",
-                "name":"Gavagan, Joseph Andrew",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "3509":{
-                "district":"21",
-                "name":"Gavagan, Joseph Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -73.96419,

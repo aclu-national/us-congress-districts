@@ -1,77 +1,13 @@
 {
-  "id": "wv_74_to_82_06",
+  "id": "wv_74_to_82_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"82",
-    "id":"054074082006",
-    "member":{
-        "74":{
-            "8660":{
-                "district":"6",
-                "name":"Smith, Joseph Luther",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8660":{
-                "district":"6",
-                "name":"Smith, Joseph Luther",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8660":{
-                "district":"6",
-                "name":"Smith, Joseph Luther",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8660":{
-                "district":"6",
-                "name":"Smith, Joseph Luther",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "8660":{
-                "district":"6",
-                "name":"Smith, Joseph Luther",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "4278":{
-                "district":"6",
-                "name":"Hedrick, Erland Harold",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "4278":{
-                "district":"6",
-                "name":"Hedrick, Erland Harold",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "4278":{
-                "district":"6",
-                "name":"Hedrick, Erland Harold",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "4278":{
-                "district":"6",
-                "name":"Hedrick, Erland Harold",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"West Virginia"
+    "district":6,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"wv"
 },
   "bbox": [
     -82.19727,

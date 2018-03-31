@@ -2,20 +2,12 @@
   "id": "oh_46_to_46_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"46",
-    "id":"039046046012",
-    "member":{
-        "46":{
-            "6848":{
-                "district":"12",
-                "name":"Neal, Henry Safford",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"oh"
 },
   "bbox": [
     -83.39401,

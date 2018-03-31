@@ -1,54 +1,13 @@
 {
-  "id": "ct_93_to_97_01",
+  "id": "ct_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"009093097001",
-    "member":{
-        "93":{
-            "13009":{
-                "district":"1",
-                "name":"Cotter, William",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "13009":{
-                "district":"1",
-                "name":"Cotter, William",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "13009":{
-                "district":"1",
-                "name":"Cotter, William",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "13009":{
-                "district":"1",
-                "name":"Cotter, William",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "13009":{
-                "district":"1",
-                "name":"Cotter, William",
-                "party":"Democrat"
-            },
-            "14877":{
-                "district":"1",
-                "name":"Kennelly, Barbara B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Connecticut"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ct"
 },
   "bbox": [
     -72.8395,

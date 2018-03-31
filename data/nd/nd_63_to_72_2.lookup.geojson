@@ -1,89 +1,13 @@
 {
-  "id": "nd_63_to_72_02",
+  "id": "nd_63_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"038063072002",
-    "member":{
-        "63":{
-            "10439":{
-                "district":"2",
-                "name":"Young, George Morley",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "10439":{
-                "district":"2",
-                "name":"Young, George Morley",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "10439":{
-                "district":"2",
-                "name":"Young, George Morley",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "10439":{
-                "district":"2",
-                "name":"Young, George Morley",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "10439":{
-                "district":"2",
-                "name":"Young, George Morley",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "10439":{
-                "district":"2",
-                "name":"Young, George Morley",
-                "party":"Republican"
-            },
-            "3955":{
-                "district":"2",
-                "name":"Hall, Thomas",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "3955":{
-                "district":"2",
-                "name":"Hall, Thomas",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "3955":{
-                "district":"2",
-                "name":"Hall, Thomas",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "3955":{
-                "district":"2",
-                "name":"Hall, Thomas",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "3955":{
-                "district":"2",
-                "name":"Hall, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"North Dakota"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nd"
 },
   "bbox": [
     -101.49702,

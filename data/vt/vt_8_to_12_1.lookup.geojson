@@ -1,54 +1,13 @@
 {
-  "id": "vt_8_to_12_01",
+  "id": "vt_8_to_12_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"12",
-    "id":"050008012001",
-    "member":{
-        "10":{
-            "10293":{
-                "district":"1",
-                "name":"Witherell, James",
-                "party":"Republican"
-            },
-            "8421":{
-                "district":"1",
-                "name":"Shaw, Samuel",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "8421":{
-                "district":"1",
-                "name":"Shaw, Samuel",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "8421":{
-                "district":"1",
-                "name":"Shaw, Samuel",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "7055":{
-                "district":"1",
-                "name":"Olin, Gideon",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "7055":{
-                "district":"1",
-                "name":"Olin, Gideon",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Vermont"
+    "district":1,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"vt"
 },
   "bbox": [
     -73.43123,

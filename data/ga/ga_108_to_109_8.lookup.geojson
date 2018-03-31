@@ -1,28 +1,13 @@
 {
-  "id": "ga_108_to_109_08",
+  "id": "ga_108_to_109_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"109",
-    "id":"013108109008",
-    "member":{
-        "108":{
-            "29340":{
-                "district":"8",
-                "name":"Collins, Mac",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20506":{
-                "district":"8",
-                "name":"Westmoreland, Lynn",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Georgia"
+    "district":8,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ga"
 },
   "bbox": [
     -85.23089,

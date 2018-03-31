@@ -1,28 +1,13 @@
 {
-  "id": "oh_28_to_29_06",
+  "id": "oh_28_to_29_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"29",
-    "id":"039028029006",
-    "member":{
-        "28":{
-            "8180":{
-                "district":"6",
-                "name":"St. John, Henry",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "8180":{
-                "district":"6",
-                "name":"St. John, Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":6,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -83.88356,

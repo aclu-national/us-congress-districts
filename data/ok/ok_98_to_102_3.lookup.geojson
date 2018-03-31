@@ -1,49 +1,13 @@
 {
-  "id": "ok_98_to_102_03",
+  "id": "ok_98_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"040098102003",
-    "member":{
-        "100":{
-            "14462":{
-                "district":"3",
-                "name":"Watkins, Wes",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14462":{
-                "district":"3",
-                "name":"Watkins, Wes",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "29138":{
-                "district":"3",
-                "name":"Brewster, Bill",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14462":{
-                "district":"3",
-                "name":"Watkins, Wes",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14462":{
-                "district":"3",
-                "name":"Watkins, Wes",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Oklahoma"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ok"
 },
   "bbox": [
     -97.56244,

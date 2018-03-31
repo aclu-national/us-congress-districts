@@ -1,65 +1,13 @@
 {
-  "id": "wa_58_to_60_00",
+  "id": "wa_58_to_60_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"60",
-    "id":"053058060000",
-    "member":{
-        "58":{
-            "2279":{
-                "district":"98",
-                "name":"Cushman, Francis Wellington",
-                "party":"Republican"
-            },
-            "4732":{
-                "district":"98",
-                "name":"Humphrey, William Ewart",
-                "party":"Republican"
-            },
-            "5065":{
-                "district":"98",
-                "name":"Jones, Wesley Livsey",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2279":{
-                "district":"98",
-                "name":"Cushman, Francis Wellington",
-                "party":"Republican"
-            },
-            "4732":{
-                "district":"98",
-                "name":"Humphrey, William Ewart",
-                "party":"Republican"
-            },
-            "5065":{
-                "district":"98",
-                "name":"Jones, Wesley Livsey",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2279":{
-                "district":"98",
-                "name":"Cushman, Francis Wellington",
-                "party":"Republican"
-            },
-            "4732":{
-                "district":"98",
-                "name":"Humphrey, William Ewart",
-                "party":"Republican"
-            },
-            "5065":{
-                "district":"98",
-                "name":"Jones, Wesley Livsey",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Washington"
+    "district":0,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"wa"
 },
   "bbox": [
     -124.76258,

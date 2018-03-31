@@ -2,41 +2,12 @@
   "id": "pa_58_to_61_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"61",
-    "id":"042058061014",
-    "member":{
-        "58":{
-            "10384":{
-                "district":"14",
-                "name":"Wright, Charles Frederick",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5662":{
-                "district":"14",
-                "name":"Lilley, Mial Eben",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5289":{
-                "district":"14",
-                "name":"Kipp, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "7586":{
-                "district":"14",
-                "name":"Pratt, Charles Clarence",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"pa"
 },
   "bbox": [
     -76.92708,

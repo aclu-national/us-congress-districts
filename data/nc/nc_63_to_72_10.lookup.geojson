@@ -2,88 +2,12 @@
   "id": "nc_63_to_72_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"72",
-    "id":"037063072010",
-    "member":{
-        "63":{
-            "3868":{
-                "district":"10",
-                "name":"Gudger, James Madison Jr.",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "1047":{
-                "district":"10",
-                "name":"Britt, James Jefferson",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "1047":{
-                "district":"10",
-                "name":"Britt, James Jefferson",
-                "party":"Republican"
-            },
-            "9897":{
-                "district":"10",
-                "name":"Weaver, Zebulon",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "9897":{
-                "district":"10",
-                "name":"Weaver, Zebulon",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "9897":{
-                "district":"10",
-                "name":"Weaver, Zebulon",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "9897":{
-                "district":"10",
-                "name":"Weaver, Zebulon",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9897":{
-                "district":"10",
-                "name":"Weaver, Zebulon",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "9897":{
-                "district":"10",
-                "name":"Weaver, Zebulon",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7630":{
-                "district":"10",
-                "name":"Pritchard, George Moore",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9897":{
-                "district":"10",
-                "name":"Weaver, Zebulon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"North Carolina"
+    "district":10,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nc"
 },
   "bbox": [
     -84.32187,

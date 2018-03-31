@@ -2,20 +2,12 @@
   "id": "oh_63_to_63_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"63",
-    "id":"039063063021",
-    "member":{
-        "63":{
-            "1224":{
-                "district":"21",
-                "name":"Bulkley, Robert Johns",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Ohio"
+    "district":21,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"oh"
 },
   "bbox": [
     -81.71115,

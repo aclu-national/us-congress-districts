@@ -1,35 +1,13 @@
 {
-  "id": "pa_30_to_32_05",
+  "id": "pa_30_to_32_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"32",
-    "id":"042030032005",
-    "member":{
-        "30":{
-            "3353":{
-                "district":"5",
-                "name":"Freedley, John",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "3353":{
-                "district":"5",
-                "name":"Freedley, John",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "6365":{
-                "district":"5",
-                "name":"McNair, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -75.69679,

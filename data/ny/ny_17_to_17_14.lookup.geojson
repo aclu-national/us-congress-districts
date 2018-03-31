@@ -2,20 +2,12 @@
   "id": "ny_17_to_17_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"17",
-    "id":"036017017014",
-    "member":{
-        "17":{
-            "1982":{
-                "district":"14",
-                "name":"Conkling, Alfred",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ny"
 },
   "bbox": [
     -74.87882,

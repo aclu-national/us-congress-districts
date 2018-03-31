@@ -2,48 +2,12 @@
   "id": "tn_23_to_27_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"27",
-    "id":"047023027010",
-    "member":{
-        "23":{
-            "4803":{
-                "district":"10",
-                "name":"Inge, William Marshall",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "8468":{
-                "district":"10",
-                "name":"Shields, Ebenezer J.",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "8468":{
-                "district":"10",
-                "name":"Shields, Ebenezer J.",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "1094":{
-                "district":"10",
-                "name":"Brown, Aaron Venable",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "1094":{
-                "district":"10",
-                "name":"Brown, Aaron Venable",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Tennessee"
+    "district":10,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"tn"
 },
   "bbox": [
     -88.38051,

@@ -1,49 +1,13 @@
 {
-  "id": "ky_18_to_22_01",
+  "id": "ky_18_to_22_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"22",
-    "id":"021018022001",
-    "member":{
-        "18":{
-            "9472":{
-                "district":"1",
-                "name":"Trimble, David",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "9472":{
-                "district":"1",
-                "name":"Trimble, David",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "2323":{
-                "district":"1",
-                "name":"Daniel, Henry",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2323":{
-                "district":"1",
-                "name":"Daniel, Henry",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "2323":{
-                "district":"1",
-                "name":"Daniel, Henry",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Kentucky"
+    "district":1,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ky"
 },
   "bbox": [
     -84.08053,

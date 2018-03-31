@@ -1,42 +1,13 @@
 {
-  "id": "pa_23_to_26_06",
+  "id": "pa_23_to_26_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"26",
-    "id":"042023026006",
-    "member":{
-        "23":{
-            "7705":{
-                "district":"6",
-                "name":"Ramsey, Robert",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "6711":{
-                "district":"6",
-                "name":"Morris, Mathias",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "6711":{
-                "district":"6",
-                "name":"Morris, Mathias",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "2395":{
-                "district":"6",
-                "name":"Davis, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -75.48406,

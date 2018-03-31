@@ -1,47 +1,13 @@
 {
-  "id": "ma_4_to_7_03",
+  "id": "ma_4_to_7_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"7",
-    "id":"025004007003",
-    "member":{
-        "4":{
-            "5850":{
-                "district":"3",
-                "name":"Lyman, Samuel",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "5850":{
-                "district":"3",
-                "name":"Lyman, Samuel",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "5850":{
-                "district":"3",
-                "name":"Lyman, Samuel",
-                "party":"Federalist"
-            },
-            "6089":{
-                "district":"3",
-                "name":"Mattoon, Ebenezer",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "6089":{
-                "district":"3",
-                "name":"Mattoon, Ebenezer",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"ma"
 },
   "bbox": [
     -72.62853,

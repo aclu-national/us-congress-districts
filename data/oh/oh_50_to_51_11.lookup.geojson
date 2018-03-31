@@ -2,27 +2,12 @@
   "id": "oh_50_to_51_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"51",
-    "id":"039050051011",
-    "member":{
-        "50":{
-            "9314":{
-                "district":"11",
-                "name":"Thompson, Albert Clifton",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "9314":{
-                "district":"11",
-                "name":"Thompson, Albert Clifton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Ohio"
+    "district":11,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"oh"
 },
   "bbox": [
     -83.70528,

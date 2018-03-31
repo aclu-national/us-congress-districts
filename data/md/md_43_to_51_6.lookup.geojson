@@ -1,77 +1,13 @@
 {
-  "id": "md_43_to_51_06",
+  "id": "md_43_to_51_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"51",
-    "id":"024043051006",
-    "member":{
-        "43":{
-            "5813":{
-                "district":"6",
-                "name":"Lowndes, Lloyd Jr.",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "9790":{
-                "district":"6",
-                "name":"Walsh, William",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "9790":{
-                "district":"6",
-                "name":"Walsh, William",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "9577":{
-                "district":"6",
-                "name":"Urner, Milton George",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "9577":{
-                "district":"6",
-                "name":"Urner, Milton George",
-                "party":"Republican"
-            }
-        },
-        "48":{
-            "6165":{
-                "district":"6",
-                "name":"McComas, Louis Emory",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "6165":{
-                "district":"6",
-                "name":"McComas, Louis Emory",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "6165":{
-                "district":"6",
-                "name":"McComas, Louis Emory",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "6165":{
-                "district":"6",
-                "name":"McComas, Louis Emory",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

@@ -2,48 +2,12 @@
   "id": "ny_108_to_112_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"112",
-    "id":"036108112012",
-    "member":{
-        "108":{
-            "29378":{
-                "district":"12",
-                "name":"Velazquez, Nydia M.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29378":{
-                "district":"12",
-                "name":"Velazquez, Nydia M.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29378":{
-                "district":"12",
-                "name":"Velazquez, Nydia M.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29378":{
-                "district":"12",
-                "name":"Velazquez, Nydia M.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29378":{
-                "district":"12",
-                "name":"Velazquez, Nydia M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":12,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -74.02565,

@@ -1,21 +1,13 @@
 {
-  "id": "wa_98_to_98_04",
+  "id": "wa_98_to_98_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"98",
-    "id":"053098098004",
-    "member":{
-        "98":{
-            "14847":{
-                "district":"4",
-                "name":"Morrison, Sid",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Washington"
+    "district":4,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"wa"
 },
   "bbox": [
     -122.25008,

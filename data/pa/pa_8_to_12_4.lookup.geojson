@@ -1,74 +1,13 @@
 {
-  "id": "pa_8_to_12_04",
+  "id": "pa_8_to_12_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"12",
-    "id":"042008012004",
-    "member":{
-        "10":{
-            "10055":{
-                "district":"4",
-                "name":"Whitehill, Robert",
-                "party":"Republican"
-            },
-            "429":{
-                "district":"4",
-                "name":"Bard, David",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "10055":{
-                "district":"4",
-                "name":"Whitehill, Robert",
-                "party":"Republican"
-            },
-            "429":{
-                "district":"4",
-                "name":"Bard, David",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "10055":{
-                "district":"4",
-                "name":"Whitehill, Robert",
-                "party":"Republican"
-            },
-            "429":{
-                "district":"4",
-                "name":"Bard, David",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "4037":{
-                "district":"4",
-                "name":"Hanna, John Andre",
-                "party":"Republican"
-            },
-            "429":{
-                "district":"4",
-                "name":"Bard, David",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "10055":{
-                "district":"4",
-                "name":"Whitehill, Robert",
-                "party":"Republican"
-            },
-            "429":{
-                "district":"4",
-                "name":"Bard, David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"pa"
 },
   "bbox": [
     -78.55126,

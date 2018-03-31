@@ -2,18 +2,12 @@
   "id": "al_18_to_22_-1",
   "type": "Feature",
   "properties": {
-    "district":"-1",
-    "endcong":"22",
-    "id":"0010180220-1",
-    "member":{
-        "18":[],
-        "19":[],
-        "20":[],
-        "21":[],
-        "22":[]
-    },
-    "startcong":"18",
-    "statename":"Alabama"
+    "district":-1,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

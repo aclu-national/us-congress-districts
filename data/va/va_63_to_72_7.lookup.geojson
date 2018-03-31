@@ -1,94 +1,13 @@
 {
-  "id": "va_63_to_72_07",
+  "id": "va_63_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"051063072007",
-    "member":{
-        "63":{
-            "4225":{
-                "district":"7",
-                "name":"Hay, James",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4136":{
-                "district":"7",
-                "name":"Harrison, Thomas Walter",
-                "party":"Democrat"
-            },
-            "4225":{
-                "district":"7",
-                "name":"Hay, James",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "4136":{
-                "district":"7",
-                "name":"Harrison, Thomas Walter",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "4136":{
-                "district":"7",
-                "name":"Harrison, Thomas Walter",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "4136":{
-                "district":"7",
-                "name":"Harrison, Thomas Walter",
-                "party":"Democrat"
-            },
-            "7268":{
-                "district":"7",
-                "name":"Paul, John",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "4136":{
-                "district":"7",
-                "name":"Harrison, Thomas Walter",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "4136":{
-                "district":"7",
-                "name":"Harrison, Thomas Walter",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "4136":{
-                "district":"7",
-                "name":"Harrison, Thomas Walter",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "3457":{
-                "district":"7",
-                "name":"Garber, Jacob Aaron",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "3163":{
-                "district":"7",
-                "name":"Fishburne, John Wood",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"va"
 },
   "bbox": [
     -79.22434,

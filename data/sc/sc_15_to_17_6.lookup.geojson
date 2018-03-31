@@ -1,35 +1,13 @@
 {
-  "id": "sc_15_to_17_06",
+  "id": "sc_15_to_17_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"17",
-    "id":"045015017006",
-    "member":{
-        "15":{
-            "8513":{
-                "district":"6",
-                "name":"Simkins, Eldred",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "8513":{
-                "district":"6",
-                "name":"Simkins, Eldred",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "6232":{
-                "district":"6",
-                "name":"McDuffie, George",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"South Carolina"
+    "district":6,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"sc"
 },
   "bbox": [
     -82.74096,

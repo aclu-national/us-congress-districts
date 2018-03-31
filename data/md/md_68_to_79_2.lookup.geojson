@@ -1,98 +1,13 @@
 {
-  "id": "md_68_to_79_02",
+  "id": "md_68_to_79_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"79",
-    "id":"024068079002",
-    "member":{
-        "68":{
-            "9538":{
-                "district":"2",
-                "name":"Tydings, Millard Evelyn",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9538":{
-                "district":"2",
-                "name":"Tydings, Millard Evelyn",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "1930":{
-                "district":"2",
-                "name":"Cole, William Purington, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "1778":{
-                "district":"2",
-                "name":"Clark, Linwood Leon",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "1930":{
-                "district":"2",
-                "name":"Cole, William Purington, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "73":{
-            "1930":{
-                "district":"2",
-                "name":"Cole, William Purington, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "1930":{
-                "district":"2",
-                "name":"Cole, William Purington, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "1930":{
-                "district":"2",
-                "name":"Cole, William Purington, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "1930":{
-                "district":"2",
-                "name":"Cole, William Purington, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "1930":{
-                "district":"2",
-                "name":"Cole, William Purington, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "381":{
-                "district":"2",
-                "name":"Baldwin, Harry Streett",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "381":{
-                "district":"2",
-                "name":"Baldwin, Harry Streett",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Maryland"
+    "district":2,
+    "end_date":"1946-08-02",
+    "end_session":79,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"md"
 },
   "bbox": [
     -77.31151,

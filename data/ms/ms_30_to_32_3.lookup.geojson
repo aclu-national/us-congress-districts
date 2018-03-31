@@ -1,35 +1,13 @@
 {
-  "id": "ms_30_to_32_03",
+  "id": "ms_30_to_32_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"32",
-    "id":"028030032003",
-    "member":{
-        "30":{
-            "9419":{
-                "district":"3",
-                "name":"Tompkins, Patrick Watson",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "6391":{
-                "district":"3",
-                "name":"McWillie, William",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "3356":{
-                "district":"3",
-                "name":"Freeman, John D.",
-                "party":"Union"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Mississippi"
+    "district":3,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"ms"
 },
   "bbox": [
     -91.23593,

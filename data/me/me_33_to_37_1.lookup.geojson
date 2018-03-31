@@ -1,49 +1,13 @@
 {
-  "id": "me_33_to_37_01",
+  "id": "me_33_to_37_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"37",
-    "id":"023033037001",
-    "member":{
-        "33":{
-            "5872":{
-                "district":"1",
-                "name":"MacDonald, Moses",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "10328":{
-                "district":"1",
-                "name":"Wood, John M.",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "10328":{
-                "district":"1",
-                "name":"Wood, John M.",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "8741":{
-                "district":"1",
-                "name":"Somes, Daniel Eton",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "3686":{
-                "district":"1",
-                "name":"Goodwin, John Noble",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Maine"
+    "district":1,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"me"
 },
   "bbox": [
     -70.98907,

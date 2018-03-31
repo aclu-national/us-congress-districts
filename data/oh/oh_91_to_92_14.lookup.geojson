@@ -2,27 +2,12 @@
   "id": "oh_91_to_92_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"92",
-    "id":"039091092014",
-    "member":{
-        "91":{
-            "310":{
-                "district":"14",
-                "name":"Ayres, William Hanes",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13040":{
-                "district":"14",
-                "name":"Seiberling, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"oh"
 },
   "bbox": [
     -81.68745,

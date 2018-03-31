@@ -2,34 +2,12 @@
   "id": "ca_88_to_90_38",
   "type": "Feature",
   "properties": {
-    "district":"38",
-    "endcong":"90",
-    "id":"006088090038",
-    "member":{
-        "88":{
-            "10604":{
-                "district":"38",
-                "name":"Martin, Pat W.",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10777":{
-                "district":"38",
-                "name":"Tunney, John V.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10777":{
-                "district":"38",
-                "name":"Tunney, John V.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":38,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -117.67629,

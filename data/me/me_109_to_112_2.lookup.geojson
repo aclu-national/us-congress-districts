@@ -1,42 +1,13 @@
 {
-  "id": "me_109_to_112_02",
+  "id": "me_109_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"023109112002",
-    "member":{
-        "109":{
-            "20328":{
-                "district":"2",
-                "name":"Michaud, Michael H.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20328":{
-                "district":"2",
-                "name":"Michaud, Michael H.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20328":{
-                "district":"2",
-                "name":"Michaud, Michael H.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20328":{
-                "district":"2",
-                "name":"Michaud, Michael H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Maine"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"me"
 },
   "bbox": [
     -71.08433,

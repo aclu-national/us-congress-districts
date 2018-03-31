@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_39",
   "type": "Feature",
   "properties": {
-    "district":"39",
-    "endcong":"64",
-    "id":"036063064039",
-    "member":{
-        "63":{
-            "2321":{
-                "district":"39",
-                "name":"Danforth, Henry Gold",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "2321":{
-                "district":"39",
-                "name":"Danforth, Henry Gold",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":39,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -78.48814,

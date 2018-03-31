@@ -1,19 +1,13 @@
 {
-  "id": "ok_113_to_115_01",
+  "id": "ok_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":4226042223,
-    "AWATER":143468726,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4001",
-    "INTPTLAT":"+36.2117411",
-    "INTPTLON":"-095.7895823",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"40"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ok"
 },
   "bbox": [
     -96.29809,

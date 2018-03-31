@@ -2,53 +2,12 @@
   "id": "pa_38_to_42_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"42",
-    "id":"042038042012",
-    "member":{
-        "38":{
-            "2495":{
-                "district":"12",
-                "name":"Denison, Charles",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "2495":{
-                "district":"12",
-                "name":"Denison, Charles",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "10360":{
-                "district":"12",
-                "name":"Woodward, George Washington",
-                "party":"Democrat"
-            },
-            "2495":{
-                "district":"12",
-                "name":"Denison, Charles",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "10360":{
-                "district":"12",
-                "name":"Woodward, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "8482":{
-                "district":"12",
-                "name":"Shoemaker, Lazarus Denison",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"pa"
 },
   "bbox": [
     -76.31974,

@@ -2,48 +2,12 @@
   "id": "oh_38_to_42_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"42",
-    "id":"039038042019",
-    "member":{
-        "38":{
-            "3473":{
-                "district":"19",
-                "name":"Garfield, James Abram",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "3473":{
-                "district":"19",
-                "name":"Garfield, James Abram",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "3473":{
-                "district":"19",
-                "name":"Garfield, James Abram",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "3473":{
-                "district":"19",
-                "name":"Garfield, James Abram",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "3473":{
-                "district":"19",
-                "name":"Garfield, James Abram",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Ohio"
+    "district":19,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"oh"
 },
   "bbox": [
     -81.39343,

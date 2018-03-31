@@ -1,28 +1,13 @@
 {
-  "id": "fl_73_to_74_01",
+  "id": "fl_73_to_74_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"74",
-    "id":"012073074001",
-    "member":{
-        "73":{
-            "7372":{
-                "district":"1",
-                "name":"Peterson, James Hardin",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "7372":{
-                "district":"1",
-                "name":"Peterson, James Hardin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Florida"
+    "district":1,
+    "end_date":"1936-06-20",
+    "end_session":74,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"fl"
 },
   "bbox": [
     -82.85238,

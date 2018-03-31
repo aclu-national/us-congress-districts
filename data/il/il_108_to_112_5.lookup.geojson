@@ -1,49 +1,13 @@
 {
-  "id": "il_108_to_112_05",
+  "id": "il_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"017108112005",
-    "member":{
-        "108":{
-            "20323":{
-                "district":"5",
-                "name":"Emanuel, Rahm",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20323":{
-                "district":"5",
-                "name":"Emanuel, Rahm",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20323":{
-                "district":"5",
-                "name":"Emanuel, Rahm",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20954":{
-                "district":"5",
-                "name":"Quigley, Mike",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20954":{
-                "district":"5",
-                "name":"Quigley, Mike",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Illinois"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"il"
 },
   "bbox": [
     -87.92046,

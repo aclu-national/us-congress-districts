@@ -1,28 +1,13 @@
 {
-  "id": "in_19_to_20_02",
+  "id": "in_19_to_20_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"20",
-    "id":"018019020002",
-    "member":{
-        "19":{
-            "4926":{
-                "district":"2",
-                "name":"Jennings, Jonathan",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "4926":{
-                "district":"2",
-                "name":"Jennings, Jonathan",
-                "party":"Adams"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Indiana"
+    "district":2,
+    "end_date":"1829-03-03",
+    "end_session":20,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"in"
 },
   "bbox": [
     -86.68142,

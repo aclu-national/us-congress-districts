@@ -1,21 +1,13 @@
 {
-  "id": "nc_55_to_55_06",
+  "id": "nc_55_to_55_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"55",
-    "id":"037055055006",
-    "member":{
-        "55":{
-            "6018":{
-                "district":"6",
-                "name":"Martin, Charles Henry",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"nc"
 },
   "bbox": [
     -81.05803,

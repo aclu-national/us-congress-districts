@@ -2,20 +2,12 @@
   "id": "ny_65_to_65_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"65",
-    "id":"036065065024",
-    "member":{
-        "65":{
-            "3047":{
-                "district":"24",
-                "name":"Fairchild, Benjamin Lewis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":24,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -73.91113,

@@ -2,83 +2,12 @@
   "id": "ma_78_to_87_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"87",
-    "id":"025078087011",
-    "member":{
-        "78":{
-            "2258":{
-                "district":"11",
-                "name":"Curley, James Michael",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "2258":{
-                "district":"11",
-                "name":"Curley, James Michael",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5180":{
-                "district":"11",
-                "name":"Kennedy, John Fitzgerald",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "5180":{
-                "district":"11",
-                "name":"Kennedy, John Fitzgerald",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5180":{
-                "district":"11",
-                "name":"Kennedy, John Fitzgerald",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "7081":{
-                "district":"11",
-                "name":"O'Neill, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "7081":{
-                "district":"11",
-                "name":"O'Neill, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "7081":{
-                "district":"11",
-                "name":"O'Neill, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "7081":{
-                "district":"11",
-                "name":"O'Neill, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "7081":{
-                "district":"11",
-                "name":"O'Neill, Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ma"
 },
   "bbox": [
     -71.1748,

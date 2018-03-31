@@ -2,27 +2,12 @@
   "id": "tn_68_to_69_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"69",
-    "id":"047068069010",
-    "member":{
-        "68":{
-            "3169":{
-                "district":"10",
-                "name":"Fisher, Hubert Frederick",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3169":{
-                "district":"10",
-                "name":"Fisher, Hubert Frederick",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Tennessee"
+    "district":10,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

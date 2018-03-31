@@ -2,27 +2,12 @@
   "id": "pa_51_to_52_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"52",
-    "id":"042051052011",
-    "member":{
-        "51":{
-            "8317":{
-                "district":"11",
-                "name":"Scranton, Joseph Augustine",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "151":{
-                "district":"11",
-                "name":"Amerman, Lemuel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -75.8347,

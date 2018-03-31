@@ -1,49 +1,13 @@
 {
-  "id": "nd_93_to_97_00",
+  "id": "nd_93_to_97_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"97",
-    "id":"038093097000",
-    "member":{
-        "93":{
-            "10569":{
-                "district":"1",
-                "name":"Andrews, Mark",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "10569":{
-                "district":"1",
-                "name":"Andrews, Mark",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "10569":{
-                "district":"1",
-                "name":"Andrews, Mark",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "10569":{
-                "district":"1",
-                "name":"Andrews, Mark",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14812":{
-                "district":"1",
-                "name":"Dorgan, Byron",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"North Dakota"
+    "district":0,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nd"
 },
   "bbox": [
     -104.04891,

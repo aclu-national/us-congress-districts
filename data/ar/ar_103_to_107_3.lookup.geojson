@@ -1,54 +1,13 @@
 {
-  "id": "ar_103_to_107_03",
+  "id": "ar_103_to_107_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"107",
-    "id":"005103107003",
-    "member":{
-        "103":{
-            "29306":{
-                "district":"3",
-                "name":"Hutchinson, Tim",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29306":{
-                "district":"3",
-                "name":"Hutchinson, Tim",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29704":{
-                "district":"3",
-                "name":"Hutchinson, Asa",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29704":{
-                "district":"3",
-                "name":"Hutchinson, Asa",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "20101":{
-                "district":"3",
-                "name":"Boozman, John",
-                "party":"Republican"
-            },
-            "29704":{
-                "district":"3",
-                "name":"Hutchinson, Asa",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Arkansas"
+    "district":3,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ar"
 },
   "bbox": [
     -94.61792,

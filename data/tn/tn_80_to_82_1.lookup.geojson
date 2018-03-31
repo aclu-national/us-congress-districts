@@ -1,35 +1,13 @@
 {
-  "id": "tn_80_to_82_01",
+  "id": "tn_80_to_82_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"82",
-    "id":"047080082001",
-    "member":{
-        "80":{
-            "7411":{
-                "district":"1",
-                "name":"Phillips, Dayton Edward",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7411":{
-                "district":"1",
-                "name":"Phillips, Dayton Edward",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "7777":{
-                "district":"1",
-                "name":"Reece, Brazilla Carroll",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"80",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1947-01-03",
+    "start_session":80,
+    "state":"tn"
 },
   "bbox": [
     -83.9994,

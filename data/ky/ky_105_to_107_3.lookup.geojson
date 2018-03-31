@@ -1,35 +1,13 @@
 {
-  "id": "ky_105_to_107_03",
+  "id": "ky_105_to_107_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"107",
-    "id":"021105107003",
-    "member":{
-        "105":{
-            "29725":{
-                "district":"3",
-                "name":"Northup, Anne M.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29725":{
-                "district":"3",
-                "name":"Northup, Anne M.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29725":{
-                "district":"3",
-                "name":"Northup, Anne M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"ky"
 },
   "bbox": [
     -85.91524,

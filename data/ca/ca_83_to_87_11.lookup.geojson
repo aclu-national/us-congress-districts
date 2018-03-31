@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"87",
-    "id":"006083087011",
-    "member":{
-        "83":{
-            "4976":{
-                "district":"11",
-                "name":"Johnson, Justin Leroy",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4976":{
-                "district":"11",
-                "name":"Johnson, Justin Leroy",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "6240":{
-                "district":"11",
-                "name":"McFall, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "6240":{
-                "district":"11",
-                "name":"McFall, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "6240":{
-                "district":"11",
-                "name":"McFall, John Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":11,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -121.587,

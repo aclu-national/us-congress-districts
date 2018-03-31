@@ -2,55 +2,12 @@
   "id": "ny_73_to_78_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"78",
-    "id":"036073078016",
-    "member":{
-        "73":{
-            "7018":{
-                "district":"16",
-                "name":"O'Connor, John J.",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "7018":{
-                "district":"16",
-                "name":"O'Connor, John J.",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7018":{
-                "district":"16",
-                "name":"O'Connor, John J.",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3085":{
-                "district":"16",
-                "name":"Fay, James Herbert",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "7393":{
-                "district":"16",
-                "name":"Pheiffer, William Townsend",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "3085":{
-                "district":"16",
-                "name":"Fay, James Herbert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -73.9904,

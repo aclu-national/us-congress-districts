@@ -1,84 +1,13 @@
 {
-  "id": "in_63_to_72_01",
+  "id": "in_63_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"018063072001",
-    "member":{
-        "63":{
-            "5657":{
-                "district":"1",
-                "name":"Lieb, Charles",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "5657":{
-                "district":"1",
-                "name":"Lieb, Charles",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "2516":{
-                "district":"1",
-                "name":"Denton, George Kirkpatrick",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "5834":{
-                "district":"1",
-                "name":"Luhring, Oscar Raymond",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5834":{
-                "district":"1",
-                "name":"Luhring, Oscar Raymond",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "10260":{
-                "district":"1",
-                "name":"Wilson, William Edward",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "8090":{
-                "district":"1",
-                "name":"Rowbottom, Harry Emerson",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "8090":{
-                "district":"1",
-                "name":"Rowbottom, Harry Emerson",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8090":{
-                "district":"1",
-                "name":"Rowbottom, Harry Emerson",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "820":{
-                "district":"1",
-                "name":"Boehne, John William, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

@@ -1,54 +1,13 @@
 {
-  "id": "ok_73_to_77_05",
+  "id": "ok_73_to_77_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"77",
-    "id":"040073077005",
-    "member":{
-        "73":{
-            "9102":{
-                "district":"5",
-                "name":"Swank, Fetcher B.",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "5562":{
-                "district":"5",
-                "name":"Lee, Joshua Bryan",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "4422":{
-                "district":"5",
-                "name":"Hill, Robert Potter",
-                "party":"Democrat"
-            },
-            "8626":{
-                "district":"5",
-                "name":"Smith, Gomer Griffith",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "6597":{
-                "district":"5",
-                "name":"Monroney, Almer Stillwell",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "6597":{
-                "district":"5",
-                "name":"Monroney, Almer Stillwell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Oklahoma"
+    "district":5,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ok"
 },
   "bbox": [
     -97.67588,

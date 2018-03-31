@@ -1,49 +1,13 @@
 {
-  "id": "il_38_to_42_08",
+  "id": "il_38_to_42_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"42",
-    "id":"017038042008",
-    "member":{
-        "38":{
-            "9054":{
-                "district":"8",
-                "name":"Stuart, John Todd",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "2239":{
-                "district":"8",
-                "name":"Cullom, Shelby Moore",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "2239":{
-                "district":"8",
-                "name":"Cullom, Shelby Moore",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "2239":{
-                "district":"8",
-                "name":"Cullom, Shelby Moore",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "7976":{
-                "district":"8",
-                "name":"Robinson, James Carroll",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Illinois"
+    "district":8,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"il"
 },
   "bbox": [
     -89.99466,

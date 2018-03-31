@@ -1,35 +1,13 @@
 {
-  "id": "va_90_to_92_08",
+  "id": "va_90_to_92_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"92",
-    "id":"051090092008",
-    "member":{
-        "90":{
-            "11048":{
-                "district":"8",
-                "name":"Scott, William L.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11048":{
-                "district":"8",
-                "name":"Scott, William L.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11048":{
-                "district":"8",
-                "name":"Scott, William L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"va"
 },
   "bbox": [
     -78.30661,

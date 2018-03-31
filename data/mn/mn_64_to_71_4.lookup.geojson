@@ -1,75 +1,13 @@
 {
-  "id": "mn_64_to_71_04",
+  "id": "mn_64_to_71_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"71",
-    "id":"027064071004",
-    "member":{
-        "64":{
-            "9610":{
-                "district":"4",
-                "name":"Van Dyke, Carl Chester",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "9610":{
-                "district":"4",
-                "name":"Van Dyke, Carl Chester",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "5135":{
-                "district":"4",
-                "name":"Keller, Oscar Edward",
-                "party":"Ind. Republican"
-            },
-            "9610":{
-                "district":"4",
-                "name":"Van Dyke, Carl Chester",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5135":{
-                "district":"4",
-                "name":"Keller, Oscar Edward",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "5135":{
-                "district":"4",
-                "name":"Keller, Oscar Edward",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "5135":{
-                "district":"4",
-                "name":"Keller, Oscar Edward",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "5869":{
-                "district":"4",
-                "name":"Maas, Melvin Joseph",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "5869":{
-                "district":"4",
-                "name":"Maas, Melvin Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Minnesota"
+    "district":4,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mn"
 },
   "bbox": [
     -93.22792,

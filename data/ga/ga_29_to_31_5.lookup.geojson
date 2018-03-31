@@ -1,35 +1,13 @@
 {
-  "id": "ga_29_to_31_05",
+  "id": "ga_29_to_31_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"31",
-    "id":"013029031005",
-    "member":{
-        "29":{
-            "5836":{
-                "district":"5",
-                "name":"Lumpkin, John Henry",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "5836":{
-                "district":"5",
-                "name":"Lumpkin, John Henry",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "3895":{
-                "district":"5",
-                "name":"Hackett, Thomas C.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"Georgia"
+    "district":5,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"ga"
 },
   "bbox": [
     -85.60517,

@@ -2,41 +2,12 @@
   "id": "ny_34_to_37_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"37",
-    "id":"036034037022",
-    "member":{
-        "34":{
-            "6138":{
-                "district":"22",
-                "name":"McCarty, Andrew Zemmerman",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "3685":{
-                "district":"22",
-                "name":"Goodwin, Henry Charles",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "5563":{
-                "district":"22",
-                "name":"Lee, Moses Lindley",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "5470":{
-                "district":"22",
-                "name":"Lansing, William Esselsty",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

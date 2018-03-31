@@ -1,49 +1,13 @@
 {
-  "id": "ga_43_to_47_04",
+  "id": "ga_43_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"013043047004",
-    "member":{
-        "43":{
-            "4101":{
-                "district":"4",
-                "name":"Harris, Henry Richard",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "4101":{
-                "district":"4",
-                "name":"Harris, Henry Richard",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "4101":{
-                "district":"4",
-                "name":"Harris, Henry Richard",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "7361":{
-                "district":"4",
-                "name":"Persons, Henry",
-                "party":"Ind. Democrat"
-            }
-        },
-        "47":{
-            "1185":{
-                "district":"4",
-                "name":"Buchanan, Hugh",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Georgia"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ga"
 },
   "bbox": [
     -85.33823,

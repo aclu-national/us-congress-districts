@@ -2,27 +2,12 @@
   "id": "pa_51_to_52_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"52",
-    "id":"042051052026",
-    "member":{
-        "51":{
-            "2231":{
-                "district":"26",
-                "name":"Culbertson, William C.",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "3845":{
-                "district":"26",
-                "name":"Griswold, Matthew",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":26,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

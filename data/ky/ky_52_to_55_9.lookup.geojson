@@ -1,42 +1,13 @@
 {
-  "id": "ky_52_to_55_09",
+  "id": "ky_52_to_55_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"55",
-    "id":"021052055009",
-    "member":{
-        "52":{
-            "7276":{
-                "district":"9",
-                "name":"Paynter, Thomas Hanson",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "7276":{
-                "district":"9",
-                "name":"Paynter, Thomas Hanson",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "7647":{
-                "district":"9",
-                "name":"Pugh, Samuel Johnson",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "7647":{
-                "district":"9",
-                "name":"Pugh, Samuel Johnson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Kentucky"
+    "district":9,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"ky"
 },
   "bbox": [
     -84.5573,

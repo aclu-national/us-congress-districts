@@ -1,49 +1,13 @@
 {
-  "id": "fl_64_to_68_03",
+  "id": "fl_64_to_68_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"68",
-    "id":"012064068003",
-    "member":{
-        "64":{
-            "10215":{
-                "district":"3",
-                "name":"Wilson, Emmett",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "5124":{
-                "district":"3",
-                "name":"Kehoe, James Walter",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "8712":{
-                "district":"3",
-                "name":"Smithwick, John Harris",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "8712":{
-                "district":"3",
-                "name":"Smithwick, John Harris",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "8712":{
-                "district":"3",
-                "name":"Smithwick, John Harris",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Florida"
+    "district":3,
+    "end_date":"1925-03-03",
+    "end_session":68,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"fl"
 },
   "bbox": [
     -87.63494,

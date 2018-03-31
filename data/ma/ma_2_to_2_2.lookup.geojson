@@ -1,21 +1,13 @@
 {
-  "id": "ma_2_to_2_02",
+  "id": "ma_2_to_2_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"2",
-    "id":"025002002002",
-    "member":{
-        "2":{
-            "3674":{
-                "district":"2",
-                "name":"Goodhue, Benjamin",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"2",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1791-03-04",
+    "start_session":2,
+    "state":"ma"
 },
   "bbox": [
     -71.2561,

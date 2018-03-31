@@ -1,54 +1,13 @@
 {
-  "id": "oh_38_to_42_01",
+  "id": "oh_38_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"039038042001",
-    "member":{
-        "38":{
-            "7319":{
-                "district":"1",
-                "name":"Pendleton, George Hunt",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "2882":{
-                "district":"1",
-                "name":"Eggleston, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "2882":{
-                "district":"1",
-                "name":"Eggleston, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "9008":{
-                "district":"1",
-                "name":"Strader, Peter Wilson",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "2639":{
-                "district":"1",
-                "name":"Dodds, Ozro John",
-                "party":"Democrat"
-            },
-            "7354":{
-                "district":"1",
-                "name":"Perry, Aaron Fyfe",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Ohio"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"oh"
 },
   "bbox": [
     -84.52086,

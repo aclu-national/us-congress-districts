@@ -2,53 +2,12 @@
   "id": "pa_73_to_77_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"77",
-    "id":"042073077033",
-    "member":{
-        "73":{
-            "2900":{
-                "district":"33",
-                "name":"Ellenbogen, Henry",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "2900":{
-                "district":"33",
-                "name":"Ellenbogen, Henry",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2900":{
-                "district":"33",
-                "name":"Ellenbogen, Henry",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "6123":{
-                "district":"33",
-                "name":"McArdle, Joseph A.",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "4518":{
-                "district":"33",
-                "name":"Holland, Elmer Joseph",
-                "party":"Democrat"
-            },
-            "6123":{
-                "district":"33",
-                "name":"McArdle, Joseph A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Pennsylvania"
+    "district":33,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"pa"
 },
   "bbox": [
     -80.09558,

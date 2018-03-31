@@ -1,47 +1,13 @@
 {
-  "id": "pa_84_to_87_04",
+  "id": "pa_84_to_87_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"87",
-    "id":"042084087004",
-    "member":{
-        "84":{
-            "1719":{
-                "district":"4",
-                "name":"Chudoff, Earl",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "1719":{
-                "district":"4",
-                "name":"Chudoff, Earl",
-                "party":"Democrat"
-            },
-            "6936":{
-                "district":"4",
-                "name":"Nix, Robert Nelson C., Sr.",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "6936":{
-                "district":"4",
-                "name":"Nix, Robert Nelson C., Sr.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "6936":{
-                "district":"4",
-                "name":"Nix, Robert Nelson C., Sr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -75.22049,

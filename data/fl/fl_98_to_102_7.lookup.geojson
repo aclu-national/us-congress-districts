@@ -1,49 +1,13 @@
 {
-  "id": "fl_98_to_102_07",
+  "id": "fl_98_to_102_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"102",
-    "id":"012098102007",
-    "member":{
-        "100":{
-            "10588":{
-                "district":"7",
-                "name":"Gibbons, Sam M.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "10588":{
-                "district":"7",
-                "name":"Gibbons, Sam M.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "10588":{
-                "district":"7",
-                "name":"Gibbons, Sam M.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "10588":{
-                "district":"7",
-                "name":"Gibbons, Sam M.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "10588":{
-                "district":"7",
-                "name":"Gibbons, Sam M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Florida"
+    "district":7,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"fl"
 },
   "bbox": [
     -82.76646,

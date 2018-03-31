@@ -1,117 +1,13 @@
 {
-  "id": "me_49_to_62_02",
+  "id": "me_49_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"023049062002",
-    "member":{
-        "49":{
-            "2606":{
-                "district":"2",
-                "name":"Dingley, Nelson Jr.",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "2606":{
-                "district":"2",
-                "name":"Dingley, Nelson Jr.",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "2606":{
-                "district":"2",
-                "name":"Dingley, Nelson Jr.",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "2606":{
-                "district":"2",
-                "name":"Dingley, Nelson Jr.",
-                "party":"Republican"
-            }
-        },
-        "53":{
-            "2606":{
-                "district":"2",
-                "name":"Dingley, Nelson Jr.",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "2606":{
-                "district":"2",
-                "name":"Dingley, Nelson Jr.",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2606":{
-                "district":"2",
-                "name":"Dingley, Nelson Jr.",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "5705":{
-                "district":"2",
-                "name":"Littlefield, Charles Edga",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "5705":{
-                "district":"2",
-                "name":"Littlefield, Charles Edga",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "5705":{
-                "district":"2",
-                "name":"Littlefield, Charles Edga",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5705":{
-                "district":"2",
-                "name":"Littlefield, Charles Edga",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5705":{
-                "district":"2",
-                "name":"Littlefield, Charles Edga",
-                "party":"Republican"
-            },
-            "9110":{
-                "district":"2",
-                "name":"Swasey, John Philip",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "9110":{
-                "district":"2",
-                "name":"Swasey, John Philip",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "6252":{
-                "district":"2",
-                "name":"McGillicuddy, Daniel John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Maine"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"me"
 },
   "bbox": [
     -71.08433,

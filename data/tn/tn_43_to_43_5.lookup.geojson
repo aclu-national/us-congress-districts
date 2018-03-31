@@ -1,21 +1,13 @@
 {
-  "id": "tn_43_to_43_05",
+  "id": "tn_43_to_43_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"43",
-    "id":"047043043005",
-    "member":{
-        "43":{
-            "4131":{
-                "district":"5",
-                "name":"Harrison, Horace Harrison",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"tn"
 },
   "bbox": [
     -87.2865,

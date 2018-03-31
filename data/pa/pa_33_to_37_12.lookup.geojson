@@ -2,58 +2,12 @@
   "id": "pa_33_to_37_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"37",
-    "id":"042033037012",
-    "member":{
-        "33":{
-            "10389":{
-                "district":"12",
-                "name":"Wright, Hendrick Bradley",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "3397":{
-                "district":"12",
-                "name":"Fuller, Henry Mills",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "5596":{
-                "district":"12",
-                "name":"Leidy, Paul",
-                "party":"Democrat"
-            },
-            "6604":{
-                "district":"12",
-                "name":"Montgomery, John Gallagher",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "8316":{
-                "district":"12",
-                "name":"Scranton, Geroge Whitfield",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "10389":{
-                "district":"12",
-                "name":"Wright, Hendrick Bradley",
-                "party":"Democrat"
-            },
-            "8316":{
-                "district":"12",
-                "name":"Scranton, Geroge Whitfield",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -76.79485,

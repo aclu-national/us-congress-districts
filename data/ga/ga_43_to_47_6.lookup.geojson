@@ -1,49 +1,13 @@
 {
-  "id": "ga_43_to_47_06",
+  "id": "ga_43_to_47_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"47",
-    "id":"013043047006",
-    "member":{
-        "43":{
-            "804":{
-                "district":"6",
-                "name":"Blount, James Henderson",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "804":{
-                "district":"6",
-                "name":"Blount, James Henderson",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "804":{
-                "district":"6",
-                "name":"Blount, James Henderson",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "804":{
-                "district":"6",
-                "name":"Blount, James Henderson",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "804":{
-                "district":"6",
-                "name":"Blount, James Henderson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Georgia"
+    "district":6,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ga"
 },
   "bbox": [
     -84.18452,

@@ -1,40 +1,13 @@
 {
-  "id": "ny_103_to_105_06",
+  "id": "ny_103_to_105_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"105",
-    "id":"036103105006",
-    "member":{
-        "103":{
-            "15412":{
-                "district":"6",
-                "name":"Flake, Floyd",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "15412":{
-                "district":"6",
-                "name":"Flake, Floyd",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "15412":{
-                "district":"6",
-                "name":"Flake, Floyd",
-                "party":"Democrat"
-            },
-            "29776":{
-                "district":"6",
-                "name":"Meeks, Gregory W.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -73.8587,

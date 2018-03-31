@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"87",
-    "id":"006083087029",
-    "member":{
-        "83":{
-            "7415":{
-                "district":"29",
-                "name":"Phillips, John",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "7415":{
-                "district":"29",
-                "name":"Phillips, John",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "8225":{
-                "district":"29",
-                "name":"Saund, Dalip Singh",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "8225":{
-                "district":"29",
-                "name":"Saund, Dalip Singh",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "8225":{
-                "district":"29",
-                "name":"Saund, Dalip Singh",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":29,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -117.67629,

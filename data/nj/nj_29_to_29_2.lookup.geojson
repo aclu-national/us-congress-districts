@@ -1,26 +1,13 @@
 {
-  "id": "nj_29_to_29_02",
+  "id": "nj_29_to_29_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"29",
-    "id":"034029029002",
-    "member":{
-        "29":{
-            "10397":{
-                "district":"2",
-                "name":"Wright, Samuel Gardiner",
-                "party":"Whig"
-            },
-            "9138":{
-                "district":"2",
-                "name":"Sykes, George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"New Jersey"
+    "district":2,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"nj"
 },
   "bbox": [
     -75.05452,

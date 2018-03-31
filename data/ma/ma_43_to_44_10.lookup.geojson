@@ -2,32 +2,12 @@
   "id": "ma_43_to_44_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"44",
-    "id":"025043044010",
-    "member":{
-        "43":{
-            "2185":{
-                "district":"10",
-                "name":"Crocker, Alvah",
-                "party":"Republican"
-            },
-            "8907":{
-                "district":"10",
-                "name":"Stevens, Charles Abbot",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "8347":{
-                "district":"10",
-                "name":"Seelye, Julius Hawley",
-                "party":"Independent"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ma"
 },
   "bbox": [
     -73.06862,

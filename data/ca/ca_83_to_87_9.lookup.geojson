@@ -1,49 +1,13 @@
 {
-  "id": "ca_83_to_87_09",
+  "id": "ca_83_to_87_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"87",
-    "id":"006083087009",
-    "member":{
-        "83":{
-            "10461":{
-                "district":"9",
-                "name":"Younger, Jesse Arthur",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "10461":{
-                "district":"9",
-                "name":"Younger, Jesse Arthur",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "10461":{
-                "district":"9",
-                "name":"Younger, Jesse Arthur",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "10461":{
-                "district":"9",
-                "name":"Younger, Jesse Arthur",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10461":{
-                "district":"9",
-                "name":"Younger, Jesse Arthur",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":9,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -122.52069,

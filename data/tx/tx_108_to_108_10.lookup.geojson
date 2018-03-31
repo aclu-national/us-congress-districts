@@ -2,20 +2,12 @@
   "id": "tx_108_to_108_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"108",
-    "id":"048108108010",
-    "member":{
-        "108":{
-            "29571":{
-                "district":"10",
-                "name":"Doggett, Lloyd",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Texas"
+    "district":10,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tx"
 },
   "bbox": [
     -97.90924,

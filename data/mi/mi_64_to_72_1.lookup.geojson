@@ -1,77 +1,13 @@
 {
-  "id": "mi_64_to_72_01",
+  "id": "mi_64_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"026064072001",
-    "member":{
-        "64":{
-            "2670":{
-                "district":"1",
-                "name":"Doremus, Frank Ellsworth",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "2670":{
-                "district":"1",
-                "name":"Doremus, Frank Ellsworth",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "2670":{
-                "district":"1",
-                "name":"Doremus, Frank Ellsworth",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1895":{
-                "district":"1",
-                "name":"Codd, George Pierre",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "1744":{
-                "district":"1",
-                "name":"Clancy, Robert Henry",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "8743":{
-                "district":"1",
-                "name":"Sosnowski, John Bartholomew",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "1744":{
-                "district":"1",
-                "name":"Clancy, Robert Henry",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "1744":{
-                "district":"1",
-                "name":"Clancy, Robert Henry",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "1744":{
-                "district":"1",
-                "name":"Clancy, Robert Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Michigan"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mi"
 },
   "bbox": [
     -83.08868,

@@ -1,19 +1,13 @@
 {
-  "id": "mi_113_to_115_08",
+  "id": "mi_113_to_115_8",
   "type": "Feature",
   "properties": {
-    "ALAND":3893095550,
-    "AWATER":99750500,
-    "CD113FP":"08",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2608",
-    "INTPTLAT":"+42.6477730",
-    "INTPTLON":"-083.9453541",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 8",
-    "STATEFP":"26"
+    "district":8,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mi"
 },
   "bbox": [
     -84.603137,

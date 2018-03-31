@@ -2,48 +2,12 @@
   "id": "oh_23_to_27_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"27",
-    "id":"039023027015",
-    "member":{
-        "23":{
-            "8583":{
-                "district":"15",
-                "name":"Sloane, Jonathan",
-                "party":"Anti Masonic"
-            }
-        },
-        "24":{
-            "8583":{
-                "district":"15",
-                "name":"Sloane, Jonathan",
-                "party":"Anti Masonic"
-            }
-        },
-        "25":{
-            "118":{
-                "district":"15",
-                "name":"Allen, John William",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "118":{
-                "district":"15",
-                "name":"Allen, John William",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "199":{
-                "district":"15",
-                "name":"Andrews, Sherlock James",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"oh"
 },
   "bbox": [
     -82.34808,

@@ -2,20 +2,12 @@
   "id": "mo_92_to_92_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"92",
-    "id":"029092092010",
-    "member":{
-        "92":{
-            "12004":{
-                "district":"10",
-                "name":"Burlison, Bill D.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"Missouri"
+    "district":10,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"mo"
 },
   "bbox": [
     -92.77234,

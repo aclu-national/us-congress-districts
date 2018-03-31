@@ -1,21 +1,13 @@
 {
-  "id": "va_25_to_25_06",
+  "id": "va_25_to_25_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"25",
-    "id":"051025025006",
-    "member":{
-        "25":{
-            "1937":{
-                "district":"6",
-                "name":"Coles, Walter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"25",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1839-03-03",
+    "end_session":25,
+    "start_date":"1837-03-04",
+    "start_session":25,
+    "state":"va"
 },
   "bbox": [
     -79.71485,

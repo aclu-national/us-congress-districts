@@ -2,34 +2,12 @@
   "id": "ny_103_to_105_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"105",
-    "id":"036103105026",
-    "member":{
-        "103":{
-            "29380":{
-                "district":"26",
-                "name":"Hinchey, Maurice D.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29380":{
-                "district":"26",
-                "name":"Hinchey, Maurice D.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29380":{
-                "district":"26",
-                "name":"Hinchey, Maurice D.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -76.6926,

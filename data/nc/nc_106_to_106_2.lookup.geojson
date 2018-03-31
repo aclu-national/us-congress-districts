@@ -1,21 +1,13 @@
 {
-  "id": "nc_106_to_106_02",
+  "id": "nc_106_to_106_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"106",
-    "id":"037106106002",
-    "member":{
-        "106":{
-            "29745":{
-                "district":"2",
-                "name":"Etheridge, Bob",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"106",
-    "statename":"North Carolina"
+    "district":2,
+    "end_date":"2000-12-15",
+    "end_session":106,
+    "start_date":"1999-01-06",
+    "start_session":106,
+    "state":"nc"
 },
   "bbox": [
     -79.36025,

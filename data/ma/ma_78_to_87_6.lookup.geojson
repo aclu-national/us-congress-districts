@@ -1,89 +1,13 @@
 {
-  "id": "ma_78_to_87_06",
+  "id": "ma_78_to_87_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"87",
-    "id":"025078087006",
-    "member":{
-        "78":{
-            "512":{
-                "district":"6",
-                "name":"Bates, George Joseph",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "512":{
-                "district":"6",
-                "name":"Bates, George Joseph",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "512":{
-                "district":"6",
-                "name":"Bates, George Joseph",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "512":{
-                "district":"6",
-                "name":"Bates, George Joseph",
-                "party":"Republican"
-            },
-            "518":{
-                "district":"6",
-                "name":"Bates, William Henry",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "518":{
-                "district":"6",
-                "name":"Bates, William Henry",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "518":{
-                "district":"6",
-                "name":"Bates, William Henry",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "518":{
-                "district":"6",
-                "name":"Bates, William Henry",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "518":{
-                "district":"6",
-                "name":"Bates, William Henry",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "518":{
-                "district":"6",
-                "name":"Bates, William Henry",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "518":{
-                "district":"6",
-                "name":"Bates, William Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ma"
 },
   "bbox": [
     -71.25595,

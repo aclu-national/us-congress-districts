@@ -2,20 +2,12 @@
   "id": "fl_90_to_90_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"90",
-    "id":"012090090010",
-    "member":{
-        "90":{
-            "11007":{
-                "district":"10",
-                "name":"Burke, J. Herbert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Florida"
+    "district":10,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"fl"
 },
   "bbox": [
     -80.88123,

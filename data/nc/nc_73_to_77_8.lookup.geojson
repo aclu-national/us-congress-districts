@@ -1,49 +1,13 @@
 {
-  "id": "nc_73_to_77_08",
+  "id": "nc_73_to_77_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"77",
-    "id":"037073077008",
-    "member":{
-        "73":{
-            "5423":{
-                "district":"8",
-                "name":"Lambeth, John Walter",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "5423":{
-                "district":"8",
-                "name":"Lambeth, John Walter",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5423":{
-                "district":"8",
-                "name":"Lambeth, John Walter",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "1258":{
-                "district":"8",
-                "name":"Burgin, William Olin",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "1258":{
-                "district":"8",
-                "name":"Burgin, William Olin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"North Carolina"
+    "district":8,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"nc"
 },
   "bbox": [
     -81.54546,

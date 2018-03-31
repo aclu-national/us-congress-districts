@@ -1,28 +1,13 @@
 {
-  "id": "ga_61_to_62_09",
+  "id": "ga_61_to_62_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"62",
-    "id":"013061062009",
-    "member":{
-        "61":{
-            "614":{
-                "district":"9",
-                "name":"Bell, Thomas Montgomery",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "614":{
-                "district":"9",
-                "name":"Bell, Thomas Montgomery",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"61",
-    "statename":"Georgia"
+    "district":9,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1909-03-04",
+    "start_session":61,
+    "state":"ga"
 },
   "bbox": [
     -84.65923,

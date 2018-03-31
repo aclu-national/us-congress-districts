@@ -1,35 +1,13 @@
 {
-  "id": "tn_95_to_97_05",
+  "id": "tn_95_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"047095097005",
-    "member":{
-        "95":{
-            "14286":{
-                "district":"5",
-                "name":"Allen, Clifford",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14607":{
-                "district":"5",
-                "name":"Boner, William Hill",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14607":{
-                "district":"5",
-                "name":"Boner, William Hill",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"95",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1977-01-04",
+    "start_session":95,
+    "state":"tn"
 },
   "bbox": [
     -87.2865,

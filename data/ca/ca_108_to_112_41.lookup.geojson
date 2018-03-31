@@ -2,48 +2,12 @@
   "id": "ca_108_to_112_41",
   "type": "Feature",
   "properties": {
-    "district":"41",
-    "endcong":"112",
-    "id":"006108112041",
-    "member":{
-        "108":{
-            "14644":{
-                "district":"41",
-                "name":"Lewis, Jerry",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "14644":{
-                "district":"41",
-                "name":"Lewis, Jerry",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "14644":{
-                "district":"41",
-                "name":"Lewis, Jerry",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "14644":{
-                "district":"41",
-                "name":"Lewis, Jerry",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "14644":{
-                "district":"41",
-                "name":"Lewis, Jerry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":41,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -117.48211,

@@ -2,27 +2,12 @@
   "id": "nc_91_to_92_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"92",
-    "id":"037091092011",
-    "member":{
-        "91":{
-            "9230":{
-                "district":"11",
-                "name":"Taylor, Roy Arthur",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "9230":{
-                "district":"11",
-                "name":"Taylor, Roy Arthur",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"North Carolina"
+    "district":11,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nc"
 },
   "bbox": [
     -84.32187,

@@ -1,77 +1,13 @@
 {
-  "id": "ri_63_to_71_02",
+  "id": "ri_63_to_71_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"71",
-    "id":"044063071002",
-    "member":{
-        "63":{
-            "3544":{
-                "district":"2",
-                "name":"Gerry, Peter Goelet",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "8953":{
-                "district":"2",
-                "name":"Stiness, Walter Russell",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "8953":{
-                "district":"2",
-                "name":"Stiness, Walter Russell",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "8953":{
-                "district":"2",
-                "name":"Stiness, Walter Russell",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "8953":{
-                "district":"2",
-                "name":"Stiness, Walter Russell",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "72":{
-                "district":"2",
-                "name":"Aldrich, Richard Steere",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "72":{
-                "district":"2",
-                "name":"Aldrich, Richard Steere",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "72":{
-                "district":"2",
-                "name":"Aldrich, Richard Steere",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "72":{
-                "district":"2",
-                "name":"Aldrich, Richard Steere",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Rhode Island"
+    "district":2,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ri"
 },
   "bbox": [
     -71.89511,

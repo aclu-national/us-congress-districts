@@ -1,75 +1,13 @@
 {
-  "id": "sc_65_to_72_06",
+  "id": "sc_65_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"045065072006",
-    "member":{
-        "65":{
-            "7689":{
-                "district":"6",
-                "name":"Ragsdale, James Willard",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "7689":{
-                "district":"6",
-                "name":"Ragsdale, James Willard",
-                "party":"Democrat"
-            },
-            "8973":{
-                "district":"6",
-                "name":"Stoll, Philip Henry",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "8973":{
-                "district":"6",
-                "name":"Stoll, Philip Henry",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "3500":{
-                "district":"6",
-                "name":"Gasque, Allard Henry",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3500":{
-                "district":"6",
-                "name":"Gasque, Allard Henry",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "3500":{
-                "district":"6",
-                "name":"Gasque, Allard Henry",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "3500":{
-                "district":"6",
-                "name":"Gasque, Allard Henry",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "3500":{
-                "district":"6",
-                "name":"Gasque, Allard Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"South Carolina"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"sc"
 },
   "bbox": [
     -80.28879,

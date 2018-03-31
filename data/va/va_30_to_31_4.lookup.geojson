@@ -1,28 +1,13 @@
 {
-  "id": "va_30_to_31_04",
+  "id": "va_30_to_31_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"31",
-    "id":"051030031004",
-    "member":{
-        "30":{
-            "815":{
-                "district":"4",
-                "name":"Bocock, Thomas Stanhope",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "815":{
-                "district":"4",
-                "name":"Bocock, Thomas Stanhope",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"va"
 },
   "bbox": [
     -79.44288,

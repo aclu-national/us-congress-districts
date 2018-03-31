@@ -1,21 +1,13 @@
 {
-  "id": "ar_48_to_48_01",
+  "id": "ar_48_to_48_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"48",
-    "id":"005048048001",
-    "member":{
-        "48":{
-            "2775":{
-                "district":"1",
-                "name":"Dunn, Poindexter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Arkansas"
+    "district":1,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ar"
 },
   "bbox": [
     -92.12134,

@@ -1,49 +1,13 @@
 {
-  "id": "va_3_to_7_05",
+  "id": "va_3_to_7_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"7",
-    "id":"051003007005",
-    "member":{
-        "3":{
-            "4026":{
-                "district":"5",
-                "name":"Hancock, George",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "4026":{
-                "district":"5",
-                "name":"Hancock, George",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "9470":{
-                "district":"5",
-                "name":"Trigg, John Johns",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "9470":{
-                "district":"5",
-                "name":"Trigg, John Johns",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "9470":{
-                "district":"5",
-                "name":"Trigg, John Johns",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"va"
 },
   "bbox": [
     -80.83084,

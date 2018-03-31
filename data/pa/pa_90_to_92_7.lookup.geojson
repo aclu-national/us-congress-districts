@@ -1,35 +1,13 @@
 {
-  "id": "pa_90_to_92_07",
+  "id": "pa_90_to_92_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"92",
-    "id":"042090092007",
-    "member":{
-        "90":{
-            "11056":{
-                "district":"7",
-                "name":"Williams, Lawrence G.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11056":{
-                "district":"7",
-                "name":"Williams, Lawrence G.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11056":{
-                "district":"7",
-                "name":"Williams, Lawrence G.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"pa"
 },
   "bbox": [
     -75.41474,

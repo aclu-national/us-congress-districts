@@ -2,25 +2,12 @@
   "id": "tx_108_to_108_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"108",
-    "id":"048108108019",
-    "member":{
-        "108":{
-            "15093":{
-                "district":"19",
-                "name":"Combest, Larry E.",
-                "party":"Republican"
-            },
-            "20353":{
-                "district":"19",
-                "name":"Neugebauer, Randy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Texas"
+    "district":19,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tx"
 },
   "bbox": [
     -103.98406,

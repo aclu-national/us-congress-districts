@@ -1,35 +1,13 @@
 {
-  "id": "ma_88_to_90_04",
+  "id": "ma_88_to_90_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"90",
-    "id":"025088090004",
-    "member":{
-        "88":{
-            "2660":{
-                "district":"4",
-                "name":"Donohue, Harold Daniel",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "2660":{
-                "district":"4",
-                "name":"Donohue, Harold Daniel",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "2660":{
-                "district":"4",
-                "name":"Donohue, Harold Daniel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ma"
 },
   "bbox": [
     -71.92881,

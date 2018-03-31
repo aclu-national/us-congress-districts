@@ -2,34 +2,12 @@
   "id": "ny_103_to_105_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"105",
-    "id":"036103105030",
-    "member":{
-        "103":{
-            "29381":{
-                "district":"30",
-                "name":"Quinn, Jack",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29381":{
-                "district":"30",
-                "name":"Quinn, Jack",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29381":{
-                "district":"30",
-                "name":"Quinn, Jack",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":30,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -79.13703,

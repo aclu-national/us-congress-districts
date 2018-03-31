@@ -2,27 +2,12 @@
   "id": "ma_43_to_44_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"44",
-    "id":"025043044011",
-    "member":{
-        "43":{
-            "2423":{
-                "district":"11",
-                "name":"Dawes, Henry Laurens",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "1648":{
-                "district":"11",
-                "name":"Chapin, Chester W.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ma"
 },
   "bbox": [
     -73.50814,

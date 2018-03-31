@@ -2,53 +2,12 @@
   "id": "pa_93_to_97_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"97",
-    "id":"042093097011",
-    "member":{
-        "93":{
-            "3224":{
-                "district":"11",
-                "name":"Flood, Daniel John",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "3224":{
-                "district":"11",
-                "name":"Flood, Daniel John",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "3224":{
-                "district":"11",
-                "name":"Flood, Daniel John",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14678":{
-                "district":"11",
-                "name":"Musto, Raphael",
-                "party":"Democrat"
-            },
-            "3224":{
-                "district":"11",
-                "name":"Flood, Daniel John",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14849":{
-                "district":"11",
-                "name":"Nelligan, James L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -76.81378,

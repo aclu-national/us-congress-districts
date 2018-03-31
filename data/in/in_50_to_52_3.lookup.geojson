@@ -1,35 +1,13 @@
 {
-  "id": "in_50_to_52_03",
+  "id": "in_50_to_52_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"52",
-    "id":"018050052003",
-    "member":{
-        "50":{
-            "4629":{
-                "district":"3",
-                "name":"Howard, Jonas George",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "1114":{
-                "district":"3",
-                "name":"Brown, Jason Brevoort",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "1114":{
-                "district":"3",
-                "name":"Brown, Jason Brevoort",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"in"
 },
   "bbox": [
     -86.32991,

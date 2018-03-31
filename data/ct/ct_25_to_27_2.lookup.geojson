@@ -1,40 +1,13 @@
 {
-  "id": "ct_25_to_27_02",
+  "id": "ct_25_to_27_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"27",
-    "id":"009025027002",
-    "member":{
-        "25":{
-            "4810":{
-                "district":"2",
-                "name":"Ingham, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "811":{
-                "district":"2",
-                "name":"Boardman, William Whiting",
-                "party":"Whig"
-            },
-            "8998":{
-                "district":"2",
-                "name":"Storrs, William Lucius",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "811":{
-                "district":"2",
-                "name":"Boardman, William Whiting",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"25",
-    "statename":"Connecticut"
+    "district":2,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1837-03-04",
+    "start_session":25,
+    "state":"ct"
 },
   "bbox": [
     -73.32711,

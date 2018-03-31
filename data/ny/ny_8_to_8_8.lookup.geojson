@@ -1,21 +1,13 @@
 {
-  "id": "ny_8_to_8_08",
+  "id": "ny_8_to_8_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"8",
-    "id":"036008008008",
-    "member":{
-        "8":{
-            "5716":{
-                "district":"8",
-                "name":"Livingston, Henry Walter",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1805-03-03",
+    "end_session":8,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ny"
 },
   "bbox": [
     -73.92963,

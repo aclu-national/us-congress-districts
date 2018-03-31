@@ -2,48 +2,12 @@
   "id": "ny_23_to_27_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"27",
-    "id":"036023027015",
-    "member":{
-        "23":{
-            "6388":{
-                "district":"15",
-                "name":"McVean, Charles",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "890":{
-                "district":"15",
-                "name":"Bovee, Matthias Jacob",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "2867":{
-                "district":"15",
-                "name":"Edwards, John",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "9712":{
-                "district":"15",
-                "name":"Wagner, Peter Joseph",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "8207":{
-                "district":"15",
-                "name":"Sanford, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -74.86771,

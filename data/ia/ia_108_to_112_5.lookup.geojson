@@ -1,49 +1,13 @@
 {
-  "id": "ia_108_to_112_05",
+  "id": "ia_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"019108112005",
-    "member":{
-        "108":{
-            "20325":{
-                "district":"5",
-                "name":"King, Steve",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20325":{
-                "district":"5",
-                "name":"King, Steve",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20325":{
-                "district":"5",
-                "name":"King, Steve",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20325":{
-                "district":"5",
-                "name":"King, Steve",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20325":{
-                "district":"5",
-                "name":"King, Steve",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Iowa"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ia"
 },
   "bbox": [
     -96.6397,

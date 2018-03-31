@@ -1,19 +1,13 @@
 {
-  "id": "va_113_to_115_08",
+  "id": "va_113_to_115_8",
   "type": "Feature",
   "properties": {
-    "ALAND":386510677,
-    "AWATER":28985919,
-    "CD113FP":"08",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5108",
-    "INTPTLAT":"+38.7795583",
-    "INTPTLON":"-077.1395037",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 8",
-    "STATEFP":"51"
+    "district":8,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"va"
 },
   "bbox": [
     -77.245756,

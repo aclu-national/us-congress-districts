@@ -1,49 +1,13 @@
 {
-  "id": "tn_28_to_32_07",
+  "id": "tn_28_to_32_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"32",
-    "id":"047028032007",
-    "member":{
-        "28":{
-            "2570":{
-                "district":"7",
-                "name":"Dickinson, David W.",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "3530":{
-                "district":"7",
-                "name":"Gentry, Meredith Poindext",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "3530":{
-                "district":"7",
-                "name":"Gentry, Meredith Poindext",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "3530":{
-                "district":"7",
-                "name":"Gentry, Meredith Poindext",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "3530":{
-                "district":"7",
-                "name":"Gentry, Meredith Poindext",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Tennessee"
+    "district":7,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"tn"
 },
   "bbox": [
     -87.2151,

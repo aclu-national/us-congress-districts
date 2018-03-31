@@ -1,35 +1,13 @@
 {
-  "id": "fl_75_to_77_05",
+  "id": "fl_75_to_77_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"77",
-    "id":"012075077005",
-    "member":{
-        "75":{
-            "4318":{
-                "district":"5",
-                "name":"Hendricks, Joseph Edward",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "4318":{
-                "district":"5",
-                "name":"Hendricks, Joseph Edward",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "4318":{
-                "district":"5",
-                "name":"Hendricks, Joseph Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"75",
-    "statename":"Florida"
+    "district":5,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1937-01-05",
+    "start_session":75,
+    "state":"fl"
 },
   "bbox": [
     -82.77635,

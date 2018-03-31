@@ -1,35 +1,13 @@
 {
-  "id": "pa_48_to_50_04",
+  "id": "pa_48_to_50_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"50",
-    "id":"042048050004",
-    "member":{
-        "48":{
-            "5140":{
-                "district":"4",
-                "name":"Kelley, William Darrah",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "5140":{
-                "district":"4",
-                "name":"Kelley, William Darrah",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "5140":{
-                "district":"4",
-                "name":"Kelley, William Darrah",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

@@ -1,84 +1,13 @@
 {
-  "id": "wi_63_to_72_03",
+  "id": "wi_63_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"055063072003",
-    "member":{
-        "63":{
-            "6869":{
-                "district":"3",
-                "name":"Nelson, John Mandt",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "6869":{
-                "district":"3",
-                "name":"Nelson, John Mandt",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "6869":{
-                "district":"3",
-                "name":"Nelson, John Mandt",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6588":{
-                "district":"3",
-                "name":"Monahan, James Gideon",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6869":{
-                "district":"3",
-                "name":"Nelson, John Mandt",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6869":{
-                "district":"3",
-                "name":"Nelson, John Mandt",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "6869":{
-                "district":"3",
-                "name":"Nelson, John Mandt",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "6869":{
-                "district":"3",
-                "name":"Nelson, John Mandt",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "6869":{
-                "district":"3",
-                "name":"Nelson, John Mandt",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "6869":{
-                "district":"3",
-                "name":"Nelson, John Mandt",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Wisconsin"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"wi"
 },
   "bbox": [
     -91.21506,

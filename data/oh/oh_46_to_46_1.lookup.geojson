@@ -1,21 +1,13 @@
 {
-  "id": "oh_46_to_46_01",
+  "id": "oh_46_to_46_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"46",
-    "id":"039046046001",
-    "member":{
-        "46":{
-            "1360":{
-                "district":"1",
-                "name":"Butterworth, Benjamin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Ohio"
+    "district":1,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"oh"
 },
   "bbox": [
     -84.5227,

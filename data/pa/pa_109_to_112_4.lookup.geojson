@@ -1,42 +1,13 @@
 {
-  "id": "pa_109_to_112_04",
+  "id": "pa_109_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"042109112004",
-    "member":{
-        "109":{
-            "20133":{
-                "district":"4",
-                "name":"Hart, Melissa A.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20743":{
-                "district":"4",
-                "name":"Altmire, Jason",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20743":{
-                "district":"4",
-                "name":"Altmire, Jason",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20743":{
-                "district":"4",
-                "name":"Altmire, Jason",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

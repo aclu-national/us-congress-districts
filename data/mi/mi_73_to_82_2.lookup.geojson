@@ -1,84 +1,13 @@
 {
-  "id": "mi_73_to_82_02",
+  "id": "mi_73_to_82_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"82",
-    "id":"026073082002",
-    "member":{
-        "73":{
-            "5593":{
-                "district":"2",
-                "name":"Lehr, John Camillus",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6456":{
-                "district":"2",
-                "name":"Michener, Earl Cory",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "6399":{
-                "district":"2",
-                "name":"Meader, George",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Michigan"
+    "district":2,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mi"
 },
   "bbox": [
     -84.71867,

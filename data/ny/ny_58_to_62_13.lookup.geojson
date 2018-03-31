@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"62",
-    "id":"036058062013",
-    "member":{
-        "58":{
-            "4129":{
-                "district":"13",
-                "name":"Harrison, Francis Burton",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "7220":{
-                "district":"13",
-                "name":"Parsons, Herbert",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "7220":{
-                "district":"13",
-                "name":"Parsons, Herbert",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "7220":{
-                "district":"13",
-                "name":"Parsons, Herbert",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5627":{
-                "district":"13",
-                "name":"Levy, Jefferson Monroe",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -74.0068,

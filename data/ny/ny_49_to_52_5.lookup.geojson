@@ -1,42 +1,13 @@
 {
-  "id": "ny_49_to_52_05",
+  "id": "ny_49_to_52_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"52",
-    "id":"036049052005",
-    "member":{
-        "49":{
-            "795":{
-                "district":"5",
-                "name":"Bliss, Archibald Meserole",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "795":{
-                "district":"5",
-                "name":"Bliss, Archibald Meserole",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "5911":{
-                "district":"5",
-                "name":"Magner, Thomas Francis",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "5911":{
-                "district":"5",
-                "name":"Magner, Thomas Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -73.96745,

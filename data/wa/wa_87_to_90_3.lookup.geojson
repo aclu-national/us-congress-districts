@@ -1,42 +1,13 @@
 {
-  "id": "wa_87_to_90_03",
+  "id": "wa_87_to_90_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"90",
-    "id":"053087090003",
-    "member":{
-        "87":{
-            "4043":{
-                "district":"3",
-                "name":"Hansen, Julia Butler",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "4043":{
-                "district":"3",
-                "name":"Hansen, Julia Butler",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "4043":{
-                "district":"3",
-                "name":"Hansen, Julia Butler",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "4043":{
-                "district":"3",
-                "name":"Hansen, Julia Butler",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"87",
-    "statename":"Washington"
+    "district":3,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1961-01-03",
+    "start_session":87,
+    "state":"wa"
 },
   "bbox": [
     -124.36355,

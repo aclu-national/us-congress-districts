@@ -1,49 +1,13 @@
 {
-  "id": "wv_58_to_62_01",
+  "id": "wv_58_to_62_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"62",
-    "id":"054058062001",
-    "member":{
-        "58":{
-            "2696":{
-                "district":"1",
-                "name":"Dovener, Blackburn Barrett",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2696":{
-                "district":"1",
-                "name":"Dovener, Blackburn Barrett",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "4675":{
-                "district":"1",
-                "name":"Hubbard, William Palliste",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "4675":{
-                "district":"1",
-                "name":"Hubbard, William Palliste",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "2400":{
-                "district":"1",
-                "name":"Davis, John William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"West Virginia"
+    "district":1,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"wv"
 },
   "bbox": [
     -80.94378,

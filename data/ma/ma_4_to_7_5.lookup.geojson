@@ -1,42 +1,13 @@
 {
-  "id": "ma_4_to_7_05",
+  "id": "ma_4_to_7_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"7",
-    "id":"025004007005",
-    "member":{
-        "4":{
-            "3358":{
-                "district":"5",
-                "name":"Freeman, Nathaniel Jr.",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "3358":{
-                "district":"5",
-                "name":"Freeman, Nathaniel Jr.",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "10169":{
-                "district":"5",
-                "name":"Williams, Lemuel",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "10169":{
-                "district":"5",
-                "name":"Williams, Lemuel",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"ma"
 },
   "bbox": [
     -71.07651,

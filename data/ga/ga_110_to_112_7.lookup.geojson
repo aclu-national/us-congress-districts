@@ -1,35 +1,13 @@
 {
-  "id": "ga_110_to_112_07",
+  "id": "ga_110_to_112_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"112",
-    "id":"013110112007",
-    "member":{
-        "110":{
-            "29341":{
-                "district":"7",
-                "name":"Linder, John",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29341":{
-                "district":"7",
-                "name":"Linder, John",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21122":{
-                "district":"7",
-                "name":"Woodall, Rob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"110",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2007-01-04",
+    "start_session":110,
+    "state":"ga"
 },
   "bbox": [
     -84.27682,

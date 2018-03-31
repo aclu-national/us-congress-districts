@@ -1,49 +1,13 @@
 {
-  "id": "ct_98_to_102_03",
+  "id": "ct_98_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"009098102003",
-    "member":{
-        "100":{
-            "15045":{
-                "district":"3",
-                "name":"Morrison, Bruce A.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15045":{
-                "district":"3",
-                "name":"Morrison, Bruce A.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "29109":{
-                "district":"3",
-                "name":"Delauro, Rosa",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "15045":{
-                "district":"3",
-                "name":"Morrison, Bruce A.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15045":{
-                "district":"3",
-                "name":"Morrison, Bruce A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Connecticut"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ct"
 },
   "bbox": [
     -73.16478,

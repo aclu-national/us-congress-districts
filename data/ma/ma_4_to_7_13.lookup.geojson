@@ -2,41 +2,12 @@
   "id": "ma_4_to_7_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"7",
-    "id":"025004007013",
-    "member":{
-        "4":{
-            "9707":{
-                "district":"13",
-                "name":"Wadsworth, Peleg",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "9707":{
-                "district":"13",
-                "name":"Wadsworth, Peleg",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "9707":{
-                "district":"13",
-                "name":"Wadsworth, Peleg",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "9707":{
-                "district":"13",
-                "name":"Wadsworth, Peleg",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Massachusetts"
+    "district":13,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"ma"
 },
   "bbox": [
     -70.75122,

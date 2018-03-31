@@ -1,35 +1,13 @@
 {
-  "id": "ga_29_to_31_04",
+  "id": "ga_29_to_31_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"31",
-    "id":"013029031004",
-    "member":{
-        "29":{
-            "4046":{
-                "district":"4",
-                "name":"Haralson, Hugh Anderson",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "4046":{
-                "district":"4",
-                "name":"Haralson, Hugh Anderson",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "4046":{
-                "district":"4",
-                "name":"Haralson, Hugh Anderson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"Georgia"
+    "district":4,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"ga"
 },
   "bbox": [
     -85.38057,

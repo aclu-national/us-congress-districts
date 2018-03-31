@@ -2,32 +2,12 @@
   "id": "ny_66_to_67_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"67",
-    "id":"036066067026",
-    "member":{
-        "66":{
-            "3162":{
-                "district":"26",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            },
-            "7479":{
-                "district":"26",
-                "name":"Platt, Edmund",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3162":{
-                "district":"26",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -74.7621,

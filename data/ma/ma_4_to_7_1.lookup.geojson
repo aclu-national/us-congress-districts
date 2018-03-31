@@ -1,47 +1,13 @@
 {
-  "id": "ma_4_to_7_01",
+  "id": "ma_4_to_7_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"7",
-    "id":"025004007001",
-    "member":{
-        "4":{
-            "8344":{
-                "district":"1",
-                "name":"Sedgwick, Theodore",
-                "party":"Federalist"
-            },
-            "8563":{
-                "district":"1",
-                "name":"Skinner, Thomson Joseph",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "8563":{
-                "district":"1",
-                "name":"Skinner, Thomson Joseph",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "8344":{
-                "district":"1",
-                "name":"Sedgwick, Theodore",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "325":{
-                "district":"1",
-                "name":"Bacon, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"ma"
 },
   "bbox": [
     -73.50814,

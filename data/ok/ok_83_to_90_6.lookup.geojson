@@ -1,70 +1,13 @@
 {
-  "id": "ok_83_to_90_06",
+  "id": "ok_83_to_90_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"90",
-    "id":"040083090006",
-    "member":{
-        "83":{
-            "10085":{
-                "district":"6",
-                "name":"Wickersham, Victor Eugene",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "10085":{
-                "district":"6",
-                "name":"Wickersham, Victor Eugene",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "6718":{
-                "district":"6",
-                "name":"Morris, Toby",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "6718":{
-                "district":"6",
-                "name":"Morris, Toby",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10085":{
-                "district":"6",
-                "name":"Wickersham, Victor Eugene",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "10085":{
-                "district":"6",
-                "name":"Wickersham, Victor Eugene",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10743":{
-                "district":"6",
-                "name":"Johnson, Jed J., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11049":{
-                "district":"6",
-                "name":"Smith, James V.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Oklahoma"
+    "district":6,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ok"
 },
   "bbox": [
     -103.00265,

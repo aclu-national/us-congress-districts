@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"87",
-    "id":"036083087010",
-    "member":{
-        "83":{
-            "5148":{
-                "district":"10",
-                "name":"Kelly, Edna Flannery",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5148":{
-                "district":"10",
-                "name":"Kelly, Edna Flannery",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5148":{
-                "district":"10",
-                "name":"Kelly, Edna Flannery",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5148":{
-                "district":"10",
-                "name":"Kelly, Edna Flannery",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "5148":{
-                "district":"10",
-                "name":"Kelly, Edna Flannery",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -73.96891,

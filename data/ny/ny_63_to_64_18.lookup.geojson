@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"64",
-    "id":"036063064018",
-    "member":{
-        "63":{
-            "7236":{
-                "district":"18",
-                "name":"Patten, Thomas Gedney",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "7236":{
-                "district":"18",
-                "name":"Patten, Thomas Gedney",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":18,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -73.98623,

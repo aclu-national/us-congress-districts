@@ -1,40 +1,13 @@
 {
-  "id": "tx_55_to_57_04",
+  "id": "tx_55_to_57_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"57",
-    "id":"048055057004",
-    "member":{
-        "55":{
-            "2148":{
-                "district":"4",
-                "name":"Cranford, John Walter",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "8445":{
-                "district":"4",
-                "name":"Sheppard, John Levi",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "8445":{
-                "district":"4",
-                "name":"Sheppard, John Levi",
-                "party":"Democrat"
-            },
-            "8446":{
-                "district":"4",
-                "name":"Sheppard, Morris",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Texas"
+    "district":4,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"tx"
 },
   "bbox": [
     -95.86333,

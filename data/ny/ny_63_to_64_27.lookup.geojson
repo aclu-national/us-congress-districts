@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"64",
-    "id":"036063064027",
-    "member":{
-        "63":{
-            "6149":{
-                "district":"27",
-                "name":"McClellan, George",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "9810":{
-                "district":"27",
-                "name":"Ward, Charles Bonnell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -75.14645,

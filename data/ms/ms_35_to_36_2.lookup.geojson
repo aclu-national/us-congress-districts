@@ -1,28 +1,13 @@
 {
-  "id": "ms_35_to_36_02",
+  "id": "ms_35_to_36_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"36",
-    "id":"028035036002",
-    "member":{
-        "35":{
-            "2404":{
-                "district":"2",
-                "name":"Davis, Reuben",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "2404":{
-                "district":"2",
-                "name":"Davis, Reuben",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"35",
-    "statename":"Mississippi"
+    "district":2,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1857-03-04",
+    "start_session":35,
+    "state":"ms"
 },
   "bbox": [
     -91.2326,

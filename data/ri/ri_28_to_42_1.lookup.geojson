@@ -1,119 +1,13 @@
 {
-  "id": "ri_28_to_42_01",
+  "id": "ri_28_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"044028042001",
-    "member":{
-        "28":{
-            "2149":{
-                "district":"1",
-                "name":"Cranston, Henry Young",
-                "party":"Law and Order"
-            }
-        },
-        "29":{
-            "2149":{
-                "district":"1",
-                "name":"Cranston, Henry Young",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "2150":{
-                "district":"1",
-                "name":"Cranston, Robert Bennie",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "5260":{
-                "district":"1",
-                "name":"King, George Gordon",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "5260":{
-                "district":"1",
-                "name":"King, George Gordon",
-                "party":"Whig"
-            }
-        },
-        "33":{
-            "2411":{
-                "district":"1",
-                "name":"Davis, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "2789":{
-                "district":"1",
-                "name":"Durfee, Nathaniel Briggs",
-                "party":"American"
-            }
-        },
-        "35":{
-            "2789":{
-                "district":"1",
-                "name":"Durfee, Nathaniel Briggs",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "7973":{
-                "district":"1",
-                "name":"Robinson, Christopher",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "8429":{
-                "district":"1",
-                "name":"Sheffield, William Paine",
-                "party":"Union"
-            }
-        },
-        "38":{
-            "4907":{
-                "district":"1",
-                "name":"Jenckes, Thomas Allen",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "4907":{
-                "district":"1",
-                "name":"Jenckes, Thomas Allen",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "4907":{
-                "district":"1",
-                "name":"Jenckes, Thomas Allen",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "4907":{
-                "district":"1",
-                "name":"Jenckes, Thomas Allen",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "2811":{
-                "district":"1",
-                "name":"Eames, Benjamin Tucker",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Rhode Island"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ri"
 },
   "bbox": [
     -71.61313,

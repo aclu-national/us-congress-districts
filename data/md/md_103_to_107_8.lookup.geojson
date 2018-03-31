@@ -1,49 +1,13 @@
 {
-  "id": "md_103_to_107_08",
+  "id": "md_103_to_107_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"107",
-    "id":"024103107008",
-    "member":{
-        "103":{
-            "15434":{
-                "district":"8",
-                "name":"Morella, Constance",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15434":{
-                "district":"8",
-                "name":"Morella, Constance",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15434":{
-                "district":"8",
-                "name":"Morella, Constance A.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "15434":{
-                "district":"8",
-                "name":"Morella, Constance A.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "15434":{
-                "district":"8",
-                "name":"Morella, Constance A.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Maryland"
+    "district":8,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"md"
 },
   "bbox": [
     -77.52728,

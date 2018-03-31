@@ -2,34 +2,12 @@
   "id": "pa_48_to_50_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"50",
-    "id":"042048050020",
-    "member":{
-        "48":{
-            "2265":{
-                "district":"20",
-                "name":"Curtin, Andrew Gregg",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "2265":{
-                "district":"20",
-                "name":"Curtin, Andrew Gregg",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "7262":{
-                "district":"20",
-                "name":"Patton, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":20,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -79.09518,

@@ -1,63 +1,13 @@
 {
-  "id": "ne_91_to_97_01",
+  "id": "ne_91_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"031091097001",
-    "member":{
-        "91":{
-            "11012":{
-                "district":"1",
-                "name":"Denney, Robert V.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13045":{
-                "district":"1",
-                "name":"Thone, Charles",
-                "party":"Republican"
-            }
-        },
-        "93":{
-            "13045":{
-                "district":"1",
-                "name":"Thone, Charles",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "13045":{
-                "district":"1",
-                "name":"Thone, Charles",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "13045":{
-                "district":"1",
-                "name":"Thone, Charles",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14605":{
-                "district":"1",
-                "name":"Bereuter, Douglas K.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14605":{
-                "district":"1",
-                "name":"Bereuter, Douglas K.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Nebraska"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ne"
 },
   "bbox": [
     -98.31038,

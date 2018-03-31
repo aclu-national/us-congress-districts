@@ -2,48 +2,12 @@
   "id": "oh_83_to_87_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"87",
-    "id":"039083087010",
-    "member":{
-        "83":{
-            "4917":{
-                "district":"10",
-                "name":"Jenkins, Thomas Albert",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4917":{
-                "district":"10",
-                "name":"Jenkins, Thomas Albert",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4917":{
-                "district":"10",
-                "name":"Jenkins, Thomas Albert",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "6579":{
-                "district":"10",
-                "name":"Moeller, Walter Henry",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "6579":{
-                "district":"10",
-                "name":"Moeller, Walter Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Ohio"
+    "district":10,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"oh"
 },
   "bbox": [
     -82.84307,

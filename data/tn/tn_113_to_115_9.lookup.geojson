@@ -1,19 +1,13 @@
 {
-  "id": "tn_113_to_115_09",
+  "id": "tn_113_to_115_9",
   "type": "Feature",
   "properties": {
-    "ALAND":1251948971,
-    "AWATER":54601431,
-    "CD113FP":"09",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4709",
-    "INTPTLAT":"+35.1667619",
-    "INTPTLON":"-089.9775528",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 9",
-    "STATEFP":"47"
+    "district":9,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tn"
 },
   "bbox": [
     -90.310298,

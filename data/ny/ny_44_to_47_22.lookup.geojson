@@ -2,46 +2,12 @@
   "id": "ny_44_to_47_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"47",
-    "id":"036044047022",
-    "member":{
-        "44":{
-            "336":{
-                "district":"22",
-                "name":"Bagley, George Augustus",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "336":{
-                "district":"22",
-                "name":"Bagley, George Augustus",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "6514":{
-                "district":"22",
-                "name":"Miller, Warner",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "6514":{
-                "district":"22",
-                "name":"Miller, Warner",
-                "party":"Republican"
-            },
-            "8559":{
-                "district":"22",
-                "name":"Skinner, Charles Rufus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -76.44652,

@@ -1,21 +1,13 @@
 {
-  "id": "oh_47_to_47_09",
+  "id": "oh_47_to_47_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"47",
-    "id":"039047047009",
-    "member":{
-        "47":{
-            "7978":{
-                "district":"9",
-                "name":"Robinson, James Sidney",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Ohio"
+    "district":9,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"oh"
 },
   "bbox": [
     -83.88031,

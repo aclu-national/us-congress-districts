@@ -1,49 +1,13 @@
 {
-  "id": "ct_58_to_62_02",
+  "id": "ct_58_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"009058062002",
-    "member":{
-        "58":{
-            "8793":{
-                "district":"2",
-                "name":"Sperry, Nehemiah Day",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "8793":{
-                "district":"2",
-                "name":"Sperry, Nehemiah Day",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "8793":{
-                "district":"2",
-                "name":"Sperry, Nehemiah Day",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "8793":{
-                "district":"2",
-                "name":"Sperry, Nehemiah Day",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "7817":{
-                "district":"2",
-                "name":"Reilly, Thomas Lawrence",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Connecticut"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ct"
 },
   "bbox": [
     -73.32711,

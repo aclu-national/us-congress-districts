@@ -2,20 +2,12 @@
   "id": "ny_33_to_33_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"33",
-    "id":"036033033013",
-    "member":{
-        "33":{
-            "8174":{
-                "district":"13",
-                "name":"Sage, Russell",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -73.78616,

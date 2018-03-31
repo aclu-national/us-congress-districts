@@ -2,41 +2,12 @@
   "id": "tx_94_to_97_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"97",
-    "id":"048094097020",
-    "member":{
-        "94":{
-            "10520":{
-                "district":"20",
-                "name":"Gonzalez, Henry B.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10520":{
-                "district":"20",
-                "name":"Gonzalez, Henry B.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10520":{
-                "district":"20",
-                "name":"Gonzalez, Henry B.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "10520":{
-                "district":"20",
-                "name":"Gonzalez, Henry B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"Texas"
+    "district":20,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"tx"
 },
   "bbox": [
     -98.64984,

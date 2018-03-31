@@ -1,54 +1,13 @@
 {
-  "id": "mi_48_to_52_05",
+  "id": "mi_48_to_52_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"52",
-    "id":"026048052005",
-    "member":{
-        "48":{
-            "4608":{
-                "district":"5",
-                "name":"Houseman, Julius",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "1967":{
-                "district":"5",
-                "name":"Comstock, Charles Carter",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "3271":{
-                "district":"5",
-                "name":"Ford, Melbourne Haddock",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "595":{
-                "district":"5",
-                "name":"Belknap, Charles Eugene",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "3271":{
-                "district":"5",
-                "name":"Ford, Melbourne Haddock",
-                "party":"Democrat"
-            },
-            "595":{
-                "district":"5",
-                "name":"Belknap, Charles Eugene",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Michigan"
+    "district":5,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mi"
 },
   "bbox": [
     -86.27394,

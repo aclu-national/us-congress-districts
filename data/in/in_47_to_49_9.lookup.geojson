@@ -1,40 +1,13 @@
 {
-  "id": "in_47_to_49_09",
+  "id": "in_47_to_49_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"49",
-    "id":"018047049009",
-    "member":{
-        "47":{
-            "2711":{
-                "district":"9",
-                "name":"Doxey, Charles Taylor",
-                "party":"Republican"
-            },
-            "7089":{
-                "district":"9",
-                "name":"Orth, Godlove Stein",
-                "party":"Republican"
-            }
-        },
-        "48":{
-            "9822":{
-                "district":"9",
-                "name":"Ward, Thomas Bayless",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "9822":{
-                "district":"9",
-                "name":"Ward, Thomas Bayless",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Indiana"
+    "district":9,
+    "end_date":"1887-03-03",
+    "end_session":49,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"in"
 },
   "bbox": [
     -87.09525,

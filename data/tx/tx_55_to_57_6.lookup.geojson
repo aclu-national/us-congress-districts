@@ -1,40 +1,13 @@
 {
-  "id": "tx_55_to_57_06",
+  "id": "tx_55_to_57_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"57",
-    "id":"048055057006",
-    "member":{
-        "55":{
-            "1270":{
-                "district":"6",
-                "name":"Burke, Robert Emmet",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "1270":{
-                "district":"6",
-                "name":"Burke, Robert Emmet",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "10369":{
-                "district":"6",
-                "name":"Wooten, Dudley Goodall",
-                "party":"Democrat"
-            },
-            "1270":{
-                "district":"6",
-                "name":"Burke, Robert Emmet",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"tx"
 },
   "bbox": [
     -98.00531,

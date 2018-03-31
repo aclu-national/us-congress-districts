@@ -1,49 +1,13 @@
 {
-  "id": "nc_108_to_112_04",
+  "id": "nc_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"037108112004",
-    "member":{
-        "108":{
-            "15438":{
-                "district":"4",
-                "name":"Price, David E.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15438":{
-                "district":"4",
-                "name":"Price, David E.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "15438":{
-                "district":"4",
-                "name":"Price, David E.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "15438":{
-                "district":"4",
-                "name":"Price, David E.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "15438":{
-                "district":"4",
-                "name":"Price, David E.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nc"
 },
   "bbox": [
     -79.32456,

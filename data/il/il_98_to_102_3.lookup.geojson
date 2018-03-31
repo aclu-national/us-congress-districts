@@ -1,49 +1,13 @@
 {
-  "id": "il_98_to_102_03",
+  "id": "il_98_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"017098102003",
-    "member":{
-        "100":{
-            "14271":{
-                "district":"3",
-                "name":"Russo, Martin",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14271":{
-                "district":"3",
-                "name":"Russo, Martin",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14271":{
-                "district":"3",
-                "name":"Russo, Martin",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14271":{
-                "district":"3",
-                "name":"Russo, Martin",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14271":{
-                "district":"3",
-                "name":"Russo, Martin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Illinois"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"il"
 },
   "bbox": [
     -87.8013,

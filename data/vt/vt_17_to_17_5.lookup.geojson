@@ -1,21 +1,13 @@
 {
-  "id": "vt_17_to_17_05",
+  "id": "vt_17_to_17_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"17",
-    "id":"050017017005",
-    "member":{
-        "17":{
-            "2128":{
-                "district":"5",
-                "name":"Crafts, Samuel Chandler",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Vermont"
+    "district":5,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"vt"
 },
   "bbox": [
     -73.39023,

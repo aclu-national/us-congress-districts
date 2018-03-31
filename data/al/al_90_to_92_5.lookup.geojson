@@ -1,35 +1,13 @@
 {
-  "id": "al_90_to_92_05",
+  "id": "al_90_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"001090092005",
-    "member":{
-        "90":{
-            "8353":{
-                "district":"5",
-                "name":"Selden, Armistead Inge, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "12014":{
-                "district":"5",
-                "name":"Flowers, Walter W.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "12014":{
-                "district":"5",
-                "name":"Flowers, Walter W.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Alabama"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"al"
 },
   "bbox": [
     -88.42145,

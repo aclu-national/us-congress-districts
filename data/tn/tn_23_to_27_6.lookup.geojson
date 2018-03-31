@@ -1,49 +1,13 @@
 {
-  "id": "tn_23_to_27_06",
+  "id": "tn_23_to_27_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"27",
-    "id":"047023027006",
-    "member":{
-        "23":{
-            "7387":{
-                "district":"6",
-                "name":"Peyton, Balie",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "7387":{
-                "district":"6",
-                "name":"Peyton, Balie",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "1468":{
-                "district":"6",
-                "name":"Campbell, William Bowen",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "1468":{
-                "district":"6",
-                "name":"Campbell, William Bowen",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "1468":{
-                "district":"6",
-                "name":"Campbell, William Bowen",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"tn"
 },
   "bbox": [
     -86.7548,

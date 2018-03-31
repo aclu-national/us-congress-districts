@@ -1,49 +1,13 @@
 {
-  "id": "ia_103_to_107_01",
+  "id": "ia_103_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"019103107001",
-    "member":{
-        "103":{
-            "14432":{
-                "district":"1",
-                "name":"Leach, James",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14432":{
-                "district":"1",
-                "name":"Leach, James",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "14432":{
-                "district":"1",
-                "name":"Leach, James A.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "14432":{
-                "district":"1",
-                "name":"Leach, James A.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "14432":{
-                "district":"1",
-                "name":"Leach, James A.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Iowa"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ia"
 },
   "bbox": [
     -91.83528,

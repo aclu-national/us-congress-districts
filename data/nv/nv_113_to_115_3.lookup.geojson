@@ -1,19 +1,13 @@
 {
-  "id": "nv_113_to_115_03",
+  "id": "nv_113_to_115_3",
   "type": "Feature",
   "properties": {
-    "ALAND":7377828122,
-    "AWATER":103659761,
-    "CD113FP":"03",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3203",
-    "INTPTLAT":"+35.6631939",
-    "INTPTLON":"-115.1539667",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 3",
-    "STATEFP":"32"
+    "district":3,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nv"
 },
   "bbox": [
     -115.845994,

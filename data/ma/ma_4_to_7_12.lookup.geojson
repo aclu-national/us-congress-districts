@@ -2,46 +2,12 @@
   "id": "ma_4_to_7_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"7",
-    "id":"025004007012",
-    "member":{
-        "4":{
-            "2451":{
-                "district":"12",
-                "name":"Dearborn, Henry",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "7192":{
-                "district":"12",
-                "name":"Parker, Isaac",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "5568":{
-                "district":"12",
-                "name":"Lee, Silas",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "5568":{
-                "district":"12",
-                "name":"Lee, Silas",
-                "party":"Federalist"
-            },
-            "9271":{
-                "district":"12",
-                "name":"Thatcher, Samuel",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"ma"
 },
   "bbox": [
     -70.00133,

@@ -2,27 +2,12 @@
   "id": "va_28_to_29_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"29",
-    "id":"051028029012",
-    "member":{
-        "28":{
-            "1651":{
-                "district":"12",
-                "name":"Chapman, Augustus Alexand",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "1651":{
-                "district":"12",
-                "name":"Chapman, Augustus Alexand",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Virginia"
+    "district":12,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"va"
 },
   "bbox": [
     -82.42048,

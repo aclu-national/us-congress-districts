@@ -1,49 +1,13 @@
 {
-  "id": "ok_73_to_77_01",
+  "id": "ok_73_to_77_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"77",
-    "id":"040073077001",
-    "member":{
-        "73":{
-            "2611":{
-                "district":"1",
-                "name":"Disney, Wesley Ernest",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "2611":{
-                "district":"1",
-                "name":"Disney, Wesley Ernest",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2611":{
-                "district":"1",
-                "name":"Disney, Wesley Ernest",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2611":{
-                "district":"1",
-                "name":"Disney, Wesley Ernest",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2611":{
-                "district":"1",
-                "name":"Disney, Wesley Ernest",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Oklahoma"
+    "district":1,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ok"
 },
   "bbox": [
     -97.06468,

@@ -2,20 +2,12 @@
   "id": "ca_98_to_98_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"98",
-    "id":"006098098021",
-    "member":{
-        "98":{
-            "14821":{
-                "district":"21",
-                "name":"Fiedler, Bobbi",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"California"
+    "district":21,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ca"
 },
   "bbox": [
     -119.57894,

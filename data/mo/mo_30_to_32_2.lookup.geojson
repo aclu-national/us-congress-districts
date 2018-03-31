@@ -1,35 +1,13 @@
 {
-  "id": "mo_30_to_32_02",
+  "id": "mo_30_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"029030032002",
-    "member":{
-        "30":{
-            "4888":{
-                "district":"2",
-                "name":"Jameson, John",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "523":{
-                "district":"2",
-                "name":"Bay, William Van Ness",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "7534":{
-                "district":"2",
-                "name":"Porter, Gilchrist",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Missouri"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"mo"
 },
   "bbox": [
     -92.41366,

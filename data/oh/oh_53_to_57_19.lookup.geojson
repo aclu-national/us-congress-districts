@@ -2,53 +2,12 @@
   "id": "oh_53_to_57_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"57",
-    "id":"039053057019",
-    "member":{
-        "53":{
-            "6964":{
-                "district":"19",
-                "name":"Northway, Stephen Asa",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "6964":{
-                "district":"19",
-                "name":"Northway, Stephen Asa",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2555":{
-                "district":"19",
-                "name":"Dick, Charles William F.",
-                "party":"Republican"
-            },
-            "6964":{
-                "district":"19",
-                "name":"Northway, Stephen Asa",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2555":{
-                "district":"19",
-                "name":"Dick, Charles William F.",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2555":{
-                "district":"19",
-                "name":"Dick, Charles William F.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Ohio"
+    "district":19,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"oh"
 },
   "bbox": [
     -81.68845,

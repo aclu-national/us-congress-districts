@@ -1,49 +1,13 @@
 {
-  "id": "ma_33_to_37_02",
+  "id": "ma_33_to_37_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"37",
-    "id":"025033037002",
-    "member":{
-        "33":{
-            "2186":{
-                "district":"2",
-                "name":"Crocker, Samuel Leonard",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "1220":{
-                "district":"2",
-                "name":"Buffington, James",
-                "party":"American"
-            }
-        },
-        "35":{
-            "1220":{
-                "district":"2",
-                "name":"Buffington, James",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "1220":{
-                "district":"2",
-                "name":"Buffington, James",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "1220":{
-                "district":"2",
-                "name":"Buffington, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ma"
 },
   "bbox": [
     -71.395,

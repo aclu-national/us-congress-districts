@@ -1,35 +1,13 @@
 {
-  "id": "tn_95_to_97_08",
+  "id": "tn_95_to_97_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"97",
-    "id":"047095097008",
-    "member":{
-        "95":{
-            "14224":{
-                "district":"8",
-                "name":"Ford, Harold",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14224":{
-                "district":"8",
-                "name":"Ford, Harold",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14224":{
-                "district":"8",
-                "name":"Ford, Harold",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"95",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1977-01-04",
+    "start_session":95,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

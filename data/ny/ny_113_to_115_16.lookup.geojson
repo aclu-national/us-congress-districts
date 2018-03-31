@@ -2,18 +2,12 @@
   "id": "ny_113_to_115_16",
   "type": "Feature",
   "properties": {
-    "ALAND":202992164,
-    "AWATER":76380005,
-    "CD113FP":"16",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3616",
-    "INTPTLAT":"+40.9397352",
-    "INTPTLON":"-073.7910880",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 16",
-    "STATEFP":"36"
+    "district":16,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ny"
 },
   "bbox": [
     -73.933808,

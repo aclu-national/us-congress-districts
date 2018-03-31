@@ -2,34 +2,12 @@
   "id": "oh_30_to_32_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"32",
-    "id":"039030032019",
-    "member":{
-        "30":{
-            "2209":{
-                "district":"19",
-                "name":"Crowell, John",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "2209":{
-                "district":"19",
-                "name":"Crowell, John",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "6904":{
-                "district":"19",
-                "name":"Newton, Eben",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Ohio"
+    "district":19,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"oh"
 },
   "bbox": [
     -81.68845,

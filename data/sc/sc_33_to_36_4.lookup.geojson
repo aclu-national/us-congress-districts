@@ -1,42 +1,13 @@
 {
-  "id": "sc_33_to_36_04",
+  "id": "sc_33_to_36_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"36",
-    "id":"045033036004",
-    "member":{
-        "33":{
-            "1082":{
-                "district":"4",
-                "name":"Brooks, Preston Smith",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "1082":{
-                "district":"4",
-                "name":"Brooks, Preston Smith",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "844":{
-                "district":"4",
-                "name":"Bonham, Milledge Luke",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "844":{
-                "district":"4",
-                "name":"Bonham, Milledge Luke",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"South Carolina"
+    "district":4,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"sc"
 },
   "bbox": [
     -82.74096,

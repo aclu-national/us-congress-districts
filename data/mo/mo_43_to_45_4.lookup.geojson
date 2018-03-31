@@ -1,35 +1,13 @@
 {
-  "id": "mo_43_to_45_04",
+  "id": "mo_43_to_45_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"45",
-    "id":"029043045004",
-    "member":{
-        "43":{
-            "4189":{
-                "district":"4",
-                "name":"Hatcher, Robert Anthony",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "4189":{
-                "district":"4",
-                "name":"Hatcher, Robert Anthony",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "4189":{
-                "district":"4",
-                "name":"Hatcher, Robert Anthony",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Missouri"
+    "district":4,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"mo"
 },
   "bbox": [
     -91.67833,

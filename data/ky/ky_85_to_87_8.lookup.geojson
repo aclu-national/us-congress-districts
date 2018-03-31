@@ -1,35 +1,13 @@
 {
-  "id": "ky_85_to_87_08",
+  "id": "ky_85_to_87_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"87",
-    "id":"021085087008",
-    "member":{
-        "85":{
-            "8508":{
-                "district":"8",
-                "name":"Siler, Eugene",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "8508":{
-                "district":"8",
-                "name":"Siler, Eugene",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "8508":{
-                "district":"8",
-                "name":"Siler, Eugene",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"85",
-    "statename":"Kentucky"
+    "district":8,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1957-01-03",
+    "start_session":85,
+    "state":"ky"
 },
   "bbox": [
     -85.97741,

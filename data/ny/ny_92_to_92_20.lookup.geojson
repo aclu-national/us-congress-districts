@@ -2,20 +2,12 @@
   "id": "ny_92_to_92_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"92",
-    "id":"036092092020",
-    "member":{
-        "92":{
-            "10555":{
-                "district":"20",
-                "name":"Ryan, William F.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"ny"
 },
   "bbox": [
     -73.98383,

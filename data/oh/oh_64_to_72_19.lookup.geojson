@@ -2,76 +2,12 @@
   "id": "oh_64_to_72_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"72",
-    "id":"039064072019",
-    "member":{
-        "64":{
-            "2051":{
-                "district":"19",
-                "name":"Cooper, John Gordon",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "2051":{
-                "district":"19",
-                "name":"Cooper, John Gordon",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "2051":{
-                "district":"19",
-                "name":"Cooper, John Gordon",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "2051":{
-                "district":"19",
-                "name":"Cooper, John Gordon",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "2051":{
-                "district":"19",
-                "name":"Cooper, John Gordon",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "2051":{
-                "district":"19",
-                "name":"Cooper, John Gordon",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "2051":{
-                "district":"19",
-                "name":"Cooper, John Gordon",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2051":{
-                "district":"19",
-                "name":"Cooper, John Gordon",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2051":{
-                "district":"19",
-                "name":"Cooper, John Gordon",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":19,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -81.08692,

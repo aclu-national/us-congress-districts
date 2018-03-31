@@ -1,42 +1,13 @@
 {
-  "id": "co_64_to_67_04",
+  "id": "co_64_to_67_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"67",
-    "id":"008064067004",
-    "member":{
-        "64":{
-            "9205":{
-                "district":"4",
-                "name":"Taylor, Edward Thomas",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "9205":{
-                "district":"4",
-                "name":"Taylor, Edward Thomas",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "9205":{
-                "district":"4",
-                "name":"Taylor, Edward Thomas",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "9205":{
-                "district":"4",
-                "name":"Taylor, Edward Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Colorado"
+    "district":4,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"co"
 },
   "bbox": [
     -109.06026,

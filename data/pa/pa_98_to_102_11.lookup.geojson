@@ -2,48 +2,12 @@
   "id": "pa_98_to_102_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"102",
-    "id":"042098102011",
-    "member":{
-        "100":{
-            "15104":{
-                "district":"11",
-                "name":"Kanjorski, Paul E.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15104":{
-                "district":"11",
-                "name":"Kanjorski, Paul E.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15104":{
-                "district":"11",
-                "name":"Kanjorski, Paul E.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "15027":{
-                "district":"11",
-                "name":"Harrison, Frank",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15104":{
-                "district":"11",
-                "name":"Kanjorski, Paul E.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"pa"
 },
   "bbox": [
     -76.8141,

@@ -2,48 +2,12 @@
   "id": "fl_93_to_97_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"97",
-    "id":"012093097011",
-    "member":{
-        "93":{
-            "8032":{
-                "district":"11",
-                "name":"Rogers, Paul Grant",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "8032":{
-                "district":"11",
-                "name":"Rogers, Paul Grant",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "8032":{
-                "district":"11",
-                "name":"Rogers, Paul Grant",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14648":{
-                "district":"11",
-                "name":"Mica, Daniel Andrew",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14648":{
-                "district":"11",
-                "name":"Mica, Daniel Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Florida"
+    "district":11,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"fl"
 },
   "bbox": [
     -80.88623,

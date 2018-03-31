@@ -1,54 +1,13 @@
 {
-  "id": "mi_93_to_97_04",
+  "id": "mi_93_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"026093097004",
-    "member":{
-        "93":{
-            "10597":{
-                "district":"4",
-                "name":"Hutchinson, Edward",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "10597":{
-                "district":"4",
-                "name":"Hutchinson, Edward",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14453":{
-                "district":"4",
-                "name":"Stockman, David",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14453":{
-                "district":"4",
-                "name":"Stockman, David",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14453":{
-                "district":"4",
-                "name":"Stockman, David",
-                "party":"Republican"
-            },
-            "14872":{
-                "district":"4",
-                "name":"Siljander, Mark",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Michigan"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mi"
 },
   "bbox": [
     -86.82483,

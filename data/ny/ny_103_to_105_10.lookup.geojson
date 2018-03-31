@@ -2,34 +2,12 @@
   "id": "ny_103_to_105_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"105",
-    "id":"036103105010",
-    "member":{
-        "103":{
-            "15072":{
-                "district":"10",
-                "name":"Towns, Edolphus",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "15072":{
-                "district":"10",
-                "name":"Towns, Edolphus",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "15072":{
-                "district":"10",
-                "name":"Towns, Edolphus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -74.0119,

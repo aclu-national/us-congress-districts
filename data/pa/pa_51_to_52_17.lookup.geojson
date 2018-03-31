@@ -2,27 +2,12 @@
   "id": "pa_51_to_52_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"52",
-    "id":"042051052017",
-    "member":{
-        "51":{
-            "1200":{
-                "district":"17",
-                "name":"Buckalew, Charles Rollin",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "10316":{
-                "district":"17",
-                "name":"Wolverton, Simon Peter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -76.949,

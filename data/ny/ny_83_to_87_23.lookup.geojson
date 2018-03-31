@@ -2,53 +2,12 @@
   "id": "ny_83_to_87_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"87",
-    "id":"036083087023",
-    "member":{
-        "83":{
-            "2646":{
-                "district":"23",
-                "name":"Dollinger, Isidore",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "2646":{
-                "district":"23",
-                "name":"Dollinger, Isidore",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "2646":{
-                "district":"23",
-                "name":"Dollinger, Isidore",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "2646":{
-                "district":"23",
-                "name":"Dollinger, Isidore",
-                "party":"Democrat"
-            },
-            "3575":{
-                "district":"23",
-                "name":"Gilbert, Jacob H.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "3575":{
-                "district":"23",
-                "name":"Gilbert, Jacob H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -73.92208,

@@ -1,49 +1,13 @@
 {
-  "id": "ne_103_to_107_01",
+  "id": "ne_103_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"031103107001",
-    "member":{
-        "103":{
-            "14605":{
-                "district":"1",
-                "name":"Bereuter, Douglas K.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14605":{
-                "district":"1",
-                "name":"Bereuter, Douglas K.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "14605":{
-                "district":"1",
-                "name":"Bereuter, Douglas K.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "14605":{
-                "district":"1",
-                "name":"Bereuter, Douglas K.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "14605":{
-                "district":"1",
-                "name":"Bereuter, Douglas K.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Nebraska"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ne"
 },
   "bbox": [
     -97.83467,

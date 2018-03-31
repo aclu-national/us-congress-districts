@@ -1,36 +1,13 @@
 {
-  "id": "me_48_to_48_00",
+  "id": "me_48_to_48_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"48",
-    "id":"023048048000",
-    "member":{
-        "48":{
-            "2606":{
-                "district":"98",
-                "name":"Dingley, Nelson Jr.",
-                "party":"Republican"
-            },
-            "6523":{
-                "district":"98",
-                "name":"Milliken, Seth Llewellyn",
-                "party":"Republican"
-            },
-            "7795":{
-                "district":"98",
-                "name":"Reed, Thomas Brackett",
-                "party":"Republican"
-            },
-            "888":{
-                "district":"98",
-                "name":"Boutelle, Charles Addison",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Maine"
+    "district":0,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"me"
 },
   "bbox": [
     -71.08433,

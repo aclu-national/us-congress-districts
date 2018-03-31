@@ -1,49 +1,13 @@
 {
-  "id": "ma_23_to_27_07",
+  "id": "ma_23_to_27_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"27",
-    "id":"025023027007",
-    "member":{
-        "23":{
-            "1033":{
-                "district":"7",
-                "name":"Briggs, George Nixon",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "1033":{
-                "district":"7",
-                "name":"Briggs, George Nixon",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "1033":{
-                "district":"7",
-                "name":"Briggs, George Nixon",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "1033":{
-                "district":"7",
-                "name":"Briggs, George Nixon",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "1033":{
-                "district":"7",
-                "name":"Briggs, George Nixon",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ma"
 },
   "bbox": [
     -73.50814,

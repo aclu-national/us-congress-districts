@@ -2,20 +2,12 @@
   "id": "ny_33_to_33_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"33",
-    "id":"036033033019",
-    "member":{
-        "33":{
-            "1666":{
-                "district":"19",
-                "name":"Chase, George William",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":19,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

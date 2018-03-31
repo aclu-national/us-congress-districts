@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"67",
-    "id":"042063067022",
-    "member":{
-        "63":{
-            "5130":{
-                "district":"22",
-                "name":"Keister, Abraham Lincoln",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "5130":{
-                "district":"22",
-                "name":"Keister, Abraham Lincoln",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "7941":{
-                "district":"22",
-                "name":"Robbins, Edward Everett",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "10240":{
-                "district":"22",
-                "name":"Wilson, John Haden",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "10404":{
-                "district":"22",
-                "name":"Wyant, Adam Martin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":22,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -80.16529,

@@ -2,48 +2,12 @@
   "id": "ca_103_to_107_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"107",
-    "id":"006103107023",
-    "member":{
-        "103":{
-            "15413":{
-                "district":"23",
-                "name":"Gallegly, Elton",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15413":{
-                "district":"23",
-                "name":"Gallegly, Elton",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15413":{
-                "district":"23",
-                "name":"Gallegly, Elton",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "15413":{
-                "district":"23",
-                "name":"Gallegly, Elton",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "15413":{
-                "district":"23",
-                "name":"Gallegly, Elton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"California"
+    "district":23,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ca"
 },
   "bbox": [
     -119.57894,

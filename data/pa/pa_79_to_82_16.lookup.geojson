@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"82",
-    "id":"042079082016",
-    "member":{
-        "79":{
-            "6169":{
-                "district":"16",
-                "name":"McConnell, Samuel Kerns, Jr.",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "6169":{
-                "district":"16",
-                "name":"McConnell, Samuel Kerns, Jr.",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6169":{
-                "district":"16",
-                "name":"McConnell, Samuel Kerns, Jr.",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "6169":{
-                "district":"16",
-                "name":"McConnell, Samuel Kerns, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -75.69679,

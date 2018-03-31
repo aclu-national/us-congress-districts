@@ -1,49 +1,13 @@
 {
-  "id": "sc_8_to_12_08",
+  "id": "sc_8_to_12_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"12",
-    "id":"045008012008",
-    "member":{
-        "10":{
-            "146":{
-                "district":"8",
-                "name":"Alston, Lemuel James",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "146":{
-                "district":"8",
-                "name":"Alston, Lemuel James",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "2813":{
-                "district":"8",
-                "name":"Earle, Elias",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "2814":{
-                "district":"8",
-                "name":"Earle, John Baylis",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "2813":{
-                "district":"8",
-                "name":"Earle, Elias",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"South Carolina"
+    "district":8,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"sc"
 },
   "bbox": [
     -83.35395,

@@ -2,73 +2,12 @@
   "id": "pa_18_to_22_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"22",
-    "id":"042018022011",
-    "member":{
-        "18":{
-            "10230":{
-                "district":"11",
-                "name":"Wilson, James",
-                "party":"Jackson Republican"
-            },
-            "3144":{
-                "district":"11",
-                "name":"Findlay, John",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "10230":{
-                "district":"11",
-                "name":"Wilson, James",
-                "party":"Adams"
-            },
-            "3144":{
-                "district":"11",
-                "name":"Findlay, John",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "10230":{
-                "district":"11",
-                "name":"Wilson, James",
-                "party":"Adams"
-            },
-            "7706":{
-                "district":"11",
-                "name":"Ramsey, William",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2163":{
-                "district":"11",
-                "name":"Crawford, Thomas Hartley",
-                "party":"Jackson"
-            },
-            "7706":{
-                "district":"11",
-                "name":"Ramsey, William",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "2163":{
-                "district":"11",
-                "name":"Crawford, Thomas Hartley",
-                "party":"Jackson"
-            },
-            "6187":{
-                "district":"11",
-                "name":"McCoy, Robert",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"pa"
 },
   "bbox": [
     -78.09913,

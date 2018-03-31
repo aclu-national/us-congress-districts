@@ -1,49 +1,13 @@
 {
-  "id": "tn_18_to_22_02",
+  "id": "tn_18_to_22_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"22",
-    "id":"047018022002",
-    "member":{
-        "18":{
-            "1887":{
-                "district":"2",
-                "name":"Cocke, John",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "1887":{
-                "district":"2",
-                "name":"Cocke, John",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "5534":{
-                "district":"2",
-                "name":"Lea, Pryor",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "5534":{
-                "district":"2",
-                "name":"Lea, Pryor",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "249":{
-                "district":"2",
-                "name":"Arnold, Thomas Dickens",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Tennessee"
+    "district":2,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"tn"
 },
   "bbox": [
     -84.27347,

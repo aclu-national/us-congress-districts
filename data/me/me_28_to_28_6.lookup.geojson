@@ -1,21 +1,13 @@
 {
-  "id": "me_28_to_28_06",
+  "id": "me_28_to_28_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"28",
-    "id":"023028028006",
-    "member":{
-        "28":{
-            "4001":{
-                "district":"6",
-                "name":"Hamlin, Hannibal",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Maine"
+    "district":6,
+    "end_date":"1845-03-03",
+    "end_session":28,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"me"
 },
   "bbox": [
     -69.83319,

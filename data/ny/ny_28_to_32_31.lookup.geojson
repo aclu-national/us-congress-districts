@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"32",
-    "id":"036028032031",
-    "member":{
-        "28":{
-            "9539":{
-                "district":"31",
-                "name":"Tyler, Asher",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "5629":{
-                "district":"31",
-                "name":"Lewis, Abner",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "6046":{
-                "district":"31",
-                "name":"Marvin, Dudley",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "7916":{
-                "district":"31",
-                "name":"Risley, Elijah",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "6024":{
-                "district":"31",
-                "name":"Martin, Frederick Stanley",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

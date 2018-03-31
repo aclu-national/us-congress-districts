@@ -1,119 +1,13 @@
 {
-  "id": "md_8_to_22_01",
+  "id": "md_8_to_22_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"22",
-    "id":"024008022001",
-    "member":{
-        "10":{
-            "1455":{
-                "district":"1",
-                "name":"Campbell, John",
-                "party":"Federalist"
-            }
-        },
-        "11":{
-            "1455":{
-                "district":"1",
-                "name":"Campbell, John",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "9055":{
-                "district":"1",
-                "name":"Stuart, Philip",
-                "party":"Federalist"
-            }
-        },
-        "13":{
-            "9055":{
-                "district":"1",
-                "name":"Stuart, Philip",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "9055":{
-                "district":"1",
-                "name":"Stuart, Philip",
-                "party":"Federalist"
-            }
-        },
-        "15":{
-            "9055":{
-                "district":"1",
-                "name":"Stuart, Philip",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "6852":{
-                "district":"1",
-                "name":"Neale, Raphael",
-                "party":"Federalist"
-            }
-        },
-        "17":{
-            "6852":{
-                "district":"1",
-                "name":"Neale, Raphael",
-                "party":"Federalist"
-            }
-        },
-        "18":{
-            "6852":{
-                "district":"1",
-                "name":"Neale, Raphael",
-                "party":"Adams-Clay Federalist"
-            }
-        },
-        "19":{
-            "2674":{
-                "district":"1",
-                "name":"Dorsey, Clement",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "2674":{
-                "district":"1",
-                "name":"Dorsey, Clement",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "2674":{
-                "district":"1",
-                "name":"Dorsey, Clement",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "4910":{
-                "district":"1",
-                "name":"Jenifer, Daniel",
-                "party":"Anti-Jackson"
-            }
-        },
-        "8":{
-            "1455":{
-                "district":"1",
-                "name":"Campbell, John",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "1455":{
-                "district":"1",
-                "name":"Campbell, John",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"md"
 },
   "bbox": [
     -77.27422,

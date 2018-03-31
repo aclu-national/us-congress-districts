@@ -2,34 +2,12 @@
   "id": "oh_30_to_32_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"32",
-    "id":"039030032011",
-    "member":{
-        "30":{
-            "6496":{
-                "district":"11",
-                "name":"Miller, John Krepps",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "6496":{
-                "district":"11",
-                "name":"Miller, John Krepps",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "1325":{
-                "district":"11",
-                "name":"Busby, George Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Ohio"
+    "district":11,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"oh"
 },
   "bbox": [
     -83.42038,

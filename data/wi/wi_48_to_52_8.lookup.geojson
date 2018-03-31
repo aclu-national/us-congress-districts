@@ -1,54 +1,13 @@
 {
-  "id": "wi_48_to_52_08",
+  "id": "wi_48_to_52_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"52",
-    "id":"055048052008",
-    "member":{
-        "48":{
-            "7620":{
-                "district":"8",
-                "name":"Price, William Thompson",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "7613":{
-                "district":"8",
-                "name":"Price, Hugh Hiram",
-                "party":"Republican"
-            },
-            "7620":{
-                "district":"8",
-                "name":"Price, William Thompson",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "4196":{
-                "district":"8",
-                "name":"Haugen, Nils Pederson",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "4196":{
-                "district":"8",
-                "name":"Haugen, Nils Pederson",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "4196":{
-                "district":"8",
-                "name":"Haugen, Nils Pederson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Wisconsin"
+    "district":8,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"wi"
 },
   "bbox": [
     -92.88943,

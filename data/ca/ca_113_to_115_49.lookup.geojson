@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_49",
   "type": "Feature",
   "properties": {
-    "ALAND":1432686373,
-    "AWATER":512378681,
-    "CD113FP":"49",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0649",
-    "INTPTLAT":"+33.3147856",
-    "INTPTLON":"-117.3795192",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 49",
-    "STATEFP":"06"
+    "district":49,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -117.767555,

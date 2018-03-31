@@ -1,49 +1,13 @@
 {
-  "id": "oh_83_to_87_02",
+  "id": "oh_83_to_87_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"87",
-    "id":"039083087002",
-    "member":{
-        "83":{
-            "4373":{
-                "district":"2",
-                "name":"Hess, William Emil",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4373":{
-                "district":"2",
-                "name":"Hess, William Emil",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4373":{
-                "district":"2",
-                "name":"Hess, William Emil",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "4373":{
-                "district":"2",
-                "name":"Hess, William Emil",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10510":{
-                "district":"2",
-                "name":"Clancy, Donald D.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

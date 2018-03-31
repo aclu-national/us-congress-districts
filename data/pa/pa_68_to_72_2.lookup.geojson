@@ -1,54 +1,13 @@
 {
-  "id": "pa_68_to_72_02",
+  "id": "pa_68_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"042068072002",
-    "member":{
-        "68":{
-            "3732":{
-                "district":"2",
-                "name":"Graham, George Scott",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "3732":{
-                "district":"2",
-                "name":"Graham, George Scott",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "3732":{
-                "district":"2",
-                "name":"Graham, George Scott",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "3732":{
-                "district":"2",
-                "name":"Graham, George Scott",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "3732":{
-                "district":"2",
-                "name":"Graham, George Scott",
-                "party":"Republican"
-            },
-            "8969":{
-                "district":"2",
-                "name":"Stokes, Edward Lowber",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -75.19293,

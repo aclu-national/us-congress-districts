@@ -1,35 +1,13 @@
 {
-  "id": "ny_3_to_5_01",
+  "id": "ny_3_to_5_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"5",
-    "id":"036003005001",
-    "member":{
-        "3":{
-            "9881":{
-                "district":"1",
-                "name":"Watts, John",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "5715":{
-                "district":"1",
-                "name":"Livingston, Edward",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "5715":{
-                "district":"1",
-                "name":"Livingston, Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1799-03-03",
+    "end_session":5,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ny"
 },
   "bbox": [
     -74.04718,

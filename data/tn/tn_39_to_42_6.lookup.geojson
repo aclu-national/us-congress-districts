@@ -1,42 +1,13 @@
 {
-  "id": "tn_39_to_42_06",
+  "id": "tn_39_to_42_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"42",
-    "id":"047039042006",
-    "member":{
-        "39":{
-            "238":{
-                "district":"6",
-                "name":"Arnell, Samuel Mayes",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "40":{
-            "238":{
-                "district":"6",
-                "name":"Arnell, Samuel Mayes",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "238":{
-                "district":"6",
-                "name":"Arnell, Samuel Mayes",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "10076":{
-                "district":"6",
-                "name":"Whitthorne, Washington Curran",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"39",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1865-03-04",
+    "start_session":39,
+    "state":"tn"
 },
   "bbox": [
     -88.38051,

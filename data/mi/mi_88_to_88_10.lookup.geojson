@@ -2,20 +2,12 @@
   "id": "mi_88_to_88_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"88",
-    "id":"026088088010",
-    "member":{
-        "88":{
-            "1610":{
-                "district":"10",
-                "name":"Cederberg, Elford Alfred",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Michigan"
+    "district":10,
+    "end_date":"1964-10-03",
+    "end_session":88,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mi"
 },
   "bbox": [
     -85.56467,

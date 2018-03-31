@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"97",
-    "id":"006094097025",
-    "member":{
-        "94":{
-            "10621":{
-                "district":"25",
-                "name":"Roybal, Edward R.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10621":{
-                "district":"25",
-                "name":"Roybal, Edward R.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10621":{
-                "district":"25",
-                "name":"Roybal, Edward R.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "10621":{
-                "district":"25",
-                "name":"Roybal, Edward R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":25,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -118.28462,

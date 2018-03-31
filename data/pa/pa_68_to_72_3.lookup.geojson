@@ -1,49 +1,13 @@
 {
-  "id": "pa_68_to_72_03",
+  "id": "pa_68_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"042068072003",
-    "member":{
-        "68":{
-            "7736":{
-                "district":"3",
-                "name":"Ransley, Harry Clay",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "7736":{
-                "district":"3",
-                "name":"Ransley, Harry Clay",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "7736":{
-                "district":"3",
-                "name":"Ransley, Harry Clay",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "7736":{
-                "district":"3",
-                "name":"Ransley, Harry Clay",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "7736":{
-                "district":"3",
-                "name":"Ransley, Harry Clay",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -75.16704,

@@ -2,48 +2,12 @@
   "id": "fl_108_to_112_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"112",
-    "id":"012108112012",
-    "member":{
-        "108":{
-            "20113":{
-                "district":"12",
-                "name":"Putnam, Adam H.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20113":{
-                "district":"12",
-                "name":"Putnam, Adam H.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20113":{
-                "district":"12",
-                "name":"Putnam, Adam H.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20113":{
-                "district":"12",
-                "name":"Putnam, Adam H.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21117":{
-                "district":"12",
-                "name":"Ross, Dennis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Florida"
+    "district":12,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"fl"
 },
   "bbox": [
     -82.52483,

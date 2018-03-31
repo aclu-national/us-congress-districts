@@ -1,49 +1,13 @@
 {
-  "id": "wi_108_to_112_08",
+  "id": "wi_108_to_112_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"112",
-    "id":"055108112008",
-    "member":{
-        "108":{
-            "29941":{
-                "district":"8",
-                "name":"Green, Mark",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29941":{
-                "district":"8",
-                "name":"Green, Mark",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20751":{
-                "district":"8",
-                "name":"Kagen, Steve",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20751":{
-                "district":"8",
-                "name":"Kagen, Steve",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21190":{
-                "district":"8",
-                "name":"Ribble, Reid",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Wisconsin"
+    "district":8,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"wi"
 },
   "bbox": [
     -90.04485,

@@ -1,49 +1,13 @@
 {
-  "id": "wi_103_to_107_08",
+  "id": "wi_103_to_107_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"107",
-    "id":"055103107008",
-    "member":{
-        "103":{
-            "14655":{
-                "district":"8",
-                "name":"Roth, Tobias A.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14655":{
-                "district":"8",
-                "name":"Roth, Tobias A.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29770":{
-                "district":"8",
-                "name":"Johnson, Jay",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29941":{
-                "district":"8",
-                "name":"Green, Mark",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29941":{
-                "district":"8",
-                "name":"Green, Mark",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Wisconsin"
+    "district":8,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"wi"
 },
   "bbox": [
     -90.04485,

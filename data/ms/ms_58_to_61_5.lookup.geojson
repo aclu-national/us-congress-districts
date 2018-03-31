@@ -1,42 +1,13 @@
 {
-  "id": "ms_58_to_61_05",
+  "id": "ms_58_to_61_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"61",
-    "id":"028058061005",
-    "member":{
-        "58":{
-            "1364":{
-                "district":"5",
-                "name":"Byrd, Adam Monroe",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "1364":{
-                "district":"5",
-                "name":"Byrd, Adam Monroe",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "1364":{
-                "district":"5",
-                "name":"Byrd, Adam Monroe",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "1364":{
-                "district":"5",
-                "name":"Byrd, Adam Monroe",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Mississippi"
+    "district":5,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ms"
 },
   "bbox": [
     -89.78412,

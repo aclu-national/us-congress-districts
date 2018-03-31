@@ -1,21 +1,13 @@
 {
-  "id": "tx_98_to_98_01",
+  "id": "tx_98_to_98_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"98",
-    "id":"048098098001",
-    "member":{
-        "98":{
-            "14291":{
-                "district":"1",
-                "name":"Hall, Sam",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"tx"
 },
   "bbox": [
     -96.454,

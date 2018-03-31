@@ -1,49 +1,13 @@
 {
-  "id": "ne_48_to_52_01",
+  "id": "ne_48_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"031048052001",
-    "member":{
-        "48":{
-            "9892":{
-                "district":"1",
-                "name":"Weaver, Archibald Jerard",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "9892":{
-                "district":"1",
-                "name":"Weaver, Archibald Jerard",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "6383":{
-                "district":"1",
-                "name":"McShane, John Albert",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "1990":{
-                "district":"1",
-                "name":"Connell, William James",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "1179":{
-                "district":"1",
-                "name":"Bryan, William Jennings",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Nebraska"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ne"
 },
   "bbox": [
     -96.91675,

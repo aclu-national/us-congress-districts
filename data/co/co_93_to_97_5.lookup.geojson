@@ -1,49 +1,13 @@
 {
-  "id": "co_93_to_97_05",
+  "id": "co_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"008093097005",
-    "member":{
-        "93":{
-            "14002":{
-                "district":"5",
-                "name":"Armstrong, William",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14002":{
-                "district":"5",
-                "name":"Armstrong, William",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14002":{
-                "district":"5",
-                "name":"Armstrong, William",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14639":{
-                "district":"5",
-                "name":"Kramer, Kenneth Bentley",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14639":{
-                "district":"5",
-                "name":"Kramer, Kenneth Bentley",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Colorado"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"co"
 },
   "bbox": [
     -105.32889,

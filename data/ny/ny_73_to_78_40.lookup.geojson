@@ -2,55 +2,12 @@
   "id": "ny_73_to_78_40",
   "type": "Feature",
   "properties": {
-    "district":"40",
-    "endcong":"78",
-    "id":"036073078040",
-    "member":{
-        "73":{
-            "200":{
-                "district":"40",
-                "name":"Andrews, Walter Gresham",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "200":{
-                "district":"40",
-                "name":"Andrews, Walter Gresham",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "200":{
-                "district":"40",
-                "name":"Andrews, Walter Gresham",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "200":{
-                "district":"40",
-                "name":"Andrews, Walter Gresham",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "200":{
-                "district":"40",
-                "name":"Andrews, Walter Gresham",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "200":{
-                "district":"40",
-                "name":"Andrews, Walter Gresham",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":40,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

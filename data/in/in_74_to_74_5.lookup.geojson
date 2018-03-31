@@ -1,21 +1,13 @@
 {
-  "id": "in_74_to_74_05",
+  "id": "in_74_to_74_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"74",
-    "id":"018074074005",
-    "member":{
-        "74":{
-            "3841":{
-                "district":"5",
-                "name":"Griswold, Glenn Hasenfrat",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Indiana"
+    "district":5,
+    "end_date":"1936-06-20",
+    "end_session":74,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"in"
 },
   "bbox": [
     -86.6958,

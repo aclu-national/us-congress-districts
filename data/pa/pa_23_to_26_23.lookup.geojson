@@ -2,41 +2,12 @@
   "id": "pa_23_to_26_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"26",
-    "id":"042023026023",
-    "member":{
-        "23":{
-            "4135":{
-                "district":"23",
-                "name":"Harrison, Samuel Smith",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "4135":{
-                "district":"23",
-                "name":"Harrison, Samuel Smith",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "556":{
-                "district":"23",
-                "name":"Beatty, William",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "556":{
-                "district":"23",
-                "name":"Beatty, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":23,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -80.16529,

@@ -2,53 +2,12 @@
   "id": "mo_53_to_57_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"57",
-    "id":"029053057011",
-    "member":{
-        "53":{
-            "5079":{
-                "district":"11",
-                "name":"Joy, Charles Frederick",
-                "party":"Republican"
-            },
-            "7080":{
-                "district":"11",
-                "name":"O'Neill, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "5079":{
-                "district":"11",
-                "name":"Joy, Charles Frederick",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "5079":{
-                "district":"11",
-                "name":"Joy, Charles Frederick",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "5079":{
-                "district":"11",
-                "name":"Joy, Charles Frederick",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "5079":{
-                "district":"11",
-                "name":"Joy, Charles Frederick",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Missouri"
+    "district":11,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mo"
 },
   "bbox": [
     -90.30281,

@@ -1,89 +1,13 @@
 {
-  "id": "mi_73_to_82_05",
+  "id": "mi_73_to_82_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"82",
-    "id":"026073082005",
-    "member":{
-        "73":{
-            "5972":{
-                "district":"5",
-                "name":"Mapes, Carl Edgar",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "5972":{
-                "district":"5",
-                "name":"Mapes, Carl Edgar",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "5972":{
-                "district":"5",
-                "name":"Mapes, Carl Edgar",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "5072":{
-                "district":"5",
-                "name":"Jonkman, Bartel John",
-                "party":"Republican"
-            },
-            "5972":{
-                "district":"5",
-                "name":"Mapes, Carl Edgar",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "5072":{
-                "district":"5",
-                "name":"Jonkman, Bartel John",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "5072":{
-                "district":"5",
-                "name":"Jonkman, Bartel John",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "5072":{
-                "district":"5",
-                "name":"Jonkman, Bartel John",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "5072":{
-                "district":"5",
-                "name":"Jonkman, Bartel John",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3268":{
-                "district":"5",
-                "name":"Ford, Gerald R. Jr.",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "3268":{
-                "district":"5",
-                "name":"Ford, Gerald R. Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Michigan"
+    "district":5,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mi"
 },
   "bbox": [
     -86.27186,

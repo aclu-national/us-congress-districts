@@ -2,34 +2,12 @@
   "id": "nc_58_to_60_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"60",
-    "id":"037058060010",
-    "member":{
-        "58":{
-            "3868":{
-                "district":"10",
-                "name":"Gudger, James Madison Jr.",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "3868":{
-                "district":"10",
-                "name":"Gudger, James Madison Jr.",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "2166":{
-                "district":"10",
-                "name":"Crawford, William Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"North Carolina"
+    "district":10,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"nc"
 },
   "bbox": [
     -84.32187,

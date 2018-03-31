@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_17",
   "type": "Feature",
   "properties": {
-    "ALAND":19816368545,
-    "AWATER":308268998,
-    "CD113FP":"17",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4817",
-    "INTPTLAT":"+31.1536017",
-    "INTPTLON":"-096.6657676",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 17",
-    "STATEFP":"48"
+    "district":17,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -97.773405,

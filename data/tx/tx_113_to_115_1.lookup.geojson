@@ -1,19 +1,13 @@
 {
-  "id": "tx_113_to_115_01",
+  "id": "tx_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":20354456413,
-    "AWATER":976908750,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4801",
-    "INTPTLAT":"+31.9516781",
-    "INTPTLON":"-094.5520460",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"48"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -95.594541,

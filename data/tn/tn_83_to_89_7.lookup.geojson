@@ -1,63 +1,13 @@
 {
-  "id": "tn_83_to_89_07",
+  "id": "tn_83_to_89_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"89",
-    "id":"047083089007",
-    "member":{
-        "83":{
-            "6826":{
-                "district":"7",
-                "name":"Murray, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "6826":{
-                "district":"7",
-                "name":"Murray, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "6826":{
-                "district":"7",
-                "name":"Murray, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "6826":{
-                "district":"7",
-                "name":"Murray, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "6826":{
-                "district":"7",
-                "name":"Murray, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "6826":{
-                "district":"7",
-                "name":"Murray, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "6826":{
-                "district":"7",
-                "name":"Murray, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Tennessee"
+    "district":7,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tn"
 },
   "bbox": [
     -89.64428,

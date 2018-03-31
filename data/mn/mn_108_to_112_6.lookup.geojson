@@ -1,49 +1,13 @@
 {
-  "id": "mn_108_to_112_06",
+  "id": "mn_108_to_112_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"112",
-    "id":"027108112006",
-    "member":{
-        "108":{
-            "20121":{
-                "district":"6",
-                "name":"Kennedy, Mark R.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20121":{
-                "district":"6",
-                "name":"Kennedy, Mark R.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20728":{
-                "district":"6",
-                "name":"Bachmann, Michele",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20728":{
-                "district":"6",
-                "name":"Bachmann, Michele",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20728":{
-                "district":"6",
-                "name":"Bachmann, Michele",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Minnesota"
+    "district":6,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mn"
 },
   "bbox": [
     -94.76797,

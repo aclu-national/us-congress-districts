@@ -1,35 +1,13 @@
 {
-  "id": "oh_30_to_32_02",
+  "id": "oh_30_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"039030032002",
-    "member":{
-        "30":{
-            "3165":{
-                "district":"2",
-                "name":"Fisher, David",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "1461":{
-                "district":"2",
-                "name":"Campbell, Lewis Davis",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "1461":{
-                "district":"2",
-                "name":"Campbell, Lewis Davis",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

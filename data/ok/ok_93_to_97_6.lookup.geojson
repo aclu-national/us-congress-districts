@@ -1,49 +1,13 @@
 {
-  "id": "ok_93_to_97_06",
+  "id": "ok_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"040093097006",
-    "member":{
-        "93":{
-            "12006":{
-                "district":"6",
-                "name":"Camp, John N. Happy",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14219":{
-                "district":"6",
-                "name":"English, Glenn",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14219":{
-                "district":"6",
-                "name":"English, Glenn",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14219":{
-                "district":"6",
-                "name":"English, Glenn",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14219":{
-                "district":"6",
-                "name":"English, Glenn",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Oklahoma"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ok"
 },
   "bbox": [
     -103.00265,

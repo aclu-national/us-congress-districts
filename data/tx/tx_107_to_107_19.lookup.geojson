@@ -2,20 +2,12 @@
   "id": "tx_107_to_107_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"107",
-    "id":"048107107019",
-    "member":{
-        "107":{
-            "15093":{
-                "district":"19",
-                "name":"Combest, Larry E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"107",
-    "statename":"Texas"
+    "district":19,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"2001-01-03",
+    "start_session":107,
+    "state":"tx"
 },
   "bbox": [
     -103.06492,

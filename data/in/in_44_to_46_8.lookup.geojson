@@ -1,35 +1,13 @@
 {
-  "id": "in_44_to_46_08",
+  "id": "in_44_to_46_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"46",
-    "id":"018044046008",
-    "member":{
-        "44":{
-            "4756":{
-                "district":"8",
-                "name":"Hunter, Morton Craig",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "4756":{
-                "district":"8",
-                "name":"Hunter, Morton Craig",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "4595":{
-                "district":"8",
-                "name":"Hostetler, Abraham Jonathan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Indiana"
+    "district":8,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"in"
 },
   "bbox": [
     -87.62118,

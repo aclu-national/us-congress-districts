@@ -1,28 +1,13 @@
 {
-  "id": "va_104_to_105_06",
+  "id": "va_104_to_105_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"105",
-    "id":"051104105006",
-    "member":{
-        "104":{
-            "39308":{
-                "district":"6",
-                "name":"Goodlatte, Robert W.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "39308":{
-                "district":"6",
-                "name":"Goodlatte, Robert W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"va"
 },
   "bbox": [
     -80.29635,

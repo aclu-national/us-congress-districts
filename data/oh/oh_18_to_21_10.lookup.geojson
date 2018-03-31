@@ -2,46 +2,12 @@
   "id": "oh_18_to_21_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"21",
-    "id":"039018021010",
-    "member":{
-        "18":{
-            "7247":{
-                "district":"10",
-                "name":"Patterson, John",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "4924":{
-                "district":"10",
-                "name":"Jennings, David",
-                "party":"Adams"
-            },
-            "8402":{
-                "district":"10",
-                "name":"Shannon, Thomas",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "2358":{
-                "district":"10",
-                "name":"Davenport, John",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "5191":{
-                "district":"10",
-                "name":"Kennon, William Sr.",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Ohio"
+    "district":10,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"oh"
 },
   "bbox": [
     -82.08022,

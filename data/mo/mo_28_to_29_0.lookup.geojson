@@ -1,73 +1,13 @@
 {
-  "id": "mo_28_to_29_00",
+  "id": "mo_28_to_29_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"29",
-    "id":"029028029000",
-    "member":{
-        "28":{
-            "4705":{
-                "district":"98",
-                "name":"Hughes, James Madison",
-                "party":"Democrat"
-            },
-            "4888":{
-                "district":"98",
-                "name":"Jameson, John",
-                "party":"Democrat"
-            },
-            "7820":{
-                "district":"98",
-                "name":"Relfe, James Hugh",
-                "party":"Democrat"
-            },
-            "901":{
-                "district":"98",
-                "name":"Bower, Gustavus Miller",
-                "party":"Democrat"
-            },
-            "915":{
-                "district":"98",
-                "name":"Bowlin, James Butler",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "6209":{
-                "district":"98",
-                "name":"McDaniel, William",
-                "party":"Democrat"
-            },
-            "7401":{
-                "district":"98",
-                "name":"Phelps, John Smith",
-                "party":"Democrat"
-            },
-            "7617":{
-                "district":"98",
-                "name":"Price, Sterling",
-                "party":"Democrat"
-            },
-            "7820":{
-                "district":"98",
-                "name":"Relfe, James Hugh",
-                "party":"Democrat"
-            },
-            "8536":{
-                "district":"98",
-                "name":"Sims, Leonard Henly",
-                "party":"Democrat"
-            },
-            "915":{
-                "district":"98",
-                "name":"Bowlin, James Butler",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Missouri"
+    "district":0,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"mo"
 },
   "bbox": [
     -95.7747,

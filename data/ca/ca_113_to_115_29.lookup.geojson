@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_29",
   "type": "Feature",
   "properties": {
-    "ALAND":238360311,
-    "AWATER":1621911,
-    "CD113FP":"29",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0629",
-    "INTPTLAT":"+34.2666953",
-    "INTPTLON":"-118.4303132",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 29",
-    "STATEFP":"06"
+    "district":29,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -118.508501,

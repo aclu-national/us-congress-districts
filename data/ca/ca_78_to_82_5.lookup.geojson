@@ -1,54 +1,13 @@
 {
-  "id": "ca_78_to_82_05",
+  "id": "ca_78_to_82_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"82",
-    "id":"006078082005",
-    "member":{
-        "78":{
-            "9928":{
-                "district":"5",
-                "name":"Welch, Richard Joseph",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "9928":{
-                "district":"5",
-                "name":"Welch, Richard Joseph",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "9928":{
-                "district":"5",
-                "name":"Welch, Richard Joseph",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "8437":{
-                "district":"5",
-                "name":"Shelley, John Francis",
-                "party":"Democrat"
-            },
-            "9928":{
-                "district":"5",
-                "name":"Welch, Richard Joseph",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "8437":{
-                "district":"5",
-                "name":"Shelley, John Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":5,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -122.51202,

@@ -1,26 +1,13 @@
 {
-  "id": "in_17_to_17_00",
+  "id": "in_17_to_17_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"17",
-    "id":"018017017000",
-    "member":{
-        "17":{
-            "4320":{
-                "district":"1",
-                "name":"Hendricks, William",
-                "party":"Republican"
-            },
-            "4926":{
-                "district":"1",
-                "name":"Jennings, Jonathan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Indiana"
+    "district":0,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

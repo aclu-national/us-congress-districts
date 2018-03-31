@@ -2,48 +2,12 @@
   "id": "pa_53_to_57_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"57",
-    "id":"042053057028",
-    "member":{
-        "53":{
-            "5368":{
-                "district":"28",
-                "name":"Kribbs, George Frederic",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "251":{
-                "district":"28",
-                "name":"Arnold, William Carlile",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "251":{
-                "district":"28",
-                "name":"Arnold, William Carlile",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "3941":{
-                "district":"28",
-                "name":"Hall, James Knox Polk",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "3941":{
-                "district":"28",
-                "name":"Hall, James Knox Polk",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Pennsylvania"
+    "district":28,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"pa"
 },
   "bbox": [
     -79.70044,

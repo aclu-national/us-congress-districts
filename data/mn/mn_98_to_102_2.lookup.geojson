@@ -1,49 +1,13 @@
 {
-  "id": "mn_98_to_102_02",
+  "id": "mn_98_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"027098102002",
-    "member":{
-        "100":{
-            "14868":{
-                "district":"2",
-                "name":"Weber, Vin",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14868":{
-                "district":"2",
-                "name":"Weber, Vin",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14868":{
-                "district":"2",
-                "name":"Weber, Vin",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14868":{
-                "district":"2",
-                "name":"Weber, Vin",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14868":{
-                "district":"2",
-                "name":"Weber, Vin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Minnesota"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"mn"
 },
   "bbox": [
     -96.8574,

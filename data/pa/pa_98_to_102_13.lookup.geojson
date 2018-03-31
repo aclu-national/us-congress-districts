@@ -2,48 +2,12 @@
   "id": "pa_98_to_102_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"102",
-    "id":"042098102013",
-    "member":{
-        "100":{
-            "12010":{
-                "district":"13",
-                "name":"Coughlin, R. Lawrence",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "12010":{
-                "district":"13",
-                "name":"Coughlin, R. Lawrence",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "12010":{
-                "district":"13",
-                "name":"Coughlin, R. Lawrence",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "12010":{
-                "district":"13",
-                "name":"Coughlin, R. Lawrence",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "12010":{
-                "district":"13",
-                "name":"Coughlin, R. Lawrence",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"pa"
 },
   "bbox": [
     -75.4626,

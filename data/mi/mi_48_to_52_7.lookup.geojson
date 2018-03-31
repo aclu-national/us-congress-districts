@@ -1,49 +1,13 @@
 {
-  "id": "mi_48_to_52_07",
+  "id": "mi_48_to_52_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"52",
-    "id":"026048052007",
-    "member":{
-        "48":{
-            "1504":{
-                "district":"7",
-                "name":"Carleton, Ezra Child",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "1504":{
-                "district":"7",
-                "name":"Carleton, Ezra Child",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "10064":{
-                "district":"7",
-                "name":"Whiting, Justin Rice",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "10064":{
-                "district":"7",
-                "name":"Whiting, Justin Rice",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "10064":{
-                "district":"7",
-                "name":"Whiting, Justin Rice",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Michigan"
+    "district":7,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mi"
 },
   "bbox": [
     -83.49623,

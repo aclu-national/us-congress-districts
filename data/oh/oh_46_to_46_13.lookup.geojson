@@ -2,20 +2,12 @@
   "id": "oh_46_to_46_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"46",
-    "id":"039046046013",
-    "member":{
-        "46":{
-            "9830":{
-                "district":"13",
-                "name":"Warner, Adoniram Judson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Ohio"
+    "district":13,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"oh"
 },
   "bbox": [
     -82.29857,

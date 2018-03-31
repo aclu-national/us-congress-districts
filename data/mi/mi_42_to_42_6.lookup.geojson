@@ -1,21 +1,13 @@
 {
-  "id": "mi_42_to_42_06",
+  "id": "mi_42_to_42_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"42",
-    "id":"026042042006",
-    "member":{
-        "42":{
-            "9094":{
-                "district":"6",
-                "name":"Sutherland, Jabez Gridley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"42",
-    "statename":"Michigan"
+    "district":6,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1871-03-04",
+    "start_session":42,
+    "state":"mi"
 },
   "bbox": [
     -90.41814,

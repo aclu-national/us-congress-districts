@@ -2,48 +2,12 @@
   "id": "il_58_to_62_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"62",
-    "id":"017058062010",
-    "member":{
-        "58":{
-            "3297":{
-                "district":"10",
-                "name":"Foss, George Edmund",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "3297":{
-                "district":"10",
-                "name":"Foss, George Edmund",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3297":{
-                "district":"10",
-                "name":"Foss, George Edmund",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3297":{
-                "district":"10",
-                "name":"Foss, George Edmund",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "3297":{
-                "district":"10",
-                "name":"Foss, George Edmund",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":10,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -88.20017,

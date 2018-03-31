@@ -2,20 +2,12 @@
   "id": "ny_8_to_8_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"8",
-    "id":"036008008010",
-    "member":{
-        "8":{
-            "9376":{
-                "district":"10",
-                "name":"Tibbits, George",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1805-03-03",
+    "end_session":8,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ny"
 },
   "bbox": [
     -73.78616,

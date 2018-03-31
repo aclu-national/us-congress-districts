@@ -1,42 +1,13 @@
 {
-  "id": "pa_79_to_82_03",
+  "id": "pa_79_to_82_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"82",
-    "id":"042079082003",
-    "member":{
-        "79":{
-            "954":{
-                "district":"3",
-                "name":"Bradley, Michael Joseph",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "8299":{
-                "district":"3",
-                "name":"Scott, Hardie",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "8299":{
-                "district":"3",
-                "name":"Scott, Hardie",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "8299":{
-                "district":"3",
-                "name":"Scott, Hardie",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -75.19255,

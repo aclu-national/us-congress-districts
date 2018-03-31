@@ -1,49 +1,13 @@
 {
-  "id": "fl_108_to_112_05",
+  "id": "fl_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"012108112005",
-    "member":{
-        "108":{
-            "20313":{
-                "district":"5",
-                "name":"Brown-waite, Ginny",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20313":{
-                "district":"5",
-                "name":"Brown-waite, Ginny",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20313":{
-                "district":"5",
-                "name":"Brown-waite, Ginny",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20313":{
-                "district":"5",
-                "name":"Brown-waite, Ginny",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21115":{
-                "district":"5",
-                "name":"Nugent, Richard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Florida"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"fl"
 },
   "bbox": [
     -83.16609,

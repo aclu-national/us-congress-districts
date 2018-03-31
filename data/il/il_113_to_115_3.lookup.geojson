@@ -1,19 +1,13 @@
 {
-  "id": "il_113_to_115_03",
+  "id": "il_113_to_115_3",
   "type": "Feature",
   "properties": {
-    "ALAND":614216050,
-    "AWATER":12672770,
-    "CD113FP":"03",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1703",
-    "INTPTLAT":"+41.6789774",
-    "INTPTLON":"-087.8919745",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 3",
-    "STATEFP":"17"
+    "district":3,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"il"
 },
   "bbox": [
     -88.141966,

@@ -1,21 +1,13 @@
 {
-  "id": "ca_39_to_39_03",
+  "id": "ca_39_to_39_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"39",
-    "id":"006039039003",
-    "member":{
-        "39":{
-            "698":{
-                "district":"3",
-                "name":"Bidwell, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"39",
-    "statename":"California"
+    "district":3,
+    "end_date":"1867-03-03",
+    "end_session":39,
+    "start_date":"1865-03-04",
+    "start_session":39,
+    "state":"ca"
 },
   "bbox": [
     -124.41501,

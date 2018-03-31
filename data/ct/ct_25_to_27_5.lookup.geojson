@@ -1,35 +1,13 @@
 {
-  "id": "ct_25_to_27_05",
+  "id": "ct_25_to_27_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"27",
-    "id":"009025027005",
-    "member":{
-        "25":{
-            "7402":{
-                "district":"5",
-                "name":"Phelps, Lancelot",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "8691":{
-                "district":"5",
-                "name":"Smith, Truman",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "8691":{
-                "district":"5",
-                "name":"Smith, Truman",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"25",
-    "statename":"Connecticut"
+    "district":5,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1837-03-04",
+    "start_session":25,
+    "state":"ct"
 },
   "bbox": [
     -73.51807,

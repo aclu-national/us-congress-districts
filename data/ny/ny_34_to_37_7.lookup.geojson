@@ -1,42 +1,13 @@
 {
-  "id": "ny_34_to_37_07",
+  "id": "ny_34_to_37_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"37",
-    "id":"036034037007",
-    "member":{
-        "34":{
-            "1691":{
-                "district":"7",
-                "name":"Child, Thomas, Jr.",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "9812":{
-                "district":"7",
-                "name":"Ward, Elijah",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "1032":{
-                "district":"7",
-                "name":"Briggs, George",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "9812":{
-                "district":"7",
-                "name":"Ward, Elijah",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -74.01514,

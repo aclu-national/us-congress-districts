@@ -1,47 +1,13 @@
 {
-  "id": "ms_99_to_102_05",
+  "id": "ms_99_to_102_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"102",
-    "id":"028099102005",
-    "member":{
-        "100":{
-            "14031":{
-                "district":"5",
-                "name":"Lott, Trent",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15625":{
-                "district":"5",
-                "name":"Smith, Larkin",
-                "party":"Republican"
-            },
-            "15637":{
-                "district":"5",
-                "name":"Taylor, Gene",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15637":{
-                "district":"5",
-                "name":"Taylor, Gene",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14031":{
-                "district":"5",
-                "name":"Lott, Trent",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Mississippi"
+    "district":5,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ms"
 },
   "bbox": [
     -89.84632,

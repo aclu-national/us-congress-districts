@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"72",
-    "id":"036068072022",
-    "member":{
-        "68":{
-            "3817":{
-                "district":"22",
-                "name":"Griffin, Anthony Jerome",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3817":{
-                "district":"22",
-                "name":"Griffin, Anthony Jerome",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "3817":{
-                "district":"22",
-                "name":"Griffin, Anthony Jerome",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "3817":{
-                "district":"22",
-                "name":"Griffin, Anthony Jerome",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "3817":{
-                "district":"22",
-                "name":"Griffin, Anthony Jerome",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -73.94459,

@@ -1,49 +1,13 @@
 {
-  "id": "ga_93_to_97_06",
+  "id": "ga_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"013093097006",
-    "member":{
-        "93":{
-            "3242":{
-                "district":"6",
-                "name":"Flynt, John James, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "3242":{
-                "district":"6",
-                "name":"Flynt, John James, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "3242":{
-                "district":"6",
-                "name":"Flynt, John James, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14627":{
-                "district":"6",
-                "name":"Gingrich, Newton Leroy",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14627":{
-                "district":"6",
-                "name":"Gingrich, Newton Leroy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Georgia"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ga"
 },
   "bbox": [
     -85.38658,

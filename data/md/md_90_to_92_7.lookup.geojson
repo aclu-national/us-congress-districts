@@ -1,35 +1,13 @@
 {
-  "id": "md_90_to_92_07",
+  "id": "md_90_to_92_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"92",
-    "id":"024090092007",
-    "member":{
-        "90":{
-            "3374":{
-                "district":"7",
-                "name":"Friedel, Samuel Nathaniel",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "3374":{
-                "district":"7",
-                "name":"Friedel, Samuel Nathaniel",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "13031":{
-                "district":"7",
-                "name":"Mitchell, Parren",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Maryland"
+    "district":7,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"md"
 },
   "bbox": [
     -76.77943,

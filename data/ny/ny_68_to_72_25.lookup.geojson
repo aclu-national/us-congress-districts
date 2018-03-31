@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"72",
-    "id":"036068072025",
-    "member":{
-        "68":{
-            "9715":{
-                "district":"25",
-                "name":"Wainwright, Jonathan Mayhew",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9715":{
-                "district":"25",
-                "name":"Wainwright, Jonathan Mayhew",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9715":{
-                "district":"25",
-                "name":"Wainwright, Jonathan Mayhew",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9715":{
-                "district":"25",
-                "name":"Wainwright, Jonathan Mayhew",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "6469":{
-                "district":"25",
-                "name":"Millard, Charles Dunsmore",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -74.23447,

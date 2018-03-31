@@ -1,35 +1,13 @@
 {
-  "id": "pa_48_to_50_07",
+  "id": "pa_48_to_50_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"50",
-    "id":"042048050007",
-    "member":{
-        "48":{
-            "3010":{
-                "district":"7",
-                "name":"Evans, Isaac Newton",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "3010":{
-                "district":"7",
-                "name":"Evans, Isaac Newton",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "10415":{
-                "district":"7",
-                "name":"Yardley, Robert Morris",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -75.69679,

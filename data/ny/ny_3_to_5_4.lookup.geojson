@@ -1,35 +1,13 @@
 {
-  "id": "ny_3_to_5_04",
+  "id": "ny_3_to_5_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"5",
-    "id":"036003005004",
-    "member":{
-        "3":{
-            "9615":{
-                "district":"4",
-                "name":"Van Gaasbeck, Peter",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "4193":{
-                "district":"4",
-                "name":"Hathorn, John",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "2941":{
-                "district":"4",
-                "name":"Elmendorf, Lucas Conrad",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1799-03-03",
+    "end_session":5,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

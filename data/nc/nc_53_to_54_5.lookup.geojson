@@ -1,28 +1,13 @@
 {
-  "id": "nc_53_to_54_05",
+  "id": "nc_53_to_54_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"54",
-    "id":"037053054005",
-    "member":{
-        "53":{
-            "8371":{
-                "district":"5",
-                "name":"Settle, Thomas",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "8371":{
-                "district":"5",
-                "name":"Settle, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"nc"
 },
   "bbox": [
     -80.45195,

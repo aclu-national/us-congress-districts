@@ -1,28 +1,13 @@
 {
-  "id": "ma_91_to_92_01",
+  "id": "ma_91_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"025091092001",
-    "member":{
-        "91":{
-            "2009":{
-                "district":"1",
-                "name":"Conte, Silvio Otto",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "2009":{
-                "district":"1",
-                "name":"Conte, Silvio Otto",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ma"
 },
   "bbox": [
     -73.50814,

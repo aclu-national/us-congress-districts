@@ -1,35 +1,13 @@
 {
-  "id": "il_90_to_92_02",
+  "id": "il_90_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"017090092002",
-    "member":{
-        "90":{
-            "7041":{
-                "district":"2",
-                "name":"O'Hara, Barratt",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "12025":{
-                "district":"2",
-                "name":"Mikva, Abner J.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "12025":{
-                "district":"2",
-                "name":"Mikva, Abner J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Illinois"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"il"
 },
   "bbox": [
     -87.6807,

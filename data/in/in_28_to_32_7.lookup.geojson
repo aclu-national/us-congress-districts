@@ -1,49 +1,13 @@
 {
-  "id": "in_28_to_32_07",
+  "id": "in_28_to_32_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"32",
-    "id":"018028032007",
-    "member":{
-        "28":{
-            "10394":{
-                "district":"7",
-                "name":"Wright, Joseph Albert",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "6247":{
-                "district":"7",
-                "name":"McGaughey, Edward Wilson",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "9336":{
-                "district":"7",
-                "name":"Thompson, Richard Wigginton",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "6247":{
-                "district":"7",
-                "name":"McGaughey, Edward Wilson",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "2397":{
-                "district":"7",
-                "name":"Davis, John Givan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Indiana"
+    "district":7,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"in"
 },
   "bbox": [
     -87.62118,

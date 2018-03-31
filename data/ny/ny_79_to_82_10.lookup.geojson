@@ -2,46 +2,12 @@
   "id": "ny_79_to_82_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"82",
-    "id":"036079082010",
-    "member":{
-        "79":{
-            "8739":{
-                "district":"10",
-                "name":"Somers, Andrew Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "8739":{
-                "district":"10",
-                "name":"Somers, Andrew Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "5148":{
-                "district":"10",
-                "name":"Kelly, Edna Flannery",
-                "party":"Democrat"
-            },
-            "8739":{
-                "district":"10",
-                "name":"Somers, Andrew Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5148":{
-                "district":"10",
-                "name":"Kelly, Edna Flannery",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -73.95766,

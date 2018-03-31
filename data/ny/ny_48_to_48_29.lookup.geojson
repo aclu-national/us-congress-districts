@@ -2,20 +2,12 @@
   "id": "ny_48_to_48_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"48",
-    "id":"036048048029",
-    "member":{
-        "48":{
-            "253":{
-                "district":"29",
-                "name":"Arnot, John Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -78.30931,

@@ -2,27 +2,12 @@
   "id": "il_88_to_89_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"89",
-    "id":"017088089020",
-    "member":{
-        "88":{
-            "10517":{
-                "district":"20",
-                "name":"Findley, Paul",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10517":{
-                "district":"20",
-                "name":"Findley, Paul",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Illinois"
+    "district":20,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"il"
 },
   "bbox": [
     -91.51308,

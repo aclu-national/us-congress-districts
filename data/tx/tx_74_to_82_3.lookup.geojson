@@ -1,77 +1,13 @@
 {
-  "id": "tx_74_to_82_03",
+  "id": "tx_74_to_82_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"82",
-    "id":"048074082003",
-    "member":{
-        "74":{
-            "8199":{
-                "district":"3",
-                "name":"Sanders, Morgan Gurley",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8199":{
-                "district":"3",
-                "name":"Sanders, Morgan Gurley",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "567":{
-                "district":"3",
-                "name":"Beckworth, Lindley Gary",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "567":{
-                "district":"3",
-                "name":"Beckworth, Lindley Gary",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "567":{
-                "district":"3",
-                "name":"Beckworth, Lindley Gary",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "567":{
-                "district":"3",
-                "name":"Beckworth, Lindley Gary",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "567":{
-                "district":"3",
-                "name":"Beckworth, Lindley Gary",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "567":{
-                "district":"3",
-                "name":"Beckworth, Lindley Gary",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "567":{
-                "district":"3",
-                "name":"Beckworth, Lindley Gary",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":3,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -96.0768,

@@ -2,48 +2,12 @@
   "id": "pa_53_to_57_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"57",
-    "id":"042053057016",
-    "member":{
-        "53":{
-            "4563":{
-                "district":"16",
-                "name":"Hopkins, Albert Cole",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "5610":{
-                "district":"16",
-                "name":"Leonard, Fred Churchill",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "7146":{
-                "district":"16",
-                "name":"Packer, Horace Billings",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "7146":{
-                "district":"16",
-                "name":"Packer, Horace Billings",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2458":{
-                "district":"16",
-                "name":"Deemer, Elias",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"pa"
 },
   "bbox": [
     -78.2066,

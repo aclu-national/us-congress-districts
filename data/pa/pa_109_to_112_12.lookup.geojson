@@ -2,46 +2,12 @@
   "id": "pa_109_to_112_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"112",
-    "id":"042109112012",
-    "member":{
-        "109":{
-            "14072":{
-                "district":"12",
-                "name":"Murtha, John P.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "14072":{
-                "district":"12",
-                "name":"Murtha, John P.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "14072":{
-                "district":"12",
-                "name":"Murtha, John P.",
-                "party":"Democrat"
-            },
-            "20960":{
-                "district":"12",
-                "name":"Critz, Mark",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20960":{
-                "district":"12",
-                "name":"Critz, Mark",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"pa"
 },
   "bbox": [
     -80.51942,

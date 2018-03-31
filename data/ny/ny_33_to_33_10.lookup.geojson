@@ -2,20 +2,12 @@
   "id": "ny_33_to_33_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"33",
-    "id":"036033033010",
-    "member":{
-        "33":{
-            "6827":{
-                "district":"10",
-                "name":"Murray, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -75.14645,

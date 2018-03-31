@@ -2,32 +2,12 @@
   "id": "pa_51_to_52_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"52",
-    "id":"042051052027",
-    "member":{
-        "51":{
-            "8975":{
-                "district":"27",
-                "name":"Stone, Charles Warren",
-                "party":"Republican"
-            },
-            "9876":{
-                "district":"27",
-                "name":"Watson, Lewis Findlay",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "8975":{
-                "district":"27",
-                "name":"Stone, Charles Warren",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":27,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -79.99978,

@@ -1,84 +1,13 @@
 {
-  "id": "ia_78_to_87_08",
+  "id": "ia_78_to_87_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"87",
-    "id":"019078087008",
-    "member":{
-        "78":{
-            "4482":{
-                "district":"8",
-                "name":"Hoeven, Charles Bernard",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4482":{
-                "district":"8",
-                "name":"Hoeven, Charles Bernard",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "4482":{
-                "district":"8",
-                "name":"Hoeven, Charles Bernard",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4482":{
-                "district":"8",
-                "name":"Hoeven, Charles Bernard",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4482":{
-                "district":"8",
-                "name":"Hoeven, Charles Bernard",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "4482":{
-                "district":"8",
-                "name":"Hoeven, Charles Bernard",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4482":{
-                "district":"8",
-                "name":"Hoeven, Charles Bernard",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4482":{
-                "district":"8",
-                "name":"Hoeven, Charles Bernard",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "4482":{
-                "district":"8",
-                "name":"Hoeven, Charles Bernard",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "4482":{
-                "district":"8",
-                "name":"Hoeven, Charles Bernard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Iowa"
+    "district":8,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ia"
 },
   "bbox": [
     -96.6397,

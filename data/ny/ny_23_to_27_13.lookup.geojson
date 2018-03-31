@@ -2,48 +2,12 @@
   "id": "ny_23_to_27_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"27",
-    "id":"036023027013",
-    "member":{
-        "23":{
-            "9976":{
-                "district":"13",
-                "name":"Whallon, Reuben",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "3063":{
-                "district":"13",
-                "name":"Farlin, Dudley",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "7178":{
-                "district":"13",
-                "name":"Palmer, John",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "4029":{
-                "district":"13",
-                "name":"Hand, Augustus Cincinnatus",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "9412":{
-                "district":"13",
-                "name":"Tomlinson, Thomas Ash",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -74.28187,

@@ -1,49 +1,13 @@
 {
-  "id": "ny_68_to_72_01",
+  "id": "ny_68_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"036068072001",
-    "member":{
-        "68":{
-            "327":{
-                "district":"1",
-                "name":"Bacon, Robert Low",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "327":{
-                "district":"1",
-                "name":"Bacon, Robert Low",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "327":{
-                "district":"1",
-                "name":"Bacon, Robert Low",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "327":{
-                "district":"1",
-                "name":"Bacon, Robert Low",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "327":{
-                "district":"1",
-                "name":"Bacon, Robert Low",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -73.84349,

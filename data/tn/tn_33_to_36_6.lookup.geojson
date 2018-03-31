@@ -1,42 +1,13 @@
 {
-  "id": "tn_33_to_36_06",
+  "id": "tn_33_to_36_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"36",
-    "id":"047033036006",
-    "member":{
-        "33":{
-            "5033":{
-                "district":"6",
-                "name":"Jones, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "5033":{
-                "district":"6",
-                "name":"Jones, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "5033":{
-                "district":"6",
-                "name":"Jones, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "9296":{
-                "district":"6",
-                "name":"Thomas, James Houston",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"tn"
 },
   "bbox": [
     -87.31176,

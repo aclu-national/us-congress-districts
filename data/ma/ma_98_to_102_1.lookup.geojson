@@ -1,54 +1,13 @@
 {
-  "id": "ma_98_to_102_01",
+  "id": "ma_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"025098102001",
-    "member":{
-        "100":{
-            "2009":{
-                "district":"1",
-                "name":"Conte, Silvio Otto",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "2009":{
-                "district":"1",
-                "name":"Conte, Silvio Otto",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "2009":{
-                "district":"1",
-                "name":"Conte, Silvio Otto",
-                "party":"Republican"
-            },
-            "29123":{
-                "district":"1",
-                "name":"Olver, John",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "2009":{
-                "district":"1",
-                "name":"Conte, Silvio Otto",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "2009":{
-                "district":"1",
-                "name":"Conte, Silvio Otto",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ma"
 },
   "bbox": [
     -73.50819,

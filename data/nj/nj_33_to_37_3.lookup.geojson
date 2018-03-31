@@ -1,49 +1,13 @@
 {
-  "id": "nj_33_to_37_03",
+  "id": "nj_33_to_37_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"37",
-    "id":"034033037003",
-    "member":{
-        "33":{
-            "5663":{
-                "district":"3",
-                "name":"Lilly, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "732":{
-                "district":"3",
-                "name":"Bishop, James",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "49":{
-                "district":"3",
-                "name":"Adrain, Garnett Bowditch",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "49":{
-                "district":"3",
-                "name":"Adrain, Garnett Bowditch",
-                "party":"Anti-Lecompton Democrat"
-            }
-        },
-        "37":{
-            "8875":{
-                "district":"3",
-                "name":"Steele, William Gaston",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New Jersey"
+    "district":3,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"nj"
 },
   "bbox": [
     -75.20392,

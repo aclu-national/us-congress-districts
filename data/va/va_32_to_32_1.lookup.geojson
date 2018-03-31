@@ -1,21 +1,13 @@
 {
-  "id": "va_32_to_32_01",
+  "id": "va_32_to_32_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"32",
-    "id":"051032032001",
-    "member":{
-        "32":{
-            "6533":{
-                "district":"1",
-                "name":"Millson, John Singleton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"32",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1851-03-04",
+    "start_session":32,
+    "state":"va"
 },
   "bbox": [
     -77.61903,

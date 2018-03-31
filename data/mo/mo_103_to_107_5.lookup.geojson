@@ -1,49 +1,13 @@
 {
-  "id": "mo_103_to_107_05",
+  "id": "mo_103_to_107_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"107",
-    "id":"029103107005",
-    "member":{
-        "103":{
-            "15076":{
-                "district":"5",
-                "name":"Wheat, Alan D.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29535":{
-                "district":"5",
-                "name":"McCarthy, Karen",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29535":{
-                "district":"5",
-                "name":"McCarthy, Karen",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29535":{
-                "district":"5",
-                "name":"McCarthy, Karen",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29535":{
-                "district":"5",
-                "name":"McCarthy, Karen",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Missouri"
+    "district":5,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"mo"
 },
   "bbox": [
     -94.60833,

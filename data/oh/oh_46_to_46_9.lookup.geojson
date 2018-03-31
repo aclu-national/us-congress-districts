@@ -1,21 +1,13 @@
 {
-  "id": "oh_46_to_46_09",
+  "id": "oh_46_to_46_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"46",
-    "id":"039046046009",
-    "member":{
-        "46":{
-            "2011":{
-                "district":"9",
-                "name":"Converse, George Leroy",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Ohio"
+    "district":9,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"oh"
 },
   "bbox": [
     -83.67019,

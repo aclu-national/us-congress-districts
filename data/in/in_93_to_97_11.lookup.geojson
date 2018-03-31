@@ -2,48 +2,12 @@
   "id": "in_93_to_97_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"97",
-    "id":"018093097011",
-    "member":{
-        "93":{
-            "14024":{
-                "district":"11",
-                "name":"Hudnut, William",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "10742":{
-                "district":"11",
-                "name":"Jacobs, Andrew, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10742":{
-                "district":"11",
-                "name":"Jacobs, Andrew, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10742":{
-                "district":"11",
-                "name":"Jacobs, Andrew, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "10742":{
-                "district":"11",
-                "name":"Jacobs, Andrew, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Indiana"
+    "district":11,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"in"
 },
   "bbox": [
     -86.19699,

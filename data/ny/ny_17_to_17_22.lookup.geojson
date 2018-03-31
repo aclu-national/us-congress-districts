@@ -2,20 +2,12 @@
   "id": "ny_17_to_17_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"17",
-    "id":"036017017022",
-    "member":{
-        "17":{
-            "9447":{
-                "district":"22",
-                "name":"Tracy, Albert Haller",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

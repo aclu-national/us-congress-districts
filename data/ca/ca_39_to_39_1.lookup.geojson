@@ -1,21 +1,13 @@
 {
-  "id": "ca_39_to_39_01",
+  "id": "ca_39_to_39_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"39",
-    "id":"006039039001",
-    "member":{
-        "39":{
-            "6382":{
-                "district":"1",
-                "name":"McRuer, Donald Campbell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"39",
-    "statename":"California"
+    "district":1,
+    "end_date":"1867-03-03",
+    "end_session":39,
+    "start_date":"1865-03-04",
+    "start_session":39,
+    "state":"ca"
 },
   "bbox": [
     -123.10803,

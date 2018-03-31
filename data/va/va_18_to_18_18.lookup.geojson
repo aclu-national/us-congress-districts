@@ -2,20 +2,12 @@
   "id": "va_18_to_18_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"18",
-    "id":"051018018018",
-    "member":{
-        "18":{
-            "4974":{
-                "district":"18",
-                "name":"Johnson, Joseph",
-                "party":"Jackson Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Virginia"
+    "district":18,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"va"
 },
   "bbox": [
     -81.20107,

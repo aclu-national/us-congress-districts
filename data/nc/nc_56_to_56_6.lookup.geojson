@@ -1,21 +1,13 @@
 {
-  "id": "nc_56_to_56_06",
+  "id": "nc_56_to_56_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"56",
-    "id":"037056056006",
-    "member":{
-        "56":{
-            "615":{
-                "district":"6",
-                "name":"Bellamy, John Dillard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1901-03-03",
+    "end_session":56,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"nc"
 },
   "bbox": [
     -81.05803,

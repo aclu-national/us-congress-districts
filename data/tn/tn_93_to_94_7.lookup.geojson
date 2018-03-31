@@ -1,28 +1,13 @@
 {
-  "id": "tn_93_to_94_07",
+  "id": "tn_93_to_94_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"94",
-    "id":"047093094007",
-    "member":{
-        "93":{
-            "12038":{
-                "district":"7",
-                "name":"Jones, Edward",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "12038":{
-                "district":"7",
-                "name":"Jones, Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Tennessee"
+    "district":7,
+    "end_date":"1976-10-01",
+    "end_session":94,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tn"
 },
   "bbox": [
     -90.17926,

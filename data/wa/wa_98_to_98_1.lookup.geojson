@@ -1,21 +1,13 @@
 {
-  "id": "wa_98_to_98_01",
+  "id": "wa_98_to_98_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"98",
-    "id":"053098098001",
-    "member":{
-        "98":{
-            "14044":{
-                "district":"1",
-                "name":"Pritchard, Joel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Washington"
+    "district":1,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"wa"
 },
   "bbox": [
     -122.5938,

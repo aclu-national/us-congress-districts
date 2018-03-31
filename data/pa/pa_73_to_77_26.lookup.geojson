@@ -2,48 +2,12 @@
   "id": "pa_73_to_77_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"77",
-    "id":"042073077026",
-    "member":{
-        "73":{
-            "9123":{
-                "district":"26",
-                "name":"Swick, Jesse Howard",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "2835":{
-                "district":"26",
-                "name":"Eckert, Charles Richard",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2835":{
-                "district":"26",
-                "name":"Eckert, Charles Richard",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3737":{
-                "district":"26",
-                "name":"Graham, Louis Edward",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "3737":{
-                "district":"26",
-                "name":"Graham, Louis Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Pennsylvania"
+    "district":26,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

@@ -1,35 +1,13 @@
 {
-  "id": "tx_55_to_57_09",
+  "id": "tx_55_to_57_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"57",
-    "id":"048055057009",
-    "member":{
-        "55":{
-            "8244":{
-                "district":"9",
-                "name":"Sayers, Joseph Draper",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "1281":{
-                "district":"9",
-                "name":"Burleson, Albert Sidney",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "1281":{
-                "district":"9",
-                "name":"Burleson, Albert Sidney",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Texas"
+    "district":9,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"tx"
 },
   "bbox": [
     -98.45937,

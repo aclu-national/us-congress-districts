@@ -1,112 +1,13 @@
 {
-  "id": "la_44_to_57_01",
+  "id": "la_44_to_57_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"57",
-    "id":"022044057001",
-    "member":{
-        "44":{
-            "3565":{
-                "district":"1",
-                "name":"Gibson, Randall Lee",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "3565":{
-                "district":"1",
-                "name":"Gibson, Randall Lee",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "3565":{
-                "district":"1",
-                "name":"Gibson, Randall Lee",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "3565":{
-                "district":"1",
-                "name":"Gibson, Randall Lee",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "4742":{
-                "district":"1",
-                "name":"Hunt, Carleton",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "8181":{
-                "district":"1",
-                "name":"St. Martin, Louis",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "10122":{
-                "district":"1",
-                "name":"Wilkinson, Theodore Stark \"Ping\"",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "10122":{
-                "district":"1",
-                "name":"Wilkinson, Theodore Stark \"Ping\"",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "6448":{
-                "district":"1",
-                "name":"Meyer, Adolph",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "6448":{
-                "district":"1",
-                "name":"Meyer, Adolph",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "6448":{
-                "district":"1",
-                "name":"Meyer, Adolph",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "6448":{
-                "district":"1",
-                "name":"Meyer, Adolph",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "6448":{
-                "district":"1",
-                "name":"Meyer, Adolph",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "6448":{
-                "district":"1",
-                "name":"Meyer, Adolph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Louisiana"
+    "district":1,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"la"
 },
   "bbox": [
     -90.11679,

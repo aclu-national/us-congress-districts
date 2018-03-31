@@ -1,49 +1,13 @@
 {
-  "id": "va_93_to_97_08",
+  "id": "va_93_to_97_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"97",
-    "id":"051093097008",
-    "member":{
-        "93":{
-            "14043":{
-                "district":"8",
-                "name":"Parris, Stanford",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14231":{
-                "district":"8",
-                "name":"Harris, Herbert",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14231":{
-                "district":"8",
-                "name":"Harris, Herbert",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14231":{
-                "district":"8",
-                "name":"Harris, Herbert",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14043":{
-                "district":"8",
-                "name":"Parris, Stanford E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"va"
 },
   "bbox": [
     -77.71559,

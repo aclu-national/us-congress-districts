@@ -2,39 +2,12 @@
   "id": "ma_70_to_72_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"72",
-    "id":"025070072014",
-    "member":{
-        "70":{
-            "10095":{
-                "district":"14",
-                "name":"Wigglesworth, Richard Bowditch \"Dick\"",
-                "party":"Republican"
-            },
-            "3382":{
-                "district":"14",
-                "name":"Frothingham, Louis Adams",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "10095":{
-                "district":"14",
-                "name":"Wigglesworth, Richard Bowditch \"Dick\"",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "10095":{
-                "district":"14",
-                "name":"Wigglesworth, Richard Bowditch \"Dick\"",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Massachusetts"
+    "district":14,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ma"
 },
   "bbox": [
     -71.28945,

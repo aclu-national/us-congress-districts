@@ -1,105 +1,13 @@
 {
-  "id": "ks_60_to_72_05",
+  "id": "ks_60_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"020060072005",
-    "member":{
-        "60":{
-            "1400":{
-                "district":"5",
-                "name":"Calderhead, William Alexander",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "1400":{
-                "district":"5",
-                "name":"Calderhead, William Alexander",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "7800":{
-                "district":"5",
-                "name":"Rees, Rollin Raymond",
-                "party":"Republican"
-            }
-        },
-        "63":{
-            "4294":{
-                "district":"5",
-                "name":"Helvering, Guy Tresillian",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4294":{
-                "district":"5",
-                "name":"Helvering, Guy Tresillian",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "4294":{
-                "district":"5",
-                "name":"Helvering, Guy Tresillian",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "9030":{
-                "district":"5",
-                "name":"Strong, James George",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9030":{
-                "district":"5",
-                "name":"Strong, James George",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "9030":{
-                "district":"5",
-                "name":"Strong, James George",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9030":{
-                "district":"5",
-                "name":"Strong, James George",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9030":{
-                "district":"5",
-                "name":"Strong, James George",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9030":{
-                "district":"5",
-                "name":"Strong, James George",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9030":{
-                "district":"5",
-                "name":"Strong, James George",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Kansas"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ks"
 },
   "bbox": [
     -97.93334,

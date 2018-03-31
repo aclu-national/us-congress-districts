@@ -1,28 +1,13 @@
 {
-  "id": "oh_98_to_99_06",
+  "id": "oh_98_to_99_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"99",
-    "id":"039098099006",
-    "member":{
-        "98":{
-            "14844":{
-                "district":"6",
-                "name":"McEwen, Bob",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14844":{
-                "district":"6",
-                "name":"McEwen, Bob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Ohio"
+    "district":6,
+    "end_date":"1986-10-18",
+    "end_session":99,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"oh"
 },
   "bbox": [
     -84.36527,

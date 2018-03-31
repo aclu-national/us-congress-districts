@@ -1,119 +1,13 @@
 {
-  "id": "or_63_to_77_03",
+  "id": "or_63_to_77_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"77",
-    "id":"041063077003",
-    "member":{
-        "63":{
-            "5397":{
-                "district":"3",
-                "name":"Lafferty, Abraham Walter",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "6124":{
-                "district":"3",
-                "name":"McArthur, Clifton Nesmith",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "6124":{
-                "district":"3",
-                "name":"McArthur, Clifton Nesmith",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6124":{
-                "district":"3",
-                "name":"McArthur, Clifton Nesmith",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6124":{
-                "district":"3",
-                "name":"McArthur, Clifton Nesmith",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "9866":{
-                "district":"3",
-                "name":"Watkins, Elton",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2226":{
-                "district":"3",
-                "name":"Crumpacker, Maurice Edgar",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "5361":{
-                "district":"3",
-                "name":"Korell, Franklin Frederic",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "5361":{
-                "district":"3",
-                "name":"Korell, Franklin Frederic",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "6019":{
-                "district":"3",
-                "name":"Martin, Charles Henry",
-                "party":"Democrat"
-            }
-        },
-        "73":{
-            "6019":{
-                "district":"3",
-                "name":"Martin, Charles Henry",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "2887":{
-                "district":"3",
-                "name":"Ekwall, William Alexander",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "4549":{
-                "district":"3",
-                "name":"Honeyman, Nan Wood",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "207":{
-                "district":"3",
-                "name":"Angell, Homer Daniel",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "207":{
-                "district":"3",
-                "name":"Angell, Homer Daniel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Oregon"
+    "district":3,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"or"
 },
   "bbox": [
     -122.92915,

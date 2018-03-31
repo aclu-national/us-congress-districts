@@ -1,49 +1,13 @@
 {
-  "id": "wi_58_to_62_07",
+  "id": "wi_58_to_62_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"62",
-    "id":"055058062007",
-    "member":{
-        "58":{
-            "2988":{
-                "district":"7",
-                "name":"Esch, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2988":{
-                "district":"7",
-                "name":"Esch, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2988":{
-                "district":"7",
-                "name":"Esch, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2988":{
-                "district":"7",
-                "name":"Esch, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "2988":{
-                "district":"7",
-                "name":"Esch, John Jacob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Wisconsin"
+    "district":7,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"wi"
 },
   "bbox": [
     -92.31617,

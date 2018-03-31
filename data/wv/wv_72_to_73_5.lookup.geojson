@@ -1,28 +1,13 @@
 {
-  "id": "wv_72_to_73_05",
+  "id": "wv_72_to_73_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"73",
-    "id":"054072073005",
-    "member":{
-        "72":{
-            "8488":{
-                "district":"5",
-                "name":"Shott, Hugh Ike",
-                "party":"Republican"
-            }
-        },
-        "73":{
-            "5117":{
-                "district":"5",
-                "name":"Kee, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"72",
-    "statename":"West Virginia"
+    "district":5,
+    "end_date":"1934-06-18",
+    "end_session":73,
+    "start_date":"1931-12-07",
+    "start_session":72,
+    "state":"wv"
 },
   "bbox": [
     -82.64474,

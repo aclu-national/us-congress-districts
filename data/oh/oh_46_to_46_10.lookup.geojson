@@ -2,20 +2,12 @@
   "id": "oh_46_to_46_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"46",
-    "id":"039046046010",
-    "member":{
-        "46":{
-            "3042":{
-                "district":"10",
-                "name":"Ewing, Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Ohio"
+    "district":10,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"oh"
 },
   "bbox": [
     -82.84307,

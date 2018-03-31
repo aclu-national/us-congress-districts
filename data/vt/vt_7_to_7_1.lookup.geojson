@@ -1,21 +1,13 @@
 {
-  "id": "vt_7_to_7_01",
+  "id": "vt_7_to_7_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"7",
-    "id":"050007007001",
-    "member":{
-        "7":{
-            "8639":{
-                "district":"1",
-                "name":"Smith, Israel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"7",
-    "statename":"Vermont"
+    "district":1,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1801-03-04",
+    "start_session":7,
+    "state":"vt"
 },
   "bbox": [
     -73.43774,

@@ -1,56 +1,13 @@
 {
-  "id": "ny_73_to_78_06",
+  "id": "ny_73_to_78_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"78",
-    "id":"036073078006",
-    "member":{
-        "73":{
-            "8739":{
-                "district":"6",
-                "name":"Somers, Andrew Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "8739":{
-                "district":"6",
-                "name":"Somers, Andrew Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8739":{
-                "district":"6",
-                "name":"Somers, Andrew Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8739":{
-                "district":"6",
-                "name":"Somers, Andrew Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8739":{
-                "district":"6",
-                "name":"Somers, Andrew Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "8739":{
-                "district":"6",
-                "name":"Somers, Andrew Lawrence",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -73.9883,

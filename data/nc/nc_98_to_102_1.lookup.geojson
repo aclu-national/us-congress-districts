@@ -1,49 +1,13 @@
 {
-  "id": "nc_98_to_102_01",
+  "id": "nc_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"037098102001",
-    "member":{
-        "100":{
-            "10788":{
-                "district":"1",
-                "name":"Jones, Walter",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "10788":{
-                "district":"1",
-                "name":"Jones, Walter",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "10788":{
-                "district":"1",
-                "name":"Jones, Walter",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "10788":{
-                "district":"1",
-                "name":"Jones, Walter",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "10788":{
-                "district":"1",
-                "name":"Jones, Walter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"nc"
 },
   "bbox": [
     -77.90033,

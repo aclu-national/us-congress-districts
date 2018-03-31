@@ -1,42 +1,13 @@
 {
-  "id": "ct_89_to_92_01",
+  "id": "ct_89_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"009089092001",
-    "member":{
-        "89":{
-            "2295":{
-                "district":"1",
-                "name":"Daddario, Emilio Quincy",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "2295":{
-                "district":"1",
-                "name":"Daddario, Emilio Quincy",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "2295":{
-                "district":"1",
-                "name":"Daddario, Emilio Quincy",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "13009":{
-                "district":"1",
-                "name":"Cotter, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Connecticut"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"ct"
 },
   "bbox": [
     -72.80061,

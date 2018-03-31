@@ -2,20 +2,12 @@
   "id": "fl_90_to_90_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"90",
-    "id":"012090090012",
-    "member":{
-        "90":{
-            "3078":{
-                "district":"12",
-                "name":"Fascell, Dante Bruno",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Florida"
+    "district":12,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"fl"
 },
   "bbox": [
     -82.9264,

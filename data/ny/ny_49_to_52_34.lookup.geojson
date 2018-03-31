@@ -2,41 +2,12 @@
   "id": "ny_49_to_52_34",
   "type": "Feature",
   "properties": {
-    "district":"34",
-    "endcong":"52",
-    "id":"036049052034",
-    "member":{
-        "49":{
-            "8368":{
-                "district":"34",
-                "name":"Sessions, Walter Loomis",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "5408":{
-                "district":"34",
-                "name":"Laidlaw, William Grant",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "5408":{
-                "district":"34",
-                "name":"Laidlaw, William Grant",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "4555":{
-                "district":"34",
-                "name":"Hooker, Warren Brewster",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":34,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

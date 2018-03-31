@@ -2,18 +2,12 @@
   "id": "mp_113_to_115_98",
   "type": "Feature",
   "properties": {
-    "ALAND":472233618,
-    "AWATER":4644349190,
-    "CD113FP":"98",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"6998",
-    "INTPTLAT":"+14.9300772",
-    "INTPTLON":"+145.6425305",
-    "LSAD":"C4",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Delegate District (at Large)",
-    "STATEFP":"69"
+    "district":98,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mp"
 },
   "bbox": [
     144.813338,

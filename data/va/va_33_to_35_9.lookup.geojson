@@ -1,35 +1,13 @@
 {
-  "id": "va_33_to_35_09",
+  "id": "va_33_to_35_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"35",
-    "id":"051033035009",
-    "member":{
-        "33":{
-            "5621":{
-                "district":"9",
-                "name":"Letcher, John",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "5621":{
-                "district":"9",
-                "name":"Letcher, John",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "5621":{
-                "district":"9",
-                "name":"Letcher, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Virginia"
+    "district":9,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"va"
 },
   "bbox": [
     -80.05606,

@@ -2,48 +2,12 @@
   "id": "pa_13_to_17_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"17",
-    "id":"042013017013",
-    "member":{
-        "13":{
-            "3820":{
-                "district":"13",
-                "name":"Griffin, Isaac",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "3820":{
-                "district":"13",
-                "name":"Griffin, Isaac",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "9180":{
-                "district":"13",
-                "name":"Tarr, Christian",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "9180":{
-                "district":"13",
-                "name":"Tarr, Christian",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "8927":{
-                "district":"13",
-                "name":"Stewart, Andrew",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"pa"
 },
   "bbox": [
     -80.51949,

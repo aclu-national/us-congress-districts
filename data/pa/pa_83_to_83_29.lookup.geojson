@@ -2,20 +2,12 @@
   "id": "pa_83_to_83_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"83",
-    "id":"042083083029",
-    "member":{
-        "83":{
-            "2065":{
-                "district":"29",
-                "name":"Corbett, Robert James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Pennsylvania"
+    "district":29,
+    "end_date":"1954-12-02",
+    "end_session":83,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"pa"
 },
   "bbox": [
     -80.22874,

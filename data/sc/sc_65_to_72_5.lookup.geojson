@@ -1,70 +1,13 @@
 {
-  "id": "sc_65_to_72_05",
+  "id": "sc_65_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"045065072005",
-    "member":{
-        "65":{
-            "8923":{
-                "district":"5",
-                "name":"Stevenson, William Francis",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "8923":{
-                "district":"5",
-                "name":"Stevenson, William Francis",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "8923":{
-                "district":"5",
-                "name":"Stevenson, William Francis",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "8923":{
-                "district":"5",
-                "name":"Stevenson, William Francis",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "8923":{
-                "district":"5",
-                "name":"Stevenson, William Francis",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "8923":{
-                "district":"5",
-                "name":"Stevenson, William Francis",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "8923":{
-                "district":"5",
-                "name":"Stevenson, William Francis",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "8923":{
-                "district":"5",
-                "name":"Stevenson, William Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"South Carolina"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"sc"
 },
   "bbox": [
     -81.87443,

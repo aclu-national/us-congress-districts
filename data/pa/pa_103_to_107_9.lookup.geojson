@@ -1,54 +1,13 @@
 {
-  "id": "pa_103_to_107_09",
+  "id": "pa_103_to_107_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"107",
-    "id":"042103107009",
-    "member":{
-        "103":{
-            "14052":{
-                "district":"9",
-                "name":"Shuster, Elmer Greinert \"Bud\"",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14052":{
-                "district":"9",
-                "name":"Shuster, Elmer Greinert \"Bud\"",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "14052":{
-                "district":"9",
-                "name":"Shuster, Elmer Greinert \"Bud\"",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "14052":{
-                "district":"9",
-                "name":"Shuster, Elmer Greinert \"Bud\"",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "14052":{
-                "district":"9",
-                "name":"Shuster, Elmer Greinert \"Bud\"",
-                "party":"Republican"
-            },
-            "20134":{
-                "district":"9",
-                "name":"Shuster, Bill",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Pennsylvania"
+    "district":9,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"pa"
 },
   "bbox": [
     -78.80837,

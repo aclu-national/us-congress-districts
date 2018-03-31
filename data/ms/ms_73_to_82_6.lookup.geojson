@@ -1,84 +1,13 @@
 {
-  "id": "ms_73_to_82_06",
+  "id": "ms_73_to_82_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"82",
-    "id":"028073082006",
-    "member":{
-        "73":{
-            "1952":{
-                "district":"6",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "1952":{
-                "district":"6",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "1952":{
-                "district":"6",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "1952":{
-                "district":"6",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "1952":{
-                "district":"6",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "1952":{
-                "district":"6",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "1952":{
-                "district":"6",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "1952":{
-                "district":"6",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "1952":{
-                "district":"6",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1952":{
-                "district":"6",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Mississippi"
+    "district":6,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ms"
 },
   "bbox": [
     -90.24519,

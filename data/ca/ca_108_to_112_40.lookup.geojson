@@ -2,48 +2,12 @@
   "id": "ca_108_to_112_40",
   "type": "Feature",
   "properties": {
-    "district":"40",
-    "endcong":"112",
-    "id":"006108112040",
-    "member":{
-        "108":{
-            "29321":{
-                "district":"40",
-                "name":"Royce, Edward R.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29321":{
-                "district":"40",
-                "name":"Royce, Edward R.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29321":{
-                "district":"40",
-                "name":"Royce, Edward R.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29321":{
-                "district":"40",
-                "name":"Royce, Edward R.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "29321":{
-                "district":"40",
-                "name":"Royce, Ed",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":40,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -118.09294,

@@ -1,42 +1,13 @@
 {
-  "id": "nc_33_to_36_06",
+  "id": "nc_33_to_36_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"36",
-    "id":"037033036006",
-    "member":{
-        "33":{
-            "7659":{
-                "district":"6",
-                "name":"Puryear, Richard Clausell",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "7659":{
-                "district":"6",
-                "name":"Puryear, Richard Clausell",
-                "party":"American"
-            }
-        },
-        "35":{
-            "8248":{
-                "district":"6",
-                "name":"Scales, Alfred Moore",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "5536":{
-                "district":"6",
-                "name":"Leach, James Madison",
-                "party":"Ind. Republican-Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"nc"
 },
   "bbox": [
     -81.74185,

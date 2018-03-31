@@ -2,34 +2,12 @@
   "id": "ny_103_to_105_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"105",
-    "id":"036103105021",
-    "member":{
-        "103":{
-            "15614":{
-                "district":"21",
-                "name":"McNulty, Michael R.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "15614":{
-                "district":"21",
-                "name":"McNulty, Michael R.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "15614":{
-                "district":"21",
-                "name":"McNulty, Michael R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -74.71025,

@@ -1,28 +1,13 @@
 {
-  "id": "ma_91_to_92_08",
+  "id": "ma_91_to_92_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"92",
-    "id":"025091092008",
-    "member":{
-        "91":{
-            "7081":{
-                "district":"8",
-                "name":"O'Neill, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "7081":{
-                "district":"8",
-                "name":"O'Neill, Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Massachusetts"
+    "district":8,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ma"
 },
   "bbox": [
     -71.179,

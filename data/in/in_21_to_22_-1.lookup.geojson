@@ -2,15 +2,12 @@
   "id": "in_21_to_22_-1",
   "type": "Feature",
   "properties": {
-    "district":"-1",
-    "endcong":"22",
-    "id":"0180210220-1",
-    "member":{
-        "21":[],
-        "22":[]
-    },
-    "startcong":"21",
-    "statename":"Indiana"
+    "district":-1,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1829-03-04",
+    "start_session":21,
+    "state":"in"
 },
   "bbox": [
     -87.52677,

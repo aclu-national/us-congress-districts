@@ -2,34 +2,12 @@
   "id": "il_90_to_92_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"92",
-    "id":"017090092016",
-    "member":{
-        "90":{
-            "10501":{
-                "district":"16",
-                "name":"Anderson, John B.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10501":{
-                "district":"16",
-                "name":"Anderson, John B.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10501":{
-                "district":"16",
-                "name":"Anderson, John B.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Illinois"
+    "district":16,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"il"
 },
   "bbox": [
     -90.65653,

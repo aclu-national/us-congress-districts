@@ -1,49 +1,13 @@
 {
-  "id": "tn_28_to_32_05",
+  "id": "tn_28_to_32_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"32",
-    "id":"047028032005",
-    "member":{
-        "28":{
-            "5033":{
-                "district":"5",
-                "name":"Jones, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "5033":{
-                "district":"5",
-                "name":"Jones, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "5033":{
-                "district":"5",
-                "name":"Jones, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "5033":{
-                "district":"5",
-                "name":"Jones, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "5033":{
-                "district":"5",
-                "name":"Jones, George Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"tn"
 },
   "bbox": [
     -86.9608,

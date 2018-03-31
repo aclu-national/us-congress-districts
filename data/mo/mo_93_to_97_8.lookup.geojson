@@ -1,49 +1,13 @@
 {
-  "id": "mo_93_to_97_08",
+  "id": "mo_93_to_97_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"97",
-    "id":"029093097008",
-    "member":{
-        "93":{
-            "10528":{
-                "district":"8",
-                "name":"Ichord, Richard H.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10528":{
-                "district":"8",
-                "name":"Ichord, Richard H.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10528":{
-                "district":"8",
-                "name":"Ichord, Richard H.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10528":{
-                "district":"8",
-                "name":"Ichord, Richard H.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14800":{
-                "district":"8",
-                "name":"Bailey, Wendell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Missouri"
+    "district":8,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mo"
 },
   "bbox": [
     -93.08216,

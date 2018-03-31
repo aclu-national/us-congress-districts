@@ -2,48 +2,12 @@
   "id": "ny_108_to_112_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"112",
-    "id":"036108112011",
-    "member":{
-        "108":{
-            "15050":{
-                "district":"11",
-                "name":"Owens, Major Robert Odell",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15050":{
-                "district":"11",
-                "name":"Owens, Major Robert Odell",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20733":{
-                "district":"11",
-                "name":"Clarke, Yvette D.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20733":{
-                "district":"11",
-                "name":"Clarke, Yvette D.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20733":{
-                "district":"11",
-                "name":"Clarke, Yvette D.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":11,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -74.00195,

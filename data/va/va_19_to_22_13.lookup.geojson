@@ -2,41 +2,12 @@
   "id": "va_19_to_22_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"22",
-    "id":"051019022013",
-    "member":{
-        "19":{
-            "9167":{
-                "district":"13",
-                "name":"Taliaferro, John",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "9167":{
-                "district":"13",
-                "name":"Taliaferro, John",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "9167":{
-                "district":"13",
-                "name":"Taliaferro, John",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "1699":{
-                "district":"13",
-                "name":"Chinn, Joseph William",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":13,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -77.63543,

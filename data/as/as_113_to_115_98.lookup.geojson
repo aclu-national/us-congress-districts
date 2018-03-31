@@ -2,18 +2,12 @@
   "id": "as_113_to_115_98",
   "type": "Feature",
   "properties": {
-    "ALAND":198019966,
-    "AWATER":1306931136,
-    "CD113FP":"98",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"6098",
-    "INTPTLAT":"-14.2638166",
-    "INTPTLON":"-170.6620902",
-    "LSAD":"C4",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Delegate District (at Large)",
-    "STATEFP":"60"
+    "district":98,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"as"
 },
   "bbox": [
     -171.141907,

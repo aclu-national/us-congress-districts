@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"82",
-    "id":"036079082028",
-    "member":{
-        "79":{
-            "3446":{
-                "district":"28",
-                "name":"Gamble, Ralph Abernethy",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3446":{
-                "district":"28",
-                "name":"Gamble, Ralph Abernethy",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3446":{
-                "district":"28",
-                "name":"Gamble, Ralph Abernethy",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "3446":{
-                "district":"28",
-                "name":"Gamble, Ralph Abernethy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":28,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -73.87184,

@@ -1,49 +1,13 @@
 {
-  "id": "nc_8_to_12_02",
+  "id": "nc_8_to_12_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"12",
-    "id":"037008012002",
-    "member":{
-        "10":{
-            "148":{
-                "district":"2",
-                "name":"Alston, Willis",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "148":{
-                "district":"2",
-                "name":"Alston, Willis",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "148":{
-                "district":"2",
-                "name":"Alston, Willis",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "148":{
-                "district":"2",
-                "name":"Alston, Willis",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "148":{
-                "district":"2",
-                "name":"Alston, Willis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"North Carolina"
+    "district":2,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"nc"
 },
   "bbox": [
     -78.00655,

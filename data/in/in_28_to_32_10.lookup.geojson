@@ -2,48 +2,12 @@
   "id": "in_28_to_32_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"32",
-    "id":"018028032010",
-    "member":{
-        "28":{
-            "5176":{
-                "district":"10",
-                "name":"Kennedy, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "5176":{
-                "district":"10",
-                "name":"Kennedy, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "8000":{
-                "district":"10",
-                "name":"Rockhill, William",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "4074":{
-                "district":"10",
-                "name":"Harlan, Andrew Jackson",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "1010":{
-                "district":"10",
-                "name":"Brenton, Samuel",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Indiana"
+    "district":10,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"in"
 },
   "bbox": [
     -85.86487,

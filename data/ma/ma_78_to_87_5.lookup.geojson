@@ -1,84 +1,13 @@
 {
-  "id": "ma_78_to_87_05",
+  "id": "ma_78_to_87_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"87",
-    "id":"025078087005",
-    "member":{
-        "78":{
-            "8024":{
-                "district":"5",
-                "name":"Rogers, Edith Nourse",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "8024":{
-                "district":"5",
-                "name":"Rogers, Edith Nourse",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "8024":{
-                "district":"5",
-                "name":"Rogers, Edith Nourse",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "8024":{
-                "district":"5",
-                "name":"Rogers, Edith Nourse",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "8024":{
-                "district":"5",
-                "name":"Rogers, Edith Nourse",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "8024":{
-                "district":"5",
-                "name":"Rogers, Edith Nourse",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "8024":{
-                "district":"5",
-                "name":"Rogers, Edith Nourse",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "8024":{
-                "district":"5",
-                "name":"Rogers, Edith Nourse",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "8024":{
-                "district":"5",
-                "name":"Rogers, Edith Nourse",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10538":{
-                "district":"5",
-                "name":"Morse, F. Bradford",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ma"
 },
   "bbox": [
     -71.89872,

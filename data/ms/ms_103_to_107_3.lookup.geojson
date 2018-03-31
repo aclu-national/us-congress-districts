@@ -1,49 +1,13 @@
 {
-  "id": "ms_103_to_107_03",
+  "id": "ms_103_to_107_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"107",
-    "id":"028103107003",
-    "member":{
-        "103":{
-            "11035":{
-                "district":"3",
-                "name":"Montgomery, G. V.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "11035":{
-                "district":"3",
-                "name":"Montgomery, G. V.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29734":{
-                "district":"3",
-                "name":"Pickering, Charles W. \"Chip\"",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29734":{
-                "district":"3",
-                "name":"Pickering, Charles W. \"Chip\"",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29734":{
-                "district":"3",
-                "name":"Pickering, Charles W. \"Chip\"",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Mississippi"
+    "district":3,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ms"
 },
   "bbox": [
     -90.28857,

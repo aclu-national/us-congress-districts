@@ -1,42 +1,13 @@
 {
-  "id": "ny_44_to_47_04",
+  "id": "ny_44_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"036044047004",
-    "member":{
-        "44":{
-            "795":{
-                "district":"4",
-                "name":"Bliss, Archibald Meserole",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "795":{
-                "district":"4",
-                "name":"Bliss, Archibald Meserole",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "795":{
-                "district":"4",
-                "name":"Bliss, Archibald Meserole",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "795":{
-                "district":"4",
-                "name":"Bliss, Archibald Meserole",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -74.04215,

@@ -1,35 +1,13 @@
 {
-  "id": "oh_105_to_107_06",
+  "id": "oh_105_to_107_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"107",
-    "id":"039105107006",
-    "member":{
-        "105":{
-            "29747":{
-                "district":"6",
-                "name":"Strickland, Ted",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29747":{
-                "district":"6",
-                "name":"Strickland, Ted",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29747":{
-                "district":"6",
-                "name":"Strickland, Ted",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Ohio"
+    "district":6,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"oh"
 },
   "bbox": [
     -84.3431,

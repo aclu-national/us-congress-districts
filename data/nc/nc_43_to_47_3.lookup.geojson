@@ -1,49 +1,13 @@
 {
-  "id": "nc_43_to_47_03",
+  "id": "nc_43_to_47_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"47",
-    "id":"037043047003",
-    "member":{
-        "43":{
-            "9695":{
-                "district":"3",
-                "name":"Waddell, Alfred Moore",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "9695":{
-                "district":"3",
-                "name":"Waddell, Alfred Moore",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "9695":{
-                "district":"3",
-                "name":"Waddell, Alfred Moore",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "8126":{
-                "district":"3",
-                "name":"Russell, Daniel Lindsay",
-                "party":"National Greenbacker"
-            }
-        },
-        "47":{
-            "8389":{
-                "district":"3",
-                "name":"Shackelford, John William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"nc"
 },
   "bbox": [
     -79.76934,

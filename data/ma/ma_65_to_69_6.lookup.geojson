@@ -1,59 +1,13 @@
 {
-  "id": "ma_65_to_69_06",
+  "id": "ma_65_to_69_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"69",
-    "id":"025065069006",
-    "member":{
-        "65":{
-            "3463":{
-                "district":"6",
-                "name":"Gardner, Augustus Peabody",
-                "party":"Republican"
-            },
-            "5833":{
-                "district":"6",
-                "name":"Lufkin, Willfred Weymouth",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "5833":{
-                "district":"6",
-                "name":"Lufkin, Willfred Weymouth",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "189":{
-                "district":"6",
-                "name":"Andrew, Abram Piatt Jr.",
-                "party":"Republican"
-            },
-            "5833":{
-                "district":"6",
-                "name":"Lufkin, Willfred Weymouth",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "189":{
-                "district":"6",
-                "name":"Andrew, Abram Piatt Jr.",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "189":{
-                "district":"6",
-                "name":"Andrew, Abram Piatt Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ma"
 },
   "bbox": [
     -71.18247,

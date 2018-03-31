@@ -2,48 +2,12 @@
   "id": "ca_108_to_112_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"112",
-    "id":"006108112016",
-    "member":{
-        "108":{
-            "29504":{
-                "district":"16",
-                "name":"Lofgren, Zoe",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29504":{
-                "district":"16",
-                "name":"Lofgren, Zoe",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29504":{
-                "district":"16",
-                "name":"Lofgren, Zoe",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29504":{
-                "district":"16",
-                "name":"Lofgren, Zoe",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29504":{
-                "district":"16",
-                "name":"Lofgren, Zoe",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":16,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -121.96757,

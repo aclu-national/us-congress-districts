@@ -1,75 +1,13 @@
 {
-  "id": "in_33_to_40_07",
+  "id": "in_33_to_40_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"40",
-    "id":"018033040007",
-    "member":{
-        "33":{
-            "2397":{
-                "district":"7",
-                "name":"Davis, John Givan",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "8300":{
-                "district":"7",
-                "name":"Scott, Harvey David",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "2397":{
-                "district":"7",
-                "name":"Davis, John Givan",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "2397":{
-                "district":"7",
-                "name":"Davis, John Givan",
-                "party":"Anti-Lecompton Democrat"
-            }
-        },
-        "37":{
-            "9685":{
-                "district":"7",
-                "name":"Voorhees, Daniel Wolsey",
-                "party":"Democrat"
-            }
-        },
-        "38":{
-            "9685":{
-                "district":"7",
-                "name":"Voorhees, Daniel Wolsey",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "9685":{
-                "district":"7",
-                "name":"Voorhees, Daniel Wolsey",
-                "party":"Democrat"
-            },
-            "9850":{
-                "district":"7",
-                "name":"Washburn, Henry Dana",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "9850":{
-                "district":"7",
-                "name":"Washburn, Henry Dana",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Indiana"
+    "district":7,
+    "end_date":"1869-03-03",
+    "end_session":40,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"in"
 },
   "bbox": [
     -87.65875,

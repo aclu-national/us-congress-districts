@@ -1,70 +1,13 @@
 {
-  "id": "va_53_to_60_03",
+  "id": "va_53_to_60_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"60",
-    "id":"051053060003",
-    "member":{
-        "53":{
-            "10285":{
-                "district":"3",
-                "name":"Wise, George Douglas",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "2906":{
-                "district":"3",
-                "name":"Ellett, Tazewell",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "5419":{
-                "district":"3",
-                "name":"Lamb, John",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "5419":{
-                "district":"3",
-                "name":"Lamb, John",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "5419":{
-                "district":"3",
-                "name":"Lamb, John",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "5419":{
-                "district":"3",
-                "name":"Lamb, John",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "5419":{
-                "district":"3",
-                "name":"Lamb, John",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "5419":{
-                "district":"3",
-                "name":"Lamb, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Virginia"
+    "district":3,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"va"
 },
   "bbox": [
     -78.15935,

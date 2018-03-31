@@ -2,27 +2,12 @@
   "id": "fl_103_to_104_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"104",
-    "id":"012103104016",
-    "member":{
-        "103":{
-            "15035":{
-                "district":"16",
-                "name":"Lewis, Thomas F.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29510":{
-                "district":"16",
-                "name":"Foley, Mark Adam",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Florida"
+    "district":16,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"fl"
 },
   "bbox": [
     -81.56651,

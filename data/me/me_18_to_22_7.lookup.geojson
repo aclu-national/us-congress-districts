@@ -1,49 +1,13 @@
 {
-  "id": "me_18_to_22_07",
+  "id": "me_18_to_22_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"22",
-    "id":"023018022007",
-    "member":{
-        "18":{
-            "5228":{
-                "district":"7",
-                "name":"Kidder, David",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "5228":{
-                "district":"7",
-                "name":"Kidder, David",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "1358":{
-                "district":"7",
-                "name":"Butman, Samuel",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "1358":{
-                "district":"7",
-                "name":"Butman, Samuel",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "514":{
-                "district":"7",
-                "name":"Bates, James",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Maine"
+    "district":7,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"me"
 },
   "bbox": [
     -70.55279,

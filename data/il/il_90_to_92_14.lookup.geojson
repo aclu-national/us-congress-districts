@@ -2,34 +2,12 @@
   "id": "il_90_to_92_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"92",
-    "id":"017090092014",
-    "member":{
-        "90":{
-            "10722":{
-                "district":"14",
-                "name":"Erlenborn, John N.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10722":{
-                "district":"14",
-                "name":"Erlenborn, John N.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10722":{
-                "district":"14",
-                "name":"Erlenborn, John N.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Illinois"
+    "district":14,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"il"
 },
   "bbox": [
     -88.26318,

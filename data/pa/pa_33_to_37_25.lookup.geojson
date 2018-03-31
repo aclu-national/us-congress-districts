@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"37",
-    "id":"042033037025",
-    "member":{
-        "33":{
-            "2556":{
-                "district":"25",
-                "name":"Dick, John",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "2556":{
-                "district":"25",
-                "name":"Dick, John",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "2556":{
-                "district":"25",
-                "name":"Dick, John",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "312":{
-                "district":"25",
-                "name":"Babbitt, Elijah",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "312":{
-                "district":"25",
-                "name":"Babbitt, Elijah",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":25,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

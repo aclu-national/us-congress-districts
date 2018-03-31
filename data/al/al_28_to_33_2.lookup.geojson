@@ -1,56 +1,13 @@
 {
-  "id": "al_28_to_33_02",
+  "id": "al_28_to_33_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"33",
-    "id":"001028033002",
-    "member":{
-        "28":{
-            "619":{
-                "district":"2",
-                "name":"Belser, James Edwin",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4436":{
-                "district":"2",
-                "name":"Hilliard, Henry Washington",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "4436":{
-                "district":"2",
-                "name":"Hilliard, Henry Washington",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "4436":{
-                "district":"2",
-                "name":"Hilliard, Henry Washington",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "10":{
-                "district":"2",
-                "name":"Abercrombie, James",
-                "party":"Whig"
-            }
-        },
-        "33":{
-            "10":{
-                "district":"2",
-                "name":"Abercrombie, James",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Alabama"
+    "district":2,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"al"
 },
   "bbox": [
     -86.70279,

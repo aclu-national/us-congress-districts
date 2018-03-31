@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"62",
-    "id":"036058062022",
-    "member":{
-        "58":{
-            "2720":{
-                "district":"22",
-                "name":"Draper, William Henry",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2720":{
-                "district":"22",
-                "name":"Draper, William Henry",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2720":{
-                "district":"22",
-                "name":"Draper, William Henry",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2720":{
-                "district":"22",
-                "name":"Draper, William Henry",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "2720":{
-                "district":"22",
-                "name":"Draper, William Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -73.78616,

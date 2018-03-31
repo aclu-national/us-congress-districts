@@ -2,41 +2,12 @@
   "id": "ny_34_to_37_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"37",
-    "id":"036034037010",
-    "member":{
-        "34":{
-            "6817":{
-                "district":"10",
-                "name":"Murray, Ambrose Spencer",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "6817":{
-                "district":"10",
-                "name":"Murray, Ambrose Spencer",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "9643":{
-                "district":"10",
-                "name":"Van Wyck, Charles Henry",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "9643":{
-                "district":"10",
-                "name":"Van Wyck, Charles Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -75.14645,

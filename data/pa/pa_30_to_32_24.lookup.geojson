@@ -2,34 +2,12 @@
   "id": "pa_30_to_32_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"32",
-    "id":"042030032024",
-    "member":{
-        "30":{
-            "4817":{
-                "district":"24",
-                "name":"Irvin, Alexander",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "3615":{
-                "district":"24",
-                "name":"Gilmore, Alfred",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "3615":{
-                "district":"24",
-                "name":"Gilmore, Alfred",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":24,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -80.16529,

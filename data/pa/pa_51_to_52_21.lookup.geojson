@@ -2,27 +2,12 @@
   "id": "pa_51_to_52_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"52",
-    "id":"042051052021",
-    "member":{
-        "51":{
-            "2136":{
-                "district":"21",
-                "name":"Craig, Samuel Alfred",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "4691":{
-                "district":"21",
-                "name":"Huff, George Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":21,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -79.90495,

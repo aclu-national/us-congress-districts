@@ -1,28 +1,13 @@
 {
-  "id": "va_8_to_9_06",
+  "id": "va_8_to_9_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"9",
-    "id":"051008009006",
-    "member":{
-        "8":{
-            "9468":{
-                "district":"6",
-                "name":"Trigg, Abram",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "9468":{
-                "district":"6",
-                "name":"Trigg, Abram",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1807-03-03",
+    "end_session":9,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"va"
 },
   "bbox": [
     -83.67541,

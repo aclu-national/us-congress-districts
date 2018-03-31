@@ -1,19 +1,13 @@
 {
-  "id": "ga_113_to_115_06",
+  "id": "ga_113_to_115_6",
   "type": "Feature",
   "properties": {
-    "ALAND":773902213,
-    "AWATER":14146990,
-    "CD113FP":"06",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1306",
-    "INTPTLAT":"+34.0130473",
-    "INTPTLON":"-084.3456797",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 6",
-    "STATEFP":"13"
+    "district":6,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ga"
 },
   "bbox": [
     -84.571683,

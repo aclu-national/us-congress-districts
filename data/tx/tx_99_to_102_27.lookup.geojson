@@ -2,41 +2,12 @@
   "id": "tx_99_to_102_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"102",
-    "id":"048099102027",
-    "member":{
-        "100":{
-            "15049":{
-                "district":"27",
-                "name":"Ortiz, Solomon",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15049":{
-                "district":"27",
-                "name":"Ortiz, Solomon",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15049":{
-                "district":"27",
-                "name":"Ortiz, Solomon",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15049":{
-                "district":"27",
-                "name":"Ortiz, Solomon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Texas"
+    "district":27,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"tx"
 },
   "bbox": [
     -98.05939,

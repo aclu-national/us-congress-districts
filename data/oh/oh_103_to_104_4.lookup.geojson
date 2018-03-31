@@ -1,28 +1,13 @@
 {
-  "id": "oh_103_to_104_04",
+  "id": "oh_103_to_104_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"104",
-    "id":"039103104004",
-    "member":{
-        "103":{
-            "14875":{
-                "district":"4",
-                "name":"Oxley, Michael",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14875":{
-                "district":"4",
-                "name":"Oxley, Michael",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"oh"
 },
   "bbox": [
     -84.45605,

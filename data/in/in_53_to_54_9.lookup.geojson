@@ -1,28 +1,13 @@
 {
-  "id": "in_53_to_54_09",
+  "id": "in_53_to_54_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"54",
-    "id":"018053054009",
-    "member":{
-        "53":{
-            "9884":{
-                "district":"9",
-                "name":"Waugh, Daniel Webster",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "4035":{
-                "district":"9",
-                "name":"Hanly, James Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Indiana"
+    "district":9,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"in"
 },
   "bbox": [
     -87.53144,

@@ -2,20 +2,12 @@
   "id": "ca_98_to_98_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"98",
-    "id":"006098098020",
-    "member":{
-        "98":{
-            "14669":{
-                "district":"20",
-                "name":"Thomas, William Marshall",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"California"
+    "district":20,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ca"
 },
   "bbox": [
     -121.18499,

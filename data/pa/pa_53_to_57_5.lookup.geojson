@@ -1,54 +1,13 @@
 {
-  "id": "pa_53_to_57_05",
+  "id": "pa_53_to_57_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"57",
-    "id":"042053057005",
-    "member":{
-        "53":{
-            "4080":{
-                "district":"5",
-                "name":"Harmer, Alfred Crout",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "4080":{
-                "district":"5",
-                "name":"Harmer, Alfred Crout",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "4080":{
-                "district":"5",
-                "name":"Harmer, Alfred Crout",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "4080":{
-                "district":"5",
-                "name":"Harmer, Alfred Crout",
-                "party":"Republican"
-            },
-            "6692":{
-                "district":"5",
-                "name":"Morrell, Edward De Veaux",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "6692":{
-                "district":"5",
-                "name":"Morrell, Edward De Veaux",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"pa"
 },
   "bbox": [
     -75.241,

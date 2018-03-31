@@ -1,49 +1,13 @@
 {
-  "id": "oh_13_to_17_03",
+  "id": "oh_13_to_17_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"17",
-    "id":"039013017003",
-    "member":{
-        "13":{
-            "2172":{
-                "district":"3",
-                "name":"Creighton, William, Jr.",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "2172":{
-                "district":"3",
-                "name":"Creighton, William, Jr.",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "417":{
-                "district":"3",
-                "name":"Barber, Levi",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "1168":{
-                "district":"3",
-                "name":"Brush, Henry",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "417":{
-                "district":"3",
-                "name":"Barber, Levi",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"oh"
 },
   "bbox": [
     -83.39401,

@@ -1,26 +1,13 @@
 {
-  "id": "pa_62_to_62_01",
+  "id": "pa_62_to_62_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"62",
-    "id":"042062062001",
-    "member":{
-        "62":{
-            "715":{
-                "district":"1",
-                "name":"Bingham, Henry Harrison",
-                "party":"Republican"
-            },
-            "9647":{
-                "district":"1",
-                "name":"Vare, William Scott",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"62",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1911-04-04",
+    "start_session":62,
+    "state":"pa"
 },
   "bbox": [
     -75.21453,

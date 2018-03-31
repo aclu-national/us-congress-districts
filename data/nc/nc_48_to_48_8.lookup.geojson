@@ -1,21 +1,13 @@
 {
-  "id": "nc_48_to_48_08",
+  "id": "nc_48_to_48_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"48",
-    "id":"037048048008",
-    "member":{
-        "48":{
-            "9599":{
-                "district":"8",
-                "name":"Vance, Robert Brank",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"North Carolina"
+    "district":8,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"nc"
 },
   "bbox": [
     -84.32187,

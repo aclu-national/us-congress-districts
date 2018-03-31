@@ -1,42 +1,13 @@
 {
-  "id": "pa_109_to_112_05",
+  "id": "pa_109_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"042109112005",
-    "member":{
-        "109":{
-            "29751":{
-                "district":"5",
-                "name":"Peterson, John E.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29751":{
-                "district":"5",
-                "name":"Peterson, John E.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20946":{
-                "district":"5",
-                "name":"Thompson, Glenn",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20946":{
-                "district":"5",
-                "name":"Thompson, Glenn",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"pa"
 },
   "bbox": [
     -79.99978,

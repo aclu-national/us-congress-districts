@@ -2,48 +2,12 @@
   "id": "oh_78_to_82_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"82",
-    "id":"039078082017",
-    "member":{
-        "78":{
-            "6262":{
-                "district":"17",
-                "name":"McGregor, J. Harry",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "6262":{
-                "district":"17",
-                "name":"McGregor, J. Harry",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "6262":{
-                "district":"17",
-                "name":"McGregor, J. Harry",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6262":{
-                "district":"17",
-                "name":"McGregor, J. Harry",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "6262":{
-                "district":"17",
-                "name":"McGregor, J. Harry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"oh"
 },
   "bbox": [
     -83.24962,

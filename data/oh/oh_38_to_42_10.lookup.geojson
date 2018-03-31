@@ -2,53 +2,12 @@
   "id": "oh_38_to_42_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"42",
-    "id":"039038042010",
-    "member":{
-        "38":{
-            "266":{
-                "district":"10",
-                "name":"Ashley, James Mitchell",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "266":{
-                "district":"10",
-                "name":"Ashley, James Mitchell",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "266":{
-                "district":"10",
-                "name":"Ashley, James Mitchell",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "4459":{
-                "district":"10",
-                "name":"Hoag, Truman Harrison",
-                "party":"Democrat"
-            },
-            "7293":{
-                "district":"10",
-                "name":"Peck, Erasmus Darwin",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "7293":{
-                "district":"10",
-                "name":"Peck, Erasmus Darwin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Ohio"
+    "district":10,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"oh"
 },
   "bbox": [
     -84.80618,

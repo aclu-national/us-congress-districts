@@ -2,20 +2,12 @@
   "id": "tx_108_to_108_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"108",
-    "id":"048108108020",
-    "member":{
-        "108":{
-            "29943":{
-                "district":"20",
-                "name":"Gonzalez, Charles A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Texas"
+    "district":20,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tx"
 },
   "bbox": [
     -98.80479,

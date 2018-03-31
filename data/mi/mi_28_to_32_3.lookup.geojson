@@ -1,49 +1,13 @@
 {
-  "id": "mi_28_to_32_03",
+  "id": "mi_28_to_32_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"32",
-    "id":"026028032003",
-    "member":{
-        "28":{
-            "4744":{
-                "district":"3",
-                "name":"Hunt, James Bennett",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4744":{
-                "district":"3",
-                "name":"Hunt, James Bennett",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "718":{
-                "district":"3",
-                "name":"Bingham, Kinsley Scott",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "718":{
-                "district":"3",
-                "name":"Bingham, Kinsley Scott",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "1980":{
-                "district":"3",
-                "name":"Conger, James Lockwood",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Michigan"
+    "district":3,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"mi"
 },
   "bbox": [
     -90.41814,

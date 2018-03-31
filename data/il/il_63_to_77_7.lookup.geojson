@@ -1,119 +1,13 @@
 {
-  "id": "il_63_to_77_07",
+  "id": "il_63_to_77_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"77",
-    "id":"017063077007",
-    "member":{
-        "63":{
-            "1183":{
-                "district":"7",
-                "name":"Buchanan, Frank",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "1183":{
-                "district":"7",
-                "name":"Buchanan, Frank",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "5087":{
-                "district":"7",
-                "name":"Juul, Niels",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "5087":{
-                "district":"7",
-                "name":"Juul, Niels",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6453":{
-                "district":"7",
-                "name":"Michaelson, Magne Alfred",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6453":{
-                "district":"7",
-                "name":"Michaelson, Magne Alfred",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "6453":{
-                "district":"7",
-                "name":"Michaelson, Magne Alfred",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "6453":{
-                "district":"7",
-                "name":"Michaelson, Magne Alfred",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "6453":{
-                "district":"7",
-                "name":"Michaelson, Magne Alfred",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "8274":{
-                "district":"7",
-                "name":"Schuetz, Leonard William",
-                "party":"Democrat"
-            }
-        },
-        "73":{
-            "8274":{
-                "district":"7",
-                "name":"Schuetz, Leonard William",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "8274":{
-                "district":"7",
-                "name":"Schuetz, Leonard William",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8274":{
-                "district":"7",
-                "name":"Schuetz, Leonard William",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8274":{
-                "district":"7",
-                "name":"Schuetz, Leonard William",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8274":{
-                "district":"7",
-                "name":"Schuetz, Leonard William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Illinois"
+    "district":7,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"il"
 },
   "bbox": [
     -88.26348,

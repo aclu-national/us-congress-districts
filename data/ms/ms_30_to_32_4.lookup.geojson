@@ -1,35 +1,13 @@
 {
-  "id": "ms_30_to_32_04",
+  "id": "ms_30_to_32_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"32",
-    "id":"028030032004",
-    "member":{
-        "30":{
-            "1095":{
-                "district":"4",
-                "name":"Brown, Albert Gallatin",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "1095":{
-                "district":"4",
-                "name":"Brown, Albert Gallatin",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "1095":{
-                "district":"4",
-                "name":"Brown, Albert Gallatin",
-                "party":"States Rights"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Mississippi"
+    "district":4,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"ms"
 },
   "bbox": [
     -91.65501,

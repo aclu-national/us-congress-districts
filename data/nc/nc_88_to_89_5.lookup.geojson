@@ -1,28 +1,13 @@
 {
-  "id": "nc_88_to_89_05",
+  "id": "nc_88_to_89_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"89",
-    "id":"037088089005",
-    "member":{
-        "88":{
-            "8311":{
-                "district":"5",
-                "name":"Scott, Ralph James",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "8311":{
-                "district":"5",
-                "name":"Scott, Ralph James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"nc"
 },
   "bbox": [
     -81.54546,

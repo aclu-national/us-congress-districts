@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_40",
   "type": "Feature",
   "properties": {
-    "district":"40",
-    "endcong":"87",
-    "id":"036083087040",
-    "member":{
-        "83":{
-            "6516":{
-                "district":"40",
-                "name":"Miller, William Edward",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "6516":{
-                "district":"40",
-                "name":"Miller, William Edward",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "6516":{
-                "district":"40",
-                "name":"Miller, William Edward",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "6516":{
-                "district":"40",
-                "name":"Miller, William Edward",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "6516":{
-                "district":"40",
-                "name":"Miller, William Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":40,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

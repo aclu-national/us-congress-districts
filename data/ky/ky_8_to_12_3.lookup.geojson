@@ -1,49 +1,13 @@
 {
-  "id": "ky_8_to_12_03",
+  "id": "ky_8_to_12_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"12",
-    "id":"021008012003",
-    "member":{
-        "10":{
-            "8087":{
-                "district":"3",
-                "name":"Rowan, John",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "2179":{
-                "district":"3",
-                "name":"Crist, Henry",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "7083":{
-                "district":"3",
-                "name":"Ormsby, Stephen",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "9798":{
-                "district":"3",
-                "name":"Walton, Matthew",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "9798":{
-                "district":"3",
-                "name":"Walton, Matthew",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ky"
 },
   "bbox": [
     -86.98742,

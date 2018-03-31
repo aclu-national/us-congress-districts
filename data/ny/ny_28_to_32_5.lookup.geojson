@@ -1,49 +1,13 @@
 {
-  "id": "ny_28_to_32_05",
+  "id": "ny_28_to_32_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"32",
-    "id":"036028032005",
-    "member":{
-        "28":{
-            "5613":{
-                "district":"5",
-                "name":"Leonard, Moses Gage",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "10349":{
-                "district":"5",
-                "name":"Woodruff, Thomas M.",
-                "party":"American"
-            }
-        },
-        "30":{
-            "9170":{
-                "district":"5",
-                "name":"Tallmadge, Frederick Augustus",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "1032":{
-                "district":"5",
-                "name":"Briggs, George",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "1032":{
-                "district":"5",
-                "name":"Briggs, George",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -74.01533,

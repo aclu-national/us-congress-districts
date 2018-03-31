@@ -1,28 +1,13 @@
 {
-  "id": "va_23_to_24_02",
+  "id": "va_23_to_24_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"24",
-    "id":"051023024002",
-    "member":{
-        "23":{
-            "6057":{
-                "district":"2",
-                "name":"Mason, John Young",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "6057":{
-                "district":"2",
-                "name":"Mason, John Young",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Virginia"
+    "district":2,
+    "end_date":"1837-03-03",
+    "end_session":24,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"va"
 },
   "bbox": [
     -77.76712,

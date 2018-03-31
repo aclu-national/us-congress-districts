@@ -2,34 +2,12 @@
   "id": "mo_43_to_45_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"45",
-    "id":"029043045011",
-    "member":{
-        "43":{
-            "1774":{
-                "district":"11",
-                "name":"Clark, John Bullock, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "1774":{
-                "district":"11",
-                "name":"Clark, John Bullock, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "1774":{
-                "district":"11",
-                "name":"Clark, John Bullock, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Missouri"
+    "district":11,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"mo"
 },
   "bbox": [
     -94.21251,

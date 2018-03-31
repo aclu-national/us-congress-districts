@@ -1,42 +1,13 @@
 {
-  "id": "mi_89_to_92_08",
+  "id": "mi_89_to_92_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"92",
-    "id":"026089092008",
-    "member":{
-        "89":{
-            "10526":{
-                "district":"8",
-                "name":"Harvey, James",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "10526":{
-                "district":"8",
-                "name":"Harvey, James",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10526":{
-                "district":"8",
-                "name":"Harvey, James",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10526":{
-                "district":"8",
-                "name":"Harvey, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Michigan"
+    "district":8,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"mi"
 },
   "bbox": [
     -84.36999,

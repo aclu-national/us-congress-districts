@@ -1,49 +1,13 @@
 {
-  "id": "oh_93_to_97_07",
+  "id": "oh_93_to_97_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"97",
-    "id":"039093097007",
-    "member":{
-        "93":{
-            "10786":{
-                "district":"7",
-                "name":"Brown, Clarence, Jr.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "10786":{
-                "district":"7",
-                "name":"Brown, Clarence, Jr.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "10786":{
-                "district":"7",
-                "name":"Brown, Clarence, Jr.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "10786":{
-                "district":"7",
-                "name":"Brown, Clarence, Jr.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "10786":{
-                "district":"7",
-                "name":"Brown, Clarence, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Ohio"
+    "district":7,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"oh"
 },
   "bbox": [
     -84.16485,

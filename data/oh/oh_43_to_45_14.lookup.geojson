@@ -2,34 +2,12 @@
   "id": "oh_43_to_45_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"45",
-    "id":"039043045014",
-    "member":{
-        "43":{
-            "675":{
-                "district":"14",
-                "name":"Berry, John",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "2102":{
-                "district":"14",
-                "name":"Cowan, Jaclb Pitzer",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "3154":{
-                "district":"14",
-                "name":"Finley, Ebenezer Byron",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"oh"
 },
   "bbox": [
     -83.51588,

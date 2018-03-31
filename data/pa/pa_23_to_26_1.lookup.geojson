@@ -1,42 +1,13 @@
 {
-  "id": "pa_23_to_26_01",
+  "id": "pa_23_to_26_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"26",
-    "id":"042023026001",
-    "member":{
-        "23":{
-            "9095":{
-                "district":"1",
-                "name":"Sutherland, Joel Barlow",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "9095":{
-                "district":"1",
-                "name":"Sutherland, Joel Barlow",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "7275":{
-                "district":"1",
-                "name":"Paynter, Lemuel",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "7275":{
-                "district":"1",
-                "name":"Paynter, Lemuel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

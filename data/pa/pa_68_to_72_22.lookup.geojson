@@ -2,48 +2,12 @@
   "id": "pa_68_to_72_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"72",
-    "id":"042068072022",
-    "member":{
-        "68":{
-            "3627":{
-                "district":"22",
-                "name":"Glatfelter, Samuel Feiser",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "6413":{
-                "district":"22",
-                "name":"Menges, Franklin",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "6413":{
-                "district":"22",
-                "name":"Menges, Franklin",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "6413":{
-                "district":"22",
-                "name":"Menges, Franklin",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "3914":{
-                "district":"22",
-                "name":"Haines, Harry Luther",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":22,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -77.47162,

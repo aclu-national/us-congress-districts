@@ -1,49 +1,13 @@
 {
-  "id": "in_98_to_102_03",
+  "id": "in_98_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"018098102003",
-    "member":{
-        "100":{
-            "14834":{
-                "district":"3",
-                "name":"Hiler, John R.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14834":{
-                "district":"3",
-                "name":"Hiler, John R.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "29117":{
-                "district":"3",
-                "name":"Roemer, Tim",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14834":{
-                "district":"3",
-                "name":"Hiler, John R.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14834":{
-                "district":"3",
-                "name":"Hiler, John R.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"in"
 },
   "bbox": [
     -86.931,

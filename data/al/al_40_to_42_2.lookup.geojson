@@ -1,35 +1,13 @@
 {
-  "id": "al_40_to_42_02",
+  "id": "al_40_to_42_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"42",
-    "id":"001040042002",
-    "member":{
-        "40":{
-            "1206":{
-                "district":"2",
-                "name":"Buckley, Charles Waldron",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "1206":{
-                "district":"2",
-                "name":"Buckley, Charles Waldron",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "1206":{
-                "district":"2",
-                "name":"Buckley, Charles Waldron",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Alabama"
+    "district":2,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"al"
 },
   "bbox": [
     -86.90894,

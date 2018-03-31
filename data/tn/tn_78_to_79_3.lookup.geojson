@@ -1,28 +1,13 @@
 {
-  "id": "tn_78_to_79_03",
+  "id": "tn_78_to_79_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"79",
-    "id":"047078079003",
-    "member":{
-        "78":{
-            "5122":{
-                "district":"3",
-                "name":"Kefauver, Carey Estes",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "5122":{
-                "district":"3",
-                "name":"Kefauver, Carey Estes",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1946-08-02",
+    "end_session":79,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"tn"
 },
   "bbox": [
     -85.99773,

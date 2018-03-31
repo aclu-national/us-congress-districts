@@ -2,15 +2,12 @@
   "id": "ga_18_to_19_-1",
   "type": "Feature",
   "properties": {
-    "district":"-1",
-    "endcong":"19",
-    "id":"0130180190-1",
-    "member":{
-        "18":[],
-        "19":[]
-    },
-    "startcong":"18",
-    "statename":"Georgia"
+    "district":-1,
+    "end_date":"1827-03-03",
+    "end_session":19,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ga"
 },
   "bbox": [
     -85.60517,

@@ -2,76 +2,12 @@
   "id": "tx_74_to_82_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"82",
-    "id":"048074082015",
-    "member":{
-        "74":{
-            "9962":{
-                "district":"15",
-                "name":"West, Milton Horace",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "9962":{
-                "district":"15",
-                "name":"West, Milton Horace",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "9962":{
-                "district":"15",
-                "name":"West, Milton Horace",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "9962":{
-                "district":"15",
-                "name":"West, Milton Horace",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "9962":{
-                "district":"15",
-                "name":"West, Milton Horace",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "9962":{
-                "district":"15",
-                "name":"West, Milton Horace",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "9962":{
-                "district":"15",
-                "name":"West, Milton Horace",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "660":{
-                "district":"15",
-                "name":"Bentsen, Lloyd Millard Jr",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "660":{
-                "district":"15",
-                "name":"Bentsen, Lloyd Millard Jr",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":15,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -100.66755,

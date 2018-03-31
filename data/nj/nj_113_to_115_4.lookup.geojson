@@ -1,19 +1,13 @@
 {
-  "id": "nj_113_to_115_04",
+  "id": "nj_113_to_115_4",
   "type": "Feature",
   "properties": {
-    "ALAND":1792017120,
-    "AWATER":48834168,
-    "CD113FP":"04",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3404",
-    "INTPTLAT":"+40.1653130",
-    "INTPTLON":"-074.3167410",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 4",
-    "STATEFP":"34"
+    "district":4,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nj"
 },
   "bbox": [
     -74.752766,

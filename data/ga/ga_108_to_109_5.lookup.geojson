@@ -1,28 +1,13 @@
 {
-  "id": "ga_108_to_109_05",
+  "id": "ga_108_to_109_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"109",
-    "id":"013108109005",
-    "member":{
-        "108":{
-            "15431":{
-                "district":"5",
-                "name":"Lewis, John",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15431":{
-                "district":"5",
-                "name":"Lewis, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Georgia"
+    "district":5,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ga"
 },
   "bbox": [
     -84.63263,

@@ -2,48 +2,12 @@
   "id": "ny_53_to_57_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"57",
-    "id":"036053057019",
-    "member":{
-        "53":{
-            "3913":{
-                "district":"19",
-                "name":"Haines, Charles Delemere",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "740":{
-                "district":"19",
-                "name":"Black, Frank Swett",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "1884":{
-                "district":"19",
-                "name":"Cochrane, Aaron Van Schaick",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "1884":{
-                "district":"19",
-                "name":"Cochrane, Aaron Van Schaick",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2720":{
-                "district":"19",
-                "name":"Draper, William Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"New York"
+    "district":19,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ny"
 },
   "bbox": [
     -73.92963,

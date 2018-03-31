@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"62",
-    "id":"036058062030",
-    "member":{
-        "58":{
-            "2799":{
-                "district":"30",
-                "name":"Dwight, John Wilbur",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2799":{
-                "district":"30",
-                "name":"Dwight, John Wilbur",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2799":{
-                "district":"30",
-                "name":"Dwight, John Wilbur",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2799":{
-                "district":"30",
-                "name":"Dwight, John Wilbur",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "2799":{
-                "district":"30",
-                "name":"Dwight, John Wilbur",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":30,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -76.6968,

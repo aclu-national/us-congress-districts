@@ -2,60 +2,12 @@
   "id": "ny_73_to_78_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"78",
-    "id":"036073078011",
-    "member":{
-        "73":{
-            "7585":{
-                "district":"11",
-                "name":"Prall, Anning Smith",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "7053":{
-                "district":"11",
-                "name":"O'Leary, James",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7053":{
-                "district":"11",
-                "name":"O'Leary, James",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "7053":{
-                "district":"11",
-                "name":"O'Leary, James",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "7053":{
-                "district":"11",
-                "name":"O'Leary, James",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "1197":{
-                "district":"11",
-                "name":"Buck, Ellsworth Brewer",
-                "party":"Republican"
-            },
-            "7053":{
-                "district":"11",
-                "name":"O'Leary, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

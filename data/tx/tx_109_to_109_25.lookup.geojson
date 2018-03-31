@@ -2,20 +2,12 @@
   "id": "tx_109_to_109_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"109",
-    "id":"048109109025",
-    "member":{
-        "109":{
-            "29571":{
-                "district":"25",
-                "name":"Doggett, Lloyd",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Texas"
+    "district":25,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"tx"
 },
   "bbox": [
     -99.1714,

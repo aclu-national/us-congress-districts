@@ -2,53 +2,12 @@
   "id": "oh_23_to_27_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"27",
-    "id":"039023027016",
-    "member":{
-        "23":{
-            "10078":{
-                "district":"16",
-                "name":"Whittlesey, Elisha",
-                "party":"Anti Masonic"
-            }
-        },
-        "24":{
-            "10078":{
-                "district":"16",
-                "name":"Whittlesey, Elisha",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "10078":{
-                "district":"16",
-                "name":"Whittlesey, Elisha",
-                "party":"Whig"
-            },
-            "3567":{
-                "district":"16",
-                "name":"Giddings, Joshua Reed",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "3567":{
-                "district":"16",
-                "name":"Giddings, Joshua Reed",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "3567":{
-                "district":"16",
-                "name":"Giddings, Joshua Reed",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Ohio"
+    "district":16,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"oh"
 },
   "bbox": [
     -81.39213,

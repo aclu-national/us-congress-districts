@@ -2,20 +2,12 @@
   "id": "ny_98_to_98_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"98",
-    "id":"036098098025",
-    "member":{
-        "98":{
-            "15007":{
-                "district":"25",
-                "name":"Boehlert, Sherwood L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ny"
 },
   "bbox": [
     -76.66654,

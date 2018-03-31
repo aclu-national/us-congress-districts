@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"67",
-    "id":"042063067026",
-    "member":{
-        "63":{
-            "7172":{
-                "district":"26",
-                "name":"Palmer, Alexander Mitchell",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "8868":{
-                "district":"26",
-                "name":"Steele, Henry Joseph",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8868":{
-                "district":"26",
-                "name":"Steele, Henry Joseph",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "8868":{
-                "district":"26",
-                "name":"Steele, Henry Joseph",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5297":{
-                "district":"26",
-                "name":"Kirkpatrick, William H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":26,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -75.99735,

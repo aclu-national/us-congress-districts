@@ -1,21 +1,13 @@
 {
-  "id": "nj_6_to_6_02",
+  "id": "nj_6_to_6_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"6",
-    "id":"034006006002",
-    "member":{
-        "6":{
-            "5303":{
-                "district":"2",
-                "name":"Kitchell, Aaron",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"6",
-    "statename":"New Jersey"
+    "district":2,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1799-12-02",
+    "start_session":6,
+    "state":"nj"
 },
   "bbox": [
     -75.20392,

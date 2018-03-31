@@ -2,83 +2,12 @@
   "id": "ky_63_to_72_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"72",
-    "id":"021063072010",
-    "member":{
-        "63":{
-            "5454":{
-                "district":"10",
-                "name":"Langley, John Wesley",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "5454":{
-                "district":"10",
-                "name":"Langley, John Wesley",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "5454":{
-                "district":"10",
-                "name":"Langley, John Wesley",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "5454":{
-                "district":"10",
-                "name":"Langley, John Wesley",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5454":{
-                "district":"10",
-                "name":"Langley, John Wesley",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "5454":{
-                "district":"10",
-                "name":"Langley, John Wesley",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "5291":{
-                "district":"10",
-                "name":"Kirk, Andrew Jackson",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "5455":{
-                "district":"10",
-                "name":"Langley, Katherine Gudger",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "5455":{
-                "district":"10",
-                "name":"Langley, Katherine Gudger",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "6100":{
-                "district":"10",
-                "name":"May, Andrew Jackson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Kentucky"
+    "district":10,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ky"
 },
   "bbox": [
     -84.20529,

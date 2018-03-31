@@ -2,34 +2,12 @@
   "id": "tx_83_to_85_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"85",
-    "id":"048083085021",
-    "member":{
-        "83":{
-            "3171":{
-                "district":"21",
-                "name":"Fisher, Ovie Clark",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "3171":{
-                "district":"21",
-                "name":"Fisher, Ovie Clark",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "3171":{
-                "district":"21",
-                "name":"Fisher, Ovie Clark",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Texas"
+    "district":21,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tx"
 },
   "bbox": [
     -101.76092,

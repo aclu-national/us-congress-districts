@@ -1,21 +1,13 @@
 {
-  "id": "ma_2_to_2_01",
+  "id": "ma_2_to_2_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"2",
-    "id":"025002002001",
-    "member":{
-        "2":{
-            "154":{
-                "district":"1",
-                "name":"Ames, Fisher",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"2",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1791-03-04",
+    "start_session":2,
+    "state":"ma"
 },
   "bbox": [
     -71.49831,

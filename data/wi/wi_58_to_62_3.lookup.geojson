@@ -1,49 +1,13 @@
 {
-  "id": "wi_58_to_62_03",
+  "id": "wi_58_to_62_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"62",
-    "id":"055058062003",
-    "member":{
-        "58":{
-            "314":{
-                "district":"3",
-                "name":"Babcock, Joseph Weeks",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "314":{
-                "district":"3",
-                "name":"Babcock, Joseph Weeks",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "6810":{
-                "district":"3",
-                "name":"Murphy, James William",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "5357":{
-                "district":"3",
-                "name":"Kopp, Arthur William",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5357":{
-                "district":"3",
-                "name":"Kopp, Arthur William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Wisconsin"
+    "district":3,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"wi"
 },
   "bbox": [
     -91.27332,

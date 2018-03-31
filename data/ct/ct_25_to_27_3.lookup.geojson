@@ -1,35 +1,13 @@
 {
-  "id": "ct_25_to_27_03",
+  "id": "ct_25_to_27_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"27",
-    "id":"009025027003",
-    "member":{
-        "25":{
-            "3928":{
-                "district":"3",
-                "name":"Haley, Elisha",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "10185":{
-                "district":"3",
-                "name":"Williams, Thomas Wheeler",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "10185":{
-                "district":"3",
-                "name":"Williams, Thomas Wheeler",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"25",
-    "statename":"Connecticut"
+    "district":3,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1837-03-04",
+    "start_session":25,
+    "state":"ct"
 },
   "bbox": [
     -72.46673,

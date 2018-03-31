@@ -1,28 +1,13 @@
 {
-  "id": "tn_68_to_69_07",
+  "id": "tn_68_to_69_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"69",
-    "id":"047068069007",
-    "member":{
-        "68":{
-            "8183":{
-                "district":"7",
-                "name":"Salmon, William Charles",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2989":{
-                "district":"7",
-                "name":"Eslick, Edward Everett",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Tennessee"
+    "district":7,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"tn"
 },
   "bbox": [
     -88.02474,

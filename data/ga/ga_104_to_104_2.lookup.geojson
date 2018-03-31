@@ -1,21 +1,13 @@
 {
-  "id": "ga_104_to_104_02",
+  "id": "ga_104_to_104_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"104",
-    "id":"013104104002",
-    "member":{
-        "104":{
-            "29339":{
-                "district":"2",
-                "name":"Bishop, Sanford",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Georgia"
+    "district":2,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"ga"
 },
   "bbox": [
     -85.14191,

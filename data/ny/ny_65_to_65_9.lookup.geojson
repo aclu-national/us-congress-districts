@@ -1,21 +1,13 @@
 {
-  "id": "ny_65_to_65_09",
+  "id": "ny_65_to_65_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"65",
-    "id":"036065065009",
-    "member":{
-        "65":{
-            "9126":{
-                "district":"9",
-                "name":"Swift, Oscar William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":9,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -73.97247,

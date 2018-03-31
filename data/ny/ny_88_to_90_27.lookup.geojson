@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"90",
-    "id":"036088090027",
-    "member":{
-        "88":{
-            "8177":{
-                "district":"27",
-                "name":"St. George, Katharine Price Collier",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10718":{
-                "district":"27",
-                "name":"Dow, John G.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10718":{
-                "district":"27",
-                "name":"Dow, John G.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

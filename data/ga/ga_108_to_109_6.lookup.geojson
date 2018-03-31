@@ -1,28 +1,13 @@
 {
-  "id": "ga_108_to_109_06",
+  "id": "ga_108_to_109_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"109",
-    "id":"013108109006",
-    "member":{
-        "108":{
-            "29909":{
-                "district":"6",
-                "name":"Isakson, Johnny",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20505":{
-                "district":"6",
-                "name":"Price, Tom",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Georgia"
+    "district":6,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ga"
 },
   "bbox": [
     -84.73964,

@@ -2,34 +2,12 @@
   "id": "mo_50_to_52_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"52",
-    "id":"029050052013",
-    "member":{
-        "50":{
-            "9701":{
-                "district":"13",
-                "name":"Wade, William Henry",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "9701":{
-                "district":"13",
-                "name":"Wade, William Henry",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "3418":{
-                "district":"13",
-                "name":"Fyan, Robert Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Missouri"
+    "district":13,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"mo"
 },
   "bbox": [
     -94.61866,

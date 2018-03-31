@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_25",
   "type": "Feature",
   "properties": {
-    "ALAND":4378561506,
-    "AWATER":30962112,
-    "CD113FP":"25",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0625",
-    "INTPTLAT":"+34.5880600",
-    "INTPTLON":"-118.2802687",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 25",
-    "STATEFP":"06"
+    "district":25,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -118.894474,

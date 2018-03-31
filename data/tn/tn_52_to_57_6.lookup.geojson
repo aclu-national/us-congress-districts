@@ -1,56 +1,13 @@
 {
-  "id": "tn_52_to_57_06",
+  "id": "tn_52_to_57_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"57",
-    "id":"047052057006",
-    "member":{
-        "52":{
-            "9857":{
-                "district":"6",
-                "name":"Washington, Joseph Edwin",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "9857":{
-                "district":"6",
-                "name":"Washington, Joseph Edwin",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9857":{
-                "district":"6",
-                "name":"Washington, Joseph Edwin",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "3425":{
-                "district":"6",
-                "name":"Gaines, John Wesley",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "3425":{
-                "district":"6",
-                "name":"Gaines, John Wesley",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "3425":{
-                "district":"6",
-                "name":"Gaines, John Wesley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"tn"
 },
   "bbox": [
     -88.07053,

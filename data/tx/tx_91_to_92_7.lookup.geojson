@@ -1,28 +1,13 @@
 {
-  "id": "tx_91_to_92_07",
+  "id": "tx_91_to_92_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"92",
-    "id":"048091092007",
-    "member":{
-        "91":{
-            "11008":{
-                "district":"7",
-                "name":"Bush, George",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13002":{
-                "district":"7",
-                "name":"Archer, W.R.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Texas"
+    "district":7,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"tx"
 },
   "bbox": [
     -95.96078,

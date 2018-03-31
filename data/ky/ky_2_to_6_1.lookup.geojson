@@ -1,49 +1,13 @@
 {
-  "id": "ky_2_to_6_01",
+  "id": "ky_2_to_6_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"6",
-    "id":"021002006001",
-    "member":{
-        "2":{
-            "3798":{
-                "district":"1",
-                "name":"Greenup, Christopher",
-                "party":"Anti-Administration"
-            }
-        },
-        "3":{
-            "3798":{
-                "district":"1",
-                "name":"Greenup, Christopher",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "3798":{
-                "district":"1",
-                "name":"Greenup, Christopher",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "2413":{
-                "district":"1",
-                "name":"Davis, Thomas Terry",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "2413":{
-                "district":"1",
-                "name":"Davis, Thomas Terry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"2",
-    "statename":"Kentucky"
+    "district":1,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1791-03-04",
+    "start_session":2,
+    "state":"ky"
 },
   "bbox": [
     -89.57151,

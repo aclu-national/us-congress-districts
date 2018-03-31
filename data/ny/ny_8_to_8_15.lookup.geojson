@@ -2,20 +2,12 @@
   "id": "ny_8_to_8_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"8",
-    "id":"036008008015",
-    "member":{
-        "8":{
-            "3840":{
-                "district":"15",
-                "name":"Griswold, Gaylord",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1805-03-03",
+    "end_session":8,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ny"
 },
   "bbox": [
     -76.51264,

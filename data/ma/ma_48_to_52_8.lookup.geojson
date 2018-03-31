@@ -1,49 +1,13 @@
 {
-  "id": "ma_48_to_52_08",
+  "id": "ma_48_to_52_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"52",
-    "id":"025048052008",
-    "member":{
-        "48":{
-            "8143":{
-                "district":"8",
-                "name":"Russell, William Augustus",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "102":{
-                "district":"8",
-                "name":"Allen, Charles Herbert",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "102":{
-                "district":"8",
-                "name":"Allen, Charles Herbert",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "3795":{
-                "district":"8",
-                "name":"Greenhalge, Frederic Thom",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "8914":{
-                "district":"8",
-                "name":"Stevens, Moses Tyler",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Massachusetts"
+    "district":8,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ma"
 },
   "bbox": [
     -71.89872,

@@ -1,21 +1,13 @@
 {
-  "id": "ma_1_to_1_07",
+  "id": "ma_1_to_1_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"1",
-    "id":"025001001007",
-    "member":{
-        "1":{
-            "5611":{
-                "district":"7",
-                "name":"Leonard, George",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1791-03-03",
+    "end_session":1,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"ma"
 },
   "bbox": [
     -71.395,

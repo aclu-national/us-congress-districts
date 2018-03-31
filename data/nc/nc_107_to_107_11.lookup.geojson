@@ -2,20 +2,12 @@
   "id": "nc_107_to_107_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"107",
-    "id":"037107107011",
-    "member":{
-        "107":{
-            "29135":{
-                "district":"11",
-                "name":"Taylor, Charles H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"107",
-    "statename":"North Carolina"
+    "district":11,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"2001-01-03",
+    "start_session":107,
+    "state":"nc"
 },
   "bbox": [
     -84.32187,

@@ -1,50 +1,13 @@
 {
-  "id": "mn_35_to_37_00",
+  "id": "mn_35_to_37_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"37",
-    "id":"027035037000",
-    "member":{
-        "35":{
-            "1608":{
-                "district":"98",
-                "name":"Cavanaugh, James Michael",
-                "party":"Democrat"
-            },
-            "7406":{
-                "district":"98",
-                "name":"Phelps, William Wallace",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "10268":{
-                "district":"98",
-                "name":"Windom, William",
-                "party":"Republican"
-            },
-            "69":{
-                "district":"98",
-                "name":"Aldrich, Cyrus",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "10268":{
-                "district":"98",
-                "name":"Windom, William",
-                "party":"Republican"
-            },
-            "69":{
-                "district":"98",
-                "name":"Aldrich, Cyrus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"35",
-    "statename":"Minnesota"
+    "district":0,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1857-03-04",
+    "start_session":35,
+    "state":"mn"
 },
   "bbox": [
     -97.23921,

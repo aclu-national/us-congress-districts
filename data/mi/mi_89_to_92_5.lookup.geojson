@@ -1,42 +1,13 @@
 {
-  "id": "mi_89_to_92_05",
+  "id": "mi_89_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"026089092005",
-    "member":{
-        "89":{
-            "3268":{
-                "district":"5",
-                "name":"Ford, Gerald R. Jr.",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "3268":{
-                "district":"5",
-                "name":"Ford, Gerald R. Jr.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "3268":{
-                "district":"5",
-                "name":"Ford, Gerald R. Jr.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "3268":{
-                "district":"5",
-                "name":"Ford, Gerald R. Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Michigan"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"mi"
 },
   "bbox": [
     -85.79082,

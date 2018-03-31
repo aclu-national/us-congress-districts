@@ -1,49 +1,13 @@
 {
-  "id": "in_58_to_62_02",
+  "id": "in_58_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"018058062002",
-    "member":{
-        "58":{
-            "6463":{
-                "district":"2",
-                "name":"Miers, Robert Walter",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "1644":{
-                "district":"2",
-                "name":"Chaney, John Crawford",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "1644":{
-                "district":"2",
-                "name":"Chaney, John Crawford",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2241":{
-                "district":"2",
-                "name":"Cullop, William Allen",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "2241":{
-                "district":"2",
-                "name":"Cullop, William Allen",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Indiana"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"in"
 },
   "bbox": [
     -87.75683,

@@ -2,20 +2,12 @@
   "id": "ny_91_to_91_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"91",
-    "id":"036091091016",
-    "member":{
-        "91":{
-            "10611":{
-                "district":"16",
-                "name":"Murphy, John M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

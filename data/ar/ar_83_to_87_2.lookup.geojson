@@ -1,49 +1,13 @@
 {
-  "id": "ar_83_to_87_02",
+  "id": "ar_83_to_87_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"87",
-    "id":"005083087002",
-    "member":{
-        "83":{
-            "6532":{
-                "district":"2",
-                "name":"Mills, Wilbur Daigh",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "6532":{
-                "district":"2",
-                "name":"Mills, Wilbur Daigh",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "6532":{
-                "district":"2",
-                "name":"Mills, Wilbur Daigh",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "6532":{
-                "district":"2",
-                "name":"Mills, Wilbur Daigh",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "6532":{
-                "district":"2",
-                "name":"Mills, Wilbur Daigh",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Arkansas"
+    "district":2,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ar"
 },
   "bbox": [
     -92.41833,

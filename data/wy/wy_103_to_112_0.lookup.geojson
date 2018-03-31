@@ -1,84 +1,13 @@
 {
-  "id": "wy_103_to_112_00",
+  "id": "wy_103_to_112_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"112",
-    "id":"056103112000",
-    "member":{
-        "103":{
-            "15633":{
-                "district":"1",
-                "name":"Thomas, Craig",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29584":{
-                "district":"1",
-                "name":"Cubin, Barbara",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29584":{
-                "district":"1",
-                "name":"Cubin, Barbara",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29584":{
-                "district":"1",
-                "name":"Cubin, Barbara",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29584":{
-                "district":"1",
-                "name":"Cubin, Barbara",
-                "party":"Republican"
-            }
-        },
-        "108":{
-            "29584":{
-                "district":"1",
-                "name":"Cubin, Barbara",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29584":{
-                "district":"1",
-                "name":"Cubin, Barbara",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29584":{
-                "district":"1",
-                "name":"Cubin, Barbara",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20953":{
-                "district":"1",
-                "name":"Lummis, Cynthia M.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20953":{
-                "district":"1",
-                "name":"Lummis, Cynthia M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Wyoming"
+    "district":0,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"wy"
 },
   "bbox": [
     -111.05689,

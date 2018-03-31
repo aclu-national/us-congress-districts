@@ -1,35 +1,13 @@
 {
-  "id": "nc_103_to_105_05",
+  "id": "nc_103_to_105_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"105",
-    "id":"037103105005",
-    "member":{
-        "103":{
-            "14262":{
-                "district":"5",
-                "name":"Neal, Stephen",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29548":{
-                "district":"5",
-                "name":"Burr, Richard M.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29548":{
-                "district":"5",
-                "name":"Burr, Richard M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nc"
 },
   "bbox": [
     -81.91833,

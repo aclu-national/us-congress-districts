@@ -1,54 +1,13 @@
 {
-  "id": "al_98_to_102_03",
+  "id": "al_98_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"001098102003",
-    "member":{
-        "100":{
-            "11037":{
-                "district":"3",
-                "name":"Nichols, Bill",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "11037":{
-                "district":"3",
-                "name":"Nichols, Bill",
-                "party":"Democrat"
-            },
-            "15632":{
-                "district":"3",
-                "name":"Browder, Glen",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15632":{
-                "district":"3",
-                "name":"Browder, Glen",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "11037":{
-                "district":"3",
-                "name":"Nichols, Bill",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "11037":{
-                "district":"3",
-                "name":"Nichols, Bill",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Alabama"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"al"
 },
   "bbox": [
     -86.92137,

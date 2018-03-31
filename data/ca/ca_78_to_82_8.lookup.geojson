@@ -1,49 +1,13 @@
 {
-  "id": "ca_78_to_82_08",
+  "id": "ca_78_to_82_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"82",
-    "id":"006078082008",
-    "member":{
-        "78":{
-            "173":{
-                "district":"8",
-                "name":"Anderson, John Zuinglius",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "173":{
-                "district":"8",
-                "name":"Anderson, John Zuinglius",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "173":{
-                "district":"8",
-                "name":"Anderson, John Zuinglius",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "173":{
-                "district":"8",
-                "name":"Anderson, John Zuinglius",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "173":{
-                "district":"8",
-                "name":"Anderson, John Zuinglius",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":8,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -122.52069,

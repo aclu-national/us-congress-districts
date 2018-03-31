@@ -1,28 +1,13 @@
 {
-  "id": "tn_4_to_5_00",
+  "id": "tn_4_to_5_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"5",
-    "id":"047004005000",
-    "member":{
-        "4":{
-            "4843":{
-                "district":"1",
-                "name":"Jackson, Andrew",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "1741":{
-                "district":"1",
-                "name":"Claiborne, William Charles Cole",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Tennessee"
+    "district":0,
+    "end_date":"1799-03-03",
+    "end_session":5,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"tn"
 },
   "bbox": [
     -88.07053,

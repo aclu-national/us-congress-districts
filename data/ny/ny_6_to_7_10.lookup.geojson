@@ -2,27 +2,12 @@
   "id": "ny_6_to_7_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"7",
-    "id":"036006007010",
-    "member":{
-        "6":{
-            "2058":{
-                "district":"10",
-                "name":"Cooper, William",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "6715":{
-                "district":"10",
-                "name":"Morris, Thomas",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"6",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1799-12-02",
+    "start_session":6,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

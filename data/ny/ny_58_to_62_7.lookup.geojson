@@ -1,49 +1,13 @@
 {
-  "id": "ny_58_to_62_07",
+  "id": "ny_58_to_62_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"62",
-    "id":"036058062007",
-    "member":{
-        "58":{
-            "3183":{
-                "district":"7",
-                "name":"Fitzgerald, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "3183":{
-                "district":"7",
-                "name":"Fitzgerald, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "3183":{
-                "district":"7",
-                "name":"Fitzgerald, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "3183":{
-                "district":"7",
-                "name":"Fitzgerald, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "3183":{
-                "district":"7",
-                "name":"Fitzgerald, John Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -74.02156,

@@ -1,45 +1,13 @@
 {
-  "id": "md_52_to_54_01",
+  "id": "md_52_to_54_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"54",
-    "id":"024052054001",
-    "member":{
-        "52":{
-            "1120":{
-                "district":"1",
-                "name":"Brown, John Brewer",
-                "party":"Democrat"
-            },
-            "7154":{
-                "district":"1",
-                "name":"Page, Henry",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "4346":{
-                "district":"1",
-                "name":"Henry, Winder Laird",
-                "party":"Democrat"
-            },
-            "981":{
-                "district":"1",
-                "name":"Bratton, Robert Franklin",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "6467":{
-                "district":"1",
-                "name":"Miles, Joshua Weldon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"md"
 },
   "bbox": [
     -76.38376,

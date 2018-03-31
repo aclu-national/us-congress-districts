@@ -1,89 +1,13 @@
 {
-  "id": "ct_63_to_72_04",
+  "id": "ct_63_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"009063072004",
-    "member":{
-        "63":{
-            "2663":{
-                "district":"4",
-                "name":"Donovan, Jeremiah",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4409":{
-                "district":"4",
-                "name":"Hill, Ebenezer J.",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "4409":{
-                "district":"4",
-                "name":"Hill, Ebenezer J.",
-                "party":"Republican"
-            },
-            "6436":{
-                "district":"4",
-                "name":"Merritt, Schuyler",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6436":{
-                "district":"4",
-                "name":"Merritt, Schuyler",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6436":{
-                "district":"4",
-                "name":"Merritt, Schuyler",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6436":{
-                "district":"4",
-                "name":"Merritt, Schuyler",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "6436":{
-                "district":"4",
-                "name":"Merritt, Schuyler",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "6436":{
-                "district":"4",
-                "name":"Merritt, Schuyler",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "6436":{
-                "district":"4",
-                "name":"Merritt, Schuyler",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9379":{
-                "district":"4",
-                "name":"Tierney, William Laurence",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Connecticut"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ct"
 },
   "bbox": [
     -73.72778,

@@ -1,54 +1,13 @@
 {
-  "id": "oh_78_to_82_03",
+  "id": "oh_78_to_82_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"82",
-    "id":"039078082003",
-    "member":{
-        "78":{
-            "4905":{
-                "district":"3",
-                "name":"Jeffrey, Harry Palmer",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "3464":{
-                "district":"3",
-                "name":"Gardner, Edward Joseph",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "1269":{
-                "district":"3",
-                "name":"Burke, Raymond Hugh",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "998":{
-                "district":"3",
-                "name":"Breen, Edward F",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "8258":{
-                "district":"3",
-                "name":"Schenck, Paul Fornshell",
-                "party":"Republican"
-            },
-            "998":{
-                "district":"3",
-                "name":"Breen, Edward F",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

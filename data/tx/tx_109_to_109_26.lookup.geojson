@@ -2,20 +2,12 @@
   "id": "tx_109_to_109_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"109",
-    "id":"048109109026",
-    "member":{
-        "109":{
-            "20355":{
-                "district":"26",
-                "name":"Burgess, Michael C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Texas"
+    "district":26,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"tx"
 },
   "bbox": [
     -97.3985,

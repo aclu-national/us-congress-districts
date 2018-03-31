@@ -2,48 +2,12 @@
   "id": "il_83_to_87_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"87",
-    "id":"017083087018",
-    "member":{
-        "83":{
-            "9657":{
-                "district":"18",
-                "name":"Velde, Harold Himmel",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "9657":{
-                "district":"18",
-                "name":"Velde, Harold Himmel",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "6455":{
-                "district":"18",
-                "name":"Michel, Robert Henry",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "6455":{
-                "district":"18",
-                "name":"Michel, Robert Henry",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "6455":{
-                "district":"18",
-                "name":"Michel, Robert Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":18,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -89.98911,

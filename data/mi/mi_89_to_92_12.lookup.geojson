@@ -2,41 +2,12 @@
   "id": "mi_89_to_92_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"92",
-    "id":"026089092012",
-    "member":{
-        "89":{
-            "7043":{
-                "district":"12",
-                "name":"O'Hara, James G.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "7043":{
-                "district":"12",
-                "name":"O'Hara, James G.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "7043":{
-                "district":"12",
-                "name":"O'Hara, James G.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "7043":{
-                "district":"12",
-                "name":"O'Hara, James G.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Michigan"
+    "district":12,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"mi"
 },
   "bbox": [
     -83.10079,

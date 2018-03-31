@@ -2,27 +2,12 @@
   "id": "pa_51_to_52_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"52",
-    "id":"042051052012",
-    "member":{
-        "51":{
-            "7091":{
-                "district":"12",
-                "name":"Osborne, Edwin Sylvanus",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "8483":{
-                "district":"12",
-                "name":"Shonk, George Washington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -76.31974,

@@ -1,49 +1,13 @@
 {
-  "id": "co_58_to_62_02",
+  "id": "co_58_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"008058062002",
-    "member":{
-        "58":{
-            "4506":{
-                "district":"2",
-                "name":"Hogg, Herschel Millard",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "4506":{
-                "district":"2",
-                "name":"Hogg, Herschel Millard",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3905":{
-                "district":"2",
-                "name":"Haggott, Warren Armstrong",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "6028":{
-                "district":"2",
-                "name":"Martin, John Andrew",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "6028":{
-                "district":"2",
-                "name":"Martin, John Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Colorado"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"co"
 },
   "bbox": [
     -109.06026,

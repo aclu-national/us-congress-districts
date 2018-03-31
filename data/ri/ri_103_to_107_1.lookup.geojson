@@ -1,49 +1,13 @@
 {
-  "id": "ri_103_to_107_01",
+  "id": "ri_103_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"044103107001",
-    "member":{
-        "103":{
-            "15615":{
-                "district":"1",
-                "name":"Machtley, Ronald K.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29564":{
-                "district":"1",
-                "name":"Kennedy, Patrick J.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29564":{
-                "district":"1",
-                "name":"Kennedy, Patrick J.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29564":{
-                "district":"1",
-                "name":"Kennedy, Patrick J.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29564":{
-                "district":"1",
-                "name":"Kennedy, Patrick J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Rhode Island"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ri"
 },
   "bbox": [
     -71.79924,

@@ -1,42 +1,13 @@
 {
-  "id": "ct_89_to_92_04",
+  "id": "ct_89_to_92_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"92",
-    "id":"009089092004",
-    "member":{
-        "89":{
-            "4824":{
-                "district":"4",
-                "name":"Irwin, Donald J.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "4824":{
-                "district":"4",
-                "name":"Irwin, Donald J.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "12032":{
-                "district":"4",
-                "name":"Weicker, Lowell P.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13029":{
-                "district":"4",
-                "name":"McKinney, Stewart",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Connecticut"
+    "district":4,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"ct"
 },
   "bbox": [
     -73.72778,

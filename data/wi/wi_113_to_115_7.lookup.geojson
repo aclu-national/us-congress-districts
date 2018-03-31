@@ -1,19 +1,13 @@
 {
-  "id": "wi_113_to_115_07",
+  "id": "wi_113_to_115_7",
   "type": "Feature",
   "properties": {
-    "ALAND":59666495951,
-    "AWATER":7704275826,
-    "CD113FP":"07",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5507",
-    "INTPTLAT":"+45.6989971",
-    "INTPTLON":"-090.6553345",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 7",
-    "STATEFP":"55"
+    "district":7,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"wi"
 },
   "bbox": [
     -92.889433,

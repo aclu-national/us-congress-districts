@@ -1,35 +1,13 @@
 {
-  "id": "wi_45_to_47_05",
+  "id": "wi_45_to_47_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"47",
-    "id":"055045047005",
-    "member":{
-        "45":{
-            "966":{
-                "district":"5",
-                "name":"Bragg, Edward Stuyvesant",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "966":{
-                "district":"5",
-                "name":"Bragg, Edward Stuyvesant",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "966":{
-                "district":"5",
-                "name":"Bragg, Edward Stuyvesant",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Wisconsin"
+    "district":5,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"wi"
 },
   "bbox": [
     -89.00957,

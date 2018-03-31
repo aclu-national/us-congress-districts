@@ -1,21 +1,13 @@
 {
-  "id": "ny_65_to_65_02",
+  "id": "ny_65_to_65_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"65",
-    "id":"036065065002",
-    "member":{
-        "65":{
-            "1404":{
-                "district":"2",
-                "name":"Caldwell, Charles Pope",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":2,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -73.96161,

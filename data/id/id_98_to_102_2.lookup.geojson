@@ -1,49 +1,13 @@
 {
-  "id": "id_98_to_102_02",
+  "id": "id_98_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"016098102002",
-    "member":{
-        "100":{
-            "15117":{
-                "district":"2",
-                "name":"Stallings, Richard H.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15117":{
-                "district":"2",
-                "name":"Stallings, Richard H.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15117":{
-                "district":"2",
-                "name":"Stallings, Richard H.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "10734":{
-                "district":"2",
-                "name":"Hansen, George V.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15117":{
-                "district":"2",
-                "name":"Stallings, Richard H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Idaho"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"id"
 },
   "bbox": [
     -116.26653,

@@ -1,49 +1,13 @@
 {
-  "id": "mo_98_to_102_07",
+  "id": "mo_98_to_102_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"102",
-    "id":"029098102007",
-    "member":{
-        "100":{
-            "14057":{
-                "district":"7",
-                "name":"Taylor, Roy \"Gene\"",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15606":{
-                "district":"7",
-                "name":"Hancock, Melton D.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15606":{
-                "district":"7",
-                "name":"Hancock, Melton D.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14057":{
-                "district":"7",
-                "name":"Taylor, Roy \"Gene\"",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14057":{
-                "district":"7",
-                "name":"Taylor, Roy \"Gene\"",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Missouri"
+    "district":7,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"mo"
 },
   "bbox": [
     -94.61843,

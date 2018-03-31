@@ -1,49 +1,13 @@
 {
-  "id": "fl_58_to_62_01",
+  "id": "fl_58_to_62_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"62",
-    "id":"012058062001",
-    "member":{
-        "58":{
-            "8765":{
-                "district":"1",
-                "name":"Sparkman, Stephen Milancthon",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "8765":{
-                "district":"1",
-                "name":"Sparkman, Stephen Milancthon",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "8765":{
-                "district":"1",
-                "name":"Sparkman, Stephen Milancthon",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "8765":{
-                "district":"1",
-                "name":"Sparkman, Stephen Milancthon",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "8765":{
-                "district":"1",
-                "name":"Sparkman, Stephen Milancthon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Florida"
+    "district":1,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"fl"
 },
   "bbox": [
     -83.99221,

@@ -1,49 +1,13 @@
 {
-  "id": "sc_93_to_97_05",
+  "id": "sc_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"045093097005",
-    "member":{
-        "93":{
-            "10728":{
-                "district":"5",
-                "name":"Gettys, Thomas S.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14235":{
-                "district":"5",
-                "name":"Holland, Kenneth",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14235":{
-                "district":"5",
-                "name":"Holland, Kenneth",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14235":{
-                "district":"5",
-                "name":"Holland, Kenneth",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14235":{
-                "district":"5",
-                "name":"Holland, Kenneth",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"South Carolina"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"sc"
 },
   "bbox": [
     -82.31488,

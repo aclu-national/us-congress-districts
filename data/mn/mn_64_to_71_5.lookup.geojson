@@ -1,75 +1,13 @@
 {
-  "id": "mn_64_to_71_05",
+  "id": "mn_64_to_71_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"71",
-    "id":"027064071005",
-    "member":{
-        "64":{
-            "8623":{
-                "district":"5",
-                "name":"Smith, George Ross",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "5839":{
-                "district":"5",
-                "name":"Lundeen, Ernest",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6907":{
-                "district":"5",
-                "name":"Newton, Walter Hughes",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6907":{
-                "district":"5",
-                "name":"Newton, Walter Hughes",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6907":{
-                "district":"5",
-                "name":"Newton, Walter Hughes",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "6907":{
-                "district":"5",
-                "name":"Newton, Walter Hughes",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "6907":{
-                "district":"5",
-                "name":"Newton, Walter Hughes",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "6907":{
-                "district":"5",
-                "name":"Newton, Walter Hughes",
-                "party":"Republican"
-            },
-            "6950":{
-                "district":"5",
-                "name":"Nolan, William Ignatius",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Minnesota"
+    "district":5,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mn"
 },
   "bbox": [
     -93.32901,

@@ -1,49 +1,13 @@
 {
-  "id": "oh_53_to_57_04",
+  "id": "oh_53_to_57_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"57",
-    "id":"039053057004",
-    "member":{
-        "53":{
-            "5528":{
-                "district":"4",
-                "name":"Layton, Fernando Coello",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "5528":{
-                "district":"4",
-                "name":"Layton, Fernando Coello",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "5999":{
-                "district":"4",
-                "name":"Marshall, George Alexander",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "3698":{
-                "district":"4",
-                "name":"Gordon, Robert Bryarly",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "3698":{
-                "district":"4",
-                "name":"Gordon, Robert Bryarly",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"oh"
 },
   "bbox": [
     -84.81241,

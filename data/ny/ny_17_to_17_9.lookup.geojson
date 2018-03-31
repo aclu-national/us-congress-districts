@@ -1,26 +1,13 @@
 {
-  "id": "ny_17_to_17_09",
+  "id": "ny_17_to_17_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"17",
-    "id":"036017017009",
-    "member":{
-        "17":{
-            "9631":{
-                "district":"9",
-                "name":"Van Rensselaer, Solomon",
-                "party":"Federalist"
-            },
-            "9632":{
-                "district":"9",
-                "name":"Van Rensselaer, Stephen",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"New York"
+    "district":9,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ny"
 },
   "bbox": [
     -74.26486,

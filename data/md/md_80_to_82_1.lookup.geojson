@@ -1,35 +1,13 @@
 {
-  "id": "md_80_to_82_01",
+  "id": "md_80_to_82_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"82",
-    "id":"024080082001",
-    "member":{
-        "80":{
-            "6481":{
-                "district":"1",
-                "name":"Miller, Edward Tylor",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6481":{
-                "district":"1",
-                "name":"Miller, Edward Tylor",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "6481":{
-                "district":"1",
-                "name":"Miller, Edward Tylor",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"80",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1947-01-03",
+    "start_session":80,
+    "state":"md"
 },
   "bbox": [
     -76.38376,

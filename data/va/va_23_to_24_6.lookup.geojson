@@ -1,28 +1,13 @@
 {
-  "id": "va_23_to_24_06",
+  "id": "va_23_to_24_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"24",
-    "id":"051023024006",
-    "member":{
-        "23":{
-            "2361":{
-                "district":"6",
-                "name":"Davenport, Thomas",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "1937":{
-                "district":"6",
-                "name":"Coles, Walter",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1837-03-03",
+    "end_session":24,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"va"
 },
   "bbox": [
     -79.71485,

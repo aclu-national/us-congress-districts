@@ -2,20 +2,12 @@
   "id": "pa_108_to_108_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"108",
-    "id":"042108108015",
-    "member":{
-        "108":{
-            "29935":{
-                "district":"15",
-                "name":"Toomey, Patrick J.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"pa"
 },
   "bbox": [
     -75.89147,

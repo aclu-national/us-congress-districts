@@ -1,49 +1,13 @@
 {
-  "id": "md_38_to_42_03",
+  "id": "md_38_to_42_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"42",
-    "id":"024038042003",
-    "member":{
-        "38":{
-            "2385":{
-                "district":"3",
-                "name":"Davis, Henry Winter",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "39":{
-            "7397":{
-                "district":"3",
-                "name":"Phelps, Charles Edward",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "40":{
-            "7397":{
-                "district":"3",
-                "name":"Phelps, Charles Edward",
-                "party":"Conservative"
-            }
-        },
-        "41":{
-            "9104":{
-                "district":"3",
-                "name":"Swann, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "9104":{
-                "district":"3",
-                "name":"Swann, Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"md"
 },
   "bbox": [
     -76.65394,

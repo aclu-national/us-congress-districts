@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"87",
-    "id":"006083087030",
-    "member":{
-        "83":{
-            "10249":{
-                "district":"30",
-                "name":"Wilson, Robert Carleton",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "10249":{
-                "district":"30",
-                "name":"Wilson, Robert Carleton",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "10249":{
-                "district":"30",
-                "name":"Wilson, Robert Carleton",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "10249":{
-                "district":"30",
-                "name":"Wilson, Robert Carleton",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10249":{
-                "district":"30",
-                "name":"Wilson, Robert Carleton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":30,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -117.28217,

@@ -1,28 +1,13 @@
 {
-  "id": "va_1_to_2_07",
+  "id": "va_1_to_2_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"2",
-    "id":"051001002007",
-    "member":{
-        "1":{
-            "7156":{
-                "district":"7",
-                "name":"Page, John",
-                "party":"Anti-Administration"
-            }
-        },
-        "2":{
-            "7156":{
-                "district":"7",
-                "name":"Page, John",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"va"
 },
   "bbox": [
     -77.64328,

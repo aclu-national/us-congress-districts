@@ -1,70 +1,13 @@
 {
-  "id": "in_33_to_40_06",
+  "id": "in_33_to_40_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"40",
-    "id":"018033040006",
-    "member":{
-        "33":{
-            "4319":{
-                "district":"6",
-                "name":"Hendricks, Thomas Andrews",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "423":{
-                "district":"6",
-                "name":"Barbour, Lucien",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "3807":{
-                "district":"6",
-                "name":"Gregg, James Madison",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "7529":{
-                "district":"6",
-                "name":"Porter, Albert Gallatin",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "7529":{
-                "district":"6",
-                "name":"Porter, Albert Gallatin",
-                "party":"Republican"
-            }
-        },
-        "38":{
-            "2753":{
-                "district":"6",
-                "name":"Dumont, Ebenezer",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "2753":{
-                "district":"6",
-                "name":"Dumont, Ebenezer",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "1876":{
-                "district":"6",
-                "name":"Coburn, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Indiana"
+    "district":6,
+    "end_date":"1869-03-03",
+    "end_session":40,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"in"
 },
   "bbox": [
     -86.69538,

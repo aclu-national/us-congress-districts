@@ -1,21 +1,13 @@
 {
-  "id": "fl_78_to_78_05",
+  "id": "fl_78_to_78_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"78",
-    "id":"012078078005",
-    "member":{
-        "78":{
-            "4318":{
-                "district":"5",
-                "name":"Hendricks, Joseph Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Florida"
+    "district":5,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"fl"
 },
   "bbox": [
     -82.77635,

@@ -1,19 +1,13 @@
 {
-  "id": "nj_113_to_115_05",
+  "id": "nj_113_to_115_5",
   "type": "Feature",
   "properties": {
-    "ALAND":2567538834,
-    "AWATER":83804811,
-    "CD113FP":"05",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3405",
-    "INTPTLAT":"+41.1862499",
-    "INTPTLON":"-074.8281358",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 5",
-    "STATEFP":"34"
+    "district":5,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nj"
 },
   "bbox": [
     -75.13564,

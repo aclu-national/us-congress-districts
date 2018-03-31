@@ -2,48 +2,12 @@
   "id": "il_43_to_47_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"47",
-    "id":"017043047016",
-    "member":{
-        "43":{
-            "6026":{
-                "district":"16",
-                "name":"Martin, James Stewart",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "8767":{
-                "district":"16",
-                "name":"Sparks, William Andrew Jackson",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "8767":{
-                "district":"16",
-                "name":"Sparks, William Andrew Jackson",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "8767":{
-                "district":"16",
-                "name":"Sparks, William Andrew Jackson",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "8767":{
-                "district":"16",
-                "name":"Sparks, William Andrew Jackson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":16,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -89.70705,

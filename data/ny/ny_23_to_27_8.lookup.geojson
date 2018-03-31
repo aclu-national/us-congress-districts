@@ -1,74 +1,13 @@
 {
-  "id": "ny_23_to_27_08",
+  "id": "ny_23_to_27_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"27",
-    "id":"036023027008",
-    "member":{
-        "23":{
-            "32":{
-                "district":"8",
-                "name":"Adams, John",
-                "party":"Jackson"
-            },
-            "9605":{
-                "district":"8",
-                "name":"Vanderpoel, Aaron",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "2878":{
-                "district":"8",
-                "name":"Efner, Valentine",
-                "party":"Jackson"
-            },
-            "9605":{
-                "district":"8",
-                "name":"Vanderpoel, Aaron",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "6152":{
-                "district":"8",
-                "name":"McClellan, Robert",
-                "party":"Democrat"
-            },
-            "7597":{
-                "district":"8",
-                "name":"Pratt, Zadock",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "2954":{
-                "district":"8",
-                "name":"Ely, John",
-                "party":"Democrat"
-            },
-            "9605":{
-                "district":"8",
-                "name":"Vanderpoel, Aaron",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "4599":{
-                "district":"8",
-                "name":"Houck, Jacob Jr.",
-                "party":"Democrat"
-            },
-            "6152":{
-                "district":"8",
-                "name":"McClellan, Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -74.71158,

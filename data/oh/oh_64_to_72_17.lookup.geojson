@@ -2,76 +2,12 @@
   "id": "oh_64_to_72_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"72",
-    "id":"039064072017",
-    "member":{
-        "64":{
-            "258":{
-                "district":"17",
-                "name":"Ashbrook, William Albert",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "258":{
-                "district":"17",
-                "name":"Ashbrook, William Albert",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "258":{
-                "district":"17",
-                "name":"Ashbrook, William Albert",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "6686":{
-                "district":"17",
-                "name":"Morgan, William Mitchell",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6686":{
-                "district":"17",
-                "name":"Morgan, William Mitchell",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "6686":{
-                "district":"17",
-                "name":"Morgan, William Mitchell",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "6686":{
-                "district":"17",
-                "name":"Morgan, William Mitchell",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "6686":{
-                "district":"17",
-                "name":"Morgan, William Mitchell",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9959":{
-                "district":"17",
-                "name":"West, Charles Franlkin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -83.24962,

@@ -2,41 +2,12 @@
   "id": "ca_99_to_102_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"102",
-    "id":"006099102030",
-    "member":{
-        "100":{
-            "14879":{
-                "district":"30",
-                "name":"Martinez, Matthew G.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14879":{
-                "district":"30",
-                "name":"Martinez, Matthew G.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14879":{
-                "district":"30",
-                "name":"Martinez, Matthew G.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14879":{
-                "district":"30",
-                "name":"Martinez, Matthew G.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":30,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -118.2389,

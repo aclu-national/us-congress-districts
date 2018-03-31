@@ -1,42 +1,13 @@
 {
-  "id": "co_89_to_92_02",
+  "id": "co_89_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"008089092002",
-    "member":{
-        "89":{
-            "10751":{
-                "district":"2",
-                "name":"McVicker, Roy H.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10572":{
-                "district":"2",
-                "name":"Brotzman, Donald G.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10572":{
-                "district":"2",
-                "name":"Brotzman, Donald G.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10572":{
-                "district":"2",
-                "name":"Brotzman, Donald G.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Colorado"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"co"
 },
   "bbox": [
     -105.92703,

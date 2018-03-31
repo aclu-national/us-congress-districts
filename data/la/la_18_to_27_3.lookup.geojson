@@ -1,94 +1,13 @@
 {
-  "id": "la_18_to_27_03",
+  "id": "la_18_to_27_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"27",
-    "id":"022018027003",
-    "member":{
-        "18":{
-            "1008":{
-                "district":"3",
-                "name":"Brent, William Leigh",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "1008":{
-                "district":"3",
-                "name":"Brent, William Leigh",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "1008":{
-                "district":"3",
-                "name":"Brent, William Leigh",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "7127":{
-                "district":"3",
-                "name":"Overton, Walter Hampden",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "1228":{
-                "district":"3",
-                "name":"Bullard, Henry Adams",
-                "party":"Anti-Jackson"
-            }
-        },
-        "23":{
-            "1228":{
-                "district":"3",
-                "name":"Bullard, Henry Adams",
-                "party":"Anti-Jackson"
-            },
-            "3479":{
-                "district":"3",
-                "name":"Garland, Rice",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "3479":{
-                "district":"3",
-                "name":"Garland, Rice",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "3479":{
-                "district":"3",
-                "name":"Garland, Rice",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "3479":{
-                "district":"3",
-                "name":"Garland, Rice",
-                "party":"Whig"
-            },
-            "6637":{
-                "district":"3",
-                "name":"Moore, John",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "6637":{
-                "district":"3",
-                "name":"Moore, John",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Louisiana"
+    "district":3,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"la"
 },
   "bbox": [
     -94.04334,

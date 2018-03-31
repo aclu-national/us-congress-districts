@@ -2,20 +2,12 @@
   "id": "va_36_to_36_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"36",
-    "id":"051036036011",
-    "member":{
-        "36":{
-            "4912":{
-                "district":"11",
-                "name":"Jenkins, Albert Gallatin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"36",
-    "statename":"Virginia"
+    "district":11,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1859-03-04",
+    "start_session":36,
+    "state":"va"
 },
   "bbox": [
     -82.50768,

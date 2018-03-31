@@ -1,33 +1,13 @@
 {
-  "id": "tn_93_to_94_05",
+  "id": "tn_93_to_94_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"94",
-    "id":"047093094005",
-    "member":{
-        "93":{
-            "10586":{
-                "district":"5",
-                "name":"Fulton, Richard A.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10586":{
-                "district":"5",
-                "name":"Fulton, Richard A.",
-                "party":"Democrat"
-            },
-            "14286":{
-                "district":"5",
-                "name":"Allen, Clifford",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1976-10-01",
+    "end_session":94,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tn"
 },
   "bbox": [
     -87.2865,

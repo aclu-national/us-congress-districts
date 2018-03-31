@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"82",
-    "id":"042079082025",
-    "member":{
-        "79":{
-            "3737":{
-                "district":"25",
-                "name":"Graham, Louis Edward",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3737":{
-                "district":"25",
-                "name":"Graham, Louis Edward",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3737":{
-                "district":"25",
-                "name":"Graham, Louis Edward",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "3737":{
-                "district":"25",
-                "name":"Graham, Louis Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":25,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

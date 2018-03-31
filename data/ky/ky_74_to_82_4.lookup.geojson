@@ -1,87 +1,13 @@
 {
-  "id": "ky_74_to_82_04",
+  "id": "ky_74_to_82_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"82",
-    "id":"021074082004",
-    "member":{
-        "74":{
-            "1499":{
-                "district":"4",
-                "name":"Carden, Cap Robert",
-                "party":"Democrat"
-            },
-            "2168":{
-                "district":"4",
-                "name":"Creal, Edward Wester",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2168":{
-                "district":"4",
-                "name":"Creal, Edward Wester",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2168":{
-                "district":"4",
-                "name":"Creal, Edward Wester",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2168":{
-                "district":"4",
-                "name":"Creal, Edward Wester",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "1532":{
-                "district":"4",
-                "name":"Carrier, Chester Otto",
-                "party":"Republican"
-            },
-            "2168":{
-                "district":"4",
-                "name":"Creal, Edward Wester",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "1682":{
-                "district":"4",
-                "name":"Chelf, Frank Leslie",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "1682":{
-                "district":"4",
-                "name":"Chelf, Frank Leslie",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "1682":{
-                "district":"4",
-                "name":"Chelf, Frank Leslie",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1682":{
-                "district":"4",
-                "name":"Chelf, Frank Leslie",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Kentucky"
+    "district":4,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"ky"
 },
   "bbox": [
     -86.98741,

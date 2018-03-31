@@ -1,35 +1,13 @@
 {
-  "id": "vt_19_to_21_05",
+  "id": "vt_19_to_21_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"21",
-    "id":"050019021005",
-    "member":{
-        "19":{
-            "6088":{
-                "district":"5",
-                "name":"Mattocks, John",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "1196":{
-                "district":"5",
-                "name":"Buck, Daniel Azro Ashley",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "1394":{
-                "district":"5",
-                "name":"Cahoon, William",
-                "party":"Anti Masonic"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Vermont"
+    "district":5,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"vt"
 },
   "bbox": [
     -72.95291,

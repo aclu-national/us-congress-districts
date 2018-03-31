@@ -1,82 +1,13 @@
 {
-  "id": "va_74_to_82_04",
+  "id": "va_74_to_82_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"82",
-    "id":"051074082004",
-    "member":{
-        "74":{
-            "2726":{
-                "district":"4",
-                "name":"Drewry, Patrick Henry",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2726":{
-                "district":"4",
-                "name":"Drewry, Patrick Henry",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2726":{
-                "district":"4",
-                "name":"Drewry, Patrick Henry",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2726":{
-                "district":"4",
-                "name":"Drewry, Patrick Henry",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "2726":{
-                "district":"4",
-                "name":"Drewry, Patrick Henry",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "2726":{
-                "district":"4",
-                "name":"Drewry, Patrick Henry",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "2":{
-                "district":"4",
-                "name":"Abbitt, Watkins Moorman",
-                "party":"Democrat"
-            },
-            "2726":{
-                "district":"4",
-                "name":"Drewry, Patrick Henry",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "2":{
-                "district":"4",
-                "name":"Abbitt, Watkins Moorman",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2":{
-                "district":"4",
-                "name":"Abbitt, Watkins Moorman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"va"
 },
   "bbox": [
     -79.01853,

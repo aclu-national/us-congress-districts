@@ -1,84 +1,13 @@
 {
-  "id": "ms_73_to_82_04",
+  "id": "ms_73_to_82_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"82",
-    "id":"028073082004",
-    "member":{
-        "73":{
-            "1326":{
-                "district":"4",
-                "name":"Busby, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "3266":{
-                "district":"4",
-                "name":"Ford, Aaron Lane",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "3266":{
-                "district":"4",
-                "name":"Ford, Aaron Lane",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3266":{
-                "district":"4",
-                "name":"Ford, Aaron Lane",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "3266":{
-                "district":"4",
-                "name":"Ford, Aaron Lane",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "13":{
-                "district":"4",
-                "name":"Abernethy, Thomas Gerstle",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "13":{
-                "district":"4",
-                "name":"Abernethy, Thomas Gerstle",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "13":{
-                "district":"4",
-                "name":"Abernethy, Thomas Gerstle",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "13":{
-                "district":"4",
-                "name":"Abernethy, Thomas Gerstle",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "13":{
-                "district":"4",
-                "name":"Abernethy, Thomas Gerstle",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Mississippi"
+    "district":4,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ms"
 },
   "bbox": [
     -90.17487,

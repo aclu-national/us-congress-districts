@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"72",
-    "id":"036068072027",
-    "member":{
-        "68":{
-            "9810":{
-                "district":"27",
-                "name":"Ward, Charles Bonnell",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "7589":{
-                "district":"27",
-                "name":"Pratt, Harcourt Joseph",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "7589":{
-                "district":"27",
-                "name":"Pratt, Harcourt Joseph",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "7589":{
-                "district":"27",
-                "name":"Pratt, Harcourt Joseph",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "7589":{
-                "district":"27",
-                "name":"Pratt, Harcourt Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -75.14645,

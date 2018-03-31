@@ -1,54 +1,13 @@
 {
-  "id": "ma_65_to_69_08",
+  "id": "ma_65_to_69_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"69",
-    "id":"025065069008",
-    "member":{
-        "65":{
-            "2306":{
-                "district":"8",
-                "name":"Dallinger, Frederick William",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "2306":{
-                "district":"8",
-                "name":"Dallinger, Frederick William",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "2306":{
-                "district":"8",
-                "name":"Dallinger, Frederick William",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "2306":{
-                "district":"8",
-                "name":"Dallinger, Frederick William",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "2306":{
-                "district":"8",
-                "name":"Dallinger, Frederick William",
-                "party":"Republican"
-            },
-            "9274":{
-                "district":"8",
-                "name":"Thayer, Harry Irving",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Massachusetts"
+    "district":8,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ma"
 },
   "bbox": [
     -71.27267,

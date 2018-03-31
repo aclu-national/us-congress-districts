@@ -1,28 +1,13 @@
 {
-  "id": "mo_46_to_47_05",
+  "id": "mo_46_to_47_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"47",
-    "id":"029046047005",
-    "member":{
-        "46":{
-            "784":{
-                "district":"5",
-                "name":"Bland, Richard Parks",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "784":{
-                "district":"5",
-                "name":"Bland, Richard Parks",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Missouri"
+    "district":5,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"mo"
 },
   "bbox": [
     -93.61293,

@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_38",
   "type": "Feature",
   "properties": {
-    "district":"38",
-    "endcong":"72",
-    "id":"036068072038",
-    "member":{
-        "68":{
-            "4875":{
-                "district":"38",
-                "name":"Jacobstein, Meyer",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "4875":{
-                "district":"38",
-                "name":"Jacobstein, Meyer",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "4875":{
-                "district":"38",
-                "name":"Jacobstein, Meyer",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "10068":{
-                "district":"38",
-                "name":"Whitley, James Lucius",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "10068":{
-                "district":"38",
-                "name":"Whitley, James Lucius",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":38,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -77.76023,

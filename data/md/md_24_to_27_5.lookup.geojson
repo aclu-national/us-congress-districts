@@ -1,42 +1,13 @@
 {
-  "id": "md_24_to_27_05",
+  "id": "md_24_to_27_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"27",
-    "id":"024024027005",
-    "member":{
-        "24":{
-            "9856":{
-                "district":"5",
-                "name":"Washington, George Corbin",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "4996":{
-                "district":"5",
-                "name":"Johnson, William Cost",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "4996":{
-                "district":"5",
-                "name":"Johnson, William Cost",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "4996":{
-                "district":"5",
-                "name":"Johnson, William Cost",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"24",
-    "statename":"Maryland"
+    "district":5,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1835-12-07",
+    "start_session":24,
+    "state":"md"
 },
   "bbox": [
     -77.59933,

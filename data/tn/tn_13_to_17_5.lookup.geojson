@@ -1,54 +1,13 @@
 {
-  "id": "tn_13_to_17_05",
+  "id": "tn_13_to_17_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"17",
-    "id":"047013017005",
-    "member":{
-        "13":{
-            "1485":{
-                "district":"5",
-                "name":"Cannon, Newton",
-                "party":"Republican"
-            },
-            "3865":{
-                "district":"5",
-                "name":"Grundy, Felix",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "1485":{
-                "district":"5",
-                "name":"Cannon, Newton",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "1740":{
-                "district":"5",
-                "name":"Claiborne, Thomas",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "1485":{
-                "district":"5",
-                "name":"Cannon, Newton",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "1485":{
-                "district":"5",
-                "name":"Cannon, Newton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"tn"
 },
   "bbox": [
     -87.2151,

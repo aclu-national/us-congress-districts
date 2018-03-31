@@ -1,42 +1,13 @@
 {
-  "id": "tn_33_to_36_07",
+  "id": "tn_33_to_36_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"36",
-    "id":"047033036007",
-    "member":{
-        "33":{
-            "1222":{
-                "district":"7",
-                "name":"Bugg, Robert Malone",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "10393":{
-                "district":"7",
-                "name":"Wright, John Vines",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "10393":{
-                "district":"7",
-                "name":"Wright, John Vines",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "10393":{
-                "district":"7",
-                "name":"Wright, John Vines",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Tennessee"
+    "district":7,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"tn"
 },
   "bbox": [
     -88.78693,

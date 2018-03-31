@@ -1,35 +1,13 @@
 {
-  "id": "ms_30_to_32_02",
+  "id": "ms_30_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"028030032002",
-    "member":{
-        "30":{
-            "3088":{
-                "district":"2",
-                "name":"Featherston, Winfield Sco",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "3088":{
-                "district":"2",
-                "name":"Featherston, Winfield Sco",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "10102":{
-                "district":"2",
-                "name":"Wilcox, John A.",
-                "party":"Union"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Mississippi"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"ms"
 },
   "bbox": [
     -91.2326,

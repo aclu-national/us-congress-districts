@@ -2,53 +2,12 @@
   "id": "pa_53_to_57_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"57",
-    "id":"042053057023",
-    "member":{
-        "53":{
-            "8987":{
-                "district":"23",
-                "name":"Stone, William Alexis",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "8987":{
-                "district":"23",
-                "name":"Stone, William Alexis",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "3740":{
-                "district":"23",
-                "name":"Graham, William Harrison",
-                "party":"Republican"
-            },
-            "8987":{
-                "district":"23",
-                "name":"Stone, William Alexis",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "3740":{
-                "district":"23",
-                "name":"Graham, William Harrison",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "3740":{
-                "district":"23",
-                "name":"Graham, William Harrison",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Pennsylvania"
+    "district":23,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"pa"
 },
   "bbox": [
     -80.22866,

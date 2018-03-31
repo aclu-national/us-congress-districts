@@ -1,21 +1,13 @@
 {
-  "id": "ms_33_to_33_03",
+  "id": "ms_33_to_33_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"33",
-    "id":"028033033003",
-    "member":{
-        "33":{
-            "8541":{
-                "district":"3",
-                "name":"Singleton, Otho Robards",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Mississippi"
+    "district":3,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ms"
 },
   "bbox": [
     -91.23593,

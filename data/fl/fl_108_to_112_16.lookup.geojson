@@ -2,48 +2,12 @@
   "id": "fl_108_to_112_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"112",
-    "id":"012108112016",
-    "member":{
-        "108":{
-            "29510":{
-                "district":"16",
-                "name":"Foley, Mark Adam",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29510":{
-                "district":"16",
-                "name":"Foley, Mark Adam",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20710":{
-                "district":"16",
-                "name":"Mahoney, Tim",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20910":{
-                "district":"16",
-                "name":"Rooney, Tom",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20910":{
-                "district":"16",
-                "name":"Rooney, Tom",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Florida"
+    "district":16,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"fl"
 },
   "bbox": [
     -82.1717,

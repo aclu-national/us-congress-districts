@@ -1,94 +1,13 @@
 {
-  "id": "me_63_to_72_03",
+  "id": "me_63_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"023063072003",
-    "member":{
-        "63":{
-            "3683":{
-                "district":"3",
-                "name":"Goodwin, Forrest",
-                "party":"Republican"
-            },
-            "7366":{
-                "district":"3",
-                "name":"Peters, John Andrew",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "7366":{
-                "district":"3",
-                "name":"Peters, John Andrew",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "7366":{
-                "district":"3",
-                "name":"Peters, John Andrew",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "7366":{
-                "district":"3",
-                "name":"Peters, John Andrew",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6868":{
-                "district":"3",
-                "name":"Nelson, John Edward",
-                "party":"Republican"
-            },
-            "7366":{
-                "district":"3",
-                "name":"Peters, John Andrew",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6868":{
-                "district":"3",
-                "name":"Nelson, John Edward",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "6868":{
-                "district":"3",
-                "name":"Nelson, John Edward",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "6868":{
-                "district":"3",
-                "name":"Nelson, John Edward",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "6868":{
-                "district":"3",
-                "name":"Nelson, John Edward",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "6868":{
-                "district":"3",
-                "name":"Nelson, John Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Maine"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"me"
 },
   "bbox": [
     -70.55279,

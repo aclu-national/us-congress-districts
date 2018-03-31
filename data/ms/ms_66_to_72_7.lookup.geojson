@@ -1,68 +1,13 @@
 {
-  "id": "ms_66_to_72_07",
+  "id": "ms_66_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"028066072007",
-    "member":{
-        "66":{
-            "7674":{
-                "district":"7",
-                "name":"Quin, Percy Edwards",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "7674":{
-                "district":"7",
-                "name":"Quin, Percy Edwards",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "7674":{
-                "district":"7",
-                "name":"Quin, Percy Edwards",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "7674":{
-                "district":"7",
-                "name":"Quin, Percy Edwards",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "7674":{
-                "district":"7",
-                "name":"Quin, Percy Edwards",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7674":{
-                "district":"7",
-                "name":"Quin, Percy Edwards",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "2940":{
-                "district":"7",
-                "name":"Ellzey, Lawrence Russell",
-                "party":"Democrat"
-            },
-            "7674":{
-                "district":"7",
-                "name":"Quin, Percy Edwards",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Mississippi"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ms"
 },
   "bbox": [
     -91.65501,

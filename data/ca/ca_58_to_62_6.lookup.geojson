@@ -1,49 +1,13 @@
 {
-  "id": "ca_58_to_62_06",
+  "id": "ca_58_to_62_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"62",
-    "id":"006058062006",
-    "member":{
-        "58":{
-            "6854":{
-                "district":"6",
-                "name":"Needham, James Carson",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "6854":{
-                "district":"6",
-                "name":"Needham, James Carson",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "6854":{
-                "district":"6",
-                "name":"Needham, James Carson",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "6854":{
-                "district":"6",
-                "name":"Needham, James Carson",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "6854":{
-                "district":"6",
-                "name":"Needham, James Carson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"California"
+    "district":6,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ca"
 },
   "bbox": [
     -122.31768,

@@ -1,84 +1,13 @@
 {
-  "id": "in_63_to_72_04",
+  "id": "in_63_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"018063072004",
-    "member":{
-        "63":{
-            "2621":{
-                "district":"4",
-                "name":"Dixon, Lincoln",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "2621":{
-                "district":"4",
-                "name":"Dixon, Lincoln",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "2621":{
-                "district":"4",
-                "name":"Dixon, Lincoln",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "625":{
-                "district":"4",
-                "name":"Benham, John Samuel",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "625":{
-                "district":"4",
-                "name":"Benham, John Samuel",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "1477":{
-                "district":"4",
-                "name":"Canfield, Harry Clifford",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1477":{
-                "district":"4",
-                "name":"Canfield, Harry Clifford",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "1477":{
-                "district":"4",
-                "name":"Canfield, Harry Clifford",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "1477":{
-                "district":"4",
-                "name":"Canfield, Harry Clifford",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "1477":{
-                "district":"4",
-                "name":"Canfield, Harry Clifford",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Indiana"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"in"
 },
   "bbox": [
     -86.3814,

@@ -1,40 +1,13 @@
 {
-  "id": "ga_70_to_72_01",
+  "id": "ga_70_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"013070072001",
-    "member":{
-        "70":{
-            "2861":{
-                "district":"1",
-                "name":"Edwards, Charles Gordon",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "2861":{
-                "district":"1",
-                "name":"Edwards, Charles Gordon",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "2861":{
-                "district":"1",
-                "name":"Edwards, Charles Gordon",
-                "party":"Democrat"
-            },
-            "7190":{
-                "district":"1",
-                "name":"Parker, Homer Cling",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Georgia"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ga"
 },
   "bbox": [
     -82.3165,

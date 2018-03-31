@@ -1,77 +1,13 @@
 {
-  "id": "va_74_to_82_08",
+  "id": "va_74_to_82_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"82",
-    "id":"051074082008",
-    "member":{
-        "74":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "8636":{
-                "district":"8",
-                "name":"Smith, Howard Worth",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"va"
 },
   "bbox": [
     -78.83921,

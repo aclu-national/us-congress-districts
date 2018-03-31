@@ -1,49 +1,13 @@
 {
-  "id": "ia_103_to_107_04",
+  "id": "ia_103_to_107_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"107",
-    "id":"019103107004",
-    "member":{
-        "103":{
-            "8672":{
-                "district":"4",
-                "name":"Smith, Neal Edward",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29521":{
-                "district":"4",
-                "name":"Ganske, Greg",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29521":{
-                "district":"4",
-                "name":"Ganske, Greg",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29521":{
-                "district":"4",
-                "name":"Ganske, Greg",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29521":{
-                "district":"4",
-                "name":"Ganske, Greg",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Iowa"
+    "district":4,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ia"
 },
   "bbox": [
     -96.13884,

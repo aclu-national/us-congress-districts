@@ -1,21 +1,13 @@
 {
-  "id": "in_90_to_90_08",
+  "id": "in_90_to_90_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"90",
-    "id":"018090090008",
-    "member":{
-        "90":{
-            "11059":{
-                "district":"8",
-                "name":"Zion, Roger H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Indiana"
+    "district":8,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

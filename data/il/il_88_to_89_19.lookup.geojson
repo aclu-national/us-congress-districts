@@ -2,27 +2,12 @@
   "id": "il_88_to_89_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"89",
-    "id":"017088089019",
-    "member":{
-        "88":{
-            "10608":{
-                "district":"19",
-                "name":"McLoskey, Robert",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10769":{
-                "district":"19",
-                "name":"Schisler, Gale",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Illinois"
+    "district":19,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"il"
 },
   "bbox": [
     -91.18529,

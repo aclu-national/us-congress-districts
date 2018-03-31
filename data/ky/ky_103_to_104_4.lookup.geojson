@@ -1,28 +1,13 @@
 {
-  "id": "ky_103_to_104_04",
+  "id": "ky_103_to_104_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"104",
-    "id":"021103104004",
-    "member":{
-        "103":{
-            "15406":{
-                "district":"4",
-                "name":"Bunning, Jim",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15406":{
-                "district":"4",
-                "name":"Bunning, Jim",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Kentucky"
+    "district":4,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ky"
 },
   "bbox": [
     -85.638,

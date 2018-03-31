@@ -1,35 +1,13 @@
 {
-  "id": "ny_88_to_90_08",
+  "id": "ny_88_to_90_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"90",
-    "id":"036088090008",
-    "member":{
-        "88":{
-            "10551":{
-                "district":"8",
-                "name":"Rosenthal, Benjamin S.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10551":{
-                "district":"8",
-                "name":"Rosenthal, Benjamin S.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10551":{
-                "district":"8",
-                "name":"Rosenthal, Benjamin S.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -73.89608,

@@ -2,48 +2,12 @@
   "id": "pa_68_to_72_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"72",
-    "id":"042068072033",
-    "member":{
-        "68":{
-            "5154":{
-                "district":"33",
-                "name":"Kelly, Melville Clyde",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "5154":{
-                "district":"33",
-                "name":"Kelly, Melville Clyde",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "5154":{
-                "district":"33",
-                "name":"Kelly, Melville Clyde",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "5154":{
-                "district":"33",
-                "name":"Kelly, Melville Clyde",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5154":{
-                "district":"33",
-                "name":"Kelly, Melville Clyde",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":33,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -79.97094,

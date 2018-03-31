@@ -2,48 +2,12 @@
   "id": "tn_23_to_27_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"27",
-    "id":"047023027013",
-    "member":{
-        "23":{
-            "2769":{
-                "district":"13",
-                "name":"Dunlap, William Claiborne",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "2769":{
-                "district":"13",
-                "name":"Dunlap, William Claiborne",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "10138":{
-                "district":"13",
-                "name":"Williams, Christopher H.",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "10138":{
-                "district":"13",
-                "name":"Williams, Christopher H.",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "10138":{
-                "district":"13",
-                "name":"Williams, Christopher H.",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Tennessee"
+    "district":13,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

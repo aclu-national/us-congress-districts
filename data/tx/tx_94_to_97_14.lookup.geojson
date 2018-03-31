@@ -2,41 +2,12 @@
   "id": "tx_94_to_97_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"97",
-    "id":"048094097014",
-    "member":{
-        "94":{
-            "10446":{
-                "district":"14",
-                "name":"Young, John Andrew",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10446":{
-                "district":"14",
-                "name":"Young, John Andrew",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14674":{
-                "district":"14",
-                "name":"Wyatt, Joseph Peyton, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14850":{
-                "district":"14",
-                "name":"Patman, William N.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"Texas"
+    "district":14,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"tx"
 },
   "bbox": [
     -97.94215,

@@ -1,49 +1,13 @@
 {
-  "id": "ms_108_to_112_04",
+  "id": "ms_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"028108112004",
-    "member":{
-        "108":{
-            "15637":{
-                "district":"4",
-                "name":"Taylor, Gene",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15637":{
-                "district":"4",
-                "name":"Taylor, Gene",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "15637":{
-                "district":"4",
-                "name":"Taylor, Gene",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "15637":{
-                "district":"4",
-                "name":"Taylor, Gene",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21148":{
-                "district":"4",
-                "name":"Palazzo, Steven",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Mississippi"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ms"
 },
   "bbox": [
     -89.93825,

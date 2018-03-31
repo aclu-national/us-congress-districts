@@ -1,35 +1,13 @@
 {
-  "id": "ar_90_to_92_03",
+  "id": "ar_90_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"005090092003",
-    "member":{
-        "90":{
-            "11020":{
-                "district":"3",
-                "name":"Hammerschmidt, John P.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11020":{
-                "district":"3",
-                "name":"Hammerschmidt, John P.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11020":{
-                "district":"3",
-                "name":"Hammerschmidt, John P.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Arkansas"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"ar"
 },
   "bbox": [
     -94.61792,

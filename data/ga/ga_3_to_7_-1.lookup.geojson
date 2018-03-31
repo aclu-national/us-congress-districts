@@ -2,18 +2,12 @@
   "id": "ga_3_to_7_-1",
   "type": "Feature",
   "properties": {
-    "district":"-1",
-    "endcong":"7",
-    "id":"0130030070-1",
-    "member":{
-        "3":[],
-        "4":[],
-        "5":[],
-        "6":[],
-        "7":[]
-    },
-    "startcong":"3",
-    "statename":"Georgia"
+    "district":-1,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ga"
 },
   "bbox": [
     -91.23593,

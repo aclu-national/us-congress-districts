@@ -1,49 +1,13 @@
 {
-  "id": "or_98_to_102_04",
+  "id": "or_98_to_102_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"102",
-    "id":"041098102004",
-    "member":{
-        "100":{
-            "15410":{
-                "district":"4",
-                "name":"Defazio, Peter A",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15410":{
-                "district":"4",
-                "name":"Defazio, Peter A",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15410":{
-                "district":"4",
-                "name":"Defazio, Peter A",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14281":{
-                "district":"4",
-                "name":"Weaver, James",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14281":{
-                "district":"4",
-                "name":"Weaver, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Oregon"
+    "district":4,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"or"
 },
   "bbox": [
     -124.6349,

@@ -1,54 +1,13 @@
 {
-  "id": "me_33_to_37_02",
+  "id": "me_33_to_37_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"37",
-    "id":"023033037002",
-    "member":{
-        "33":{
-            "6106":{
-                "district":"2",
-                "name":"Mayall, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "7356":{
-                "district":"2",
-                "name":"Perry, John Jasiel",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "3608":{
-                "district":"2",
-                "name":"Gilman, Charles Jervis",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "7356":{
-                "district":"2",
-                "name":"Perry, John Jasiel",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "3126":{
-                "district":"2",
-                "name":"Fessenden, Thomas Amory Deblois",
-                "party":"Republican"
-            },
-            "9794":{
-                "district":"2",
-                "name":"Walton, Charles Wesley",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Maine"
+    "district":2,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"me"
 },
   "bbox": [
     -71.08433,

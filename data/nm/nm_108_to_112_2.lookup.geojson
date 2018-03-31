@@ -1,49 +1,13 @@
 {
-  "id": "nm_108_to_112_02",
+  "id": "nm_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"035108112002",
-    "member":{
-        "108":{
-            "20337":{
-                "district":"2",
-                "name":"Pearce, Stevan",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20337":{
-                "district":"2",
-                "name":"Pearce, Stevan",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20337":{
-                "district":"2",
-                "name":"Pearce, Stevan",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20931":{
-                "district":"2",
-                "name":"Teague, Harry",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20337":{
-                "district":"2",
-                "name":"Pearce, Steven E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New Mexico"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nm"
 },
   "bbox": [
     -109.05017,

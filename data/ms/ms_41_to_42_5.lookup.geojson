@@ -1,28 +1,13 @@
 {
-  "id": "ms_41_to_42_05",
+  "id": "ms_41_to_42_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"42",
-    "id":"028041042005",
-    "member":{
-        "41":{
-            "7336":{
-                "district":"5",
-                "name":"Perce, Legrand Winfield",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "7336":{
-                "district":"5",
-                "name":"Perce, Legrand Winfield",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Mississippi"
+    "district":5,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"ms"
 },
   "bbox": [
     -91.65501,

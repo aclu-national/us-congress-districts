@@ -2,20 +2,12 @@
   "id": "oh_90_to_90_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"90",
-    "id":"039090090021",
-    "member":{
-        "90":{
-            "9623":{
-                "district":"21",
-                "name":"Vanik, Charles Albert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Ohio"
+    "district":21,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"oh"
 },
   "bbox": [
     -81.78506,

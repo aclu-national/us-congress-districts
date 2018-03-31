@@ -1,21 +1,13 @@
 {
-  "id": "nj_28_to_28_01",
+  "id": "nj_28_to_28_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"28",
-    "id":"034028028001",
-    "member":{
-        "28":{
-            "2944":{
-                "district":"1",
-                "name":"Elmer, Lucius Quintius Cinncinatus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New Jersey"
+    "district":1,
+    "end_date":"1845-03-03",
+    "end_session":28,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"nj"
 },
   "bbox": [
     -75.55979,

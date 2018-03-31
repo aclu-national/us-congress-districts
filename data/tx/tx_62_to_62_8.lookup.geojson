@@ -1,21 +1,13 @@
 {
-  "id": "tx_62_to_62_08",
+  "id": "tx_62_to_62_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"62",
-    "id":"048062062008",
-    "member":{
-        "62":{
-            "6638":{
-                "district":"8",
-                "name":"Moore, John Matthew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"62",
-    "statename":"Texas"
+    "district":8,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1911-04-04",
+    "start_session":62,
+    "state":"tx"
 },
   "bbox": [
     -96.62202,

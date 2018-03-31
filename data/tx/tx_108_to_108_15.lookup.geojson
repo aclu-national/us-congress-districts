@@ -2,20 +2,12 @@
   "id": "tx_108_to_108_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"108",
-    "id":"048108108015",
-    "member":{
-        "108":{
-            "29763":{
-                "district":"15",
-                "name":"Hinojosa, Ruben",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Texas"
+    "district":15,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tx"
 },
   "bbox": [
     -98.53664,

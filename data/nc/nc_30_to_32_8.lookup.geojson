@@ -1,35 +1,13 @@
 {
-  "id": "nc_30_to_32_08",
+  "id": "nc_30_to_32_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"32",
-    "id":"037030032008",
-    "member":{
-        "30":{
-            "2657":{
-                "district":"8",
-                "name":"Donnell, Richard Spaight",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "8841":{
-                "district":"8",
-                "name":"Stanly, Edward",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "8841":{
-                "district":"8",
-                "name":"Stanly, Edward",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"North Carolina"
+    "district":8,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"nc"
 },
   "bbox": [
     -78.30466,

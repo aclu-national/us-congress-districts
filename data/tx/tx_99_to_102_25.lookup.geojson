@@ -2,41 +2,12 @@
   "id": "tx_99_to_102_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"102",
-    "id":"048099102025",
-    "member":{
-        "100":{
-            "15001":{
-                "district":"25",
-                "name":"Andrews, Michael",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15001":{
-                "district":"25",
-                "name":"Andrews, Michael",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15001":{
-                "district":"25",
-                "name":"Andrews, Michael",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15001":{
-                "district":"25",
-                "name":"Andrews, Michael",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Texas"
+    "district":25,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"tx"
 },
   "bbox": [
     -95.5207,

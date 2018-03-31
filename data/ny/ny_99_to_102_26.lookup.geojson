@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"102",
-    "id":"036099102026",
-    "member":{
-        "100":{
-            "14840":{
-                "district":"26",
-                "name":"Martin, David O'Brien",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14840":{
-                "district":"26",
-                "name":"Martin, David O'Brien",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14840":{
-                "district":"26",
-                "name":"Martin, David O'Brien",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14840":{
-                "district":"26",
-                "name":"Martin, David O'Brien",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -76.44574,

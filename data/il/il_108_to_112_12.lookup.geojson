@@ -2,48 +2,12 @@
   "id": "il_108_to_112_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"112",
-    "id":"017108112012",
-    "member":{
-        "108":{
-            "15453":{
-                "district":"12",
-                "name":"Costello, Jerry F.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15453":{
-                "district":"12",
-                "name":"Costello, Jerry F.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "15453":{
-                "district":"12",
-                "name":"Costello, Jerry F.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "15453":{
-                "district":"12",
-                "name":"Costello, Jerry F.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "15453":{
-                "district":"12",
-                "name":"Costello, Jerry F.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Illinois"
+    "district":12,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"il"
 },
   "bbox": [
     -90.37393,

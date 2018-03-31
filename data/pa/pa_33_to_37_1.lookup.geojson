@@ -1,49 +1,13 @@
 {
-  "id": "pa_33_to_37_01",
+  "id": "pa_33_to_37_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"37",
-    "id":"042033037001",
-    "member":{
-        "33":{
-            "3229":{
-                "district":"1",
-                "name":"Florence, Thomas Birch",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "3229":{
-                "district":"1",
-                "name":"Florence, Thomas Birch",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "3229":{
-                "district":"1",
-                "name":"Florence, Thomas Birch",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "3229":{
-                "district":"1",
-                "name":"Florence, Thomas Birch",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "5592":{
-                "district":"1",
-                "name":"Lehman, William Eckart",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -75.21453,

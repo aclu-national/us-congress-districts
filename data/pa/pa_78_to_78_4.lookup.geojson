@@ -1,21 +1,13 @@
 {
-  "id": "pa_78_to_78_04",
+  "id": "pa_78_to_78_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"78",
-    "id":"042078078004",
-    "member":{
-        "78":{
-            "8451":{
-                "district":"4",
-                "name":"Sheridan, John Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"pa"
 },
   "bbox": [
     -75.20431,

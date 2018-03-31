@@ -1,19 +1,13 @@
 {
-  "id": "nc_113_to_115_08",
+  "id": "nc_113_to_115_8",
   "type": "Feature",
   "properties": {
-    "ALAND":11685645007,
-    "AWATER":169738458,
-    "CD113FP":"08",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3708",
-    "INTPTLAT":"+35.1224465",
-    "INTPTLON":"-079.9514195",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 8",
-    "STATEFP":"37"
+    "district":8,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nc"
 },
   "bbox": [
     -80.726056,

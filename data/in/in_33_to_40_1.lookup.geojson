@@ -1,75 +1,13 @@
 {
-  "id": "in_33_to_40_01",
+  "id": "in_33_to_40_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"40",
-    "id":"018033040001",
-    "member":{
-        "33":{
-            "6508":{
-                "district":"1",
-                "name":"Miller, Smith",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "6508":{
-                "district":"1",
-                "name":"Miller, Smith",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "5735":{
-                "district":"1",
-                "name":"Lockhart, James",
-                "party":"Democrat"
-            },
-            "6910":{
-                "district":"1",
-                "name":"Niblack, William Ellis",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "6910":{
-                "district":"1",
-                "name":"Niblack, William Ellis",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "5502":{
-                "district":"1",
-                "name":"Law, John",
-                "party":"Democrat"
-            }
-        },
-        "38":{
-            "5502":{
-                "district":"1",
-                "name":"Law, John",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "6910":{
-                "district":"1",
-                "name":"Niblack, William Ellis",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "6910":{
-                "district":"1",
-                "name":"Niblack, William Ellis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1869-03-03",
+    "end_session":40,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

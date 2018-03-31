@@ -1,35 +1,13 @@
 {
-  "id": "ok_60_to_62_02",
+  "id": "ok_60_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"040060062002",
-    "member":{
-        "60":{
-            "3408":{
-                "district":"2",
-                "name":"Fulton, Elmer Lincoln",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "6675":{
-                "district":"2",
-                "name":"Morgan, Dick Thompson",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "6675":{
-                "district":"2",
-                "name":"Morgan, Dick Thompson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Oklahoma"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ok"
 },
   "bbox": [
     -103.00265,

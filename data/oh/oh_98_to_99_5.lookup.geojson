@@ -1,28 +1,13 @@
 {
-  "id": "oh_98_to_99_05",
+  "id": "oh_98_to_99_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"99",
-    "id":"039098099005",
-    "member":{
-        "98":{
-            "5495":{
-                "district":"5",
-                "name":"Latta, Delbert Leroy",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "5495":{
-                "district":"5",
-                "name":"Latta, Delbert Leroy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1986-10-18",
+    "end_session":99,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"oh"
 },
   "bbox": [
     -84.80618,

@@ -1,49 +1,13 @@
 {
-  "id": "vt_23_to_27_02",
+  "id": "vt_23_to_27_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"27",
-    "id":"050023027002",
-    "member":{
-        "23":{
-            "8566":{
-                "district":"2",
-                "name":"Slade, William",
-                "party":"Anti Masonic"
-            }
-        },
-        "24":{
-            "8566":{
-                "district":"2",
-                "name":"Slade, William",
-                "party":"Anti Masonic"
-            }
-        },
-        "25":{
-            "8566":{
-                "district":"2",
-                "name":"Slade, William",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "8566":{
-                "district":"2",
-                "name":"Slade, William",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "8566":{
-                "district":"2",
-                "name":"Slade, William",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Vermont"
+    "district":2,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"vt"
 },
   "bbox": [
     -73.43774,

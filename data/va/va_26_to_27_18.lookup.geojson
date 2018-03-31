@@ -2,27 +2,12 @@
   "id": "va_26_to_27_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"27",
-    "id":"051026027018",
-    "member":{
-        "26":{
-            "4568":{
-                "district":"18",
-                "name":"Hopkins, George Washington",
-                "party":"Conservative"
-            }
-        },
-        "27":{
-            "4568":{
-                "district":"18",
-                "name":"Hopkins, George Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"26",
-    "statename":"Virginia"
+    "district":18,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1839-12-02",
+    "start_session":26,
+    "state":"va"
 },
   "bbox": [
     -83.67541,

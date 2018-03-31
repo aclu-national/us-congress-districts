@@ -2,48 +2,12 @@
   "id": "il_93_to_97_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"97",
-    "id":"017093097013",
-    "member":{
-        "93":{
-            "10606":{
-                "district":"13",
-                "name":"McClory, Robert",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "10606":{
-                "district":"13",
-                "name":"McClory, Robert",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "10606":{
-                "district":"13",
-                "name":"McClory, Robert",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "10606":{
-                "district":"13",
-                "name":"McClory, Robert",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "10606":{
-                "district":"13",
-                "name":"McClory, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Illinois"
+    "district":13,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"il"
 },
   "bbox": [
     -88.70584,

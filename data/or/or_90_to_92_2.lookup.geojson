@@ -1,35 +1,13 @@
 {
-  "id": "or_90_to_92_02",
+  "id": "or_90_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"041090092002",
-    "member":{
-        "90":{
-            "9551":{
-                "district":"2",
-                "name":"Ullman, Albert Conrad",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "9551":{
-                "district":"2",
-                "name":"Ullman, Albert Conrad",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "9551":{
-                "district":"2",
-                "name":"Ullman, Albert Conrad",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Oregon"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"or"
 },
   "bbox": [
     -123.26084,

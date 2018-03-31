@@ -2,27 +2,12 @@
   "id": "in_41_to_42_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"42",
-    "id":"018041042011",
-    "member":{
-        "41":{
-            "7144":{
-                "district":"11",
-                "name":"Packard, Jasper",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "7144":{
-                "district":"11",
-                "name":"Packard, Jasper",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Indiana"
+    "district":11,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"in"
 },
   "bbox": [
     -87.52677,

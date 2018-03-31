@@ -1,49 +1,13 @@
 {
-  "id": "sc_28_to_32_07",
+  "id": "sc_28_to_32_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"32",
-    "id":"045028032007",
-    "member":{
-        "28":{
-            "7841":{
-                "district":"7",
-                "name":"Rhett, Robert Barnwell",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "7841":{
-                "district":"7",
-                "name":"Rhett, Robert Barnwell",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "7841":{
-                "district":"7",
-                "name":"Rhett, Robert Barnwell",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "1917":{
-                "district":"7",
-                "name":"Colcock, William Ferguson",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "1917":{
-                "district":"7",
-                "name":"Colcock, William Ferguson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"South Carolina"
+    "district":7,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"sc"
 },
   "bbox": [
     -81.8692,

@@ -2,27 +2,12 @@
   "id": "mo_46_to_47_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"47",
-    "id":"029046047013",
-    "member":{
-        "46":{
-            "1212":{
-                "district":"13",
-                "name":"Buckner, Aylett Hawes",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "1212":{
-                "district":"13",
-                "name":"Buckner, Aylett Hawes",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Missouri"
+    "district":13,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"mo"
 },
   "bbox": [
     -92.31443,

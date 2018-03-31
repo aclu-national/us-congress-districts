@@ -1,77 +1,13 @@
 {
-  "id": "oh_64_to_72_03",
+  "id": "oh_64_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"039064072003",
-    "member":{
-        "64":{
-            "3459":{
-                "district":"3",
-                "name":"Gard, Warren",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "3459":{
-                "district":"3",
-                "name":"Gard, Warren",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "3459":{
-                "district":"3",
-                "name":"Gard, Warren",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "3184":{
-                "district":"3",
-                "name":"Fitzgerald, Roy Gerald",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "3184":{
-                "district":"3",
-                "name":"Fitzgerald, Roy Gerald",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "3184":{
-                "district":"3",
-                "name":"Fitzgerald, Roy Gerald",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "3184":{
-                "district":"3",
-                "name":"Fitzgerald, Roy Gerald",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "3184":{
-                "district":"3",
-                "name":"Fitzgerald, Roy Gerald",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4075":{
-                "district":"3",
-                "name":"Harlan, Byron Berry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

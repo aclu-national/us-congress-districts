@@ -1,19 +1,13 @@
 {
-  "id": "ca_113_to_115_09",
+  "id": "ca_113_to_115_9",
   "type": "Feature",
   "properties": {
-    "ALAND":3228602655,
-    "AWATER":151410237,
-    "CD113FP":"09",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0609",
-    "INTPTLAT":"+38.0108733",
-    "INTPTLON":"-121.3071466",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 9",
-    "STATEFP":"06"
+    "district":9,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -121.851325,

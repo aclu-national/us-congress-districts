@@ -2,83 +2,12 @@
   "id": "mi_73_to_82_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"82",
-    "id":"026073082014",
-    "member":{
-        "73":{
-            "9918":{
-                "district":"14",
-                "name":"Weideman, Carl May",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "7682":{
-                "district":"14",
-                "name":"Rabaut, Louis Charles",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7682":{
-                "district":"14",
-                "name":"Rabaut, Louis Charles",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "7682":{
-                "district":"14",
-                "name":"Rabaut, Louis Charles",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "7682":{
-                "district":"14",
-                "name":"Rabaut, Louis Charles",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "7682":{
-                "district":"14",
-                "name":"Rabaut, Louis Charles",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "7682":{
-                "district":"14",
-                "name":"Rabaut, Louis Charles",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "10459":{
-                "district":"14",
-                "name":"Youngblood, Harold Francis",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7682":{
-                "district":"14",
-                "name":"Rabaut, Louis Charles",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7682":{
-                "district":"14",
-                "name":"Rabaut, Louis Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Michigan"
+    "district":14,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mi"
 },
   "bbox": [
     -83.02597,

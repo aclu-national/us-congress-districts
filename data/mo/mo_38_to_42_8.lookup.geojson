@@ -1,49 +1,13 @@
 {
-  "id": "mo_38_to_42_08",
+  "id": "mo_38_to_42_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"42",
-    "id":"029038042008",
-    "member":{
-        "38":{
-            "3961":{
-                "district":"8",
-                "name":"Hall, William Augustus",
-                "party":"Unionist"
-            }
-        },
-        "39":{
-            "626":{
-                "district":"8",
-                "name":"Benjamin, John Forbes",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "626":{
-                "district":"8",
-                "name":"Benjamin, John Forbes",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "626":{
-                "district":"8",
-                "name":"Benjamin, John Forbes",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "768":{
-                "district":"8",
-                "name":"Blair, James Gorrall",
-                "party":"Liberal Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Missouri"
+    "district":8,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"mo"
 },
   "bbox": [
     -93.36481,

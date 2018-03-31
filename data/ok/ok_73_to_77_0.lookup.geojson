@@ -1,49 +1,13 @@
 {
-  "id": "ok_73_to_77_00",
+  "id": "ok_73_to_77_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"77",
-    "id":"040073077000",
-    "member":{
-        "73":{
-            "8036":{
-                "district":"99",
-                "name":"Rogers, Will",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "8036":{
-                "district":"99",
-                "name":"Rogers, Will",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8036":{
-                "district":"99",
-                "name":"Rogers, Will",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8036":{
-                "district":"99",
-                "name":"Rogers, Will",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8036":{
-                "district":"99",
-                "name":"Rogers, Will",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Oklahoma"
+    "district":0,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ok"
 },
   "bbox": [
     -103.00265,

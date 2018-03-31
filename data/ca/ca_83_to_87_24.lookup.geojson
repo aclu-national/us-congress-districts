@@ -2,53 +2,12 @@
   "id": "ca_83_to_87_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"87",
-    "id":"006083087024",
-    "member":{
-        "83":{
-            "5694":{
-                "district":"24",
-                "name":"Lipscomb, Glenard Paul",
-                "party":"Republican"
-            },
-            "7566":{
-                "district":"24",
-                "name":"Poulson, Norris",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "5694":{
-                "district":"24",
-                "name":"Lipscomb, Glenard Paul",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "5694":{
-                "district":"24",
-                "name":"Lipscomb, Glenard Paul",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "5694":{
-                "district":"24",
-                "name":"Lipscomb, Glenard Paul",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "5694":{
-                "district":"24",
-                "name":"Lipscomb, Glenard Paul",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":24,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -118.30931,

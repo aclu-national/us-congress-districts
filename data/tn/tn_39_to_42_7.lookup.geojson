@@ -1,42 +1,13 @@
 {
-  "id": "tn_39_to_42_07",
+  "id": "tn_39_to_42_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"42",
-    "id":"047039042007",
-    "member":{
-        "39":{
-            "4214":{
-                "district":"7",
-                "name":"Hawkins, Isaac Roberts",
-                "party":"Unionist"
-            }
-        },
-        "40":{
-            "4214":{
-                "district":"7",
-                "name":"Hawkins, Isaac Roberts",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "4214":{
-                "district":"7",
-                "name":"Hawkins, Isaac Roberts",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "1414":{
-                "district":"7",
-                "name":"Caldwell, Robert Porter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"39",
-    "statename":"Tennessee"
+    "district":7,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1865-03-04",
+    "start_session":39,
+    "state":"tn"
 },
   "bbox": [
     -89.95888,

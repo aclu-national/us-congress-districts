@@ -1,58 +1,13 @@
 {
-  "id": "nj_1_to_2_00",
+  "id": "nj_1_to_2_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"2",
-    "id":"034001002000",
-    "member":{
-        "1":{
-            "1387":{
-                "district":"98",
-                "name":"Cadwalader, Lambert",
-                "party":"Pro-Administration"
-            },
-            "8278":{
-                "district":"98",
-                "name":"Schureman, James",
-                "party":"Pro-Administration"
-            },
-            "8544":{
-                "district":"98",
-                "name":"Sinnickson, Thomas",
-                "party":"Pro-Administration"
-            },
-            "878":{
-                "district":"98",
-                "name":"Boudinot, Elias",
-                "party":"Pro-Administration"
-            }
-        },
-        "2":{
-            "1750":{
-                "district":"98",
-                "name":"Clark, Abraham",
-                "party":"Pro-Administration"
-            },
-            "2440":{
-                "district":"98",
-                "name":"Dayton, Jonathan",
-                "party":"Pro-Administration"
-            },
-            "5303":{
-                "district":"98",
-                "name":"Kitchell, Aaron",
-                "party":"Pro-Administration"
-            },
-            "878":{
-                "district":"98",
-                "name":"Boudinot, Elias",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"New Jersey"
+    "district":0,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"nj"
 },
   "bbox": [
     -75.55979,

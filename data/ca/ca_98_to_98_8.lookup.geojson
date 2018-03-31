@@ -1,21 +1,13 @@
 {
-  "id": "ca_98_to_98_08",
+  "id": "ca_98_to_98_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"98",
-    "id":"006098098008",
-    "member":{
-        "98":{
-            "13011":{
-                "district":"8",
-                "name":"Dellums, Ronald V.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"California"
+    "district":8,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ca"
 },
   "bbox": [
     -122.34148,

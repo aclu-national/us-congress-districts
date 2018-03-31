@@ -1,49 +1,13 @@
 {
-  "id": "mo_93_to_97_09",
+  "id": "mo_93_to_97_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"97",
-    "id":"029093097009",
-    "member":{
-        "93":{
-            "10740":{
-                "district":"9",
-                "name":"Hungate, William L.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10740":{
-                "district":"9",
-                "name":"Hungate, William L.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14459":{
-                "district":"9",
-                "name":"Volkmer, Harold",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14459":{
-                "district":"9",
-                "name":"Volkmer, Harold",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14459":{
-                "district":"9",
-                "name":"Volkmer, Harold",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Missouri"
+    "district":9,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mo"
 },
   "bbox": [
     -93.37521,

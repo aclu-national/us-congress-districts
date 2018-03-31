@@ -1,28 +1,13 @@
 {
-  "id": "al_63_to_64_05",
+  "id": "al_63_to_64_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"64",
-    "id":"001063064005",
-    "member":{
-        "63":{
-            "4280":{
-                "district":"5",
-                "name":"Heflin, James Thomas",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4280":{
-                "district":"5",
-                "name":"Heflin, James Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Alabama"
+    "district":5,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"al"
 },
   "bbox": [
     -86.92137,

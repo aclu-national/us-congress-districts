@@ -2,41 +2,12 @@
   "id": "ca_99_to_102_40",
   "type": "Feature",
   "properties": {
-    "district":"40",
-    "endcong":"102",
-    "id":"006099102040",
-    "member":{
-        "100":{
-            "14403":{
-                "district":"40",
-                "name":"Badham, Robert",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15601":{
-                "district":"40",
-                "name":"Cox, C. Christopher",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15601":{
-                "district":"40",
-                "name":"Cox, C. Christopher",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14403":{
-                "district":"40",
-                "name":"Badham, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":40,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -117.9881,

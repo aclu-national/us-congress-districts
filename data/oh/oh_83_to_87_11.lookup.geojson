@@ -2,48 +2,12 @@
   "id": "oh_83_to_87_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"87",
-    "id":"039083087011",
-    "member":{
-        "83":{
-            "838":{
-                "district":"11",
-                "name":"Bolton, Oliver Payne",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "838":{
-                "district":"11",
-                "name":"Bolton, Oliver Payne",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "2504":{
-                "district":"11",
-                "name":"Dennison, David Short",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "2023":{
-                "district":"11",
-                "name":"Cook, Robert Eugene",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "2023":{
-                "district":"11",
-                "name":"Cook, Robert Eugene",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Ohio"
+    "district":11,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"oh"
 },
   "bbox": [
     -81.48894,

@@ -1,49 +1,13 @@
 {
-  "id": "ks_73_to_77_04",
+  "id": "ks_73_to_77_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"77",
-    "id":"020073077004",
-    "member":{
-        "73":{
-            "1526":{
-                "district":"4",
-                "name":"Carpenter, William Randol",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "1526":{
-                "district":"4",
-                "name":"Carpenter, William Randol",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7799":{
-                "district":"4",
-                "name":"Rees, Edward Herbert",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "7799":{
-                "district":"4",
-                "name":"Rees, Edward Herbert",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "7799":{
-                "district":"4",
-                "name":"Rees, Edward Herbert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Kansas"
+    "district":4,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ks"
 },
   "bbox": [
     -97.38122,

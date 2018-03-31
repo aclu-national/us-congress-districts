@@ -1,42 +1,13 @@
 {
-  "id": "co_89_to_92_03",
+  "id": "co_89_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"008089092003",
-    "member":{
-        "89":{
-            "10723":{
-                "district":"3",
-                "name":"Evans, Frank E.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10723":{
-                "district":"3",
-                "name":"Evans, Frank E.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "10723":{
-                "district":"3",
-                "name":"Evans, Frank E.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10723":{
-                "district":"3",
-                "name":"Evans, Frank E.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Colorado"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"co"
 },
   "bbox": [
     -106.01279,

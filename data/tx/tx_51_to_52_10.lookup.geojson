@@ -2,27 +2,12 @@
   "id": "tx_51_to_52_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"52",
-    "id":"048051052010",
-    "member":{
-        "51":{
-            "8244":{
-                "district":"10",
-                "name":"Sayers, Joseph Draper",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "8244":{
-                "district":"10",
-                "name":"Sayers, Joseph Draper",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Texas"
+    "district":10,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"tx"
 },
   "bbox": [
     -102.3906,

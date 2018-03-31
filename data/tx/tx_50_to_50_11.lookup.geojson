@@ -2,20 +2,12 @@
   "id": "tx_50_to_50_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"50",
-    "id":"048050050011",
-    "member":{
-        "50":{
-            "5460":{
-                "district":"11",
-                "name":"Lanham, Samuel Willis Tucker",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Texas"
+    "district":11,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

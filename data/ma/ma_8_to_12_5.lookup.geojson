@@ -1,49 +1,13 @@
 {
-  "id": "ma_8_to_12_05",
+  "id": "ma_8_to_12_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"12",
-    "id":"025008012005",
-    "member":{
-        "10":{
-            "2956":{
-                "district":"5",
-                "name":"Ely, William",
-                "party":"Federalist"
-            }
-        },
-        "11":{
-            "2956":{
-                "district":"5",
-                "name":"Ely, William",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "2956":{
-                "district":"5",
-                "name":"Ely, William",
-                "party":"Federalist"
-            }
-        },
-        "8":{
-            "2801":{
-                "district":"5",
-                "name":"Dwight, Thomas",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "2956":{
-                "district":"5",
-                "name":"Ely, William",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ma"
 },
   "bbox": [
     -73.07488,

@@ -1,49 +1,13 @@
 {
-  "id": "wi_58_to_62_05",
+  "id": "wi_58_to_62_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"62",
-    "id":"055058062005",
-    "member":{
-        "58":{
-            "8823":{
-                "district":"5",
-                "name":"Stafford, William Henry",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "8823":{
-                "district":"5",
-                "name":"Stafford, William Henry",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "8823":{
-                "district":"5",
-                "name":"Stafford, William Henry",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "8823":{
-                "district":"5",
-                "name":"Stafford, William Henry",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "665":{
-                "district":"5",
-                "name":"Berger, Victor Luitpold",
-                "party":"Socialist"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Wisconsin"
+    "district":5,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"wi"
 },
   "bbox": [
     -88.5424,

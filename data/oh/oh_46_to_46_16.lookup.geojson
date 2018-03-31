@@ -2,20 +2,12 @@
   "id": "oh_46_to_46_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"46",
-    "id":"039046046016",
-    "member":{
-        "46":{
-            "6312":{
-                "district":"16",
-                "name":"McKinley, William, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Ohio"
+    "district":16,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"oh"
 },
   "bbox": [
     -82.43688,

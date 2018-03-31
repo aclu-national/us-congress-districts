@@ -1,49 +1,13 @@
 {
-  "id": "tn_18_to_22_09",
+  "id": "tn_18_to_22_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"22",
-    "id":"047018022009",
-    "member":{
-        "18":{
-            "77":{
-                "district":"9",
-                "name":"Alexander, Adam Rankin",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "77":{
-                "district":"9",
-                "name":"Alexander, Adam Rankin",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "2187":{
-                "district":"9",
-                "name":"Crockett, David",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2187":{
-                "district":"9",
-                "name":"Crockett, David",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "3186":{
-                "district":"9",
-                "name":"Fitzgerald, William",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Tennessee"
+    "district":9,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

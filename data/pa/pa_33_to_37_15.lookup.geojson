@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"37",
-    "id":"042033037015",
-    "member":{
-        "33":{
-            "3444":{
-                "district":"15",
-                "name":"Gamble, James",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "7283":{
-                "district":"15",
-                "name":"Pearce, John Jamison",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "10009":{
-                "district":"15",
-                "name":"White, Allison",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "3920":{
-                "district":"15",
-                "name":"Hale, James Tracy",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "3920":{
-                "district":"15",
-                "name":"Hale, James Tracy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -78.37668,

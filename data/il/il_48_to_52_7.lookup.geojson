@@ -1,49 +1,13 @@
 {
-  "id": "il_48_to_52_07",
+  "id": "il_48_to_52_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"52",
-    "id":"017048052007",
-    "member":{
-        "48":{
-            "4316":{
-                "district":"7",
-                "name":"Henderson, Thomas Jefferson",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "4316":{
-                "district":"7",
-                "name":"Henderson, Thomas Jefferson",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "4316":{
-                "district":"7",
-                "name":"Henderson, Thomas Jefferson",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "4316":{
-                "district":"7",
-                "name":"Henderson, Thomas Jefferson",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "4316":{
-                "district":"7",
-                "name":"Henderson, Thomas Jefferson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":7,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -90.43766,

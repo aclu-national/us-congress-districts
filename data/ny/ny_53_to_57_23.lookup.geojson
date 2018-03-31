@@ -2,48 +2,12 @@
   "id": "ny_53_to_57_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"57",
-    "id":"036053057023",
-    "member":{
-        "53":{
-            "9971":{
-                "district":"23",
-                "name":"Wever, John Madison",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "3261":{
-                "district":"23",
-                "name":"Foote, Wallace Turner Jr.",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "3261":{
-                "district":"23",
-                "name":"Foote, Wallace Turner Jr.",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2960":{
-                "district":"23",
-                "name":"Emerson, Louis Woodard",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2960":{
-                "district":"23",
-                "name":"Emerson, Louis Woodard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ny"
 },
   "bbox": [
     -74.72568,

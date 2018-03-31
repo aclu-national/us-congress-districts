@@ -2,20 +2,12 @@
   "id": "ny_65_to_65_37",
   "type": "Feature",
   "properties": {
-    "district":"37",
-    "endcong":"65",
-    "id":"036065065037",
-    "member":{
-        "65":{
-            "7590":{
-                "district":"37",
-                "name":"Pratt, Harry Hayt",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":37,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -77.74993,

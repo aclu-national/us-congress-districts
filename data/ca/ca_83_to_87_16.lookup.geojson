@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"87",
-    "id":"006083087016",
-    "member":{
-        "83":{
-            "4846":{
-                "district":"16",
-                "name":"Jackson, Donald Lester",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4846":{
-                "district":"16",
-                "name":"Jackson, Donald Lester",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4846":{
-                "district":"16",
-                "name":"Jackson, Donald Lester",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "4846":{
-                "district":"16",
-                "name":"Jackson, Donald Lester",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10505":{
-                "district":"16",
-                "name":"Bell, Alphonzo",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":16,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -118.9449,

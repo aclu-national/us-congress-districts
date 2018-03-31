@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"102",
-    "id":"036099102016",
-    "member":{
-        "100":{
-            "13035":{
-                "district":"16",
-                "name":"Rangel, Charles",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "13035":{
-                "district":"16",
-                "name":"Rangel, Charles",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "13035":{
-                "district":"16",
-                "name":"Rangel, Charles",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "13035":{
-                "district":"16",
-                "name":"Rangel, Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -73.9822,

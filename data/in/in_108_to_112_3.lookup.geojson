@@ -1,54 +1,13 @@
 {
-  "id": "in_108_to_112_03",
+  "id": "in_108_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"018108112003",
-    "member":{
-        "108":{
-            "29519":{
-                "district":"3",
-                "name":"Souder, Mark E.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29519":{
-                "district":"3",
-                "name":"Souder, Mark E.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29519":{
-                "district":"3",
-                "name":"Souder, Mark E.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "21100":{
-                "district":"3",
-                "name":"Stutzman, Martin A.",
-                "party":"Republican"
-            },
-            "29519":{
-                "district":"3",
-                "name":"Souder, Mark E.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21100":{
-                "district":"3",
-                "name":"Stutzman, Marlin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"in"
 },
   "bbox": [
     -86.07733,

@@ -2,41 +2,12 @@
   "id": "ny_94_to_97_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"97",
-    "id":"036094097016",
-    "member":{
-        "94":{
-            "14022":{
-                "district":"16",
-                "name":"Holtzman, Elizabeth",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14022":{
-                "district":"16",
-                "name":"Holtzman, Elizabeth",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14022":{
-                "district":"16",
-                "name":"Holtzman, Elizabeth",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14858":{
-                "district":"16",
-                "name":"Schumer, Charles E.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -73.97184,

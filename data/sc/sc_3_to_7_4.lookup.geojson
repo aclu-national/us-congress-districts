@@ -1,54 +1,13 @@
 {
-  "id": "sc_3_to_7_04",
+  "id": "sc_3_to_7_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"7",
-    "id":"045003007004",
-    "member":{
-        "3":{
-            "10275":{
-                "district":"4",
-                "name":"Winn, Richard",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "10275":{
-                "district":"4",
-                "name":"Winn, Richard",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "9088":{
-                "district":"4",
-                "name":"Sumter, Thomas",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "9088":{
-                "district":"4",
-                "name":"Sumter, Thomas",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "10275":{
-                "district":"4",
-                "name":"Winn, Richard",
-                "party":"Republican"
-            },
-            "9088":{
-                "district":"4",
-                "name":"Sumter, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"South Carolina"
+    "district":4,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"sc"
 },
   "bbox": [
     -81.42755,

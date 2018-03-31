@@ -1,42 +1,13 @@
 {
-  "id": "tn_48_to_51_03",
+  "id": "tn_48_to_51_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"51",
-    "id":"047048051003",
-    "member":{
-        "48":{
-            "2554":{
-                "district":"3",
-                "name":"Dibrell, George Gibbs",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "6849":{
-                "district":"3",
-                "name":"Neal, John Randolph",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "6849":{
-                "district":"3",
-                "name":"Neal, John Randolph",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "3008":{
-                "district":"3",
-                "name":"Evans, Henry Clay",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"tn"
 },
   "bbox": [
     -85.99773,

@@ -1,35 +1,13 @@
 {
-  "id": "oh_43_to_45_01",
+  "id": "oh_43_to_45_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"45",
-    "id":"039043045001",
-    "member":{
-        "43":{
-            "8246":{
-                "district":"1",
-                "name":"Sayler, Milton",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "8246":{
-                "district":"1",
-                "name":"Sayler, Milton",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "8246":{
-                "district":"1",
-                "name":"Sayler, Milton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Ohio"
+    "district":1,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"oh"
 },
   "bbox": [
     -84.5227,

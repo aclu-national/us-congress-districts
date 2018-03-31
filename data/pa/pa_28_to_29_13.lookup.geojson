@@ -2,32 +2,12 @@
   "id": "pa_28_to_29_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"29",
-    "id":"042028029013",
-    "member":{
-        "28":{
-            "3373":{
-                "district":"13",
-                "name":"Frick, Henry",
-                "party":"Whig"
-            },
-            "7513":{
-                "district":"13",
-                "name":"Pollock, James",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "7513":{
-                "district":"13",
-                "name":"Pollock, James",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -78.20425,

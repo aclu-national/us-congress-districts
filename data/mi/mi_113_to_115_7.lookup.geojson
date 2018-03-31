@@ -1,19 +1,13 @@
 {
-  "id": "mi_113_to_115_07",
+  "id": "mi_113_to_115_7",
   "type": "Feature",
   "properties": {
-    "ALAND":10949927891,
-    "AWATER":526917021,
-    "CD113FP":"07",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2607",
-    "INTPTLAT":"+42.0936084",
-    "INTPTLON":"-084.3049549",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 7",
-    "STATEFP":"26"
+    "district":7,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mi"
 },
   "bbox": [
     -85.293645,

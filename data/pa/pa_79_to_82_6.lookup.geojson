@@ -1,42 +1,13 @@
 {
-  "id": "pa_79_to_82_06",
+  "id": "pa_79_to_82_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"82",
-    "id":"042079082006",
-    "member":{
-        "79":{
-            "6255":{
-                "district":"6",
-                "name":"McGlinchey, Herbert Joseph",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "8301":{
-                "district":"6",
-                "name":"Scott, Hugh Doggett, Jr.",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "8301":{
-                "district":"6",
-                "name":"Scott, Hugh Doggett, Jr.",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "8301":{
-                "district":"6",
-                "name":"Scott, Hugh Doggett, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -75.26422,

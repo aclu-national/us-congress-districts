@@ -2,27 +2,12 @@
   "id": "ny_66_to_67_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"67",
-    "id":"036066067024",
-    "member":{
-        "66":{
-            "3451":{
-                "district":"24",
-                "name":"Ganly, James Vincent",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "3047":{
-                "district":"24",
-                "name":"Fairchild, Benjamin Lewis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":24,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -73.91113,

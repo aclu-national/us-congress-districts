@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_20",
   "type": "Feature",
   "properties": {
-    "ALAND":12624166135,
-    "AWATER":1574866867,
-    "CD113FP":"20",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0620",
-    "INTPTLAT":"+36.3732865",
-    "INTPTLON":"-121.2752181",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 20",
-    "STATEFP":"06"
+    "district":20,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -122.105892,

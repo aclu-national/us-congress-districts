@@ -1,35 +1,13 @@
 {
-  "id": "ny_103_to_105_03",
+  "id": "ny_103_to_105_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"105",
-    "id":"036103105003",
-    "member":{
-        "103":{
-            "29375":{
-                "district":"3",
-                "name":"King, Peter T.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29375":{
-                "district":"3",
-                "name":"King, Peter T.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29375":{
-                "district":"3",
-                "name":"King, Peter T.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -73.71201,

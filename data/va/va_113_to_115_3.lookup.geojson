@@ -1,19 +1,13 @@
 {
-  "id": "va_113_to_115_03",
+  "id": "va_113_to_115_3",
   "type": "Feature",
   "properties": {
-    "ALAND":2452991942,
-    "AWATER":548889272,
-    "CD113FP":"03",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5103",
-    "INTPTLAT":"+37.2135279",
-    "INTPTLON":"-076.9511350",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 3",
-    "STATEFP":"51"
+    "district":3,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"va"
 },
   "bbox": [
     -77.525051,

@@ -1,19 +1,13 @@
 {
-  "id": "mn_113_to_115_08",
+  "id": "mn_113_to_115_8",
   "type": "Feature",
   "properties": {
-    "ALAND":72281503211,
-    "AWATER":12448770859,
-    "CD113FP":"08",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2708",
-    "INTPTLAT":"+47.2503395",
-    "INTPTLON":"-092.9638683",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 8",
-    "STATEFP":"27"
+    "district":8,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mn"
 },
   "bbox": [
     -95.183759,

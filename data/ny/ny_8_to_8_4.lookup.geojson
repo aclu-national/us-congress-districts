@@ -1,21 +1,13 @@
 {
-  "id": "ny_8_to_8_04",
+  "id": "ny_8_to_8_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"8",
-    "id":"036008008004",
-    "member":{
-        "8":{
-            "9602":{
-                "district":"4",
-                "name":"Van Cortlandt, Philip",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1805-03-03",
+    "end_session":8,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ny"
 },
   "bbox": [
     -74.23447,

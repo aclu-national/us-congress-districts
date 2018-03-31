@@ -1,49 +1,13 @@
 {
-  "id": "pa_8_to_12_07",
+  "id": "pa_8_to_12_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"12",
-    "id":"042008012007",
-    "member":{
-        "10":{
-            "7760":{
-                "district":"7",
-                "name":"Rea, John",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "7760":{
-                "district":"7",
-                "name":"Rea, John",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "7464":{
-                "district":"7",
-                "name":"Piper, William",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "7760":{
-                "district":"7",
-                "name":"Rea, John",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "7760":{
-                "district":"7",
-                "name":"Rea, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"pa"
 },
   "bbox": [
     -78.80838,

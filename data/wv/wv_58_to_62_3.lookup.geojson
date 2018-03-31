@@ -1,49 +1,13 @@
 {
-  "id": "wv_58_to_62_03",
+  "id": "wv_58_to_62_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"62",
-    "id":"054058062003",
-    "member":{
-        "58":{
-            "3426":{
-                "district":"3",
-                "name":"Gaines, Joseph Holt",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "3426":{
-                "district":"3",
-                "name":"Gaines, Joseph Holt",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3426":{
-                "district":"3",
-                "name":"Gaines, Joseph Holt",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3426":{
-                "district":"3",
-                "name":"Gaines, Joseph Holt",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5708":{
-                "district":"3",
-                "name":"Littlepage, Adam Brown",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"West Virginia"
+    "district":3,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"wv"
 },
   "bbox": [
     -81.9152,

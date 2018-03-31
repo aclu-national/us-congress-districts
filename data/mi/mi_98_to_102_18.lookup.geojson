@@ -2,48 +2,12 @@
   "id": "mi_98_to_102_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"102",
-    "id":"026098102018",
-    "member":{
-        "100":{
-            "1087":{
-                "district":"18",
-                "name":"Broomfield, William S",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "1087":{
-                "district":"18",
-                "name":"Broomfield, William S",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "1087":{
-                "district":"18",
-                "name":"Broomfield, William S",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "1087":{
-                "district":"18",
-                "name":"Broomfield, William S",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "1087":{
-                "district":"18",
-                "name":"Broomfield, William S",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Michigan"
+    "district":18,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"mi"
 },
   "bbox": [
     -83.79782,

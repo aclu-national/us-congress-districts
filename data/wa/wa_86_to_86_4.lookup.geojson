@@ -1,21 +1,13 @@
 {
-  "id": "wa_86_to_86_04",
+  "id": "wa_86_to_86_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"86",
-    "id":"053086086004",
-    "member":{
-        "86":{
-            "6101":{
-                "district":"4",
-                "name":"May, Catherine Dean",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"86",
-    "statename":"Washington"
+    "district":4,
+    "end_date":"1960-09-01",
+    "end_session":86,
+    "start_date":"1959-01-07",
+    "start_session":86,
+    "state":"wa"
 },
   "bbox": [
     -121.61283,

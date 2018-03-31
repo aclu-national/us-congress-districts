@@ -2,48 +2,12 @@
   "id": "pa_38_to_42_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"42",
-    "id":"042038042019",
-    "member":{
-        "38":{
-            "8291":{
-                "district":"19",
-                "name":"Scofield, Glenni William",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "8291":{
-                "district":"19",
-                "name":"Scofield, Glenni William",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "8291":{
-                "district":"19",
-                "name":"Scofield, Glenni William",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "8291":{
-                "district":"19",
-                "name":"Scofield, Glenni William",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "8291":{
-                "district":"19",
-                "name":"Scofield, Glenni William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"pa"
 },
   "bbox": [
     -80.51943,

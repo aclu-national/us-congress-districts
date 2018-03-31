@@ -1,28 +1,13 @@
 {
-  "id": "va_26_to_27_02",
+  "id": "va_26_to_27_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"27",
-    "id":"051026027002",
-    "member":{
-        "26":{
-            "7928":{
-                "district":"2",
-                "name":"Rives, Francis Everod",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "1562":{
-                "district":"2",
-                "name":"Cary, George Booth",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"26",
-    "statename":"Virginia"
+    "district":2,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1839-12-02",
+    "start_session":26,
+    "state":"va"
 },
   "bbox": [
     -77.76712,

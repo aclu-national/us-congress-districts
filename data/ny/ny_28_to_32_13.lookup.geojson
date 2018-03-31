@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"32",
-    "id":"036028032013",
-    "member":{
-        "28":{
-            "443":{
-                "district":"13",
-                "name":"Barnard, Daniel Dewey",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "10322":{
-                "district":"13",
-                "name":"Wood, Bradford Ripley",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "8576":{
-                "district":"13",
-                "name":"Slingerland, John I.",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "8271":{
-                "district":"13",
-                "name":"Schoolcraft, John Lawrence",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "8271":{
-                "district":"13",
-                "name":"Schoolcraft, John Lawrence",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -74.26486,

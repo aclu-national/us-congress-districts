@@ -1,119 +1,13 @@
 {
-  "id": "nj_73_to_87_03",
+  "id": "nj_73_to_87_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"87",
-    "id":"034073087003",
-    "member":{
-        "73":{
-            "9098":{
-                "district":"3",
-                "name":"Sutphin, William Halstead",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "9098":{
-                "district":"3",
-                "name":"Sutphin, William Halstead",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "9098":{
-                "district":"3",
-                "name":"Sutphin, William Halstead",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "9098":{
-                "district":"3",
-                "name":"Sutphin, William Halstead",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "9098":{
-                "district":"3",
-                "name":"Sutphin, William Halstead",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "291":{
-                "district":"3",
-                "name":"Auchincloss, James Coats",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "291":{
-                "district":"3",
-                "name":"Auchincloss, James Coats",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "291":{
-                "district":"3",
-                "name":"Auchincloss, James Coats",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "291":{
-                "district":"3",
-                "name":"Auchincloss, James Coats",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "291":{
-                "district":"3",
-                "name":"Auchincloss, James Coats",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "291":{
-                "district":"3",
-                "name":"Auchincloss, James Coats",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "291":{
-                "district":"3",
-                "name":"Auchincloss, James Coats",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "291":{
-                "district":"3",
-                "name":"Auchincloss, James Coats",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "291":{
-                "district":"3",
-                "name":"Auchincloss, James Coats",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "291":{
-                "district":"3",
-                "name":"Auchincloss, James Coats",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New Jersey"
+    "district":3,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"nj"
 },
   "bbox": [
     -74.6301,

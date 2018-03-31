@@ -1,42 +1,13 @@
 {
-  "id": "ar_49_to_52_04",
+  "id": "ar_49_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"005049052004",
-    "member":{
-        "49":{
-            "8030":{
-                "district":"4",
-                "name":"Rogers, John Henry",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "8030":{
-                "district":"4",
-                "name":"Rogers, John Henry",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "8030":{
-                "district":"4",
-                "name":"Rogers, John Henry",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "9265":{
-                "district":"4",
-                "name":"Terry, William Leake",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Arkansas"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ar"
 },
   "bbox": [
     -94.49313,

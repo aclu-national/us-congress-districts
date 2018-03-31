@@ -1,28 +1,13 @@
 {
-  "id": "ny_9_to_10_09",
+  "id": "ny_9_to_10_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"10",
-    "id":"036009010009",
-    "member":{
-        "10":{
-            "9630":{
-                "district":"9",
-                "name":"Van Rensselaer, Killian K",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "9630":{
-                "district":"9",
-                "name":"Van Rensselaer, Killian K",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"9",
-    "statename":"New York"
+    "district":9,
+    "end_date":"1809-03-03",
+    "end_session":10,
+    "start_date":"1805-12-02",
+    "start_session":9,
+    "state":"ny"
 },
   "bbox": [
     -74.30667,

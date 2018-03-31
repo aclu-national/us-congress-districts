@@ -2,41 +2,12 @@
   "id": "ny_34_to_37_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"37",
-    "id":"036034037029",
-    "member":{
-        "34":{
-            "10161":{
-                "district":"29",
-                "name":"Williams, John",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "198":{
-                "district":"29",
-                "name":"Andrews, Samuel George",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "2952":{
-                "district":"29",
-                "name":"Ely, Alfred",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "2952":{
-                "district":"29",
-                "name":"Ely, Alfred",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -77.99729,

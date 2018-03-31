@@ -1,28 +1,13 @@
 {
-  "id": "in_91_to_92_07",
+  "id": "in_91_to_92_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"92",
-    "id":"018091092007",
-    "member":{
-        "91":{
-            "11036":{
-                "district":"7",
-                "name":"Myers, John T.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11036":{
-                "district":"7",
-                "name":"Myers, John T.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Indiana"
+    "district":7,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"in"
 },
   "bbox": [
     -87.65875,

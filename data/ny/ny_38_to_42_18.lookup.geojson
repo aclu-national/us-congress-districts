@@ -2,48 +2,12 @@
   "id": "ny_38_to_42_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"42",
-    "id":"036038042018",
-    "member":{
-        "38":{
-            "6048":{
-                "district":"18",
-                "name":"Marvin, James Madison",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "6048":{
-                "district":"18",
-                "name":"Marvin, James Madison",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "6048":{
-                "district":"18",
-                "name":"Marvin, James Madison",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "8213":{
-                "district":"18",
-                "name":"Sanford, Stephen",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "1541":{
-                "district":"18",
-                "name":"Carroll, John Michael",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":18,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -74.86771,

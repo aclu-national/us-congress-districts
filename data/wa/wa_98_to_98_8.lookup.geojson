@@ -1,21 +1,13 @@
 {
-  "id": "wa_98_to_98_08",
+  "id": "wa_98_to_98_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"98",
-    "id":"053098098008",
-    "member":{
-        "98":{
-            "15016":{
-                "district":"8",
-                "name":"Chandler, Rod",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Washington"
+    "district":8,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"wa"
 },
   "bbox": [
     -122.52813,

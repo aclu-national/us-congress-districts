@@ -1,21 +1,13 @@
 {
-  "id": "ga_104_to_104_07",
+  "id": "ga_104_to_104_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"104",
-    "id":"013104104007",
-    "member":{
-        "104":{
-            "29511":{
-                "district":"7",
-                "name":"Barr, Bob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"ga"
 },
   "bbox": [
     -85.5273,

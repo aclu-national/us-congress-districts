@@ -2,48 +2,12 @@
   "id": "oh_83_to_87_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"87",
-    "id":"039083087019",
-    "member":{
-        "83":{
-            "5301":{
-                "district":"19",
-                "name":"Kirwan, Michael Joseph",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5301":{
-                "district":"19",
-                "name":"Kirwan, Michael Joseph",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5301":{
-                "district":"19",
-                "name":"Kirwan, Michael Joseph",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5301":{
-                "district":"19",
-                "name":"Kirwan, Michael Joseph",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "5301":{
-                "district":"19",
-                "name":"Kirwan, Michael Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Ohio"
+    "district":19,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"oh"
 },
   "bbox": [
     -81.08692,

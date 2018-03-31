@@ -1,21 +1,13 @@
 {
-  "id": "tx_108_to_108_01",
+  "id": "tx_108_to_108_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"108",
-    "id":"048108108001",
-    "member":{
-        "108":{
-            "29757":{
-                "district":"1",
-                "name":"Sandlin, Max",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tx"
 },
   "bbox": [
     -96.29727,

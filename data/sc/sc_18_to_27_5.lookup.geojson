@@ -1,89 +1,13 @@
 {
-  "id": "sc_18_to_27_05",
+  "id": "sc_18_to_27_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"27",
-    "id":"045018027005",
-    "member":{
-        "18":{
-            "6232":{
-                "district":"5",
-                "name":"McDuffie, George",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "6232":{
-                "district":"5",
-                "name":"McDuffie, George",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "6232":{
-                "district":"5",
-                "name":"McDuffie, George",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "6232":{
-                "district":"5",
-                "name":"McDuffie, George",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "6232":{
-                "district":"5",
-                "name":"McDuffie, George",
-                "party":"Nullifier"
-            }
-        },
-        "23":{
-            "6232":{
-                "district":"5",
-                "name":"McDuffie, George",
-                "party":"Nullifier"
-            },
-            "7426":{
-                "district":"5",
-                "name":"Pickens, Francis Wilkinson",
-                "party":"Nullifier"
-            }
-        },
-        "24":{
-            "7426":{
-                "district":"5",
-                "name":"Pickens, Francis Wilkinson",
-                "party":"Nullifier"
-            }
-        },
-        "25":{
-            "7426":{
-                "district":"5",
-                "name":"Pickens, Francis Wilkinson",
-                "party":"Nullifier"
-            }
-        },
-        "26":{
-            "7426":{
-                "district":"5",
-                "name":"Pickens, Francis Wilkinson",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "7426":{
-                "district":"5",
-                "name":"Pickens, Francis Wilkinson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"South Carolina"
+    "district":5,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"sc"
 },
   "bbox": [
     -82.74096,

@@ -2,48 +2,12 @@
   "id": "pa_98_to_102_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"102",
-    "id":"042098102021",
-    "member":{
-        "100":{
-            "15056":{
-                "district":"21",
-                "name":"Ridge, Thomas J.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15056":{
-                "district":"21",
-                "name":"Ridge, Thomas J.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15056":{
-                "district":"21",
-                "name":"Ridge, Thomas J.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "15056":{
-                "district":"21",
-                "name":"Ridge, Thomas J.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15056":{
-                "district":"21",
-                "name":"Ridge, Thomas J.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Pennsylvania"
+    "district":21,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"pa"
 },
   "bbox": [
     -80.51971,

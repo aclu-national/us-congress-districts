@@ -2,48 +2,12 @@
   "id": "oh_58_to_62_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"62",
-    "id":"039058062012",
-    "member":{
-        "58":{
-            "329":{
-                "district":"12",
-                "name":"Badger, De Witt Clinton",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "9204":{
-                "district":"12",
-                "name":"Taylor, Edward Livingston",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "9204":{
-                "district":"12",
-                "name":"Taylor, Edward Livingston",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "9204":{
-                "district":"12",
-                "name":"Taylor, Edward Livingston",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "9204":{
-                "district":"12",
-                "name":"Taylor, Edward Livingston",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"oh"
 },
   "bbox": [
     -83.26068,

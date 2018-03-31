@@ -1,63 +1,13 @@
 {
-  "id": "ky_56_to_62_04",
+  "id": "ky_56_to_62_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"62",
-    "id":"021056062004",
-    "member":{
-        "56":{
-            "8609":{
-                "district":"4",
-                "name":"Smith, David Highbaugh",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "8609":{
-                "district":"4",
-                "name":"Smith, David Highbaugh",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "8609":{
-                "district":"4",
-                "name":"Smith, David Highbaugh",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "8609":{
-                "district":"4",
-                "name":"Smith, David Highbaugh",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "4942":{
-                "district":"4",
-                "name":"Johnson, Ben",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "4942":{
-                "district":"4",
-                "name":"Johnson, Ben",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "4942":{
-                "district":"4",
-                "name":"Johnson, Ben",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Kentucky"
+    "district":4,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"ky"
 },
   "bbox": [
     -87.13768,

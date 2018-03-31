@@ -2,34 +2,12 @@
   "id": "oh_43_to_45_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"45",
-    "id":"039043045013",
-    "member":{
-        "43":{
-            "8751":{
-                "district":"13",
-                "name":"Southard, Milton Isaiah",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "8751":{
-                "district":"13",
-                "name":"Southard, Milton Isaiah",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "8751":{
-                "district":"13",
-                "name":"Southard, Milton Isaiah",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Ohio"
+    "district":13,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"oh"
 },
   "bbox": [
     -82.78249,

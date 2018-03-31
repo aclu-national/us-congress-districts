@@ -1,28 +1,13 @@
 {
-  "id": "oh_88_to_89_02",
+  "id": "oh_88_to_89_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"89",
-    "id":"039088089002",
-    "member":{
-        "88":{
-            "10510":{
-                "district":"2",
-                "name":"Clancy, Donald D.",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10510":{
-                "district":"2",
-                "name":"Clancy, Donald D.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

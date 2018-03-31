@@ -2,27 +2,12 @@
   "id": "il_81_to_82_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"82",
-    "id":"017081082010",
-    "member":{
-        "81":{
-            "4493":{
-                "district":"10",
-                "name":"Hoffman, Richard William",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4493":{
-                "district":"10",
-                "name":"Hoffman, Richard William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"81",
-    "statename":"Illinois"
+    "district":10,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1949-01-03",
+    "start_session":81,
+    "state":"il"
 },
   "bbox": [
     -87.92046,

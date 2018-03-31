@@ -1,19 +1,13 @@
 {
-  "id": "va_113_to_115_09",
+  "id": "va_113_to_115_9",
   "type": "Feature",
   "properties": {
-    "ALAND":23604940765,
-    "AWATER":154764241,
-    "CD113FP":"09",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5109",
-    "INTPTLAT":"+36.9828146",
-    "INTPTLON":"-081.3524574",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 9",
-    "STATEFP":"51"
+    "district":9,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"va"
 },
   "bbox": [
     -83.675395,

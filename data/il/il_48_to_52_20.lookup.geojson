@@ -2,48 +2,12 @@
   "id": "il_48_to_52_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"52",
-    "id":"017048052020",
-    "member":{
-        "48":{
-            "9302":{
-                "district":"20",
-                "name":"Thomas, John Robert",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "9302":{
-                "district":"20",
-                "name":"Thomas, John Robert",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "9302":{
-                "district":"20",
-                "name":"Thomas, John Robert",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "8624":{
-                "district":"20",
-                "name":"Smith, George Washington",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "8624":{
-                "district":"20",
-                "name":"Smith, George Washington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":20,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -90.20669,

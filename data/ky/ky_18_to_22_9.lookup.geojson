@@ -1,49 +1,13 @@
 {
-  "id": "ky_18_to_22_09",
+  "id": "ky_18_to_22_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"22",
-    "id":"021018022009",
-    "member":{
-        "18":{
-            "10088":{
-                "district":"9",
-                "name":"Wickliffe, Charles Anders",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "10088":{
-                "district":"9",
-                "name":"Wickliffe, Charles Anders",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "10088":{
-                "district":"9",
-                "name":"Wickliffe, Charles Anders",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "10088":{
-                "district":"9",
-                "name":"Wickliffe, Charles Anders",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "10088":{
-                "district":"9",
-                "name":"Wickliffe, Charles Anders",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Kentucky"
+    "district":9,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ky"
 },
   "bbox": [
     -85.94854,

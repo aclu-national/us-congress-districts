@@ -1,49 +1,13 @@
 {
-  "id": "sc_8_to_12_02",
+  "id": "sc_8_to_12_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"12",
-    "id":"045008012002",
-    "member":{
-        "10":{
-            "1354":{
-                "district":"2",
-                "name":"Butler, William",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "1354":{
-                "district":"2",
-                "name":"Butler, William",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "1354":{
-                "district":"2",
-                "name":"Butler, William",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "1354":{
-                "district":"2",
-                "name":"Butler, William",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "1354":{
-                "district":"2",
-                "name":"Butler, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"South Carolina"
+    "district":2,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"sc"
 },
   "bbox": [
     -82.35722,

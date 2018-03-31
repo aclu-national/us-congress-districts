@@ -2,18 +2,12 @@
   "id": "ny_113_to_115_22",
   "type": "Feature",
   "properties": {
-    "ALAND":13150604154,
-    "AWATER":386934603,
-    "CD113FP":"22",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3622",
-    "INTPTLAT":"+42.8707006",
-    "INTPTLON":"-075.6626639",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 22",
-    "STATEFP":"36"
+    "district":22,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ny"
 },
   "bbox": [
     -76.47303,

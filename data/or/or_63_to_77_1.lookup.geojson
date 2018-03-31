@@ -1,119 +1,13 @@
 {
-  "id": "or_63_to_77_01",
+  "id": "or_63_to_77_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"77",
-    "id":"041063077001",
-    "member":{
-        "63":{
-            "4222":{
-                "district":"1",
-                "name":"Hawley, Willis Chatman",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "4222":{
-                "district":"1",
-                "name":"Hawley, Willis Chatman",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "4222":{
-                "district":"1",
-                "name":"Hawley, Willis Chatman",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "4222":{
-                "district":"1",
-                "name":"Hawley, Willis Chatman",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "4222":{
-                "district":"1",
-                "name":"Hawley, Willis Chatman",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "4222":{
-                "district":"1",
-                "name":"Hawley, Willis Chatman",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "4222":{
-                "district":"1",
-                "name":"Hawley, Willis Chatman",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4222":{
-                "district":"1",
-                "name":"Hawley, Willis Chatman",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4222":{
-                "district":"1",
-                "name":"Hawley, Willis Chatman",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4222":{
-                "district":"1",
-                "name":"Hawley, Willis Chatman",
-                "party":"Republican"
-            }
-        },
-        "73":{
-            "6761":{
-                "district":"1",
-                "name":"Mott, James Wheaton",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "6761":{
-                "district":"1",
-                "name":"Mott, James Wheaton",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "6761":{
-                "district":"1",
-                "name":"Mott, James Wheaton",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "6761":{
-                "district":"1",
-                "name":"Mott, James Wheaton",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "6761":{
-                "district":"1",
-                "name":"Mott, James Wheaton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Oregon"
+    "district":1,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"or"
 },
   "bbox": [
     -124.60679,

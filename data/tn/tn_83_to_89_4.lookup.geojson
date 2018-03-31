@@ -1,63 +1,13 @@
 {
-  "id": "tn_83_to_89_04",
+  "id": "tn_83_to_89_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"89",
-    "id":"047083089004",
-    "member":{
-        "83":{
-            "3034":{
-                "district":"4",
-                "name":"Evins, Joseph Landon",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "3034":{
-                "district":"4",
-                "name":"Evins, Joseph Landon",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "3034":{
-                "district":"4",
-                "name":"Evins, Joseph Landon",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "3034":{
-                "district":"4",
-                "name":"Evins, Joseph Landon",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "3034":{
-                "district":"4",
-                "name":"Evins, Joseph Landon",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "3034":{
-                "district":"4",
-                "name":"Evins, Joseph Landon",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "3034":{
-                "district":"4",
-                "name":"Evins, Joseph Landon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tn"
 },
   "bbox": [
     -86.9608,

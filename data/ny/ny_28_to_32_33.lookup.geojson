@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"32",
-    "id":"036028032033",
-    "member":{
-        "28":{
-            "8600":{
-                "district":"33",
-                "name":"Smith, Albert",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "8600":{
-                "district":"33",
-                "name":"Smith, Albert",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "7661":{
-                "district":"33",
-                "name":"Putnam, Harvey",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "7661":{
-                "district":"33",
-                "name":"Putnam, Harvey",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "4170":{
-                "district":"33",
-                "name":"Hascall, Augustus Porter",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":33,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -78.48814,

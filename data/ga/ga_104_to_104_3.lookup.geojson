@@ -1,21 +1,13 @@
 {
-  "id": "ga_104_to_104_03",
+  "id": "ga_104_to_104_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"104",
-    "id":"013104104003",
-    "member":{
-        "104":{
-            "29340":{
-                "district":"3",
-                "name":"Collins, Mac",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Georgia"
+    "district":3,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"ga"
 },
   "bbox": [
     -85.18497,

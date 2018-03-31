@@ -2,67 +2,12 @@
   "id": "tx_66_to_72_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"72",
-    "id":"048066072013",
-    "member":{
-        "66":{
-            "7215":{
-                "district":"13",
-                "name":"Parrish, Lucian Walton",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "10146":{
-                "district":"13",
-                "name":"Williams, Guinn",
-                "party":"Democrat"
-            },
-            "7215":{
-                "district":"13",
-                "name":"Parrish, Lucian Walton",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "10146":{
-                "district":"13",
-                "name":"Williams, Guinn",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "10146":{
-                "district":"13",
-                "name":"Williams, Guinn",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "10146":{
-                "district":"13",
-                "name":"Williams, Guinn",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "10146":{
-                "district":"13",
-                "name":"Williams, Guinn",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "10146":{
-                "district":"13",
-                "name":"Williams, Guinn",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":13,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -99.4758,

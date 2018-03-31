@@ -2,20 +2,12 @@
   "id": "ny_91_to_91_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"91",
-    "id":"036091091029",
-    "member":{
-        "91":{
-            "11009":{
-                "district":"29",
-                "name":"Button, Daniel E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ny"
 },
   "bbox": [
     -74.30667,

@@ -1,42 +1,13 @@
 {
-  "id": "al_49_to_52_05",
+  "id": "al_49_to_52_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"52",
-    "id":"001049052005",
-    "member":{
-        "49":{
-            "8171":{
-                "district":"5",
-                "name":"Sadler, Thomas William",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "1869":{
-                "district":"5",
-                "name":"Cobb, James Edward",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "1869":{
-                "district":"5",
-                "name":"Cobb, James Edward",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "1869":{
-                "district":"5",
-                "name":"Cobb, James Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Alabama"
+    "district":5,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"al"
 },
   "bbox": [
     -87.42199,

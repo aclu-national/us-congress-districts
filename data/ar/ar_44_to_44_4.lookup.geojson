@@ -1,21 +1,13 @@
 {
-  "id": "ar_44_to_44_04",
+  "id": "ar_44_to_44_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"44",
-    "id":"005044044004",
-    "member":{
-        "44":{
-            "3879":{
-                "district":"4",
-                "name":"Gunter, Thomas Montague",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Arkansas"
+    "district":4,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ar"
 },
   "bbox": [
     -94.61792,

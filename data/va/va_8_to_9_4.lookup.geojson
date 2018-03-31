@@ -1,28 +1,13 @@
 {
-  "id": "va_8_to_9_04",
+  "id": "va_8_to_9_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"9",
-    "id":"051008009004",
-    "member":{
-        "8":{
-            "4532":{
-                "district":"4",
-                "name":"Holmes, David",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "4532":{
-                "district":"4",
-                "name":"Holmes, David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1807-03-03",
+    "end_session":9,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"va"
 },
   "bbox": [
     -80.26636,

@@ -1,35 +1,13 @@
 {
-  "id": "pa_30_to_32_08",
+  "id": "pa_30_to_32_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"32",
-    "id":"042030032008",
-    "member":{
-        "30":{
-            "9027":{
-                "district":"8",
-                "name":"Strohm, John",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "8917":{
-                "district":"8",
-                "name":"Stevens, Thaddeus",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "8917":{
-                "district":"8",
-                "name":"Stevens, Thaddeus",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

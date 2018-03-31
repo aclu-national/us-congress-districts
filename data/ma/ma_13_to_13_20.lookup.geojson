@@ -2,20 +2,12 @@
   "id": "ma_13_to_13_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"13",
-    "id":"025013013020",
-    "member":{
-        "13":{
-            "4671":{
-                "district":"20",
-                "name":"Hubbard, Levi",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Massachusetts"
+    "district":20,
+    "end_date":"1815-03-03",
+    "end_session":13,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ma"
 },
   "bbox": [
     -71.08433,

@@ -2,20 +2,12 @@
   "id": "tx_93_to_93_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"93",
-    "id":"048093093010",
-    "member":{
-        "93":{
-            "10614":{
-                "district":"10",
-                "name":"Pickle, J. J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Texas"
+    "district":10,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tx"
 },
   "bbox": [
     -98.59167,

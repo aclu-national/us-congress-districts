@@ -2,39 +2,12 @@
   "id": "va_10_to_12_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"12",
-    "id":"051010012021",
-    "member":{
-        "10":{
-            "6913":{
-                "district":"21",
-                "name":"Nicholas, Wilson Cary",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "3476":{
-                "district":"21",
-                "name":"Garland, David Shepherd",
-                "party":"Republican"
-            },
-            "6913":{
-                "district":"21",
-                "name":"Nicholas, Wilson Cary",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "6865":{
-                "district":"21",
-                "name":"Nelson, Hugh",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"10",
-    "statename":"Virginia"
+    "district":21,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1807-10-26",
+    "start_session":10,
+    "state":"va"
 },
   "bbox": [
     -79.43704,

@@ -1,49 +1,13 @@
 {
-  "id": "me_33_to_37_06",
+  "id": "me_33_to_37_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"37",
-    "id":"023033037006",
-    "member":{
-        "33":{
-            "3399":{
-                "district":"6",
-                "name":"Fuller, Thomas James Duncan",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "3399":{
-                "district":"6",
-                "name":"Fuller, Thomas James Duncan",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "3314":{
-                "district":"6",
-                "name":"Foster, Stephen Clark",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "3314":{
-                "district":"6",
-                "name":"Foster, Stephen Clark",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "7448":{
-                "district":"6",
-                "name":"Pike, Frederick Augustus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Maine"
+    "district":6,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"me"
 },
   "bbox": [
     -70.02323,

@@ -1,28 +1,13 @@
 {
-  "id": "oh_88_to_89_08",
+  "id": "oh_88_to_89_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"89",
-    "id":"039088089008",
-    "member":{
-        "88":{
-            "680":{
-                "district":"8",
-                "name":"Betts, Jackson Edward",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "680":{
-                "district":"8",
-                "name":"Betts, Jackson Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Ohio"
+    "district":8,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"oh"
 },
   "bbox": [
     -83.88111,

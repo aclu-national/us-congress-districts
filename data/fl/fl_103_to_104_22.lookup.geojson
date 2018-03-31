@@ -2,27 +2,12 @@
   "id": "fl_103_to_104_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"104",
-    "id":"012103104022",
-    "member":{
-        "103":{
-            "14860":{
-                "district":"22",
-                "name":"Shaw, Clay",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14860":{
-                "district":"22",
-                "name":"Shaw, Clay",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Florida"
+    "district":22,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"fl"
 },
   "bbox": [
     -80.2061,

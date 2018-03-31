@@ -2,53 +2,12 @@
   "id": "ny_28_to_32_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"32",
-    "id":"036028032012",
-    "member":{
-        "28":{
-            "8382":{
-                "district":"12",
-                "name":"Seymour, David Lowrey",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4365":{
-                "district":"12",
-                "name":"Herrick, Richard Platt",
-                "party":"Whig"
-            },
-            "7914":{
-                "district":"12",
-                "name":"Ripley, Thomas C.",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "7830":{
-                "district":"12",
-                "name":"Reynolds, Gideon",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "7830":{
-                "district":"12",
-                "name":"Reynolds, Gideon",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "8382":{
-                "district":"12",
-                "name":"Seymour, David Lowrey",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -73.78616,

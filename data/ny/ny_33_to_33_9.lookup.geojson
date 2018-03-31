@@ -1,21 +1,13 @@
 {
-  "id": "ny_33_to_33_09",
+  "id": "ny_33_to_33_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"33",
-    "id":"036033033009",
-    "member":{
-        "33":{
-            "7295":{
-                "district":"9",
-                "name":"Peck, Jared Valentine",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":9,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -74.23447,

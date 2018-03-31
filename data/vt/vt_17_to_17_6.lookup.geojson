@@ -1,21 +1,13 @@
 {
-  "id": "vt_17_to_17_06",
+  "id": "vt_17_to_17_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"17",
-    "id":"050017017006",
-    "member":{
-        "17":{
-            "6088":{
-                "district":"6",
-                "name":"Mattocks, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Vermont"
+    "district":6,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"vt"
 },
   "bbox": [
     -72.81338,

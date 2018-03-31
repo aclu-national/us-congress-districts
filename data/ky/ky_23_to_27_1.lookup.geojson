@@ -1,49 +1,13 @@
 {
-  "id": "ky_23_to_27_01",
+  "id": "ky_23_to_27_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"27",
-    "id":"021023027001",
-    "member":{
-        "23":{
-            "5863":{
-                "district":"1",
-                "name":"Lyon, Chittenden",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "931":{
-                "district":"1",
-                "name":"Boyd, Linn",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "6822":{
-                "district":"1",
-                "name":"Murray, John L.",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "931":{
-                "district":"1",
-                "name":"Boyd, Linn",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "931":{
-                "district":"1",
-                "name":"Boyd, Linn",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Kentucky"
+    "district":1,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ky"
 },
   "bbox": [
     -89.57151,

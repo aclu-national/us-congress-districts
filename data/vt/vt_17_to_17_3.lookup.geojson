@@ -1,21 +1,13 @@
 {
-  "id": "vt_17_to_17_03",
+  "id": "vt_17_to_17_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"17",
-    "id":"050017017003",
-    "member":{
-        "17":{
-            "7862":{
-                "district":"3",
-                "name":"Rich, Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Vermont"
+    "district":3,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"vt"
 },
   "bbox": [
     -73.43774,

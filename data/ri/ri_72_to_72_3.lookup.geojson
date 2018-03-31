@@ -1,21 +1,13 @@
 {
-  "id": "ri_72_to_72_03",
+  "id": "ri_72_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"044072072003",
-    "member":{
-        "72":{
-            "1976":{
-                "district":"3",
-                "name":"Condon, Francis Bernard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"72",
-    "statename":"Rhode Island"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1931-12-07",
+    "start_session":72,
+    "state":"ri"
 },
   "bbox": [
     -71.79924,

@@ -2,27 +2,12 @@
   "id": "ny_9_to_10_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"10",
-    "id":"036009010017",
-    "member":{
-        "10":{
-            "4106":{
-                "district":"17",
-                "name":"Harris, John",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "3972":{
-                "district":"17",
-                "name":"Halsey, Silas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"9",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1809-03-03",
+    "end_session":10,
+    "start_date":"1805-12-02",
+    "start_session":9,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

@@ -1,49 +1,13 @@
 {
-  "id": "ma_48_to_52_04",
+  "id": "ma_48_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"025048052004",
-    "member":{
-        "48":{
-            "1948":{
-                "district":"4",
-                "name":"Collins, Patrick Andrew",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "1948":{
-                "district":"4",
-                "name":"Collins, Patrick Andrew",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "1948":{
-                "district":"4",
-                "name":"Collins, Patrick Andrew",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "7075":{
-                "district":"4",
-                "name":"O'Neil, Joseph H.",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "7075":{
-                "district":"4",
-                "name":"O'Neil, Joseph H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ma"
 },
   "bbox": [
     -71.0734,

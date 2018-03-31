@@ -1,40 +1,13 @@
 {
-  "id": "ky_90_to_92_06",
+  "id": "ky_90_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"021090092006",
-    "member":{
-        "90":{
-            "9882":{
-                "district":"6",
-                "name":"Watts, John Clarence",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "9882":{
-                "district":"6",
-                "name":"Watts, John Clarence",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "13051":{
-                "district":"6",
-                "name":"Curlin, William",
-                "party":"Democrat"
-            },
-            "9882":{
-                "district":"6",
-                "name":"Watts, John Clarence",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"ky"
 },
   "bbox": [
     -85.46746,

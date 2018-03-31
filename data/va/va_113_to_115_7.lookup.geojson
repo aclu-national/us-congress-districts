@@ -1,19 +1,13 @@
 {
-  "id": "va_113_to_115_07",
+  "id": "va_113_to_115_7",
   "type": "Feature",
   "properties": {
-    "ALAND":7190859822,
-    "AWATER":170942497,
-    "CD113FP":"07",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5107",
-    "INTPTLAT":"+37.9680399",
-    "INTPTLON":"-077.7465299",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 7",
-    "STATEFP":"51"
+    "district":7,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"va"
 },
   "bbox": [
     -78.369797,

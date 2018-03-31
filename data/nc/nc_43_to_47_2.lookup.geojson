@@ -1,49 +1,13 @@
 {
-  "id": "nc_43_to_47_02",
+  "id": "nc_43_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"037043047002",
-    "member":{
-        "43":{
-            "9286":{
-                "district":"2",
-                "name":"Thomas, Charles Randolph",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "4788":{
-                "district":"2",
-                "name":"Hyman, John Adams",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "1062":{
-                "district":"2",
-                "name":"Brogden, Curtis Hooks",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "5308":{
-                "district":"2",
-                "name":"Kitchin, William Hodges",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "4680":{
-                "district":"2",
-                "name":"Hubbs, Orlando",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"North Carolina"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"nc"
 },
   "bbox": [
     -78.41844,

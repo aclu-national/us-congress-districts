@@ -1,49 +1,13 @@
 {
-  "id": "ms_108_to_112_03",
+  "id": "ms_108_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"028108112003",
-    "member":{
-        "108":{
-            "29734":{
-                "district":"3",
-                "name":"Pickering, Charles W. \"Chip\"",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29734":{
-                "district":"3",
-                "name":"Pickering, Charles W. \"Chip\"",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29734":{
-                "district":"3",
-                "name":"Pickering, Charles W. \"Chip\"",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20925":{
-                "district":"3",
-                "name":"Harper, Gregg",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20925":{
-                "district":"3",
-                "name":"Harper, Gregg",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Mississippi"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ms"
 },
   "bbox": [
     -91.65501,

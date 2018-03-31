@@ -2,48 +2,12 @@
   "id": "fl_98_to_102_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"102",
-    "id":"012098102014",
-    "member":{
-        "100":{
-            "14648":{
-                "district":"14",
-                "name":"Mica, Daniel Andrew",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15609":{
-                "district":"14",
-                "name":"Johnston, Harry A., II",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15609":{
-                "district":"14",
-                "name":"Johnston, Harry A., II",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14648":{
-                "district":"14",
-                "name":"Mica, Daniel Andrew",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14648":{
-                "district":"14",
-                "name":"Mica, Daniel Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Florida"
+    "district":14,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"fl"
 },
   "bbox": [
     -80.36402,

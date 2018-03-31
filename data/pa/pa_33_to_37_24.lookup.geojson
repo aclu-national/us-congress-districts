@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"37",
-    "id":"042033037024",
-    "member":{
-        "33":{
-            "2268":{
-                "district":"24",
-                "name":"Curtis, Carlton Brandaga",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "428":{
-                "district":"24",
-                "name":"Barclay, David",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "3606":{
-                "district":"24",
-                "name":"Gillis, James Lisle",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "3934":{
-                "district":"24",
-                "name":"Hall, Chapin",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "7262":{
-                "district":"24",
-                "name":"Patton, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":24,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -79.99978,

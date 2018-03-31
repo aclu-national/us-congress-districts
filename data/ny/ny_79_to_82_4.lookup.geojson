@@ -1,42 +1,13 @@
 {
-  "id": "ny_79_to_82_04",
+  "id": "ny_79_to_82_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"82",
-    "id":"036079082004",
-    "member":{
-        "79":{
-            "477":{
-                "district":"4",
-                "name":"Barry, William Bernard",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "6345":{
-                "district":"4",
-                "name":"McMahon, Gregory",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "1829":{
-                "district":"4",
-                "name":"Clemente, Louis Gary",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1829":{
-                "district":"4",
-                "name":"Clemente, Louis Gary",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -73.93978,

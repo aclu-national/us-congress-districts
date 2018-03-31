@@ -1,49 +1,13 @@
 {
-  "id": "nc_43_to_47_06",
+  "id": "nc_43_to_47_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"47",
-    "id":"037043047006",
-    "member":{
-        "43":{
-            "261":{
-                "district":"6",
-                "name":"Ashe, Thomas Samuel",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "261":{
-                "district":"6",
-                "name":"Ashe, Thomas Samuel",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "8874":{
-                "district":"6",
-                "name":"Steele, Walter Leak",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "8874":{
-                "district":"6",
-                "name":"Steele, Walter Leak",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "2697":{
-                "district":"6",
-                "name":"Dowd, Clement",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"nc"
 },
   "bbox": [
     -81.53762,

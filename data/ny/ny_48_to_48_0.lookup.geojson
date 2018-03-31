@@ -1,21 +1,13 @@
 {
-  "id": "ny_48_to_48_00",
+  "id": "ny_48_to_48_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"48",
-    "id":"036048048000",
-    "member":{
-        "48":{
-            "8584":{
-                "district":"99",
-                "name":"Slocum, Henry Warner",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":0,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

@@ -1,89 +1,13 @@
 {
-  "id": "va_63_to_72_01",
+  "id": "va_63_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"051063072001",
-    "member":{
-        "63":{
-            "5067":{
-                "district":"1",
-                "name":"Jones, William Atkinson",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "5067":{
-                "district":"1",
-                "name":"Jones, William Atkinson",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "5067":{
-                "district":"1",
-                "name":"Jones, William Atkinson",
-                "party":"Democrat"
-            },
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"va"
 },
   "bbox": [
     -77.95482,

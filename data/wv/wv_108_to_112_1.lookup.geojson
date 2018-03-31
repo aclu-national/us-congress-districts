@@ -1,49 +1,13 @@
 {
-  "id": "wv_108_to_112_01",
+  "id": "wv_108_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"054108112001",
-    "member":{
-        "108":{
-            "15083":{
-                "district":"1",
-                "name":"Mollohan, Alan B.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15083":{
-                "district":"1",
-                "name":"Mollohan, Alan B.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "15083":{
-                "district":"1",
-                "name":"Mollohan, Alan B.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "15083":{
-                "district":"1",
-                "name":"Mollohan, Alan B.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21188":{
-                "district":"1",
-                "name":"McKinley, David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"West Virginia"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"wv"
 },
   "bbox": [
     -81.75625,

@@ -1,33 +1,13 @@
 {
-  "id": "al_63_to_64_03",
+  "id": "al_63_to_64_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"64",
-    "id":"001063064003",
-    "member":{
-        "63":{
-            "1821":{
-                "district":"3",
-                "name":"Clayton, Henry De Lamar",
-                "party":"Democrat"
-            },
-            "6788":{
-                "district":"3",
-                "name":"Mulkey, William Oscar",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "8858":{
-                "district":"3",
-                "name":"Steagall, Henry Bascom",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Alabama"
+    "district":3,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"al"
 },
   "bbox": [
     -86.19636,

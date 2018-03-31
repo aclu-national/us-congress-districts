@@ -1,49 +1,13 @@
 {
-  "id": "ky_43_to_47_06",
+  "id": "ky_43_to_47_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"47",
-    "id":"021043047006",
-    "member":{
-        "43":{
-            "256":{
-                "district":"6",
-                "name":"Arthur, William Evans",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "5063":{
-                "district":"6",
-                "name":"Jones, Thomas Laurens",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "1509":{
-                "district":"6",
-                "name":"Carlisle, John Griffin",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "1509":{
-                "district":"6",
-                "name":"Carlisle, John Griffin",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "1509":{
-                "district":"6",
-                "name":"Carlisle, John Griffin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ky"
 },
   "bbox": [
     -85.45698,

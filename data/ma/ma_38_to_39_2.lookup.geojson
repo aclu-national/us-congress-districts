@@ -1,28 +1,13 @@
 {
-  "id": "ma_38_to_39_02",
+  "id": "ma_38_to_39_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"39",
-    "id":"025038039002",
-    "member":{
-        "38":{
-            "155":{
-                "district":"2",
-                "name":"Ames, Oakes",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "155":{
-                "district":"2",
-                "name":"Ames, Oakes",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1867-03-03",
+    "end_session":39,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ma"
 },
   "bbox": [
     -71.3817,

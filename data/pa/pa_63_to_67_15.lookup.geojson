@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"67",
-    "id":"042063067015",
-    "member":{
-        "63":{
-            "5233":{
-                "district":"15",
-                "name":"Kiess, Edgar Raymond",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "5233":{
-                "district":"15",
-                "name":"Kiess, Edgar Raymond",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "5233":{
-                "district":"15",
-                "name":"Kiess, Edgar Raymond",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "5233":{
-                "district":"15",
-                "name":"Kiess, Edgar Raymond",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5233":{
-                "district":"15",
-                "name":"Kiess, Edgar Raymond",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -78.2066,

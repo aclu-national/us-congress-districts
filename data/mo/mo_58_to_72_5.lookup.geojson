@@ -1,119 +1,13 @@
 {
-  "id": "mo_58_to_72_05",
+  "id": "mo_58_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"029058072005",
-    "member":{
-        "58":{
-            "2106":{
-                "district":"5",
-                "name":"Cowherd, William Strother",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "2922":{
-                "district":"5",
-                "name":"Ellis, Edgar Clarence",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2922":{
-                "district":"5",
-                "name":"Ellis, Edgar Clarence",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "866":{
-                "district":"5",
-                "name":"Borland, William Patterson",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "866":{
-                "district":"5",
-                "name":"Borland, William Patterson",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "866":{
-                "district":"5",
-                "name":"Borland, William Patterson",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "866":{
-                "district":"5",
-                "name":"Borland, William Patterson",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "866":{
-                "district":"5",
-                "name":"Borland, William Patterson",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "787":{
-                "district":"5",
-                "name":"Bland, William Thomas",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "2922":{
-                "district":"5",
-                "name":"Ellis, Edgar Clarence",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "5078":{
-                "district":"5",
-                "name":"Jost, Henry Lee",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2922":{
-                "district":"5",
-                "name":"Ellis, Edgar Clarence",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "1959":{
-                "district":"5",
-                "name":"Combs, George Hamilton, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "2922":{
-                "district":"5",
-                "name":"Ellis, Edgar Clarence",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "8400":{
-                "district":"5",
-                "name":"Shannon, Joseph Bernard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Missouri"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"mo"
 },
   "bbox": [
     -94.60863,

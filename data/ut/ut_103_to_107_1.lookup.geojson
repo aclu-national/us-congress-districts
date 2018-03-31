@@ -1,49 +1,13 @@
 {
-  "id": "ut_103_to_107_01",
+  "id": "ut_103_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"049103107001",
-    "member":{
-        "103":{
-            "14829":{
-                "district":"1",
-                "name":"Hansen, James V.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14829":{
-                "district":"1",
-                "name":"Hansen, James V.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "14829":{
-                "district":"1",
-                "name":"Hansen, James V.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "14829":{
-                "district":"1",
-                "name":"Hansen, James V.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "14829":{
-                "district":"1",
-                "name":"Hansen, James V.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Utah"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ut"
 },
   "bbox": [
     -114.05296,

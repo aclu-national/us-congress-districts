@@ -1,35 +1,13 @@
 {
-  "id": "in_75_to_77_02",
+  "id": "in_75_to_77_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"77",
-    "id":"018075077002",
-    "member":{
-        "75":{
-            "3963":{
-                "district":"2",
-                "name":"Halleck, Charles Abraham",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "3963":{
-                "district":"2",
-                "name":"Halleck, Charles Abraham",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "3963":{
-                "district":"2",
-                "name":"Halleck, Charles Abraham",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"75",
-    "statename":"Indiana"
+    "district":2,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1937-01-05",
+    "start_session":75,
+    "state":"in"
 },
   "bbox": [
     -87.52672,

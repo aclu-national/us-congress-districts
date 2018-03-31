@@ -1,49 +1,13 @@
 {
-  "id": "tn_18_to_22_05",
+  "id": "tn_18_to_22_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"22",
-    "id":"047018022005",
-    "member":{
-        "18":{
-            "124":{
-                "district":"5",
-                "name":"Allen, Robert",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "124":{
-                "district":"5",
-                "name":"Allen, Robert",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "2528":{
-                "district":"5",
-                "name":"Desha, Robert",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2528":{
-                "district":"5",
-                "name":"Desha, Robert",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "3960":{
-                "district":"5",
-                "name":"Hall, William",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"tn"
 },
   "bbox": [
     -86.7548,

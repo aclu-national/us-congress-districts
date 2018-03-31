@@ -1,49 +1,13 @@
 {
-  "id": "fl_83_to_87_01",
+  "id": "fl_83_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"012083087001",
-    "member":{
-        "83":{
-            "1445":{
-                "district":"1",
-                "name":"Campbell, Courtney Warren",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "2143":{
-                "district":"1",
-                "name":"Cramer, William Cato",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "2143":{
-                "district":"1",
-                "name":"Cramer, William Cato",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "2143":{
-                "district":"1",
-                "name":"Cramer, William Cato",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "2143":{
-                "district":"1",
-                "name":"Cramer, William Cato",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Florida"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"fl"
 },
   "bbox": [
     -82.85238,

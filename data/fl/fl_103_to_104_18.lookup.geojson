@@ -2,27 +2,12 @@
   "id": "fl_103_to_104_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"104",
-    "id":"012103104018",
-    "member":{
-        "103":{
-            "15634":{
-                "district":"18",
-                "name":"Ros-lehtinen, Ileana",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15634":{
-                "district":"18",
-                "name":"Ros-lehtinen, Ileana",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Florida"
+    "district":18,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"fl"
 },
   "bbox": [
     -80.53471,

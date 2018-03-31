@@ -1,35 +1,13 @@
 {
-  "id": "ny_3_to_5_06",
+  "id": "ny_3_to_5_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"5",
-    "id":"036003005006",
-    "member":{
-        "3":{
-            "3573":{
-                "district":"6",
-                "name":"Gilbert, Ezekiel",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "3573":{
-                "district":"6",
-                "name":"Gilbert, Ezekiel",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "4593":{
-                "district":"6",
-                "name":"Hosmer, Hezekiah Lord",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1799-03-03",
+    "end_session":5,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ny"
 },
   "bbox": [
     -73.92963,

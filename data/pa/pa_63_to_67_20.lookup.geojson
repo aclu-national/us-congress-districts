@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"67",
-    "id":"042063067020",
-    "member":{
-        "63":{
-            "1055":{
-                "district":"20",
-                "name":"Brodbeck, Andrew R",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "544":{
-                "district":"20",
-                "name":"Beales, Cyrus William",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "1055":{
-                "district":"20",
-                "name":"Brodbeck, Andrew R",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "1073":{
-                "district":"20",
-                "name":"Brooks, Edward Schroeder",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "1073":{
-                "district":"20",
-                "name":"Brooks, Edward Schroeder",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":20,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -77.47162,

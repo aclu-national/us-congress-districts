@@ -1,47 +1,13 @@
 {
-  "id": "ca_49_to_52_01",
+  "id": "ca_49_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"006049052001",
-    "member":{
-        "49":{
-            "4324":{
-                "district":"1",
-                "name":"Henley, Barclay",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "9340":{
-                "district":"1",
-                "name":"Thompson, Thomas Larkin",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "2470":{
-                "district":"1",
-                "name":"De Haven, John Jefferson",
-                "party":"Republican"
-            },
-            "3520":{
-                "district":"1",
-                "name":"Geary, Thomas J.",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "3520":{
-                "district":"1",
-                "name":"Geary, Thomas J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"California"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ca"
 },
   "bbox": [
     -124.41501,

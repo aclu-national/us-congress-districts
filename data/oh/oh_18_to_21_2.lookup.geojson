@@ -1,42 +1,13 @@
 {
-  "id": "oh_18_to_21_02",
+  "id": "oh_18_to_21_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"21",
-    "id":"039018021002",
-    "member":{
-        "18":{
-            "8078":{
-                "district":"2",
-                "name":"Ross, Thomas Randolph",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "10355":{
-                "district":"2",
-                "name":"Woods, John",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "10355":{
-                "district":"2",
-                "name":"Woods, John",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "8469":{
-                "district":"2",
-                "name":"Shields, James",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

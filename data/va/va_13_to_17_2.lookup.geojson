@@ -1,54 +1,13 @@
 {
-  "id": "va_13_to_17_02",
+  "id": "va_13_to_17_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"17",
-    "id":"051013017002",
-    "member":{
-        "13":{
-            "10020":{
-                "district":"2",
-                "name":"White, Francis",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "9185":{
-                "district":"2",
-                "name":"Tate, Magnus",
-                "party":"Federalist"
-            }
-        },
-        "15":{
-            "1956":{
-                "district":"2",
-                "name":"Colston, Edward",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "9635":{
-                "district":"2",
-                "name":"Van Swearingen, Thomas",
-                "party":"Federalist"
-            }
-        },
-        "17":{
-            "8894":{
-                "district":"2",
-                "name":"Stephenson, James",
-                "party":"Federalist"
-            },
-            "9635":{
-                "district":"2",
-                "name":"Van Swearingen, Thomas",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":2,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -79.48717,

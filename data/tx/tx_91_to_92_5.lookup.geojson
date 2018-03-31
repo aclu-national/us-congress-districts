@@ -1,28 +1,13 @@
 {
-  "id": "tx_91_to_92_05",
+  "id": "tx_91_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"048091092005",
-    "member":{
-        "91":{
-            "10707":{
-                "district":"5",
-                "name":"Cabell, Earle",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10707":{
-                "district":"5",
-                "name":"Cabell, Earle",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Texas"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"tx"
 },
   "bbox": [
     -96.8192,

@@ -2,48 +2,12 @@
   "id": "nj_58_to_62_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"62",
-    "id":"034058062010",
-    "member":{
-        "58":{
-            "6212":{
-                "district":"10",
-                "name":"McDermott, Allan Langdon",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "6212":{
-                "district":"10",
-                "name":"McDermott, Allan Langdon",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "3980":{
-                "district":"10",
-                "name":"Hamill, James Alphonsus",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "3980":{
-                "district":"10",
-                "name":"Hamill, James Alphonsus",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "3980":{
-                "district":"10",
-                "name":"Hamill, James Alphonsus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New Jersey"
+    "district":10,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"nj"
 },
   "bbox": [
     -74.0763,

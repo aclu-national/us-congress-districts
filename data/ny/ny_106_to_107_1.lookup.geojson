@@ -1,33 +1,13 @@
 {
-  "id": "ny_106_to_107_01",
+  "id": "ny_106_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"036106107001",
-    "member":{
-        "106":{
-            "29542":{
-                "district":"1",
-                "name":"Forbes, Michael P.",
-                "party":"Republican"
-            },
-            "99542":{
-                "district":"1",
-                "name":"Forbes, Michael P.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "20128":{
-                "district":"1",
-                "name":"Grucci, Felix J. Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"106",
-    "statename":"New York"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1999-01-06",
+    "start_session":106,
+    "state":"ny"
 },
   "bbox": [
     -73.27959,

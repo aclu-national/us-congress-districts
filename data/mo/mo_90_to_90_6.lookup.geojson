@@ -1,21 +1,13 @@
 {
-  "id": "mo_90_to_90_06",
+  "id": "mo_90_to_90_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"90",
-    "id":"029090090006",
-    "member":{
-        "90":{
-            "4724":{
-                "district":"6",
-                "name":"Hull, William Raleigh, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Missouri"
+    "district":6,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"mo"
 },
   "bbox": [
     -95.7747,

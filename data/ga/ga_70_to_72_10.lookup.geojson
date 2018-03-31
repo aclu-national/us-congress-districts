@@ -2,34 +2,12 @@
   "id": "ga_70_to_72_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"72",
-    "id":"013070072010",
-    "member":{
-        "70":{
-            "9677":{
-                "district":"10",
-                "name":"Vinson, Carl",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "9677":{
-                "district":"10",
-                "name":"Vinson, Carl",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "9677":{
-                "district":"10",
-                "name":"Vinson, Carl",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Georgia"
+    "district":10,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ga"
 },
   "bbox": [
     -83.42903,

@@ -2,20 +2,12 @@
   "id": "ma_14_to_14_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"14",
-    "id":"025014014013",
-    "member":{
-        "14":{
-            "8110":{
-                "district":"13",
-                "name":"Ruggles, Nathaniel",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"14",
-    "statename":"Massachusetts"
+    "district":13,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1815-12-04",
+    "start_session":14,
+    "state":"ma"
 },
   "bbox": [
     -71.52741,

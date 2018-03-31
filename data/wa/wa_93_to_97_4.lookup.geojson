@@ -1,49 +1,13 @@
 {
-  "id": "wa_93_to_97_04",
+  "id": "wa_93_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"053093097004",
-    "member":{
-        "93":{
-            "13026":{
-                "district":"4",
-                "name":"McCormack, Mike",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "13026":{
-                "district":"4",
-                "name":"McCormack, Mike",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "13026":{
-                "district":"4",
-                "name":"McCormack, Mike",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "13026":{
-                "district":"4",
-                "name":"McCormack, Mike",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14847":{
-                "district":"4",
-                "name":"Morrison, Sid",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Washington"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"wa"
 },
   "bbox": [
     -122.77451,

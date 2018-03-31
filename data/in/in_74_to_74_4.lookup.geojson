@@ -1,21 +1,13 @@
 {
-  "id": "in_74_to_74_04",
+  "id": "in_74_to_74_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"74",
-    "id":"018074074004",
-    "member":{
-        "74":{
-            "3060":{
-                "district":"4",
-                "name":"Farley, James Indus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Indiana"
+    "district":4,
+    "end_date":"1936-06-20",
+    "end_session":74,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"in"
 },
   "bbox": [
     -85.6866,

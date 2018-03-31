@@ -1,42 +1,13 @@
 {
-  "id": "ky_52_to_55_05",
+  "id": "ky_52_to_55_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"55",
-    "id":"021052055005",
-    "member":{
-        "52":{
-            "1557":{
-                "district":"5",
-                "name":"Caruth, Asher Graham",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "1557":{
-                "district":"5",
-                "name":"Caruth, Asher Graham",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "3022":{
-                "district":"5",
-                "name":"Evans, Walter",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "3022":{
-                "district":"5",
-                "name":"Evans, Walter",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Kentucky"
+    "district":5,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"ky"
 },
   "bbox": [
     -85.94854,

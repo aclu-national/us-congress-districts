@@ -2,53 +2,12 @@
   "id": "pa_73_to_77_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"77",
-    "id":"042073077011",
-    "member":{
-        "73":{
-            "831":{
-                "district":"11",
-                "name":"Boland, Patrick Joseph",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "831":{
-                "district":"11",
-                "name":"Boland, Patrick Joseph",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "831":{
-                "district":"11",
-                "name":"Boland, Patrick Joseph",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "831":{
-                "district":"11",
-                "name":"Boland, Patrick Joseph",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "831":{
-                "district":"11",
-                "name":"Boland, Patrick Joseph",
-                "party":"Democrat"
-            },
-            "832":{
-                "district":"11",
-                "name":"Boland, Veronica Grace",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"pa"
 },
   "bbox": [
     -75.8347,

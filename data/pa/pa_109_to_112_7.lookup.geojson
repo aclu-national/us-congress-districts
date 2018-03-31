@@ -1,42 +1,13 @@
 {
-  "id": "pa_109_to_112_07",
+  "id": "pa_109_to_112_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"112",
-    "id":"042109112007",
-    "member":{
-        "109":{
-            "15447":{
-                "district":"7",
-                "name":"Weldon, Curt",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20744":{
-                "district":"7",
-                "name":"Sestak, Joe",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20744":{
-                "district":"7",
-                "name":"Sestak, Joe",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21168":{
-                "district":"7",
-                "name":"Meehan, Pat",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"pa"
 },
   "bbox": [
     -75.64156,

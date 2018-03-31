@@ -2,41 +2,12 @@
   "id": "ny_34_to_37_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"37",
-    "id":"036034037033",
-    "member":{
-        "34":{
-            "2864":{
-                "district":"33",
-                "name":"Edwards, Francis Smith",
-                "party":"American"
-            }
-        },
-        "35":{
-            "3107":{
-                "district":"33",
-                "name":"Fenton, Reuben Eaton",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "3107":{
-                "district":"33",
-                "name":"Fenton, Reuben Eaton",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "3107":{
-                "district":"33",
-                "name":"Fenton, Reuben Eaton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":33,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

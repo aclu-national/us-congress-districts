@@ -2,55 +2,12 @@
   "id": "ny_73_to_78_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"78",
-    "id":"036073078023",
-    "member":{
-        "73":{
-            "7059":{
-                "district":"23",
-                "name":"Oliver, Frank",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "1205":{
-                "district":"23",
-                "name":"Buckley, Charles Anthony",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "1205":{
-                "district":"23",
-                "name":"Buckley, Charles Anthony",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "1205":{
-                "district":"23",
-                "name":"Buckley, Charles Anthony",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "1205":{
-                "district":"23",
-                "name":"Buckley, Charles Anthony",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "1205":{
-                "district":"23",
-                "name":"Buckley, Charles Anthony",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -73.93341,

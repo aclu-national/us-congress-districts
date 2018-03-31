@@ -1,54 +1,13 @@
 {
-  "id": "il_43_to_47_05",
+  "id": "il_43_to_47_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"47",
-    "id":"017043047005",
-    "member":{
-        "43":{
-            "1246":{
-                "district":"5",
-                "name":"Burchard, Horatio Chapin",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "1246":{
-                "district":"5",
-                "name":"Burchard, Horatio Chapin",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "1246":{
-                "district":"5",
-                "name":"Burchard, Horatio Chapin",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "4209":{
-                "district":"5",
-                "name":"Hawk, Robert Moffett",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "4209":{
-                "district":"5",
-                "name":"Hawk, Robert Moffett",
-                "party":"Republican"
-            },
-            "4458":{
-                "district":"5",
-                "name":"Hitt, Robert Roberts",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":5,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -90.65653,

@@ -1,21 +1,13 @@
 {
-  "id": "md_28_to_28_02",
+  "id": "md_28_to_28_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"28",
-    "id":"024028028002",
-    "member":{
-        "28":{
-            "1003":{
-                "district":"2",
-                "name":"Brengle, Francis",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Maryland"
+    "district":2,
+    "end_date":"1845-03-03",
+    "end_session":28,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

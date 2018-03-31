@@ -2,20 +2,12 @@
   "id": "pa_43_to_43_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"43",
-    "id":"042043043020",
-    "member":{
-        "43":{
-            "7886":{
-                "district":"20",
-                "name":"Richmond, Hiram Lowton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Pennsylvania"
+    "district":20,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

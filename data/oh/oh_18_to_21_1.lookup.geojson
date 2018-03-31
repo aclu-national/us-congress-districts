@@ -1,42 +1,13 @@
 {
-  "id": "oh_18_to_21_01",
+  "id": "oh_18_to_21_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"21",
-    "id":"039018021001",
-    "member":{
-        "18":{
-            "3516":{
-                "district":"1",
-                "name":"Gazlay, James William",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "3143":{
-                "district":"1",
-                "name":"Findlay, James",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "3143":{
-                "district":"1",
-                "name":"Findlay, James",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "3143":{
-                "district":"1",
-                "name":"Findlay, James",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Ohio"
+    "district":1,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

@@ -1,49 +1,13 @@
 {
-  "id": "ny_83_to_87_01",
+  "id": "ny_83_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"036083087001",
-    "member":{
-        "83":{
-            "9716":{
-                "district":"1",
-                "name":"Wainwright, Stuyvesant",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "9716":{
-                "district":"1",
-                "name":"Wainwright, Stuyvesant",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "9716":{
-                "district":"1",
-                "name":"Wainwright, Stuyvesant",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "9716":{
-                "district":"1",
-                "name":"Wainwright, Stuyvesant",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10545":{
-                "district":"1",
-                "name":"Pike, Otis G.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -73.56793,

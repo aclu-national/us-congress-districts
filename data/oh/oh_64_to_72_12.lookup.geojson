@@ -2,76 +2,12 @@
   "id": "oh_64_to_72_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"72",
-    "id":"039064072012",
-    "member":{
-        "64":{
-            "1160":{
-                "district":"12",
-                "name":"Brumbaugh, Clement Laird",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "1160":{
-                "district":"12",
-                "name":"Brumbaugh, Clement Laird",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "1160":{
-                "district":"12",
-                "name":"Brumbaugh, Clement Laird",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "8770":{
-                "district":"12",
-                "name":"Speaks, John Charles",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "8770":{
-                "district":"12",
-                "name":"Speaks, John Charles",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "8770":{
-                "district":"12",
-                "name":"Speaks, John Charles",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "8770":{
-                "district":"12",
-                "name":"Speaks, John Charles",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8770":{
-                "district":"12",
-                "name":"Speaks, John Charles",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5425":{
-                "district":"12",
-                "name":"Lamneck, Arthur Philip",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -83.26068,

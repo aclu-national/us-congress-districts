@@ -1,49 +1,13 @@
 {
-  "id": "nv_98_to_102_01",
+  "id": "nv_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"032098102001",
-    "member":{
-        "100":{
-            "15403":{
-                "district":"1",
-                "name":"Bilbray, James H",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15403":{
-                "district":"1",
-                "name":"Bilbray, James H",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15403":{
-                "district":"1",
-                "name":"Bilbray, James H",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "15054":{
-                "district":"1",
-                "name":"Reid, Harry M.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15054":{
-                "district":"1",
-                "name":"Reid, Harry M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Nevada"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"nv"
 },
   "bbox": [
     -115.83484,

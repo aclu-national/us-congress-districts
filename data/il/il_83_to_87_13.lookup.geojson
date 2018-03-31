@@ -2,48 +2,12 @@
   "id": "il_83_to_87_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"87",
-    "id":"017083087013",
-    "member":{
-        "83":{
-            "1722":{
-                "district":"13",
-                "name":"Church, Marguerite Stitt",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "1722":{
-                "district":"13",
-                "name":"Church, Marguerite Stitt",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "1722":{
-                "district":"13",
-                "name":"Church, Marguerite Stitt",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "1722":{
-                "district":"13",
-                "name":"Church, Marguerite Stitt",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "1722":{
-                "district":"13",
-                "name":"Church, Marguerite Stitt",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":13,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -88.26348,

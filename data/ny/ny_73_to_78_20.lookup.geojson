@@ -2,55 +2,12 @@
   "id": "ny_73_to_78_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"78",
-    "id":"036073078020",
-    "member":{
-        "73":{
-            "5472":{
-                "district":"20",
-                "name":"Lanzetta, James Joseph",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "5974":{
-                "district":"20",
-                "name":"Marcantonio, Vito",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "5472":{
-                "district":"20",
-                "name":"Lanzetta, James Joseph",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "5974":{
-                "district":"20",
-                "name":"Marcantonio, Vito",
-                "party":"American Labor"
-            }
-        },
-        "77":{
-            "5974":{
-                "district":"20",
-                "name":"Marcantonio, Vito",
-                "party":"American Labor"
-            }
-        },
-        "78":{
-            "5974":{
-                "district":"20",
-                "name":"Marcantonio, Vito",
-                "party":"American Labor"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -73.95433,

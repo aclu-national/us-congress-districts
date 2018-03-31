@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"47",
-    "id":"036044047033",
-    "member":{
-        "44":{
-            "6974":{
-                "district":"33",
-                "name":"Norton, Nelson Ira",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "7242":{
-                "district":"33",
-                "name":"Patterson, George Washing",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "9589":{
-                "district":"33",
-                "name":"Van Aernam, Henry",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "9589":{
-                "district":"33",
-                "name":"Van Aernam, Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":33,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

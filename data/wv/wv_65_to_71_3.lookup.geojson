@@ -1,63 +1,13 @@
 {
-  "id": "wv_65_to_71_03",
+  "id": "wv_65_to_71_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"71",
-    "id":"054065071003",
-    "member":{
-        "65":{
-            "7794":{
-                "district":"3",
-                "name":"Reed, Stuart Felix",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "7794":{
-                "district":"3",
-                "name":"Reed, Stuart Felix",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "7794":{
-                "district":"3",
-                "name":"Reed, Stuart Felix",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "7794":{
-                "district":"3",
-                "name":"Reed, Stuart Felix",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "10315":{
-                "district":"3",
-                "name":"Wolverton, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "7006":{
-                "district":"3",
-                "name":"O'Brien, William W.",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "10315":{
-                "district":"3",
-                "name":"Wolverton, John Marshall",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"West Virginia"
+    "district":3,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"wv"
 },
   "bbox": [
     -81.32894,

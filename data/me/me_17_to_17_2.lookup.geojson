@@ -1,26 +1,13 @@
 {
-  "id": "me_17_to_17_02",
+  "id": "me_17_to_17_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"17",
-    "id":"023017017002",
-    "member":{
-        "17":{
-            "10069":{
-                "district":"2",
-                "name":"Whitman, Exekiel",
-                "party":"Federalist"
-            },
-            "4109":{
-                "district":"2",
-                "name":"Harris, Mark",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Maine"
+    "district":2,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"me"
 },
   "bbox": [
     -70.5466,

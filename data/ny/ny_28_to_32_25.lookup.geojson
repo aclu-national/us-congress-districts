@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"32",
-    "id":"036028032025",
-    "member":{
-        "28":{
-            "7742":{
-                "district":"25",
-                "name":"Rathbun, George Oscar",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "7742":{
-                "district":"25",
-                "name":"Rathbun, George Oscar",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "1979":{
-                "district":"25",
-                "name":"Conger, Harmon Sweatland",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "1979":{
-                "district":"25",
-                "name":"Conger, Harmon Sweatland",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "4641":{
-                "district":"25",
-                "name":"Howe, Thomas Y. Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -76.74021,

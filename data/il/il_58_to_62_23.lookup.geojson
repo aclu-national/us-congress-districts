@@ -2,48 +2,12 @@
   "id": "il_58_to_62_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"62",
-    "id":"017058062023",
-    "member":{
-        "58":{
-            "2210":{
-                "district":"23",
-                "name":"Crowley, Joseph Burns",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "2579":{
-                "district":"23",
-                "name":"Dickson, Frank Stoddard",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3311":{
-                "district":"23",
-                "name":"Foster, Martin David",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "3311":{
-                "district":"23",
-                "name":"Foster, Martin David",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "3311":{
-                "district":"23",
-                "name":"Foster, Martin David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":23,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -89.70705,

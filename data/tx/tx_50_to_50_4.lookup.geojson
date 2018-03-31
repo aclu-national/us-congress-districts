@@ -1,21 +1,13 @@
 {
-  "id": "tx_50_to_50_04",
+  "id": "tx_50_to_50_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"50",
-    "id":"048050050004",
-    "member":{
-        "50":{
-            "2230":{
-                "district":"4",
-                "name":"Culberson, David Browning",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Texas"
+    "district":4,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"tx"
 },
   "bbox": [
     -96.38501,

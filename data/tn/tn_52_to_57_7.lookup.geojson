@@ -1,56 +1,13 @@
 {
-  "id": "tn_52_to_57_07",
+  "id": "tn_52_to_57_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"57",
-    "id":"047052057007",
-    "member":{
-        "52":{
-            "2117":{
-                "district":"7",
-                "name":"Cox, Nicholas Nichols",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "2117":{
-                "district":"7",
-                "name":"Cox, Nicholas Nichols",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "2117":{
-                "district":"7",
-                "name":"Cox, Nicholas Nichols",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "2117":{
-                "district":"7",
-                "name":"Cox, Nicholas Nichols",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "2117":{
-                "district":"7",
-                "name":"Cox, Nicholas Nichols",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "7150":{
-                "district":"7",
-                "name":"Padgett, Lemuel Phillips",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Tennessee"
+    "district":7,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"tn"
 },
   "bbox": [
     -88.02474,

@@ -2,20 +2,12 @@
   "id": "ny_48_to_48_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"48",
-    "id":"036048048022",
-    "member":{
-        "48":{
-            "8559":{
-                "district":"22",
-                "name":"Skinner, Charles Rufus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -76.44652,

@@ -1,28 +1,13 @@
 {
-  "id": "va_28_to_29_04",
+  "id": "va_28_to_29_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"29",
-    "id":"051028029004",
-    "member":{
-        "28":{
-            "4661":{
-                "district":"4",
-                "name":"Hubard, Edmund Wilcox",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4661":{
-                "district":"4",
-                "name":"Hubard, Edmund Wilcox",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"va"
 },
   "bbox": [
     -79.44288,

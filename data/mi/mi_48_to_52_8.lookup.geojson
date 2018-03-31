@@ -1,49 +1,13 @@
 {
-  "id": "mi_48_to_52_08",
+  "id": "mi_48_to_52_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"52",
-    "id":"026048052008",
-    "member":{
-        "48":{
-            "4585":{
-                "district":"8",
-                "name":"Horr, Roswell Gilbert",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "9182":{
-                "district":"8",
-                "name":"Tarsney, Timothy Edward",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "9182":{
-                "district":"8",
-                "name":"Tarsney, Timothy Edward",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "794":{
-                "district":"8",
-                "name":"Bliss, Aaron Thomas",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "10434":{
-                "district":"8",
-                "name":"Youmans, Henry Melville",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Michigan"
+    "district":8,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mi"
 },
   "bbox": [
     -85.56298,

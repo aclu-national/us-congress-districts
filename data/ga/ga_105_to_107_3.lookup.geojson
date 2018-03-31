@@ -1,35 +1,13 @@
 {
-  "id": "ga_105_to_107_03",
+  "id": "ga_105_to_107_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"107",
-    "id":"013105107003",
-    "member":{
-        "105":{
-            "29340":{
-                "district":"3",
-                "name":"Collins, Mac",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29340":{
-                "district":"3",
-                "name":"Collins, Mac",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29340":{
-                "district":"3",
-                "name":"Collins, Mac",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Georgia"
+    "district":3,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"ga"
 },
   "bbox": [
     -85.18491,

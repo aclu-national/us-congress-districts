@@ -2,48 +2,12 @@
   "id": "il_48_to_52_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"52",
-    "id":"017048052016",
-    "member":{
-        "48":{
-            "8413":{
-                "district":"16",
-                "name":"Shaw, Aaron",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "5431":{
-                "district":"16",
-                "name":"Landes, Silas Zephaniah",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "5431":{
-                "district":"16",
-                "name":"Landes, Silas Zephaniah",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "3180":{
-                "district":"16",
-                "name":"Fithian, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "3180":{
-                "district":"16",
-                "name":"Fithian, George Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":16,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -88.70239,

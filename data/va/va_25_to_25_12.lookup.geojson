@@ -2,20 +2,12 @@
   "id": "va_25_to_25_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"25",
-    "id":"051025025012",
-    "member":{
-        "25":{
-            "3477":{
-                "district":"12",
-                "name":"Garland, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"25",
-    "statename":"Virginia"
+    "district":12,
+    "end_date":"1839-03-03",
+    "end_session":25,
+    "start_date":"1837-03-04",
+    "start_session":25,
+    "state":"va"
 },
   "bbox": [
     -79.43704,

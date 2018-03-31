@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_23",
   "type": "Feature",
   "properties": {
-    "ALAND":25635937518,
-    "AWATER":100592676,
-    "CD113FP":"23",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0623",
-    "INTPTLAT":"+35.6106838",
-    "INTPTLON":"-118.5390568",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 23",
-    "STATEFP":"06"
+    "district":23,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -119.915636,

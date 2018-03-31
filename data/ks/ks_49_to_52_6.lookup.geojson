@@ -1,42 +1,13 @@
 {
-  "id": "ks_49_to_52_06",
+  "id": "ks_49_to_52_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"52",
-    "id":"020049052006",
-    "member":{
-        "49":{
-            "4021":{
-                "district":"6",
-                "name":"Hanback, Lewis",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "9514":{
-                "district":"6",
-                "name":"Turner, Erastus Johnson",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "9514":{
-                "district":"6",
-                "name":"Turner, Erastus Johnson",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "373":{
-                "district":"6",
-                "name":"Baker, William",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Kansas"
+    "district":6,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ks"
 },
   "bbox": [
     -102.05177,

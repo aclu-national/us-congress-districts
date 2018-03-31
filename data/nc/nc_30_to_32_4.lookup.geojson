@@ -1,35 +1,13 @@
 {
-  "id": "nc_30_to_32_04",
+  "id": "nc_30_to_32_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"32",
-    "id":"037030032004",
-    "member":{
-        "30":{
-            "8447":{
-                "district":"4",
-                "name":"Shepperd, Augustine Henry",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "8447":{
-                "district":"4",
-                "name":"Shepperd, Augustine Henry",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "6667":{
-                "district":"4",
-                "name":"Morehead, James Turner",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"nc"
 },
   "bbox": [
     -80.48785,

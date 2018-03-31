@@ -1,84 +1,13 @@
 {
-  "id": "sd_63_to_72_03",
+  "id": "sd_63_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"046063072003",
-    "member":{
-        "63":{
-            "6020":{
-                "district":"3",
-                "name":"Martin, Eben Wever",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "3450":{
-                "district":"3",
-                "name":"Gandy, Harry Luther",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "3450":{
-                "district":"3",
-                "name":"Gandy, Harry Luther",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "3450":{
-                "district":"3",
-                "name":"Gandy, Harry Luther",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "10195":{
-                "district":"3",
-                "name":"Williamson, William",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "10195":{
-                "district":"3",
-                "name":"Williamson, William",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "10195":{
-                "district":"3",
-                "name":"Williamson, William",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "10195":{
-                "district":"3",
-                "name":"Williamson, William",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "10195":{
-                "district":"3",
-                "name":"Williamson, William",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "10195":{
-                "district":"3",
-                "name":"Williamson, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"South Dakota"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"sd"
 },
   "bbox": [
     -104.05774,

@@ -2,41 +2,12 @@
   "id": "va_19_to_22_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"22",
-    "id":"051019022014",
-    "member":{
-        "19":{
-            "6415":{
-                "district":"14",
-                "name":"Mercer, Charles Fenton",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "6415":{
-                "district":"14",
-                "name":"Mercer, Charles Fenton",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "6415":{
-                "district":"14",
-                "name":"Mercer, Charles Fenton",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "6415":{
-                "district":"14",
-                "name":"Mercer, Charles Fenton",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":14,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -77.96204,

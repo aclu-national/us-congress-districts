@@ -1,28 +1,13 @@
 {
-  "id": "in_91_to_92_06",
+  "id": "in_91_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"018091092006",
-    "member":{
-        "91":{
-            "986":{
-                "district":"6",
-                "name":"Bray, William Gilmer",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "986":{
-                "district":"6",
-                "name":"Bray, William Gilmer",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Indiana"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"in"
 },
   "bbox": [
     -86.68759,

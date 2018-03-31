@@ -2,20 +2,12 @@
   "id": "pa_43_to_43_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"43",
-    "id":"042043043013",
-    "member":{
-        "43":{
-            "9021":{
-                "district":"13",
-                "name":"Strawbridge, James Dale",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"pa"
 },
   "bbox": [
     -76.92708,

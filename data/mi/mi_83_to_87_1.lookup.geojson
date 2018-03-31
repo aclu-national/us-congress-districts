@@ -1,54 +1,13 @@
 {
-  "id": "mi_83_to_87_01",
+  "id": "mi_83_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"026083087001",
-    "member":{
-        "83":{
-            "5880":{
-                "district":"1",
-                "name":"Machrowicz, Thaddeus Michael",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5880":{
-                "district":"1",
-                "name":"Machrowicz, Thaddeus Michael",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5880":{
-                "district":"1",
-                "name":"Machrowicz, Thaddeus Michael",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5880":{
-                "district":"1",
-                "name":"Machrowicz, Thaddeus Michael",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10540":{
-                "district":"1",
-                "name":"Nedzi, Lucien N.",
-                "party":"Democrat"
-            },
-            "5880":{
-                "district":"1",
-                "name":"Machrowicz, Thaddeus Michael",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Michigan"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mi"
 },
   "bbox": [
     -83.11293,

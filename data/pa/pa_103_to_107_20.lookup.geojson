@@ -2,48 +2,12 @@
   "id": "pa_103_to_107_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"107",
-    "id":"042103107020",
-    "member":{
-        "103":{
-            "14441":{
-                "district":"20",
-                "name":"Murphy, Austin",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29562":{
-                "district":"20",
-                "name":"Mascara, Frank R.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29562":{
-                "district":"20",
-                "name":"Mascara, Frank R.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29562":{
-                "district":"20",
-                "name":"Mascara, Frank R.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29562":{
-                "district":"20",
-                "name":"Mascara, Frank R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Pennsylvania"
+    "district":20,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"pa"
 },
   "bbox": [
     -80.51942,

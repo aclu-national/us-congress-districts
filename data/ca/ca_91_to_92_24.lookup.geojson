@@ -2,32 +2,12 @@
   "id": "ca_91_to_92_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"92",
-    "id":"006091092024",
-    "member":{
-        "91":{
-            "10553":{
-                "district":"24",
-                "name":"Rousselot, John",
-                "party":"Republican"
-            },
-            "5694":{
-                "district":"24",
-                "name":"Lipscomb, Glenard Paul",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10553":{
-                "district":"24",
-                "name":"Rousselot, John H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":24,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -118.25312,

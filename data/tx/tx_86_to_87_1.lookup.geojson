@@ -1,28 +1,13 @@
 {
-  "id": "tx_86_to_87_01",
+  "id": "tx_86_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"048086087001",
-    "member":{
-        "86":{
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "7232":{
-                "district":"1",
-                "name":"Patman, Wright",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"86",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1959-01-07",
+    "start_session":86,
+    "state":"tx"
 },
   "bbox": [
     -95.86333,

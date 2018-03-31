@@ -1,28 +1,13 @@
 {
-  "id": "ny_66_to_67_08",
+  "id": "ny_66_to_67_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"67",
-    "id":"036066067008",
-    "member":{
-        "66":{
-            "1826":{
-                "district":"8",
-                "name":"Cleary, William Edward",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "840":{
-                "district":"8",
-                "name":"Bond, Charles Grosvenor",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -74.04215,

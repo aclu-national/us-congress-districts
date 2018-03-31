@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_32",
   "type": "Feature",
   "properties": {
-    "ALAND":480868418,
-    "AWATER":35466742,
-    "CD113FP":"32",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4832",
-    "INTPTLAT":"+32.9203834",
-    "INTPTLON":"-096.6536360",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 32",
-    "STATEFP":"48"
+    "district":32,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -96.847665,

@@ -1,35 +1,13 @@
 {
-  "id": "nc_30_to_32_02",
+  "id": "nc_30_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"037030032002",
-    "member":{
-        "30":{
-            "934":{
-                "district":"2",
-                "name":"Boyden, Nathaniel",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "1411":{
-                "district":"2",
-                "name":"Caldwell, Joseph Pearson",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "1411":{
-                "district":"2",
-                "name":"Caldwell, Joseph Pearson",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"North Carolina"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"nc"
 },
   "bbox": [
     -81.97604,

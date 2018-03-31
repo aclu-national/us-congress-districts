@@ -1,49 +1,13 @@
 {
-  "id": "mn_48_to_52_01",
+  "id": "mn_48_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"027048052001",
-    "member":{
-        "48":{
-            "10040":{
-                "district":"1",
-                "name":"White, Milo",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "10040":{
-                "district":"1",
-                "name":"White, Milo",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "10255":{
-                "district":"1",
-                "name":"Wilson, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "2778":{
-                "district":"1",
-                "name":"Dunnell, Mark Hill",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "4093":{
-                "district":"1",
-                "name":"Harries, William Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Minnesota"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mn"
 },
   "bbox": [
     -93.64865,

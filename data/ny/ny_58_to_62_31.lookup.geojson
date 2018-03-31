@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"62",
-    "id":"036058062031",
-    "member":{
-        "58":{
-            "7273":{
-                "district":"31",
-                "name":"Payne, Sereno Elisha",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "7273":{
-                "district":"31",
-                "name":"Payne, Sereno Elisha",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "7273":{
-                "district":"31",
-                "name":"Payne, Sereno Elisha",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "7273":{
-                "district":"31",
-                "name":"Payne, Sereno Elisha",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "7273":{
-                "district":"31",
-                "name":"Payne, Sereno Elisha",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -77.61192,

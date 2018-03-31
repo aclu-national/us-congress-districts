@@ -1,54 +1,13 @@
 {
-  "id": "ma_33_to_37_07",
+  "id": "ma_33_to_37_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"37",
-    "id":"025033037007",
-    "member":{
-        "33":{
-            "409":{
-                "district":"7",
-                "name":"Banks, Nathaniel Prentice",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "409":{
-                "district":"7",
-                "name":"Banks, Nathaniel Prentice",
-                "party":"American"
-            }
-        },
-        "35":{
-            "3663":{
-                "district":"7",
-                "name":"Gooch, Daniel Wheelwright",
-                "party":"Republican"
-            },
-            "409":{
-                "district":"7",
-                "name":"Banks, Nathaniel Prentice",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "3663":{
-                "district":"7",
-                "name":"Gooch, Daniel Wheelwright",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "3663":{
-                "district":"7",
-                "name":"Gooch, Daniel Wheelwright",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ma"
 },
   "bbox": [
     -71.28595,

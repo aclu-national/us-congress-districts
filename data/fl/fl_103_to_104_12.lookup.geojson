@@ -2,27 +2,12 @@
   "id": "fl_103_to_104_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"104",
-    "id":"012103104012",
-    "member":{
-        "103":{
-            "29332":{
-                "district":"12",
-                "name":"Canady, Charles, T.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29332":{
-                "district":"12",
-                "name":"Canady, Charles, T.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Florida"
+    "district":12,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"fl"
 },
   "bbox": [
     -82.33521,

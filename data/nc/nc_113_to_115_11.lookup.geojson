@@ -2,18 +2,12 @@
   "id": "nc_113_to_115_11",
   "type": "Feature",
   "properties": {
-    "ALAND":17711051447,
-    "AWATER":191403458,
-    "CD113FP":"11",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3711",
-    "INTPTLAT":"+35.5533033",
-    "INTPTLON":"-082.7877157",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 11",
-    "STATEFP":"37"
+    "district":11,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nc"
 },
   "bbox": [
     -84.321869,

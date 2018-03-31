@@ -1,94 +1,13 @@
 {
-  "id": "sc_18_to_27_08",
+  "id": "sc_18_to_27_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"27",
-    "id":"045018027008",
-    "member":{
-        "18":{
-            "1547":{
-                "district":"8",
-                "name":"Carter, John",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "1547":{
-                "district":"8",
-                "name":"Carter, John",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "1547":{
-                "district":"8",
-                "name":"Carter, John",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "767":{
-                "district":"8",
-                "name":"Blair, James",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "767":{
-                "district":"8",
-                "name":"Blair, James",
-                "party":"Jackson"
-            }
-        },
-        "23":{
-            "5964":{
-                "district":"8",
-                "name":"Manning, Richard Irvine",
-                "party":"Jackson"
-            },
-            "767":{
-                "district":"8",
-                "name":"Blair, James",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "5964":{
-                "district":"8",
-                "name":"Manning, Richard Irvine",
-                "party":"Jackson"
-            },
-            "7879":{
-                "district":"8",
-                "name":"Richardson, John Peter",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "7879":{
-                "district":"8",
-                "name":"Richardson, John Peter",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "9089":{
-                "district":"8",
-                "name":"Sumter, Thomas De Lage",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "9089":{
-                "district":"8",
-                "name":"Sumter, Thomas De Lage",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"South Carolina"
+    "district":8,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"sc"
 },
   "bbox": [
     -80.9095,

@@ -1,89 +1,13 @@
 {
-  "id": "nc_63_to_72_09",
+  "id": "nc_63_to_72_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"72",
-    "id":"037063072009",
-    "member":{
-        "63":{
-            "9898":{
-                "district":"9",
-                "name":"Webb, Edwin Yates",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "9898":{
-                "district":"9",
-                "name":"Webb, Edwin Yates",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "9898":{
-                "district":"9",
-                "name":"Webb, Edwin Yates",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "4483":{
-                "district":"9",
-                "name":"Hoey, Clyde Roark",
-                "party":"Democrat"
-            },
-            "9898":{
-                "district":"9",
-                "name":"Webb, Edwin Yates",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1235":{
-                "district":"9",
-                "name":"Bulwinkle, Alfred Lee",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "1235":{
-                "district":"9",
-                "name":"Bulwinkle, Alfred Lee",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1235":{
-                "district":"9",
-                "name":"Bulwinkle, Alfred Lee",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "1235":{
-                "district":"9",
-                "name":"Bulwinkle, Alfred Lee",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "5018":{
-                "district":"9",
-                "name":"Jonas, Charles Andrew",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "1235":{
-                "district":"9",
-                "name":"Bulwinkle, Alfred Lee",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"North Carolina"
+    "district":9,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nc"
 },
   "bbox": [
     -82.96284,

@@ -2,48 +2,12 @@
   "id": "ny_38_to_42_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"42",
-    "id":"036038042010",
-    "member":{
-        "38":{
-            "7686":{
-                "district":"10",
-                "name":"Radford, William",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "7686":{
-                "district":"10",
-                "name":"Radford, William",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "7968":{
-                "district":"10",
-                "name":"Robertson, William Henry",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "7552":{
-                "district":"10",
-                "name":"Potter, Clarkson Nott",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "7552":{
-                "district":"10",
-                "name":"Potter, Clarkson Nott",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -74.23447,

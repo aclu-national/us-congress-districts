@@ -1,21 +1,13 @@
 {
-  "id": "ma_14_to_14_02",
+  "id": "ma_14_to_14_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"14",
-    "id":"025014014002",
-    "member":{
-        "14":{
-            "7428":{
-                "district":"2",
-                "name":"Pickering, Timothy",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"14",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1815-12-04",
+    "start_session":14,
+    "state":"ma"
 },
   "bbox": [
     -71.0829,

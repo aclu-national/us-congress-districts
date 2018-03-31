@@ -1,19 +1,13 @@
 {
-  "id": "ca_113_to_115_05",
+  "id": "ca_113_to_115_5",
   "type": "Feature",
   "properties": {
-    "ALAND":4482813369,
-    "AWATER":319022596,
-    "CD113FP":"05",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0605",
-    "INTPTLAT":"+38.5158063",
-    "INTPTLON":"-122.4625595",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 5",
-    "STATEFP":"06"
+    "district":5,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -123.056317,

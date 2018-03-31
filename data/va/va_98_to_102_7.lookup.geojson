@@ -1,54 +1,13 @@
 {
-  "id": "va_98_to_102_07",
+  "id": "va_98_to_102_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"102",
-    "id":"051098102007",
-    "member":{
-        "100":{
-            "15115":{
-                "district":"7",
-                "name":"Slaughter, D. French",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15115":{
-                "district":"7",
-                "name":"Slaughter, D. French",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15115":{
-                "district":"7",
-                "name":"Slaughter, D. French",
-                "party":"Republican"
-            },
-            "29148":{
-                "district":"7",
-                "name":"Allen, George F.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "13036":{
-                "district":"7",
-                "name":"Robinson, James Kenneth",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15115":{
-                "district":"7",
-                "name":"Slaughter, D. French",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"va"
 },
   "bbox": [
     -78.86953,

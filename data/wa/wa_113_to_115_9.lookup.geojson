@@ -1,19 +1,13 @@
 {
-  "id": "wa_113_to_115_09",
+  "id": "wa_113_to_115_9",
   "type": "Feature",
   "properties": {
-    "ALAND":475268277,
-    "AWATER":107378630,
-    "CD113FP":"09",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5309",
-    "INTPTLAT":"+47.4575240",
-    "INTPTLON":"-122.2583062",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 9",
-    "STATEFP":"53"
+    "district":9,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"wa"
 },
   "bbox": [
     -122.510643,

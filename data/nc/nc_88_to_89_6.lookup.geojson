@@ -1,28 +1,13 @@
 {
-  "id": "nc_88_to_89_06",
+  "id": "nc_88_to_89_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"89",
-    "id":"037088089006",
-    "member":{
-        "88":{
-            "10531":{
-                "district":"6",
-                "name":"Kornegay, Horace R.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10531":{
-                "district":"6",
-                "name":"Kornegay, Horace R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"nc"
 },
   "bbox": [
     -80.04706,

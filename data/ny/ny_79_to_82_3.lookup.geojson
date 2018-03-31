@@ -1,42 +1,13 @@
 {
-  "id": "ny_79_to_82_03",
+  "id": "ny_79_to_82_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"82",
-    "id":"036079082003",
-    "member":{
-        "79":{
-            "5488":{
-                "district":"3",
-                "name":"Latham, Henry Jepson",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "5488":{
-                "district":"3",
-                "name":"Latham, Henry Jepson",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "5488":{
-                "district":"3",
-                "name":"Latham, Henry Jepson",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "5488":{
-                "district":"3",
-                "name":"Latham, Henry Jepson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -73.88253,

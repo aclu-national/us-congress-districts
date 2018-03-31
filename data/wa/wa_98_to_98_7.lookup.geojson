@@ -1,21 +1,13 @@
 {
-  "id": "wa_98_to_98_07",
+  "id": "wa_98_to_98_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"98",
-    "id":"053098098007",
-    "member":{
-        "98":{
-            "14646":{
-                "district":"7",
-                "name":"Lowry, Michael E.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Washington"
+    "district":7,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"wa"
 },
   "bbox": [
     -122.42114,

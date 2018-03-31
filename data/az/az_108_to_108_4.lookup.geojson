@@ -1,21 +1,13 @@
 {
-  "id": "az_108_to_108_04",
+  "id": "az_108_to_108_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"108",
-    "id":"004108108004",
-    "member":{
-        "108":{
-            "29101":{
-                "district":"4",
-                "name":"Pastor, Ed",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Arizona"
+    "district":4,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"az"
 },
   "bbox": [
     -112.23881,

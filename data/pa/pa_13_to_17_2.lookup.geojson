@@ -1,79 +1,13 @@
 {
-  "id": "pa_13_to_17_02",
+  "id": "pa_13_to_17_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"17",
-    "id":"042013017002",
-    "member":{
-        "13":{
-            "2409":{
-                "district":"2",
-                "name":"Davis, Roger",
-                "party":"Republican"
-            },
-            "4314":{
-                "district":"2",
-                "name":"Henderson, Samuel",
-                "party":"Federalist"
-            },
-            "7953":{
-                "district":"2",
-                "name":"Roberts, Jonathan",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "2343":{
-                "district":"2",
-                "name":"Darlington, William",
-                "party":"Republican"
-            },
-            "3906":{
-                "district":"2",
-                "name":"Hahn, John",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "2341":{
-                "district":"2",
-                "name":"Darlington, Isaac",
-                "party":"Federalist"
-            },
-            "7270":{
-                "district":"2",
-                "name":"Pawling, Levi",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "2343":{
-                "district":"2",
-                "name":"Darlington, William",
-                "party":"Republican"
-            },
-            "3854":{
-                "district":"2",
-                "name":"Gross, Samuel",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "2343":{
-                "district":"2",
-                "name":"Darlington, William",
-                "party":"Republican"
-            },
-            "3854":{
-                "district":"2",
-                "name":"Gross, Samuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"pa"
 },
   "bbox": [
     -76.13638,

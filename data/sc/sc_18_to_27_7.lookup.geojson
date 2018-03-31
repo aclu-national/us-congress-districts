@@ -1,84 +1,13 @@
 {
-  "id": "sc_18_to_27_07",
+  "id": "sc_18_to_27_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"27",
-    "id":"045018027007",
-    "member":{
-        "18":{
-            "3620":{
-                "district":"7",
-                "name":"Gist, Joseph",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "3620":{
-                "district":"7",
-                "name":"Gist, Joseph",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "6984":{
-                "district":"7",
-                "name":"Nuckolls, William Thompson",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "6984":{
-                "district":"7",
-                "name":"Nuckolls, William Thompson",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "6984":{
-                "district":"7",
-                "name":"Nuckolls, William Thompson",
-                "party":"Jackson"
-            }
-        },
-        "23":{
-            "1856":{
-                "district":"7",
-                "name":"Clowney, William Kennedy",
-                "party":"Nullifier"
-            }
-        },
-        "24":{
-            "8027":{
-                "district":"7",
-                "name":"Rogers, James",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "1856":{
-                "district":"7",
-                "name":"Clowney, William Kennedy",
-                "party":"Nullifier"
-            }
-        },
-        "26":{
-            "8027":{
-                "district":"7",
-                "name":"Rogers, James",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "8027":{
-                "district":"7",
-                "name":"Rogers, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"South Carolina"
+    "district":7,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"sc"
 },
   "bbox": [
     -82.22647,

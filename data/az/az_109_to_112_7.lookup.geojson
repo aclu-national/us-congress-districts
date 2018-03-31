@@ -1,42 +1,13 @@
 {
-  "id": "az_109_to_112_07",
+  "id": "az_109_to_112_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"112",
-    "id":"004109112007",
-    "member":{
-        "109":{
-            "20305":{
-                "district":"7",
-                "name":"Grijalva, Raul M.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20305":{
-                "district":"7",
-                "name":"Grijalva, Raul M.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20305":{
-                "district":"7",
-                "name":"Grijalva, Raul M.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20305":{
-                "district":"7",
-                "name":"Grijalva, Ra\u00dal M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Arizona"
+    "district":7,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"az"
 },
   "bbox": [
     -114.81399,

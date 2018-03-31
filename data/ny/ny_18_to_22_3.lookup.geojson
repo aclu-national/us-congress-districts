@@ -1,99 +1,13 @@
 {
-  "id": "ny_18_to_22_03",
+  "id": "ny_18_to_22_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"22",
-    "id":"036018022003",
-    "member":{
-        "18":{
-            "1431":{
-                "district":"3",
-                "name":"Cambreleng, Churchill Caldom",
-                "party":"Crawford Republican"
-            },
-            "6681":{
-                "district":"3",
-                "name":"Morgan, John Jordan",
-                "party":"Jackson Republican"
-            },
-            "8409":{
-                "district":"3",
-                "name":"Sharpe, Peter",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "1431":{
-                "district":"3",
-                "name":"Cambreleng, Churchill Caldom",
-                "party":"Jackson"
-            },
-            "4971":{
-                "district":"3",
-                "name":"Johnson, Jeromus",
-                "party":"Jackson"
-            },
-            "9663":{
-                "district":"3",
-                "name":"Verplanck, Daniel Crommelin",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "1431":{
-                "district":"3",
-                "name":"Cambreleng, Churchill Caldom",
-                "party":"Jackson"
-            },
-            "4971":{
-                "district":"3",
-                "name":"Johnson, Jeromus",
-                "party":"Jackson"
-            },
-            "9663":{
-                "district":"3",
-                "name":"Verplanck, Daniel Crommelin",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "10012":{
-                "district":"3",
-                "name":"White, Campbell Patrick",
-                "party":"Jackson"
-            },
-            "1431":{
-                "district":"3",
-                "name":"Cambreleng, Churchill Caldom",
-                "party":"Jackson"
-            },
-            "9663":{
-                "district":"3",
-                "name":"Verplanck, Daniel Crommelin",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "10012":{
-                "district":"3",
-                "name":"White, Campbell Patrick",
-                "party":"Jackson"
-            },
-            "1431":{
-                "district":"3",
-                "name":"Cambreleng, Churchill Caldom",
-                "party":"Jackson"
-            },
-            "9663":{
-                "district":"3",
-                "name":"Verplanck, Daniel Crommelin",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -74.04718,

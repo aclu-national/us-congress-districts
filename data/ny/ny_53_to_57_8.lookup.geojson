@@ -1,54 +1,13 @@
 {
-  "id": "ny_53_to_57_08",
+  "id": "ny_53_to_57_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"57",
-    "id":"036053057008",
-    "member":{
-        "53":{
-            "2779":{
-                "district":"8",
-                "name":"Dunphy, Edward John",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "6569":{
-                "district":"8",
-                "name":"Mitchell, John Murray",
-                "party":"Republican"
-            },
-            "9783":{
-                "district":"8",
-                "name":"Walsh, James Joseph",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "6569":{
-                "district":"8",
-                "name":"Mitchell, John Murray",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "7911":{
-                "district":"8",
-                "name":"Riordan, Daniel Joseph",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "2169":{
-                "district":"8",
-                "name":"Creamer, Thomas James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ny"
 },
   "bbox": [
     -74.00863,

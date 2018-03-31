@@ -1,42 +1,13 @@
 {
-  "id": "va_49_to_52_06",
+  "id": "va_49_to_52_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"52",
-    "id":"051049052006",
-    "member":{
-        "49":{
-            "2325":{
-                "district":"6",
-                "name":"Daniel, John Warwick",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "4572":{
-                "district":"6",
-                "name":"Hopkins, Samuel Isaac",
-                "party":"Union"
-            }
-        },
-        "51":{
-            "2856":{
-                "district":"6",
-                "name":"Edmunds, Paul Carrington",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "2856":{
-                "district":"6",
-                "name":"Edmunds, Paul Carrington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"va"
 },
   "bbox": [
     -80.615,

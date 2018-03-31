@@ -1,28 +1,13 @@
 {
-  "id": "ga_34_to_35_03",
+  "id": "ga_34_to_35_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"35",
-    "id":"013034035003",
-    "member":{
-        "34":{
-            "9479":{
-                "district":"3",
-                "name":"Trippe, Robert Pleasant",
-                "party":"American"
-            }
-        },
-        "35":{
-            "9479":{
-                "district":"3",
-                "name":"Trippe, Robert Pleasant",
-                "party":"American"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Georgia"
+    "district":3,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ga"
 },
   "bbox": [
     -85.18491,

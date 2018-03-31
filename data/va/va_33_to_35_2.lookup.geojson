@@ -1,35 +1,13 @@
 {
-  "id": "va_33_to_35_02",
+  "id": "va_33_to_35_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"35",
-    "id":"051033035002",
-    "member":{
-        "33":{
-            "6533":{
-                "district":"2",
-                "name":"Millson, John Singleton",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "6533":{
-                "district":"2",
-                "name":"Millson, John Singleton",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "6533":{
-                "district":"2",
-                "name":"Millson, John Singleton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Virginia"
+    "district":2,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"va"
 },
   "bbox": [
     -77.76712,

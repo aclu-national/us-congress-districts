@@ -1,33 +1,13 @@
 {
-  "id": "tx_41_to_42_03",
+  "id": "tx_41_to_42_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"42",
-    "id":"048041042003",
-    "member":{
-        "41":{
-            "1786":{
-                "district":"3",
-                "name":"Clark, William Thomas",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "1786":{
-                "district":"3",
-                "name":"Clark, William Thomas",
-                "party":"Republican"
-            },
-            "3566":{
-                "district":"3",
-                "name":"Giddings, De Witt Clinton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Texas"
+    "district":3,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"tx"
 },
   "bbox": [
     -98.00531,

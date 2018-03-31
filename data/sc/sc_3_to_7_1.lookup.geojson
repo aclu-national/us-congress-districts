@@ -1,54 +1,13 @@
 {
-  "id": "sc_3_to_7_01",
+  "id": "sc_3_to_7_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"7",
-    "id":"045003007001",
-    "member":{
-        "3":{
-            "8702":{
-                "district":"1",
-                "name":"Smith, William Loughton",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "8702":{
-                "district":"1",
-                "name":"Smith, William Loughton",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "7458":{
-                "district":"1",
-                "name":"Pinckney, Thomas",
-                "party":"Federalist"
-            },
-            "8702":{
-                "district":"1",
-                "name":"Smith, William Loughton",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "7458":{
-                "district":"1",
-                "name":"Pinckney, Thomas",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "5814":{
-                "district":"1",
-                "name":"Lowndes, Thomas",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"sc"
 },
   "bbox": [
     -81.08264,

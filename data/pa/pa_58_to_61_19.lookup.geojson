@@ -2,41 +2,12 @@
   "id": "pa_58_to_61_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"61",
-    "id":"042058061019",
-    "member":{
-        "58":{
-            "3003":{
-                "district":"19",
-                "name":"Evans, Alvin",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "7834":{
-                "district":"19",
-                "name":"Reynolds, John Merriman",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "7834":{
-                "district":"19",
-                "name":"Reynolds, John Merriman",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "7834":{
-                "district":"19",
-                "name":"Reynolds, John Merriman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"pa"
 },
   "bbox": [
     -79.05606,

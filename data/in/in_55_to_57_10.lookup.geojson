@@ -2,34 +2,12 @@
   "id": "in_55_to_57_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"57",
-    "id":"018055057010",
-    "member":{
-        "55":{
-            "2225":{
-                "district":"10",
-                "name":"Crumpacker, Edgar Dean",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2225":{
-                "district":"10",
-                "name":"Crumpacker, Edgar Dean",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2225":{
-                "district":"10",
-                "name":"Crumpacker, Edgar Dean",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Indiana"
+    "district":10,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"in"
 },
   "bbox": [
     -87.53144,

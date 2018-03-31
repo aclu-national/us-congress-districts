@@ -1,42 +1,13 @@
 {
-  "id": "ca_94_to_97_03",
+  "id": "ca_94_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"006094097003",
-    "member":{
-        "94":{
-            "6756":{
-                "district":"3",
-                "name":"Moss, John Emerson, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "6756":{
-                "district":"3",
-                "name":"Moss, John Emerson, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14649":{
-                "district":"3",
-                "name":"Matsui, Robert Takeo",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14649":{
-                "district":"3",
-                "name":"Matsui, Robert Takeo",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -121.55917,

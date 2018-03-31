@@ -2,76 +2,12 @@
   "id": "mo_74_to_82_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"82",
-    "id":"029074082010",
-    "member":{
-        "74":{
-            "10468":{
-                "district":"10",
-                "name":"Zimmerman, Orivlle",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "10468":{
-                "district":"10",
-                "name":"Zimmerman, Orivlle",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "10468":{
-                "district":"10",
-                "name":"Zimmerman, Orivlle",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "10468":{
-                "district":"10",
-                "name":"Zimmerman, Orivlle",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "10468":{
-                "district":"10",
-                "name":"Zimmerman, Orivlle",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "10468":{
-                "district":"10",
-                "name":"Zimmerman, Orivlle",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "10468":{
-                "district":"10",
-                "name":"Zimmerman, Orivlle",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "5056":{
-                "district":"10",
-                "name":"Jones, Paul Caruthers",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5056":{
-                "district":"10",
-                "name":"Jones, Paul Caruthers",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Missouri"
+    "district":10,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mo"
 },
   "bbox": [
     -91.1268,

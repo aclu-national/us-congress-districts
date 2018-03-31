@@ -2,48 +2,12 @@
   "id": "ma_73_to_77_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"77",
-    "id":"025073077015",
-    "member":{
-        "73":{
-            "3569":{
-                "district":"15",
-                "name":"Gifford, Charles Laceille",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "3569":{
-                "district":"15",
-                "name":"Gifford, Charles Laceille",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "3569":{
-                "district":"15",
-                "name":"Gifford, Charles Laceille",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "3569":{
-                "district":"15",
-                "name":"Gifford, Charles Laceille",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "3569":{
-                "district":"15",
-                "name":"Gifford, Charles Laceille",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Massachusetts"
+    "district":15,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ma"
 },
   "bbox": [
     -71.07642,

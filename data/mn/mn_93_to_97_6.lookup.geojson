@@ -1,49 +1,13 @@
 {
-  "id": "mn_93_to_97_06",
+  "id": "mn_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"027093097006",
-    "member":{
-        "93":{
-            "11060":{
-                "district":"6",
-                "name":"Zwach, John M.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14263":{
-                "district":"6",
-                "name":"Nolan, Richard",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14263":{
-                "district":"6",
-                "name":"Nolan, Richard",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14263":{
-                "district":"6",
-                "name":"Nolan, Richard",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14868":{
-                "district":"6",
-                "name":"Weber, Vin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Minnesota"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mn"
 },
   "bbox": [
     -96.83545,

@@ -1,35 +1,13 @@
 {
-  "id": "in_50_to_52_08",
+  "id": "in_50_to_52_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"52",
-    "id":"018050052008",
-    "member":{
-        "50":{
-            "5003":{
-                "district":"8",
-                "name":"Johnston, James Thomas",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "1083":{
-                "district":"8",
-                "name":"Brookshire, Elijah Voorhees",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "1083":{
-                "district":"8",
-                "name":"Brookshire, Elijah Voorhees",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Indiana"
+    "district":8,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"in"
 },
   "bbox": [
     -87.65875,

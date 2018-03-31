@@ -2,34 +2,12 @@
   "id": "ca_88_to_90_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"90",
-    "id":"006088090022",
-    "member":{
-        "88":{
-            "10511":{
-                "district":"22",
-                "name":"Corman, James C.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10511":{
-                "district":"22",
-                "name":"Corman, James C.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10511":{
-                "district":"22",
-                "name":"Corman, James C.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":22,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -118.67601,

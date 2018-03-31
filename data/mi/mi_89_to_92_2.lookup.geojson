@@ -1,42 +1,13 @@
 {
-  "id": "mi_89_to_92_02",
+  "id": "mi_89_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"026089092002",
-    "member":{
-        "89":{
-            "10779":{
-                "district":"2",
-                "name":"Vivian, Weston P.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11015":{
-                "district":"2",
-                "name":"Esch, Marvin L.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11015":{
-                "district":"2",
-                "name":"Esch, Marvin L.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11015":{
-                "district":"2",
-                "name":"Esch, Marvin L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Michigan"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"mi"
 },
   "bbox": [
     -84.3632,

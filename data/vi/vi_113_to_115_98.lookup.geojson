@@ -2,18 +2,12 @@
   "id": "vi_113_to_115_98",
   "type": "Feature",
   "properties": {
-    "ALAND":347892469,
-    "AWATER":1550515125,
-    "CD113FP":"98",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"7898",
-    "INTPTLAT":"+18.2758499",
-    "INTPTLON":"-064.8903849",
-    "LSAD":"C4",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Delegate District (at Large)",
-    "STATEFP":"78"
+    "district":98,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"vi"
 },
   "bbox": [
     -65.154118,

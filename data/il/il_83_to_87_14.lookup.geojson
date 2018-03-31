@@ -2,48 +2,12 @@
   "id": "il_83_to_87_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"87",
-    "id":"017083087014",
-    "member":{
-        "83":{
-            "7779":{
-                "district":"14",
-                "name":"Reed, Chauncey William",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "7779":{
-                "district":"14",
-                "name":"Reed, Chauncey William",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "5120":{
-                "district":"14",
-                "name":"Keeney, Russell Watson",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "4488":{
-                "district":"14",
-                "name":"Hoffman, Elmer Joseph",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "4488":{
-                "district":"14",
-                "name":"Hoffman, Elmer Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":14,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -88.70738,

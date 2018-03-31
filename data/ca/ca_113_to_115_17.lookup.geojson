@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_17",
   "type": "Feature",
   "properties": {
-    "ALAND":478834743,
-    "AWATER":23119253,
-    "CD113FP":"17",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0617",
-    "INTPTLAT":"+37.4440305",
-    "INTPTLON":"-121.9673477",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 17",
-    "STATEFP":"06"
+    "district":17,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -122.11724,

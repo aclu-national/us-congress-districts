@@ -2,62 +2,12 @@
   "id": "va_83_to_89_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"89",
-    "id":"051083089010",
-    "member":{
-        "83":{
-            "1154":{
-                "district":"10",
-                "name":"Broyhill, Joel Thomas",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "1154":{
-                "district":"10",
-                "name":"Broyhill, Joel Thomas",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "1154":{
-                "district":"10",
-                "name":"Broyhill, Joel Thomas",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "1154":{
-                "district":"10",
-                "name":"Broyhill, Joel Thomas",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "1154":{
-                "district":"10",
-                "name":"Broyhill, Joel Thomas",
-                "party":"Republican"
-            }
-        },
-        "88":{
-            "1154":{
-                "district":"10",
-                "name":"Broyhill, Joel Thomas",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "1154":{
-                "district":"10",
-                "name":"Broyhill, Joel Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"va"
 },
   "bbox": [
     -77.53721,

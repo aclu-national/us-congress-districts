@@ -2,48 +2,12 @@
   "id": "ky_23_to_27_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"27",
-    "id":"021023027011",
-    "member":{
-        "23":{
-            "2374":{
-                "district":"11",
-                "name":"Davis, Amos",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "3371":{
-                "district":"11",
-                "name":"French, Richard",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "6412":{
-                "district":"11",
-                "name":"Menefee, Richard Hickman",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "197":{
-                "district":"11",
-                "name":"Andrews, Landaff Watson",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "197":{
-                "district":"11",
-                "name":"Andrews, Landaff Watson",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Kentucky"
+    "district":11,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ky"
 },
   "bbox": [
     -84.08053,

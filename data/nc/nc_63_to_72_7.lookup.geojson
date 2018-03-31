@@ -1,89 +1,13 @@
 {
-  "id": "nc_63_to_72_07",
+  "id": "nc_63_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"037063072007",
-    "member":{
-        "63":{
-            "7160":{
-                "district":"7",
-                "name":"Page, Robert Newton",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "7160":{
-                "district":"7",
-                "name":"Page, Robert Newton",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "7987":{
-                "district":"7",
-                "name":"Robinson, Leonidas Dunlap",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "7987":{
-                "district":"7",
-                "name":"Robinson, Leonidas Dunlap",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "4003":{
-                "district":"7",
-                "name":"Hammer, William Cicero",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "4003":{
-                "district":"7",
-                "name":"Hammer, William Cicero",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "4003":{
-                "district":"7",
-                "name":"Hammer, William Cicero",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "4003":{
-                "district":"7",
-                "name":"Hammer, William Cicero",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "4003":{
-                "district":"7",
-                "name":"Hammer, William Cicero",
-                "party":"Democrat"
-            },
-            "4884":{
-                "district":"7",
-                "name":"James, Hinton",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "5423":{
-                "district":"7",
-                "name":"Lambeth, John Walter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"North Carolina"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nc"
 },
   "bbox": [
     -81.54546,

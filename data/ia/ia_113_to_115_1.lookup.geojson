@@ -1,19 +1,13 @@
 {
-  "id": "ia_113_to_115_01",
+  "id": "ia_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":31206325057,
-    "AWATER":228522101,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1901",
-    "INTPTLAT":"+42.5277596",
-    "INTPTLON":"-091.8961228",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"19"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ia"
 },
   "bbox": [
     -93.497821,

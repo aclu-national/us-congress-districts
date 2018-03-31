@@ -1,49 +1,13 @@
 {
-  "id": "oh_108_to_112_04",
+  "id": "oh_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"039108112004",
-    "member":{
-        "108":{
-            "14875":{
-                "district":"4",
-                "name":"Oxley, Michael G.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "14875":{
-                "district":"4",
-                "name":"Oxley, Michael G.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20738":{
-                "district":"4",
-                "name":"Jordan, Jim",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20738":{
-                "district":"4",
-                "name":"Jordan, Jim",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20738":{
-                "district":"4",
-                "name":"Jordan, Jim",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"oh"
 },
   "bbox": [
     -84.456,

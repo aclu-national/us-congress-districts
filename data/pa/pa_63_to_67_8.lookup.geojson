@@ -1,49 +1,13 @@
 {
-  "id": "pa_63_to_67_08",
+  "id": "pa_63_to_67_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"67",
-    "id":"042063067008",
-    "member":{
-        "63":{
-            "2593":{
-                "district":"8",
-                "name":"Diffenderfer, Robert Edward",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "9873":{
-                "district":"8",
-                "name":"Watson, Henry Winfield",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "9873":{
-                "district":"8",
-                "name":"Watson, Henry Winfield",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "9873":{
-                "district":"8",
-                "name":"Watson, Henry Winfield",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9873":{
-                "district":"8",
-                "name":"Watson, Henry Winfield",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -75.69679,

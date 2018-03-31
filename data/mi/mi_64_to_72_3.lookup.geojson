@@ -1,92 +1,13 @@
 {
-  "id": "mi_64_to_72_03",
+  "id": "mi_64_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"026064072003",
-    "member":{
-        "64":{
-            "8654":{
-                "district":"3",
-                "name":"Smith, John M. C.",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "8654":{
-                "district":"3",
-                "name":"Smith, John M. C.",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "8654":{
-                "district":"3",
-                "name":"Smith, John M. C.",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3339":{
-                "district":"3",
-                "name":"Frankhauser, William Horace",
-                "party":"Republican"
-            },
-            "8654":{
-                "district":"3",
-                "name":"Smith, John M. C.",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "10135":{
-                "district":"3",
-                "name":"Williams, Arthur Bruce",
-                "party":"Republican"
-            },
-            "8654":{
-                "district":"3",
-                "name":"Smith, John M. C.",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "10135":{
-                "district":"3",
-                "name":"Williams, Arthur Bruce",
-                "party":"Republican"
-            },
-            "4558":{
-                "district":"3",
-                "name":"Hooper, Joseph Lawrence",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4558":{
-                "district":"3",
-                "name":"Hooper, Joseph Lawrence",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4558":{
-                "district":"3",
-                "name":"Hooper, Joseph Lawrence",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4558":{
-                "district":"3",
-                "name":"Hooper, Joseph Lawrence",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Michigan"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mi"
 },
   "bbox": [
     -85.76617,

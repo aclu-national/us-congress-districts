@@ -1,21 +1,13 @@
 {
-  "id": "va_18_to_18_03",
+  "id": "va_18_to_18_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"18",
-    "id":"051018018003",
-    "member":{
-        "18":{
-            "225":{
-                "district":"3",
-                "name":"Archer, William Segar",
-                "party":"Crawford Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Virginia"
+    "district":3,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"va"
 },
   "bbox": [
     -78.24083,

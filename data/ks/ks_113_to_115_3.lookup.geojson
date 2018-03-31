@@ -1,19 +1,13 @@
 {
-  "id": "ks_113_to_115_03",
+  "id": "ks_113_to_115_3",
   "type": "Feature",
   "properties": {
-    "ALAND":1961237686,
-    "AWATER":33331660,
-    "CD113FP":"03",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2003",
-    "INTPTLAT":"+38.8950035",
-    "INTPTLON":"-094.7906431",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 3",
-    "STATEFP":"20"
+    "district":3,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ks"
 },
   "bbox": [
     -95.056497,

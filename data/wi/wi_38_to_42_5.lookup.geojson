@@ -1,49 +1,13 @@
 {
-  "id": "wi_38_to_42_05",
+  "id": "wi_38_to_42_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"42",
-    "id":"055038042005",
-    "member":{
-        "38":{
-            "9986":{
-                "district":"5",
-                "name":"Wheeler, Ezra",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "8239":{
-                "district":"5",
-                "name":"Sawyer, Philetus",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "8239":{
-                "district":"5",
-                "name":"Sawyer, Philetus",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "8239":{
-                "district":"5",
-                "name":"Sawyer, Philetus",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "8239":{
-                "district":"5",
-                "name":"Sawyer, Philetus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Wisconsin"
+    "district":5,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"wi"
 },
   "bbox": [
     -89.59998,

@@ -1,21 +1,13 @@
 {
-  "id": "ms_34_to_34_04",
+  "id": "ms_34_to_34_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"34",
-    "id":"028034034004",
-    "member":{
-        "34":{
-            "5412":{
-                "district":"4",
-                "name":"Lake, William Augustus",
-                "party":"American"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Mississippi"
+    "district":4,
+    "end_date":"1857-03-03",
+    "end_session":34,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ms"
 },
   "bbox": [
     -91.23593,

@@ -1,21 +1,13 @@
 {
-  "id": "nc_107_to_107_07",
+  "id": "nc_107_to_107_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"107",
-    "id":"037107107007",
-    "member":{
-        "107":{
-            "29746":{
-                "district":"7",
-                "name":"McIntyre, Mike",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"107",
-    "statename":"North Carolina"
+    "district":7,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"2001-01-03",
+    "start_session":107,
+    "state":"nc"
 },
   "bbox": [
     -79.41929,

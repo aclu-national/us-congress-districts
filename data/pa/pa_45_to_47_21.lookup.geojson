@@ -2,34 +2,12 @@
   "id": "pa_45_to_47_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"47",
-    "id":"042045047021",
-    "member":{
-        "45":{
-            "9525":{
-                "district":"21",
-                "name":"Turney, Jacob",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "10289":{
-                "district":"21",
-                "name":"Wise, Morgan Ringland",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "10289":{
-                "district":"21",
-                "name":"Wise, Morgan Ringland",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Pennsylvania"
+    "district":21,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"pa"
 },
   "bbox": [
     -80.51949,

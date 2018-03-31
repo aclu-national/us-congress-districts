@@ -1,40 +1,13 @@
 {
-  "id": "sc_40_to_42_01",
+  "id": "sc_40_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"045040042001",
-    "member":{
-        "40":{
-            "10074":{
-                "district":"1",
-                "name":"Whittemore, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "10074":{
-                "district":"1",
-                "name":"Whittemore, Benjamin Franklin",
-                "party":"Republican"
-            },
-            "7693":{
-                "district":"1",
-                "name":"Rainey, Joseph Hayne",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "7693":{
-                "district":"1",
-                "name":"Rainey, Joseph Hayne",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"sc"
 },
   "bbox": [
     -80.9095,

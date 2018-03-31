@@ -1,80 +1,13 @@
 {
-  "id": "ms_15_to_22_00",
+  "id": "ms_15_to_22_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"22",
-    "id":"028015022000",
-    "member":{
-        "15":{
-            "7501":{
-                "district":"1",
-                "name":"Poindexter, George",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "7729":{
-                "district":"1",
-                "name":"Rankin, Christopher",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "7729":{
-                "district":"1",
-                "name":"Rankin, Christopher",
-                "party":"Republican"
-            }
-        },
-        "18":{
-            "7729":{
-                "district":"1",
-                "name":"Rankin, Christopher",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "3910":{
-                "district":"1",
-                "name":"Haile, William",
-                "party":"Jackson"
-            },
-            "7729":{
-                "district":"1",
-                "name":"Rankin, Christopher",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "3910":{
-                "district":"1",
-                "name":"Haile, William",
-                "party":"Jackson"
-            },
-            "4444":{
-                "district":"1",
-                "name":"Hinds, Thomas",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "4444":{
-                "district":"1",
-                "name":"Hinds, Thomas",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "7497":{
-                "district":"1",
-                "name":"Plummer, Franklin E.",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Mississippi"
+    "district":0,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"ms"
 },
   "bbox": [
     -91.65501,

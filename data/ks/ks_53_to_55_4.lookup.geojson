@@ -1,35 +1,13 @@
 {
-  "id": "ks_53_to_55_04",
+  "id": "ks_53_to_55_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"55",
-    "id":"020053055004",
-    "member":{
-        "53":{
-            "2269":{
-                "district":"4",
-                "name":"Curtis, Charles",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "2269":{
-                "district":"4",
-                "name":"Curtis, Charles",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2269":{
-                "district":"4",
-                "name":"Curtis, Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Kansas"
+    "district":4,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ks"
 },
   "bbox": [
     -97.3721,

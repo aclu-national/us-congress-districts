@@ -2,48 +2,12 @@
   "id": "oh_23_to_27_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"27",
-    "id":"039023027018",
-    "member":{
-        "23":{
-            "5024":{
-                "district":"18",
-                "name":"Jones, Benjamin",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "5024":{
-                "district":"18",
-                "name":"Jones, Benjamin",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "8442":{
-                "district":"18",
-                "name":"Shepler, Mathias",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "8852":{
-                "district":"18",
-                "name":"Starkweather, David Austin",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "2444":{
-                "district":"18",
-                "name":"Dean, Ezra",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Ohio"
+    "district":18,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"oh"
 },
   "bbox": [
     -82.22509,

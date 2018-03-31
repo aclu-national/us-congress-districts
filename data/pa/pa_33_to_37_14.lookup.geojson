@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"37",
-    "id":"042033037014",
-    "member":{
-        "33":{
-            "3863":{
-                "district":"14",
-                "name":"Grow, Galusha Aaron",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "3863":{
-                "district":"14",
-                "name":"Grow, Galusha Aaron",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "3863":{
-                "district":"14",
-                "name":"Grow, Galusha Aaron",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "3863":{
-                "district":"14",
-                "name":"Grow, Galusha Aaron",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "3863":{
-                "district":"14",
-                "name":"Grow, Galusha Aaron",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -77.60981,

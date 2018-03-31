@@ -1,49 +1,13 @@
 {
-  "id": "mt_93_to_97_02",
+  "id": "mt_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"030093097002",
-    "member":{
-        "93":{
-            "12039":{
-                "district":"2",
-                "name":"Melcher, John",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "12039":{
-                "district":"2",
-                "name":"Melcher, John",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14437":{
-                "district":"2",
-                "name":"Marlenee, Ron",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14437":{
-                "district":"2",
-                "name":"Marlenee, Ron",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14437":{
-                "district":"2",
-                "name":"Marlenee, Ron",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Montana"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mt"
 },
   "bbox": [
     -113.01689,

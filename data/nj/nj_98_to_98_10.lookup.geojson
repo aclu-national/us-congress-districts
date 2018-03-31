@@ -2,20 +2,12 @@
   "id": "nj_98_to_98_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"98",
-    "id":"034098098010",
-    "member":{
-        "98":{
-            "8010":{
-                "district":"10",
-                "name":"Rodino, Peter Wallace, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New Jersey"
+    "district":10,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"nj"
 },
   "bbox": [
     -74.28322,

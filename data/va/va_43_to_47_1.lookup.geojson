@@ -1,54 +1,13 @@
 {
-  "id": "va_43_to_47_01",
+  "id": "va_43_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"051043047001",
-    "member":{
-        "43":{
-            "8361":{
-                "district":"1",
-                "name":"Sener, James Beverley",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "2686":{
-                "district":"1",
-                "name":"Douglas, Beverly Browne",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "2686":{
-                "district":"1",
-                "name":"Douglas, Beverly Browne",
-                "party":"Democrat"
-            },
-            "543":{
-                "district":"1",
-                "name":"Beale, Richard Lee Turberville",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "543":{
-                "district":"1",
-                "name":"Beale, Richard Lee Turberville",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "3492":{
-                "district":"1",
-                "name":"Garrison, George Tankard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"va"
 },
   "bbox": [
     -77.95482,

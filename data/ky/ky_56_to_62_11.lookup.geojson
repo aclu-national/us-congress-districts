@@ -2,67 +2,12 @@
   "id": "ky_56_to_62_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"62",
-    "id":"021056062011",
-    "member":{
-        "56":{
-            "861":{
-                "district":"11",
-                "name":"Boreing, Vincent",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "861":{
-                "district":"11",
-                "name":"Boreing, Vincent",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "4760":{
-                "district":"11",
-                "name":"Hunter, Whiteside Godfrey",
-                "party":"Republican"
-            },
-            "861":{
-                "district":"11",
-                "name":"Boreing, Vincent",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2862":{
-                "district":"11",
-                "name":"Edwards, Don Calvin",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2862":{
-                "district":"11",
-                "name":"Edwards, Don Calvin",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2862":{
-                "district":"11",
-                "name":"Edwards, Don Calvin",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "7577":{
-                "district":"11",
-                "name":"Powers, Caleb",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Kentucky"
+    "district":11,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"ky"
 },
   "bbox": [
     -85.97741,

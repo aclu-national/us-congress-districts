@@ -2,48 +2,12 @@
   "id": "va_13_to_17_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"17",
-    "id":"051013017014",
-    "member":{
-        "13":{
-            "1323":{
-                "district":"14",
-                "name":"Burwell, William Armisted",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "1323":{
-                "district":"14",
-                "name":"Burwell, William Armisted",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "1323":{
-                "district":"14",
-                "name":"Burwell, William Armisted",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "1323":{
-                "district":"14",
-                "name":"Burwell, William Armisted",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "5584":{
-                "district":"14",
-                "name":"Leftwich, Jabez",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":14,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -80.62578,

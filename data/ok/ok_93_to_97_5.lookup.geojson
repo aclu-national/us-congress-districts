@@ -1,49 +1,13 @@
 {
-  "id": "ok_93_to_97_05",
+  "id": "ok_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"040093097005",
-    "member":{
-        "93":{
-            "4891":{
-                "district":"5",
-                "name":"Jarman, John",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "94891":{
-                "district":"5",
-                "name":"Jarman, John",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14415":{
-                "district":"5",
-                "name":"Edwards, Mickey",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14415":{
-                "district":"5",
-                "name":"Edwards, Mickey",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14415":{
-                "district":"5",
-                "name":"Edwards, Mickey",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Oklahoma"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ok"
 },
   "bbox": [
     -97.67432,

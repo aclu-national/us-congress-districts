@@ -1,70 +1,13 @@
 {
-  "id": "va_53_to_60_01",
+  "id": "va_53_to_60_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"60",
-    "id":"051053060001",
-    "member":{
-        "53":{
-            "5067":{
-                "district":"1",
-                "name":"Jones, William Atkinson",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "5067":{
-                "district":"1",
-                "name":"Jones, William Atkinson",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "5067":{
-                "district":"1",
-                "name":"Jones, William Atkinson",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "5067":{
-                "district":"1",
-                "name":"Jones, William Atkinson",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "5067":{
-                "district":"1",
-                "name":"Jones, William Atkinson",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "5067":{
-                "district":"1",
-                "name":"Jones, William Atkinson",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "5067":{
-                "district":"1",
-                "name":"Jones, William Atkinson",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "5067":{
-                "district":"1",
-                "name":"Jones, William Atkinson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"va"
 },
   "bbox": [
     -77.95482,

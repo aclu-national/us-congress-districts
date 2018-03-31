@@ -2,27 +2,12 @@
   "id": "pa_51_to_52_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"52",
-    "id":"042051052010",
-    "member":{
-        "51":{
-            "1089":{
-                "district":"10",
-                "name":"Brosius, Marriott",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "1089":{
-                "district":"10",
-                "name":"Brosius, Marriott",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

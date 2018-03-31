@@ -1,49 +1,13 @@
 {
-  "id": "il_108_to_112_08",
+  "id": "il_108_to_112_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"112",
-    "id":"017108112008",
-    "member":{
-        "108":{
-            "12041":{
-                "district":"8",
-                "name":"Crane, Philip M.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20509":{
-                "district":"8",
-                "name":"Bean, Melissa",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20509":{
-                "district":"8",
-                "name":"Bean, Melissa",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20509":{
-                "district":"8",
-                "name":"Bean, Melissa",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21126":{
-                "district":"8",
-                "name":"Walsh, Joe",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Illinois"
+    "district":8,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"il"
 },
   "bbox": [
     -88.47219,

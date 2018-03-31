@@ -1,49 +1,13 @@
 {
-  "id": "md_93_to_97_04",
+  "id": "md_93_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"024093097004",
-    "member":{
-        "93":{
-            "14021":{
-                "district":"4",
-                "name":"Holt, Marjorie",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14021":{
-                "district":"4",
-                "name":"Holt, Marjorie",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14021":{
-                "district":"4",
-                "name":"Holt, Marjorie",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14021":{
-                "district":"4",
-                "name":"Holt, Marjorie",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14021":{
-                "district":"4",
-                "name":"Holt, Marjorie",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Maryland"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"md"
 },
   "bbox": [
     -77.0775,

@@ -1,28 +1,13 @@
 {
-  "id": "pa_51_to_52_06",
+  "id": "pa_51_to_52_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"52",
-    "id":"042051052006",
-    "member":{
-        "51":{
-            "2342":{
-                "district":"6",
-                "name":"Darlington, Smedley",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "7981":{
-                "district":"6",
-                "name":"Robinson, John Buchanan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -76.13638,

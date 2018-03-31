@@ -1,49 +1,13 @@
 {
-  "id": "mi_108_to_112_03",
+  "id": "mi_108_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"026108112003",
-    "member":{
-        "108":{
-            "29362":{
-                "district":"3",
-                "name":"Ehlers, Vernon J.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29362":{
-                "district":"3",
-                "name":"Ehlers, Vernon J.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29362":{
-                "district":"3",
-                "name":"Ehlers, Vernon J.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29362":{
-                "district":"3",
-                "name":"Ehlers, Vernon J.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21143":{
-                "district":"3",
-                "name":"Amash, Justin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Michigan"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mi"
 },
   "bbox": [
     -85.78714,

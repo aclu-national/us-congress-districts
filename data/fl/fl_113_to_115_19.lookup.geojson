@@ -2,18 +2,12 @@
   "id": "fl_113_to_115_19",
   "type": "Feature",
   "properties": {
-    "ALAND":1943129639,
-    "AWATER":1597411456,
-    "CD113FP":"19",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1219",
-    "INTPTLAT":"+26.4316160",
-    "INTPTLON":"-081.9067394",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 19",
-    "STATEFP":"12"
+    "district":19,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"fl"
 },
   "bbox": [
     -82.33504,

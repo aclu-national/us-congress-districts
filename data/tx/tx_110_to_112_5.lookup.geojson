@@ -1,35 +1,13 @@
 {
-  "id": "tx_110_to_112_05",
+  "id": "tx_110_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"048110112005",
-    "member":{
-        "110":{
-            "20352":{
-                "district":"5",
-                "name":"Hensarling, Jeb",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20352":{
-                "district":"5",
-                "name":"Hensarling, Jeb",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20352":{
-                "district":"5",
-                "name":"Hensarling, Jeb",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"110",
-    "statename":"Texas"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2007-01-04",
+    "start_session":110,
+    "state":"tx"
 },
   "bbox": [
     -96.75339,

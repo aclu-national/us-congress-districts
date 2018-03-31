@@ -2,27 +2,12 @@
   "id": "nj_91_to_92_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"92",
-    "id":"034091092010",
-    "member":{
-        "91":{
-            "8010":{
-                "district":"10",
-                "name":"Rodino, Peter Wallace, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "8010":{
-                "district":"10",
-                "name":"Rodino, Peter Wallace, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New Jersey"
+    "district":10,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nj"
 },
   "bbox": [
     -74.25189,

@@ -1,49 +1,13 @@
 {
-  "id": "co_98_to_102_02",
+  "id": "co_98_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"008098102002",
-    "member":{
-        "100":{
-            "15443":{
-                "district":"2",
-                "name":"Skaggs, David Evans",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15443":{
-                "district":"2",
-                "name":"Skaggs, David Evans",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15443":{
-                "district":"2",
-                "name":"Skaggs, David Evans",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14282":{
-                "district":"2",
-                "name":"Wirth, Timothy",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14282":{
-                "district":"2",
-                "name":"Wirth, Timothy",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Colorado"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"co"
 },
   "bbox": [
     -105.92572,

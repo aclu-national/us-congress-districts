@@ -2,27 +2,12 @@
   "id": "oh_88_to_89_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"89",
-    "id":"039088089011",
-    "member":{
-        "88":{
-            "838":{
-                "district":"11",
-                "name":"Bolton, Oliver Payne",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10773":{
-                "district":"11",
-                "name":"Stanton, J. William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Ohio"
+    "district":11,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"oh"
 },
   "bbox": [
     -81.48894,

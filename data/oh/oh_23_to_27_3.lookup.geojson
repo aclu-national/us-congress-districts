@@ -1,49 +1,13 @@
 {
-  "id": "oh_23_to_27_03",
+  "id": "oh_23_to_27_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"27",
-    "id":"039023027003",
-    "member":{
-        "23":{
-            "2145":{
-                "district":"3",
-                "name":"Crane, Joseph Halsey",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "2145":{
-                "district":"3",
-                "name":"Crane, Joseph Halsey",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "3667":{
-                "district":"3",
-                "name":"Goode, Patrick Gaines",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "3667":{
-                "district":"3",
-                "name":"Goode, Patrick Gaines",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "3667":{
-                "district":"3",
-                "name":"Goode, Patrick Gaines",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"oh"
 },
   "bbox": [
     -84.80618,

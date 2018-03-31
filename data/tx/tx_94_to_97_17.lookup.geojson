@@ -2,41 +2,12 @@
   "id": "tx_94_to_97_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"97",
-    "id":"048094097017",
-    "member":{
-        "94":{
-            "1282":{
-                "district":"17",
-                "name":"Burleson, Omar Truman",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "1282":{
-                "district":"17",
-                "name":"Burleson, Omar Truman",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14664":{
-                "district":"17",
-                "name":"Stenholm, Charles Walter",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14664":{
-                "district":"17",
-                "name":"Stenholm, Charles Walter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"Texas"
+    "district":17,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"tx"
 },
   "bbox": [
     -102.07621,

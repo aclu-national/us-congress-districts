@@ -2,48 +2,12 @@
   "id": "va_108_to_112_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"112",
-    "id":"051108112010",
-    "member":{
-        "108":{
-            "14869":{
-                "district":"10",
-                "name":"Wolf, Frank R.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "14869":{
-                "district":"10",
-                "name":"Wolf, Frank R.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "14869":{
-                "district":"10",
-                "name":"Wolf, Frank R.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "14869":{
-                "district":"10",
-                "name":"Wolf, Frank R.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "14869":{
-                "district":"10",
-                "name":"Wolf, Frank R.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"va"
 },
   "bbox": [
     -78.54411,

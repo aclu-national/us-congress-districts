@@ -2,34 +2,12 @@
   "id": "pa_90_to_92_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"92",
-    "id":"042090092013",
-    "member":{
-        "90":{
-            "10557":{
-                "district":"13",
-                "name":"Schweiker, Richard S.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "12010":{
-                "district":"13",
-                "name":"Coughlin, R. Lawrence",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "12010":{
-                "district":"13",
-                "name":"Coughlin, R. Lawrence",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"pa"
 },
   "bbox": [
     -75.69679,

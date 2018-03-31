@@ -1,49 +1,13 @@
 {
-  "id": "al_103_to_107_01",
+  "id": "al_103_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"001103107001",
-    "member":{
-        "103":{
-            "15090":{
-                "district":"1",
-                "name":"Callahan, Herbert L.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15090":{
-                "district":"1",
-                "name":"Callahan, Herbert L.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15090":{
-                "district":"1",
-                "name":"Callahan, Herbert L.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "15090":{
-                "district":"1",
-                "name":"Callahan, Herbert L.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "15090":{
-                "district":"1",
-                "name":"Callahan, Herbert L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Alabama"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"al"
 },
   "bbox": [
     -88.46443,

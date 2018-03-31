@@ -1,35 +1,13 @@
 {
-  "id": "tn_80_to_82_07",
+  "id": "tn_80_to_82_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"82",
-    "id":"047080082007",
-    "member":{
-        "80":{
-            "2093":{
-                "district":"7",
-                "name":"Courtney, William Wirt",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "9099":{
-                "district":"7",
-                "name":"Sutton, James Patrick",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "9099":{
-                "district":"7",
-                "name":"Sutton, James Patrick",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"80",
-    "statename":"Tennessee"
+    "district":7,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1947-01-03",
+    "start_session":80,
+    "state":"tn"
 },
   "bbox": [
     -88.07053,

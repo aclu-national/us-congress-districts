@@ -2,27 +2,12 @@
   "id": "tx_91_to_92_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"92",
-    "id":"048091092023",
-    "member":{
-        "91":{
-            "11023":{
-                "district":"23",
-                "name":"Kazen, Abraham J.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "11023":{
-                "district":"23",
-                "name":"Kazen, Abraham J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Texas"
+    "district":23,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"tx"
 },
   "bbox": [
     -100.66755,

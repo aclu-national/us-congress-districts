@@ -2,41 +2,12 @@
   "id": "pa_109_to_112_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"112",
-    "id":"042109112019",
-    "member":{
-        "109":{
-            "20135":{
-                "district":"19",
-                "name":"Platts, Todd Russell",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20135":{
-                "district":"19",
-                "name":"Platts, Todd Russell",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20135":{
-                "district":"19",
-                "name":"Platts, Todd Russell",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20135":{
-                "district":"19",
-                "name":"Platts, Todd R.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"pa"
 },
   "bbox": [
     -77.53322,

@@ -1,42 +1,13 @@
 {
-  "id": "ky_48_to_51_02",
+  "id": "ky_48_to_51_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"51",
-    "id":"021048051002",
-    "member":{
-        "48":{
-            "1812":{
-                "district":"2",
-                "name":"Clay, James Franklin",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "5398":{
-                "district":"2",
-                "name":"Laffoon, Polk",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "5398":{
-                "district":"2",
-                "name":"Laffoon, Polk",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "2928":{
-                "district":"2",
-                "name":"Ellis, William Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Kentucky"
+    "district":2,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ky"
 },
   "bbox": [
     -88.16021,

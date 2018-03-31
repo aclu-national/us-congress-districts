@@ -2,48 +2,12 @@
   "id": "oh_78_to_82_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"82",
-    "id":"039078082022",
-    "member":{
-        "78":{
-            "837":{
-                "district":"22",
-                "name":"Bolton, Frances Payne",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "837":{
-                "district":"22",
-                "name":"Bolton, Frances Payne",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "837":{
-                "district":"22",
-                "name":"Bolton, Frances Payne",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "837":{
-                "district":"22",
-                "name":"Bolton, Frances Payne",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "837":{
-                "district":"22",
-                "name":"Bolton, Frances Payne",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Ohio"
+    "district":22,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"oh"
 },
   "bbox": [
     -81.97126,

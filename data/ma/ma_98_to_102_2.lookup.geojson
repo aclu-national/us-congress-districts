@@ -1,49 +1,13 @@
 {
-  "id": "ma_98_to_102_02",
+  "id": "ma_98_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"025098102002",
-    "member":{
-        "100":{
-            "830":{
-                "district":"2",
-                "name":"Boland, Edward Patrick",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15616":{
-                "district":"2",
-                "name":"Neal, Richard E.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15616":{
-                "district":"2",
-                "name":"Neal, Richard E.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "830":{
-                "district":"2",
-                "name":"Boland, Edward Patrick",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "830":{
-                "district":"2",
-                "name":"Boland, Edward Patrick",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ma"
 },
   "bbox": [
     -72.6285,

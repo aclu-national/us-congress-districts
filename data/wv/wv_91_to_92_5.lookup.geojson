@@ -1,28 +1,13 @@
 {
-  "id": "wv_91_to_92_05",
+  "id": "wv_91_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"054091092005",
-    "member":{
-        "91":{
-            "10744":{
-                "district":"5",
-                "name":"Kee, James",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10744":{
-                "district":"5",
-                "name":"Kee, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"West Virginia"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"wv"
 },
   "bbox": [
     -82.42048,

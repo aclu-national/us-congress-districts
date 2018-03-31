@@ -2,27 +2,12 @@
   "id": "va_8_to_9_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"9",
-    "id":"051008009017",
-    "member":{
-        "8":{
-            "1739":{
-                "district":"17",
-                "name":"Claiborne, Thomas",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "1736":{
-                "district":"17",
-                "name":"Claiborne, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Virginia"
+    "district":17,
+    "end_date":"1807-03-03",
+    "end_session":9,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"va"
 },
   "bbox": [
     -78.74044,

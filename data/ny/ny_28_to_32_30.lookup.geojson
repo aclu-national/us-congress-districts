@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"32",
-    "id":"036028032030",
-    "member":{
-        "28":{
-            "4679":{
-                "district":"30",
-                "name":"Hubbell, William Spring",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "3862":{
-                "district":"30",
-                "name":"Grover, Martin",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "8113":{
-                "district":"30",
-                "name":"Rumsey, David",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "8113":{
-                "district":"30",
-                "name":"Rumsey, David",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "7971":{
-                "district":"30",
-                "name":"Robie, Reuben",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":30,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -78.30931,

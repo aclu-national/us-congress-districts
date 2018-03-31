@@ -1,49 +1,13 @@
 {
-  "id": "ma_48_to_52_01",
+  "id": "ma_48_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"025048052001",
-    "member":{
-        "48":{
-            "2407":{
-                "district":"1",
-                "name":"Davis, Robert Thompson",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "2407":{
-                "district":"1",
-                "name":"Davis, Robert Thompson",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "2407":{
-                "district":"1",
-                "name":"Davis, Robert Thompson",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "7713":{
-                "district":"1",
-                "name":"Randall, Charles Sturtevant",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "7713":{
-                "district":"1",
-                "name":"Randall, Charles Sturtevant",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ma"
 },
   "bbox": [
     -71.3472,

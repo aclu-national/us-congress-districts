@@ -1,35 +1,13 @@
 {
-  "id": "tn_95_to_97_03",
+  "id": "tn_95_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"047095097003",
-    "member":{
-        "95":{
-            "14251":{
-                "district":"3",
-                "name":"Lloyd, Marilyn (Bouquard)",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14251":{
-                "district":"3",
-                "name":"Lloyd, Marilyn (Bouquard)",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14251":{
-                "district":"3",
-                "name":"Lloyd, Marilyn (Bouquard)",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"95",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1977-01-04",
+    "start_session":95,
+    "state":"tn"
 },
   "bbox": [
     -85.87303,

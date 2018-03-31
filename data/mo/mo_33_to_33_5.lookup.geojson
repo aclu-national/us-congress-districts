@@ -1,21 +1,13 @@
 {
-  "id": "mo_33_to_33_05",
+  "id": "mo_33_to_33_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"33",
-    "id":"029033033005",
-    "member":{
-        "33":{
-            "6495":{
-                "district":"5",
-                "name":"Miller, John Gaines",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Missouri"
+    "district":5,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"mo"
 },
   "bbox": [
     -94.61344,

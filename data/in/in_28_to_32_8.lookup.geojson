@@ -1,49 +1,13 @@
 {
-  "id": "in_28_to_32_08",
+  "id": "in_28_to_32_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"32",
-    "id":"018028032008",
-    "member":{
-        "28":{
-            "7383":{
-                "district":"8",
-                "name":"Pettit, John",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "7383":{
-                "district":"8",
-                "name":"Pettit, John",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "7383":{
-                "district":"8",
-                "name":"Pettit, John",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "6219":{
-                "district":"8",
-                "name":"McDonald, Joseph Ewing",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "5876":{
-                "district":"8",
-                "name":"Mace, Daniel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Indiana"
+    "district":8,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"in"
 },
   "bbox": [
     -87.53144,

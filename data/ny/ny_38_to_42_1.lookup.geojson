@@ -1,54 +1,13 @@
 {
-  "id": "ny_38_to_42_01",
+  "id": "ny_38_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"036038042001",
-    "member":{
-        "38":{
-            "8862":{
-                "district":"1",
-                "name":"Stebbins, Henry George",
-                "party":"Democrat"
-            },
-            "9435":{
-                "district":"1",
-                "name":"Townsend, Dwight",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "9145":{
-                "district":"1",
-                "name":"Taber, Stephen",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "9145":{
-                "district":"1",
-                "name":"Taber, Stephen",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "7804":{
-                "district":"1",
-                "name":"Reeves, Henry Augustus",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "9435":{
-                "district":"1",
-                "name":"Townsend, Dwight",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

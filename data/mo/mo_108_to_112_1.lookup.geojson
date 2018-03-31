@@ -1,49 +1,13 @@
 {
-  "id": "mo_108_to_112_01",
+  "id": "mo_108_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"029108112001",
-    "member":{
-        "108":{
-            "20147":{
-                "district":"1",
-                "name":"Clay, William (lacy)",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20147":{
-                "district":"1",
-                "name":"Clay, William (lacy)",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20147":{
-                "district":"1",
-                "name":"Clay, William (lacy)",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20147":{
-                "district":"1",
-                "name":"Clay, William (lacy)",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20147":{
-                "district":"1",
-                "name":"Clay, William Lacy",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Missouri"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mo"
 },
   "bbox": [
     -90.49532,

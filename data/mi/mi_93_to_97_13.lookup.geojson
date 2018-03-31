@@ -2,53 +2,12 @@
   "id": "mi_93_to_97_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"97",
-    "id":"026093097013",
-    "member":{
-        "93":{
-            "2594":{
-                "district":"13",
-                "name":"Diggs, Charles Coles Jr.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "2594":{
-                "district":"13",
-                "name":"Diggs, Charles Coles Jr.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "2594":{
-                "district":"13",
-                "name":"Diggs, Charles Coles Jr.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14681":{
-                "district":"13",
-                "name":"Crockett, George W., Jr.",
-                "party":"Democrat"
-            },
-            "2594":{
-                "district":"13",
-                "name":"Diggs, Charles Coles Jr.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14681":{
-                "district":"13",
-                "name":"Crockett, George W., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Michigan"
+    "district":13,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mi"
 },
   "bbox": [
     -83.11763,

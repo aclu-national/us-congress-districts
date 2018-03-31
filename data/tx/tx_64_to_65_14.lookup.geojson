@@ -2,27 +2,12 @@
   "id": "tx_64_to_65_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"65",
-    "id":"048064065014",
-    "member":{
-        "64":{
-            "8570":{
-                "district":"14",
-                "name":"Slayden, James Luther",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8570":{
-                "district":"14",
-                "name":"Slayden, James Luther",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Texas"
+    "district":14,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"tx"
 },
   "bbox": [
     -99.75767,

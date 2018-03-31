@@ -1,26 +1,13 @@
 {
-  "id": "co_63_to_63_00",
+  "id": "co_63_to_63_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"63",
-    "id":"008063063000",
-    "member":{
-        "63":{
-            "5115":{
-                "district":"99",
-                "name":"Keating, Edward",
-                "party":"Democrat"
-            },
-            "9205":{
-                "district":"99",
-                "name":"Taylor, Edward Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Colorado"
+    "district":0,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"co"
 },
   "bbox": [
     -109.06026,

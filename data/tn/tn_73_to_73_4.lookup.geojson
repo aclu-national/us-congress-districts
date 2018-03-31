@@ -1,21 +1,13 @@
 {
-  "id": "tn_73_to_73_04",
+  "id": "tn_73_to_73_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"73",
-    "id":"047073073004",
-    "member":{
-        "73":{
-            "6570":{
-                "district":"4",
-                "name":"Mitchell, John Ridley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1934-06-18",
+    "end_session":73,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"tn"
 },
   "bbox": [
     -86.9608,

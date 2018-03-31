@@ -1,49 +1,13 @@
 {
-  "id": "ar_53_to_57_01",
+  "id": "ar_53_to_57_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"57",
-    "id":"005053057001",
-    "member":{
-        "53":{
-            "6202":{
-                "district":"1",
-                "name":"McCulloch, Philip Doddrid",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "6202":{
-                "district":"1",
-                "name":"McCulloch, Philip Doddrid",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "6202":{
-                "district":"1",
-                "name":"McCulloch, Philip Doddrid",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "6202":{
-                "district":"1",
-                "name":"McCulloch, Philip Doddrid",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "6202":{
-                "district":"1",
-                "name":"McCulloch, Philip Doddrid",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Arkansas"
+    "district":1,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ar"
 },
   "bbox": [
     -91.7108,

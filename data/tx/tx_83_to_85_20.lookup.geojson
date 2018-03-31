@@ -2,34 +2,12 @@
   "id": "tx_83_to_85_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"85",
-    "id":"048083085020",
-    "member":{
-        "83":{
-            "5236":{
-                "district":"20",
-                "name":"Kilday, Paul Joseph",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5236":{
-                "district":"20",
-                "name":"Kilday, Paul Joseph",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5236":{
-                "district":"20",
-                "name":"Kilday, Paul Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Texas"
+    "district":20,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tx"
 },
   "bbox": [
     -98.80655,

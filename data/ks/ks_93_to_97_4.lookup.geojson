@@ -1,49 +1,13 @@
 {
-  "id": "ks_93_to_97_04",
+  "id": "ks_93_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"020093097004",
-    "member":{
-        "93":{
-            "10559":{
-                "district":"4",
-                "name":"Shriver, Garner E.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "10559":{
-                "district":"4",
-                "name":"Shriver, Garner E.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14422":{
-                "district":"4",
-                "name":"Glickman, Dan",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14422":{
-                "district":"4",
-                "name":"Glickman, Dan",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14422":{
-                "district":"4",
-                "name":"Glickman, Dan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Kansas"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ks"
 },
   "bbox": [
     -98.47313,

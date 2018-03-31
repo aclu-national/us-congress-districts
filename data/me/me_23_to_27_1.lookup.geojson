@@ -1,49 +1,13 @@
 {
-  "id": "me_23_to_27_01",
+  "id": "me_23_to_27_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"27",
-    "id":"023023027001",
-    "member":{
-        "23":{
-            "6277":{
-                "district":"1",
-                "name":"McIntire, Rufus",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "3049":{
-                "district":"1",
-                "name":"Fairfield, John",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "3049":{
-                "district":"1",
-                "name":"Fairfield, John",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "1841":{
-                "district":"1",
-                "name":"Clifford, Nathan",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "1841":{
-                "district":"1",
-                "name":"Clifford, Nathan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Maine"
+    "district":1,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"me"
 },
   "bbox": [
     -70.98907,

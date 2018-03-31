@@ -1,49 +1,13 @@
 {
-  "id": "wi_53_to_57_03",
+  "id": "wi_53_to_57_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"57",
-    "id":"055053057003",
-    "member":{
-        "53":{
-            "314":{
-                "district":"3",
-                "name":"Babcock, Joseph Weeks",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "314":{
-                "district":"3",
-                "name":"Babcock, Joseph Weeks",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "314":{
-                "district":"3",
-                "name":"Babcock, Joseph Weeks",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "314":{
-                "district":"3",
-                "name":"Babcock, Joseph Weeks",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "314":{
-                "district":"3",
-                "name":"Babcock, Joseph Weeks",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Wisconsin"
+    "district":3,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"wi"
 },
   "bbox": [
     -91.27332,

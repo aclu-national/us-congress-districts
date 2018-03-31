@@ -2,41 +2,12 @@
   "id": "wi_89_to_92_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"92",
-    "id":"055089092010",
-    "member":{
-        "89":{
-            "7046":{
-                "district":"10",
-                "name":"O'Konski, Alvin E.",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "7046":{
-                "district":"10",
-                "name":"O'Konski, Alvin E.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "7046":{
-                "district":"10",
-                "name":"O'Konski, Alvin E.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "7046":{
-                "district":"10",
-                "name":"O'Konski, Alvin E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Wisconsin"
+    "district":10,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"wi"
 },
   "bbox": [
     -92.88943,

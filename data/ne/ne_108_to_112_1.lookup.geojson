@@ -1,49 +1,13 @@
 {
-  "id": "ne_108_to_112_01",
+  "id": "ne_108_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"031108112001",
-    "member":{
-        "108":{
-            "14605":{
-                "district":"1",
-                "name":"Bereuter, Douglas K.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20518":{
-                "district":"1",
-                "name":"Fortenberry, Jeff",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20518":{
-                "district":"1",
-                "name":"Fortenberry, Jeff",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20518":{
-                "district":"1",
-                "name":"Fortenberry, Jeff",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20518":{
-                "district":"1",
-                "name":"Fortenberry, Jeff",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Nebraska"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ne"
 },
   "bbox": [
     -97.83467,

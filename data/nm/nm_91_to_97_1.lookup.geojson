@@ -1,63 +1,13 @@
 {
-  "id": "nm_91_to_97_01",
+  "id": "nm_91_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"035091097001",
-    "member":{
-        "91":{
-            "12022":{
-                "district":"1",
-                "name":"Lujan, Manuel, Jr.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "12022":{
-                "district":"1",
-                "name":"Lujan, Manuel, Jr.",
-                "party":"Republican"
-            }
-        },
-        "93":{
-            "12022":{
-                "district":"1",
-                "name":"Lujan, Manuel, Jr.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "12022":{
-                "district":"1",
-                "name":"Lujan, Manuel, Jr.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "12022":{
-                "district":"1",
-                "name":"Lujan, Manuel, Jr.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "12022":{
-                "district":"1",
-                "name":"Lujan, Manuel, Jr.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "12022":{
-                "district":"1",
-                "name":"Lujan, Manuel, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New Mexico"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nm"
 },
   "bbox": [
     -107.62693,

@@ -2,48 +2,12 @@
   "id": "oh_33_to_37_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"37",
-    "id":"039033037011",
-    "member":{
-        "33":{
-            "7917":{
-                "district":"11",
-                "name":"Ritchey, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "4590":{
-                "district":"11",
-                "name":"Horton, Valentine Baxter",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "4590":{
-                "district":"11",
-                "name":"Horton, Valentine Baxter",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "6017":{
-                "district":"11",
-                "name":"Martin, Charles Drake",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "4590":{
-                "district":"11",
-                "name":"Horton, Valentine Baxter",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":11,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -82.84307,

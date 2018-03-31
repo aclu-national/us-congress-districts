@@ -1,54 +1,13 @@
 {
-  "id": "la_58_to_62_02",
+  "id": "la_58_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"022058062002",
-    "member":{
-        "58":{
-            "2363":{
-                "district":"2",
-                "name":"Davey, Robert Charles",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "2363":{
-                "district":"2",
-                "name":"Davey, Robert Charles",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "2363":{
-                "district":"2",
-                "name":"Davey, Robert Charles",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "2783":{
-                "district":"2",
-                "name":"Dupre, Henry Garland",
-                "party":"Democrat"
-            },
-            "3618":{
-                "district":"2",
-                "name":"Gilmore, Samuel Louis",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "2783":{
-                "district":"2",
-                "name":"Dupre, Henry Garland",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Louisiana"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"la"
 },
   "bbox": [
     -90.96368,

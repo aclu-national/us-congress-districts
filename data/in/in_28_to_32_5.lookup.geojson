@@ -1,49 +1,13 @@
 {
-  "id": "in_28_to_32_05",
+  "id": "in_28_to_32_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"32",
-    "id":"018028032005",
-    "member":{
-        "28":{
-            "1139":{
-                "district":"5",
-                "name":"Brown, William John",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "10083":{
-                "district":"5",
-                "name":"Wick, William Watson",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "10083":{
-                "district":"5",
-                "name":"Wick, William Watson",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "1139":{
-                "district":"5",
-                "name":"Brown, William John",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "4319":{
-                "district":"5",
-                "name":"Hendricks, Thomas Andrews",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Indiana"
+    "district":5,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"in"
 },
   "bbox": [
     -86.3814,

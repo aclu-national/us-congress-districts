@@ -2,20 +2,12 @@
   "id": "ny_48_to_48_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"48",
-    "id":"036048048012",
-    "member":{
-        "48":{
-            "4779":{
-                "district":"12",
-                "name":"Hutchins, Waldo",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -73.9827,

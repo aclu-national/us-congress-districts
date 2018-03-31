@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"64",
-    "id":"036063064017",
-    "member":{
-        "63":{
-            "1500":{
-                "district":"17",
-                "name":"Carew, John Francis",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "1500":{
-                "district":"17",
-                "name":"Carew, John Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -73.99878,

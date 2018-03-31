@@ -1,49 +1,13 @@
 {
-  "id": "fl_58_to_62_02",
+  "id": "fl_58_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"012058062002",
-    "member":{
-        "58":{
-            "2408":{
-                "district":"2",
-                "name":"Davis, Robert Wyche",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "1762":{
-                "district":"2",
-                "name":"Clark, Frank",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "1762":{
-                "district":"2",
-                "name":"Clark, Frank",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "1762":{
-                "district":"2",
-                "name":"Clark, Frank",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "1762":{
-                "district":"2",
-                "name":"Clark, Frank",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Florida"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"fl"
 },
   "bbox": [
     -83.30961,

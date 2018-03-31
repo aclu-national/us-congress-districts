@@ -1,36 +1,13 @@
 {
-  "id": "ma_3_to_3_02",
+  "id": "ma_3_to_3_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"3",
-    "id":"025003003002",
-    "member":{
-        "3":{
-            "3303":{
-                "district":"2",
-                "name":"Foster, Dwight",
-                "party":"Pro-Administration"
-            },
-            "5852":{
-                "district":"2",
-                "name":"Lyman, William",
-                "party":"Anti-Administration"
-            },
-            "8344":{
-                "district":"2",
-                "name":"Sedgwick, Theodore",
-                "party":"Pro-Administration"
-            },
-            "9808":{
-                "district":"2",
-                "name":"Ward, Artemas",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1795-03-03",
+    "end_session":3,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ma"
 },
   "bbox": [
     -73.50814,

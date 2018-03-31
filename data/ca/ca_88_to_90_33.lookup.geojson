@@ -2,34 +2,12 @@
   "id": "ca_88_to_90_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"90",
-    "id":"006088090033",
-    "member":{
-        "88":{
-            "8444":{
-                "district":"33",
-                "name":"Sheppard, Harry Richard",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10720":{
-                "district":"33",
-                "name":"Dyal, Ken W.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11038":{
-                "district":"33",
-                "name":"Pettis, Jerry L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":33,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -117.80289,

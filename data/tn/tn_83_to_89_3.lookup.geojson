@@ -1,63 +1,13 @@
 {
-  "id": "tn_83_to_89_03",
+  "id": "tn_83_to_89_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"89",
-    "id":"047083089003",
-    "member":{
-        "83":{
-            "3346":{
-                "district":"3",
-                "name":"Frazier, James Beriah, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "3346":{
-                "district":"3",
-                "name":"Frazier, James Beriah, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "3346":{
-                "district":"3",
-                "name":"Frazier, James Beriah, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "3346":{
-                "district":"3",
-                "name":"Frazier, James Beriah, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "3346":{
-                "district":"3",
-                "name":"Frazier, James Beriah, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "10571":{
-                "district":"3",
-                "name":"Brock, William E., Iii",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10571":{
-                "district":"3",
-                "name":"Brock, William E., Iii",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tn"
 },
   "bbox": [
     -85.91363,

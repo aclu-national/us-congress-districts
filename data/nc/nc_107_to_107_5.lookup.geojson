@@ -1,21 +1,13 @@
 {
-  "id": "nc_107_to_107_05",
+  "id": "nc_107_to_107_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"107",
-    "id":"037107107005",
-    "member":{
-        "107":{
-            "29548":{
-                "district":"5",
-                "name":"Burr, Richard M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"107",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"2001-01-03",
+    "start_session":107,
+    "state":"nc"
 },
   "bbox": [
     -81.73965,

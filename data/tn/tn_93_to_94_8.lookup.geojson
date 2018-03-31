@@ -1,28 +1,13 @@
 {
-  "id": "tn_93_to_94_08",
+  "id": "tn_93_to_94_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"94",
-    "id":"047093094008",
-    "member":{
-        "93":{
-            "11025":{
-                "district":"8",
-                "name":"Kuykendall, Dan",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14224":{
-                "district":"8",
-                "name":"Ford, Harold",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"1976-10-01",
+    "end_session":94,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

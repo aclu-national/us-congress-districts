@@ -2,20 +2,12 @@
   "id": "pa_7_to_7_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"7",
-    "id":"042007007011",
-    "member":{
-        "7":{
-            "8596":{
-                "district":"11",
-                "name":"Smilie, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"7",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1801-03-04",
+    "start_session":7,
+    "state":"pa"
 },
   "bbox": [
     -80.01075,

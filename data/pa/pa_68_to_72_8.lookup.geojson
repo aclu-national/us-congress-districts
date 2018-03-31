@@ -1,54 +1,13 @@
 {
-  "id": "pa_68_to_72_08",
+  "id": "pa_68_to_72_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"72",
-    "id":"042068072008",
-    "member":{
-        "68":{
-            "1352":{
-                "district":"8",
-                "name":"Butler, Thomas Stalker",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "1352":{
-                "district":"8",
-                "name":"Butler, Thomas Stalker",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "10311":{
-                "district":"8",
-                "name":"Wolfenden, James",
-                "party":"Republican"
-            },
-            "1352":{
-                "district":"8",
-                "name":"Butler, Thomas Stalker",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "10311":{
-                "district":"8",
-                "name":"Wolfenden, James",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "10311":{
-                "district":"8",
-                "name":"Wolfenden, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -76.13638,

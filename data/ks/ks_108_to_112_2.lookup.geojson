@@ -1,49 +1,13 @@
 {
-  "id": "ks_108_to_112_02",
+  "id": "ks_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"020108112002",
-    "member":{
-        "108":{
-            "29723":{
-                "district":"2",
-                "name":"Ryun, Jim",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29723":{
-                "district":"2",
-                "name":"Ryun, Jim",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20721":{
-                "district":"2",
-                "name":"Boyda, Nancy E.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20915":{
-                "district":"2",
-                "name":"Jenkins, Lynn",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20915":{
-                "district":"2",
-                "name":"Jenkins, Lynn",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Kansas"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ks"
 },
   "bbox": [
     -96.96171,

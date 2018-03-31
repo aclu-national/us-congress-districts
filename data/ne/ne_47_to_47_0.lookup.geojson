@@ -1,21 +1,13 @@
 {
-  "id": "ne_47_to_47_00",
+  "id": "ne_47_to_47_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"47",
-    "id":"031047047000",
-    "member":{
-        "47":{
-            "9586":{
-                "district":"1",
-                "name":"Valentine, Edward Kimble",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Nebraska"
+    "district":0,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"ne"
 },
   "bbox": [
     -104.05351,

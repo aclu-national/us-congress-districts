@@ -1,21 +1,13 @@
 {
-  "id": "ny_93_to_93_07",
+  "id": "ny_93_to_93_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"93",
-    "id":"036093093007",
-    "member":{
-        "93":{
-            "10500":{
-                "district":"7",
-                "name":"Addabbo, Joseph P.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ny"
 },
   "bbox": [
     -73.87283,

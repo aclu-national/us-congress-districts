@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"87",
-    "id":"036083087019",
-    "member":{
-        "83":{
-            "5317":{
-                "district":"19",
-                "name":"Klein, Arthur George",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5317":{
-                "district":"19",
-                "name":"Klein, Arthur George",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "3056":{
-                "district":"19",
-                "name":"Farbstein, Leonard",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "3056":{
-                "district":"19",
-                "name":"Farbstein, Leonard",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "3056":{
-                "district":"19",
-                "name":"Farbstein, Leonard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":19,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -74.04718,

@@ -1,28 +1,13 @@
 {
-  "id": "tn_78_to_79_05",
+  "id": "tn_78_to_79_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"79",
-    "id":"047078079005",
-    "member":{
-        "78":{
-            "6173":{
-                "district":"5",
-                "name":"McCord, James Nance",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "2821":{
-                "district":"5",
-                "name":"Earthman, Harold Henderson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1946-08-02",
+    "end_session":79,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"tn"
 },
   "bbox": [
     -87.23244,

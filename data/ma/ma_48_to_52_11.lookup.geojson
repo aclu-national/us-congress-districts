@@ -2,48 +2,12 @@
   "id": "ma_48_to_52_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"52",
-    "id":"025048052011",
-    "member":{
-        "48":{
-            "10067":{
-                "district":"11",
-                "name":"Whiting, William",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "10067":{
-                "district":"11",
-                "name":"Whiting, William",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "10067":{
-                "district":"11",
-                "name":"Whiting, William",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "9769":{
-                "district":"11",
-                "name":"Wallace, Rodney",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "2034":{
-                "district":"11",
-                "name":"Coolidge, Frederick Spaulding",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ma"
 },
   "bbox": [
     -73.06862,

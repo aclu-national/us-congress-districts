@@ -1,49 +1,13 @@
 {
-  "id": "wa_103_to_107_08",
+  "id": "wa_103_to_107_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"107",
-    "id":"053103107008",
-    "member":{
-        "103":{
-            "39312":{
-                "district":"8",
-                "name":"Dunn, Jennifer",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "39312":{
-                "district":"8",
-                "name":"Dunn, Jennifer",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "39312":{
-                "district":"8",
-                "name":"Dunn, Jennifer",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "39312":{
-                "district":"8",
-                "name":"Dunn, Jennifer",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "39312":{
-                "district":"8",
-                "name":"Dunn, Jennifer",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Washington"
+    "district":8,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"wa"
 },
   "bbox": [
     -122.37156,

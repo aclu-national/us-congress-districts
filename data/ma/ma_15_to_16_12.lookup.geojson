@@ -2,27 +2,12 @@
   "id": "ma_15_to_16_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"16",
-    "id":"025015016012",
-    "member":{
-        "15":{
-            "9036":{
-                "district":"12",
-                "name":"Strong, Solomon",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "5167":{
-                "district":"12",
-                "name":"Kendall, Jonas",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"ma"
 },
   "bbox": [
     -72.29142,

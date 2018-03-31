@@ -2,48 +2,12 @@
   "id": "il_58_to_62_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"62",
-    "id":"017058062015",
-    "member":{
-        "58":{
-            "7624":{
-                "district":"15",
-                "name":"Prince, George Washington",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "7624":{
-                "district":"15",
-                "name":"Prince, George Washington",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "7624":{
-                "district":"15",
-                "name":"Prince, George Washington",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "7624":{
-                "district":"15",
-                "name":"Prince, George Washington",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "7624":{
-                "district":"15",
-                "name":"Prince, George Washington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":15,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -91.51308,

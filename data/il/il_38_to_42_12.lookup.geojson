@@ -2,48 +2,12 @@
   "id": "il_38_to_42_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"42",
-    "id":"017038042012",
-    "member":{
-        "38":{
-            "6725":{
-                "district":"12",
-                "name":"Morrison, William Ralls",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "366":{
-                "district":"12",
-                "name":"Baker, Jehu",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "366":{
-                "district":"12",
-                "name":"Baker, Jehu",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "4226":{
-                "district":"12",
-                "name":"Hay, John Breese",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "4226":{
-                "district":"12",
-                "name":"Hay, John Breese",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Illinois"
+    "district":12,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"il"
 },
   "bbox": [
     -90.37408,

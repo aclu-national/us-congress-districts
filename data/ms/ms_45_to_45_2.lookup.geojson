@@ -1,21 +1,13 @@
 {
-  "id": "ms_45_to_45_02",
+  "id": "ms_45_to_45_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"45",
-    "id":"028045045002",
-    "member":{
-        "45":{
-            "5965":{
-                "district":"2",
-                "name":"Manning, Vannoy Hartrog",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Mississippi"
+    "district":2,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"ms"
 },
   "bbox": [
     -90.45164,

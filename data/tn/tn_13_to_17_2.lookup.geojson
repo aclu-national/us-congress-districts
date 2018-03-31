@@ -1,49 +1,13 @@
 {
-  "id": "tn_13_to_17_02",
+  "id": "tn_13_to_17_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"17",
-    "id":"047013017002",
-    "member":{
-        "13":{
-            "8374":{
-                "district":"2",
-                "name":"Sevier, John",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "807":{
-                "district":"2",
-                "name":"Blount, William Grainger",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "807":{
-                "district":"2",
-                "name":"Blount, William Grainger",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "1887":{
-                "district":"2",
-                "name":"Cocke, John",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "1887":{
-                "district":"2",
-                "name":"Cocke, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Tennessee"
+    "district":2,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"tn"
 },
   "bbox": [
     -85.70062,

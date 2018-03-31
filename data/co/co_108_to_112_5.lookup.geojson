@@ -1,49 +1,13 @@
 {
-  "id": "co_108_to_112_05",
+  "id": "co_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"008108112005",
-    "member":{
-        "108":{
-            "15419":{
-                "district":"5",
-                "name":"Hefley, Joel",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "15419":{
-                "district":"5",
-                "name":"Hefley, Joel",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20704":{
-                "district":"5",
-                "name":"Lamborn, Doug",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20704":{
-                "district":"5",
-                "name":"Lamborn, Doug",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20704":{
-                "district":"5",
-                "name":"Lamborn, Doug",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Colorado"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"co"
 },
   "bbox": [
     -106.59952,

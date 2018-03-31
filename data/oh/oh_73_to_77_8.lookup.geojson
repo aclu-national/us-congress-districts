@@ -1,49 +1,13 @@
 {
-  "id": "oh_73_to_77_08",
+  "id": "oh_73_to_77_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"77",
-    "id":"039073077008",
-    "member":{
-        "73":{
-            "3221":{
-                "district":"8",
-                "name":"Fletcher, Thomas Brooks",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "3221":{
-                "district":"8",
-                "name":"Fletcher, Thomas Brooks",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "3221":{
-                "district":"8",
-                "name":"Fletcher, Thomas Brooks",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8619":{
-                "district":"8",
-                "name":"Smith, Frederick Cleveland",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "8619":{
-                "district":"8",
-                "name":"Smith, Frederick Cleveland",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Ohio"
+    "district":8,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"oh"
 },
   "bbox": [
     -83.88111,

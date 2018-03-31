@@ -1,28 +1,13 @@
 {
-  "id": "va_104_to_105_09",
+  "id": "va_104_to_105_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"105",
-    "id":"051104105009",
-    "member":{
-        "104":{
-            "15010":{
-                "district":"9",
-                "name":"Boucher, Frederick C.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "15010":{
-                "district":"9",
-                "name":"Boucher, Frederick C.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Virginia"
+    "district":9,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"va"
 },
   "bbox": [
     -83.6755,

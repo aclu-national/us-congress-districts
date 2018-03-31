@@ -1,26 +1,13 @@
 {
-  "id": "la_92_to_92_07",
+  "id": "la_92_to_92_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"92",
-    "id":"022092092007",
-    "member":{
-        "92":{
-            "10787":{
-                "district":"7",
-                "name":"Edwards, Edwin",
-                "party":"Democrat"
-            },
-            "13056":{
-                "district":"7",
-                "name":"Breaux, John B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"Louisiana"
+    "district":7,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"la"
 },
   "bbox": [
     -93.9053,

@@ -1,49 +1,13 @@
 {
-  "id": "in_108_to_112_04",
+  "id": "in_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"018108112004",
-    "member":{
-        "108":{
-            "29350":{
-                "district":"4",
-                "name":"Buyer, Steve",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29350":{
-                "district":"4",
-                "name":"Buyer, Steve",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29350":{
-                "district":"4",
-                "name":"Buyer, Steve",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29350":{
-                "district":"4",
-                "name":"Buyer, Steve",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21131":{
-                "district":"4",
-                "name":"Rokita, Todd",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Indiana"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"in"
 },
   "bbox": [
     -87.33929,

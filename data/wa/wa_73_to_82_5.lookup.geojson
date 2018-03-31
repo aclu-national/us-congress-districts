@@ -1,84 +1,13 @@
 {
-  "id": "wa_73_to_82_05",
+  "id": "wa_73_to_82_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"82",
-    "id":"053073082005",
-    "member":{
-        "73":{
-            "4423":{
-                "district":"5",
-                "name":"Hill, Samuel Billingsley",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "4423":{
-                "district":"5",
-                "name":"Hill, Samuel Billingsley",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5549":{
-                "district":"5",
-                "name":"Leavy, Charles Henry",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "5549":{
-                "district":"5",
-                "name":"Leavy, Charles Henry",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "5549":{
-                "district":"5",
-                "name":"Leavy, Charles Henry",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "4579":{
-                "district":"5",
-                "name":"Horan, Walter Franklin",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4579":{
-                "district":"5",
-                "name":"Horan, Walter Franklin",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "4579":{
-                "district":"5",
-                "name":"Horan, Walter Franklin",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4579":{
-                "district":"5",
-                "name":"Horan, Walter Franklin",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4579":{
-                "district":"5",
-                "name":"Horan, Walter Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Washington"
+    "district":5,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"wa"
 },
   "bbox": [
     -121.18071,

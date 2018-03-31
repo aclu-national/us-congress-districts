@@ -2,48 +2,12 @@
   "id": "oh_108_to_112_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"112",
-    "id":"039108112016",
-    "member":{
-        "108":{
-            "14045":{
-                "district":"16",
-                "name":"Regula, Ralph",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "14045":{
-                "district":"16",
-                "name":"Regula, Ralph",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "14045":{
-                "district":"16",
-                "name":"Regula, Ralph",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20943":{
-                "district":"16",
-                "name":"Boccieri, John",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21164":{
-                "district":"16",
-                "name":"Renacci, Jim",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Ohio"
+    "district":16,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"oh"
 },
   "bbox": [
     -82.42027,

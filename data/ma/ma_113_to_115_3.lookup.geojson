@@ -1,19 +1,13 @@
 {
-  "id": "ma_113_to_115_03",
+  "id": "ma_113_to_115_3",
   "type": "Feature",
   "properties": {
-    "ALAND":1962752171,
-    "AWATER":76026225,
-    "CD113FP":"03",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2503",
-    "INTPTLAT":"+42.5895154",
-    "INTPTLON":"-071.5728279",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 3",
-    "STATEFP":"25"
+    "district":3,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ma"
 },
   "bbox": [
     -72.081387,

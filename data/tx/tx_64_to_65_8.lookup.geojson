@@ -1,28 +1,13 @@
 {
-  "id": "tx_64_to_65_08",
+  "id": "tx_64_to_65_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"65",
-    "id":"048064065008",
-    "member":{
-        "64":{
-            "2810":{
-                "district":"8",
-                "name":"Eagle, Joe Henry",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "2810":{
-                "district":"8",
-                "name":"Eagle, Joe Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Texas"
+    "district":8,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"tx"
 },
   "bbox": [
     -96.62202,

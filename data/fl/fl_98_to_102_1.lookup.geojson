@@ -1,49 +1,13 @@
 {
-  "id": "fl_98_to_102_01",
+  "id": "fl_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"012098102001",
-    "member":{
-        "100":{
-            "14636":{
-                "district":"1",
-                "name":"Hutto, Earl Dewitt",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14636":{
-                "district":"1",
-                "name":"Hutto, Earl Dewitt",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14636":{
-                "district":"1",
-                "name":"Hutto, Earl Dewitt",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14636":{
-                "district":"1",
-                "name":"Hutto, Earl Dewitt",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14636":{
-                "district":"1",
-                "name":"Hutto, Earl Dewitt",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Florida"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"fl"
 },
   "bbox": [
     -87.63495,

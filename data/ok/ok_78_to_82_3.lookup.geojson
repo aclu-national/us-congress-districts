@@ -1,49 +1,13 @@
 {
-  "id": "ok_78_to_82_03",
+  "id": "ok_78_to_82_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"82",
-    "id":"040078082003",
-    "member":{
-        "78":{
-            "8944":{
-                "district":"3",
-                "name":"Stewart, Paul",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "8944":{
-                "district":"3",
-                "name":"Stewart, Paul",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "62":{
-                "district":"3",
-                "name":"Albert, Carl",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "62":{
-                "district":"3",
-                "name":"Albert, Carl",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "62":{
-                "district":"3",
-                "name":"Albert, Carl",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Oklahoma"
+    "district":3,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ok"
 },
   "bbox": [
     -97.56274,

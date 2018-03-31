@@ -2,27 +2,12 @@
   "id": "ny_66_to_67_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"67",
-    "id":"036066067028",
-    "member":{
-        "66":{
-            "8212":{
-                "district":"28",
-                "name":"Sanford, Rollin Brewster",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9256":{
-                "district":"28",
-                "name":"Ten Eyck, Peter Gansevoort",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":28,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -74.26486,

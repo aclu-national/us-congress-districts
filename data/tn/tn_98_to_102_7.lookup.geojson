@@ -1,49 +1,13 @@
 {
-  "id": "tn_98_to_102_07",
+  "id": "tn_98_to_102_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"102",
-    "id":"047098102007",
-    "member":{
-        "100":{
-            "15066":{
-                "district":"7",
-                "name":"Sundquist, Donald K.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15066":{
-                "district":"7",
-                "name":"Sundquist, Donald K.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15066":{
-                "district":"7",
-                "name":"Sundquist, Donald K.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "15066":{
-                "district":"7",
-                "name":"Sundquist, Donald K.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15066":{
-                "district":"7",
-                "name":"Sundquist, Donald K.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Tennessee"
+    "district":7,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"tn"
 },
   "bbox": [
     -89.99012,

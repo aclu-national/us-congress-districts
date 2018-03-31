@@ -1,49 +1,13 @@
 {
-  "id": "il_103_to_107_07",
+  "id": "il_103_to_107_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"107",
-    "id":"017103107007",
-    "member":{
-        "103":{
-            "14068":{
-                "district":"7",
-                "name":"Collins, Cardiss",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "14068":{
-                "district":"7",
-                "name":"Collins, Cardiss",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29717":{
-                "district":"7",
-                "name":"Davis, Danny K.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29717":{
-                "district":"7",
-                "name":"Davis, Danny K.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29717":{
-                "district":"7",
-                "name":"Davis, Danny K.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Illinois"
+    "district":7,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"il"
 },
   "bbox": [
     -87.91936,

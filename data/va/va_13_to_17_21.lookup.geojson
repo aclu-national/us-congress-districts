@@ -2,48 +2,12 @@
   "id": "va_13_to_17_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"17",
-    "id":"051013017021",
-    "member":{
-        "13":{
-            "6905":{
-                "district":"21",
-                "name":"Newton, Thomas, Jr.",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "6905":{
-                "district":"21",
-                "name":"Newton, Thomas, Jr.",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "6905":{
-                "district":"21",
-                "name":"Newton, Thomas, Jr.",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "6905":{
-                "district":"21",
-                "name":"Newton, Thomas, Jr.",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "6905":{
-                "district":"21",
-                "name":"Newton, Thomas, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":21,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -76.93094,

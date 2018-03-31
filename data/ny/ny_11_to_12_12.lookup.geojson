@@ -2,27 +2,12 @@
   "id": "ny_11_to_12_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"12",
-    "id":"036011012012",
-    "member":{
-        "11":{
-            "8056":{
-                "district":"12",
-                "name":"Root, Erastus",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "6440":{
-                "district":"12",
-                "name":"Metcalf, Arunah",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"11",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1809-03-04",
+    "start_session":11,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

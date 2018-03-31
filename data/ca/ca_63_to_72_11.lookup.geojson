@@ -2,83 +2,12 @@
   "id": "ca_63_to_72_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"72",
-    "id":"006063072011",
-    "member":{
-        "63":{
-            "5221":{
-                "district":"11",
-                "name":"Kettner, William",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "5221":{
-                "district":"11",
-                "name":"Kettner, William",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "5221":{
-                "district":"11",
-                "name":"Kettner, William",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "5221":{
-                "district":"11",
-                "name":"Kettner, William",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "9130":{
-                "district":"11",
-                "name":"Swing, Philip David",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "9130":{
-                "district":"11",
-                "name":"Swing, Philip David",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9130":{
-                "district":"11",
-                "name":"Swing, Philip David",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9130":{
-                "district":"11",
-                "name":"Swing, Philip David",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9130":{
-                "district":"11",
-                "name":"Swing, Philip David",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9130":{
-                "district":"11",
-                "name":"Swing, Philip David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"California"
+    "district":11,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ca"
 },
   "bbox": [
     -119.65151,

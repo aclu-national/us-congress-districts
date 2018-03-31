@@ -1,49 +1,13 @@
 {
-  "id": "il_28_to_32_06",
+  "id": "il_28_to_32_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"32",
-    "id":"017028032006",
-    "member":{
-        "28":{
-            "4500":{
-                "district":"6",
-                "name":"Hoge, Joseph Pendleton",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4500":{
-                "district":"6",
-                "name":"Hoge, Joseph Pendleton",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "9523":{
-                "district":"6",
-                "name":"Turner, Thomas Johnston",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "361":{
-                "district":"6",
-                "name":"Baker, Edward Dickinson",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "1466":{
-                "district":"6",
-                "name":"Campbell, Thompson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Illinois"
+    "district":6,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"il"
 },
   "bbox": [
     -91.50727,

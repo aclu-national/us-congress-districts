@@ -1,21 +1,13 @@
 {
-  "id": "ny_48_to_48_06",
+  "id": "ny_48_to_48_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"48",
-    "id":"036048048006",
-    "member":{
-        "48":{
-            "2118":{
-                "district":"6",
-                "name":"Cox, Samuel Sullivan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -73.99761,

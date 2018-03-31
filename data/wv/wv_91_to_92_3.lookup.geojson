@@ -1,28 +1,13 @@
 {
-  "id": "wv_91_to_92_03",
+  "id": "wv_91_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"054091092003",
-    "member":{
-        "91":{
-            "8564":{
-                "district":"3",
-                "name":"Slack, John Mark, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "8564":{
-                "district":"3",
-                "name":"Slack, John Mark, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"West Virginia"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"wv"
 },
   "bbox": [
     -82.06456,

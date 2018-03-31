@@ -1,49 +1,13 @@
 {
-  "id": "me_18_to_22_06",
+  "id": "me_18_to_22_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"22",
-    "id":"023018022006",
-    "member":{
-        "18":{
-            "7001":{
-                "district":"6",
-                "name":"O'Brien, Jeremiah",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "7001":{
-                "district":"6",
-                "name":"O'Brien, Jeremiah",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "7001":{
-                "district":"6",
-                "name":"O'Brien, Jeremiah",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "4896":{
-                "district":"6",
-                "name":"Jarvis, Leonard",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "4896":{
-                "district":"6",
-                "name":"Jarvis, Leonard",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Maine"
+    "district":6,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"me"
 },
   "bbox": [
     -69.28472,

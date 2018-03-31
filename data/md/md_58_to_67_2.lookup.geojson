@@ -1,89 +1,13 @@
 {
-  "id": "md_58_to_67_02",
+  "id": "md_58_to_67_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"67",
-    "id":"024058067002",
-    "member":{
-        "58":{
-            "9163":{
-                "district":"2",
-                "name":"Talbott, Joshua Frederick",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "9163":{
-                "district":"2",
-                "name":"Talbott, Joshua Frederick",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "9163":{
-                "district":"2",
-                "name":"Talbott, Joshua Frederick",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "9163":{
-                "district":"2",
-                "name":"Talbott, Joshua Frederick",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "9163":{
-                "district":"2",
-                "name":"Talbott, Joshua Frederick",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "9163":{
-                "district":"2",
-                "name":"Talbott, Joshua Frederick",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "9163":{
-                "district":"2",
-                "name":"Talbott, Joshua Frederick",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "648":{
-                "district":"2",
-                "name":"Benson, Carville Dickinson",
-                "party":"Democrat"
-            },
-            "9163":{
-                "district":"2",
-                "name":"Talbott, Joshua Frederick",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "648":{
-                "district":"2",
-                "name":"Benson, Carville Dickinson",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "776":{
-                "district":"2",
-                "name":"Blakeney, Albert Alexander",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Maryland"
+    "district":2,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"md"
 },
   "bbox": [
     -77.31151,

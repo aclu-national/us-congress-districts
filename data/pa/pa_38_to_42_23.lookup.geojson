@@ -2,48 +2,12 @@
   "id": "pa_38_to_42_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"42",
-    "id":"042038042023",
-    "member":{
-        "38":{
-            "10179":{
-                "district":"23",
-                "name":"Williams, Thomas",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "10179":{
-                "district":"23",
-                "name":"Williams, Thomas",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "10179":{
-                "district":"23",
-                "name":"Williams, Thomas",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "7398":{
-                "district":"23",
-                "name":"Phelps, Darwin",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "6282":{
-                "district":"23",
-                "name":"McJunkin, Ebenezer",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Pennsylvania"
+    "district":23,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"pa"
 },
   "bbox": [
     -80.22832,

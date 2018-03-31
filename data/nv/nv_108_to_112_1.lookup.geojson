@@ -1,49 +1,13 @@
 {
-  "id": "nv_108_to_112_01",
+  "id": "nv_108_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"032108112001",
-    "member":{
-        "108":{
-            "29922":{
-                "district":"1",
-                "name":"Berkley, Shelley",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29922":{
-                "district":"1",
-                "name":"Berkley, Shelley",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29922":{
-                "district":"1",
-                "name":"Berkley, Shelley",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29922":{
-                "district":"1",
-                "name":"Berkley, Shelley",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29922":{
-                "district":"1",
-                "name":"Berkley, Shelley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Nevada"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nv"
 },
   "bbox": [
     -115.34182,

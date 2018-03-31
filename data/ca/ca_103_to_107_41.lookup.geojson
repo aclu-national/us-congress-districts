@@ -2,48 +2,12 @@
   "id": "ca_103_to_107_41",
   "type": "Feature",
   "properties": {
-    "district":"41",
-    "endcong":"107",
-    "id":"006103107041",
-    "member":{
-        "103":{
-            "29322":{
-                "district":"41",
-                "name":"Kim, Jay C.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29322":{
-                "district":"41",
-                "name":"Kim, Jay C.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29322":{
-                "district":"41",
-                "name":"Kim, Jay C.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29905":{
-                "district":"41",
-                "name":"Miller, Gary G.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29905":{
-                "district":"41",
-                "name":"Miller, Gary G.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"California"
+    "district":41,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ca"
 },
   "bbox": [
     -117.93523,

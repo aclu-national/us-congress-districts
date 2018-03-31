@@ -1,63 +1,13 @@
 {
-  "id": "va_83_to_89_04",
+  "id": "va_83_to_89_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"89",
-    "id":"051083089004",
-    "member":{
-        "83":{
-            "2":{
-                "district":"4",
-                "name":"Abbitt, Watkins Moorman",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "2":{
-                "district":"4",
-                "name":"Abbitt, Watkins Moorman",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "2":{
-                "district":"4",
-                "name":"Abbitt, Watkins Moorman",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "2":{
-                "district":"4",
-                "name":"Abbitt, Watkins Moorman",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "2":{
-                "district":"4",
-                "name":"Abbitt, Watkins Moorman",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "2":{
-                "district":"4",
-                "name":"Abbitt, Watkins Moorman",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "2":{
-                "district":"4",
-                "name":"Abbitt, Watkins Moorman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"va"
 },
   "bbox": [
     -79.01853,

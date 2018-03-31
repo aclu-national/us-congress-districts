@@ -2,46 +2,12 @@
   "id": "pa_23_to_26_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"26",
-    "id":"042023026022",
-    "member":{
-        "23":{
-            "2506":{
-                "district":"22",
-                "name":"Denny, Harmar",
-                "party":"Anti Masonic"
-            }
-        },
-        "24":{
-            "2506":{
-                "district":"22",
-                "name":"Denny, Harmar",
-                "party":"Anti Masonic"
-            }
-        },
-        "25":{
-            "695":{
-                "district":"22",
-                "name":"Biddle, Richard",
-                "party":"Anti Masonic"
-            }
-        },
-        "26":{
-            "695":{
-                "district":"22",
-                "name":"Biddle, Richard",
-                "party":"Anti Masonic"
-            },
-            "944":{
-                "district":"22",
-                "name":"Brackenridge, Henry Marie",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":22,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -80.36087,

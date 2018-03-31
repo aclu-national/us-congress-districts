@@ -2,20 +2,12 @@
   "id": "pa_44_to_44_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"44",
-    "id":"042044044019",
-    "member":{
-        "44":{
-            "5931":{
-                "district":"19",
-                "name":"Maish, Levi",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -77.62724,

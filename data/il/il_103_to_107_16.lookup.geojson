@@ -2,48 +2,12 @@
   "id": "il_103_to_107_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"107",
-    "id":"017103107016",
-    "member":{
-        "103":{
-            "29349":{
-                "district":"16",
-                "name":"Manzullo, Donald",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29349":{
-                "district":"16",
-                "name":"Manzullo, Donald",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29349":{
-                "district":"16",
-                "name":"Manzullo, Donald A.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29349":{
-                "district":"16",
-                "name":"Manzullo, Donald A.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29349":{
-                "district":"16",
-                "name":"Manzullo, Donald A.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Illinois"
+    "district":16,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"il"
 },
   "bbox": [
     -90.65653,

@@ -2,18 +2,12 @@
   "id": "oh_113_to_115_11",
   "type": "Feature",
   "properties": {
-    "ALAND":633326831,
-    "AWATER":1310790296,
-    "CD113FP":"11",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3911",
-    "INTPTLAT":"+41.6132500",
-    "INTPTLON":"-081.5310366",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 11",
-    "STATEFP":"39"
+    "district":11,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"oh"
 },
   "bbox": [
     -81.788366,

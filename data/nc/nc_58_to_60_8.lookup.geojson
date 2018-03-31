@@ -1,35 +1,13 @@
 {
-  "id": "nc_58_to_60_08",
+  "id": "nc_58_to_60_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"60",
-    "id":"037058060008",
-    "member":{
-        "58":{
-            "5327":{
-                "district":"8",
-                "name":"Kluttz, Theodore Franklin",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "750":{
-                "district":"8",
-                "name":"Blackburn, Edmond Spencer",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3894":{
-                "district":"8",
-                "name":"Hackett, Richard Nathanie",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"North Carolina"
+    "district":8,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"nc"
 },
   "bbox": [
     -81.98788,

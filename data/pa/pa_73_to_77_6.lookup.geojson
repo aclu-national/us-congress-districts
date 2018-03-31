@@ -1,49 +1,13 @@
 {
-  "id": "pa_73_to_77_06",
+  "id": "pa_73_to_77_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"77",
-    "id":"042073077006",
-    "member":{
-        "73":{
-            "8969":{
-                "district":"6",
-                "name":"Stokes, Edward Lowber",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "8821":{
-                "district":"6",
-                "name":"Stack, Michael Joseph",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8821":{
-                "district":"6",
-                "name":"Stack, Michael Joseph",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "6836":{
-                "district":"6",
-                "name":"Myers, Francis John",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "6836":{
-                "district":"6",
-                "name":"Myers, Francis John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

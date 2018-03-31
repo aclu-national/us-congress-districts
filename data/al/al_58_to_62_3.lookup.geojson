@@ -1,49 +1,13 @@
 {
-  "id": "al_58_to_62_03",
+  "id": "al_58_to_62_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"62",
-    "id":"001058062003",
-    "member":{
-        "58":{
-            "1821":{
-                "district":"3",
-                "name":"Clayton, Henry De Lamar",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "1821":{
-                "district":"3",
-                "name":"Clayton, Henry De Lamar",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "1821":{
-                "district":"3",
-                "name":"Clayton, Henry De Lamar",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "1821":{
-                "district":"3",
-                "name":"Clayton, Henry De Lamar",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "1821":{
-                "district":"3",
-                "name":"Clayton, Henry De Lamar",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Alabama"
+    "district":3,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"al"
 },
   "bbox": [
     -86.19636,

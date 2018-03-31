@@ -2,48 +2,12 @@
   "id": "il_83_to_87_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"87",
-    "id":"017083087016",
-    "member":{
-        "83":{
-            "121":{
-                "district":"16",
-                "name":"Allen, Leo Elwood",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "121":{
-                "district":"16",
-                "name":"Allen, Leo Elwood",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "121":{
-                "district":"16",
-                "name":"Allen, Leo Elwood",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "121":{
-                "district":"16",
-                "name":"Allen, Leo Elwood",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10501":{
-                "district":"16",
-                "name":"Anderson, John B.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":16,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -90.65653,

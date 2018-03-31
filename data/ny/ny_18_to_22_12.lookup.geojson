@@ -2,48 +2,12 @@
   "id": "ny_18_to_22_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"22",
-    "id":"036018022012",
-    "member":{
-        "18":{
-            "2829":{
-                "district":"12",
-                "name":"Eaton, Lewis",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "2592":{
-                "district":"12",
-                "name":"Dietz, William",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "2466":{
-                "district":"12",
-                "name":"De Graff, John Isaac",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "867":{
-                "district":"12",
-                "name":"Borst, Peter I",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "876":{
-                "district":"12",
-                "name":"Bouck, Joseph",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -74.71158,

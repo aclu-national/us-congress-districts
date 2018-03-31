@@ -2,48 +2,12 @@
   "id": "ca_103_to_107_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"107",
-    "id":"006103107010",
-    "member":{
-        "103":{
-            "29310":{
-                "district":"10",
-                "name":"Baker, Bill",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29310":{
-                "district":"10",
-                "name":"Baker, Bill",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29705":{
-                "district":"10",
-                "name":"Tauscher, Ellen O.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29705":{
-                "district":"10",
-                "name":"Tauscher, Ellen O.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29705":{
-                "district":"10",
-                "name":"Tauscher, Ellen O.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"California"
+    "district":10,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ca"
 },
   "bbox": [
     -122.28068,

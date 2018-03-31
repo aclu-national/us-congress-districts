@@ -1,119 +1,13 @@
 {
-  "id": "ri_48_to_62_01",
+  "id": "ri_48_to_62_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"62",
-    "id":"044048062001",
-    "member":{
-        "48":{
-            "8799":{
-                "district":"1",
-                "name":"Spooner, Henry Joshua",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "8799":{
-                "district":"1",
-                "name":"Spooner, Henry Joshua",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "8799":{
-                "district":"1",
-                "name":"Spooner, Henry Joshua",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "8799":{
-                "district":"1",
-                "name":"Spooner, Henry Joshua",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "5474":{
-                "district":"1",
-                "name":"Lapham, Oscar",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "5474":{
-                "district":"1",
-                "name":"Lapham, Oscar",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "1227":{
-                "district":"1",
-                "name":"Bull, Melville",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "1227":{
-                "district":"1",
-                "name":"Bull, Melville",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "1227":{
-                "district":"1",
-                "name":"Bull, Melville",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "1227":{
-                "district":"1",
-                "name":"Bull, Melville",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "3749":{
-                "district":"1",
-                "name":"Granger, Daniel Larned Davis",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "3749":{
-                "district":"1",
-                "name":"Granger, Daniel Larned Davis",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "3749":{
-                "district":"1",
-                "name":"Granger, Daniel Larned Davis",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "8430":{
-                "district":"1",
-                "name":"Sheffield, William Paine",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "7098":{
-                "district":"1",
-                "name":"O'Shaunessy, George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Rhode Island"
+    "district":1,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ri"
 },
   "bbox": [
     -71.61313,

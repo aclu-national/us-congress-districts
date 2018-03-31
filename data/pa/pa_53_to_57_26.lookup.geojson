@@ -2,48 +2,12 @@
   "id": "pa_53_to_57_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"57",
-    "id":"042053057026",
-    "member":{
-        "53":{
-            "98500":{
-                "district":"26",
-                "name":"Sibley, Joseph Crocker",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "3845":{
-                "district":"26",
-                "name":"Griswold, Matthew",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "9065":{
-                "district":"26",
-                "name":"Sturtevant, John Cirby",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "3503":{
-                "district":"26",
-                "name":"Gaston, Athelston",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "510":{
-                "district":"26",
-                "name":"Bates, Arthur Laban",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Pennsylvania"
+    "district":26,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

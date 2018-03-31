@@ -1,49 +1,13 @@
 {
-  "id": "ga_93_to_97_02",
+  "id": "ga_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"013093097002",
-    "member":{
-        "93":{
-            "13023":{
-                "district":"2",
-                "name":"Mathis, Dawson",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "13023":{
-                "district":"2",
-                "name":"Mathis, Dawson",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "13023":{
-                "district":"2",
-                "name":"Mathis, Dawson",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "13023":{
-                "district":"2",
-                "name":"Mathis, Dawson",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14831":{
-                "district":"2",
-                "name":"Hatcher, Charles F.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Georgia"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ga"
 },
   "bbox": [
     -85.14193,

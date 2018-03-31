@@ -1,49 +1,13 @@
 {
-  "id": "mn_58_to_62_05",
+  "id": "mn_58_to_62_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"62",
-    "id":"027058062005",
-    "member":{
-        "58":{
-            "5672":{
-                "district":"5",
-                "name":"Lind, John",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "3218":{
-                "district":"5",
-                "name":"Fletcher, Loren",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "6990":{
-                "district":"5",
-                "name":"Nye, Frank Mellen",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "6990":{
-                "district":"5",
-                "name":"Nye, Frank Mellen",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "6990":{
-                "district":"5",
-                "name":"Nye, Frank Mellen",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Minnesota"
+    "district":5,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"mn"
 },
   "bbox": [
     -93.76704,

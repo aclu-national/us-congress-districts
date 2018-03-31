@@ -2,55 +2,12 @@
   "id": "ny_73_to_78_36",
   "type": "Feature",
   "properties": {
-    "district":"36",
-    "endcong":"78",
-    "id":"036073078036",
-    "member":{
-        "73":{
-            "9144":{
-                "district":"36",
-                "name":"Taber, John",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "9144":{
-                "district":"36",
-                "name":"Taber, John",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "9144":{
-                "district":"36",
-                "name":"Taber, John",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "9144":{
-                "district":"36",
-                "name":"Taber, John",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "9144":{
-                "district":"36",
-                "name":"Taber, John",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "9144":{
-                "district":"36",
-                "name":"Taber, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":36,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -77.61192,

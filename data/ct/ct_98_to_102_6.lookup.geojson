@@ -1,49 +1,13 @@
 {
-  "id": "ct_98_to_102_06",
+  "id": "ct_98_to_102_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"102",
-    "id":"009098102006",
-    "member":{
-        "100":{
-            "15028":{
-                "district":"6",
-                "name":"Johnson, Nancy",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15028":{
-                "district":"6",
-                "name":"Johnson, Nancy",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15028":{
-                "district":"6",
-                "name":"Johnson, Nancy",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "15028":{
-                "district":"6",
-                "name":"Johnson, Nancy",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15028":{
-                "district":"6",
-                "name":"Johnson, Nancy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Connecticut"
+    "district":6,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ct"
 },
   "bbox": [
     -73.5374,

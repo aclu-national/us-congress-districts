@@ -1,49 +1,13 @@
 {
-  "id": "il_33_to_37_07",
+  "id": "il_33_to_37_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"37",
-    "id":"017033037007",
-    "member":{
-        "33":{
-            "111":{
-                "district":"7",
-                "name":"Allen, James Cameron",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "111":{
-                "district":"7",
-                "name":"Allen, James Cameron",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "8413":{
-                "district":"7",
-                "name":"Shaw, Aaron",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "7976":{
-                "district":"7",
-                "name":"Robinson, James Carroll",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "7976":{
-                "district":"7",
-                "name":"Robinson, James Carroll",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Illinois"
+    "district":7,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"il"
 },
   "bbox": [
     -89.60385,

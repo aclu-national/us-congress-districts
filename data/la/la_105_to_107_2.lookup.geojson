@@ -1,35 +1,13 @@
 {
-  "id": "la_105_to_107_02",
+  "id": "la_105_to_107_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"107",
-    "id":"022105107002",
-    "member":{
-        "105":{
-            "29120":{
-                "district":"2",
-                "name":"Jefferson, William J.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29120":{
-                "district":"2",
-                "name":"Jefferson, William J.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29120":{
-                "district":"2",
-                "name":"Jefferson, William J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Louisiana"
+    "district":2,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"la"
 },
   "bbox": [
     -90.28028,

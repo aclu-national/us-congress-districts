@@ -1,49 +1,13 @@
 {
-  "id": "ia_43_to_47_03",
+  "id": "ia_43_to_47_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"47",
-    "id":"019043047003",
-    "member":{
-        "43":{
-            "2655":{
-                "district":"3",
-                "name":"Donnan, William G.",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "57":{
-                "district":"3",
-                "name":"Ainsworth, Lucien Lester",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "1253":{
-                "district":"3",
-                "name":"Burdick, Theodore Weld",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "9564":{
-                "district":"3",
-                "name":"Updegraff, Thomas",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "9564":{
-                "district":"3",
-                "name":"Updegraff, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Iowa"
+    "district":3,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ia"
 },
   "bbox": [
     -92.08246,

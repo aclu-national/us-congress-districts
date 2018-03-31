@@ -1,49 +1,13 @@
 {
-  "id": "ny_23_to_27_06",
+  "id": "ny_23_to_27_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"27",
-    "id":"036023027006",
-    "member":{
-        "23":{
-            "1122":{
-                "district":"6",
-                "name":"Brown, John W",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "1122":{
-                "district":"6",
-                "name":"Brown, John W",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "5053":{
-                "district":"6",
-                "name":"Jones, Nathaniel",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "5053":{
-                "district":"6",
-                "name":"Jones, Nathaniel",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "1850":{
-                "district":"6",
-                "name":"Clinton, James Graham",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -74.7621,

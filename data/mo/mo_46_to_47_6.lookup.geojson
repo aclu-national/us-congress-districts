@@ -1,28 +1,13 @@
 {
-  "id": "mo_46_to_47_06",
+  "id": "mo_46_to_47_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"47",
-    "id":"029046047006",
-    "member":{
-        "46":{
-            "9697":{
-                "district":"6",
-                "name":"Waddill, James Richard",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "4255":{
-                "district":"6",
-                "name":"Hazeltine, Ira Sherwin",
-                "party":"National Greenbacker"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Missouri"
+    "district":6,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"mo"
 },
   "bbox": [
     -94.61866,

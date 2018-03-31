@@ -1,77 +1,13 @@
 {
-  "id": "wv_74_to_82_02",
+  "id": "wv_74_to_82_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"82",
-    "id":"054074082002",
-    "member":{
-        "74":{
-            "7722":{
-                "district":"2",
-                "name":"Randolph, Jennings",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7722":{
-                "district":"2",
-                "name":"Randolph, Jennings",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "7722":{
-                "district":"2",
-                "name":"Randolph, Jennings",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "7722":{
-                "district":"2",
-                "name":"Randolph, Jennings",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "7722":{
-                "district":"2",
-                "name":"Randolph, Jennings",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "7722":{
-                "district":"2",
-                "name":"Randolph, Jennings",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "8736":{
-                "district":"2",
-                "name":"Snyder, Melvin Claude",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "8824":{
-                "district":"2",
-                "name":"Staggers, Harley Orrin",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "8824":{
-                "district":"2",
-                "name":"Staggers, Harley Orrin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"West Virginia"
+    "district":2,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"wv"
 },
   "bbox": [
     -80.67829,

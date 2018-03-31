@@ -1,49 +1,13 @@
 {
-  "id": "il_38_to_42_00",
+  "id": "il_38_to_42_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"42",
-    "id":"017038042000",
-    "member":{
-        "38":{
-            "111":{
-                "district":"99",
-                "name":"Allen, James Cameron",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "6767":{
-                "district":"99",
-                "name":"Moulton, Samuel Wheeler",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "5746":{
-                "district":"99",
-                "name":"Logan, John Alexander",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "5746":{
-                "district":"99",
-                "name":"Logan, John Alexander",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "684":{
-                "district":"99",
-                "name":"Beveridge, John Lourie",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Illinois"
+    "district":0,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"il"
 },
   "bbox": [
     -91.51308,

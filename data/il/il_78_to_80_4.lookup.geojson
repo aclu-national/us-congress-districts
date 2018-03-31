@@ -1,35 +1,13 @@
 {
-  "id": "il_78_to_80_04",
+  "id": "il_78_to_80_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"80",
-    "id":"017078080004",
-    "member":{
-        "78":{
-            "3715":{
-                "district":"4",
-                "name":"Gorski, Martin",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "3715":{
-                "district":"4",
-                "name":"Gorski, Martin",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "3715":{
-                "district":"4",
-                "name":"Gorski, Martin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Illinois"
+    "district":4,
+    "end_date":"1948-12-31",
+    "end_session":80,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"il"
 },
   "bbox": [
     -87.74345,

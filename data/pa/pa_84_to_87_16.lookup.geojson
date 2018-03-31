@@ -2,46 +2,12 @@
   "id": "pa_84_to_87_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"87",
-    "id":"042084087016",
-    "member":{
-        "84":{
-            "6795":{
-                "district":"16",
-                "name":"Mumma, Walter Mann",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "6795":{
-                "district":"16",
-                "name":"Mumma, Walter Mann",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "6795":{
-                "district":"16",
-                "name":"Mumma, Walter Mann",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "5377":{
-                "district":"16",
-                "name":"Kunkel, John Crain",
-                "party":"Republican"
-            },
-            "6795":{
-                "district":"16",
-                "name":"Mumma, Walter Mann",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -77.75179,

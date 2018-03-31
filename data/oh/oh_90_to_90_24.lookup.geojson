@@ -2,20 +2,12 @@
   "id": "oh_90_to_90_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"90",
-    "id":"039090090024",
-    "member":{
-        "90":{
-            "11028":{
-                "district":"24",
-                "name":"Lukens, Donald E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Ohio"
+    "district":24,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

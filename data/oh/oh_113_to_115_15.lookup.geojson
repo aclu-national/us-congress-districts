@@ -2,18 +2,12 @@
   "id": "oh_113_to_115_15",
   "type": "Feature",
   "properties": {
-    "ALAND":12273799802,
-    "AWATER":99685003,
-    "CD113FP":"15",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3915",
-    "INTPTLAT":"+39.5778602",
-    "INTPTLON":"-082.7562053",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 15",
-    "STATEFP":"39"
+    "district":15,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"oh"
 },
   "bbox": [
     -84.006782,

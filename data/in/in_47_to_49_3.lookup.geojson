@@ -1,35 +1,13 @@
 {
-  "id": "in_47_to_49_03",
+  "id": "in_47_to_49_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"49",
-    "id":"018047049003",
-    "member":{
-        "47":{
-            "8961":{
-                "district":"3",
-                "name":"Stockslager, Strother Madison",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "8961":{
-                "district":"3",
-                "name":"Stockslager, Strother Madison",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "4629":{
-                "district":"3",
-                "name":"Howard, Jonas George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1887-03-03",
+    "end_session":49,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"in"
 },
   "bbox": [
     -86.68142,

@@ -1,49 +1,13 @@
 {
-  "id": "mn_108_to_112_04",
+  "id": "mn_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"027108112004",
-    "member":{
-        "108":{
-            "20122":{
-                "district":"4",
-                "name":"McCollum, Betty",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20122":{
-                "district":"4",
-                "name":"McCollum, Betty",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20122":{
-                "district":"4",
-                "name":"McCollum, Betty",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20122":{
-                "district":"4",
-                "name":"McCollum, Betty",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20122":{
-                "district":"4",
-                "name":"McCollum, Betty",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Minnesota"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mn"
 },
   "bbox": [
     -93.22792,

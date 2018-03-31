@@ -2,20 +2,12 @@
   "id": "oh_49_to_49_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"49",
-    "id":"039049049015",
-    "member":{
-        "49":{
-            "10119":{
-                "district":"15",
-                "name":"Wilkins, Beriah",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1887-03-03",
+    "end_session":49,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"oh"
 },
   "bbox": [
     -82.78249,

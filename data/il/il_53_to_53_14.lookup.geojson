@@ -2,20 +2,12 @@
   "id": "il_53_to_53_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"53",
-    "id":"017053053014",
-    "member":{
-        "53":{
-            "3412":{
-                "district":"14",
-                "name":"Funk, Benjamin Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Illinois"
+    "district":14,
+    "end_date":"1895-03-03",
+    "end_session":53,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"il"
 },
   "bbox": [
     -89.60385,

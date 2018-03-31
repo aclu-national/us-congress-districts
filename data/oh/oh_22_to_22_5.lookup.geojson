@@ -1,21 +1,13 @@
 {
-  "id": "oh_22_to_22_05",
+  "id": "oh_22_to_22_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"22",
-    "id":"039022022005",
-    "member":{
-        "22":{
-            "8142":{
-                "district":"5",
-                "name":"Russell, William",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"22",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1831-12-05",
+    "start_session":22,
+    "state":"oh"
 },
   "bbox": [
     -84.05274,

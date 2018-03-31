@@ -2,27 +2,12 @@
   "id": "oh_91_to_92_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"92",
-    "id":"039091092021",
-    "member":{
-        "91":{
-            "12030":{
-                "district":"21",
-                "name":"Stokes, Louis",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "12030":{
-                "district":"21",
-                "name":"Stokes, Louis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Ohio"
+    "district":21,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"oh"
 },
   "bbox": [
     -81.68418,

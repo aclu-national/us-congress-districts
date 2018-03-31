@@ -1,19 +1,13 @@
 {
-  "id": "wa_113_to_115_08",
+  "id": "wa_113_to_115_8",
   "type": "Feature",
   "properties": {
-    "ALAND":19062269014,
-    "AWATER":364830643,
-    "CD113FP":"08",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5308",
-    "INTPTLAT":"+47.3623665",
-    "INTPTLON":"-121.0394032",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 8",
-    "STATEFP":"53"
+    "district":8,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"wa"
 },
   "bbox": [
     -122.560493,

@@ -1,49 +1,13 @@
 {
-  "id": "va_43_to_47_04",
+  "id": "va_43_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"051043047004",
-    "member":{
-        "43":{
-            "9006":{
-                "district":"4",
-                "name":"Stowell, William Henry Harrison",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "9006":{
-                "district":"4",
-                "name":"Stowell, William Henry Harrison",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "5076":{
-                "district":"4",
-                "name":"Jorgensen, Joseph",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "5076":{
-                "district":"4",
-                "name":"Jorgensen, Joseph",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "5076":{
-                "district":"4",
-                "name":"Jorgensen, Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"va"
 },
   "bbox": [
     -78.90459,

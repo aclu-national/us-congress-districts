@@ -2,65 +2,12 @@
   "id": "ny_73_to_78_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"78",
-    "id":"036073078014",
-    "member":{
-        "73":{
-            "8548":{
-                "district":"14",
-                "name":"Sirovich, William Irving",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "8548":{
-                "district":"14",
-                "name":"Sirovich, William Irving",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8548":{
-                "district":"14",
-                "name":"Sirovich, William Irving",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2842":{
-                "district":"14",
-                "name":"Edelstein, Morris Michael",
-                "party":"Democrat"
-            },
-            "8548":{
-                "district":"14",
-                "name":"Sirovich, William Irving",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2842":{
-                "district":"14",
-                "name":"Edelstein, Morris Michael",
-                "party":"Democrat"
-            },
-            "5317":{
-                "district":"14",
-                "name":"Klein, Arthur George",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "5317":{
-                "district":"14",
-                "name":"Klein, Arthur George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -74.00511,

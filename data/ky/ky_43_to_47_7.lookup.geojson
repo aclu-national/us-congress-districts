@@ -1,49 +1,13 @@
 {
-  "id": "ky_43_to_47_07",
+  "id": "ky_43_to_47_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"47",
-    "id":"021043047007",
-    "member":{
-        "43":{
-            "560":{
-                "district":"7",
-                "name":"Beck, James Burnie",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "751":{
-                "district":"7",
-                "name":"Blackburn, Joseph Clay Stiles",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "751":{
-                "district":"7",
-                "name":"Blackburn, Joseph Clay Stiles",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "751":{
-                "district":"7",
-                "name":"Blackburn, Joseph Clay Stiles",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "751":{
-                "district":"7",
-                "name":"Blackburn, Joseph Clay Stiles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Kentucky"
+    "district":7,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ky"
 },
   "bbox": [
     -85.46746,

@@ -1,70 +1,13 @@
 {
-  "id": "mn_64_to_71_06",
+  "id": "mn_64_to_71_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"71",
-    "id":"027064071006",
-    "member":{
-        "64":{
-            "5673":{
-                "district":"6",
-                "name":"Lindbergh, Charles August",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Minnesota"
+    "district":6,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mn"
 },
   "bbox": [
     -95.60315,

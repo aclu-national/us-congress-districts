@@ -1,63 +1,13 @@
 {
-  "id": "wv_65_to_71_05",
+  "id": "wv_65_to_71_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"71",
-    "id":"054065071005",
-    "member":{
-        "65":{
-            "2043":{
-                "district":"5",
-                "name":"Cooper, Edward",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "3693":{
-                "district":"5",
-                "name":"Goodykoontz, Wells",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3693":{
-                "district":"5",
-                "name":"Goodykoontz, Wells",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "5664":{
-                "district":"5",
-                "name":"Lilly, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9044":{
-                "district":"5",
-                "name":"Strother, James French",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9044":{
-                "district":"5",
-                "name":"Strother, James French",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8488":{
-                "district":"5",
-                "name":"Shott, Hugh Ike",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"West Virginia"
+    "district":5,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"wv"
 },
   "bbox": [
     -82.64474,

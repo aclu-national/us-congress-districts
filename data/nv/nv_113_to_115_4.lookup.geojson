@@ -1,19 +1,13 @@
 {
-  "id": "nv_113_to_115_04",
+  "id": "nv_113_to_115_4",
   "type": "Feature",
   "properties": {
-    "ALAND":132084153428,
-    "AWATER":629301015,
-    "CD113FP":"04",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3204",
-    "INTPTLAT":"+38.0856481",
-    "INTPTLON":"-116.0266825",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 4",
-    "STATEFP":"32"
+    "district":4,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nv"
 },
   "bbox": [
     -119.43989,

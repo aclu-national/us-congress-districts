@@ -1,21 +1,13 @@
 {
-  "id": "mn_72_to_72_05",
+  "id": "mn_72_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"027072072005",
-    "member":{
-        "72":{
-            "6950":{
-                "district":"5",
-                "name":"Nolan, William Ignatius",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"72",
-    "statename":"Minnesota"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1931-12-07",
+    "start_session":72,
+    "state":"mn"
 },
   "bbox": [
     -93.32901,

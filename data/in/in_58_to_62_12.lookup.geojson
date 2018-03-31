@@ -2,53 +2,12 @@
   "id": "in_58_to_62_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"62",
-    "id":"018058062012",
-    "member":{
-        "58":{
-            "7977":{
-                "district":"12",
-                "name":"Robinson, James McClellan",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "3576":{
-                "district":"12",
-                "name":"Gilbert, Newton Whiting",
-                "party":"Republican"
-            },
-            "3586":{
-                "district":"12",
-                "name":"Gilhams, Clarence Chaunce",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3586":{
-                "district":"12",
-                "name":"Gilhams, Clarence Chaunce",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "1844":{
-                "district":"12",
-                "name":"Cline, Cyrus",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "1844":{
-                "district":"12",
-                "name":"Cline, Cyrus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Indiana"
+    "district":12,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"in"
 },
   "bbox": [
     -85.6866,

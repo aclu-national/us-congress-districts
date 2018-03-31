@@ -1,21 +1,13 @@
 {
-  "id": "tn_90_to_90_09",
+  "id": "tn_90_to_90_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"90",
-    "id":"047090090009",
-    "member":{
-        "90":{
-            "11025":{
-                "district":"9",
-                "name":"Kuykendall, Dan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Tennessee"
+    "district":9,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"tn"
 },
   "bbox": [
     -90.08395,

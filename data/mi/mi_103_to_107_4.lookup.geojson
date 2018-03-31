@@ -1,49 +1,13 @@
 {
-  "id": "mi_103_to_107_04",
+  "id": "mi_103_to_107_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"107",
-    "id":"026103107004",
-    "member":{
-        "103":{
-            "29124":{
-                "district":"4",
-                "name":"Camp, Dave",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29124":{
-                "district":"4",
-                "name":"Camp, Dave",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29124":{
-                "district":"4",
-                "name":"Camp, Dave",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29124":{
-                "district":"4",
-                "name":"Camp, Dave",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29124":{
-                "district":"4",
-                "name":"Camp, Dave",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Michigan"
+    "district":4,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"mi"
 },
   "bbox": [
     -85.56467,

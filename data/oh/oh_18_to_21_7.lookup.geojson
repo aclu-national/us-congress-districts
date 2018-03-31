@@ -1,42 +1,13 @@
 {
-  "id": "oh_18_to_21_07",
+  "id": "oh_18_to_21_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"21",
-    "id":"039018021007",
-    "member":{
-        "18":{
-            "9679":{
-                "district":"7",
-                "name":"Vinton, Samuel Finley",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "9679":{
-                "district":"7",
-                "name":"Vinton, Samuel Finley",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "9679":{
-                "district":"7",
-                "name":"Vinton, Samuel Finley",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "9679":{
-                "district":"7",
-                "name":"Vinton, Samuel Finley",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Ohio"
+    "district":7,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"oh"
 },
   "bbox": [
     -83.38564,

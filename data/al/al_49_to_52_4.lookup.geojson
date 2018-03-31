@@ -1,47 +1,13 @@
 {
-  "id": "al_49_to_52_04",
+  "id": "al_49_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"001049052004",
-    "member":{
-        "49":{
-            "2364":{
-                "district":"4",
-                "name":"Davidson, Alexander Caldwell",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "2364":{
-                "district":"4",
-                "name":"Davidson, Alexander Caldwell",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "6234":{
-                "district":"4",
-                "name":"McDuffie, John Van",
-                "party":"Republican"
-            },
-            "9528":{
-                "district":"4",
-                "name":"Turpin, Louis Washington",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "9528":{
-                "district":"4",
-                "name":"Turpin, Louis Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Alabama"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"al"
 },
   "bbox": [
     -87.8705,

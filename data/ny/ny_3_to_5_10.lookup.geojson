@@ -2,34 +2,12 @@
   "id": "ny_3_to_5_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"5",
-    "id":"036003005010",
-    "member":{
-        "3":{
-            "9161":{
-                "district":"10",
-                "name":"Talbot, Silas",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "2058":{
-                "district":"10",
-                "name":"Cooper, William",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "1881":{
-                "district":"10",
-                "name":"Cochran, James",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1799-03-03",
+    "end_session":5,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

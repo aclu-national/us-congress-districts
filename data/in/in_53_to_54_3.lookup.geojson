@@ -1,28 +1,13 @@
 {
-  "id": "in_53_to_54_03",
+  "id": "in_53_to_54_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"54",
-    "id":"018053054003",
-    "member":{
-        "53":{
-            "1114":{
-                "district":"3",
-                "name":"Brown, Jason Brevoort",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9444":{
-                "district":"3",
-                "name":"Tracewell, Robert John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"in"
 },
   "bbox": [
     -86.32991,

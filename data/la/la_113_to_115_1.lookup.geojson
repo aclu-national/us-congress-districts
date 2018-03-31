@@ -1,19 +1,13 @@
 {
-  "id": "la_113_to_115_01",
+  "id": "la_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":10438608979,
-    "AWATER":14487886618,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2201",
-    "INTPTLAT":"+29.6663952",
-    "INTPTLON":"-089.8927543",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"22"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"la"
 },
   "bbox": [
     -91.354272,

@@ -1,35 +1,13 @@
 {
-  "id": "nj_30_to_32_05",
+  "id": "nj_30_to_32_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"32",
-    "id":"034030032005",
-    "member":{
-        "30":{
-            "3808":{
-                "district":"5",
-                "name":"Gregory, Dundley Sanford",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "5262":{
-                "district":"5",
-                "name":"King, James Gore",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "7615":{
-                "district":"5",
-                "name":"Price, Rodman McCamley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"New Jersey"
+    "district":5,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"nj"
 },
   "bbox": [
     -74.5028,

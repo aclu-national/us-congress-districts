@@ -1,35 +1,13 @@
 {
-  "id": "nj_103_to_105_09",
+  "id": "nj_103_to_105_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"105",
-    "id":"034103105009",
-    "member":{
-        "103":{
-            "15071":{
-                "district":"9",
-                "name":"Torricelli, Robert G.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "15071":{
-                "district":"9",
-                "name":"Torricelli, Robert G.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29742":{
-                "district":"9",
-                "name":"Rothman, Steven R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New Jersey"
+    "district":9,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nj"
 },
   "bbox": [
     -74.16511,

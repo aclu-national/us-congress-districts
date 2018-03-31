@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"82",
-    "id":"042079082015",
-    "member":{
-        "79":{
-            "7864":{
-                "district":"15",
-                "name":"Rich, Robert Fleming",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "7864":{
-                "district":"15",
-                "name":"Rich, Robert Fleming",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7864":{
-                "district":"15",
-                "name":"Rich, Robert Fleming",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "1328":{
-                "district":"15",
-                "name":"Bush, Alvin Ray",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -78.95606,

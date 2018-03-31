@@ -1,119 +1,13 @@
 {
-  "id": "mo_58_to_72_07",
+  "id": "mo_58_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"029058072007",
-    "member":{
-        "58":{
-            "3999":{
-                "district":"7",
-                "name":"Hamlin, Courtney Walker",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "9923":{
-                "district":"7",
-                "name":"Welborn, John",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3999":{
-                "district":"7",
-                "name":"Hamlin, Courtney Walker",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "3999":{
-                "district":"7",
-                "name":"Hamlin, Courtney Walker",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "3999":{
-                "district":"7",
-                "name":"Hamlin, Courtney Walker",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "3999":{
-                "district":"7",
-                "name":"Hamlin, Courtney Walker",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3999":{
-                "district":"7",
-                "name":"Hamlin, Courtney Walker",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "3999":{
-                "district":"7",
-                "name":"Hamlin, Courtney Walker",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "5933":{
-                "district":"7",
-                "name":"Major, Samuel Collier",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "7252":{
-                "district":"7",
-                "name":"Patterson, Roscoe Conkling",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "5933":{
-                "district":"7",
-                "name":"Major, Samuel Collier",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "5933":{
-                "district":"7",
-                "name":"Major, Samuel Collier",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "5933":{
-                "district":"7",
-                "name":"Major, Samuel Collier",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7180":{
-                "district":"7",
-                "name":"Palmer, John William",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4989":{
-                "district":"7",
-                "name":"Johnson, Robert Davis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Missouri"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"mo"
 },
   "bbox": [
     -94.11427,

@@ -1,35 +1,13 @@
 {
-  "id": "sd_90_to_92_02",
+  "id": "sd_90_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"046090092002",
-    "member":{
-        "90":{
-            "672":{
-                "district":"2",
-                "name":"Berry, Ellis Yarnal",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "672":{
-                "district":"2",
-                "name":"Berry, Ellis Yarnal",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13000":{
-                "district":"2",
-                "name":"Abourezk, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"South Dakota"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"sd"
 },
   "bbox": [
     -104.05774,

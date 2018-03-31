@@ -1,28 +1,13 @@
 {
-  "id": "fl_103_to_104_07",
+  "id": "fl_103_to_104_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"104",
-    "id":"012103104007",
-    "member":{
-        "103":{
-            "29331":{
-                "district":"7",
-                "name":"Mica, John L.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29331":{
-                "district":"7",
-                "name":"Mica, John L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Florida"
+    "district":7,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"fl"
 },
   "bbox": [
     -81.518,

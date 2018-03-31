@@ -1,19 +1,13 @@
 {
-  "id": "ga_113_to_115_09",
+  "id": "ga_113_to_115_9",
   "type": "Feature",
   "properties": {
-    "ALAND":13496322455,
-    "AWATER":413007023,
-    "CD113FP":"09",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1309",
-    "INTPTLAT":"+34.5061521",
-    "INTPTLON":"-083.6872147",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 9",
-    "STATEFP":"13"
+    "district":9,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ga"
 },
   "bbox": [
     -84.657098,

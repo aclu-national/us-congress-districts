@@ -1,49 +1,13 @@
 {
-  "id": "ia_43_to_47_01",
+  "id": "ia_43_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"019043047001",
-    "member":{
-        "43":{
-            "6191":{
-                "district":"1",
-                "name":"McCrary, George Washington",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "6191":{
-                "district":"1",
-                "name":"McCrary, George Washington",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "8982":{
-                "district":"1",
-                "name":"Stone, Joseph Champlin",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "6164":{
-                "district":"1",
-                "name":"McCoid, Moses Ayers",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "6164":{
-                "district":"1",
-                "name":"McCoid, Moses Ayers",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Iowa"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ia"
 },
   "bbox": [
     -92.18002,

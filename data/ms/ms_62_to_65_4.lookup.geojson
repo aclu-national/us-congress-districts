@@ -1,42 +1,13 @@
 {
-  "id": "ms_62_to_65_04",
+  "id": "ms_62_to_65_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"65",
-    "id":"028062065004",
-    "member":{
-        "62":{
-            "8551":{
-                "district":"4",
-                "name":"Sisson, Thomas Upton",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "8551":{
-                "district":"4",
-                "name":"Sisson, Thomas Upton",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "8551":{
-                "district":"4",
-                "name":"Sisson, Thomas Upton",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8551":{
-                "district":"4",
-                "name":"Sisson, Thomas Upton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"62",
-    "statename":"Mississippi"
+    "district":4,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1911-04-04",
+    "start_session":62,
+    "state":"ms"
 },
   "bbox": [
     -90.17487,

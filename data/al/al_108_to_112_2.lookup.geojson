@@ -1,49 +1,13 @@
 {
-  "id": "al_108_to_112_02",
+  "id": "al_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"001108112002",
-    "member":{
-        "108":{
-            "29300":{
-                "district":"2",
-                "name":"Everett, Terry",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29300":{
-                "district":"2",
-                "name":"Everett, Terry",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29300":{
-                "district":"2",
-                "name":"Everett, Terry",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20900":{
-                "district":"2",
-                "name":"Bright, Bobby",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21192":{
-                "district":"2",
-                "name":"Roby, Martha",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Alabama"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"al"
 },
   "bbox": [
     -87.42729,

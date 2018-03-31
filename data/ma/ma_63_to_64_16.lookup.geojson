@@ -2,27 +2,12 @@
   "id": "ma_63_to_64_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"64",
-    "id":"025063064016",
-    "member":{
-        "63":{
-            "9269":{
-                "district":"16",
-                "name":"Thacher, Thomas Chandler",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "9785":{
-                "district":"16",
-                "name":"Walsh, Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Massachusetts"
+    "district":16,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ma"
 },
   "bbox": [
     -71.07642,

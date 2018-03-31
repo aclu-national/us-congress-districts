@@ -2,20 +2,12 @@
   "id": "ny_43_to_43_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"43",
-    "id":"036043043021",
-    "member":{
-        "43":{
-            "6426":{
-                "district":"21",
-                "name":"Merriam, Clinton Levi",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ny"
 },
   "bbox": [
     -76.44652,

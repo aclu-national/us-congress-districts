@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"62",
-    "id":"036058062018",
-    "member":{
-        "58":{
-            "3725":{
-                "district":"18",
-                "name":"Goulden, Joseph Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "3725":{
-                "district":"18",
-                "name":"Goulden, Joseph Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "3725":{
-                "district":"18",
-                "name":"Goulden, Joseph Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "3725":{
-                "district":"18",
-                "name":"Goulden, Joseph Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "308":{
-                "district":"18",
-                "name":"Ayres, Steven Beckwith",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":18,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -73.94171,

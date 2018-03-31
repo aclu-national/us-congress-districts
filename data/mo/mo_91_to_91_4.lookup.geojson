@@ -1,21 +1,13 @@
 {
-  "id": "mo_91_to_91_04",
+  "id": "mo_91_to_91_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"91",
-    "id":"029091091004",
-    "member":{
-        "91":{
-            "7717":{
-                "district":"4",
-                "name":"Randall, William Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Missouri"
+    "district":4,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"mo"
 },
   "bbox": [
     -94.61798,

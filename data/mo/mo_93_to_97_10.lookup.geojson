@@ -2,48 +2,12 @@
   "id": "mo_93_to_97_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"97",
-    "id":"029093097010",
-    "member":{
-        "93":{
-            "12004":{
-                "district":"10",
-                "name":"Burlison, Bill D.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "12004":{
-                "district":"10",
-                "name":"Burlison, Bill D.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "12004":{
-                "district":"10",
-                "name":"Burlison, Bill D.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "12004":{
-                "district":"10",
-                "name":"Burlison, Bill D.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14819":{
-                "district":"10",
-                "name":"Emerson, Bill",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Missouri"
+    "district":10,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mo"
 },
   "bbox": [
     -91.31424,

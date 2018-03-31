@@ -1,49 +1,13 @@
 {
-  "id": "ga_93_to_97_08",
+  "id": "ga_93_to_97_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"97",
-    "id":"013093097008",
-    "member":{
-        "93":{
-            "11052":{
-                "district":"8",
-                "name":"Stuckey, W. S., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "11052":{
-                "district":"8",
-                "name":"Stuckey, W. S., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14418":{
-                "district":"8",
-                "name":"Evans, Billy Lee",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14418":{
-                "district":"8",
-                "name":"Evans, Billy Lee",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14418":{
-                "district":"8",
-                "name":"Evans, Billy Lee",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Georgia"
+    "district":8,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ga"
 },
   "bbox": [
     -83.89303,

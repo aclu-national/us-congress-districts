@@ -2,20 +2,12 @@
   "id": "oh_52_to_52_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"52",
-    "id":"039052052018",
-    "member":{
-        "52":{
-            "9224":{
-                "district":"18",
-                "name":"Taylor, Joseph Danner",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Ohio"
+    "district":18,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"oh"
 },
   "bbox": [
     -81.72861,

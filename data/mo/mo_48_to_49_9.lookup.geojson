@@ -1,28 +1,13 @@
 {
-  "id": "mo_48_to_49_09",
+  "id": "mo_48_to_49_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"49",
-    "id":"029048049009",
-    "member":{
-        "48":{
-            "1049":{
-                "district":"9",
-                "name":"Broadhead, James Overton",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "3635":{
-                "district":"9",
-                "name":"Glover, John Milton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Missouri"
+    "district":9,
+    "end_date":"1887-03-03",
+    "end_session":49,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mo"
 },
   "bbox": [
     -90.32051,

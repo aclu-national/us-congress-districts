@@ -1,21 +1,13 @@
 {
-  "id": "ca_93_to_93_08",
+  "id": "ca_93_to_93_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"93",
-    "id":"006093093008",
-    "member":{
-        "93":{
-            "14053":{
-                "district":"8",
-                "name":"Stark, Fortney \"Pete\"",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"California"
+    "district":8,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ca"
 },
   "bbox": [
     -122.33238,

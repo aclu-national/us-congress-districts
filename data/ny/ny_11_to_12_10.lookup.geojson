@@ -2,27 +2,12 @@
   "id": "ny_11_to_12_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"12",
-    "id":"036011012010",
-    "member":{
-        "11":{
-            "6923":{
-                "district":"10",
-                "name":"Nicholson, John",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "9005":{
-                "district":"10",
-                "name":"Stow, Silas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"11",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1809-03-04",
+    "start_session":11,
+    "state":"ny"
 },
   "bbox": [
     -76.44652,

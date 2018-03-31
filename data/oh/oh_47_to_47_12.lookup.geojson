@@ -2,20 +2,12 @@
   "id": "oh_47_to_47_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"47",
-    "id":"039047047012",
-    "member":{
-        "47":{
-            "2011":{
-                "district":"12",
-                "name":"Converse, George Leroy",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"oh"
 },
   "bbox": [
     -83.26674,

@@ -1,49 +1,13 @@
 {
-  "id": "mn_93_to_97_03",
+  "id": "mn_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"027093097003",
-    "member":{
-        "93":{
-            "13015":{
-                "district":"3",
-                "name":"Frenzel, William",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "13015":{
-                "district":"3",
-                "name":"Frenzel, William",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "13015":{
-                "district":"3",
-                "name":"Frenzel, William",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "13015":{
-                "district":"3",
-                "name":"Frenzel, William",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "13015":{
-                "district":"3",
-                "name":"Frenzel, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Minnesota"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mn"
 },
   "bbox": [
     -93.52333,

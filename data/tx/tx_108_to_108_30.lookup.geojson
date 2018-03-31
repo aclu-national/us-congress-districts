@@ -2,20 +2,12 @@
   "id": "tx_108_to_108_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"108",
-    "id":"048108108030",
-    "member":{
-        "108":{
-            "39305":{
-                "district":"30",
-                "name":"Johnson, Eddie Bernice",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Texas"
+    "district":30,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tx"
 },
   "bbox": [
     -97.03469,

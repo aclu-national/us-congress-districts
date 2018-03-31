@@ -1,49 +1,13 @@
 {
-  "id": "md_108_to_112_07",
+  "id": "md_108_to_112_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"112",
-    "id":"024108112007",
-    "member":{
-        "108":{
-            "29587":{
-                "district":"7",
-                "name":"Cummings, Elijah E.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29587":{
-                "district":"7",
-                "name":"Cummings, Elijah E.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29587":{
-                "district":"7",
-                "name":"Cummings, Elijah E.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29587":{
-                "district":"7",
-                "name":"Cummings, Elijah E.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29587":{
-                "district":"7",
-                "name":"Cummings, Elijah E.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Maryland"
+    "district":7,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"md"
 },
   "bbox": [
     -77.18711,

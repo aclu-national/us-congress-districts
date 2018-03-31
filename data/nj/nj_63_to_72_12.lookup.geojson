@@ -2,83 +2,12 @@
   "id": "nj_63_to_72_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"72",
-    "id":"034063072012",
-    "member":{
-        "63":{
-            "3980":{
-                "district":"12",
-                "name":"Hamill, James Alphonsus",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3980":{
-                "district":"12",
-                "name":"Hamill, James Alphonsus",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "3980":{
-                "district":"12",
-                "name":"Hamill, James Alphonsus",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "3980":{
-                "district":"12",
-                "name":"Hamill, James Alphonsus",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "6997":{
-                "district":"12",
-                "name":"O'Brien, Charles",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "6997":{
-                "district":"12",
-                "name":"O'Brien, Charles",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "6972":{
-                "district":"12",
-                "name":"Norton, Mary Teresa",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "6972":{
-                "district":"12",
-                "name":"Norton, Mary Teresa",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "6972":{
-                "district":"12",
-                "name":"Norton, Mary Teresa",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "6972":{
-                "district":"12",
-                "name":"Norton, Mary Teresa",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New Jersey"
+    "district":12,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nj"
 },
   "bbox": [
     -74.10169,

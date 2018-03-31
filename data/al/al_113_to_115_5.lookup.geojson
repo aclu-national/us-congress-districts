@@ -1,19 +1,13 @@
 {
-  "id": "al_113_to_115_05",
+  "id": "al_113_to_115_5",
   "type": "Feature",
   "properties": {
-    "ALAND":9524277750,
-    "AWATER":464746305,
-    "CD113FP":"05",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0105",
-    "INTPTLAT":"+34.7550739",
-    "INTPTLON":"-086.7101631",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 5",
-    "STATEFP":"01"
+    "district":5,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"al"
 },
   "bbox": [
     -88.202959,

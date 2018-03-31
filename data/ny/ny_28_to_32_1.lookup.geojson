@@ -1,49 +1,13 @@
 {
-  "id": "ny_28_to_32_01",
+  "id": "ny_28_to_32_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"32",
-    "id":"036028032001",
-    "member":{
-        "28":{
-            "9035":{
-                "district":"1",
-                "name":"Strong, Selah Brewster",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "5513":{
-                "district":"1",
-                "name":"Lawrence, John Watson",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "5777":{
-                "district":"1",
-                "name":"Lord, Frederick William",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "5264":{
-                "district":"1",
-                "name":"King, John Alsop",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "3236":{
-                "district":"1",
-                "name":"Floyd, John Gelston",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -73.96161,

@@ -2,34 +2,12 @@
   "id": "ny_103_to_105_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"105",
-    "id":"036103105020",
-    "member":{
-        "103":{
-            "14015":{
-                "district":"20",
-                "name":"Gilman, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14015":{
-                "district":"20",
-                "name":"Gilman, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "14015":{
-                "district":"20",
-                "name":"Gilman, Benjamin A.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -75.07501,

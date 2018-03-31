@@ -1,21 +1,13 @@
 {
-  "id": "ca_98_to_98_06",
+  "id": "ca_98_to_98_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"98",
-    "id":"006098098006",
-    "member":{
-        "98":{
-            "15011":{
-                "district":"6",
-                "name":"Boxer, Barbara",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"California"
+    "district":6,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ca"
 },
   "bbox": [
     -123.02407,

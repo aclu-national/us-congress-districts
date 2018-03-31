@@ -2,20 +2,12 @@
   "id": "pa_83_to_83_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"83",
-    "id":"042083083010",
-    "member":{
-        "83":{
-            "1533":{
-                "district":"10",
-                "name":"Carrigg, Joseph Leonard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1954-12-02",
+    "end_session":83,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"pa"
 },
   "bbox": [
     -76.81378,

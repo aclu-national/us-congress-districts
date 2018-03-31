@@ -1,21 +1,13 @@
 {
-  "id": "md_23_to_23_06",
+  "id": "md_23_to_23_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"23",
-    "id":"024023023006",
-    "member":{
-        "23":{
-            "4996":{
-                "district":"6",
-                "name":"Johnson, William Cost",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1835-03-03",
+    "end_session":23,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"md"
 },
   "bbox": [
     -77.59933,

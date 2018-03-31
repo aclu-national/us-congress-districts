@@ -2,48 +2,12 @@
   "id": "ma_8_to_12_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"12",
-    "id":"025008012014",
-    "member":{
-        "10":{
-            "2294":{
-                "district":"14",
-                "name":"Cutts, Richard",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "2294":{
-                "district":"14",
-                "name":"Cutts, Richard",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "2294":{
-                "district":"14",
-                "name":"Cutts, Richard",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "2294":{
-                "district":"14",
-                "name":"Cutts, Richard",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "2294":{
-                "district":"14",
-                "name":"Cutts, Richard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Massachusetts"
+    "district":14,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ma"
 },
   "bbox": [
     -71.08433,

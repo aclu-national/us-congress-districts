@@ -1,19 +1,13 @@
 {
-  "id": "ny_113_to_115_08",
+  "id": "ny_113_to_115_8",
   "type": "Feature",
   "properties": {
-    "ALAND":76824024,
-    "AWATER":44947565,
-    "CD113FP":"08",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3608",
-    "INTPTLAT":"+40.6214380",
-    "INTPTLON":"-073.9110774",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 8",
-    "STATEFP":"36"
+    "district":8,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ny"
 },
   "bbox": [
     -74.037877,

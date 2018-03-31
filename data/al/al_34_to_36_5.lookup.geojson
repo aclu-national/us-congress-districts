@@ -1,35 +1,13 @@
 {
-  "id": "al_34_to_36_05",
+  "id": "al_34_to_36_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"36",
-    "id":"001034036005",
-    "member":{
-        "34":{
-            "4610":{
-                "district":"5",
-                "name":"Houston, George Smith",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "4610":{
-                "district":"5",
-                "name":"Houston, George Smith",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "4610":{
-                "district":"5",
-                "name":"Houston, George Smith",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Alabama"
+    "district":5,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"al"
 },
   "bbox": [
     -88.2381,

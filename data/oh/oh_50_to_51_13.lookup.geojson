@@ -2,27 +2,12 @@
   "id": "oh_50_to_51_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"51",
-    "id":"039050051013",
-    "member":{
-        "50":{
-            "7116":{
-                "district":"13",
-                "name":"Outhwaite, Joseph Hodson",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "7116":{
-                "district":"13",
-                "name":"Outhwaite, Joseph Hodson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Ohio"
+    "district":13,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"oh"
 },
   "bbox": [
     -83.26068,

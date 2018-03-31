@@ -1,21 +1,13 @@
 {
-  "id": "pa_2_to_2_01",
+  "id": "pa_2_to_2_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"2",
-    "id":"042002002001",
-    "member":{
-        "2":{
-            "3196":{
-                "district":"1",
-                "name":"Fitzsimons, Thomas",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"2",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1791-03-04",
+    "start_session":2,
+    "state":"pa"
 },
   "bbox": [
     -75.60155,

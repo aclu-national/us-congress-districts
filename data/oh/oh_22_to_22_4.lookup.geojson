@@ -1,21 +1,13 @@
 {
-  "id": "oh_22_to_22_04",
+  "id": "oh_22_to_22_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"22",
-    "id":"039022022004",
-    "member":{
-        "22":{
-            "9597":{
-                "district":"4",
-                "name":"Vance, Joseph",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"22",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1831-12-05",
+    "start_session":22,
+    "state":"oh"
 },
   "bbox": [
     -84.36055,

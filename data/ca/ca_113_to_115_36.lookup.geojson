@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_36",
   "type": "Feature",
   "properties": {
-    "ALAND":15313160743,
-    "AWATER":201938198,
-    "CD113FP":"36",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0636",
-    "INTPTLAT":"+33.7321303",
-    "INTPTLON":"-115.7373597",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 36",
-    "STATEFP":"06"
+    "district":36,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -117.129842,

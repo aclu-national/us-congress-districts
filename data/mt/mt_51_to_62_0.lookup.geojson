@@ -1,98 +1,13 @@
 {
-  "id": "mt_51_to_62_00",
+  "id": "mt_51_to_62_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"62",
-    "id":"030051062000",
-    "member":{
-        "51":{
-            "1550":{
-                "district":"1",
-                "name":"Carter, Thomas Henry",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "2625":{
-                "district":"1",
-                "name":"Dixon, William Wirt",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "4157":{
-                "district":"1",
-                "name":"Hartman, Charles Sampson",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "4157":{
-                "district":"1",
-                "name":"Hartman, Charles Sampson",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "4157":{
-                "district":"1",
-                "name":"Hartman, Charles Sampson",
-                "party":"Silver Republican"
-            }
-        },
-        "56":{
-            "1441":{
-                "district":"1",
-                "name":"Campbell, Albert James",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "2860":{
-                "district":"1",
-                "name":"Edwards, Caldwell",
-                "party":"Populist"
-            }
-        },
-        "58":{
-            "2620":{
-                "district":"1",
-                "name":"Dixon, Joseph Moore",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2620":{
-                "district":"1",
-                "name":"Dixon, Joseph Moore",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "7598":{
-                "district":"1",
-                "name":"Pray, Charles Nelson",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "7598":{
-                "district":"1",
-                "name":"Pray, Charles Nelson",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "7598":{
-                "district":"1",
-                "name":"Pray, Charles Nelson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Montana"
+    "district":0,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"mt"
 },
   "bbox": [
     -116.05,

@@ -1,28 +1,13 @@
 {
-  "id": "nc_28_to_29_05",
+  "id": "nc_28_to_29_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"29",
-    "id":"037028029005",
-    "member":{
-        "28":{
-            "8228":{
-                "district":"5",
-                "name":"Saunders, Romulus Mitchell",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "2628":{
-                "district":"5",
-                "name":"Dobbin, James Cochrane",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"nc"
 },
   "bbox": [
     -79.76934,

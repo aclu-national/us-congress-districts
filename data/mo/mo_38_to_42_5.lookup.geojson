@@ -1,54 +1,13 @@
 {
-  "id": "mo_38_to_42_05",
+  "id": "mo_38_to_42_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"42",
-    "id":"029038042005",
-    "member":{
-        "38":{
-            "6163":{
-                "district":"5",
-                "name":"McClurg, Joseph Washington",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "39":{
-            "6163":{
-                "district":"5",
-                "name":"McClurg, Joseph Washington",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "6163":{
-                "district":"5",
-                "name":"McClurg, Joseph Washington",
-                "party":"Republican"
-            },
-            "9004":{
-                "district":"5",
-                "name":"Stover, John Hubler",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "1250":{
-                "district":"5",
-                "name":"Burdett, Samuel Swinfin",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "1250":{
-                "district":"5",
-                "name":"Burdett, Samuel Swinfin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Missouri"
+    "district":5,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"mo"
 },
   "bbox": [
     -94.61798,

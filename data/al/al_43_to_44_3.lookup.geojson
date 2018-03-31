@@ -1,28 +1,13 @@
 {
-  "id": "al_43_to_44_03",
+  "id": "al_43_to_44_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"44",
-    "id":"001043044003",
-    "member":{
-        "43":{
-            "7310":{
-                "district":"3",
-                "name":"Pelham, Charles",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "950":{
-                "district":"3",
-                "name":"Bradford, Taul",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Alabama"
+    "district":3,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"al"
 },
   "bbox": [
     -86.52228,

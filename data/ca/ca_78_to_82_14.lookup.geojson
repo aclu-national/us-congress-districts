@@ -2,48 +2,12 @@
   "id": "ca_78_to_82_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"82",
-    "id":"006078082014",
-    "member":{
-        "78":{
-            "3273":{
-                "district":"14",
-                "name":"Ford, Thomas Francis",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "2689":{
-                "district":"14",
-                "name":"Douglas, Helen Gahagan",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "2689":{
-                "district":"14",
-                "name":"Douglas, Helen Gahagan",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "2689":{
-                "district":"14",
-                "name":"Douglas, Helen Gahagan",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "10431":{
-                "district":"14",
-                "name":"Yorty, Samuel William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":14,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -118.30908,

@@ -2,53 +2,12 @@
   "id": "ny_38_to_42_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"42",
-    "id":"036038042014",
-    "member":{
-        "38":{
-            "2073":{
-                "district":"14",
-                "name":"Corning, Erastus",
-                "party":"Democrat"
-            },
-            "7639":{
-                "district":"14",
-                "name":"Pruyn, John Van Schaick Lansing",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "3692":{
-                "district":"14",
-                "name":"Goodyear, Charles",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "7639":{
-                "district":"14",
-                "name":"Pruyn, John Van Schaick Lansing",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "6110":{
-                "district":"14",
-                "name":"Mayham, Stephen Lorenzo",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "7355":{
-                "district":"14",
-                "name":"Perry, Eli",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -74.71158,

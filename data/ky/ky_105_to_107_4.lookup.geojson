@@ -1,35 +1,13 @@
 {
-  "id": "ky_105_to_107_04",
+  "id": "ky_105_to_107_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"107",
-    "id":"021105107004",
-    "member":{
-        "105":{
-            "15406":{
-                "district":"4",
-                "name":"Bunning, Jim",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29916":{
-                "district":"4",
-                "name":"Lucas, Kenneth",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29916":{
-                "district":"4",
-                "name":"Lucas, Kenneth",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Kentucky"
+    "district":4,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"ky"
 },
   "bbox": [
     -85.63797,

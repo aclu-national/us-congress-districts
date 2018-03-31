@@ -1,21 +1,13 @@
 {
-  "id": "tx_98_to_98_03",
+  "id": "tx_98_to_98_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"98",
-    "id":"048098098003",
-    "member":{
-        "98":{
-            "15002":{
-                "district":"3",
-                "name":"Bartlett, Steve",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Texas"
+    "district":3,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"tx"
 },
   "bbox": [
     -96.93967,

@@ -2,48 +2,12 @@
   "id": "oh_73_to_77_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"77",
-    "id":"039073077021",
-    "member":{
-        "73":{
-            "2199":{
-                "district":"21",
-                "name":"Crosser, Robert",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "2199":{
-                "district":"21",
-                "name":"Crosser, Robert",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2199":{
-                "district":"21",
-                "name":"Crosser, Robert",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2199":{
-                "district":"21",
-                "name":"Crosser, Robert",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2199":{
-                "district":"21",
-                "name":"Crosser, Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Ohio"
+    "district":21,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"oh"
 },
   "bbox": [
     -81.71832,

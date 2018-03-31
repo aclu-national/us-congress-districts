@@ -1,49 +1,13 @@
 {
-  "id": "la_108_to_112_03",
+  "id": "la_108_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"022108112003",
-    "member":{
-        "108":{
-            "94679":{
-                "district":"3",
-                "name":"Tauzin, Wilbert J. \"Billy\"",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20513":{
-                "district":"3",
-                "name":"Melancon, Charlie",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20513":{
-                "district":"3",
-                "name":"Melancon, Charlie",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20513":{
-                "district":"3",
-                "name":"Melancon, Charlie",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21138":{
-                "district":"3",
-                "name":"Landry, Jeff",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Louisiana"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"la"
 },
   "bbox": [
     -92.04117,

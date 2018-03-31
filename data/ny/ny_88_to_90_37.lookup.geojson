@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_37",
   "type": "Feature",
   "properties": {
-    "district":"37",
-    "endcong":"90",
-    "id":"036088090037",
-    "member":{
-        "88":{
-            "7102":{
-                "district":"37",
-                "name":"Ostertag, Harold Charles",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10712":{
-                "district":"37",
-                "name":"Conable, Barber B., Jr.",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "10712":{
-                "district":"37",
-                "name":"Conable, Barber B., Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":37,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -78.48814,

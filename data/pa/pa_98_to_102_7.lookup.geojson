@@ -1,49 +1,13 @@
 {
-  "id": "pa_98_to_102_07",
+  "id": "pa_98_to_102_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"102",
-    "id":"042098102007",
-    "member":{
-        "100":{
-            "15447":{
-                "district":"7",
-                "name":"Weldon, Curt",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15447":{
-                "district":"7",
-                "name":"Weldon, Curt",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15447":{
-                "district":"7",
-                "name":"Weldon, Curt",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14217":{
-                "district":"7",
-                "name":"Edgar, Robert",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14217":{
-                "district":"7",
-                "name":"Edgar, Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"pa"
 },
   "bbox": [
     -75.50764,

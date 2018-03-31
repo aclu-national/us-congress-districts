@@ -2,53 +2,12 @@
   "id": "il_48_to_52_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"52",
-    "id":"017048052019",
-    "member":{
-        "48":{
-            "9443":{
-                "district":"19",
-                "name":"Townshend, Richard Wellington",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "9443":{
-                "district":"19",
-                "name":"Townshend, Richard Wellington",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "9443":{
-                "district":"19",
-                "name":"Townshend, Richard Wellington",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "10153":{
-                "district":"19",
-                "name":"Williams, James Robert",
-                "party":"Democrat"
-            },
-            "9443":{
-                "district":"19",
-                "name":"Townshend, Richard Wellington",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "10153":{
-                "district":"19",
-                "name":"Williams, James Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":19,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -89.70705,

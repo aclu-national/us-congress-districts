@@ -2,48 +2,12 @@
   "id": "pa_68_to_72_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"72",
-    "id":"042068072011",
-    "member":{
-        "68":{
-            "9869":{
-                "district":"11",
-                "name":"Watres, Laurence Hawley",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9869":{
-                "district":"11",
-                "name":"Watres, Laurence Hawley",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9869":{
-                "district":"11",
-                "name":"Watres, Laurence Hawley",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9869":{
-                "district":"11",
-                "name":"Watres, Laurence Hawley",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "831":{
-                "district":"11",
-                "name":"Boland, Patrick Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -75.8347,

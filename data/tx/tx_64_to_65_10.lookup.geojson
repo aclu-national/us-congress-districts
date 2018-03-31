@@ -2,27 +2,12 @@
   "id": "tx_64_to_65_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"65",
-    "id":"048064065010",
-    "member":{
-        "64":{
-            "1188":{
-                "district":"10",
-                "name":"Buchanan, James Paul",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "1188":{
-                "district":"10",
-                "name":"Buchanan, James Paul",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Texas"
+    "district":10,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"tx"
 },
   "bbox": [
     -98.2976,

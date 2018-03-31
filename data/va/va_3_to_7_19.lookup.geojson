@@ -2,48 +2,12 @@
   "id": "va_3_to_7_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"7",
-    "id":"051003007019",
-    "member":{
-        "3":{
-            "4269":{
-                "district":"19",
-                "name":"Heath, John",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "4269":{
-                "district":"19",
-                "name":"Heath, John",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "5064":{
-                "district":"19",
-                "name":"Jones, Walter",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "5559":{
-                "district":"19",
-                "name":"Lee, Henry",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "9167":{
-                "district":"19",
-                "name":"Taliaferro, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Virginia"
+    "district":19,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"va"
 },
   "bbox": [
     -77.34755,

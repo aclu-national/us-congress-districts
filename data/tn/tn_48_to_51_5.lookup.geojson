@@ -1,42 +1,13 @@
 {
-  "id": "tn_48_to_51_05",
+  "id": "tn_48_to_51_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"51",
-    "id":"047048051005",
-    "member":{
-        "48":{
-            "9834":{
-                "district":"5",
-                "name":"Warner, Richard",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "7877":{
-                "district":"5",
-                "name":"Richardson, James Daniel",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "7877":{
-                "district":"5",
-                "name":"Richardson, James Daniel",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "7877":{
-                "district":"5",
-                "name":"Richardson, James Daniel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"tn"
 },
   "bbox": [
     -86.9608,

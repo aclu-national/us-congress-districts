@@ -2,53 +2,12 @@
   "id": "nj_108_to_112_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"112",
-    "id":"034108112013",
-    "member":{
-        "108":{
-            "29373":{
-                "district":"13",
-                "name":"Menendez, Robert",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20542":{
-                "district":"13",
-                "name":"Sires, Albio",
-                "party":"Democrat"
-            },
-            "29373":{
-                "district":"13",
-                "name":"Menendez, Robert",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20542":{
-                "district":"13",
-                "name":"Sires, Albio",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20542":{
-                "district":"13",
-                "name":"Sires, Albio",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20542":{
-                "district":"13",
-                "name":"Sires, Albio",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New Jersey"
+    "district":13,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nj"
 },
   "bbox": [
     -74.29289,

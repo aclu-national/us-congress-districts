@@ -2,53 +2,12 @@
   "id": "va_13_to_17_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"17",
-    "id":"051013017010",
-    "member":{
-        "13":{
-            "4206":{
-                "district":"10",
-                "name":"Hawes, Aylett",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "4206":{
-                "district":"10",
-                "name":"Hawes, Aylett",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "9042":{
-                "district":"10",
-                "name":"Strother, George French",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "6654":{
-                "district":"10",
-                "name":"Moore, Thomas Love",
-                "party":"Republican"
-            },
-            "9042":{
-                "district":"10",
-                "name":"Strother, George French",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "6654":{
-                "district":"10",
-                "name":"Moore, Thomas Love",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -78.33832,

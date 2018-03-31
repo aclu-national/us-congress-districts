@@ -1,42 +1,13 @@
 {
-  "id": "sc_33_to_36_01",
+  "id": "sc_33_to_36_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"36",
-    "id":"045033036001",
-    "member":{
-        "33":{
-            "6377":{
-                "district":"1",
-                "name":"McQueen, John",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "6377":{
-                "district":"1",
-                "name":"McQueen, John",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "6377":{
-                "district":"1",
-                "name":"McQueen, John",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "6377":{
-                "district":"1",
-                "name":"McQueen, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"sc"
 },
   "bbox": [
     -80.9095,

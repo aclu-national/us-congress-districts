@@ -2,20 +2,12 @@
   "id": "ny_93_to_93_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"93",
-    "id":"036093093026",
-    "member":{
-        "93":{
-            "14015":{
-                "district":"26",
-                "name":"Gilman, Benjamin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ny"
 },
   "bbox": [
     -74.7621,

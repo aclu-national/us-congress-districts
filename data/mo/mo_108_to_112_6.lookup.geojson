@@ -1,49 +1,13 @@
 {
-  "id": "mo_108_to_112_06",
+  "id": "mo_108_to_112_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"112",
-    "id":"029108112006",
-    "member":{
-        "108":{
-            "20124":{
-                "district":"6",
-                "name":"Graves, Sam",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20124":{
-                "district":"6",
-                "name":"Graves, Sam",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20124":{
-                "district":"6",
-                "name":"Graves, Sam",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20124":{
-                "district":"6",
-                "name":"Graves, Sam",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20124":{
-                "district":"6",
-                "name":"Graves, Sam",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Missouri"
+    "district":6,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mo"
 },
   "bbox": [
     -95.7747,

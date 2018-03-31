@@ -2,20 +2,12 @@
   "id": "ny_65_to_65_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"65",
-    "id":"036065065012",
-    "member":{
-        "65":{
-            "5751":{
-                "district":"12",
-                "name":"London, Meyer",
-                "party":"Socialist"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -73.99466,

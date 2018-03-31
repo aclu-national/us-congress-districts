@@ -1,49 +1,13 @@
 {
-  "id": "va_43_to_47_09",
+  "id": "va_43_to_47_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"47",
-    "id":"051043047009",
-    "member":{
-        "43":{
-            "899":{
-                "district":"9",
-                "name":"Bowen, Rees Tate",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "9264":{
-                "district":"9",
-                "name":"Terry, William",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "7621":{
-                "district":"9",
-                "name":"Pridemore, Auburn Lorenzo",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "7887":{
-                "district":"9",
-                "name":"Richmond, James Buchanan",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "3389":{
-                "district":"9",
-                "name":"Fulkerson, Abram",
-                "party":"Readjuster Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Virginia"
+    "district":9,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"va"
 },
   "bbox": [
     -83.67541,

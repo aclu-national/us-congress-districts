@@ -1,35 +1,13 @@
 {
-  "id": "tx_44_to_46_03",
+  "id": "tx_44_to_46_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"46",
-    "id":"048044046003",
-    "member":{
-        "44":{
-            "9363":{
-                "district":"3",
-                "name":"Throckmorton, James Webb",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "9363":{
-                "district":"3",
-                "name":"Throckmorton, James Webb",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "9933":{
-                "district":"3",
-                "name":"Wellborn, Olin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Texas"
+    "district":3,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"tx"
 },
   "bbox": [
     -103.06508,

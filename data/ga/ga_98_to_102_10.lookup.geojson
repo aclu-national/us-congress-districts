@@ -2,48 +2,12 @@
   "id": "ga_98_to_102_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"102",
-    "id":"013098102010",
-    "member":{
-        "100":{
-            "14404":{
-                "district":"10",
-                "name":"Barnard, Doug",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14404":{
-                "district":"10",
-                "name":"Barnard, Doug",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14404":{
-                "district":"10",
-                "name":"Barnard, Doug",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14404":{
-                "district":"10",
-                "name":"Barnard, Doug",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14404":{
-                "district":"10",
-                "name":"Barnard, Doug",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Georgia"
+    "district":10,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ga"
 },
   "bbox": [
     -84.2769,

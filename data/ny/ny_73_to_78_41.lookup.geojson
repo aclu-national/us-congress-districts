@@ -2,55 +2,12 @@
   "id": "ny_73_to_78_41",
   "type": "Feature",
   "properties": {
-    "district":"41",
-    "endcong":"78",
-    "id":"036073078041",
-    "member":{
-        "73":{
-            "587":{
-                "district":"41",
-                "name":"Beiter, Alfred Florian",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "587":{
-                "district":"41",
-                "name":"Beiter, Alfred Florian",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "587":{
-                "district":"41",
-                "name":"Beiter, Alfred Florian",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "4152":{
-                "district":"41",
-                "name":"Harter, John Francis",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "587":{
-                "district":"41",
-                "name":"Beiter, Alfred Florian",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "6776":{
-                "district":"41",
-                "name":"Mruk, Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":41,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -78.90188,

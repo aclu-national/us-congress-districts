@@ -2,41 +2,12 @@
   "id": "ny_49_to_52_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"52",
-    "id":"036049052017",
-    "member":{
-        "49":{
-            "5681":{
-                "district":"17",
-                "name":"Lindsley, James Girard",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "4575":{
-                "district":"17",
-                "name":"Hopkins, Stephen Tyng",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "5330":{
-                "district":"17",
-                "name":"Knapp, Charles Junius",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "2112":{
-                "district":"17",
-                "name":"Cox, Isaac Newton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

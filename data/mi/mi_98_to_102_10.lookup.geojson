@@ -2,48 +2,12 @@
   "id": "mi_98_to_102_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"102",
-    "id":"026098102010",
-    "member":{
-        "100":{
-            "15114":{
-                "district":"10",
-                "name":"Schuette, Bill",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15114":{
-                "district":"10",
-                "name":"Schuette, Bill",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "29124":{
-                "district":"10",
-                "name":"Camp, Dave",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14600":{
-                "district":"10",
-                "name":"Albosta, Donald Joseph",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15114":{
-                "district":"10",
-                "name":"Schuette, Bill",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Michigan"
+    "district":10,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"mi"
 },
   "bbox": [
     -85.82189,

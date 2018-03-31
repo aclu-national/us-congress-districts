@@ -1,28 +1,13 @@
 {
-  "id": "sc_1_to_2_01",
+  "id": "sc_1_to_2_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"2",
-    "id":"045001002001",
-    "member":{
-        "1":{
-            "8702":{
-                "district":"1",
-                "name":"Smith, William Loughton",
-                "party":"Pro-Administration"
-            }
-        },
-        "2":{
-            "8702":{
-                "district":"1",
-                "name":"Smith, William Loughton",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"sc"
 },
   "bbox": [
     -81.08264,

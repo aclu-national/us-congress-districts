@@ -2,27 +2,12 @@
   "id": "ga_108_to_109_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"109",
-    "id":"013108109012",
-    "member":{
-        "108":{
-            "20320":{
-                "district":"12",
-                "name":"Burns, Max",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20507":{
-                "district":"12",
-                "name":"Barrow, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Georgia"
+    "district":12,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ga"
 },
   "bbox": [
     -83.53739,

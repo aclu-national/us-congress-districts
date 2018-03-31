@@ -1,35 +1,13 @@
 {
-  "id": "va_33_to_35_04",
+  "id": "va_33_to_35_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"35",
-    "id":"051033035004",
-    "member":{
-        "33":{
-            "3669":{
-                "district":"4",
-                "name":"Goode, William Osborne",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "3669":{
-                "district":"4",
-                "name":"Goode, William Osborne",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "3669":{
-                "district":"4",
-                "name":"Goode, William Osborne",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"va"
 },
   "bbox": [
     -78.90459,

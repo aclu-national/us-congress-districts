@@ -1,35 +1,13 @@
 {
-  "id": "va_33_to_35_05",
+  "id": "va_33_to_35_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"35",
-    "id":"051033035005",
-    "member":{
-        "33":{
-            "815":{
-                "district":"5",
-                "name":"Bocock, Thomas Stanhope",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "815":{
-                "district":"5",
-                "name":"Bocock, Thomas Stanhope",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "815":{
-                "district":"5",
-                "name":"Bocock, Thomas Stanhope",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"va"
 },
   "bbox": [
     -80.62578,

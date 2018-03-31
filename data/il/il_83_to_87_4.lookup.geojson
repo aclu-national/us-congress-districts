@@ -1,49 +1,13 @@
 {
-  "id": "il_83_to_87_04",
+  "id": "il_83_to_87_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"87",
-    "id":"017083087004",
-    "member":{
-        "83":{
-            "6389":{
-                "district":"4",
-                "name":"McVey, William Estus",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "6389":{
-                "district":"4",
-                "name":"McVey, William Estus",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "6389":{
-                "district":"4",
-                "name":"McVey, William Estus",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "2525":{
-                "district":"4",
-                "name":"Derwinski, Edward Joseph",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "2525":{
-                "district":"4",
-                "name":"Derwinski, Edward Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":4,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -88.02916,

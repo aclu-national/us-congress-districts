@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"64",
-    "id":"036063064010",
-    "member":{
-        "63":{
-            "6447":{
-                "district":"10",
-                "name":"Metz, Herman August",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4173":{
-                "district":"10",
-                "name":"Haskell, Reuben Locke",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -73.95227,

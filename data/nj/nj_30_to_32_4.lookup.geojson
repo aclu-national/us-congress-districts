@@ -1,35 +1,13 @@
 {
-  "id": "nj_30_to_32_04",
+  "id": "nj_30_to_32_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"32",
-    "id":"034030032004",
-    "member":{
-        "30":{
-            "9611":{
-                "district":"4",
-                "name":"Van Dyke, John",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "9611":{
-                "district":"4",
-                "name":"Van Dyke, John",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "1110":{
-                "district":"4",
-                "name":"Brown, George Houston",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"New Jersey"
+    "district":4,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"nj"
 },
   "bbox": [
     -74.88989,

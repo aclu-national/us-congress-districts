@@ -2,48 +2,12 @@
   "id": "ny_53_to_57_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"57",
-    "id":"036053057016",
-    "member":{
-        "53":{
-            "8159":{
-                "district":"16",
-                "name":"Ryan, William",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "3047":{
-                "district":"16",
-                "name":"Fairchild, Benjamin Lewis",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "9824":{
-                "district":"16",
-                "name":"Ward, William Lukens",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "9555":{
-                "district":"16",
-                "name":"Underhill, John Quincy",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "7648":{
-                "district":"16",
-                "name":"Pugsley, Cornelius Amory",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ny"
 },
   "bbox": [
     -73.9827,

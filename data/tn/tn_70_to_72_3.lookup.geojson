@@ -1,35 +1,13 @@
 {
-  "id": "tn_70_to_72_03",
+  "id": "tn_70_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"047070072003",
-    "member":{
-        "70":{
-            "6380":{
-                "district":"3",
-                "name":"McReynolds, Samuel Davis",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "6380":{
-                "district":"3",
-                "name":"McReynolds, Samuel Davis",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "6380":{
-                "district":"3",
-                "name":"McReynolds, Samuel Davis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"tn"
 },
   "bbox": [
     -86.33343,

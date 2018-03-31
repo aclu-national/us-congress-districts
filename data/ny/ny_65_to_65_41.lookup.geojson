@@ -2,20 +2,12 @@
   "id": "ny_65_to_65_41",
   "type": "Feature",
   "properties": {
-    "district":"41",
-    "endcong":"65",
-    "id":"036065065041",
-    "member":{
-        "65":{
-            "8605":{
-                "district":"41",
-                "name":"Smith, Charles Bennett",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":41,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -78.90188,

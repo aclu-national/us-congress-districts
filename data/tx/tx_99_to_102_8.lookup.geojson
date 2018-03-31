@@ -1,42 +1,13 @@
 {
-  "id": "tx_99_to_102_08",
+  "id": "tx_99_to_102_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"102",
-    "id":"048099102008",
-    "member":{
-        "100":{
-            "14822":{
-                "district":"8",
-                "name":"Fields, Jack",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14822":{
-                "district":"8",
-                "name":"Fields, Jack",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14822":{
-                "district":"8",
-                "name":"Fields, Jack",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14822":{
-                "district":"8",
-                "name":"Fields, Jack",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Texas"
+    "district":8,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"tx"
 },
   "bbox": [
     -95.56499,

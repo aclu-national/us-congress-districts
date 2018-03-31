@@ -2,62 +2,12 @@
   "id": "tx_66_to_72_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"72",
-    "id":"048066072016",
-    "member":{
-        "66":{
-            "4690":{
-                "district":"16",
-                "name":"Hudspeth, Claude Benton",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "4690":{
-                "district":"16",
-                "name":"Hudspeth, Claude Benton",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "4690":{
-                "district":"16",
-                "name":"Hudspeth, Claude Benton",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "4690":{
-                "district":"16",
-                "name":"Hudspeth, Claude Benton",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "4690":{
-                "district":"16",
-                "name":"Hudspeth, Claude Benton",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "4690":{
-                "district":"16",
-                "name":"Hudspeth, Claude Benton",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "9312":{
-                "district":"16",
-                "name":"Thomason, Robert Ewing",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":16,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

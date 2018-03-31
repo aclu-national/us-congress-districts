@@ -2,41 +2,12 @@
   "id": "ny_94_to_97_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"97",
-    "id":"036094097020",
-    "member":{
-        "94":{
-            "13001":{
-                "district":"20",
-                "name":"Abzug, Bella",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14463":{
-                "district":"20",
-                "name":"Weiss, Theodore",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14463":{
-                "district":"20",
-                "name":"Weiss, Theodore",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14463":{
-                "district":"20",
-                "name":"Weiss, Theodore",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -74.01018,

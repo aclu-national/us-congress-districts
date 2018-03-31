@@ -2,48 +2,12 @@
   "id": "ny_108_to_112_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"112",
-    "id":"036108112013",
-    "member":{
-        "108":{
-            "29773":{
-                "district":"13",
-                "name":"Fossella, Vito",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29773":{
-                "district":"13",
-                "name":"Fossella, Vito",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29773":{
-                "district":"13",
-                "name":"Fossella, Vito",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20933":{
-                "district":"13",
-                "name":"McMahon, Michael E.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21154":{
-                "district":"13",
-                "name":"Grimm, Mike",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":13,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

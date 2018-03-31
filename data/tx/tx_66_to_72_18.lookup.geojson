@@ -2,62 +2,12 @@
   "id": "tx_66_to_72_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"72",
-    "id":"048066072018",
-    "member":{
-        "66":{
-            "5051":{
-                "district":"18",
-                "name":"Jones, Marvin",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5051":{
-                "district":"18",
-                "name":"Jones, Marvin",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "5051":{
-                "district":"18",
-                "name":"Jones, Marvin",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "5051":{
-                "district":"18",
-                "name":"Jones, Marvin",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "5051":{
-                "district":"18",
-                "name":"Jones, Marvin",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "5051":{
-                "district":"18",
-                "name":"Jones, Marvin",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "5051":{
-                "district":"18",
-                "name":"Jones, Marvin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":18,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -103.06508,

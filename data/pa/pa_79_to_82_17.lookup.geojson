@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"82",
-    "id":"042079082017",
-    "member":{
-        "79":{
-            "8532":{
-                "district":"17",
-                "name":"Simpson, Richard Murray",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "8532":{
-                "district":"17",
-                "name":"Simpson, Richard Murray",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "8532":{
-                "district":"17",
-                "name":"Simpson, Richard Murray",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "8532":{
-                "district":"17",
-                "name":"Simpson, Richard Murray",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -78.80838,

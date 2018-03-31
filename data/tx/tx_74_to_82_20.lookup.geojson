@@ -2,76 +2,12 @@
   "id": "tx_74_to_82_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"82",
-    "id":"048074082020",
-    "member":{
-        "74":{
-            "6092":{
-                "district":"20",
-                "name":"Maverick, Fontaine Maury",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "6092":{
-                "district":"20",
-                "name":"Maverick, Fontaine Maury",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "5236":{
-                "district":"20",
-                "name":"Kilday, Paul Joseph",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "5236":{
-                "district":"20",
-                "name":"Kilday, Paul Joseph",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "5236":{
-                "district":"20",
-                "name":"Kilday, Paul Joseph",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "5236":{
-                "district":"20",
-                "name":"Kilday, Paul Joseph",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5236":{
-                "district":"20",
-                "name":"Kilday, Paul Joseph",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "5236":{
-                "district":"20",
-                "name":"Kilday, Paul Joseph",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5236":{
-                "district":"20",
-                "name":"Kilday, Paul Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":20,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -98.80655,

@@ -1,49 +1,13 @@
 {
-  "id": "mo_83_to_87_06",
+  "id": "mo_83_to_87_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"87",
-    "id":"029083087006",
-    "member":{
-        "83":{
-            "1928":{
-                "district":"6",
-                "name":"Cole, William Clay",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4724":{
-                "district":"6",
-                "name":"Hull, William Raleigh, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "4724":{
-                "district":"6",
-                "name":"Hull, William Raleigh, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "4724":{
-                "district":"6",
-                "name":"Hull, William Raleigh, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "4724":{
-                "district":"6",
-                "name":"Hull, William Raleigh, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Missouri"
+    "district":6,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mo"
 },
   "bbox": [
     -95.7747,

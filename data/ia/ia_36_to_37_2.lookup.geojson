@@ -1,28 +1,13 @@
 {
-  "id": "ia_36_to_37_02",
+  "id": "ia_36_to_37_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"37",
-    "id":"019036037002",
-    "member":{
-        "36":{
-            "9607":{
-                "district":"2",
-                "name":"Vandever, William",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "9607":{
-                "district":"2",
-                "name":"Vandever, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"36",
-    "statename":"Iowa"
+    "district":2,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1859-03-04",
+    "start_session":36,
+    "state":"ia"
 },
   "bbox": [
     -96.6397,

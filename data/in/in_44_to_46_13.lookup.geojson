@@ -2,34 +2,12 @@
   "id": "in_44_to_46_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"46",
-    "id":"018044046013",
-    "member":{
-        "44":{
-            "368":{
-                "district":"13",
-                "name":"Baker, John Harris",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "368":{
-                "district":"13",
-                "name":"Baker, John Harris",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "368":{
-                "district":"13",
-                "name":"Baker, John Harris",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Indiana"
+    "district":13,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"in"
 },
   "bbox": [
     -86.46709,

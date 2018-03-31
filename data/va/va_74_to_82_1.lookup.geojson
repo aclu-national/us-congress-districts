@@ -1,82 +1,13 @@
 {
-  "id": "va_74_to_82_01",
+  "id": "va_74_to_82_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"82",
-    "id":"051074082001",
-    "member":{
-        "74":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "785":{
-                "district":"1",
-                "name":"Bland, Schuyler Otis",
-                "party":"Democrat"
-            },
-            "7969":{
-                "district":"1",
-                "name":"Robeson, Edward John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7969":{
-                "district":"1",
-                "name":"Robeson, Edward John, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"va"
 },
   "bbox": [
     -77.95482,

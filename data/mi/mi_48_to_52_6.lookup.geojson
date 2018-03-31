@@ -1,49 +1,13 @@
 {
-  "id": "mi_48_to_52_06",
+  "id": "mi_48_to_52_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"52",
-    "id":"026048052006",
-    "member":{
-        "48":{
-            "10264":{
-                "district":"6",
-                "name":"Winans, Edwin Baruch",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "10264":{
-                "district":"6",
-                "name":"Winans, Edwin Baruch",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "1016":{
-                "district":"6",
-                "name":"Brewer, Mark Spencer",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "1016":{
-                "district":"6",
-                "name":"Brewer, Mark Spencer",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "9001":{
-                "district":"6",
-                "name":"Stout, Byron Gray",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Michigan"
+    "district":6,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mi"
 },
   "bbox": [
     -84.83771,

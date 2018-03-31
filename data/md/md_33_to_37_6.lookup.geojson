@@ -1,49 +1,13 @@
 {
-  "id": "md_33_to_37_06",
+  "id": "md_33_to_37_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"37",
-    "id":"024033037006",
-    "member":{
-        "33":{
-            "8738":{
-                "district":"6",
-                "name":"Sollers, Augustus Rhodes",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "910":{
-                "district":"6",
-                "name":"Bowie, Thomas Fielder",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "910":{
-                "district":"6",
-                "name":"Bowie, Thomas Fielder",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "4700":{
-                "district":"6",
-                "name":"Hughes, George Wurtz",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "1429":{
-                "district":"6",
-                "name":"Calvert, Charles Benedict",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"md"
 },
   "bbox": [
     -77.52734,

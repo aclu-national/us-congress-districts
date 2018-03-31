@@ -1,28 +1,13 @@
 {
-  "id": "ma_53_to_54_01",
+  "id": "ma_53_to_54_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"54",
-    "id":"025053054001",
-    "member":{
-        "53":{
-            "10382":{
-                "district":"1",
-                "name":"Wright, Ashley Bascom",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "10382":{
-                "district":"1",
-                "name":"Wright, Ashley Bascom",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ma"
 },
   "bbox": [
     -73.50814,

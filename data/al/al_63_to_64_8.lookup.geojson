@@ -1,33 +1,13 @@
 {
-  "id": "al_63_to_64_08",
+  "id": "al_63_to_64_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"64",
-    "id":"001063064008",
-    "member":{
-        "63":{
-            "4099":{
-                "district":"8",
-                "name":"Harris, Christopher Columbus",
-                "party":"Democrat"
-            },
-            "7882":{
-                "district":"8",
-                "name":"Richardson, William",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "143":{
-                "district":"8",
-                "name":"Almon, Edward Berton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Alabama"
+    "district":8,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"al"
 },
   "bbox": [
     -88.20296,

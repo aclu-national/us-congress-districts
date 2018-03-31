@@ -1,49 +1,13 @@
 {
-  "id": "mn_93_to_97_08",
+  "id": "mn_93_to_97_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"97",
-    "id":"027093097008",
-    "member":{
-        "93":{
-            "789":{
-                "district":"8",
-                "name":"Blatnik, John Anton",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14265":{
-                "district":"8",
-                "name":"Oberstar, James",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14265":{
-                "district":"8",
-                "name":"Oberstar, James",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14265":{
-                "district":"8",
-                "name":"Oberstar, James",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14265":{
-                "district":"8",
-                "name":"Oberstar, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Minnesota"
+    "district":8,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mn"
 },
   "bbox": [
     -94.43035,

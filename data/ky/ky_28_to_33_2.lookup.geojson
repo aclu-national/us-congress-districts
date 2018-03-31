@@ -1,56 +1,13 @@
 {
-  "id": "ky_28_to_33_02",
+  "id": "ky_28_to_33_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"33",
-    "id":"021028033002",
-    "member":{
-        "28":{
-            "3787":{
-                "district":"2",
-                "name":"Green, Willis",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "6272":{
-                "district":"2",
-                "name":"McHenry, John Hardin",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "1789":{
-                "district":"2",
-                "name":"Clarke, Beverly Leonidas",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "4969":{
-                "district":"2",
-                "name":"Johnson, James Leeper",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "3814":{
-                "district":"2",
-                "name":"Grey, Benjamin Edwards",
-                "party":"Whig"
-            }
-        },
-        "33":{
-            "3814":{
-                "district":"2",
-                "name":"Grey, Benjamin Edwards",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Kentucky"
+    "district":2,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ky"
 },
   "bbox": [
     -87.92708,

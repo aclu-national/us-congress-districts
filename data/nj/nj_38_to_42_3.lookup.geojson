@@ -1,49 +1,13 @@
 {
-  "id": "nj_38_to_42_03",
+  "id": "nj_38_to_42_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"42",
-    "id":"034038042003",
-    "member":{
-        "38":{
-            "8875":{
-                "district":"3",
-                "name":"Steele, William Gaston",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "8553":{
-                "district":"3",
-                "name":"Sitgreaves, Charles",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "8553":{
-                "district":"3",
-                "name":"Sitgreaves, Charles",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "723":{
-                "district":"3",
-                "name":"Bird, John Taylor",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "723":{
-                "district":"3",
-                "name":"Bird, John Taylor",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New Jersey"
+    "district":3,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"nj"
 },
   "bbox": [
     -75.20392,

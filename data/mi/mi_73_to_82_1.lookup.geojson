@@ -1,84 +1,13 @@
 {
-  "id": "mi_73_to_82_01",
+  "id": "mi_73_to_82_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"82",
-    "id":"026073082001",
-    "member":{
-        "73":{
-            "8172":{
-                "district":"1",
-                "name":"Sadowski, George Gregory",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "8172":{
-                "district":"1",
-                "name":"Sadowski, George Gregory",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8172":{
-                "district":"1",
-                "name":"Sadowski, George Gregory",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "9253":{
-                "district":"1",
-                "name":"Tenerowicz, Rudolph Gabriel",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "9253":{
-                "district":"1",
-                "name":"Tenerowicz, Rudolph Gabriel",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "8172":{
-                "district":"1",
-                "name":"Sadowski, George Gregory",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "8172":{
-                "district":"1",
-                "name":"Sadowski, George Gregory",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "8172":{
-                "district":"1",
-                "name":"Sadowski, George Gregory",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "8172":{
-                "district":"1",
-                "name":"Sadowski, George Gregory",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5880":{
-                "district":"1",
-                "name":"Machrowicz, Thaddeus Michael",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Michigan"
+    "district":1,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mi"
 },
   "bbox": [
     -83.11282,

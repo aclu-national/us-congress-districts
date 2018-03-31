@@ -1,19 +1,13 @@
 {
-  "id": "il_113_to_115_06",
+  "id": "il_113_to_115_6",
   "type": "Feature",
   "properties": {
-    "ALAND":981025165,
-    "AWATER":27386196,
-    "CD113FP":"06",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1706",
-    "INTPTLAT":"+42.1751022",
-    "INTPTLON":"-088.2198781",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 6",
-    "STATEFP":"17"
+    "district":6,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"il"
 },
   "bbox": [
     -88.403606,

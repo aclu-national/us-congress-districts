@@ -1,42 +1,13 @@
 {
-  "id": "tn_48_to_51_07",
+  "id": "tn_48_to_51_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"51",
-    "id":"047048051007",
-    "member":{
-        "48":{
-            "399":{
-                "district":"7",
-                "name":"Ballentine, John Goff",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "399":{
-                "district":"7",
-                "name":"Ballentine, John Goff",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "10076":{
-                "district":"7",
-                "name":"Whitthorne, Washington Curran",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "10076":{
-                "district":"7",
-                "name":"Whitthorne, Washington Curran",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Tennessee"
+    "district":7,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"tn"
 },
   "bbox": [
     -88.02474,

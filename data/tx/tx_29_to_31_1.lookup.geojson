@@ -1,35 +1,13 @@
 {
-  "id": "tx_29_to_31_01",
+  "id": "tx_29_to_31_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"31",
-    "id":"048029031001",
-    "member":{
-        "29":{
-            "5102":{
-                "district":"1",
-                "name":"Kaufman, David Spangler",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "5102":{
-                "district":"1",
-                "name":"Kaufman, David Spangler",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "5102":{
-                "district":"1",
-                "name":"Kaufman, David Spangler",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"tx"
 },
   "bbox": [
     -100.66137,

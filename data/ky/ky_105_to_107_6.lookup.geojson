@@ -1,35 +1,13 @@
 {
-  "id": "ky_105_to_107_06",
+  "id": "ky_105_to_107_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"107",
-    "id":"021105107006",
-    "member":{
-        "105":{
-            "29353":{
-                "district":"6",
-                "name":"Baesler, Scotty",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29917":{
-                "district":"6",
-                "name":"Fletcher, Ernie",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29917":{
-                "district":"6",
-                "name":"Fletcher, Ernie",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"ky"
 },
   "bbox": [
     -85.16981,

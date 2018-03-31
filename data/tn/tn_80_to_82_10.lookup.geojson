@@ -2,34 +2,12 @@
   "id": "tn_80_to_82_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"82",
-    "id":"047080082010",
-    "member":{
-        "80":{
-            "2376":{
-                "district":"10",
-                "name":"Davis, Clifford",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "2376":{
-                "district":"10",
-                "name":"Davis, Clifford",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2376":{
-                "district":"10",
-                "name":"Davis, Clifford",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"80",
-    "statename":"Tennessee"
+    "district":10,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1947-01-03",
+    "start_session":80,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

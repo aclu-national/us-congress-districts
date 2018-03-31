@@ -1,49 +1,13 @@
 {
-  "id": "ok_78_to_82_05",
+  "id": "ok_78_to_82_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"82",
-    "id":"040078082005",
-    "member":{
-        "78":{
-            "6597":{
-                "district":"5",
-                "name":"Monroney, Almer Stillwell",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "6597":{
-                "district":"5",
-                "name":"Monroney, Almer Stillwell",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "6597":{
-                "district":"5",
-                "name":"Monroney, Almer Stillwell",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "6597":{
-                "district":"5",
-                "name":"Monroney, Almer Stillwell",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "4891":{
-                "district":"5",
-                "name":"Jarman, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Oklahoma"
+    "district":5,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ok"
 },
   "bbox": [
     -97.67588,

@@ -2,27 +2,12 @@
   "id": "pa_88_to_89_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"89",
-    "id":"042088089027",
-    "member":{
-        "88":{
-            "3409":{
-                "district":"27",
-                "name":"Fulton, James Grove",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "3409":{
-                "district":"27",
-                "name":"Fulton, James Grove",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Pennsylvania"
+    "district":27,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"pa"
 },
   "bbox": [
     -80.36087,

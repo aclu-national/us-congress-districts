@@ -1,42 +1,13 @@
 {
-  "id": "ky_52_to_55_03",
+  "id": "ky_52_to_55_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"55",
-    "id":"021052055003",
-    "member":{
-        "52":{
-            "3677":{
-                "district":"3",
-                "name":"Goodnight, Isaac Herschel",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "3677":{
-                "district":"3",
-                "name":"Goodnight, Isaac Herschel",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "4760":{
-                "district":"3",
-                "name":"Hunter, Whiteside Godfrey",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "7839":{
-                "district":"3",
-                "name":"Rhea, John Stockdale",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"ky"
 },
   "bbox": [
     -87.38886,

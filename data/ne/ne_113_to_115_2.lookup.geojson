@@ -1,19 +1,13 @@
 {
-  "id": "ne_113_to_115_02",
+  "id": "ne_113_to_115_2",
   "type": "Feature",
   "properties": {
-    "ALAND":1320184406,
-    "AWATER":43522348,
-    "CD113FP":"02",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3102",
-    "INTPTLAT":"+41.2286220",
-    "INTPTLON":"-096.1609050",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 2",
-    "STATEFP":"31"
+    "district":2,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ne"
 },
   "bbox": [
     -96.47072,

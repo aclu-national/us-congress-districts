@@ -1,21 +1,13 @@
 {
-  "id": "nc_55_to_55_03",
+  "id": "nc_55_to_55_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"55",
-    "id":"037055055003",
-    "member":{
-        "55":{
-            "3325":{
-                "district":"3",
-                "name":"Fowler, John Edgar",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"nc"
 },
   "bbox": [
     -79.76934,

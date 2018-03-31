@@ -1,21 +1,13 @@
 {
-  "id": "tx_90_to_90_07",
+  "id": "tx_90_to_90_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"90",
-    "id":"048090090007",
-    "member":{
-        "90":{
-            "11008":{
-                "district":"7",
-                "name":"Bush, George",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Texas"
+    "district":7,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"tx"
 },
   "bbox": [
     -95.96078,

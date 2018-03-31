@@ -1,49 +1,13 @@
 {
-  "id": "nj_93_to_97_01",
+  "id": "nj_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"034093097001",
-    "member":{
-        "93":{
-            "11022":{
-                "district":"1",
-                "name":"Hunt, John E.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14223":{
-                "district":"1",
-                "name":"Florio, James",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14223":{
-                "district":"1",
-                "name":"Florio, James",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14223":{
-                "district":"1",
-                "name":"Florio, James",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14223":{
-                "district":"1",
-                "name":"Florio, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New Jersey"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nj"
 },
   "bbox": [
     -75.43042,

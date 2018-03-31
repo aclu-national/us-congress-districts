@@ -1,21 +1,13 @@
 {
-  "id": "ma_2_to_2_05",
+  "id": "ma_2_to_2_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"2",
-    "id":"025002002005",
-    "member":{
-        "2":{
-            "886":{
-                "district":"5",
-                "name":"Bourne, Shearjashub",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"2",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1791-03-04",
+    "start_session":2,
+    "state":"ma"
 },
   "bbox": [
     -71.08019,

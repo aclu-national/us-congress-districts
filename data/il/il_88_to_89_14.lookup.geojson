@@ -2,27 +2,12 @@
   "id": "il_88_to_89_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"89",
-    "id":"017088089014",
-    "member":{
-        "88":{
-            "4488":{
-                "district":"14",
-                "name":"Hoffman, Elmer Joseph",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10722":{
-                "district":"14",
-                "name":"Erlenborn, John N.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Illinois"
+    "district":14,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"il"
 },
   "bbox": [
     -88.26318,

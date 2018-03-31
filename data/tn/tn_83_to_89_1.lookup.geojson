@@ -1,68 +1,13 @@
 {
-  "id": "tn_83_to_89_01",
+  "id": "tn_83_to_89_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"89",
-    "id":"047083089001",
-    "member":{
-        "83":{
-            "7777":{
-                "district":"1",
-                "name":"Reece, Brazilla Carroll",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "7777":{
-                "district":"1",
-                "name":"Reece, Brazilla Carroll",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "7777":{
-                "district":"1",
-                "name":"Reece, Brazilla Carroll",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "7777":{
-                "district":"1",
-                "name":"Reece, Brazilla Carroll",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10547":{
-                "district":"1",
-                "name":"Reece, Louise G.",
-                "party":"Republican"
-            },
-            "7777":{
-                "district":"1",
-                "name":"Reece, Brazilla Carroll",
-                "party":"Republican"
-            }
-        },
-        "88":{
-            "10616":{
-                "district":"1",
-                "name":"Quillen, James H.",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10616":{
-                "district":"1",
-                "name":"Quillen, James H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tn"
 },
   "bbox": [
     -83.9994,

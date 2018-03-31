@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"97",
-    "id":"006094097018",
-    "member":{
-        "94":{
-            "14028":{
-                "district":"18",
-                "name":"Ketchum, William M.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14028":{
-                "district":"18",
-                "name":"Ketchum, William M.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14669":{
-                "district":"18",
-                "name":"Thomas, William Marshall",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14669":{
-                "district":"18",
-                "name":"Thomas, William Marshall",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":18,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -120.19415,

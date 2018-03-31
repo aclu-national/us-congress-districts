@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"72",
-    "id":"036068072023",
-    "member":{
-        "68":{
-            "7059":{
-                "district":"23",
-                "name":"Oliver, Frank",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "7059":{
-                "district":"23",
-                "name":"Oliver, Frank",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "7059":{
-                "district":"23",
-                "name":"Oliver, Frank",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7059":{
-                "district":"23",
-                "name":"Oliver, Frank",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "7059":{
-                "district":"23",
-                "name":"Oliver, Frank",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -73.93341,

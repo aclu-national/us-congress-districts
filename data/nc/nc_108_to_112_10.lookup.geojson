@@ -2,48 +2,12 @@
   "id": "nc_108_to_112_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"112",
-    "id":"037108112010",
-    "member":{
-        "108":{
-            "15402":{
-                "district":"10",
-                "name":"Ballenger, Cass",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20522":{
-                "district":"10",
-                "name":"McHenry, Patrick T.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20522":{
-                "district":"10",
-                "name":"McHenry, Patrick T.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20522":{
-                "district":"10",
-                "name":"McHenry, Patrick T.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20522":{
-                "district":"10",
-                "name":"McHenry, Patrick T.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"North Carolina"
+    "district":10,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nc"
 },
   "bbox": [
     -82.41663,

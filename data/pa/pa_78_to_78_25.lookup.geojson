@@ -2,20 +2,12 @@
   "id": "pa_78_to_78_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"78",
-    "id":"042078078025",
-    "member":{
-        "78":{
-            "3416":{
-                "district":"25",
-                "name":"Furlong, Robert Grant",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Pennsylvania"
+    "district":25,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"pa"
 },
   "bbox": [
     -80.51928,

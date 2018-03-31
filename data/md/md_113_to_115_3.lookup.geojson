@@ -1,19 +1,13 @@
 {
-  "id": "md_113_to_115_03",
+  "id": "md_113_to_115_3",
   "type": "Feature",
   "properties": {
-    "ALAND":787830666,
-    "AWATER":253099129,
-    "CD113FP":"03",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2403",
-    "INTPTLAT":"+39.1572215",
-    "INTPTLON":"-076.6768633",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 3",
-    "STATEFP":"24"
+    "district":3,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"md"
 },
   "bbox": [
     -77.156343,

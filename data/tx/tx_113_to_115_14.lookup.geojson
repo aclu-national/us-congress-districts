@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_14",
   "type": "Feature",
   "properties": {
-    "ALAND":6323638654,
-    "AWATER":2552515277,
-    "CD113FP":"14",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4814",
-    "INTPTLAT":"+29.4337172",
-    "INTPTLON":"-094.8926947",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 14",
-    "STATEFP":"48"
+    "district":14,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -95.874028,

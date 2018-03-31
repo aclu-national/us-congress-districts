@@ -1,49 +1,13 @@
 {
-  "id": "il_28_to_32_01",
+  "id": "il_28_to_32_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"32",
-    "id":"017028032001",
-    "member":{
-        "28":{
-            "8677":{
-                "district":"1",
-                "name":"Smith, Robert",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "8677":{
-                "district":"1",
-                "name":"Smith, Robert",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "8677":{
-                "district":"1",
-                "name":"Smith, Robert",
-                "party":"Ind. Democrat"
-            }
-        },
-        "31":{
-            "736":{
-                "district":"1",
-                "name":"Bissell, William Harrison",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "736":{
-                "district":"1",
-                "name":"Bissell, William Harrison",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Illinois"
+    "district":1,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"il"
 },
   "bbox": [
     -90.37408,

@@ -1,54 +1,13 @@
 {
-  "id": "sc_3_to_7_05",
+  "id": "sc_3_to_7_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"7",
-    "id":"045003007005",
-    "member":{
-        "3":{
-            "3607":{
-                "district":"5",
-                "name":"Gillon, Alexander",
-                "party":"Anti-Administration"
-            },
-            "4090":{
-                "district":"5",
-                "name":"Harper, Robert Goodloe",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "4090":{
-                "district":"5",
-                "name":"Harper, Robert Goodloe",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "4090":{
-                "district":"5",
-                "name":"Harper, Robert Goodloe",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "4090":{
-                "district":"5",
-                "name":"Harper, Robert Goodloe",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "1354":{
-                "district":"5",
-                "name":"Butler, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"South Carolina"
+    "district":5,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"sc"
 },
   "bbox": [
     -82.74096,

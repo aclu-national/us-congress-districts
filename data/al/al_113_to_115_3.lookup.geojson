@@ -1,19 +1,13 @@
 {
-  "id": "al_113_to_115_03",
+  "id": "al_113_to_115_3",
   "type": "Feature",
   "properties": {
-    "ALAND":19538863715,
-    "AWATER":470645995,
-    "CD113FP":"03",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0103",
-    "INTPTLAT":"+33.1505639",
-    "INTPTLON":"-085.7002277",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 3",
-    "STATEFP":"01"
+    "district":3,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"al"
 },
   "bbox": [
     -86.577799,

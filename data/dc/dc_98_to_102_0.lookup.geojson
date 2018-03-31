@@ -1,19 +1,13 @@
 {
-  "id": "dc_98_to_102_00",
+  "id": "dc_98_to_102_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"102",
-    "id":"011098102000",
-    "member":{
-        "100":[],
-        "101":[],
-        "102":[],
-        "98":[],
-        "99":[]
-    },
-    "startcong":"98",
-    "statename":"District Of Columbia"
+    "district":0,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"dc"
 },
   "bbox": [
     -77.1202,

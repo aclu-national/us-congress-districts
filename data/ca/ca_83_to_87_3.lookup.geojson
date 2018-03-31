@@ -1,49 +1,13 @@
 {
-  "id": "ca_83_to_87_03",
+  "id": "ca_83_to_87_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"87",
-    "id":"006083087003",
-    "member":{
-        "83":{
-            "6756":{
-                "district":"3",
-                "name":"Moss, John Emerson, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "6756":{
-                "district":"3",
-                "name":"Moss, John Emerson, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "6756":{
-                "district":"3",
-                "name":"Moss, John Emerson, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "6756":{
-                "district":"3",
-                "name":"Moss, John Emerson, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "6756":{
-                "district":"3",
-                "name":"Moss, John Emerson, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":3,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -122.93841,

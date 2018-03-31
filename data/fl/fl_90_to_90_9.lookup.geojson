@@ -1,21 +1,13 @@
 {
-  "id": "fl_90_to_90_09",
+  "id": "fl_90_to_90_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"90",
-    "id":"012090090009",
-    "member":{
-        "90":{
-            "8032":{
-                "district":"9",
-                "name":"Rogers, Paul Grant",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Florida"
+    "district":9,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"fl"
 },
   "bbox": [
     -82.37482,

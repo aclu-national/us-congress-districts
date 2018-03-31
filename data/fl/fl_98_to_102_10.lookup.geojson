@@ -2,48 +2,12 @@
   "id": "fl_98_to_102_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"102",
-    "id":"012098102010",
-    "member":{
-        "100":{
-            "14428":{
-                "district":"10",
-                "name":"Ireland, Andrew",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14428":{
-                "district":"10",
-                "name":"Ireland, Andrew",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14428":{
-                "district":"10",
-                "name":"Ireland, Andrew",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "94428":{
-                "district":"10",
-                "name":"Ireland, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14428":{
-                "district":"10",
-                "name":"Ireland, Andrew",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Florida"
+    "district":10,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"fl"
 },
   "bbox": [
     -82.74674,

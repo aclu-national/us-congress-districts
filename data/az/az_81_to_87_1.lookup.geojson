@@ -1,63 +1,13 @@
 {
-  "id": "az_81_to_87_01",
+  "id": "az_81_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"004081087001",
-    "member":{
-        "81":{
-            "6799":{
-                "district":"1",
-                "name":"Murdock, John Robert",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "6799":{
-                "district":"1",
-                "name":"Murdock, John Robert",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "7845":{
-                "district":"1",
-                "name":"Rhodes, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "7845":{
-                "district":"1",
-                "name":"Rhodes, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "7845":{
-                "district":"1",
-                "name":"Rhodes, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "7845":{
-                "district":"1",
-                "name":"Rhodes, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "7845":{
-                "district":"1",
-                "name":"Rhodes, John Jacob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"81",
-    "statename":"Arizona"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1949-01-03",
+    "start_session":81,
+    "state":"az"
 },
   "bbox": [
     -113.33444,

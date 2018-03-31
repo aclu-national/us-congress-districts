@@ -2,41 +2,12 @@
   "id": "mi_89_to_92_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"92",
-    "id":"026089092019",
-    "member":{
-        "89":{
-            "10725":{
-                "district":"19",
-                "name":"Farnum, Billie S.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11030":{
-                "district":"19",
-                "name":"McDonald, Jack",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11030":{
-                "district":"19",
-                "name":"McDonald, Jack",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11030":{
-                "district":"19",
-                "name":"McDonald, Jack",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Michigan"
+    "district":19,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"mi"
 },
   "bbox": [
     -83.68948,

@@ -2,20 +2,12 @@
   "id": "ny_43_to_43_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"43",
-    "id":"036043043013",
-    "member":{
-        "43":{
-            "10056":{
-                "district":"13",
-                "name":"Whitehouse, John Osborne",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ny"
 },
   "bbox": [
     -74.00011,

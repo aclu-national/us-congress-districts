@@ -1,28 +1,13 @@
 {
-  "id": "ny_63_to_64_02",
+  "id": "ny_63_to_64_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"64",
-    "id":"036063064002",
-    "member":{
-        "63":{
-            "7052":{
-                "district":"2",
-                "name":"O'Leary, Denis",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "1404":{
-                "district":"2",
-                "name":"Caldwell, Charles Pope",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":2,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -73.96161,

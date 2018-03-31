@@ -1,84 +1,13 @@
 {
-  "id": "wa_73_to_82_01",
+  "id": "wa_73_to_82_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"82",
-    "id":"053073082001",
-    "member":{
-        "73":{
-            "10469":{
-                "district":"1",
-                "name":"Zioncheck, Marion Anthony",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "10469":{
-                "district":"1",
-                "name":"Zioncheck, Marion Anthony",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5913":{
-                "district":"1",
-                "name":"Magnuson, Warren Grant",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "5913":{
-                "district":"1",
-                "name":"Magnuson, Warren Grant",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "5913":{
-                "district":"1",
-                "name":"Magnuson, Warren Grant",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "5913":{
-                "district":"1",
-                "name":"Magnuson, Warren Grant",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "2473":{
-                "district":"1",
-                "name":"De Lacy, Emerson Hugh",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5036":{
-                "district":"1",
-                "name":"Jones, Homer Raymond",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6561":{
-                "district":"1",
-                "name":"Mitchell, Hugh Burnton",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "6561":{
-                "district":"1",
-                "name":"Mitchell, Hugh Burnton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Washington"
+    "district":1,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"wa"
 },
   "bbox": [
     -123.02335,

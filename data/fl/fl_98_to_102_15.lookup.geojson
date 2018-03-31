@@ -2,48 +2,12 @@
   "id": "fl_98_to_102_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"102",
-    "id":"012098102015",
-    "member":{
-        "100":{
-            "14860":{
-                "district":"15",
-                "name":"Shaw, Clay",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14860":{
-                "district":"15",
-                "name":"Shaw, Clay",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14860":{
-                "district":"15",
-                "name":"Shaw, Clay",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14860":{
-                "district":"15",
-                "name":"Shaw, Clay",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14860":{
-                "district":"15",
-                "name":"Shaw, Clay",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Florida"
+    "district":15,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"fl"
 },
   "bbox": [
     -80.2575,

@@ -2,27 +2,12 @@
   "id": "ma_91_to_92_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"92",
-    "id":"025091092010",
-    "member":{
-        "91":{
-            "11021":{
-                "district":"10",
-                "name":"Heckler, Margaret M.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11021":{
-                "district":"10",
-                "name":"Heckler, Margaret M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ma"
 },
   "bbox": [
     -71.4581,

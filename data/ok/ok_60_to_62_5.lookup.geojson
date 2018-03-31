@@ -1,35 +1,13 @@
 {
-  "id": "ok_60_to_62_05",
+  "id": "ok_60_to_62_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"62",
-    "id":"040060062005",
-    "member":{
-        "60":{
-            "3119":{
-                "district":"5",
-                "name":"Ferris, Scott",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "3119":{
-                "district":"5",
-                "name":"Ferris, Scott",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "3119":{
-                "district":"5",
-                "name":"Ferris, Scott",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Oklahoma"
+    "district":5,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ok"
 },
   "bbox": [
     -100.00039,

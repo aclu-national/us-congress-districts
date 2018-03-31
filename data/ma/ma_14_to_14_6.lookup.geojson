@@ -1,21 +1,13 @@
 {
-  "id": "ma_14_to_14_06",
+  "id": "ma_14_to_14_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"14",
-    "id":"025014014006",
-    "member":{
-        "14":{
-            "9154":{
-                "district":"6",
-                "name":"Taggart, Samuel",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"14",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1815-12-04",
+    "start_session":14,
+    "state":"ma"
 },
   "bbox": [
     -72.99287,

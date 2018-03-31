@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_11",
   "type": "Feature",
   "properties": {
-    "ALAND":72085782429,
-    "AWATER":572980548,
-    "CD113FP":"11",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4811",
-    "INTPTLAT":"+31.7322926",
-    "INTPTLON":"-100.0636956",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 11",
-    "STATEFP":"48"
+    "district":11,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -103.064788,

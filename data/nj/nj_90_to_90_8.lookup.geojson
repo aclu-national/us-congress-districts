@@ -1,21 +1,13 @@
 {
-  "id": "nj_90_to_90_08",
+  "id": "nj_90_to_90_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"90",
-    "id":"034090090008",
-    "member":{
-        "90":{
-            "10529":{
-                "district":"8",
-                "name":"Joelson, Charles S.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"New Jersey"
+    "district":8,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"nj"
 },
   "bbox": [
     -74.5028,

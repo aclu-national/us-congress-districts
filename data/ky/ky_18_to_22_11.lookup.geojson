@@ -2,53 +2,12 @@
   "id": "ky_18_to_22_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"22",
-    "id":"021018022011",
-    "member":{
-        "18":{
-            "9333":{
-                "district":"11",
-                "name":"Thompson, Philip",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "10458":{
-                "district":"11",
-                "name":"Young, William S.",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "1417":{
-                "district":"11",
-                "name":"Calhoon, John",
-                "party":"Adams"
-            },
-            "1696":{
-                "district":"11",
-                "name":"Chilton, Thomas",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "1696":{
-                "district":"11",
-                "name":"Chilton, Thomas",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "4205":{
-                "district":"11",
-                "name":"Hawes, Albert Gallatin",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Kentucky"
+    "district":11,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ky"
 },
   "bbox": [
     -87.92708,

@@ -1,42 +1,13 @@
 {
-  "id": "tn_74_to_77_01",
+  "id": "tn_74_to_77_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"77",
-    "id":"047074077001",
-    "member":{
-        "74":{
-            "7777":{
-                "district":"1",
-                "name":"Reece, Brazilla Carroll",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "7777":{
-                "district":"1",
-                "name":"Reece, Brazilla Carroll",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "7777":{
-                "district":"1",
-                "name":"Reece, Brazilla Carroll",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "7777":{
-                "district":"1",
-                "name":"Reece, Brazilla Carroll",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tn"
 },
   "bbox": [
     -83.9994,

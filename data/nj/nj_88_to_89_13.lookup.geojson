@@ -2,27 +2,12 @@
   "id": "nj_88_to_89_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"89",
-    "id":"034088089013",
-    "member":{
-        "88":{
-            "3433":{
-                "district":"13",
-                "name":"Gallagher, Cornelius Edward",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "3433":{
-                "district":"13",
-                "name":"Gallagher, Cornelius Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New Jersey"
+    "district":13,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"nj"
 },
   "bbox": [
     -74.14689,

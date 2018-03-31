@@ -2,48 +2,12 @@
   "id": "pa_18_to_22_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"22",
-    "id":"042018022014",
-    "member":{
-        "18":{
-            "8927":{
-                "district":"14",
-                "name":"Stewart, Andrew",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "8927":{
-                "district":"14",
-                "name":"Stewart, Andrew",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "8927":{
-                "district":"14",
-                "name":"Stewart, Andrew",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "4828":{
-                "district":"14",
-                "name":"Irwin, Thomas",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "8927":{
-                "district":"14",
-                "name":"Stewart, Andrew",
-                "party":"Anti Masonic"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"pa"
 },
   "bbox": [
     -80.51949,

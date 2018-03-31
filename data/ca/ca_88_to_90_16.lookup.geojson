@@ -2,34 +2,12 @@
   "id": "ca_88_to_90_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"90",
-    "id":"006088090016",
-    "member":{
-        "88":{
-            "8549":{
-                "district":"16",
-                "name":"Sisk, Bernice Frederic",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "8549":{
-                "district":"16",
-                "name":"Sisk, Bernice Frederic",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "8549":{
-                "district":"16",
-                "name":"Sisk, Bernice Frederic",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":16,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -121.24865,

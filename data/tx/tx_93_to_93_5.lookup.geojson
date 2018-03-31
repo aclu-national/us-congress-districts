@@ -1,21 +1,13 @@
 {
-  "id": "tx_93_to_93_05",
+  "id": "tx_93_to_93_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"93",
-    "id":"048093093005",
-    "member":{
-        "93":{
-            "14054":{
-                "district":"5",
-                "name":"Steelman, Alan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Texas"
+    "district":5,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tx"
 },
   "bbox": [
     -96.82208,

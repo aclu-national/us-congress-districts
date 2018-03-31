@@ -1,84 +1,13 @@
 {
-  "id": "wi_63_to_72_09",
+  "id": "wi_63_to_72_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"72",
-    "id":"055063072009",
-    "member":{
-        "63":{
-            "5355":{
-                "district":"9",
-                "name":"Konop, Thomas Frank",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "5355":{
-                "district":"9",
-                "name":"Konop, Thomas Frank",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "1804":{
-                "district":"9",
-                "name":"Classon, David Guy",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "1804":{
-                "district":"9",
-                "name":"Classon, David Guy",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "1804":{
-                "district":"9",
-                "name":"Classon, David Guy",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "8269":{
-                "district":"9",
-                "name":"Schneider, George John",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "8269":{
-                "district":"9",
-                "name":"Schneider, George John",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "8269":{
-                "district":"9",
-                "name":"Schneider, George John",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8269":{
-                "district":"9",
-                "name":"Schneider, George John",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "8269":{
-                "district":"9",
-                "name":"Schneider, George John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Wisconsin"
+    "district":9,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"wi"
 },
   "bbox": [
     -89.4261,

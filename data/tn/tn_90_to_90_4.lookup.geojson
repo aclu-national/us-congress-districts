@@ -1,21 +1,13 @@
 {
-  "id": "tn_90_to_90_04",
+  "id": "tn_90_to_90_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"90",
-    "id":"047090090004",
-    "member":{
-        "90":{
-            "3034":{
-                "district":"4",
-                "name":"Evins, Joseph Landon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"tn"
 },
   "bbox": [
     -86.9608,

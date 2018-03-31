@@ -1,28 +1,13 @@
 {
-  "id": "in_53_to_54_05",
+  "id": "in_53_to_54_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"54",
-    "id":"018053054005",
-    "member":{
-        "53":{
-            "2045":{
-                "district":"5",
-                "name":"Cooper, George William",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "7124":{
-                "district":"5",
-                "name":"Overstreet, Jesse",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Indiana"
+    "district":5,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"in"
 },
   "bbox": [
     -87.05477,

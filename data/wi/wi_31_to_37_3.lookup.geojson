@@ -1,63 +1,13 @@
 {
-  "id": "wi_31_to_37_03",
+  "id": "wi_31_to_37_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"37",
-    "id":"055031037003",
-    "member":{
-        "31":{
-            "2680":{
-                "district":"3",
-                "name":"Doty, James Duane",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "2680":{
-                "district":"3",
-                "name":"Doty, James Duane",
-                "party":"Ind. Democrat"
-            }
-        },
-        "33":{
-            "5897":{
-                "district":"3",
-                "name":"Macy, John B.",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "711":{
-                "district":"3",
-                "name":"Billinghurst, Charles",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "711":{
-                "district":"3",
-                "name":"Billinghurst, Charles",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "5478":{
-                "district":"3",
-                "name":"Larrabee, Charles Hathaway",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "8578":{
-                "district":"3",
-                "name":"Sloan, Andrew Scott",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"31",
-    "statename":"Wisconsin"
+    "district":3,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1849-03-05",
+    "start_session":31,
+    "state":"wi"
 },
   "bbox": [
     -89.78581,

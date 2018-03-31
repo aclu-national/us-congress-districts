@@ -2,62 +2,12 @@
   "id": "ga_53_to_59_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"59",
-    "id":"013053059010",
-    "member":{
-        "53":{
-            "746":{
-                "district":"10",
-                "name":"Black, James Conquest Cross",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "746":{
-                "district":"10",
-                "name":"Black, James Conquest Cross",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "3214":{
-                "district":"10",
-                "name":"Fleming, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "3214":{
-                "district":"10",
-                "name":"Fleming, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "3214":{
-                "district":"10",
-                "name":"Fleming, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "4060":{
-                "district":"10",
-                "name":"Hardwick, Thomas William",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "4060":{
-                "district":"10",
-                "name":"Hardwick, Thomas William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Georgia"
+    "district":10,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ga"
 },
   "bbox": [
     -83.40719,

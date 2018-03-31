@@ -2,53 +2,12 @@
   "id": "oh_53_to_57_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"57",
-    "id":"039053057010",
-    "member":{
-        "53":{
-            "1237":{
-                "district":"10",
-                "name":"Bundy, Hezekiah Sanford",
-                "party":"Republican"
-            },
-            "2974":{
-                "district":"10",
-                "name":"Enochs, William Henry",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "3106":{
-                "district":"10",
-                "name":"Fenton, Lucien Jerome",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "3106":{
-                "district":"10",
-                "name":"Fenton, Lucien Jerome",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "6684":{
-                "district":"10",
-                "name":"Morgan, Stephen",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "6684":{
-                "district":"10",
-                "name":"Morgan, Stephen",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Ohio"
+    "district":10,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"oh"
 },
   "bbox": [
     -83.70528,

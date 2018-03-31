@@ -2,48 +2,12 @@
   "id": "va_3_to_7_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"7",
-    "id":"051003007018",
-    "member":{
-        "3":{
-            "6911":{
-                "district":"18",
-                "name":"Nicholas, John",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "6911":{
-                "district":"18",
-                "name":"Nicholas, John",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "6911":{
-                "district":"18",
-                "name":"Nicholas, John",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "6911":{
-                "district":"18",
-                "name":"Nicholas, John",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "9335":{
-                "district":"18",
-                "name":"Thompson, Philip Rootes",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Virginia"
+    "district":18,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"va"
 },
   "bbox": [
     -78.33832,

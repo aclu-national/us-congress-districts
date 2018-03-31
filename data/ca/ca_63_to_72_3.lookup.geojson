@@ -1,84 +1,13 @@
 {
-  "id": "ca_63_to_72_03",
+  "id": "ca_63_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"006063072003",
-    "member":{
-        "63":{
-            "2261":{
-                "district":"3",
-                "name":"Curry, Charles Forrest",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "2261":{
-                "district":"3",
-                "name":"Curry, Charles Forrest",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "2261":{
-                "district":"3",
-                "name":"Curry, Charles Forrest",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "2261":{
-                "district":"3",
-                "name":"Curry, Charles Forrest",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "2261":{
-                "district":"3",
-                "name":"Curry, Charles Forrest",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "2261":{
-                "district":"3",
-                "name":"Curry, Charles Forrest",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "2261":{
-                "district":"3",
-                "name":"Curry, Charles Forrest",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "2261":{
-                "district":"3",
-                "name":"Curry, Charles Forrest",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2261":{
-                "district":"3",
-                "name":"Curry, Charles Forrest",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2262":{
-                "district":"3",
-                "name":"Curry, Charles Forrest, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"California"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ca"
 },
   "bbox": [
     -122.64642,

@@ -1,54 +1,13 @@
 {
-  "id": "ny_58_to_62_03",
+  "id": "ny_58_to_62_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"62",
-    "id":"036058062003",
-    "member":{
-        "58":{
-            "2780":{
-                "district":"3",
-                "name":"Dunwell, Charles Tappan",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2780":{
-                "district":"3",
-                "name":"Dunwell, Charles Tappan",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2780":{
-                "district":"3",
-                "name":"Dunwell, Charles Tappan",
-                "party":"Republican"
-            },
-            "3244":{
-                "district":"3",
-                "name":"Foelker, Otto Godfrey",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3244":{
-                "district":"3",
-                "name":"Foelker, Otto Godfrey",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5922":{
-                "district":"3",
-                "name":"Maher, James Paul",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -73.96984,

@@ -1,49 +1,13 @@
 {
-  "id": "co_103_to_107_04",
+  "id": "co_103_to_107_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"107",
-    "id":"008103107004",
-    "member":{
-        "103":{
-            "29108":{
-                "district":"4",
-                "name":"Allard, Wayne",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29108":{
-                "district":"4",
-                "name":"Allard, Wayne",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29711":{
-                "district":"4",
-                "name":"Schaffer, Robert",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29711":{
-                "district":"4",
-                "name":"Schaffer, Robert",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29711":{
-                "district":"4",
-                "name":"Schaffer, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Colorado"
+    "district":4,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"co"
 },
   "bbox": [
     -106.19544,

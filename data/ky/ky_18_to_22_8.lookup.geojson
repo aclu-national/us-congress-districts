@@ -1,49 +1,13 @@
 {
-  "id": "ky_18_to_22_08",
+  "id": "ky_18_to_22_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"22",
-    "id":"021018022008",
-    "member":{
-        "18":{
-            "1213":{
-                "district":"8",
-                "name":"Buckner, Richard Aylett",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "1213":{
-                "district":"8",
-                "name":"Buckner, Richard Aylett",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "1213":{
-                "district":"8",
-                "name":"Buckner, Richard Aylett",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "3428":{
-                "district":"8",
-                "name":"Gaither, Nathan",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "3428":{
-                "district":"8",
-                "name":"Gaither, Nathan",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Kentucky"
+    "district":8,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ky"
 },
   "bbox": [
     -85.69749,

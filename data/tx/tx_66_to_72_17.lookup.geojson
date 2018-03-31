@@ -2,67 +2,12 @@
   "id": "tx_66_to_72_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"72",
-    "id":"048066072017",
-    "member":{
-        "66":{
-            "788":{
-                "district":"17",
-                "name":"Blanton, Thomas Lindsay",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "788":{
-                "district":"17",
-                "name":"Blanton, Thomas Lindsay",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "788":{
-                "district":"17",
-                "name":"Blanton, Thomas Lindsay",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "788":{
-                "district":"17",
-                "name":"Blanton, Thomas Lindsay",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "788":{
-                "district":"17",
-                "name":"Blanton, Thomas Lindsay",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "5567":{
-                "district":"17",
-                "name":"Lee, Robert Quincy",
-                "party":"Democrat"
-            },
-            "788":{
-                "district":"17",
-                "name":"Blanton, Thomas Lindsay",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "788":{
-                "district":"17",
-                "name":"Blanton, Thomas Lindsay",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":17,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -100.66535,

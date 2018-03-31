@@ -1,49 +1,13 @@
 {
-  "id": "ia_38_to_42_01",
+  "id": "ia_38_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"019038042001",
-    "member":{
-        "38":{
-            "10234":{
-                "district":"1",
-                "name":"Wilson, James Falconer",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "10234":{
-                "district":"1",
-                "name":"Wilson, James Falconer",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "10234":{
-                "district":"1",
-                "name":"Wilson, James Falconer",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "6191":{
-                "district":"1",
-                "name":"McCrary, George Washington",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "6191":{
-                "district":"1",
-                "name":"McCrary, George Washington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Iowa"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ia"
 },
   "bbox": [
     -92.63918,

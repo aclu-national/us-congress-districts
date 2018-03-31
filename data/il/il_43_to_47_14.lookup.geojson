@@ -2,48 +2,12 @@
   "id": "il_43_to_47_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"47",
-    "id":"017043047014",
-    "member":{
-        "43":{
-            "1483":{
-                "district":"14",
-                "name":"Cannon, Joseph Gurney",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "1483":{
-                "district":"14",
-                "name":"Cannon, Joseph Gurney",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "1483":{
-                "district":"14",
-                "name":"Cannon, Joseph Gurney",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "1483":{
-                "district":"14",
-                "name":"Cannon, Joseph Gurney",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "1483":{
-                "district":"14",
-                "name":"Cannon, Joseph Gurney",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":14,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -89.2179,

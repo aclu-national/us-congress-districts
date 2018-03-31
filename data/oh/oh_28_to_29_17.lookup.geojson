@@ -2,27 +2,12 @@
   "id": "oh_28_to_29_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"29",
-    "id":"039028029017",
-    "member":{
-        "28":{
-            "6142":{
-                "district":"17",
-                "name":"McCauslen, William Cochran",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "3376":{
-                "district":"17",
-                "name":"Fries, George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -81.32166,

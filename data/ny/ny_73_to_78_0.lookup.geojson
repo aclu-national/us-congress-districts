@@ -1,86 +1,13 @@
 {
-  "id": "ny_73_to_78_00",
+  "id": "ny_73_to_78_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"78",
-    "id":"036073078000",
-    "member":{
-        "73":{
-            "3189":{
-                "district":"99",
-                "name":"Fitzgibbons, John",
-                "party":"Democrat"
-            },
-            "9058":{
-                "district":"99",
-                "name":"Studley, Elmer Ebenezer",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "6434":{
-                "district":"99",
-                "name":"Merritt, Matthew Joseph",
-                "party":"Democrat"
-            },
-            "7022":{
-                "district":"99",
-                "name":"O'Day, Caroline",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "6434":{
-                "district":"99",
-                "name":"Merritt, Matthew Joseph",
-                "party":"Democrat"
-            },
-            "7022":{
-                "district":"99",
-                "name":"O'Day, Caroline",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "6434":{
-                "district":"99",
-                "name":"Merritt, Matthew Joseph",
-                "party":"Democrat"
-            },
-            "7022":{
-                "district":"99",
-                "name":"O'Day, Caroline",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "6434":{
-                "district":"99",
-                "name":"Merritt, Matthew Joseph",
-                "party":"Democrat"
-            },
-            "7022":{
-                "district":"99",
-                "name":"O'Day, Caroline",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "6434":{
-                "district":"99",
-                "name":"Merritt, Matthew Joseph",
-                "party":"Democrat"
-            },
-            "8840":{
-                "district":"99",
-                "name":"Stanley, Winifred Claire",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":0,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

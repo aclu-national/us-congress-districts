@@ -1,79 +1,13 @@
 {
-  "id": "pa_18_to_22_07",
+  "id": "pa_18_to_22_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"22",
-    "id":"042018022007",
-    "member":{
-        "18":{
-            "10224":{
-                "district":"7",
-                "name":"Wilson, Henry",
-                "party":"Jackson Republican"
-            },
-            "9550":{
-                "district":"7",
-                "name":"Udree, Daniel",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "10224":{
-                "district":"7",
-                "name":"Wilson, Henry",
-                "party":"Jackson"
-            },
-            "45":{
-                "district":"7",
-                "name":"Addams, William",
-                "party":"Jackson"
-            },
-            "5365":{
-                "district":"7",
-                "name":"Krebs, Jacob",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "3384":{
-                "district":"7",
-                "name":"Fry, Joseph Jr.",
-                "party":"Jackson"
-            },
-            "45":{
-                "district":"7",
-                "name":"Addams, William",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "3384":{
-                "district":"7",
-                "name":"Fry, Joseph Jr.",
-                "party":"Jackson"
-            },
-            "6783":{
-                "district":"7",
-                "name":"Muhlenberg, Henry Augustus",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "5261":{
-                "district":"7",
-                "name":"King, Henry",
-                "party":"Jackson"
-            },
-            "6783":{
-                "district":"7",
-                "name":"Muhlenberg, Henry Augustus",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"pa"
 },
   "bbox": [
     -76.70148,

@@ -1,49 +1,13 @@
 {
-  "id": "in_58_to_62_05",
+  "id": "in_58_to_62_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"62",
-    "id":"018058062005",
-    "member":{
-        "58":{
-            "4523":{
-                "district":"5",
-                "name":"Holliday, Elias Selah",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "4523":{
-                "district":"5",
-                "name":"Holliday, Elias Selah",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "4523":{
-                "district":"5",
-                "name":"Holliday, Elias Selah",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "6758":{
-                "district":"5",
-                "name":"Moss, Ralph Wilbur",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "6758":{
-                "district":"5",
-                "name":"Moss, Ralph Wilbur",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Indiana"
+    "district":5,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"in"
 },
   "bbox": [
     -87.62118,

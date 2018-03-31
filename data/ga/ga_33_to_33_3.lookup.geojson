@@ -1,21 +1,13 @@
 {
-  "id": "ga_33_to_33_03",
+  "id": "ga_33_to_33_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"33",
-    "id":"013033033003",
-    "member":{
-        "33":{
-            "340":{
-                "district":"3",
-                "name":"Bailey, David Jackson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Georgia"
+    "district":3,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ga"
 },
   "bbox": [
     -85.18491,

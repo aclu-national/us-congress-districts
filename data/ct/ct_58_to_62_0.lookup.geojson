@@ -1,49 +1,13 @@
 {
-  "id": "ct_58_to_62_00",
+  "id": "ct_58_to_62_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"62",
-    "id":"009058062000",
-    "member":{
-        "58":{
-            "5661":{
-                "district":"99",
-                "name":"Lilley, George Leavens",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5661":{
-                "district":"99",
-                "name":"Lilley, George Leavens",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5661":{
-                "district":"99",
-                "name":"Lilley, George Leavens",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "9391":{
-                "district":"99",
-                "name":"Tilson, John Quillin",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "9391":{
-                "district":"99",
-                "name":"Tilson, John Quillin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Connecticut"
+    "district":0,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ct"
 },
   "bbox": [
     -73.72778,

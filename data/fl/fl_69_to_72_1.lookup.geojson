@@ -1,42 +1,13 @@
 {
-  "id": "fl_69_to_72_01",
+  "id": "fl_69_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"012069072001",
-    "member":{
-        "69":{
-            "2717":{
-                "district":"1",
-                "name":"Drane, Herbert Jackson",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "2717":{
-                "district":"1",
-                "name":"Drane, Herbert Jackson",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "2717":{
-                "district":"1",
-                "name":"Drane, Herbert Jackson",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "2717":{
-                "district":"1",
-                "name":"Drane, Herbert Jackson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"69",
-    "statename":"Florida"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1925-03-04",
+    "start_session":69,
+    "state":"fl"
 },
   "bbox": [
     -82.85238,

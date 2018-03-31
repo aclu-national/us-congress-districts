@@ -1,35 +1,13 @@
 {
-  "id": "al_90_to_92_08",
+  "id": "al_90_to_92_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"92",
-    "id":"001090092008",
-    "member":{
-        "90":{
-            "5058":{
-                "district":"8",
-                "name":"Jones, Robert Emmett, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "5058":{
-                "district":"8",
-                "name":"Jones, Robert Emmett, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "5058":{
-                "district":"8",
-                "name":"Jones, Robert Emmett, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Alabama"
+    "district":8,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"al"
 },
   "bbox": [
     -88.20296,

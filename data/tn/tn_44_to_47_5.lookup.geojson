@@ -1,42 +1,13 @@
 {
-  "id": "tn_44_to_47_05",
+  "id": "tn_44_to_47_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"47",
-    "id":"047044047005",
-    "member":{
-        "44":{
-            "1039":{
-                "district":"5",
-                "name":"Bright, John Morgan",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "1039":{
-                "district":"5",
-                "name":"Bright, John Morgan",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "1039":{
-                "district":"5",
-                "name":"Bright, John Morgan",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "9834":{
-                "district":"5",
-                "name":"Warner, Richard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"tn"
 },
   "bbox": [
     -86.9608,

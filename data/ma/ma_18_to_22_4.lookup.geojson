@@ -1,49 +1,13 @@
 {
-  "id": "ma_18_to_22_04",
+  "id": "ma_18_to_22_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"22",
-    "id":"025018022004",
-    "member":{
-        "18":{
-            "3400":{
-                "district":"4",
-                "name":"Fuller, Timothy",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "3026":{
-                "district":"4",
-                "name":"Everett, Edward",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "3026":{
-                "district":"4",
-                "name":"Everett, Edward",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "3026":{
-                "district":"4",
-                "name":"Everett, Edward",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "3026":{
-                "district":"4",
-                "name":"Everett, Edward",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ma"
 },
   "bbox": [
     -71.62598,

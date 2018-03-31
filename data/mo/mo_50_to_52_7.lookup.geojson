@@ -1,35 +1,13 @@
 {
-  "id": "mo_50_to_52_07",
+  "id": "mo_50_to_52_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"52",
-    "id":"029050052007",
-    "member":{
-        "50":{
-            "4783":{
-                "district":"7",
-                "name":"Hutton, John Edward",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "6976":{
-                "district":"7",
-                "name":"Norton, Richard Henry",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "6976":{
-                "district":"7",
-                "name":"Norton, Richard Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Missouri"
+    "district":7,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"mo"
 },
   "bbox": [
     -92.31443,

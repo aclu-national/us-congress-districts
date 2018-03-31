@@ -1,21 +1,13 @@
 {
-  "id": "in_43_to_43_07",
+  "id": "in_43_to_43_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"43",
-    "id":"018043043007",
-    "member":{
-        "43":{
-            "1581":{
-                "district":"7",
-                "name":"Cason, Thomas Jefferson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Indiana"
+    "district":7,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"in"
 },
   "bbox": [
     -87.53144,

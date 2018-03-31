@@ -1,89 +1,13 @@
 {
-  "id": "va_63_to_72_06",
+  "id": "va_63_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"051063072006",
-    "member":{
-        "63":{
-            "3625":{
-                "district":"6",
-                "name":"Glass, Carter",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3625":{
-                "district":"6",
-                "name":"Glass, Carter",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "10353":{
-                "district":"6",
-                "name":"Woods, James Pleasant",
-                "party":"Democrat"
-            },
-            "3625":{
-                "district":"6",
-                "name":"Glass, Carter",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "10353":{
-                "district":"6",
-                "name":"Woods, James Pleasant",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "10353":{
-                "district":"6",
-                "name":"Woods, James Pleasant",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "10350":{
-                "district":"6",
-                "name":"Woodrum, Clifton Alexander",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "10350":{
-                "district":"6",
-                "name":"Woodrum, Clifton Alexander",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "10350":{
-                "district":"6",
-                "name":"Woodrum, Clifton Alexander",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "10350":{
-                "district":"6",
-                "name":"Woodrum, Clifton Alexander",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "10350":{
-                "district":"6",
-                "name":"Woodrum, Clifton Alexander",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"va"
 },
   "bbox": [
     -80.63399,

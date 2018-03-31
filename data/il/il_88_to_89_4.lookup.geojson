@@ -1,28 +1,13 @@
 {
-  "id": "il_88_to_89_04",
+  "id": "il_88_to_89_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"89",
-    "id":"017088089004",
-    "member":{
-        "88":{
-            "2525":{
-                "district":"4",
-                "name":"Derwinski, Edward Joseph",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "2525":{
-                "district":"4",
-                "name":"Derwinski, Edward Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Illinois"
+    "district":4,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"il"
 },
   "bbox": [
     -88.02916,

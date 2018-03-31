@@ -1,28 +1,13 @@
 {
-  "id": "oh_88_to_89_03",
+  "id": "oh_88_to_89_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"89",
-    "id":"039088089003",
-    "member":{
-        "88":{
-            "8258":{
-                "district":"3",
-                "name":"Schenck, Paul Fornshell",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10747":{
-                "district":"3",
-                "name":"Love, Rodney M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

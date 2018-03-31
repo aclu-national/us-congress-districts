@@ -1,49 +1,13 @@
 {
-  "id": "pa_93_to_97_05",
+  "id": "pa_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"042093097005",
-    "member":{
-        "93":{
-            "12048":{
-                "district":"5",
-                "name":"Ware, John Iii",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14273":{
-                "district":"5",
-                "name":"Schulze, Richard",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14273":{
-                "district":"5",
-                "name":"Schulze, Richard",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14273":{
-                "district":"5",
-                "name":"Schulze, Richard",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14273":{
-                "district":"5",
-                "name":"Schulze, Richard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -76.06168,

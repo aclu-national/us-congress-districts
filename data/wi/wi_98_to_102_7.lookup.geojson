@@ -1,49 +1,13 @@
 {
-  "id": "wi_98_to_102_07",
+  "id": "wi_98_to_102_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"102",
-    "id":"055098102007",
-    "member":{
-        "100":{
-            "12036":{
-                "district":"7",
-                "name":"Obey, David R.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "12036":{
-                "district":"7",
-                "name":"Obey, David R.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "12036":{
-                "district":"7",
-                "name":"Obey, David R.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "12036":{
-                "district":"7",
-                "name":"Obey, David R.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "12036":{
-                "district":"7",
-                "name":"Obey, David R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Wisconsin"
+    "district":7,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"wi"
 },
   "bbox": [
     -92.88884,

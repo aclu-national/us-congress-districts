@@ -1,28 +1,13 @@
 {
-  "id": "al_43_to_44_02",
+  "id": "al_43_to_44_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"44",
-    "id":"001043044002",
-    "member":{
-        "43":{
-            "7739":{
-                "district":"2",
-                "name":"Rapier, James Thomas",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "10157":{
-                "district":"2",
-                "name":"Williams, Jeremiah Norman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Alabama"
+    "district":2,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"al"
 },
   "bbox": [
     -86.90894,

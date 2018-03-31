@@ -2,48 +2,12 @@
   "id": "mi_93_to_97_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"97",
-    "id":"026093097012",
-    "member":{
-        "93":{
-            "7043":{
-                "district":"12",
-                "name":"O'Hara, James G.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "7043":{
-                "district":"12",
-                "name":"O'Hara, James G.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14407":{
-                "district":"12",
-                "name":"Bonior, David",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14407":{
-                "district":"12",
-                "name":"Bonior, David",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14407":{
-                "district":"12",
-                "name":"Bonior, David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Michigan"
+    "district":12,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mi"
 },
   "bbox": [
     -83.15836,

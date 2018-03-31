@@ -1,28 +1,13 @@
 {
-  "id": "va_28_to_29_08",
+  "id": "va_28_to_29_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"29",
-    "id":"051028029008",
-    "member":{
-        "28":{
-            "6908":{
-                "district":"8",
-                "name":"Newton, Willoughby",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "4759":{
-                "district":"8",
-                "name":"Hunter, Robert Mercer Taliaferro",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"va"
 },
   "bbox": [
     -77.95482,

@@ -1,49 +1,13 @@
 {
-  "id": "wi_93_to_97_08",
+  "id": "wi_93_to_97_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"97",
-    "id":"055093097008",
-    "member":{
-        "93":{
-            "14014":{
-                "district":"8",
-                "name":"Froelich, Harlold",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14211":{
-                "district":"8",
-                "name":"Cornell, Robert",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14211":{
-                "district":"8",
-                "name":"Cornell, Robert",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14655":{
-                "district":"8",
-                "name":"Roth, Tobias A.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14655":{
-                "district":"8",
-                "name":"Roth, Tobias A.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Wisconsin"
+    "district":8,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"wi"
 },
   "bbox": [
     -90.04396,

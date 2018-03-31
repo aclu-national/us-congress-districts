@@ -1,84 +1,13 @@
 {
-  "id": "ma_78_to_87_04",
+  "id": "ma_78_to_87_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"87",
-    "id":"025078087004",
-    "member":{
-        "78":{
-            "4538":{
-                "district":"4",
-                "name":"Holmes, Pehr Gustaf",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4538":{
-                "district":"4",
-                "name":"Holmes, Pehr Gustaf",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "2660":{
-                "district":"4",
-                "name":"Donohue, Harold Daniel",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "2660":{
-                "district":"4",
-                "name":"Donohue, Harold Daniel",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2660":{
-                "district":"4",
-                "name":"Donohue, Harold Daniel",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "2660":{
-                "district":"4",
-                "name":"Donohue, Harold Daniel",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "2660":{
-                "district":"4",
-                "name":"Donohue, Harold Daniel",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "2660":{
-                "district":"4",
-                "name":"Donohue, Harold Daniel",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "2660":{
-                "district":"4",
-                "name":"Donohue, Harold Daniel",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "2660":{
-                "district":"4",
-                "name":"Donohue, Harold Daniel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ma"
 },
   "bbox": [
     -71.92881,

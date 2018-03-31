@@ -1,49 +1,13 @@
 {
-  "id": "me_23_to_27_06",
+  "id": "me_23_to_27_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"27",
-    "id":"023023027006",
-    "member":{
-        "23":{
-            "3943":{
-                "district":"6",
-                "name":"Hall, Joseph",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "3943":{
-                "district":"6",
-                "name":"Hall, Joseph",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "168":{
-                "district":"6",
-                "name":"Anderson, Hugh Johnston",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "168":{
-                "district":"6",
-                "name":"Anderson, Hugh Johnston",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "5996":{
-                "district":"6",
-                "name":"Marshall, Alfred",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Maine"
+    "district":6,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"me"
 },
   "bbox": [
     -70.00133,

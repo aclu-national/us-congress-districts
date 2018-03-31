@@ -1,61 +1,13 @@
 {
-  "id": "al_28_to_33_07",
+  "id": "al_28_to_33_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"33",
-    "id":"001028033007",
-    "member":{
-        "28":{
-            "6168":{
-                "district":"7",
-                "name":"McConnell, Felix Grundy",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "6168":{
-                "district":"7",
-                "name":"McConnell, Felix Grundy",
-                "party":"Democrat"
-            },
-            "895":{
-                "district":"7",
-                "name":"Bowdon, Franklin Welsh",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "895":{
-                "district":"7",
-                "name":"Bowdon, Franklin Welsh",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "895":{
-                "district":"7",
-                "name":"Bowdon, Franklin Welsh",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "10007":{
-                "district":"7",
-                "name":"White, Alexander",
-                "party":"Whig"
-            }
-        },
-        "33":{
-            "2698":{
-                "district":"7",
-                "name":"Dowdell, James Ferguson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Alabama"
+    "district":7,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"al"
 },
   "bbox": [
     -86.50359,

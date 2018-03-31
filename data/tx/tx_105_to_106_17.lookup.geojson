@@ -2,27 +2,12 @@
   "id": "tx_105_to_106_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"106",
-    "id":"048105106017",
-    "member":{
-        "105":{
-            "14664":{
-                "district":"17",
-                "name":"Stenholm, Charles Walter",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "14664":{
-                "district":"17",
-                "name":"Stenholm, Charles Walter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Texas"
+    "district":17,
+    "end_date":"2000-12-15",
+    "end_session":106,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"tx"
 },
   "bbox": [
     -102.21083,

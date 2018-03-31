@@ -1,105 +1,13 @@
 {
-  "id": "ks_60_to_72_01",
+  "id": "ks_60_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"020060072001",
-    "member":{
-        "60":{
-            "211":{
-                "district":"1",
-                "name":"Anthony, Daniel Read Jr.",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "211":{
-                "district":"1",
-                "name":"Anthony, Daniel Read Jr.",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "211":{
-                "district":"1",
-                "name":"Anthony, Daniel Read Jr.",
-                "party":"Republican"
-            }
-        },
-        "63":{
-            "211":{
-                "district":"1",
-                "name":"Anthony, Daniel Read Jr.",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "211":{
-                "district":"1",
-                "name":"Anthony, Daniel Read Jr.",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "211":{
-                "district":"1",
-                "name":"Anthony, Daniel Read Jr.",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "211":{
-                "district":"1",
-                "name":"Anthony, Daniel Read Jr.",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "211":{
-                "district":"1",
-                "name":"Anthony, Daniel Read Jr.",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "211":{
-                "district":"1",
-                "name":"Anthony, Daniel Read Jr.",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "211":{
-                "district":"1",
-                "name":"Anthony, Daniel Read Jr.",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "211":{
-                "district":"1",
-                "name":"Anthony, Daniel Read Jr.",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "5422":{
-                "district":"1",
-                "name":"Lambertson, William Purnell",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5422":{
-                "district":"1",
-                "name":"Lambertson, William Purnell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Kansas"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ks"
 },
   "bbox": [
     -96.23994,

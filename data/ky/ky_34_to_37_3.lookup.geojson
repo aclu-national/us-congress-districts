@@ -1,42 +1,13 @@
 {
-  "id": "ky_34_to_37_03",
+  "id": "ky_34_to_37_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"37",
-    "id":"021034037003",
-    "member":{
-        "34":{
-            "9562":{
-                "district":"3",
-                "name":"Underwood, Warner Lewis",
-                "party":"American"
-            }
-        },
-        "35":{
-            "9562":{
-                "district":"3",
-                "name":"Underwood, Warner Lewis",
-                "party":"American"
-            }
-        },
-        "36":{
-            "1044":{
-                "district":"3",
-                "name":"Bristow, Francis Marion",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "37":{
-            "3815":{
-                "district":"3",
-                "name":"Grider, Henry",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ky"
 },
   "bbox": [
     -87.33585,

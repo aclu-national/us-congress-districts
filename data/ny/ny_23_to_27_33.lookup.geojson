@@ -2,48 +2,12 @@
   "id": "ny_23_to_27_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"27",
-    "id":"036023027033",
-    "member":{
-        "23":{
-            "4048":{
-                "district":"33",
-                "name":"Hard, Gideon",
-                "party":"Anti Masonic"
-            }
-        },
-        "24":{
-            "4048":{
-                "district":"33",
-                "name":"Hard, Gideon",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "6555":{
-                "district":"33",
-                "name":"Mitchell, Charles F.",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "6555":{
-                "district":"33",
-                "name":"Mitchell, Charles F.",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "313":{
-                "district":"33",
-                "name":"Babcock, Alfred",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":33,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

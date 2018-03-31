@@ -2,34 +2,12 @@
   "id": "tx_83_to_85_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"85",
-    "id":"048083085018",
-    "member":{
-        "83":{
-            "8035":{
-                "district":"18",
-                "name":"Rogers, Walter Edward",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "8035":{
-                "district":"18",
-                "name":"Rogers, Walter Edward",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "8035":{
-                "district":"18",
-                "name":"Rogers, Walter Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Texas"
+    "district":18,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tx"
 },
   "bbox": [
     -103.04401,

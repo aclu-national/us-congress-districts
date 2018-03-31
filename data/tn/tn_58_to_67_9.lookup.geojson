@@ -1,84 +1,13 @@
 {
-  "id": "tn_58_to_67_09",
+  "id": "tn_58_to_67_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"67",
-    "id":"047058067009",
-    "member":{
-        "58":{
-            "7439":{
-                "district":"9",
-                "name":"Pierce, Rice Alexander",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "3490":{
-                "district":"9",
-                "name":"Garrett, Finis James",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "3490":{
-                "district":"9",
-                "name":"Garrett, Finis James",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "3490":{
-                "district":"9",
-                "name":"Garrett, Finis James",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "3490":{
-                "district":"9",
-                "name":"Garrett, Finis James",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "3490":{
-                "district":"9",
-                "name":"Garrett, Finis James",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3490":{
-                "district":"9",
-                "name":"Garrett, Finis James",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "3490":{
-                "district":"9",
-                "name":"Garrett, Finis James",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "3490":{
-                "district":"9",
-                "name":"Garrett, Finis James",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "3490":{
-                "district":"9",
-                "name":"Garrett, Finis James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Tennessee"
+    "district":9,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"tn"
 },
   "bbox": [
     -89.95888,

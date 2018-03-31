@@ -1,49 +1,13 @@
 {
-  "id": "ri_93_to_97_02",
+  "id": "ri_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"044093097002",
-    "member":{
-        "93":{
-            "11061":{
-                "district":"2",
-                "name":"Tiernan, Robert O.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14204":{
-                "district":"2",
-                "name":"Beard, Edward",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14204":{
-                "district":"2",
-                "name":"Beard, Edward",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14204":{
-                "district":"2",
-                "name":"Beard, Edward",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14857":{
-                "district":"2",
-                "name":"Schneider, Claudine",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Rhode Island"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ri"
 },
   "bbox": [
     -71.89511,

@@ -1,49 +1,13 @@
 {
-  "id": "ut_103_to_107_02",
+  "id": "ut_103_to_107_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"107",
-    "id":"049103107002",
-    "member":{
-        "103":{
-            "39306":{
-                "district":"2",
-                "name":"Shepard, Karen",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29575":{
-                "district":"2",
-                "name":"Waldholtz, Enid Greene",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29765":{
-                "district":"2",
-                "name":"Cook, Merrill",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29765":{
-                "district":"2",
-                "name":"Cook, Merrill",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "20140":{
-                "district":"2",
-                "name":"Matheson, Jim",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Utah"
+    "district":2,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ut"
 },
   "bbox": [
     -112.08219,

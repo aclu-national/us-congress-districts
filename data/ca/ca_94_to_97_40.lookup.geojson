@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_40",
   "type": "Feature",
   "properties": {
-    "district":"40",
-    "endcong":"97",
-    "id":"006094097040",
-    "member":{
-        "94":{
-            "14020":{
-                "district":"40",
-                "name":"Hinshaw, Andrew",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14403":{
-                "district":"40",
-                "name":"Badham, Robert",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14403":{
-                "district":"40",
-                "name":"Badham, Robert",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14403":{
-                "district":"40",
-                "name":"Badham, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":40,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -118.03133,

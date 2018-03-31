@@ -1,21 +1,13 @@
 {
-  "id": "ny_48_to_48_09",
+  "id": "ny_48_to_48_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"48",
-    "id":"036048048009",
-    "member":{
-        "48":{
-            "4063":{
-                "district":"9",
-                "name":"Hardy, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":9,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -74.01018,

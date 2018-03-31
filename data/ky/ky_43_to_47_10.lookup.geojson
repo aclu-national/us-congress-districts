@@ -2,48 +2,12 @@
   "id": "ky_43_to_47_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"47",
-    "id":"021043047010",
-    "member":{
-        "43":{
-            "10447":{
-                "district":"10",
-                "name":"Young, John Duncan",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "1794":{
-                "district":"10",
-                "name":"Clarke, John Blades",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "1794":{
-                "district":"10",
-                "name":"Clarke, John Blades",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "7423":{
-                "district":"10",
-                "name":"Phister, Elijah Conner",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "7423":{
-                "district":"10",
-                "name":"Phister, Elijah Conner",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Kentucky"
+    "district":10,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ky"
 },
   "bbox": [
     -84.23618,

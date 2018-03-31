@@ -2,48 +2,12 @@
   "id": "oh_83_to_87_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"87",
-    "id":"039083087014",
-    "member":{
-        "83":{
-            "310":{
-                "district":"14",
-                "name":"Ayres, William Hanes",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "310":{
-                "district":"14",
-                "name":"Ayres, William Hanes",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "310":{
-                "district":"14",
-                "name":"Ayres, William Hanes",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "310":{
-                "district":"14",
-                "name":"Ayres, William Hanes",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "310":{
-                "district":"14",
-                "name":"Ayres, William Hanes",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"oh"
 },
   "bbox": [
     -82.17342,

@@ -1,49 +1,13 @@
 {
-  "id": "in_28_to_32_02",
+  "id": "in_28_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"018028032002",
-    "member":{
-        "28":{
-            "4325":{
-                "district":"2",
-                "name":"Henley, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4325":{
-                "district":"2",
-                "name":"Henley, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "4325":{
-                "district":"2",
-                "name":"Henley, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "2765":{
-                "district":"2",
-                "name":"Dunham, Cyrus Livingston",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "2765":{
-                "district":"2",
-                "name":"Dunham, Cyrus Livingston",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Indiana"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"in"
 },
   "bbox": [
     -86.31813,

@@ -1,42 +1,13 @@
 {
-  "id": "nc_49_to_52_01",
+  "id": "nc_49_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"037049052001",
-    "member":{
-        "49":{
-            "8562":{
-                "district":"1",
-                "name":"Skinner, Thomas Gregory",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "5489":{
-                "district":"1",
-                "name":"Latham, Louis Charles",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "8562":{
-                "district":"1",
-                "name":"Skinner, Thomas Gregory",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "974":{
-                "district":"1",
-                "name":"Branch, William Augustus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"nc"
 },
   "bbox": [
     -77.7005,

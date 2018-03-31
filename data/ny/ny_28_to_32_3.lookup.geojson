@@ -1,49 +1,13 @@
 {
-  "id": "ny_28_to_32_03",
+  "id": "ny_28_to_32_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"32",
-    "id":"036028032003",
-    "member":{
-        "28":{
-            "7424":{
-                "district":"3",
-                "name":"Phoenix, Jonas Phillips",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "6519":{
-                "district":"3",
-                "name":"Miller, William Starr",
-                "party":"American"
-            }
-        },
-        "30":{
-            "6927":{
-                "district":"3",
-                "name":"Nicoll, Henry",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "7424":{
-                "district":"3",
-                "name":"Phoenix, Jonas Phillips",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "4144":{
-                "district":"3",
-                "name":"Hart, Emanuel Bernard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -74.04718,

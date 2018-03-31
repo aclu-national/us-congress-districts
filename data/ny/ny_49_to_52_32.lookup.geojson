@@ -2,41 +2,12 @@
   "id": "ny_49_to_52_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"52",
-    "id":"036049052032",
-    "member":{
-        "49":{
-            "3066":{
-                "district":"32",
-                "name":"Farquhar, John McCreath",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "3066":{
-                "district":"32",
-                "name":"Farquhar, John McCreath",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "3066":{
-                "district":"32",
-                "name":"Farquhar, John McCreath",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "5737":{
-                "district":"32",
-                "name":"Lockwood, Daniel Newton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":32,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -78.91261,

@@ -2,76 +2,12 @@
   "id": "oh_64_to_72_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"72",
-    "id":"039064072022",
-    "member":{
-        "64":{
-            "2959":{
-                "district":"22",
-                "name":"Emerson, Henry Ivory",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "2959":{
-                "district":"22",
-                "name":"Emerson, Henry Ivory",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "2959":{
-                "district":"22",
-                "name":"Emerson, Henry Ivory",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "1322":{
-                "district":"22",
-                "name":"Burton, Theodore Elijah",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "1322":{
-                "district":"22",
-                "name":"Burton, Theodore Elijah",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "1322":{
-                "district":"22",
-                "name":"Burton, Theodore Elijah",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "1322":{
-                "district":"22",
-                "name":"Burton, Theodore Elijah",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "836":{
-                "district":"22",
-                "name":"Bolton, Chester Castle",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "836":{
-                "district":"22",
-                "name":"Bolton, Chester Castle",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":22,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -81.97126,

@@ -1,49 +1,13 @@
 {
-  "id": "ma_65_to_69_04",
+  "id": "ma_65_to_69_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"69",
-    "id":"025065069004",
-    "member":{
-        "65":{
-            "10277":{
-                "district":"4",
-                "name":"Winslow, Samuel Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "10277":{
-                "district":"4",
-                "name":"Winslow, Samuel Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "10277":{
-                "district":"4",
-                "name":"Winslow, Samuel Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "10277":{
-                "district":"4",
-                "name":"Winslow, Samuel Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "8956":{
-                "district":"4",
-                "name":"Stobbs, George Russell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ma"
 },
   "bbox": [
     -71.89512,

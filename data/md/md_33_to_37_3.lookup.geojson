@@ -1,49 +1,13 @@
 {
-  "id": "md_33_to_37_03",
+  "id": "md_33_to_37_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"37",
-    "id":"024033037003",
-    "member":{
-        "33":{
-            "9633":{
-                "district":"3",
-                "name":"Van Sant, Joshua",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "4105":{
-                "district":"3",
-                "name":"Harris, James Morrison",
-                "party":"American"
-            }
-        },
-        "35":{
-            "4105":{
-                "district":"3",
-                "name":"Harris, James Morrison",
-                "party":"American"
-            }
-        },
-        "36":{
-            "4105":{
-                "district":"3",
-                "name":"Harris, James Morrison",
-                "party":"American"
-            }
-        },
-        "37":{
-            "5544":{
-                "district":"3",
-                "name":"Leary, Cornelius Lawrence",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"md"
 },
   "bbox": [
     -76.75486,

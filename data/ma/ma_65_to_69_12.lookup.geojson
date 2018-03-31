@@ -2,48 +2,12 @@
   "id": "ma_65_to_69_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"69",
-    "id":"025065069012",
-    "member":{
-        "65":{
-            "3440":{
-                "district":"12",
-                "name":"Gallivan, James Ambrose",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "3440":{
-                "district":"12",
-                "name":"Gallivan, James Ambrose",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "3440":{
-                "district":"12",
-                "name":"Gallivan, James Ambrose",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "3440":{
-                "district":"12",
-                "name":"Gallivan, James Ambrose",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3440":{
-                "district":"12",
-                "name":"Gallivan, James Ambrose",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ma"
 },
   "bbox": [
     -71.10797,

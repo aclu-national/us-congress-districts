@@ -2,76 +2,12 @@
   "id": "mi_64_to_72_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"72",
-    "id":"026064072010",
-    "member":{
-        "64":{
-            "5785":{
-                "district":"10",
-                "name":"Loud, George Alvin",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "2259":{
-                "district":"10",
-                "name":"Currie, Gilbert Archibald",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "2259":{
-                "district":"10",
-                "name":"Currie, Gilbert Archibald",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Michigan"
+    "district":10,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mi"
 },
   "bbox": [
     -85.56467,

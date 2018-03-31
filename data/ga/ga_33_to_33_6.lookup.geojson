@@ -1,21 +1,13 @@
 {
-  "id": "ga_33_to_33_06",
+  "id": "ga_33_to_33_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"33",
-    "id":"013033033006",
-    "member":{
-        "33":{
-            "4438":{
-                "district":"6",
-                "name":"Hillyer, Junius",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Georgia"
+    "district":6,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ga"
 },
   "bbox": [
     -84.27682,

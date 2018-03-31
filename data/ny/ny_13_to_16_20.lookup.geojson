@@ -2,66 +2,12 @@
   "id": "ny_13_to_16_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"16",
-    "id":"036013016020",
-    "member":{
-        "13":{
-            "1969":{
-                "district":"20",
-                "name":"Comstock, Oliver Cromwell",
-                "party":"Republican"
-            },
-            "299":{
-                "district":"20",
-                "name":"Avery, Daniel",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "1969":{
-                "district":"20",
-                "name":"Comstock, Oliver Cromwell",
-                "party":"Republican"
-            },
-            "299":{
-                "district":"20",
-                "name":"Avery, Daniel",
-                "party":"Republican"
-            },
-            "9364":{
-                "district":"20",
-                "name":"Throop, Enos Thompson",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "1969":{
-                "district":"20",
-                "name":"Comstock, Oliver Cromwell",
-                "party":"Republican"
-            },
-            "2221":{
-                "district":"20",
-                "name":"Cruger, Daniel",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "358":{
-                "district":"20",
-                "name":"Baker, Caleb",
-                "party":"Republican"
-            },
-            "7888":{
-                "district":"20",
-                "name":"Richmond, Jonathan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ny"
 },
   "bbox": [
     -77.74993,

@@ -2,20 +2,12 @@
   "id": "nj_90_to_90_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"90",
-    "id":"034090090014",
-    "member":{
-        "90":{
-            "2329":{
-                "district":"14",
-                "name":"Daniels, Dominick V.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"New Jersey"
+    "district":14,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"nj"
 },
   "bbox": [
     -74.16609,

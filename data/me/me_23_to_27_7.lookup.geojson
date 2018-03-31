@@ -1,54 +1,13 @@
 {
-  "id": "me_23_to_27_07",
+  "id": "me_23_to_27_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"27",
-    "id":"023023027007",
-    "member":{
-        "23":{
-            "4896":{
-                "district":"7",
-                "name":"Jarvis, Leonard",
-                "party":"Jackson"
-            },
-            "7207":{
-                "district":"7",
-                "name":"Parks, Gorham",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "4896":{
-                "district":"7",
-                "name":"Jarvis, Leonard",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "6982":{
-                "district":"7",
-                "name":"Noyes, Joseph Cobham",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "5811":{
-                "district":"7",
-                "name":"Lowell, Joshua Adams",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "5811":{
-                "district":"7",
-                "name":"Lowell, Joshua Adams",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Maine"
+    "district":7,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"me"
 },
   "bbox": [
     -68.95453,

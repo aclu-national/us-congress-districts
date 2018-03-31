@@ -1,77 +1,13 @@
 {
-  "id": "va_74_to_82_07",
+  "id": "va_74_to_82_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"82",
-    "id":"051074082007",
-    "member":{
-        "74":{
-            "7958":{
-                "district":"7",
-                "name":"Robertson, A. Willis",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7958":{
-                "district":"7",
-                "name":"Robertson, A. Willis",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "7958":{
-                "district":"7",
-                "name":"Robertson, A. Willis",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "7958":{
-                "district":"7",
-                "name":"Robertson, A. Willis",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "7958":{
-                "district":"7",
-                "name":"Robertson, A. Willis",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "7958":{
-                "district":"7",
-                "name":"Robertson, A. Willis",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "4125":{
-                "district":"7",
-                "name":"Harrison, Burr Powell",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "4125":{
-                "district":"7",
-                "name":"Harrison, Burr Powell",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "4125":{
-                "district":"7",
-                "name":"Harrison, Burr Powell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"va"
 },
   "bbox": [
     -80.05606,

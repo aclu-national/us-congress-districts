@@ -1,54 +1,13 @@
 {
-  "id": "ga_43_to_47_08",
+  "id": "ga_43_to_47_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"47",
-    "id":"013043047008",
-    "member":{
-        "43":{
-            "8885":{
-                "district":"8",
-                "name":"Stephens, Alexander Hamilton",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "8885":{
-                "district":"8",
-                "name":"Stephens, Alexander Hamilton",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "8885":{
-                "district":"8",
-                "name":"Stephens, Alexander Hamilton",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "8885":{
-                "district":"8",
-                "name":"Stephens, Alexander Hamilton",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "7802":{
-                "district":"8",
-                "name":"Reese, Seaborn",
-                "party":"Democrat"
-            },
-            "8885":{
-                "district":"8",
-                "name":"Stephens, Alexander Hamilton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Georgia"
+    "district":8,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ga"
 },
   "bbox": [
     -83.40606,

@@ -1,89 +1,13 @@
 {
-  "id": "ms_73_to_82_02",
+  "id": "ms_73_to_82_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"82",
-    "id":"028073082002",
-    "member":{
-        "73":{
-            "2712":{
-                "district":"2",
-                "name":"Doxey, Wall",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "2712":{
-                "district":"2",
-                "name":"Doxey, Wall",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2712":{
-                "district":"2",
-                "name":"Doxey, Wall",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2712":{
-                "district":"2",
-                "name":"Doxey, Wall",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "10075":{
-                "district":"2",
-                "name":"Whitten, Jamie Lloyd",
-                "party":"Democrat"
-            },
-            "2712":{
-                "district":"2",
-                "name":"Doxey, Wall",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "10075":{
-                "district":"2",
-                "name":"Whitten, Jamie Lloyd",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "10075":{
-                "district":"2",
-                "name":"Whitten, Jamie Lloyd",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "10075":{
-                "district":"2",
-                "name":"Whitten, Jamie Lloyd",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "10075":{
-                "district":"2",
-                "name":"Whitten, Jamie Lloyd",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "10075":{
-                "district":"2",
-                "name":"Whitten, Jamie Lloyd",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Mississippi"
+    "district":2,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ms"
 },
   "bbox": [
     -90.45164,

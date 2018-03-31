@@ -2,46 +2,12 @@
   "id": "va_19_to_22_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"22",
-    "id":"051019022011",
-    "member":{
-        "19":{
-            "9228":{
-                "district":"11",
-                "name":"Taylor, Robert",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "424":{
-                "district":"11",
-                "name":"Barbour, Philip Pendleton",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "424":{
-                "district":"11",
-                "name":"Barbour, Philip Pendleton",
-                "party":"Jackson"
-            },
-            "7265":{
-                "district":"11",
-                "name":"Patton, John Mercer",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "7265":{
-                "district":"11",
-                "name":"Patton, John Mercer",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":11,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -78.66317,

@@ -2,48 +2,12 @@
   "id": "va_3_to_7_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"7",
-    "id":"051003007014",
-    "member":{
-        "3":{
-            "9739":{
-                "district":"14",
-                "name":"Walker, Francis",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "1380":{
-                "district":"14",
-                "name":"Cabell, Samuel Jordan",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "1380":{
-                "district":"14",
-                "name":"Cabell, Samuel Jordan",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "1380":{
-                "district":"14",
-                "name":"Cabell, Samuel Jordan",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "1380":{
-                "district":"14",
-                "name":"Cabell, Samuel Jordan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Virginia"
+    "district":14,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"va"
 },
   "bbox": [
     -79.43704,

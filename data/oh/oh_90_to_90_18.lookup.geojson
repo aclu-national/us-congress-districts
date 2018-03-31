@@ -2,20 +2,12 @@
   "id": "oh_90_to_90_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"90",
-    "id":"039090090018",
-    "member":{
-        "90":{
-            "4247":{
-                "district":"18",
-                "name":"Hays, Wayne Levere",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Ohio"
+    "district":18,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"oh"
 },
   "bbox": [
     -81.71229,

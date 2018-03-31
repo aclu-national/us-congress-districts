@@ -1,26 +1,13 @@
 {
-  "id": "va_37_to_37_07",
+  "id": "va_37_to_37_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"37",
-    "id":"051037037007",
-    "member":{
-        "37":{
-            "6301":{
-                "district":"7",
-                "name":"McKenzie, Lewis",
-                "party":"Unionist"
-            },
-            "9575":{
-                "district":"7",
-                "name":"Upton, Charles Horace",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"37",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1861-03-04",
+    "start_session":37,
+    "state":"va"
 },
   "bbox": [
     -78.36979,

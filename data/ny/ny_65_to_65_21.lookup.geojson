@@ -2,25 +2,12 @@
   "id": "ny_65_to_65_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"65",
-    "id":"036065065021",
-    "member":{
-        "65":{
-            "2664":{
-                "district":"21",
-                "name":"Donovan, Jerome Francis",
-                "party":"Democrat"
-            },
-            "4711":{
-                "district":"21",
-                "name":"Hulbert, George Murray",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -73.96419,

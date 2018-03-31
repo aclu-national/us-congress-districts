@@ -1,105 +1,13 @@
 {
-  "id": "ks_60_to_72_04",
+  "id": "ks_60_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"020060072004",
-    "member":{
-        "60":{
-            "6488":{
-                "district":"4",
-                "name":"Miller, James Monroe",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "6488":{
-                "district":"4",
-                "name":"Miller, James Monroe",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "4849":{
-                "district":"4",
-                "name":"Jackson, Fred Schuyler",
-                "party":"Republican"
-            }
-        },
-        "63":{
-            "2667":{
-                "district":"4",
-                "name":"Doolittle, Dundley",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "2667":{
-                "district":"4",
-                "name":"Doolittle, Dundley",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "2667":{
-                "district":"4",
-                "name":"Doolittle, Dundley",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "4476":{
-                "district":"4",
-                "name":"Hoch, Homer",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "4476":{
-                "district":"4",
-                "name":"Hoch, Homer",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "4476":{
-                "district":"4",
-                "name":"Hoch, Homer",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "4476":{
-                "district":"4",
-                "name":"Hoch, Homer",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4476":{
-                "district":"4",
-                "name":"Hoch, Homer",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4476":{
-                "district":"4",
-                "name":"Hoch, Homer",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4476":{
-                "district":"4",
-                "name":"Hoch, Homer",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Kansas"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ks"
 },
   "bbox": [
     -97.3721,

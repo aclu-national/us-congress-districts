@@ -1,42 +1,13 @@
 {
-  "id": "mo_34_to_37_02",
+  "id": "mo_34_to_37_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"37",
-    "id":"029034037002",
-    "member":{
-        "34":{
-            "7534":{
-                "district":"2",
-                "name":"Porter, Gilchrist",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "183":{
-                "district":"2",
-                "name":"Anderson, Thomas Lilbourne",
-                "party":"American"
-            }
-        },
-        "36":{
-            "183":{
-                "district":"2",
-                "name":"Anderson, Thomas Lilbourne",
-                "party":"Ind. Democrat"
-            }
-        },
-        "37":{
-            "8042":{
-                "district":"2",
-                "name":"Rollins, James Sidney",
-                "party":"Constitutional Unionist"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Missouri"
+    "district":2,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"mo"
 },
   "bbox": [
     -92.57031,

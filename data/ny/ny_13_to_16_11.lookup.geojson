@@ -2,41 +2,12 @@
   "id": "ny_13_to_16_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"16",
-    "id":"036013016011",
-    "member":{
-        "13":{
-            "9222":{
-                "district":"11",
-                "name":"Taylor, John W.",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "9222":{
-                "district":"11",
-                "name":"Taylor, John W.",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "9222":{
-                "district":"11",
-                "name":"Taylor, John W.",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "9222":{
-                "district":"11",
-                "name":"Taylor, John W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ny"
 },
   "bbox": [
     -74.1601,

@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_10",
   "type": "Feature",
   "properties": {
-    "ALAND":13134737182,
-    "AWATER":186216540,
-    "CD113FP":"10",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4810",
-    "INTPTLAT":"+29.9751841",
-    "INTPTLON":"-096.5946084",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 10",
-    "STATEFP":"48"
+    "district":10,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -97.926591,

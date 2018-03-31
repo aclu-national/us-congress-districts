@@ -2,34 +2,12 @@
   "id": "pa_48_to_50_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"50",
-    "id":"042048050016",
-    "member":{
-        "48":{
-            "1141":{
-                "district":"16",
-                "name":"Brown, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "1141":{
-                "district":"16",
-                "name":"Brown, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "6178":{
-                "district":"16",
-                "name":"McCormick, Henry Clay",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -78.95606,

@@ -1,54 +1,13 @@
 {
-  "id": "nc_8_to_12_03",
+  "id": "nc_8_to_12_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"12",
-    "id":"037008012003",
-    "member":{
-        "10":{
-            "805":{
-                "district":"3",
-                "name":"Blount, Thomas",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "5186":{
-                "district":"3",
-                "name":"Kennedy, William",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "5186":{
-                "district":"3",
-                "name":"Kennedy, William",
-                "party":"Republican"
-            },
-            "805":{
-                "district":"3",
-                "name":"Blount, Thomas",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "5186":{
-                "district":"3",
-                "name":"Kennedy, William",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "805":{
-                "district":"3",
-                "name":"Blount, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"nc"
 },
   "bbox": [
     -77.93969,

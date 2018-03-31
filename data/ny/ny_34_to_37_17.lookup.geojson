@@ -2,41 +2,12 @@
   "id": "ny_34_to_37_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"37",
-    "id":"036034037017",
-    "member":{
-        "34":{
-            "8797":{
-                "district":"17",
-                "name":"Spinner, Francis Elias",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "8797":{
-                "district":"17",
-                "name":"Spinner, Francis Elias",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "8797":{
-                "district":"17",
-                "name":"Spinner, Francis Elias",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "8458":{
-                "district":"17",
-                "name":"Sherman, Socrates Norton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -75.83996,

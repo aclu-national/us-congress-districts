@@ -1,49 +1,13 @@
 {
-  "id": "oh_38_to_42_05",
+  "id": "oh_38_to_42_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"42",
-    "id":"039038042005",
-    "member":{
-        "38":{
-            "5550":{
-                "district":"5",
-                "name":"Le Blond, Francis Celeste",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "5550":{
-                "district":"5",
-                "name":"Le Blond, Francis Celeste",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "6797":{
-                "district":"5",
-                "name":"Mungen, William",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "6797":{
-                "district":"5",
-                "name":"Mungen, William",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "5424":{
-                "district":"5",
-                "name":"Lamison, Charles Nelson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"oh"
 },
   "bbox": [
     -84.80456,

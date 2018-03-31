@@ -1,49 +1,13 @@
 {
-  "id": "wa_103_to_107_01",
+  "id": "wa_103_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"053103107001",
-    "member":{
-        "103":{
-            "39310":{
-                "district":"1",
-                "name":"Cantwell, Maria",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29577":{
-                "district":"1",
-                "name":"White, Rick",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29577":{
-                "district":"1",
-                "name":"White, Rick",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29937":{
-                "district":"1",
-                "name":"Inslee, Jay",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29937":{
-                "district":"1",
-                "name":"Inslee, Jay",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Washington"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"wa"
 },
   "bbox": [
     -122.87326,

@@ -1,28 +1,13 @@
 {
-  "id": "ky_83_to_84_03",
+  "id": "ky_83_to_84_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"84",
-    "id":"021083084003",
-    "member":{
-        "83":{
-            "7997":{
-                "district":"3",
-                "name":"Robsion, John Marshall, Jr.",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "7997":{
-                "district":"3",
-                "name":"Robsion, John Marshall, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"1956-07-27",
+    "end_session":84,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ky"
 },
   "bbox": [
     -85.94854,

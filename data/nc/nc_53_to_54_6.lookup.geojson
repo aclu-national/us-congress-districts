@@ -1,33 +1,13 @@
 {
-  "id": "nc_53_to_54_06",
+  "id": "nc_53_to_54_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"54",
-    "id":"037053054006",
-    "member":{
-        "53":{
-            "90":{
-                "district":"6",
-                "name":"Alexander, Sydenham Benoni",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "5736":{
-                "district":"6",
-                "name":"Lockhart, James Alexander",
-                "party":"Democrat"
-            },
-            "6018":{
-                "district":"6",
-                "name":"Martin, Charles Henry",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"nc"
 },
   "bbox": [
     -81.05803,

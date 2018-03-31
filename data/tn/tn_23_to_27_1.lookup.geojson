@@ -1,49 +1,13 @@
 {
-  "id": "tn_23_to_27_01",
+  "id": "tn_23_to_27_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"27",
-    "id":"047023027001",
-    "member":{
-        "23":{
-            "769":{
-                "district":"1",
-                "name":"Blair, John",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "1553":{
-                "district":"1",
-                "name":"Carter, William Blount",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "1553":{
-                "district":"1",
-                "name":"Carter, William Blount",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "1553":{
-                "district":"1",
-                "name":"Carter, William Blount",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "249":{
-                "district":"1",
-                "name":"Arnold, Thomas Dickens",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"tn"
 },
   "bbox": [
     -83.71029,

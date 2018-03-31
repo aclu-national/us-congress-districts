@@ -2,41 +2,12 @@
   "id": "ky_34_to_37_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"37",
-    "id":"021034037010",
-    "member":{
-        "34":{
-            "9137":{
-                "district":"10",
-                "name":"Swope, Samuel Franklin",
-                "party":"American"
-            }
-        },
-        "35":{
-            "8922":{
-                "district":"10",
-                "name":"Stevenson, John White",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "8922":{
-                "district":"10",
-                "name":"Stevenson, John White",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "6414":{
-                "district":"10",
-                "name":"Menzies, John William",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Kentucky"
+    "district":10,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ky"
 },
   "bbox": [
     -85.45698,

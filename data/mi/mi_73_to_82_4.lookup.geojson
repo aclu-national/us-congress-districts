@@ -1,84 +1,13 @@
 {
-  "id": "mi_73_to_82_04",
+  "id": "mi_73_to_82_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"82",
-    "id":"026073082004",
-    "member":{
-        "73":{
-            "3319":{
-                "district":"4",
-                "name":"Foulkes, George Ernest",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "4487":{
-                "district":"4",
-                "name":"Hoffman, Clare Eugene",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "4487":{
-                "district":"4",
-                "name":"Hoffman, Clare Eugene",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "4487":{
-                "district":"4",
-                "name":"Hoffman, Clare Eugene",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "4487":{
-                "district":"4",
-                "name":"Hoffman, Clare Eugene",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "4487":{
-                "district":"4",
-                "name":"Hoffman, Clare Eugene",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4487":{
-                "district":"4",
-                "name":"Hoffman, Clare Eugene",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "4487":{
-                "district":"4",
-                "name":"Hoffman, Clare Eugene",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4487":{
-                "district":"4",
-                "name":"Hoffman, Clare Eugene",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4487":{
-                "district":"4",
-                "name":"Hoffman, Clare Eugene",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Michigan"
+    "district":4,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mi"
 },
   "bbox": [
     -86.82483,

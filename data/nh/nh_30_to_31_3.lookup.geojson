@@ -1,33 +1,13 @@
 {
-  "id": "nh_30_to_31_03",
+  "id": "nh_30_to_31_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"31",
-    "id":"033030031003",
-    "member":{
-        "30":{
-            "10229":{
-                "district":"3",
-                "name":"Wilson, James",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "10229":{
-                "district":"3",
-                "name":"Wilson, James",
-                "party":"Whig"
-            },
-            "6720":{
-                "district":"3",
-                "name":"Morrison, George Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"New Hampshire"
+    "district":3,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"nh"
 },
   "bbox": [
     -72.55725,

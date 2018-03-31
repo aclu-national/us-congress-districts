@@ -1,19 +1,13 @@
 {
-  "id": "ky_113_to_115_01",
+  "id": "ky_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":31293387095,
-    "AWATER":1224898319,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2101",
-    "INTPTLAT":"+37.0846029",
-    "INTPTLON":"-087.1849382",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"21"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ky"
 },
   "bbox": [
     -89.571203,

@@ -2,27 +2,12 @@
   "id": "ca_91_to_92_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"92",
-    "id":"006091092019",
-    "member":{
-        "91":{
-            "4514":{
-                "district":"19",
-                "name":"Holifield, Chet",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "4514":{
-                "district":"19",
-                "name":"Holifield, Chet",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":19,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -118.16809,

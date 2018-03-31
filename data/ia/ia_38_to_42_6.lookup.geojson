@@ -1,49 +1,13 @@
 {
-  "id": "ia_38_to_42_06",
+  "id": "ia_38_to_42_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"42",
-    "id":"019038042006",
-    "member":{
-        "38":{
-            "4662":{
-                "district":"6",
-                "name":"Hubbard, Asahel Wheeler",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "4662":{
-                "district":"6",
-                "name":"Hubbard, Asahel Wheeler",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "4662":{
-                "district":"6",
-                "name":"Hubbard, Asahel Wheeler",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "7517":{
-                "district":"6",
-                "name":"Pomeroy, Charles",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "7086":{
-                "district":"6",
-                "name":"Orr, Jackson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Iowa"
+    "district":6,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ia"
 },
   "bbox": [
     -96.6397,

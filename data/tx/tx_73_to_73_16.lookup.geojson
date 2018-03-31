@@ -2,20 +2,12 @@
   "id": "tx_73_to_73_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"73",
-    "id":"048073073016",
-    "member":{
-        "73":{
-            "9312":{
-                "district":"16",
-                "name":"Thomason, Robert Ewing",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Texas"
+    "district":16,
+    "end_date":"1934-06-18",
+    "end_session":73,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

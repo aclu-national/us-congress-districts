@@ -1,84 +1,13 @@
 {
-  "id": "md_58_to_67_06",
+  "id": "md_58_to_67_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"67",
-    "id":"024058067006",
-    "member":{
-        "58":{
-            "7284":{
-                "district":"6",
-                "name":"Pearre, George Alexander",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "7284":{
-                "district":"6",
-                "name":"Pearre, George Alexander",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "7284":{
-                "district":"6",
-                "name":"Pearre, George Alexander",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "7284":{
-                "district":"6",
-                "name":"Pearre, George Alexander",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5634":{
-                "district":"6",
-                "name":"Lewis, David John",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "5634":{
-                "district":"6",
-                "name":"Lewis, David John",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "5634":{
-                "district":"6",
-                "name":"Lewis, David John",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "10467":{
-                "district":"6",
-                "name":"Zihlman, Frederick Nicholas",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "10467":{
-                "district":"6",
-                "name":"Zihlman, Frederick Nicholas",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "10467":{
-                "district":"6",
-                "name":"Zihlman, Frederick Nicholas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

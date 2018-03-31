@@ -2,27 +2,12 @@
   "id": "oh_103_to_104_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"104",
-    "id":"039103104014",
-    "member":{
-        "103":{
-            "15442":{
-                "district":"14",
-                "name":"Sawyer, Tom",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "15442":{
-                "district":"14",
-                "name":"Sawyer, Tom",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"oh"
 },
   "bbox": [
     -81.6886,

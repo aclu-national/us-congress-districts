@@ -1,28 +1,13 @@
 {
-  "id": "mo_46_to_47_08",
+  "id": "mo_46_to_47_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"47",
-    "id":"029046047008",
-    "member":{
-        "46":{
-            "8240":{
-                "district":"8",
-                "name":"Sawyer, Samuel Locke",
-                "party":"Ind. Democrat"
-            }
-        },
-        "47":{
-            "9618":{
-                "district":"8",
-                "name":"Van Horn, Robert Thompson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Missouri"
+    "district":8,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"mo"
 },
   "bbox": [
     -95.10289,

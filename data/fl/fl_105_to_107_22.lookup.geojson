@@ -2,34 +2,12 @@
   "id": "fl_105_to_107_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"107",
-    "id":"012105107022",
-    "member":{
-        "105":{
-            "14860":{
-                "district":"22",
-                "name":"Shaw, E. Clay, Jr.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "14860":{
-                "district":"22",
-                "name":"Shaw, E. Clay, Jr.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "14860":{
-                "district":"22",
-                "name":"Shaw, E. Clay, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Florida"
+    "district":22,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"fl"
 },
   "bbox": [
     -80.20587,

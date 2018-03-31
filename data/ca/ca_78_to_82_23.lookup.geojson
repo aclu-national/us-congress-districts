@@ -2,48 +2,12 @@
   "id": "ca_78_to_82_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"82",
-    "id":"006078082023",
-    "member":{
-        "78":{
-            "4836":{
-                "district":"23",
-                "name":"Izac, Edouard Victor Michel",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "4836":{
-                "district":"23",
-                "name":"Izac, Edouard Victor Michel",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "3215":{
-                "district":"23",
-                "name":"Fletcher, Charles Kimball",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6317":{
-                "district":"23",
-                "name":"McKinnon, Clinton Dotson",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "6317":{
-                "district":"23",
-                "name":"McKinnon, Clinton Dotson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":23,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -117.59588,

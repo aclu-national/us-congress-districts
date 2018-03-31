@@ -1,119 +1,13 @@
 {
-  "id": "il_63_to_77_06",
+  "id": "il_63_to_77_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"77",
-    "id":"017063077006",
-    "member":{
-        "63":{
-            "6122":{
-                "district":"6",
-                "name":"McAndrews, James",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "6122":{
-                "district":"6",
-                "name":"McAndrews, James",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "6122":{
-                "district":"6",
-                "name":"McAndrews, James",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "6122":{
-                "district":"6",
-                "name":"McAndrews, James",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "3712":{
-                "district":"6",
-                "name":"Gorman, John Jerome",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "1207":{
-                "district":"6",
-                "name":"Buckley, James Richard",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3712":{
-                "district":"6",
-                "name":"Gorman, John Jerome",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4792":{
-                "district":"6",
-                "name":"Igoe, James Thomas",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "4792":{
-                "district":"6",
-                "name":"Igoe, James Thomas",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "4792":{
-                "district":"6",
-                "name":"Igoe, James Thomas",
-                "party":"Democrat"
-            }
-        },
-        "73":{
-            "7004":{
-                "district":"6",
-                "name":"O'Brien, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "7004":{
-                "district":"6",
-                "name":"O'Brien, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7004":{
-                "district":"6",
-                "name":"O'Brien, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "5881":{
-                "district":"6",
-                "name":"Maciejewski, Anton Frank",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "5881":{
-                "district":"6",
-                "name":"Maciejewski, Anton Frank",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Illinois"
+    "district":6,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"il"
 },
   "bbox": [
     -87.92046,

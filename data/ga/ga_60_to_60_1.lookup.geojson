@@ -1,21 +1,13 @@
 {
-  "id": "ga_60_to_60_01",
+  "id": "ga_60_to_60_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"60",
-    "id":"013060060001",
-    "member":{
-        "60":{
-            "2861":{
-                "district":"1",
-                "name":"Edwards, Charles Gordon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Georgia"
+    "district":1,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ga"
 },
   "bbox": [
     -82.64744,

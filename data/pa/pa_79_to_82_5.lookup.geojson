@@ -1,42 +1,13 @@
 {
-  "id": "pa_79_to_82_05",
+  "id": "pa_79_to_82_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"82",
-    "id":"042079082005",
-    "member":{
-        "79":{
-            "3785":{
-                "district":"5",
-                "name":"Green, William Joseph, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "8217":{
-                "district":"5",
-                "name":"Sarbacher, George William",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3785":{
-                "district":"5",
-                "name":"Green, William Joseph, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "3785":{
-                "district":"5",
-                "name":"Green, William Joseph, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -75.15905,

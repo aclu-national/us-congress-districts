@@ -2,32 +2,12 @@
   "id": "ca_91_to_92_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"92",
-    "id":"006091092027",
-    "member":{
-        "91":{
-            "10763":{
-                "district":"27",
-                "name":"Reinecke, Edwin \"Ed\"",
-                "party":"Republican"
-            },
-            "12037":{
-                "district":"27",
-                "name":"Goldwater, Barry, Jr.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "12037":{
-                "district":"27",
-                "name":"Goldwater, Barry, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":27,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -118.89447,

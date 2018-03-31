@@ -1,28 +1,13 @@
 {
-  "id": "va_26_to_27_03",
+  "id": "va_26_to_27_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"27",
-    "id":"051026027003",
-    "member":{
-        "26":{
-            "5049":{
-                "district":"3",
-                "name":"Jones, John Winston",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "5049":{
-                "district":"3",
-                "name":"Jones, John Winston",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"26",
-    "statename":"Virginia"
+    "district":3,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1839-12-02",
+    "start_session":26,
+    "state":"va"
 },
   "bbox": [
     -78.24083,

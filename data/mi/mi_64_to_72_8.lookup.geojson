@@ -1,77 +1,13 @@
 {
-  "id": "mi_64_to_72_08",
+  "id": "mi_64_to_72_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"72",
-    "id":"026064072008",
-    "member":{
-        "64":{
-            "3275":{
-                "district":"8",
-                "name":"Fordney, Joseph Warren",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "3275":{
-                "district":"8",
-                "name":"Fordney, Joseph Warren",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "3275":{
-                "district":"8",
-                "name":"Fordney, Joseph Warren",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3275":{
-                "district":"8",
-                "name":"Fordney, Joseph Warren",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "9673":{
-                "district":"8",
-                "name":"Vincent, Bird J.",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9673":{
-                "district":"8",
-                "name":"Vincent, Bird J.",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9673":{
-                "district":"8",
-                "name":"Vincent, Bird J.",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9673":{
-                "district":"8",
-                "name":"Vincent, Bird J.",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4147":{
-                "district":"8",
-                "name":"Hart, Michael James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Michigan"
+    "district":8,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mi"
 },
   "bbox": [
     -85.56298,

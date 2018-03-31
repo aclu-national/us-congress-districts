@@ -2,20 +2,12 @@
   "id": "oh_48_to_48_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"48",
-    "id":"039048048014",
-    "member":{
-        "48":{
-            "3522":{
-                "district":"14",
-                "name":"Geddes, George Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"oh"
 },
   "bbox": [
     -82.84134,

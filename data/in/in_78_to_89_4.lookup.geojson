@@ -1,98 +1,13 @@
 {
-  "id": "in_78_to_89_04",
+  "id": "in_78_to_89_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"89",
-    "id":"018078089004",
-    "member":{
-        "78":{
-            "3605":{
-                "district":"4",
-                "name":"Gillie, George W.",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "3605":{
-                "district":"4",
-                "name":"Gillie, George W.",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3605":{
-                "district":"4",
-                "name":"Gillie, George W.",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "5371":{
-                "district":"4",
-                "name":"Kruse, Edward H. Jr.",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "18":{
-                "district":"4",
-                "name":"Adair, Edwin Ross",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "18":{
-                "district":"4",
-                "name":"Adair, Edwin Ross",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "18":{
-                "district":"4",
-                "name":"Adair, Edwin Ross",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "18":{
-                "district":"4",
-                "name":"Adair, Edwin Ross",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "18":{
-                "district":"4",
-                "name":"Adair, Edwin Ross",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "18":{
-                "district":"4",
-                "name":"Adair, Edwin Ross",
-                "party":"Republican"
-            }
-        },
-        "88":{
-            "18":{
-                "district":"4",
-                "name":"Adair, Edwin Ross",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "18":{
-                "district":"4",
-                "name":"Adair, Edwin Ross",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Indiana"
+    "district":4,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"in"
 },
   "bbox": [
     -85.6866,

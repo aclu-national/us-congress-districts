@@ -2,34 +2,12 @@
   "id": "in_44_to_46_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"46",
-    "id":"018044046012",
-    "member":{
-        "44":{
-            "3983":{
-                "district":"12",
-                "name":"Hamilton, Andrew Holman",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "3983":{
-                "district":"12",
-                "name":"Hamilton, Andrew Holman",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "1935":{
-                "district":"12",
-                "name":"Colerick, Walpole Gillespie",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Indiana"
+    "district":12,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"in"
 },
   "bbox": [
     -85.6866,

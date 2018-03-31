@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"67",
-    "id":"042063067019",
-    "member":{
-        "63":{
-            "352":{
-                "district":"19",
-                "name":"Bailey, Warren Worth",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "352":{
-                "district":"19",
-                "name":"Bailey, Warren Worth",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8060":{
-                "district":"19",
-                "name":"Rose, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "8060":{
-                "district":"19",
-                "name":"Rose, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "8060":{
-                "district":"19",
-                "name":"Rose, John Marshall",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -79.05606,

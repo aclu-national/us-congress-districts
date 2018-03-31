@@ -1,84 +1,13 @@
 {
-  "id": "ms_73_to_82_05",
+  "id": "ms_73_to_82_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"82",
-    "id":"028073082005",
-    "member":{
-        "73":{
-            "1949":{
-                "district":"5",
-                "name":"Collins, Ross Alexander",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "2770":{
-                "district":"5",
-                "name":"Dunn, Aubert Culberson",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "1949":{
-                "district":"5",
-                "name":"Collins, Ross Alexander",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "1949":{
-                "district":"5",
-                "name":"Collins, Ross Alexander",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "1949":{
-                "district":"5",
-                "name":"Collins, Ross Alexander",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "10279":{
-                "district":"5",
-                "name":"Winstead, William Arthur",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "10279":{
-                "district":"5",
-                "name":"Winstead, William Arthur",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "10279":{
-                "district":"5",
-                "name":"Winstead, William Arthur",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "10279":{
-                "district":"5",
-                "name":"Winstead, William Arthur",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "10279":{
-                "district":"5",
-                "name":"Winstead, William Arthur",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Mississippi"
+    "district":5,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ms"
 },
   "bbox": [
     -90.24766,

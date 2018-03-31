@@ -1,33 +1,13 @@
 {
-  "id": "ma_43_to_44_01",
+  "id": "ma_43_to_44_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"44",
-    "id":"025043044001",
-    "member":{
-        "43":{
-            "1220":{
-                "district":"1",
-                "name":"Buffington, James",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "1220":{
-                "district":"1",
-                "name":"Buffington, James",
-                "party":"Republican"
-            },
-            "2151":{
-                "district":"1",
-                "name":"Crapo, William Wallace",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ma"
 },
   "bbox": [
     -71.31644,

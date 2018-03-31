@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"62",
-    "id":"036058062025",
-    "member":{
-        "58":{
-            "5697":{
-                "district":"25",
-                "name":"Littauer, Lucius Nathan",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5697":{
-                "district":"25",
-                "name":"Littauer, Lucius Nathan",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2787":{
-                "district":"25",
-                "name":"Durey, Cyrus",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2787":{
-                "district":"25",
-                "name":"Durey, Cyrus",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "60":{
-                "district":"25",
-                "name":"Akin, Theron",
-                "party":"Progressive Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -74.86771,

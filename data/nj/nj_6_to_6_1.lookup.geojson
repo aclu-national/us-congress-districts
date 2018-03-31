@@ -1,21 +1,13 @@
 {
-  "id": "nj_6_to_6_01",
+  "id": "nj_6_to_6_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"6",
-    "id":"034006006001",
-    "member":{
-        "6":{
-            "1974":{
-                "district":"1",
-                "name":"Condit, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"6",
-    "statename":"New Jersey"
+    "district":1,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1799-12-02",
+    "start_session":6,
+    "state":"nj"
 },
   "bbox": [
     -74.69524,

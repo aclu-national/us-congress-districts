@@ -1,21 +1,13 @@
 {
-  "id": "tx_107_to_107_09",
+  "id": "tx_107_to_107_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"107",
-    "id":"048107107009",
-    "member":{
-        "107":{
-            "29761":{
-                "district":"9",
-                "name":"Lampson, Nick",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"107",
-    "statename":"Texas"
+    "district":9,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"2001-01-03",
+    "start_session":107,
+    "state":"tx"
 },
   "bbox": [
     -95.28761,

@@ -1,50 +1,13 @@
 {
-  "id": "az_78_to_80_00",
+  "id": "az_78_to_80_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"80",
-    "id":"004078080000",
-    "member":{
-        "78":{
-            "4078":{
-                "district":"98",
-                "name":"Harless, Richard Fielding",
-                "party":"Democrat"
-            },
-            "6799":{
-                "district":"98",
-                "name":"Murdock, John Robert",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "4078":{
-                "district":"98",
-                "name":"Harless, Richard Fielding",
-                "party":"Democrat"
-            },
-            "6799":{
-                "district":"98",
-                "name":"Murdock, John Robert",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "4078":{
-                "district":"98",
-                "name":"Harless, Richard Fielding",
-                "party":"Democrat"
-            },
-            "6799":{
-                "district":"98",
-                "name":"Murdock, John Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Arizona"
+    "district":0,
+    "end_date":"1948-12-31",
+    "end_session":80,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"az"
 },
   "bbox": [
     -114.81659,

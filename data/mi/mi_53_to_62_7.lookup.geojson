@@ -1,84 +1,13 @@
 {
-  "id": "mi_53_to_62_07",
+  "id": "mi_53_to_62_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"62",
-    "id":"026053062007",
-    "member":{
-        "53":{
-            "10064":{
-                "district":"7",
-                "name":"Whiting, Justin Rice",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "8727":{
-                "district":"7",
-                "name":"Snover, Horace Greeley",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "8727":{
-                "district":"7",
-                "name":"Snover, Horace Greeley",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "9908":{
-                "district":"7",
-                "name":"Weeks, Edgar",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "9908":{
-                "district":"7",
-                "name":"Weeks, Edgar",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "6360":{
-                "district":"7",
-                "name":"McMorran, Henry Gordon",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "6360":{
-                "district":"7",
-                "name":"McMorran, Henry Gordon",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "6360":{
-                "district":"7",
-                "name":"McMorran, Henry Gordon",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "6360":{
-                "district":"7",
-                "name":"McMorran, Henry Gordon",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "6360":{
-                "district":"7",
-                "name":"McMorran, Henry Gordon",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Michigan"
+    "district":7,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mi"
 },
   "bbox": [
     -83.49623,

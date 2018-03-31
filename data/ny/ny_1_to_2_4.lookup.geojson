@@ -1,28 +1,13 @@
 {
-  "id": "ny_1_to_2_04",
+  "id": "ny_1_to_2_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"2",
-    "id":"036001002004",
-    "member":{
-        "1":{
-            "4193":{
-                "district":"4",
-                "name":"Hathorn, John",
-                "party":"Anti-Administration"
-            }
-        },
-        "2":{
-            "8272":{
-                "district":"4",
-                "name":"Schoonmaker, Cornelius Corneliusen",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

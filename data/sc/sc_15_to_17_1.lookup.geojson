@@ -1,35 +1,13 @@
 {
-  "id": "sc_15_to_17_01",
+  "id": "sc_15_to_17_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"17",
-    "id":"045015017001",
-    "member":{
-        "15":{
-            "6462":{
-                "district":"1",
-                "name":"Middleton, Henry",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "7455":{
-                "district":"1",
-                "name":"Pinckney, Charles",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "7503":{
-                "district":"1",
-                "name":"Poinsett, Joel Roberts",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"sc"
 },
   "bbox": [
     -80.50279,

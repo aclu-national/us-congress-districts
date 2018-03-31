@@ -1,28 +1,13 @@
 {
-  "id": "pa_28_to_29_08",
+  "id": "pa_28_to_29_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"29",
-    "id":"042028029008",
-    "member":{
-        "28":{
-            "1115":{
-                "district":"8",
-                "name":"Brown, Jeremiah",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "9027":{
-                "district":"8",
-                "name":"Strohm, John",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

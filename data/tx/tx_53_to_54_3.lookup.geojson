@@ -1,28 +1,13 @@
 {
-  "id": "tx_53_to_54_03",
+  "id": "tx_53_to_54_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"54",
-    "id":"048053054003",
-    "member":{
-        "53":{
-            "5237":{
-                "district":"3",
-                "name":"Kilgore, Constantine Buck",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "10425":{
-                "district":"3",
-                "name":"Yoakum, Charles Henderson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Texas"
+    "district":3,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"tx"
 },
   "bbox": [
     -96.51897,

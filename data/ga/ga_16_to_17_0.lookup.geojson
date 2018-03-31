@@ -1,78 +1,13 @@
 {
-  "id": "ga_16_to_17_00",
+  "id": "ga_16_to_17_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"17",
-    "id":"013016017000",
-    "member":{
-        "16":{
-            "1873":{
-                "district":"98",
-                "name":"Cobb, Thomas Willis",
-                "party":"Republican"
-            },
-            "2161":{
-                "district":"98",
-                "name":"Crawford, Joel",
-                "party":"Republican"
-            },
-            "2285":{
-                "district":"98",
-                "name":"Cuthbert, John Alfred",
-                "party":"Republican"
-            },
-            "5":{
-                "district":"98",
-                "name":"Abbott, Joel",
-                "party":"Republican"
-            },
-            "7813":{
-                "district":"98",
-                "name":"Reid, Robert Raymond",
-                "party":"Republican"
-            },
-            "9261":{
-                "district":"98",
-                "name":"Terrell, William",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "2284":{
-                "district":"98",
-                "name":"Cuthbert, Alfred",
-                "party":"Republican"
-            },
-            "3611":{
-                "district":"98",
-                "name":"Gilmer, George Rockingham",
-                "party":"Republican"
-            },
-            "5":{
-                "district":"98",
-                "name":"Abbott, Joel",
-                "party":"Republican"
-            },
-            "7813":{
-                "district":"98",
-                "name":"Reid, Robert Raymond",
-                "party":"Republican"
-            },
-            "9188":{
-                "district":"98",
-                "name":"Tattnall, Edward Fenwick",
-                "party":"Republican"
-            },
-            "9343":{
-                "district":"98",
-                "name":"Thompson, Wiley",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"16",
-    "statename":"Georgia"
+    "district":0,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1819-12-06",
+    "start_session":16,
+    "state":"ga"
 },
   "bbox": [
     -85.1146,

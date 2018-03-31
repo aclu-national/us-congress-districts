@@ -1,35 +1,13 @@
 {
-  "id": "ma_40_to_42_08",
+  "id": "ma_40_to_42_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"42",
-    "id":"025040042008",
-    "member":{
-        "40":{
-            "386":{
-                "district":"8",
-                "name":"Baldwin, John Denison",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "4462":{
-                "district":"8",
-                "name":"Hoar, George Frisbie",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "4462":{
-                "district":"8",
-                "name":"Hoar, George Frisbie",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Massachusetts"
+    "district":8,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"ma"
 },
   "bbox": [
     -72.26461,

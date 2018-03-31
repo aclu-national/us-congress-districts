@@ -2,48 +2,12 @@
   "id": "mi_103_to_107_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"107",
-    "id":"026103107014",
-    "member":{
-        "103":{
-            "10713":{
-                "district":"14",
-                "name":"Conyers, John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "10713":{
-                "district":"14",
-                "name":"Conyers, John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "10713":{
-                "district":"14",
-                "name":"Conyers, John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "10713":{
-                "district":"14",
-                "name":"Conyers, John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "10713":{
-                "district":"14",
-                "name":"Conyers, John, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Michigan"
+    "district":14,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"mi"
 },
   "bbox": [
     -83.28793,

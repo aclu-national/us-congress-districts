@@ -1,89 +1,13 @@
 {
-  "id": "nc_63_to_72_02",
+  "id": "nc_63_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"037063072002",
-    "member":{
-        "63":{
-            "5307":{
-                "district":"2",
-                "name":"Kitchin, Claude",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "5307":{
-                "district":"2",
-                "name":"Kitchin, Claude",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "5307":{
-                "district":"2",
-                "name":"Kitchin, Claude",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "5307":{
-                "district":"2",
-                "name":"Kitchin, Claude",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5307":{
-                "district":"2",
-                "name":"Kitchin, Claude",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "5208":{
-                "district":"2",
-                "name":"Kerr, John Hosea",
-                "party":"Democrat"
-            },
-            "5307":{
-                "district":"2",
-                "name":"Kitchin, Claude",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "5208":{
-                "district":"2",
-                "name":"Kerr, John Hosea",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "5208":{
-                "district":"2",
-                "name":"Kerr, John Hosea",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "5208":{
-                "district":"2",
-                "name":"Kerr, John Hosea",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "5208":{
-                "district":"2",
-                "name":"Kerr, John Hosea",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"North Carolina"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nc"
 },
   "bbox": [
     -78.32391,

@@ -1,21 +1,13 @@
 {
-  "id": "ga_32_to_32_02",
+  "id": "ga_32_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"013032032002",
-    "member":{
-        "32":{
-            "4966":{
-                "district":"2",
-                "name":"Johnson, James",
-                "party":"Union"
-            }
-        }
-    },
-    "startcong":"32",
-    "statename":"Georgia"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1851-03-04",
+    "start_session":32,
+    "state":"ga"
 },
   "bbox": [
     -85.14193,

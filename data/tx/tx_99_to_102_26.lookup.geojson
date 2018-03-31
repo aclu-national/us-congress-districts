@@ -2,41 +2,12 @@
   "id": "tx_99_to_102_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"102",
-    "id":"048099102026",
-    "member":{
-        "100":{
-            "15125":{
-                "district":"26",
-                "name":"Armey, Richard K.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15125":{
-                "district":"26",
-                "name":"Armey, Richard K.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15125":{
-                "district":"26",
-                "name":"Armey, Richard K.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15125":{
-                "district":"26",
-                "name":"Armey, Richard K.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Texas"
+    "district":26,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"tx"
 },
   "bbox": [
     -97.5013,

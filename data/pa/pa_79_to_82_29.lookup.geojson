@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"82",
-    "id":"042079082029",
-    "member":{
-        "79":{
-            "1450":{
-                "district":"29",
-                "name":"Campbell, Howard Edmond",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "6228":{
-                "district":"29",
-                "name":"McDowell, John Ralph",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "2353":{
-                "district":"29",
-                "name":"Davenport, Harry James",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2507":{
-                "district":"29",
-                "name":"Denny, Harmar Denny Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":29,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -79.95595,

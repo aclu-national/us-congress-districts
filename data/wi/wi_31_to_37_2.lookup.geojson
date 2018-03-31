@@ -1,68 +1,13 @@
 {
-  "id": "wi_31_to_37_02",
+  "id": "wi_31_to_37_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"37",
-    "id":"055031037002",
-    "member":{
-        "31":{
-            "1925":{
-                "district":"2",
-                "name":"Cole, Orsamus",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "2823":{
-                "district":"2",
-                "name":"Eastman, Ben C.",
-                "party":"Democrat"
-            }
-        },
-        "33":{
-            "2823":{
-                "district":"2",
-                "name":"Eastman, Ben C.",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "9848":{
-                "district":"2",
-                "name":"Washburn, Cadwallader Colden",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "9848":{
-                "district":"2",
-                "name":"Washburn, Cadwallader Colden",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "9848":{
-                "district":"2",
-                "name":"Washburn, Cadwallader Colden",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "4023":{
-                "district":"2",
-                "name":"Hanchett, Luther",
-                "party":"Republican"
-            },
-            "6275":{
-                "district":"2",
-                "name":"McIndoe, Walter Duncan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"31",
-    "statename":"Wisconsin"
+    "district":2,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1849-03-05",
+    "start_session":31,
+    "state":"wi"
 },
   "bbox": [
     -92.88943,

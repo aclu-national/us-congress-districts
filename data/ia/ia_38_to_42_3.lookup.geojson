@@ -1,49 +1,13 @@
 {
-  "id": "ia_38_to_42_03",
+  "id": "ia_38_to_42_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"42",
-    "id":"019038042003",
-    "member":{
-        "38":{
-            "141":{
-                "district":"3",
-                "name":"Allison, William Boyd",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "141":{
-                "district":"3",
-                "name":"Allison, William Boyd",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "141":{
-                "district":"3",
-                "name":"Allison, William Boyd",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "141":{
-                "district":"3",
-                "name":"Allison, William Boyd",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "2655":{
-                "district":"3",
-                "name":"Donnan, William G.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Iowa"
+    "district":3,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ia"
 },
   "bbox": [
     -93.02492,

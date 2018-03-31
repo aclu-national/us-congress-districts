@@ -2,34 +2,12 @@
   "id": "ca_88_to_90_35",
   "type": "Feature",
   "properties": {
-    "district":"35",
-    "endcong":"90",
-    "id":"006088090035",
-    "member":{
-        "88":{
-            "9578":{
-                "district":"35",
-                "name":"Utt, James Boyd",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "9578":{
-                "district":"35",
-                "name":"Utt, James Boyd",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "9578":{
-                "district":"35",
-                "name":"Utt, James Boyd",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":35,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -117.95748,

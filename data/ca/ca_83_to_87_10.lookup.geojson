@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"87",
-    "id":"006083087010",
-    "member":{
-        "83":{
-            "3867":{
-                "district":"10",
-                "name":"Gubser, Charles Samuel",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "3867":{
-                "district":"10",
-                "name":"Gubser, Charles Samuel",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "3867":{
-                "district":"10",
-                "name":"Gubser, Charles Samuel",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "3867":{
-                "district":"10",
-                "name":"Gubser, Charles Samuel",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "3867":{
-                "district":"10",
-                "name":"Gubser, Charles Samuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":10,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -122.31768,

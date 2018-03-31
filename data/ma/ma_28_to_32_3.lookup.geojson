@@ -1,49 +1,13 @@
 {
-  "id": "ma_28_to_32_03",
+  "id": "ma_28_to_32_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"32",
-    "id":"025028032003",
-    "member":{
-        "28":{
-            "3":{
-                "district":"3",
-                "name":"Abbott, Amos",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "3":{
-                "district":"3",
-                "name":"Abbott, Amos",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "3":{
-                "district":"3",
-                "name":"Abbott, Amos",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "2759":{
-                "district":"3",
-                "name":"Duncan, James Henry",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "2759":{
-                "district":"3",
-                "name":"Duncan, James Henry",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ma"
 },
   "bbox": [
     -71.66047,

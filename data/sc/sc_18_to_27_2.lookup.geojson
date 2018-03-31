@@ -1,84 +1,13 @@
 {
-  "id": "sc_18_to_27_02",
+  "id": "sc_18_to_27_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"27",
-    "id":"045018027002",
-    "member":{
-        "18":{
-            "3991":{
-                "district":"2",
-                "name":"Hamilton, James Jr.",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "3991":{
-                "district":"2",
-                "name":"Hamilton, James Jr.",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "3991":{
-                "district":"2",
-                "name":"Hamilton, James Jr.",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "457":{
-                "district":"2",
-                "name":"Barnwell, Robert Woodward",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "457":{
-                "district":"2",
-                "name":"Barnwell, Robert Woodward",
-                "party":"Nullifier"
-            }
-        },
-        "23":{
-            "3772":{
-                "district":"2",
-                "name":"Grayson, William John",
-                "party":"Nullifier"
-            }
-        },
-        "24":{
-            "3772":{
-                "district":"2",
-                "name":"Grayson, William John",
-                "party":"Nullifier"
-            }
-        },
-        "25":{
-            "7841":{
-                "district":"2",
-                "name":"Rhett, Robert Barnwell",
-                "party":"Nullifier"
-            }
-        },
-        "26":{
-            "7841":{
-                "district":"2",
-                "name":"Rhett, Robert Barnwell",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "7841":{
-                "district":"2",
-                "name":"Rhett, Robert Barnwell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"South Carolina"
+    "district":2,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"sc"
 },
   "bbox": [
     -81.43208,

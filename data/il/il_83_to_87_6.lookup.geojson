@@ -1,49 +1,13 @@
 {
-  "id": "il_83_to_87_06",
+  "id": "il_83_to_87_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"87",
-    "id":"017083087006",
-    "member":{
-        "83":{
-            "7004":{
-                "district":"6",
-                "name":"O'Brien, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "7004":{
-                "district":"6",
-                "name":"O'Brien, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "7004":{
-                "district":"6",
-                "name":"O'Brien, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "7004":{
-                "district":"6",
-                "name":"O'Brien, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "7004":{
-                "district":"6",
-                "name":"O'Brien, Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":6,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -87.77893,

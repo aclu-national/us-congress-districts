@@ -2,20 +2,12 @@
   "id": "oh_63_to_63_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"63",
-    "id":"039063063015",
-    "member":{
-        "63":{
-            "10023":{
-                "district":"15",
-                "name":"White, George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"oh"
 },
   "bbox": [
     -82.23397,

@@ -2,20 +2,12 @@
   "id": "oh_48_to_48_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"48",
-    "id":"039048048013",
-    "member":{
-        "48":{
-            "2011":{
-                "district":"13",
-                "name":"Converse, George Leroy",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Ohio"
+    "district":13,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"oh"
 },
   "bbox": [
     -83.26068,

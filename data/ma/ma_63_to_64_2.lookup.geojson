@@ -1,28 +1,13 @@
 {
-  "id": "ma_63_to_64_02",
+  "id": "ma_63_to_64_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"64",
-    "id":"025063064002",
-    "member":{
-        "63":{
-            "3599":{
-                "district":"2",
-                "name":"Gillett, Frederick Huntington",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "3599":{
-                "district":"2",
-                "name":"Gillett, Frederick Huntington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ma"
 },
   "bbox": [
     -72.77713,

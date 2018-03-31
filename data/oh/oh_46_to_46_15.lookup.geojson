@@ -2,20 +2,12 @@
   "id": "oh_46_to_46_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"46",
-    "id":"039046046015",
-    "member":{
-        "46":{
-            "3522":{
-                "district":"15",
-                "name":"Geddes, George Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"oh"
 },
   "bbox": [
     -82.75282,

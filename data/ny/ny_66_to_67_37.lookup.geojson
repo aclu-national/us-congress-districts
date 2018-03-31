@@ -2,32 +2,12 @@
   "id": "ny_66_to_67_37",
   "type": "Feature",
   "properties": {
-    "district":"37",
-    "endcong":"67",
-    "id":"036066067037",
-    "member":{
-        "66":{
-            "4602":{
-                "district":"37",
-                "name":"Houghton, Alanson Bigelow",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "4336":{
-                "district":"37",
-                "name":"Henry, Lewis",
-                "party":"Republican"
-            },
-            "4602":{
-                "district":"37",
-                "name":"Houghton, Alanson Bigelow",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":37,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -77.74993,

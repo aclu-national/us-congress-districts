@@ -1,42 +1,13 @@
 {
-  "id": "co_89_to_92_04",
+  "id": "co_89_to_92_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"92",
-    "id":"008089092004",
-    "member":{
-        "89":{
-            "275":{
-                "district":"4",
-                "name":"Aspinall, Wayne Norviel",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "275":{
-                "district":"4",
-                "name":"Aspinall, Wayne Norviel",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "275":{
-                "district":"4",
-                "name":"Aspinall, Wayne Norviel",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "275":{
-                "district":"4",
-                "name":"Aspinall, Wayne Norviel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Colorado"
+    "district":4,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"co"
 },
   "bbox": [
     -109.06026,

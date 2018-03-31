@@ -1,49 +1,13 @@
 {
-  "id": "ca_108_to_112_02",
+  "id": "ca_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"006108112002",
-    "member":{
-        "108":{
-            "15420":{
-                "district":"2",
-                "name":"Herger, Wally",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "15420":{
-                "district":"2",
-                "name":"Herger, Wally",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "15420":{
-                "district":"2",
-                "name":"Herger, Wally",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "15420":{
-                "district":"2",
-                "name":"Herger, Wally",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "15420":{
-                "district":"2",
-                "name":"Herger, Wally",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -123.71917,

@@ -1,21 +1,13 @@
 {
-  "id": "ny_92_to_92_05",
+  "id": "ny_92_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"036092092005",
-    "member":{
-        "92":{
-            "13021":{
-                "district":"5",
-                "name":"Lent, Norman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"ny"
 },
   "bbox": [
     -73.70114,

@@ -1,63 +1,13 @@
 {
-  "id": "tx_66_to_72_02",
+  "id": "tx_66_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"048066072002",
-    "member":{
-        "66":{
-            "924":{
-                "district":"2",
-                "name":"Box, John Calvin",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "924":{
-                "district":"2",
-                "name":"Box, John Calvin",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "924":{
-                "district":"2",
-                "name":"Box, John Calvin",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "924":{
-                "district":"2",
-                "name":"Box, John Calvin",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "924":{
-                "district":"2",
-                "name":"Box, John Calvin",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "924":{
-                "district":"2",
-                "name":"Box, John Calvin",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "2588":{
-                "district":"2",
-                "name":"Dies, Martin Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -95.46224,

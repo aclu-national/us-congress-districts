@@ -1,35 +1,13 @@
 {
-  "id": "nc_103_to_105_07",
+  "id": "nc_103_to_105_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"105",
-    "id":"037103105007",
-    "member":{
-        "103":{
-            "14048":{
-                "district":"7",
-                "name":"Rose, Charles",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "14048":{
-                "district":"7",
-                "name":"Rose, Charles",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29746":{
-                "district":"7",
-                "name":"McIntyre, Mike",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"North Carolina"
+    "district":7,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nc"
 },
   "bbox": [
     -79.41953,

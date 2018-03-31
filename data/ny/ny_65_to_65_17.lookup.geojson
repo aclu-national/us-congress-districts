@@ -2,20 +2,12 @@
   "id": "ny_65_to_65_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"65",
-    "id":"036065065017",
-    "member":{
-        "65":{
-            "1500":{
-                "district":"17",
-                "name":"Carew, John Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -73.99878,

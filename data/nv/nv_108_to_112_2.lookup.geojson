@@ -1,54 +1,13 @@
 {
-  "id": "nv_108_to_112_02",
+  "id": "nv_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"032108112002",
-    "member":{
-        "108":{
-            "29739":{
-                "district":"2",
-                "name":"Gibbons, Jim",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29739":{
-                "district":"2",
-                "name":"Gibbons, Jim",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20730":{
-                "district":"2",
-                "name":"Heller, Dean",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20730":{
-                "district":"2",
-                "name":"Heller, Dean",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20730":{
-                "district":"2",
-                "name":"Heller, Dean",
-                "party":"Republican"
-            },
-            "21196":{
-                "district":"2",
-                "name":"Amodei, Mark E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Nevada"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nv"
 },
   "bbox": [
     -120.00575,

@@ -2,25 +2,12 @@
   "id": "ny_33_to_33_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"33",
-    "id":"036033033029",
-    "member":{
-        "33":{
-            "1520":{
-                "district":"29",
-                "name":"Carpenter, Davis",
-                "party":"Whig"
-            },
-            "848":{
-                "district":"29",
-                "name":"Boody, Azariah",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -77.99729,

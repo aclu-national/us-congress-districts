@@ -1,49 +1,13 @@
 {
-  "id": "mi_33_to_37_02",
+  "id": "mi_33_to_37_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"37",
-    "id":"026033037002",
-    "member":{
-        "33":{
-            "6940":{
-                "district":"2",
-                "name":"Noble, David Addison",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "9731":{
-                "district":"2",
-                "name":"Waldron, Henry",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "9731":{
-                "district":"2",
-                "name":"Waldron, Henry",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "9731":{
-                "district":"2",
-                "name":"Waldron, Henry",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "549":{
-                "district":"2",
-                "name":"Beaman, Fernando Cortez",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Michigan"
+    "district":2,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"mi"
 },
   "bbox": [
     -86.22607,

@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"67",
-    "id":"042063067014",
-    "member":{
-        "63":{
-            "55":{
-                "district":"14",
-                "name":"Ainey, William David Blake",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "6238":{
-                "district":"14",
-                "name":"McFadden, Louis Thomas",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "6238":{
-                "district":"14",
-                "name":"McFadden, Louis Thomas",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6238":{
-                "district":"14",
-                "name":"McFadden, Louis Thomas",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6238":{
-                "district":"14",
-                "name":"McFadden, Louis Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -76.92708,

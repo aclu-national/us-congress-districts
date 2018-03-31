@@ -1,35 +1,13 @@
 {
-  "id": "oh_43_to_45_07",
+  "id": "oh_43_to_45_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"45",
-    "id":"039043045007",
-    "member":{
-        "43":{
-            "6850":{
-                "district":"7",
-                "name":"Neal, Lawrence Talbot",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "6850":{
-                "district":"7",
-                "name":"Neal, Lawrence Talbot",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "2564":{
-                "district":"7",
-                "name":"Dickey, Henry Luther",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Ohio"
+    "district":7,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"oh"
 },
   "bbox": [
     -84.05274,

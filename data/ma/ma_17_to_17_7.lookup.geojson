@@ -1,21 +1,13 @@
 {
-  "id": "ma_17_to_17_07",
+  "id": "ma_17_to_17_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"17",
-    "id":"025017017007",
-    "member":{
-        "17":{
-            "2797":{
-                "district":"7",
-                "name":"Dwight, Henry Williams",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ma"
 },
   "bbox": [
     -73.50814,

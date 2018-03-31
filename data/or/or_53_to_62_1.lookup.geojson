@@ -1,84 +1,13 @@
 {
-  "id": "or_53_to_62_01",
+  "id": "or_53_to_62_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"62",
-    "id":"041053062001",
-    "member":{
-        "53":{
-            "4355":{
-                "district":"1",
-                "name":"Hermann, Binger",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "4355":{
-                "district":"1",
-                "name":"Hermann, Binger",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "9420":{
-                "district":"1",
-                "name":"Tongue, Thomas H.",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "9420":{
-                "district":"1",
-                "name":"Tongue, Thomas H.",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "9420":{
-                "district":"1",
-                "name":"Tongue, Thomas H.",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "4355":{
-                "district":"1",
-                "name":"Hermann, Binger",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "4355":{
-                "district":"1",
-                "name":"Hermann, Binger",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "4222":{
-                "district":"1",
-                "name":"Hawley, Willis Chatman",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "4222":{
-                "district":"1",
-                "name":"Hawley, Willis Chatman",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "4222":{
-                "district":"1",
-                "name":"Hawley, Willis Chatman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Oregon"
+    "district":1,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"or"
 },
   "bbox": [
     -124.60679,

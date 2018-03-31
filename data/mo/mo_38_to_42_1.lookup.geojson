@@ -1,54 +1,13 @@
 {
-  "id": "mo_38_to_42_01",
+  "id": "mo_38_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"029038042001",
-    "member":{
-        "38":{
-            "5348":{
-                "district":"1",
-                "name":"Knox, Samuel",
-                "party":"Unconditional Unionist"
-            },
-            "764":{
-                "district":"1",
-                "name":"Blair, Francis Preston, Jr.",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "39":{
-            "4495":{
-                "district":"1",
-                "name":"Hogan, John",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "7451":{
-                "district":"1",
-                "name":"Pile, William Anderson",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "9942":{
-                "district":"1",
-                "name":"Wells, Erastus",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "9942":{
-                "district":"1",
-                "name":"Wells, Erastus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Missouri"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"mo"
 },
   "bbox": [
     -90.48417,

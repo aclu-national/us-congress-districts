@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_44",
   "type": "Feature",
   "properties": {
-    "ALAND":205536035,
-    "AWATER":66884022,
-    "CD113FP":"44",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0644",
-    "INTPTLAT":"+33.8187502",
-    "INTPTLON":"-118.2509834",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 44",
-    "STATEFP":"06"
+    "district":44,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -118.352008,

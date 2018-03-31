@@ -2,41 +2,12 @@
   "id": "ny_94_to_97_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"97",
-    "id":"036094097011",
-    "member":{
-        "94":{
-            "10768":{
-                "district":"11",
-                "name":"Scheuer, James H.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10768":{
-                "district":"11",
-                "name":"Scheuer, James H.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10768":{
-                "district":"11",
-                "name":"Scheuer, James H.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "10768":{
-                "district":"11",
-                "name":"Scheuer, James H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -73.93978,

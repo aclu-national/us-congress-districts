@@ -1,35 +1,13 @@
 {
-  "id": "ny_88_to_90_02",
+  "id": "ny_88_to_90_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"90",
-    "id":"036088090002",
-    "member":{
-        "88":{
-            "10592":{
-                "district":"2",
-                "name":"Grover, James R., Jr.",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10592":{
-                "district":"2",
-                "name":"Grover, James R., Jr.",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "10592":{
-                "district":"2",
-                "name":"Grover, James R., Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":2,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -73.49667,

@@ -1,21 +1,13 @@
 {
-  "id": "tx_109_to_109_04",
+  "id": "tx_109_to_109_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"109",
-    "id":"048109109004",
-    "member":{
-        "109":{
-            "94828":{
-                "district":"4",
-                "name":"Hall, Ralph M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Texas"
+    "district":4,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"tx"
 },
   "bbox": [
     -96.94513,

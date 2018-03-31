@@ -2,27 +2,12 @@
   "id": "in_53_to_54_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"54",
-    "id":"018053054012",
-    "member":{
-        "53":{
-            "6364":{
-                "district":"12",
-                "name":"McNagny, William Forgy",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "5598":{
-                "district":"12",
-                "name":"Leighty, Jacob D.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Indiana"
+    "district":12,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"in"
 },
   "bbox": [
     -85.6866,

@@ -1,21 +1,13 @@
 {
-  "id": "la_98_to_98_03",
+  "id": "la_98_to_98_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"98",
-    "id":"022098098003",
-    "member":{
-        "98":{
-            "14679":{
-                "district":"3",
-                "name":"Tauzin, Wilbert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Louisiana"
+    "district":3,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"la"
 },
   "bbox": [
     -92.03562,

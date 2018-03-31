@@ -1,49 +1,13 @@
 {
-  "id": "wa_108_to_112_06",
+  "id": "wa_108_to_112_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"112",
-    "id":"053108112006",
-    "member":{
-        "108":{
-            "14413":{
-                "district":"6",
-                "name":"Dicks, Norman D.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "14413":{
-                "district":"6",
-                "name":"Dicks, Norman D.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "14413":{
-                "district":"6",
-                "name":"Dicks, Norman D.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "14413":{
-                "district":"6",
-                "name":"Dicks, Norman D.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "14413":{
-                "district":"6",
-                "name":"Dicks, Norman D.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Washington"
+    "district":6,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"wa"
 },
   "bbox": [
     -124.73317,

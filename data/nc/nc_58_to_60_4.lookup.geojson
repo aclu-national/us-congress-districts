@@ -1,35 +1,13 @@
 {
-  "id": "nc_58_to_60_04",
+  "id": "nc_58_to_60_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"60",
-    "id":"037058060004",
-    "member":{
-        "58":{
-            "7565":{
-                "district":"4",
-                "name":"Pou, Edward William",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "7565":{
-                "district":"4",
-                "name":"Pou, Edward William",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "7565":{
-                "district":"4",
-                "name":"Pou, Edward William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"nc"
 },
   "bbox": [
     -79.5559,

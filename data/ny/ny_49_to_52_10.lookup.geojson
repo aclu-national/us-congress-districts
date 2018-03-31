@@ -2,46 +2,12 @@
   "id": "ny_49_to_52_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"52",
-    "id":"036049052010",
-    "member":{
-        "49":{
-            "4375":{
-                "district":"10",
-                "name":"Hewitt, Abram Stevens",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "8798":{
-                "district":"10",
-                "name":"Spinola, Francis Barretto",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "8798":{
-                "district":"10",
-                "name":"Spinola, Francis Barretto",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "1891":{
-                "district":"10",
-                "name":"Cockran, William Bourke",
-                "party":"Democrat"
-            },
-            "8798":{
-                "district":"10",
-                "name":"Spinola, Francis Barretto",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -73.9947,

@@ -1,35 +1,13 @@
 {
-  "id": "ny_3_to_5_07",
+  "id": "ny_3_to_5_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"5",
-    "id":"036003005007",
-    "member":{
-        "3":{
-            "9591":{
-                "district":"7",
-                "name":"Van Alen, John Evert",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "9591":{
-                "district":"7",
-                "name":"Van Alen, John Evert",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "9591":{
-                "district":"7",
-                "name":"Van Alen, John Evert",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1799-03-03",
+    "end_session":5,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ny"
 },
   "bbox": [
     -74.38403,

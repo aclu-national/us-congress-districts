@@ -2,48 +2,12 @@
   "id": "oh_58_to_62_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"62",
-    "id":"039058062018",
-    "member":{
-        "58":{
-            "5179":{
-                "district":"18",
-                "name":"Kennedy, James",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5179":{
-                "district":"18",
-                "name":"Kennedy, James",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5179":{
-                "district":"18",
-                "name":"Kennedy, James",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "5179":{
-                "district":"18",
-                "name":"Kennedy, James",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "10001":{
-                "district":"18",
-                "name":"Whitacre, John Jefferson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Ohio"
+    "district":18,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"oh"
 },
   "bbox": [
     -81.65005,

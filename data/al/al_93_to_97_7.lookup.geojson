@@ -1,49 +1,13 @@
 {
-  "id": "al_93_to_97_07",
+  "id": "al_93_to_97_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"97",
-    "id":"001093097007",
-    "member":{
-        "93":{
-            "12014":{
-                "district":"7",
-                "name":"Flowers, Walter W.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "12014":{
-                "district":"7",
-                "name":"Flowers, Walter W.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "12014":{
-                "district":"7",
-                "name":"Flowers, Walter W.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14659":{
-                "district":"7",
-                "name":"Shelby, Richard Craig",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14659":{
-                "district":"7",
-                "name":"Shelby, Richard Craig",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Alabama"
+    "district":7,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

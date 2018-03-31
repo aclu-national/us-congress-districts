@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"82",
-    "id":"036079082013",
-    "member":{
-        "79":{
-            "7114":{
-                "district":"13",
-                "name":"O'Toole, Donald",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "7114":{
-                "district":"13",
-                "name":"O'Toole, Donald",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "7114":{
-                "district":"13",
-                "name":"O'Toole, Donald",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7114":{
-                "district":"13",
-                "name":"O'Toole, Donald",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -74.04215,

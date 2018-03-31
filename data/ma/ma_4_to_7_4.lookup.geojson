@@ -1,52 +1,13 @@
 {
-  "id": "ma_4_to_7_04",
+  "id": "ma_4_to_7_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"7",
-    "id":"025004007004",
-    "member":{
-        "4":{
-            "3303":{
-                "district":"4",
-                "name":"Foster, Dwight",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "3303":{
-                "district":"4",
-                "name":"Foster, Dwight",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "3303":{
-                "district":"4",
-                "name":"Foster, Dwight",
-                "party":"Federalist"
-            },
-            "5668":{
-                "district":"4",
-                "name":"Lincoln, Levi",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "4181":{
-                "district":"4",
-                "name":"Hastings, Seth",
-                "party":"Federalist"
-            },
-            "5668":{
-                "district":"4",
-                "name":"Lincoln, Levi",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"ma"
 },
   "bbox": [
     -72.21788,

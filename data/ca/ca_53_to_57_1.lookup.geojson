@@ -1,49 +1,13 @@
 {
-  "id": "ca_53_to_57_01",
+  "id": "ca_53_to_57_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"57",
-    "id":"006053057001",
-    "member":{
-        "53":{
-            "3520":{
-                "district":"1",
-                "name":"Geary, Thomas J.",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "432":{
-                "district":"1",
-                "name":"Barham, John All",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "432":{
-                "district":"1",
-                "name":"Barham, John All",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "432":{
-                "district":"1",
-                "name":"Barham, John All",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2036":{
-                "district":"1",
-                "name":"Coombs, Frank Leslie",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"California"
+    "district":1,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ca"
 },
   "bbox": [
     -124.41501,

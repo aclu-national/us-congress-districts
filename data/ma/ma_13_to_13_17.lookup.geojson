@@ -2,20 +2,12 @@
   "id": "ma_13_to_13_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"13",
-    "id":"025013013017",
-    "member":{
-        "13":{
-            "10317":{
-                "district":"17",
-                "name":"Wood, Abiel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Massachusetts"
+    "district":17,
+    "end_date":"1815-03-03",
+    "end_session":13,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ma"
 },
   "bbox": [
     -69.83039,

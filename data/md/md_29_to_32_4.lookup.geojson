@@ -1,42 +1,13 @@
 {
-  "id": "md_29_to_32_04",
+  "id": "md_29_to_32_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"32",
-    "id":"024029032004",
-    "member":{
-        "29":{
-            "3583":{
-                "district":"4",
-                "name":"Giles, William Fell",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "6325":{
-                "district":"4",
-                "name":"McLane, Robert Milligan",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "6325":{
-                "district":"4",
-                "name":"McLane, Robert Milligan",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "9789":{
-                "district":"4",
-                "name":"Walsh, Thomas Yates",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"Maryland"
+    "district":4,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"md"
 },
   "bbox": [
     -76.62854,

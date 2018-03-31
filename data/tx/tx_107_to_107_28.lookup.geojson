@@ -2,20 +2,12 @@
   "id": "tx_107_to_107_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"107",
-    "id":"048107107028",
-    "member":{
-        "107":{
-            "29771":{
-                "district":"28",
-                "name":"Rodriguez, Ciro D.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"107",
-    "statename":"Texas"
+    "district":28,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"2001-01-03",
+    "start_session":107,
+    "state":"tx"
 },
   "bbox": [
     -99.45422,

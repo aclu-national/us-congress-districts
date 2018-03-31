@@ -1,28 +1,13 @@
 {
-  "id": "ny_6_to_7_09",
+  "id": "ny_6_to_7_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"7",
-    "id":"036006007009",
-    "member":{
-        "6":{
-            "7481":{
-                "district":"9",
-                "name":"Platt, Jonas",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "9735":{
-                "district":"9",
-                "name":"Walker, Benjamin",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"6",
-    "statename":"New York"
+    "district":9,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1799-12-02",
+    "start_session":6,
+    "state":"ny"
 },
   "bbox": [
     -76.51264,

@@ -2,27 +2,12 @@
   "id": "pa_51_to_52_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"52",
-    "id":"042051052013",
-    "member":{
-        "51":{
-            "7814":{
-                "district":"13",
-                "name":"Reilly, James Bernard",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "7814":{
-                "district":"13",
-                "name":"Reilly, James Bernard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -76.70148,

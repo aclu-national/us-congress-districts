@@ -2,39 +2,12 @@
   "id": "ny_88_to_90_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"90",
-    "id":"036088090013",
-    "member":{
-        "88":{
-            "6792":{
-                "district":"13",
-                "name":"Multer, Abraham Jacob",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "6792":{
-                "district":"13",
-                "name":"Multer, Abraham Jacob",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11064":{
-                "district":"13",
-                "name":"Podell, Bertram",
-                "party":"Democrat"
-            },
-            "6792":{
-                "district":"13",
-                "name":"Multer, Abraham Jacob",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -74.01962,

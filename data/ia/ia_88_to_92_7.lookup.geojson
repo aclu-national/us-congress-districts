@@ -1,49 +1,13 @@
 {
-  "id": "ia_88_to_92_07",
+  "id": "ia_88_to_92_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"92",
-    "id":"019088092007",
-    "member":{
-        "88":{
-            "4928":{
-                "district":"7",
-                "name":"Jensen, Benton Franklin",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10735":{
-                "district":"7",
-                "name":"Hansen, John R.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11047":{
-                "district":"7",
-                "name":"Scherle, William J.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11047":{
-                "district":"7",
-                "name":"Scherle, William J.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11047":{
-                "district":"7",
-                "name":"Scherle, William J.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Iowa"
+    "district":7,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ia"
 },
   "bbox": [
     -96.35987,

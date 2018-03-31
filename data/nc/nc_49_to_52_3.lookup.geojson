@@ -1,42 +1,13 @@
 {
-  "id": "nc_49_to_52_03",
+  "id": "nc_49_to_52_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"52",
-    "id":"037049052003",
-    "member":{
-        "49":{
-            "3784":{
-                "district":"3",
-                "name":"Green, Wharton Jackson",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "6143":{
-                "district":"3",
-                "name":"McClammy, Charles Washington",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "6143":{
-                "district":"3",
-                "name":"McClammy, Charles Washington",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "3729":{
-                "district":"3",
-                "name":"Grady, Benjamin Franklin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"nc"
 },
   "bbox": [
     -79.76934,

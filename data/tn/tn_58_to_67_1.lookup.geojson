@@ -1,89 +1,13 @@
 {
-  "id": "tn_58_to_67_01",
+  "id": "tn_58_to_67_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"67",
-    "id":"047058067001",
-    "member":{
-        "58":{
-            "1150":{
-                "district":"1",
-                "name":"Brownlow, Walter Preston",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "1150":{
-                "district":"1",
-                "name":"Brownlow, Walter Preston",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "1150":{
-                "district":"1",
-                "name":"Brownlow, Walter Preston",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "1150":{
-                "district":"1",
-                "name":"Brownlow, Walter Preston",
-                "party":"Republican"
-            },
-            "6067":{
-                "district":"1",
-                "name":"Massey, Zachary David",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "8356":{
-                "district":"1",
-                "name":"Sells, Sam Riley",
-                "party":"Republican"
-            }
-        },
-        "63":{
-            "8356":{
-                "district":"1",
-                "name":"Sells, Sam Riley",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "8356":{
-                "district":"1",
-                "name":"Sells, Sam Riley",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "8356":{
-                "district":"1",
-                "name":"Sells, Sam Riley",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "8356":{
-                "district":"1",
-                "name":"Sells, Sam Riley",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "7777":{
-                "district":"1",
-                "name":"Reece, Brazilla Carroll",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"tn"
 },
   "bbox": [
     -83.9994,

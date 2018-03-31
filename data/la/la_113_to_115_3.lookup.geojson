@@ -1,19 +1,13 @@
 {
-  "id": "la_113_to_115_03",
+  "id": "la_113_to_115_3",
   "type": "Feature",
   "properties": {
-    "ALAND":18087442262,
-    "AWATER":5595375166,
-    "CD113FP":"03",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2203",
-    "INTPTLAT":"+29.9296153",
-    "INTPTLON":"-092.4423609",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 3",
-    "STATEFP":"22"
+    "district":3,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"la"
 },
   "bbox": [
     -93.929208,

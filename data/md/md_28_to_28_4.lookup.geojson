@@ -1,21 +1,13 @@
 {
-  "id": "md_28_to_28_04",
+  "id": "md_28_to_28_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"28",
-    "id":"024028028004",
-    "member":{
-        "28":{
-            "5182":{
-                "district":"4",
-                "name":"Kennedy, John Pendleton",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Maryland"
+    "district":4,
+    "end_date":"1845-03-03",
+    "end_session":28,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"md"
 },
   "bbox": [
     -76.62524,

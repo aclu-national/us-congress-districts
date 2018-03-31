@@ -1,21 +1,13 @@
 {
-  "id": "ga_20_to_20_04",
+  "id": "ga_20_to_20_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"20",
-    "id":"013020020004",
-    "member":{
-        "20":{
-            "5837":{
-                "district":"4",
-                "name":"Lumpkin, Wilson",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"20",
-    "statename":"Georgia"
+    "district":4,
+    "end_date":"1829-03-03",
+    "end_session":20,
+    "start_date":"1827-12-03",
+    "start_session":20,
+    "state":"ga"
 },
   "bbox": [
     -84.64903,

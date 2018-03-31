@@ -1,42 +1,13 @@
 {
-  "id": "ny_13_to_16_06",
+  "id": "ny_13_to_16_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"16",
-    "id":"036013016006",
-    "member":{
-        "13":{
-            "3174":{
-                "district":"6",
-                "name":"Fisk, Jonathan",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "10117":{
-                "district":"6",
-                "name":"Wilkin, James Whitney",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "10117":{
-                "district":"6",
-                "name":"Wilkin, James Whitney",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "1571":{
-                "district":"6",
-                "name":"Case, Walter",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ny"
 },
   "bbox": [
     -74.7621,

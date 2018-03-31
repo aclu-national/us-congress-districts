@@ -2,34 +2,12 @@
   "id": "tx_110_to_112_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"112",
-    "id":"048110112018",
-    "member":{
-        "110":{
-            "29573":{
-                "district":"18",
-                "name":"Jackson-lee, Sheila",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29573":{
-                "district":"18",
-                "name":"Jackson-lee, Sheila",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29573":{
-                "district":"18",
-                "name":"Jackson-lee, Sheila",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"110",
-    "statename":"Texas"
+    "district":18,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2007-01-04",
+    "start_session":110,
+    "state":"tx"
 },
   "bbox": [
     -95.56311,

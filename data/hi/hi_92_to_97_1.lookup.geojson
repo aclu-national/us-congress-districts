@@ -1,56 +1,13 @@
 {
-  "id": "hi_92_to_97_01",
+  "id": "hi_92_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"015092097001",
-    "member":{
-        "92":{
-            "10605":{
-                "district":"1",
-                "name":"Matsunaga, Spark M.",
-                "party":"Democrat"
-            }
-        },
-        "93":{
-            "10605":{
-                "district":"1",
-                "name":"Matsunaga, Spark M.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10605":{
-                "district":"1",
-                "name":"Matsunaga, Spark M.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14425":{
-                "district":"1",
-                "name":"Heftel, Cecil",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14425":{
-                "district":"1",
-                "name":"Heftel, Cecil",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14425":{
-                "district":"1",
-                "name":"Heftel, Cecil",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"Hawaii"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"hi"
 },
   "bbox": [
     -178.33814,

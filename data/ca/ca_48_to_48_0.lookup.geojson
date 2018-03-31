@@ -1,26 +1,13 @@
 {
-  "id": "ca_48_to_48_00",
+  "id": "ca_48_to_48_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"48",
-    "id":"006048048000",
-    "member":{
-        "48":{
-            "3622":{
-                "district":"99",
-                "name":"Glascock, John Raglan",
-                "party":"Democrat"
-            },
-            "9084":{
-                "district":"99",
-                "name":"Sumner, Charles Allen",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"California"
+    "district":0,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ca"
 },
   "bbox": [
     -124.41501,

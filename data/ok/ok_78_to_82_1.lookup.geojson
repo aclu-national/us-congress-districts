@@ -1,49 +1,13 @@
 {
-  "id": "ok_78_to_82_01",
+  "id": "ok_78_to_82_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"82",
-    "id":"040078082001",
-    "member":{
-        "78":{
-            "2611":{
-                "district":"1",
-                "name":"Disney, Wesley Ernest",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "8283":{
-                "district":"1",
-                "name":"Schwabe, George Blaine",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "8283":{
-                "district":"1",
-                "name":"Schwabe, George Blaine",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3614":{
-                "district":"1",
-                "name":"Gilmer, William Franklin",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "8283":{
-                "district":"1",
-                "name":"Schwabe, George Blaine",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Oklahoma"
+    "district":1,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ok"
 },
   "bbox": [
     -97.06468,

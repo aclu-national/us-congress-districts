@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_35",
   "type": "Feature",
   "properties": {
-    "district":"35",
-    "endcong":"82",
-    "id":"036079082035",
-    "member":{
-        "79":{
-            "3396":{
-                "district":"35",
-                "name":"Fuller, Hadwen Carlton",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3396":{
-                "district":"35",
-                "name":"Fuller, Hadwen Carlton",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "2371":{
-                "district":"35",
-                "name":"Davies, John Clay",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "10191":{
-                "district":"35",
-                "name":"Williams, William Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":35,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

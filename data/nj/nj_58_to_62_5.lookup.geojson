@@ -1,49 +1,13 @@
 {
-  "id": "nj_58_to_62_05",
+  "id": "nj_58_to_62_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"62",
-    "id":"034058062005",
-    "member":{
-        "58":{
-            "3322":{
-                "district":"5",
-                "name":"Fowler, Charles Newell",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "3322":{
-                "district":"5",
-                "name":"Fowler, Charles Newell",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3322":{
-                "district":"5",
-                "name":"Fowler, Charles Newell",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3322":{
-                "district":"5",
-                "name":"Fowler, Charles Newell",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "9532":{
-                "district":"5",
-                "name":"Tuttle, William Edgar, Jr",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New Jersey"
+    "district":5,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"nj"
 },
   "bbox": [
     -75.20392,

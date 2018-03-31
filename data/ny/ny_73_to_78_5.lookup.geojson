@@ -1,56 +1,13 @@
 {
-  "id": "ny_73_to_78_05",
+  "id": "ny_73_to_78_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"78",
-    "id":"036073078005",
-    "member":{
-        "73":{
-            "749":{
-                "district":"5",
-                "name":"Black, Loring Milton, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "3018":{
-                "district":"5",
-                "name":"Evans, Marcellus Hugh",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "3018":{
-                "district":"5",
-                "name":"Evans, Marcellus Hugh",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3018":{
-                "district":"5",
-                "name":"Evans, Marcellus Hugh",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "4279":{
-                "district":"5",
-                "name":"Heffernan, James Joseph",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "4279":{
-                "district":"5",
-                "name":"Heffernan, James Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -73.9928,

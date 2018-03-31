@@ -2,41 +2,12 @@
   "id": "pa_23_to_26_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"26",
-    "id":"042023026011",
-    "member":{
-        "23":{
-            "454":{
-                "district":"11",
-                "name":"Barnitz, Charles Augustus",
-                "party":"Anti Masonic"
-            }
-        },
-        "24":{
-            "5745":{
-                "district":"11",
-                "name":"Logan, Henry",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "5745":{
-                "district":"11",
-                "name":"Logan, Henry",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "3543":{
-                "district":"11",
-                "name":"Gerry, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -77.13698,

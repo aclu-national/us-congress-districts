@@ -1,28 +1,13 @@
 {
-  "id": "pa_28_to_29_04",
+  "id": "pa_28_to_29_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"29",
-    "id":"042028029004",
-    "member":{
-        "28":{
-            "4804":{
-                "district":"4",
-                "name":"Ingersoll, Charles Jared",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4804":{
-                "district":"4",
-                "name":"Ingersoll, Charles Jared",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

@@ -1,21 +1,13 @@
 {
-  "id": "me_28_to_28_03",
+  "id": "me_28_to_28_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"28",
-    "id":"023028028003",
-    "member":{
-        "28":{
-            "8372":{
-                "district":"3",
-                "name":"Severance, Luther",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Maine"
+    "district":3,
+    "end_date":"1845-03-03",
+    "end_session":28,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"me"
 },
   "bbox": [
     -70.83559,

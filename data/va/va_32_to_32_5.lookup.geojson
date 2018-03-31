@@ -1,21 +1,13 @@
 {
-  "id": "va_32_to_32_05",
+  "id": "va_32_to_32_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"32",
-    "id":"051032032005",
-    "member":{
-        "32":{
-            "7574":{
-                "district":"5",
-                "name":"Powell, Paulus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"32",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1851-03-04",
+    "start_session":32,
+    "state":"va"
 },
   "bbox": [
     -79.85806,

@@ -1,49 +1,13 @@
 {
-  "id": "ri_98_to_102_01",
+  "id": "ri_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"044098102001",
-    "member":{
-        "100":{
-            "10561":{
-                "district":"1",
-                "name":"St. Germain, Fernand J.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15615":{
-                "district":"1",
-                "name":"Machtley, Ronald K.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15615":{
-                "district":"1",
-                "name":"Machtley, Ronald K.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "10561":{
-                "district":"1",
-                "name":"St. Germain, Fernand J.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "10561":{
-                "district":"1",
-                "name":"St. Germain, Fernand J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Rhode Island"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ri"
 },
   "bbox": [
     -71.60675,

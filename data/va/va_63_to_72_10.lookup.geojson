@@ -2,93 +2,12 @@
   "id": "va_63_to_72_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"72",
-    "id":"051063072010",
-    "member":{
-        "63":{
-            "3225":{
-                "district":"10",
-                "name":"Flood, Henry De La Warr",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3225":{
-                "district":"10",
-                "name":"Flood, Henry De La Warr",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "3225":{
-                "district":"10",
-                "name":"Flood, Henry De La Warr",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "3225":{
-                "district":"10",
-                "name":"Flood, Henry De La Warr",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "3225":{
-                "district":"10",
-                "name":"Flood, Henry De La Warr",
-                "party":"Democrat"
-            },
-            "9498":{
-                "district":"10",
-                "name":"Tucker, Henry St. George",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "9498":{
-                "district":"10",
-                "name":"Tucker, Henry St. George",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9498":{
-                "district":"10",
-                "name":"Tucker, Henry St. George",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "9498":{
-                "district":"10",
-                "name":"Tucker, Henry St. George",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "9498":{
-                "district":"10",
-                "name":"Tucker, Henry St. George",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "3226":{
-                "district":"10",
-                "name":"Flood, Joel West",
-                "party":"Democrat"
-            },
-            "9498":{
-                "district":"10",
-                "name":"Tucker, Henry St. George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"va"
 },
   "bbox": [
     -80.4756,

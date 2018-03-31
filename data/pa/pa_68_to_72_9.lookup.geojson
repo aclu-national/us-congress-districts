@@ -1,49 +1,13 @@
 {
-  "id": "pa_68_to_72_09",
+  "id": "pa_68_to_72_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"72",
-    "id":"042068072009",
-    "member":{
-        "68":{
-            "9873":{
-                "district":"9",
-                "name":"Watson, Henry Winfield",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9873":{
-                "district":"9",
-                "name":"Watson, Henry Winfield",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9873":{
-                "district":"9",
-                "name":"Watson, Henry Winfield",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9873":{
-                "district":"9",
-                "name":"Watson, Henry Winfield",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9873":{
-                "district":"9",
-                "name":"Watson, Henry Winfield",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":9,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -75.69679,

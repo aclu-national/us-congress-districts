@@ -2,20 +2,12 @@
   "id": "tx_108_to_108_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"108",
-    "id":"048108108025",
-    "member":{
-        "108":{
-            "20354":{
-                "district":"25",
-                "name":"Bell, Chris",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Texas"
+    "district":25,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tx"
 },
   "bbox": [
     -95.57562,

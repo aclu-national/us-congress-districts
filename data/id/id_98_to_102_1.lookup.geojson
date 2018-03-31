@@ -1,49 +1,13 @@
 {
-  "id": "id_98_to_102_01",
+  "id": "id_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"016098102001",
-    "member":{
-        "100":{
-            "14809":{
-                "district":"1",
-                "name":"Craig, Larry",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14809":{
-                "district":"1",
-                "name":"Craig, Larry",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "29114":{
-                "district":"1",
-                "name":"Larocco, Larry",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14809":{
-                "district":"1",
-                "name":"Craig, Larry",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14809":{
-                "district":"1",
-                "name":"Craig, Larry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Idaho"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"id"
 },
   "bbox": [
     -117.23636,

@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"32",
-    "id":"036028032022",
-    "member":{
-        "28":{
-            "7653":{
-                "district":"22",
-                "name":"Purdy, Smith Meade",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "9037":{
-                "district":"22",
-                "name":"Strong, Stephen",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "725":{
-                "district":"22",
-                "name":"Birdsall, Ausburn",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "638":{
-                "district":"22",
-                "name":"Bennett, Henry",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "638":{
-                "district":"22",
-                "name":"Bennett, Henry",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -76.56355,

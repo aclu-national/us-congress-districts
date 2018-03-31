@@ -1,28 +1,13 @@
 {
-  "id": "tx_86_to_87_09",
+  "id": "tx_86_to_87_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"87",
-    "id":"048086087009",
-    "member":{
-        "86":{
-            "9320":{
-                "district":"9",
-                "name":"Thompson, Clark Wallace",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "9320":{
-                "district":"9",
-                "name":"Thompson, Clark Wallace",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"86",
-    "statename":"Texas"
+    "district":9,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1959-01-07",
+    "start_session":86,
+    "state":"tx"
 },
   "bbox": [
     -97.77869,

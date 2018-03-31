@@ -2,46 +2,12 @@
   "id": "il_54_to_57_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"57",
-    "id":"017054057016",
-    "member":{
-        "54":{
-            "2705":{
-                "district":"16",
-                "name":"Downing, Finis Ewing",
-                "party":"Democrat"
-            },
-            "7909":{
-                "district":"16",
-                "name":"Rinaker, John Irving",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "4448":{
-                "district":"16",
-                "name":"Hinrichsen, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "10190":{
-                "district":"16",
-                "name":"Williams, William Elza",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "8352":{
-                "district":"16",
-                "name":"Selby, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"54",
-    "statename":"Illinois"
+    "district":16,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1895-12-02",
+    "start_session":54,
+    "state":"il"
 },
   "bbox": [
     -91.3701,

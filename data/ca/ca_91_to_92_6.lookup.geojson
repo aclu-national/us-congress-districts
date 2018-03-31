@@ -1,28 +1,13 @@
 {
-  "id": "ca_91_to_92_06",
+  "id": "ca_91_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"006091092006",
-    "member":{
-        "91":{
-            "5929":{
-                "district":"6",
-                "name":"Mailliard, William Somers",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "5929":{
-                "district":"6",
-                "name":"Mailliard, William Somers",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -123.10803,

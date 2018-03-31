@@ -1,49 +1,13 @@
 {
-  "id": "nj_58_to_62_02",
+  "id": "nj_58_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"034058062002",
-    "member":{
-        "58":{
-            "3468":{
-                "district":"2",
-                "name":"Gardner, John James",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "3468":{
-                "district":"2",
-                "name":"Gardner, John James",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3468":{
-                "district":"2",
-                "name":"Gardner, John James",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3468":{
-                "district":"2",
-                "name":"Gardner, John James",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "3468":{
-                "district":"2",
-                "name":"Gardner, John James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New Jersey"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"nj"
 },
   "bbox": [
     -75.41956,

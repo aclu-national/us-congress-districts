@@ -1,35 +1,13 @@
 {
-  "id": "md_90_to_92_06",
+  "id": "md_90_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"024090092006",
-    "member":{
-        "90":{
-            "10535":{
-                "district":"6",
-                "name":"Mathias, Charles McCurdy",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "12002":{
-                "district":"6",
-                "name":"Beall, J. Glenn, Jr.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13008":{
-                "district":"6",
-                "name":"Byron, Goodloe",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

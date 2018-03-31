@@ -1,49 +1,13 @@
 {
-  "id": "pa_63_to_67_01",
+  "id": "pa_63_to_67_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"67",
-    "id":"042063067001",
-    "member":{
-        "63":{
-            "9647":{
-                "district":"1",
-                "name":"Vare, William Scott",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "9647":{
-                "district":"1",
-                "name":"Vare, William Scott",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "9647":{
-                "district":"1",
-                "name":"Vare, William Scott",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "9647":{
-                "district":"1",
-                "name":"Vare, William Scott",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9647":{
-                "district":"1",
-                "name":"Vare, William Scott",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -75.21453,

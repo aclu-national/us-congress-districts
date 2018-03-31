@@ -1,54 +1,13 @@
 {
-  "id": "il_58_to_62_06",
+  "id": "il_58_to_62_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"62",
-    "id":"017058062006",
-    "member":{
-        "58":{
-            "5781":{
-                "district":"6",
-                "name":"Lorimer, William",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5781":{
-                "district":"6",
-                "name":"Lorimer, William",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5781":{
-                "district":"6",
-                "name":"Lorimer, William",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "5781":{
-                "district":"6",
-                "name":"Lorimer, William",
-                "party":"Republican"
-            },
-            "6773":{
-                "district":"6",
-                "name":"Moxley, William James",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "8820":{
-                "district":"6",
-                "name":"Stack, Edmund John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":6,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -87.92046,

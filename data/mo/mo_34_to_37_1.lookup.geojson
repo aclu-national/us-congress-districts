@@ -1,47 +1,13 @@
 {
-  "id": "mo_34_to_37_01",
+  "id": "mo_34_to_37_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"37",
-    "id":"029034037001",
-    "member":{
-        "34":{
-            "5188":{
-                "district":"1",
-                "name":"Kennett, Luther Martin",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "764":{
-                "district":"1",
-                "name":"Blair, Francis Preston, Jr.",
-                "party":"Ind. Democrat"
-            }
-        },
-        "36":{
-            "463":{
-                "district":"1",
-                "name":"Barret, John Richard",
-                "party":"Democrat"
-            },
-            "764":{
-                "district":"1",
-                "name":"Blair, Francis Preston, Jr.",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "764":{
-                "district":"1",
-                "name":"Blair, Francis Preston, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Missouri"
+    "district":1,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"mo"
 },
   "bbox": [
     -90.73653,

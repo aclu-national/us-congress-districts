@@ -1,21 +1,13 @@
 {
-  "id": "nj_28_to_28_03",
+  "id": "nj_28_to_28_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"28",
-    "id":"034028028003",
-    "member":{
-        "28":{
-            "3058":{
-                "district":"3",
-                "name":"Farlee, Isaac Gray",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New Jersey"
+    "district":3,
+    "end_date":"1845-03-03",
+    "end_session":28,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"nj"
 },
   "bbox": [
     -75.20392,

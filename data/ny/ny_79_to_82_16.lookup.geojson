@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"82",
-    "id":"036079082016",
-    "member":{
-        "79":{
-            "1197":{
-                "district":"16",
-                "name":"Buck, Ellsworth Brewer",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "1197":{
-                "district":"16",
-                "name":"Buck, Ellsworth Brewer",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6809":{
-                "district":"16",
-                "name":"Murphy, James Joseph",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "6809":{
-                "district":"16",
-                "name":"Murphy, James Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

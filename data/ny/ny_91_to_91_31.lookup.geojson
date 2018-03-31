@@ -2,20 +2,12 @@
   "id": "ny_91_to_91_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"91",
-    "id":"036091091031",
-    "member":{
-        "91":{
-            "10749":{
-                "district":"31",
-                "name":"McEwen, Robert C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

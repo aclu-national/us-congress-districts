@@ -1,49 +1,13 @@
 {
-  "id": "ma_108_to_112_06",
+  "id": "ma_108_to_112_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"112",
-    "id":"025108112006",
-    "member":{
-        "108":{
-            "29730":{
-                "district":"6",
-                "name":"Tierney, John F.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29730":{
-                "district":"6",
-                "name":"Tierney, John F.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29730":{
-                "district":"6",
-                "name":"Tierney, John F.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29730":{
-                "district":"6",
-                "name":"Tierney, John F.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29730":{
-                "district":"6",
-                "name":"Tierney, John F.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ma"
 },
   "bbox": [
     -71.32018,

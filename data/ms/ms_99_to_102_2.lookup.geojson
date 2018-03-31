@@ -1,42 +1,13 @@
 {
-  "id": "ms_99_to_102_02",
+  "id": "ms_99_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"028099102002",
-    "member":{
-        "100":{
-            "15411":{
-                "district":"2",
-                "name":"Espy, Mike",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15411":{
-                "district":"2",
-                "name":"Espy, Mike",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15411":{
-                "district":"2",
-                "name":"Espy, Mike",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15025":{
-                "district":"2",
-                "name":"Franklin, William W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Mississippi"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ms"
 },
   "bbox": [
     -91.3655,

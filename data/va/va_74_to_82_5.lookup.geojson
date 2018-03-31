@@ -1,77 +1,13 @@
 {
-  "id": "va_74_to_82_05",
+  "id": "va_74_to_82_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"82",
-    "id":"051074082005",
-    "member":{
-        "74":{
-            "1245":{
-                "district":"5",
-                "name":"Burch, Thomas Granville",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "1245":{
-                "district":"5",
-                "name":"Burch, Thomas Granville",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "1245":{
-                "district":"5",
-                "name":"Burch, Thomas Granville",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "1245":{
-                "district":"5",
-                "name":"Burch, Thomas Granville",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "1245":{
-                "district":"5",
-                "name":"Burch, Thomas Granville",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "1245":{
-                "district":"5",
-                "name":"Burch, Thomas Granville",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "8839":{
-                "district":"5",
-                "name":"Stanley, Thomas Bahnson",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "8839":{
-                "district":"5",
-                "name":"Stanley, Thomas Bahnson",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "8839":{
-                "district":"5",
-                "name":"Stanley, Thomas Bahnson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"va"
 },
   "bbox": [
     -81.67764,

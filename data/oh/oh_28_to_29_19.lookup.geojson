@@ -2,27 +2,12 @@
   "id": "oh_28_to_29_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"29",
-    "id":"039028029019",
-    "member":{
-        "28":{
-            "9382":{
-                "district":"19",
-                "name":"Tilden, Daniel Rose",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "9382":{
-                "district":"19",
-                "name":"Tilden, Daniel Rose",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":19,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -81.68845,

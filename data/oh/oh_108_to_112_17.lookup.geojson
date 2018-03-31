@@ -2,48 +2,12 @@
   "id": "oh_108_to_112_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"112",
-    "id":"039108112017",
-    "member":{
-        "108":{
-            "20343":{
-                "district":"17",
-                "name":"Ryan, Tim",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20343":{
-                "district":"17",
-                "name":"Ryan, Tim",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20343":{
-                "district":"17",
-                "name":"Ryan, Tim",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20343":{
-                "district":"17",
-                "name":"Ryan, Tim",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20343":{
-                "district":"17",
-                "name":"Ryan, Tim",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"oh"
 },
   "bbox": [
     -81.57634,

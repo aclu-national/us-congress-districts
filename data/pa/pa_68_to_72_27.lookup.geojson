@@ -2,48 +2,12 @@
   "id": "pa_68_to_72_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"72",
-    "id":"042068072027",
-    "member":{
-        "68":{
-            "9034":{
-                "district":"27",
-                "name":"Strong, Nathan Leroy",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9034":{
-                "district":"27",
-                "name":"Strong, Nathan Leroy",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9034":{
-                "district":"27",
-                "name":"Strong, Nathan Leroy",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9034":{
-                "district":"27",
-                "name":"Strong, Nathan Leroy",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9034":{
-                "district":"27",
-                "name":"Strong, Nathan Leroy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":27,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -79.70044,

@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"82",
-    "id":"042079082012",
-    "member":{
-        "79":{
-            "3105":{
-                "district":"12",
-                "name":"Fenton, Ivor David",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3105":{
-                "district":"12",
-                "name":"Fenton, Ivor David",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3105":{
-                "district":"12",
-                "name":"Fenton, Ivor David",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "3105":{
-                "district":"12",
-                "name":"Fenton, Ivor David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -76.949,

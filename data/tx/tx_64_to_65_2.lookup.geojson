@@ -1,28 +1,13 @@
 {
-  "id": "tx_64_to_65_02",
+  "id": "tx_64_to_65_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"65",
-    "id":"048064065002",
-    "member":{
-        "64":{
-            "2587":{
-                "district":"2",
-                "name":"Dies, Martin",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "2587":{
-                "district":"2",
-                "name":"Dies, Martin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Texas"
+    "district":2,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"tx"
 },
   "bbox": [
     -95.46224,

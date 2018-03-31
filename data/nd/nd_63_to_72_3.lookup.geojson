@@ -1,84 +1,13 @@
 {
-  "id": "nd_63_to_72_03",
+  "id": "nd_63_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"038063072003",
-    "member":{
-        "63":{
-            "6975":{
-                "district":"3",
-                "name":"Norton, Patrick Daniel",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "6975":{
-                "district":"3",
-                "name":"Norton, Patrick Daniel",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "6975":{
-                "district":"3",
-                "name":"Norton, Patrick Daniel",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "8538":{
-                "district":"3",
-                "name":"Sinclair, James Herbert",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "8538":{
-                "district":"3",
-                "name":"Sinclair, James Herbert",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "8538":{
-                "district":"3",
-                "name":"Sinclair, James Herbert",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "8538":{
-                "district":"3",
-                "name":"Sinclair, James Herbert",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "8538":{
-                "district":"3",
-                "name":"Sinclair, James Herbert",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8538":{
-                "district":"3",
-                "name":"Sinclair, James Herbert",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "8538":{
-                "district":"3",
-                "name":"Sinclair, James Herbert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"North Dakota"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nd"
 },
   "bbox": [
     -104.04891,

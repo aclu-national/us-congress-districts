@@ -1,19 +1,13 @@
 {
-  "id": "wa_113_to_115_03",
+  "id": "wa_113_to_115_3",
   "type": "Feature",
   "properties": {
-    "ALAND":23605440743,
-    "AWATER":1212149826,
-    "CD113FP":"03",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5303",
-    "INTPTLAT":"+46.2707510",
-    "INTPTLON":"-122.2621597",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 3",
-    "STATEFP":"53"
+    "district":3,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"wa"
 },
   "bbox": [
     -124.181206,

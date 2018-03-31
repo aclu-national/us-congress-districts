@@ -2,27 +2,12 @@
   "id": "ca_91_to_92_37",
   "type": "Feature",
   "properties": {
-    "district":"37",
-    "endcong":"92",
-    "id":"006091092037",
-    "member":{
-        "91":{
-            "10633":{
-                "district":"37",
-                "name":"Van Deerlin, Lionel",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10633":{
-                "district":"37",
-                "name":"Van Deerlin, Lionel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":37,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -117.17744,

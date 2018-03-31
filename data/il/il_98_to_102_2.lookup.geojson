@@ -1,49 +1,13 @@
 {
-  "id": "il_98_to_102_02",
+  "id": "il_98_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"017098102002",
-    "member":{
-        "100":{
-            "14856":{
-                "district":"2",
-                "name":"Savage, Gus",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14856":{
-                "district":"2",
-                "name":"Savage, Gus",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14856":{
-                "district":"2",
-                "name":"Savage, Gus",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14856":{
-                "district":"2",
-                "name":"Savage, Gus",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14856":{
-                "district":"2",
-                "name":"Savage, Gus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Illinois"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"il"
 },
   "bbox": [
     -87.6838,

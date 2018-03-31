@@ -2,48 +2,12 @@
   "id": "il_48_to_52_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"52",
-    "id":"017048052017",
-    "member":{
-        "48":{
-            "6767":{
-                "district":"17",
-                "name":"Moulton, Samuel Wheeler",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "2843":{
-                "district":"17",
-                "name":"Eden, John Rice",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "5440":{
-                "district":"17",
-                "name":"Lane, Edward",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "5440":{
-                "district":"17",
-                "name":"Lane, Edward",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "5440":{
-                "district":"17",
-                "name":"Lane, Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":17,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -90.15375,

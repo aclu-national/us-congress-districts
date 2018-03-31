@@ -1,49 +1,13 @@
 {
-  "id": "fl_108_to_112_02",
+  "id": "fl_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"012108112002",
-    "member":{
-        "108":{
-            "29713":{
-                "district":"2",
-                "name":"Boyd, Allen",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29713":{
-                "district":"2",
-                "name":"Boyd, Allen",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29713":{
-                "district":"2",
-                "name":"Boyd, Allen",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29713":{
-                "district":"2",
-                "name":"Boyd, Allen",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21114":{
-                "district":"2",
-                "name":"Southerland, Steve",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Florida"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"fl"
 },
   "bbox": [
     -86.47405,

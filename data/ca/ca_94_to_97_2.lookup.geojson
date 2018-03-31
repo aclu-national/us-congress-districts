@@ -1,42 +1,13 @@
 {
-  "id": "ca_94_to_97_02",
+  "id": "ca_94_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"006094097002",
-    "member":{
-        "94":{
-            "10579":{
-                "district":"2",
-                "name":"Clausen, Don H.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "10579":{
-                "district":"2",
-                "name":"Clausen, Don H.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "10579":{
-                "district":"2",
-                "name":"Clausen, Don H.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "10579":{
-                "district":"2",
-                "name":"Clausen, Don H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -124.41501,

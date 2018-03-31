@@ -1,35 +1,13 @@
 {
-  "id": "tx_44_to_46_02",
+  "id": "tx_44_to_46_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"46",
-    "id":"048044046002",
-    "member":{
-        "44":{
-            "2230":{
-                "district":"2",
-                "name":"Culberson, David Browning",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "2230":{
-                "district":"2",
-                "name":"Culberson, David Browning",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "2230":{
-                "district":"2",
-                "name":"Culberson, David Browning",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Texas"
+    "district":2,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"tx"
 },
   "bbox": [
     -96.38501,

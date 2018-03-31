@@ -2,48 +2,12 @@
   "id": "il_58_to_62_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"62",
-    "id":"017058062022",
-    "member":{
-        "58":{
-            "8007":{
-                "district":"22",
-                "name":"Rodenberg, William August",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "8007":{
-                "district":"22",
-                "name":"Rodenberg, William August",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "8007":{
-                "district":"22",
-                "name":"Rodenberg, William August",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "8007":{
-                "district":"22",
-                "name":"Rodenberg, William August",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "8007":{
-                "district":"22",
-                "name":"Rodenberg, William August",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":22,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -90.37408,

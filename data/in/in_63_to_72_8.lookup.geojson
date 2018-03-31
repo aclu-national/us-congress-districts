@@ -1,84 +1,13 @@
 {
-  "id": "in_63_to_72_08",
+  "id": "in_63_to_72_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"72",
-    "id":"018063072008",
-    "member":{
-        "63":{
-            "21":{
-                "district":"8",
-                "name":"Adair, John Alfred McDowell",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "21":{
-                "district":"8",
-                "name":"Adair, John Alfred McDowell",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "9666":{
-                "district":"8",
-                "name":"Vestal, Albert Henry",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "9666":{
-                "district":"8",
-                "name":"Vestal, Albert Henry",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9666":{
-                "district":"8",
-                "name":"Vestal, Albert Henry",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "9666":{
-                "district":"8",
-                "name":"Vestal, Albert Henry",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9666":{
-                "district":"8",
-                "name":"Vestal, Albert Henry",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9666":{
-                "district":"8",
-                "name":"Vestal, Albert Henry",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9666":{
-                "district":"8",
-                "name":"Vestal, Albert Henry",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9666":{
-                "district":"8",
-                "name":"Vestal, Albert Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Indiana"
+    "district":8,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"in"
 },
   "bbox": [
     -85.86355,

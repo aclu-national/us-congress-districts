@@ -1,28 +1,13 @@
 {
-  "id": "oh_50_to_51_08",
+  "id": "oh_50_to_51_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"51",
-    "id":"039050051008",
-    "member":{
-        "50":{
-            "5185":{
-                "district":"8",
-                "name":"Kennedy, Robert Patterson",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "5185":{
-                "district":"8",
-                "name":"Kennedy, Robert Patterson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Ohio"
+    "district":8,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"oh"
 },
   "bbox": [
     -84.05374,

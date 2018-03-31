@@ -1,35 +1,13 @@
 {
-  "id": "ks_53_to_55_05",
+  "id": "ks_53_to_55_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"55",
-    "id":"020053055005",
-    "member":{
-        "53":{
-            "2396":{
-                "district":"5",
-                "name":"Davis, John",
-                "party":"Populist"
-            }
-        },
-        "54":{
-            "1400":{
-                "district":"5",
-                "name":"Calderhead, William Alexander",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "9675":{
-                "district":"5",
-                "name":"Vincent, William Davis",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Kansas"
+    "district":5,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ks"
 },
   "bbox": [
     -97.93334,

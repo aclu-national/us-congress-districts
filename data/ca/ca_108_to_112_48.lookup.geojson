@@ -2,53 +2,12 @@
   "id": "ca_108_to_112_48",
   "type": "Feature",
   "properties": {
-    "district":"48",
-    "endcong":"112",
-    "id":"006108112048",
-    "member":{
-        "108":{
-            "15601":{
-                "district":"48",
-                "name":"Cox, Christopher",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "15601":{
-                "district":"48",
-                "name":"Cox, Christopher",
-                "party":"Republican"
-            },
-            "20539":{
-                "district":"48",
-                "name":"Campbell, John",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20539":{
-                "district":"48",
-                "name":"Campbell, John",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20539":{
-                "district":"48",
-                "name":"Campbell, John",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20539":{
-                "district":"48",
-                "name":"Campbell, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":48,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -117.95692,

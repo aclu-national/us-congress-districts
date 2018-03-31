@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"87",
-    "id":"036083087027",
-    "member":{
-        "83":{
-            "3888":{
-                "district":"27",
-                "name":"Gwinn, Ralph Waldo",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "3888":{
-                "district":"27",
-                "name":"Gwinn, Ralph Waldo",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "3888":{
-                "district":"27",
-                "name":"Gwinn, Ralph Waldo",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "476":{
-                "district":"27",
-                "name":"Barry, Robert Raymond",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "476":{
-                "district":"27",
-                "name":"Barry, Robert Raymond",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -73.9827,

@@ -1,49 +1,13 @@
 {
-  "id": "wi_53_to_57_08",
+  "id": "wi_53_to_57_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"57",
-    "id":"055053057008",
-    "member":{
-        "53":{
-            "449":{
-                "district":"8",
-                "name":"Barnes, Lyman Eddy",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "6547":{
-                "district":"8",
-                "name":"Minor, Edward Sloman",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "6547":{
-                "district":"8",
-                "name":"Minor, Edward Sloman",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "6547":{
-                "district":"8",
-                "name":"Minor, Edward Sloman",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "6547":{
-                "district":"8",
-                "name":"Minor, Edward Sloman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Wisconsin"
+    "district":8,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"wi"
 },
   "bbox": [
     -90.31826,

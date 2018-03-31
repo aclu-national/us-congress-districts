@@ -2,48 +2,12 @@
   "id": "oh_78_to_82_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"82",
-    "id":"039078082014",
-    "member":{
-        "78":{
-            "8091":{
-                "district":"14",
-                "name":"Rowe, Edmund",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4681":{
-                "district":"14",
-                "name":"Huber, Walter B.",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "4681":{
-                "district":"14",
-                "name":"Huber, Walter B.",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "4681":{
-                "district":"14",
-                "name":"Huber, Walter B.",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "310":{
-                "district":"14",
-                "name":"Ayres, William Hanes",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"oh"
 },
   "bbox": [
     -82.34808,

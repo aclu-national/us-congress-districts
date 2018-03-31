@@ -1,28 +1,13 @@
 {
-  "id": "ga_108_to_109_04",
+  "id": "ga_108_to_109_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"109",
-    "id":"013108109004",
-    "member":{
-        "108":{
-            "20318":{
-                "district":"4",
-                "name":"Majette, Denise L.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29344":{
-                "district":"4",
-                "name":"McKinney, Cynthia A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Georgia"
+    "district":4,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ga"
 },
   "bbox": [
     -84.34982,

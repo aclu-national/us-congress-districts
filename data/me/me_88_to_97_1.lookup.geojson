@@ -1,84 +1,13 @@
 {
-  "id": "me_88_to_97_01",
+  "id": "me_88_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"023088097001",
-    "member":{
-        "88":{
-            "10565":{
-                "district":"1",
-                "name":"Tupper, Stanley R.",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10565":{
-                "district":"1",
-                "name":"Tupper, Stanley R.",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "11027":{
-                "district":"1",
-                "name":"Kyros, Peter N.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "11027":{
-                "district":"1",
-                "name":"Kyros, Peter N.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "11027":{
-                "district":"1",
-                "name":"Kyros, Peter N.",
-                "party":"Democrat"
-            }
-        },
-        "93":{
-            "11027":{
-                "district":"1",
-                "name":"Kyros, Peter N.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14218":{
-                "district":"1",
-                "name":"Emery, David F.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14218":{
-                "district":"1",
-                "name":"Emery, David F.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14218":{
-                "district":"1",
-                "name":"Emery, David F.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14218":{
-                "district":"1",
-                "name":"Emery, David F.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Maine"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"me"
 },
   "bbox": [
     -70.98907,

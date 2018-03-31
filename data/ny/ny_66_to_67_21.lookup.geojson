@@ -2,27 +2,12 @@
   "id": "ny_66_to_67_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"67",
-    "id":"036066067021",
-    "member":{
-        "66":{
-            "2664":{
-                "district":"21",
-                "name":"Donovan, Jerome Francis",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "210":{
-                "district":"21",
-                "name":"Ansorge, Martin Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -73.96419,

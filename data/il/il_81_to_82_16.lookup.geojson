@@ -2,27 +2,12 @@
   "id": "il_81_to_82_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"82",
-    "id":"017081082016",
-    "member":{
-        "81":{
-            "121":{
-                "district":"16",
-                "name":"Allen, Leo Elwood",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "121":{
-                "district":"16",
-                "name":"Allen, Leo Elwood",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"81",
-    "statename":"Illinois"
+    "district":16,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1949-01-03",
+    "start_session":81,
+    "state":"il"
 },
   "bbox": [
     -90.65653,

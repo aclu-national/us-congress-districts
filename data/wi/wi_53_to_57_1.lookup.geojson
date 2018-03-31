@@ -1,49 +1,13 @@
 {
-  "id": "wi_53_to_57_01",
+  "id": "wi_53_to_57_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"57",
-    "id":"055053057001",
-    "member":{
-        "53":{
-            "2047":{
-                "district":"1",
-                "name":"Cooper, Henry Allen",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "2047":{
-                "district":"1",
-                "name":"Cooper, Henry Allen",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2047":{
-                "district":"1",
-                "name":"Cooper, Henry Allen",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2047":{
-                "district":"1",
-                "name":"Cooper, Henry Allen",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2047":{
-                "district":"1",
-                "name":"Cooper, Henry Allen",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Wisconsin"
+    "district":1,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"wi"
 },
   "bbox": [
     -90.427,

@@ -1,21 +1,13 @@
 {
-  "id": "fl_90_to_90_02",
+  "id": "fl_90_to_90_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"90",
-    "id":"012090090002",
-    "member":{
-        "90":{
-            "10587":{
-                "district":"2",
-                "name":"Fuqua, Don",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Florida"
+    "district":2,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"fl"
 },
   "bbox": [
     -85.6003,

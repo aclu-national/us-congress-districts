@@ -1,75 +1,13 @@
 {
-  "id": "va_53_to_60_05",
+  "id": "va_53_to_60_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"60",
-    "id":"051053060005",
-    "member":{
-        "53":{
-            "9106":{
-                "district":"5",
-                "name":"Swanson, Claude Augustus",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9106":{
-                "district":"5",
-                "name":"Swanson, Claude Augustus",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "9106":{
-                "district":"5",
-                "name":"Swanson, Claude Augustus",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "9106":{
-                "district":"5",
-                "name":"Swanson, Claude Augustus",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "9106":{
-                "district":"5",
-                "name":"Swanson, Claude Augustus",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "9106":{
-                "district":"5",
-                "name":"Swanson, Claude Augustus",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "8227":{
-                "district":"5",
-                "name":"Saunders, Edward Watts",
-                "party":"Democrat"
-            },
-            "9106":{
-                "district":"5",
-                "name":"Swanson, Claude Augustus",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "8227":{
-                "district":"5",
-                "name":"Saunders, Edward Watts",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"va"
 },
   "bbox": [
     -81.67764,

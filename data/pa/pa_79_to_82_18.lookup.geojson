@@ -2,41 +2,12 @@
   "id": "pa_79_to_82_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"82",
-    "id":"042079082018",
-    "member":{
-        "79":{
-            "5377":{
-                "district":"18",
-                "name":"Kunkel, John Crain",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "5377":{
-                "district":"18",
-                "name":"Kunkel, John Crain",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "5377":{
-                "district":"18",
-                "name":"Kunkel, John Crain",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "6795":{
-                "district":"18",
-                "name":"Mumma, Walter Mann",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -77.62724,

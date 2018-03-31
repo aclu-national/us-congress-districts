@@ -1,84 +1,13 @@
 {
-  "id": "ky_63_to_72_08",
+  "id": "ky_63_to_72_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"72",
-    "id":"021063072008",
-    "member":{
-        "63":{
-            "4291":{
-                "district":"8",
-                "name":"Helm, Harvey",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4291":{
-                "district":"8",
-                "name":"Helm, Harvey",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "4291":{
-                "district":"8",
-                "name":"Helm, Harvey",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "9136":{
-                "district":"8",
-                "name":"Swope, King",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3577":{
-                "district":"8",
-                "name":"Gilbert, Ralph Waldo Emerson",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "3577":{
-                "district":"8",
-                "name":"Gilbert, Ralph Waldo Emerson",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3577":{
-                "district":"8",
-                "name":"Gilbert, Ralph Waldo Emerson",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "3577":{
-                "district":"8",
-                "name":"Gilbert, Ralph Waldo Emerson",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "9751":{
-                "district":"8",
-                "name":"Walker, Lewis Leavell",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "3577":{
-                "district":"8",
-                "name":"Gilbert, Ralph Waldo Emerson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Kentucky"
+    "district":8,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ky"
 },
   "bbox": [
     -85.52682,

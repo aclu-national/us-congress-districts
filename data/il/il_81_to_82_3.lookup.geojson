@@ -1,28 +1,13 @@
 {
-  "id": "il_81_to_82_03",
+  "id": "il_81_to_82_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"82",
-    "id":"017081082003",
-    "member":{
-        "81":{
-            "5684":{
-                "district":"3",
-                "name":"Linehan, Neil Joseph",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1324":{
-                "district":"3",
-                "name":"Busbey, Fred Ernst",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"81",
-    "statename":"Illinois"
+    "district":3,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1949-01-03",
+    "start_session":81,
+    "state":"il"
 },
   "bbox": [
     -87.74207,

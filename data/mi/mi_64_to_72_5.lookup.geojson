@@ -1,77 +1,13 @@
 {
-  "id": "mi_64_to_72_05",
+  "id": "mi_64_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"026064072005",
-    "member":{
-        "64":{
-            "5972":{
-                "district":"5",
-                "name":"Mapes, Carl Edgar",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "5972":{
-                "district":"5",
-                "name":"Mapes, Carl Edgar",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "5972":{
-                "district":"5",
-                "name":"Mapes, Carl Edgar",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5972":{
-                "district":"5",
-                "name":"Mapes, Carl Edgar",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "5972":{
-                "district":"5",
-                "name":"Mapes, Carl Edgar",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "5972":{
-                "district":"5",
-                "name":"Mapes, Carl Edgar",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "5972":{
-                "district":"5",
-                "name":"Mapes, Carl Edgar",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "5972":{
-                "district":"5",
-                "name":"Mapes, Carl Edgar",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5972":{
-                "district":"5",
-                "name":"Mapes, Carl Edgar",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Michigan"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mi"
 },
   "bbox": [
     -86.27186,

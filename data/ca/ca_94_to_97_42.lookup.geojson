@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_42",
   "type": "Feature",
   "properties": {
-    "district":"42",
-    "endcong":"97",
-    "id":"006094097042",
-    "member":{
-        "94":{
-            "10633":{
-                "district":"42",
-                "name":"Van Deerlin, Lionel",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10633":{
-                "district":"42",
-                "name":"Van Deerlin, Lionel",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10633":{
-                "district":"42",
-                "name":"Van Deerlin, Lionel",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14835":{
-                "district":"42",
-                "name":"Hunter, Duncan L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":42,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -117.22717,

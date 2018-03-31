@@ -2,25 +2,12 @@
   "id": "pa_62_to_62_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"62",
-    "id":"042062062014",
-    "member":{
-        "62":{
-            "5289":{
-                "district":"14",
-                "name":"Kipp, George Washington",
-                "party":"Democrat"
-            },
-            "55":{
-                "district":"14",
-                "name":"Ainey, William David Blake",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"62",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1911-04-04",
+    "start_session":62,
+    "state":"pa"
 },
   "bbox": [
     -76.92708,

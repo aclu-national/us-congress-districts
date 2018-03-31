@@ -2,25 +2,12 @@
   "id": "ny_33_to_33_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"33",
-    "id":"036033033022",
-    "member":{
-        "33":{
-            "3685":{
-                "district":"22",
-                "name":"Goodwin, Henry Charles",
-                "party":"Whig"
-            },
-            "8625":{
-                "district":"22",
-                "name":"Smith, Gerrit",
-                "party":"Free Soil"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_38",
   "type": "Feature",
   "properties": {
-    "district":"38",
-    "endcong":"87",
-    "id":"036083087038",
-    "member":{
-        "83":{
-            "5116":{
-                "district":"38",
-                "name":"Keating, Kenneth Barnard",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "5116":{
-                "district":"38",
-                "name":"Keating, Kenneth Barnard",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "5116":{
-                "district":"38",
-                "name":"Keating, Kenneth Barnard",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "9920":{
-                "district":"38",
-                "name":"Weis, Jessica McCullough",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "9920":{
-                "district":"38",
-                "name":"Weis, Jessica McCullough",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":38,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -77.76023,

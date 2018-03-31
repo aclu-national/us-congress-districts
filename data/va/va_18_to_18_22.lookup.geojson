@@ -2,20 +2,12 @@
   "id": "va_18_to_18_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"18",
-    "id":"051018018022",
-    "member":{
-        "18":{
-            "8715":{
-                "district":"22",
-                "name":"Smyth, Alexander",
-                "party":"Crawford Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Virginia"
+    "district":22,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"va"
 },
   "bbox": [
     -83.67541,

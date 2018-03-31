@@ -1,42 +1,13 @@
 {
-  "id": "mi_38_to_41_05",
+  "id": "mi_38_to_41_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"41",
-    "id":"026038041005",
-    "member":{
-        "38":{
-            "380":{
-                "district":"5",
-                "name":"Baldwin, Augustus Carpenter",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "9485":{
-                "district":"5",
-                "name":"Trowbridge, Rowland Ebene",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "9485":{
-                "district":"5",
-                "name":"Trowbridge, Rowland Ebene",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "1981":{
-                "district":"5",
-                "name":"Conger, Omar Dwight",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Michigan"
+    "district":5,
+    "end_date":"1871-03-03",
+    "end_session":41,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"mi"
 },
   "bbox": [
     -84.15816,

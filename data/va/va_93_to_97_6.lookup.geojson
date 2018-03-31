@@ -1,49 +1,13 @@
 {
-  "id": "va_93_to_97_06",
+  "id": "va_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"051093097006",
-    "member":{
-        "93":{
-            "13055":{
-                "district":"6",
-                "name":"Butler, M. Caldwell",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "13055":{
-                "district":"6",
-                "name":"Butler, M. Caldwell",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "13055":{
-                "district":"6",
-                "name":"Butler, M. Caldwell",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "13055":{
-                "district":"6",
-                "name":"Butler, M. Caldwell",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "13055":{
-                "district":"6",
-                "name":"Butler, M. Caldwell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"va"
 },
   "bbox": [
     -80.29614,

@@ -1,84 +1,13 @@
 {
-  "id": "ky_63_to_72_01",
+  "id": "ky_63_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"021063072001",
-    "member":{
-        "63":{
-            "437":{
-                "district":"1",
-                "name":"Barkley, Alben William",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "437":{
-                "district":"1",
-                "name":"Barkley, Alben William",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "437":{
-                "district":"1",
-                "name":"Barkley, Alben William",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "437":{
-                "district":"1",
-                "name":"Barkley, Alben William",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "437":{
-                "district":"1",
-                "name":"Barkley, Alben William",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "437":{
-                "district":"1",
-                "name":"Barkley, Alben William",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "437":{
-                "district":"1",
-                "name":"Barkley, Alben William",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "3810":{
-                "district":"1",
-                "name":"Gregory, William Voris",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "3810":{
-                "district":"1",
-                "name":"Gregory, William Voris",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "3810":{
-                "district":"1",
-                "name":"Gregory, William Voris",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Kentucky"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ky"
 },
   "bbox": [
     -89.57151,

@@ -1,33 +1,13 @@
 {
-  "id": "sc_54_to_55_01",
+  "id": "sc_54_to_55_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"55",
-    "id":"045054055001",
-    "member":{
-        "54":{
-            "2918":{
-                "district":"1",
-                "name":"Elliott, William",
-                "party":"Democrat"
-            },
-            "6818":{
-                "district":"1",
-                "name":"Murray, George Washington",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2918":{
-                "district":"1",
-                "name":"Elliott, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"54",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1895-12-02",
+    "start_session":54,
+    "state":"sc"
 },
   "bbox": [
     -81.15215,

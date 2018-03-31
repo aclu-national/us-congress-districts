@@ -1,21 +1,13 @@
 {
-  "id": "fl_90_to_90_01",
+  "id": "fl_90_to_90_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"90",
-    "id":"012090090001",
-    "member":{
-        "90":{
-            "8507":{
-                "district":"1",
-                "name":"Sikes, Robert Lee Fulton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Florida"
+    "district":1,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"fl"
 },
   "bbox": [
     -87.63494,

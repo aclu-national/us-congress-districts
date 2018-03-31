@@ -2,34 +2,12 @@
   "id": "ma_70_to_72_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"72",
-    "id":"025070072011",
-    "member":{
-        "70":{
-            "9395":{
-                "district":"11",
-                "name":"Tinkham, George Holden",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9395":{
-                "district":"11",
-                "name":"Tinkham, George Holden",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9395":{
-                "district":"11",
-                "name":"Tinkham, George Holden",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ma"
 },
   "bbox": [
     -71.1912,

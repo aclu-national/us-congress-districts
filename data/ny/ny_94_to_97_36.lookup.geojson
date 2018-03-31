@@ -2,41 +2,12 @@
   "id": "ny_94_to_97_36",
   "type": "Feature",
   "properties": {
-    "district":"36",
-    "endcong":"97",
-    "id":"036094097036",
-    "member":{
-        "94":{
-            "14248":{
-                "district":"36",
-                "name":"Lafalce, John",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14248":{
-                "district":"36",
-                "name":"Lafalce, John",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14248":{
-                "district":"36",
-                "name":"Lafalce, John",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14248":{
-                "district":"36",
-                "name":"Lafalce, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":36,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

@@ -2,18 +2,12 @@
   "id": "ny_113_to_115_17",
   "type": "Feature",
   "properties": {
-    "ALAND":991035727,
-    "AWATER":149811741,
-    "CD113FP":"17",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3617",
-    "INTPTLAT":"+41.1595319",
-    "INTPTLON":"-073.9193555",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 17",
-    "STATEFP":"36"
+    "district":17,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ny"
 },
   "bbox": [
     -74.234473,

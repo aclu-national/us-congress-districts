@@ -1,28 +1,13 @@
 {
-  "id": "ms_43_to_44_06",
+  "id": "ms_43_to_44_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"44",
-    "id":"028043044006",
-    "member":{
-        "43":{
-            "5855":{
-                "district":"6",
-                "name":"Lynch, John Roy",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "5855":{
-                "district":"6",
-                "name":"Lynch, John Roy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Mississippi"
+    "district":6,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ms"
 },
   "bbox": [
     -91.65501,

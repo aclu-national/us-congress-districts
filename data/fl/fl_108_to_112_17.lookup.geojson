@@ -2,48 +2,12 @@
   "id": "fl_108_to_112_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"112",
-    "id":"012108112017",
-    "member":{
-        "108":{
-            "20358":{
-                "district":"17",
-                "name":"Meek, Kendrick B.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20358":{
-                "district":"17",
-                "name":"Meek, Kendrick B.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20358":{
-                "district":"17",
-                "name":"Meek, Kendrick B.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20358":{
-                "district":"17",
-                "name":"Meek, Kendrick B.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21118":{
-                "district":"17",
-                "name":"Wilson, Frederica",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Florida"
+    "district":17,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"fl"
 },
   "bbox": [
     -80.31177,

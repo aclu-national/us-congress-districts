@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"87",
-    "id":"036083087013",
-    "member":{
-        "83":{
-            "6792":{
-                "district":"13",
-                "name":"Multer, Abraham Jacob",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "6792":{
-                "district":"13",
-                "name":"Multer, Abraham Jacob",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "6792":{
-                "district":"13",
-                "name":"Multer, Abraham Jacob",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "6792":{
-                "district":"13",
-                "name":"Multer, Abraham Jacob",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "6792":{
-                "district":"13",
-                "name":"Multer, Abraham Jacob",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -74.01981,

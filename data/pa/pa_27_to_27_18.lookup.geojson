@@ -2,30 +2,12 @@
   "id": "pa_27_to_27_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"27",
-    "id":"042027027018",
-    "member":{
-        "27":{
-            "7035":{
-                "district":"18",
-                "name":"Ogle, Charles",
-                "party":"Whig"
-            },
-            "742":{
-                "district":"18",
-                "name":"Black, Henry",
-                "party":"Whig"
-            },
-            "8129":{
-                "district":"18",
-                "name":"Russell, James McPherson",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"27",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1841-03-04",
+    "start_session":27,
+    "state":"pa"
 },
   "bbox": [
     -79.41756,

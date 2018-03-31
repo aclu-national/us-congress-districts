@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"62",
-    "id":"036058062021",
-    "member":{
-        "58":{
-            "5219":{
-                "district":"21",
-                "name":"Ketcham, John Henry",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5219":{
-                "district":"21",
-                "name":"Ketcham, John Henry",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "6354":{
-                "district":"21",
-                "name":"McMillan, Samuel",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3161":{
-                "district":"21",
-                "name":"Fish, Hamilton",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "1988":{
-                "district":"21",
-                "name":"Connell, Richard Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -74.53731,

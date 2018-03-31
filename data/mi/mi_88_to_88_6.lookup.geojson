@@ -1,21 +1,13 @@
 {
-  "id": "mi_88_to_88_06",
+  "id": "mi_88_to_88_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"88",
-    "id":"026088088006",
-    "member":{
-        "88":{
-            "1620":{
-                "district":"6",
-                "name":"Chamberlain, Charles Ernest",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Michigan"
+    "district":6,
+    "end_date":"1964-10-03",
+    "end_session":88,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mi"
 },
   "bbox": [
     -84.60329,

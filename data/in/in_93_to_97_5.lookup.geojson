@@ -1,49 +1,13 @@
 {
-  "id": "in_93_to_97_05",
+  "id": "in_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"018093097005",
-    "member":{
-        "93":{
-            "13018":{
-                "district":"5",
-                "name":"Hillis, Elwood",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "13018":{
-                "district":"5",
-                "name":"Hillis, Elwood",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "13018":{
-                "district":"5",
-                "name":"Hillis, Elwood",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "13018":{
-                "district":"5",
-                "name":"Hillis, Elwood",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "13018":{
-                "district":"5",
-                "name":"Hillis, Elwood",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Indiana"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"in"
 },
   "bbox": [
     -86.52522,

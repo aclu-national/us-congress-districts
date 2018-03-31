@@ -1,35 +1,13 @@
 {
-  "id": "ms_30_to_32_01",
+  "id": "ms_30_to_32_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"32",
-    "id":"028030032001",
-    "member":{
-        "30":{
-            "9325":{
-                "district":"1",
-                "name":"Thompson, Jacob",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "9325":{
-                "district":"1",
-                "name":"Thompson, Jacob",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "6840":{
-                "district":"1",
-                "name":"Nabers, Benjamin",
-                "party":"Union"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Mississippi"
+    "district":1,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"ms"
 },
   "bbox": [
     -90.58854,

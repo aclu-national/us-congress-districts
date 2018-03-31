@@ -1,49 +1,13 @@
 {
-  "id": "oh_58_to_62_08",
+  "id": "oh_58_to_62_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"62",
-    "id":"039058062008",
-    "member":{
-        "58":{
-            "9839":{
-                "district":"8",
-                "name":"Warnock, William Robert",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "1926":{
-                "district":"8",
-                "name":"Cole, Ralph Dayton",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "1926":{
-                "district":"8",
-                "name":"Cole, Ralph Dayton",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "1926":{
-                "district":"8",
-                "name":"Cole, Ralph Dayton",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "10203":{
-                "district":"8",
-                "name":"Willis, Frank Bartlett",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Ohio"
+    "district":8,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"oh"
 },
   "bbox": [
     -84.03632,

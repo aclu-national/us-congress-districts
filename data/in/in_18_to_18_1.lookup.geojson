@@ -1,26 +1,13 @@
 {
-  "id": "in_18_to_18_01",
+  "id": "in_18_to_18_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"18",
-    "id":"018018018001",
-    "member":{
-        "18":{
-            "1423":{
-                "district":"1",
-                "name":"Call, Jacob",
-                "party":"Jackson Republican"
-            },
-            "7626":{
-                "district":"1",
-                "name":"Prince, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

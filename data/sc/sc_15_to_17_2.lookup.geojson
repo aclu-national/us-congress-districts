@@ -1,40 +1,13 @@
 {
-  "id": "sc_15_to_17_02",
+  "id": "sc_15_to_17_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"17",
-    "id":"045015017002",
-    "member":{
-        "15":{
-            "5815":{
-                "district":"2",
-                "name":"Lowndes, William",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "5815":{
-                "district":"2",
-                "name":"Lowndes, William",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "3991":{
-                "district":"2",
-                "name":"Hamilton, James Jr.",
-                "party":"Republican"
-            },
-            "5815":{
-                "district":"2",
-                "name":"Lowndes, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"South Carolina"
+    "district":2,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"sc"
 },
   "bbox": [
     -81.43208,

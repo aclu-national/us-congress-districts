@@ -2,27 +2,12 @@
   "id": "va_30_to_31_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"31",
-    "id":"051030031013",
-    "member":{
-        "30":{
-            "3406":{
-                "district":"13",
-                "name":"Fulton, Andrew Steele",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "6362":{
-                "district":"13",
-                "name":"McMullen, Fayette",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Virginia"
+    "district":13,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"va"
 },
   "bbox": [
     -83.67541,

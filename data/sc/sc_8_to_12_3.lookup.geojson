@@ -1,49 +1,13 @@
 {
-  "id": "sc_8_to_12_03",
+  "id": "sc_8_to_12_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"12",
-    "id":"045008012003",
-    "member":{
-        "10":{
-            "10140":{
-                "district":"3",
-                "name":"Williams, David Rogerson",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "10297":{
-                "district":"3",
-                "name":"Witherspoon, Robert",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "10140":{
-                "district":"3",
-                "name":"Williams, David Rogerson",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "4694":{
-                "district":"3",
-                "name":"Huger, Benjamin",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "10140":{
-                "district":"3",
-                "name":"Williams, David Rogerson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"sc"
 },
   "bbox": [
     -80.28879,

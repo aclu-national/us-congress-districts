@@ -1,21 +1,13 @@
 {
-  "id": "fl_78_to_78_02",
+  "id": "fl_78_to_78_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"78",
-    "id":"012078078002",
-    "member":{
-        "78":{
-            "7611":{
-                "district":"2",
-                "name":"Price, Emory Hilliard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Florida"
+    "district":2,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"fl"
 },
   "bbox": [
     -83.99221,

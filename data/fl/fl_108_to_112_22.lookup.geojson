@@ -2,48 +2,12 @@
   "id": "fl_108_to_112_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"112",
-    "id":"012108112022",
-    "member":{
-        "108":{
-            "14860":{
-                "district":"22",
-                "name":"Shaw, E. Clay, Jr.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "14860":{
-                "district":"22",
-                "name":"Shaw, E. Clay, Jr.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20711":{
-                "district":"22",
-                "name":"Klein, Ron",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20711":{
-                "district":"22",
-                "name":"Klein, Ron",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21119":{
-                "district":"22",
-                "name":"West, Allen",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Florida"
+    "district":22,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"fl"
 },
   "bbox": [
     -80.30557,

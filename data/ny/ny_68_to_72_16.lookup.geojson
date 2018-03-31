@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"72",
-    "id":"036068072016",
-    "member":{
-        "68":{
-            "7018":{
-                "district":"16",
-                "name":"O'Connor, John J.",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "7018":{
-                "district":"16",
-                "name":"O'Connor, John J.",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "7018":{
-                "district":"16",
-                "name":"O'Connor, John J.",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7018":{
-                "district":"16",
-                "name":"O'Connor, John J.",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "7018":{
-                "district":"16",
-                "name":"O'Connor, John J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -73.9904,

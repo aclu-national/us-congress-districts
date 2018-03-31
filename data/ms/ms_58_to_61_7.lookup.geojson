@@ -1,42 +1,13 @@
 {
-  "id": "ms_58_to_61_07",
+  "id": "ms_58_to_61_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"61",
-    "id":"028058061007",
-    "member":{
-        "58":{
-            "6321":{
-                "district":"7",
-                "name":"McLain, Frank Alexander",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "6321":{
-                "district":"7",
-                "name":"McLain, Frank Alexander",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "6321":{
-                "district":"7",
-                "name":"McLain, Frank Alexander",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "2584":{
-                "district":"7",
-                "name":"Dickson, William Alexander",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Mississippi"
+    "district":7,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ms"
 },
   "bbox": [
     -91.65501,

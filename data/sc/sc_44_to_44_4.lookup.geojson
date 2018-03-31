@@ -1,21 +1,13 @@
 {
-  "id": "sc_44_to_44_04",
+  "id": "sc_44_to_44_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"44",
-    "id":"045044044004",
-    "member":{
-        "44":{
-            "9760":{
-                "district":"4",
-                "name":"Wallace, Alexander Stuart",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"South Carolina"
+    "district":4,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"sc"
 },
   "bbox": [
     -82.76446,

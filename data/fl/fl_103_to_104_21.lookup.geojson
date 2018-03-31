@@ -2,27 +2,12 @@
   "id": "fl_103_to_104_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"104",
-    "id":"012103104021",
-    "member":{
-        "103":{
-            "29336":{
-                "district":"21",
-                "name":"Diaz-Balart, Lincoln",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29336":{
-                "district":"21",
-                "name":"Diaz-Balart, Lincoln",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Florida"
+    "district":21,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"fl"
 },
   "bbox": [
     -80.5117,

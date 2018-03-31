@@ -1,49 +1,13 @@
 {
-  "id": "nj_38_to_42_01",
+  "id": "nj_38_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"034038042001",
-    "member":{
-        "38":{
-            "8856":{
-                "district":"1",
-                "name":"Starr, John Farson",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "8856":{
-                "district":"1",
-                "name":"Starr, John Farson",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "6656":{
-                "district":"1",
-                "name":"Moore, William",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "6656":{
-                "district":"1",
-                "name":"Moore, William",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "4258":{
-                "district":"1",
-                "name":"Hazelton, John Wright",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New Jersey"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"nj"
 },
   "bbox": [
     -75.55979,

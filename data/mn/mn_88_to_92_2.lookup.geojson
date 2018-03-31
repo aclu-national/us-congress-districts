@@ -1,49 +1,13 @@
 {
-  "id": "mn_88_to_92_02",
+  "id": "mn_88_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"027088092002",
-    "member":{
-        "88":{
-            "6860":{
-                "district":"2",
-                "name":"Nelsen, Ancher",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "6860":{
-                "district":"2",
-                "name":"Nelsen, Ancher",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "6860":{
-                "district":"2",
-                "name":"Nelsen, Ancher",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "6860":{
-                "district":"2",
-                "name":"Nelsen, Ancher",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "6860":{
-                "district":"2",
-                "name":"Nelsen, Ancher",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Minnesota"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mn"
 },
   "bbox": [
     -96.45351,

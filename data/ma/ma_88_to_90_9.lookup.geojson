@@ -1,35 +1,13 @@
 {
-  "id": "ma_88_to_90_09",
+  "id": "ma_88_to_90_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"90",
-    "id":"025088090009",
-    "member":{
-        "88":{
-            "6177":{
-                "district":"9",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "6177":{
-                "district":"9",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "6177":{
-                "district":"9",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Massachusetts"
+    "district":9,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ma"
 },
   "bbox": [
     -71.1912,

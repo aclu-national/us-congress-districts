@@ -1,49 +1,13 @@
 {
-  "id": "in_58_to_62_08",
+  "id": "in_58_to_62_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"62",
-    "id":"018058062008",
-    "member":{
-        "58":{
-            "2192":{
-                "district":"8",
-                "name":"Cromer, George Washington",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2192":{
-                "district":"8",
-                "name":"Cromer, George Washington",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "21":{
-                "district":"8",
-                "name":"Adair, John Alfred McDowell",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "21":{
-                "district":"8",
-                "name":"Adair, John Alfred McDowell",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "21":{
-                "district":"8",
-                "name":"Adair, John Alfred McDowell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Indiana"
+    "district":8,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"in"
 },
   "bbox": [
     -85.86355,

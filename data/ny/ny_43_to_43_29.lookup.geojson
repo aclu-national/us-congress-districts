@@ -2,20 +2,12 @@
   "id": "ny_43_to_43_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"43",
-    "id":"036043043029",
-    "member":{
-        "43":{
-            "1792":{
-                "district":"29",
-                "name":"Clarke, Freeman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ny"
 },
   "bbox": [
     -78.46648,

@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_37",
   "type": "Feature",
   "properties": {
-    "district":"37",
-    "endcong":"62",
-    "id":"036058062037",
-    "member":{
-        "58":{
-            "9691":{
-                "district":"37",
-                "name":"Vreeland, Edward Butterfield",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "9691":{
-                "district":"37",
-                "name":"Vreeland, Edward Butterfield",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "9691":{
-                "district":"37",
-                "name":"Vreeland, Edward Butterfield",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "9691":{
-                "district":"37",
-                "name":"Vreeland, Edward Butterfield",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "9691":{
-                "district":"37",
-                "name":"Vreeland, Edward Butterfield",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":37,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

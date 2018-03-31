@@ -1,28 +1,13 @@
 {
-  "id": "wv_91_to_92_04",
+  "id": "wv_91_to_92_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"92",
-    "id":"054091092004",
-    "member":{
-        "91":{
-            "4276":{
-                "district":"4",
-                "name":"Hechler, Kenneth",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "4276":{
-                "district":"4",
-                "name":"Hechler, Kenneth",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"West Virginia"
+    "district":4,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"wv"
 },
   "bbox": [
     -82.64474,

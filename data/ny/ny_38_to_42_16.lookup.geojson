@@ -2,53 +2,12 @@
   "id": "ny_38_to_42_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"42",
-    "id":"036038042016",
-    "member":{
-        "38":{
-            "5144":{
-                "district":"16",
-                "name":"Kellogg, Orlando",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "3925":{
-                "district":"16",
-                "name":"Hale, Robert Safford",
-                "party":"Republican"
-            },
-            "5144":{
-                "district":"16",
-                "name":"Kellogg, Orlando",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "3121":{
-                "district":"16",
-                "name":"Ferriss, Orange",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "3121":{
-                "district":"16",
-                "name":"Ferriss, Orange",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "8029":{
-                "district":"16",
-                "name":"Rogers, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -74.28187,

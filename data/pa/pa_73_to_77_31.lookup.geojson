@@ -2,48 +2,12 @@
   "id": "pa_73_to_77_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"77",
-    "id":"042073077031",
-    "member":{
-        "73":{
-            "5154":{
-                "district":"31",
-                "name":"Kelly, Melville Clyde",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "7676":{
-                "district":"31",
-                "name":"Quinn, James Leland",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7676":{
-                "district":"31",
-                "name":"Quinn, James Leland",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "6228":{
-                "district":"31",
-                "name":"McDowell, John Ralph",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "9921":{
-                "district":"31",
-                "name":"Weiss, Samuel Arthur",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Pennsylvania"
+    "district":31,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"pa"
 },
   "bbox": [
     -79.97094,

@@ -1,35 +1,13 @@
 {
-  "id": "ny_103_to_105_07",
+  "id": "ny_103_to_105_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"105",
-    "id":"036103105007",
-    "member":{
-        "103":{
-            "15107":{
-                "district":"7",
-                "name":"Manton, Thomas J.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "15107":{
-                "district":"7",
-                "name":"Manton, Thomas J.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "15107":{
-                "district":"7",
-                "name":"Manton, Thomas J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -73.96291,

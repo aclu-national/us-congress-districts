@@ -2,48 +2,12 @@
   "id": "il_93_to_97_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"97",
-    "id":"017093097023",
-    "member":{
-        "93":{
-            "7610":{
-                "district":"23",
-                "name":"Price, Charles Melvin",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "7610":{
-                "district":"23",
-                "name":"Price, Charles Melvin",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "7610":{
-                "district":"23",
-                "name":"Price, Charles Melvin",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "7610":{
-                "district":"23",
-                "name":"Price, Charles Melvin",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "7610":{
-                "district":"23",
-                "name":"Price, Charles Melvin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Illinois"
+    "district":23,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"il"
 },
   "bbox": [
     -90.26381,

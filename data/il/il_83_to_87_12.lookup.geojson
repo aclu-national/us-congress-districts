@@ -2,48 +2,12 @@
   "id": "il_83_to_87_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"87",
-    "id":"017083087012",
-    "member":{
-        "83":{
-            "5020":{
-                "district":"12",
-                "name":"Jonas, Edgar Allan",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "939":{
-                "district":"12",
-                "name":"Boyle, Charles Augustus",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "939":{
-                "district":"12",
-                "name":"Boyle, Charles Augustus",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "939":{
-                "district":"12",
-                "name":"Boyle, Charles Augustus",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10518":{
-                "district":"12",
-                "name":"Finnegan, Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":12,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -87.74832,

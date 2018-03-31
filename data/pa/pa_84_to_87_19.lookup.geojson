@@ -2,41 +2,12 @@
   "id": "pa_84_to_87_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"87",
-    "id":"042084087019",
-    "member":{
-        "84":{
-            "7673":{
-                "district":"19",
-                "name":"Quigley, James Michael",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "8857":{
-                "district":"19",
-                "name":"Stauffer, S. Walter",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "7673":{
-                "district":"19",
-                "name":"Quigley, James Michael",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10521":{
-                "district":"19",
-                "name":"Goodling, George A.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -77.62724,

@@ -2,32 +2,12 @@
   "id": "ny_66_to_67_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"67",
-    "id":"036066067014",
-    "member":{
-        "66":{
-            "5406":{
-                "district":"14",
-                "name":"La Guardia, Fiorello Henry",
-                "party":"Republican"
-            },
-            "7352":{
-                "district":"14",
-                "name":"Perlman, Nathan David",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "7352":{
-                "district":"14",
-                "name":"Perlman, Nathan David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -74.01375,

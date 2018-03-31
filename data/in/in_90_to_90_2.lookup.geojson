@@ -1,21 +1,13 @@
 {
-  "id": "in_90_to_90_02",
+  "id": "in_90_to_90_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"90",
-    "id":"018090090002",
-    "member":{
-        "90":{
-            "3963":{
-                "district":"2",
-                "name":"Halleck, Charles Abraham",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Indiana"
+    "district":2,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"in"
 },
   "bbox": [
     -87.52677,

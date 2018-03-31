@@ -2,48 +2,12 @@
   "id": "oh_58_to_62_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"62",
-    "id":"039058062017",
-    "member":{
-        "58":{
-            "1588":{
-                "district":"17",
-                "name":"Cassingham, John Wilson",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "8714":{
-                "district":"17",
-                "name":"Smyser, Martin Luther",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "258":{
-                "district":"17",
-                "name":"Ashbrook, William Albert",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "258":{
-                "district":"17",
-                "name":"Ashbrook, William Albert",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "258":{
-                "district":"17",
-                "name":"Ashbrook, William Albert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"oh"
 },
   "bbox": [
     -82.78249,

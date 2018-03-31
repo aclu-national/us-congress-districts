@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"32",
-    "id":"036028032010",
-    "member":{
-        "28":{
-            "8130":{
-                "district":"10",
-                "name":"Russell, Jeremiah",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "3699":{
-                "district":"10",
-                "name":"Gordon, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "8459":{
-                "district":"10",
-                "name":"Sherrill, Eliakim",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "3722":{
-                "district":"10",
-                "name":"Gould, Herman Day",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "8273":{
-                "district":"10",
-                "name":"Schoonmaker, Marius",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

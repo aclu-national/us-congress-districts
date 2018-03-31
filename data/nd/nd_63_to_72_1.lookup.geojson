@@ -1,89 +1,13 @@
 {
-  "id": "nd_63_to_72_01",
+  "id": "nd_63_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"038063072001",
-    "member":{
-        "63":{
-            "4289":{
-                "district":"1",
-                "name":"Helgesen, Henry Thomas",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "4289":{
-                "district":"1",
-                "name":"Helgesen, Henry Thomas",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "333":{
-                "district":"1",
-                "name":"Baer, John Miller",
-                "party":"Republican"
-            },
-            "4289":{
-                "district":"1",
-                "name":"Helgesen, Henry Thomas",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "333":{
-                "district":"1",
-                "name":"Baer, John Miller",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "1314":{
-                "district":"1",
-                "name":"Burtness, Olger Burton",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "1314":{
-                "district":"1",
-                "name":"Burtness, Olger Burton",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "1314":{
-                "district":"1",
-                "name":"Burtness, Olger Burton",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "1314":{
-                "district":"1",
-                "name":"Burtness, Olger Burton",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "1314":{
-                "district":"1",
-                "name":"Burtness, Olger Burton",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "1314":{
-                "district":"1",
-                "name":"Burtness, Olger Burton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"North Dakota"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nd"
 },
   "bbox": [
     -99.52629,

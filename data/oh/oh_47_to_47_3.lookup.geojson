@@ -1,21 +1,13 @@
 {
-  "id": "oh_47_to_47_03",
+  "id": "oh_47_to_47_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"47",
-    "id":"039047047003",
-    "member":{
-        "47":{
-            "6671":{
-                "district":"3",
-                "name":"Morey, Henry Lee",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

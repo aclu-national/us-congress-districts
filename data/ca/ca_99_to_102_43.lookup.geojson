@@ -2,41 +2,12 @@
   "id": "ca_99_to_102_43",
   "type": "Feature",
   "properties": {
-    "district":"43",
-    "endcong":"102",
-    "id":"006099102043",
-    "member":{
-        "100":{
-            "15051":{
-                "district":"43",
-                "name":"Packard, Ronald C.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15051":{
-                "district":"43",
-                "name":"Packard, Ronald C.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15051":{
-                "district":"43",
-                "name":"Packard, Ronald C.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15051":{
-                "district":"43",
-                "name":"Packard, Ronald C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":43,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -117.7248,

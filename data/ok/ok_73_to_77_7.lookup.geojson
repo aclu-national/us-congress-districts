@@ -1,54 +1,13 @@
 {
-  "id": "ok_73_to_77_07",
+  "id": "ok_73_to_77_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"77",
-    "id":"040073077007",
-    "member":{
-        "73":{
-            "6158":{
-                "district":"7",
-                "name":"McClintic, James Vernon",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "6068":{
-                "district":"7",
-                "name":"Massingale, Samuel Chapman",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "6068":{
-                "district":"7",
-                "name":"Massingale, Samuel Chapman",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "6068":{
-                "district":"7",
-                "name":"Massingale, Samuel Chapman",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "10085":{
-                "district":"7",
-                "name":"Wickersham, Victor Eugene",
-                "party":"Democrat"
-            },
-            "6068":{
-                "district":"7",
-                "name":"Massingale, Samuel Chapman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Oklahoma"
+    "district":7,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ok"
 },
   "bbox": [
     -100.0038,

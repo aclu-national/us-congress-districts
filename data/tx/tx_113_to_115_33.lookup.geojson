@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_33",
   "type": "Feature",
   "properties": {
-    "ALAND":548959323,
-    "AWATER":16596613,
-    "CD113FP":"33",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4833",
-    "INTPTLAT":"+32.7564438",
-    "INTPTLON":"-097.1069479",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 33",
-    "STATEFP":"48"
+    "district":33,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -97.405065,

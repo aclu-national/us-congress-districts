@@ -1,28 +1,13 @@
 {
-  "id": "ky_83_to_84_08",
+  "id": "ky_83_to_84_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"84",
-    "id":"021083084008",
-    "member":{
-        "83":{
-            "3649":{
-                "district":"8",
-                "name":"Golden, James Stephen",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "8508":{
-                "district":"8",
-                "name":"Siler, Eugene",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Kentucky"
+    "district":8,
+    "end_date":"1956-07-27",
+    "end_session":84,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ky"
 },
   "bbox": [
     -85.97741,

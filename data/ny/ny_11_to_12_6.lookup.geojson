@@ -1,43 +1,13 @@
 {
-  "id": "ny_11_to_12_06",
+  "id": "ny_11_to_12_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"12",
-    "id":"036011012006",
-    "member":{
-        "11":{
-            "5334":{
-                "district":"6",
-                "name":"Knickerbocker, Herman",
-                "party":"Federalist"
-            },
-            "5719":{
-                "district":"6",
-                "name":"Livingston, Robert Le Roy",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "3175":{
-                "district":"6",
-                "name":"Fitch, Asa",
-                "party":"Federalist"
-            },
-            "3856":{
-                "district":"6",
-                "name":"Grosvenor, Thomas Peabody",
-                "party":"Federalist"
-            },
-            "5719":{
-                "district":"6",
-                "name":"Livingston, Robert Le Roy",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"11",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1809-03-04",
+    "start_session":11,
+    "state":"ny"
 },
   "bbox": [
     -74.21463,

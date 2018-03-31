@@ -1,49 +1,13 @@
 {
-  "id": "mi_93_to_97_06",
+  "id": "mi_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"026093097006",
-    "member":{
-        "93":{
-            "1620":{
-                "district":"6",
-                "name":"Chamberlain, Charles Ernest",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14210":{
-                "district":"6",
-                "name":"Carr, Bob",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14210":{
-                "district":"6",
-                "name":"Carr, Bob",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14210":{
-                "district":"6",
-                "name":"Carr, Bob",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14814":{
-                "district":"6",
-                "name":"Dunn, Jim",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Michigan"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mi"
 },
   "bbox": [
     -84.71867,

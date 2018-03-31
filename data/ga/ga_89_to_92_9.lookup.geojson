@@ -1,42 +1,13 @@
 {
-  "id": "ga_89_to_92_09",
+  "id": "ga_89_to_92_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"92",
-    "id":"013089092009",
-    "member":{
-        "89":{
-            "5436":{
-                "district":"9",
-                "name":"Landrum, Phillip Mitchell",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "5436":{
-                "district":"9",
-                "name":"Landrum, Phillip Mitchell",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "5436":{
-                "district":"9",
-                "name":"Landrum, Phillip Mitchell",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "5436":{
-                "district":"9",
-                "name":"Landrum, Phillip Mitchell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Georgia"
+    "district":9,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"ga"
 },
   "bbox": [
     -84.65923,

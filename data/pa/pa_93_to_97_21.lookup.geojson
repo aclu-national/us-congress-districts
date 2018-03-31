@@ -2,48 +2,12 @@
   "id": "pa_93_to_97_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"97",
-    "id":"042093097021",
-    "member":{
-        "93":{
-            "2513":{
-                "district":"21",
-                "name":"Dent, John Herman",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "2513":{
-                "district":"21",
-                "name":"Dent, John Herman",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "2513":{
-                "district":"21",
-                "name":"Dent, John Herman",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14603":{
-                "district":"21",
-                "name":"Bailey, Donald Allen",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14603":{
-                "district":"21",
-                "name":"Bailey, Donald Allen",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":21,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -79.90495,

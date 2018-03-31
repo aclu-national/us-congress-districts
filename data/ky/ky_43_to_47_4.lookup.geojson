@@ -1,49 +1,13 @@
 {
-  "id": "ky_43_to_47_04",
+  "id": "ky_43_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"021043047004",
-    "member":{
-        "43":{
-            "7765":{
-                "district":"4",
-                "name":"Read, William Brown",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "5341":{
-                "district":"4",
-                "name":"Knott, James Proctor",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "5341":{
-                "district":"4",
-                "name":"Knott, James Proctor",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "5341":{
-                "district":"4",
-                "name":"Knott, James Proctor",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "5341":{
-                "district":"4",
-                "name":"Knott, James Proctor",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Kentucky"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ky"
 },
   "bbox": [
     -86.67798,

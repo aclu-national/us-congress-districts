@@ -1,49 +1,13 @@
 {
-  "id": "ca_83_to_87_06",
+  "id": "ca_83_to_87_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"87",
-    "id":"006083087006",
-    "member":{
-        "83":{
-            "1977":{
-                "district":"6",
-                "name":"Condon, Robert Likens",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "387":{
-                "district":"6",
-                "name":"Baldwin, John Finley Jr.",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "387":{
-                "district":"6",
-                "name":"Baldwin, John Finley Jr.",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "387":{
-                "district":"6",
-                "name":"Baldwin, John Finley Jr.",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "387":{
-                "district":"6",
-                "name":"Baldwin, John Finley Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":6,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -122.42978,

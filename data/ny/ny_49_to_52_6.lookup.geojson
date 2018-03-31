@@ -1,47 +1,13 @@
 {
-  "id": "ny_49_to_52_06",
+  "id": "ny_49_to_52_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"52",
-    "id":"036049052006",
-    "member":{
-        "49":{
-            "6789":{
-                "district":"6",
-                "name":"Muller, Nicholas",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "2248":{
-                "district":"6",
-                "name":"Cummings, Amos Jay",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "3181":{
-                "district":"6",
-                "name":"Fitzgerald, Frank Thomas",
-                "party":"Democrat"
-            },
-            "9511":{
-                "district":"6",
-                "name":"Turner, Charles Henry",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "3097":{
-                "district":"6",
-                "name":"Fellows, John R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -74.04718,

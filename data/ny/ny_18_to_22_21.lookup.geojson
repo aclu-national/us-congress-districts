@@ -2,48 +2,12 @@
   "id": "ny_18_to_22_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"22",
-    "id":"036018022021",
-    "member":{
-        "18":{
-            "1779":{
-                "district":"21",
-                "name":"Clark, Lot",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "10071":{
-                "district":"21",
-                "name":"Whitmore, Elias",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "1775":{
-                "district":"21",
-                "name":"Clark, John Chamberlain",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "6591":{
-                "district":"21",
-                "name":"Monell, Robert",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "1943":{
-                "district":"21",
-                "name":"Collier, John Allen",
-                "party":"Anti Masonic"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -76.13018,

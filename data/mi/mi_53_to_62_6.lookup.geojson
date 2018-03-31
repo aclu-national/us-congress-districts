@@ -1,84 +1,13 @@
 {
-  "id": "mi_53_to_62_06",
+  "id": "mi_53_to_62_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"62",
-    "id":"026053062006",
-    "member":{
-        "53":{
-            "58":{
-                "district":"6",
-                "name":"Aitken, David Demerest",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "58":{
-                "district":"6",
-                "name":"Aitken, David Demerest",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "8683":{
-                "district":"6",
-                "name":"Smith, Samuel William",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "8683":{
-                "district":"6",
-                "name":"Smith, Samuel William",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "8683":{
-                "district":"6",
-                "name":"Smith, Samuel William",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "8683":{
-                "district":"6",
-                "name":"Smith, Samuel William",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "8683":{
-                "district":"6",
-                "name":"Smith, Samuel William",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "8683":{
-                "district":"6",
-                "name":"Smith, Samuel William",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "8683":{
-                "district":"6",
-                "name":"Smith, Samuel William",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "8683":{
-                "district":"6",
-                "name":"Smith, Samuel William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Michigan"
+    "district":6,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mi"
 },
   "bbox": [
     -84.60329,

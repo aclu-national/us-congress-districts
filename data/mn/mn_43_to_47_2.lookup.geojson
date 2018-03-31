@@ -1,49 +1,13 @@
 {
-  "id": "mn_43_to_47_02",
+  "id": "mn_43_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"027043047002",
-    "member":{
-        "43":{
-            "9009":{
-                "district":"2",
-                "name":"Strait, Horace Burton",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "9009":{
-                "district":"2",
-                "name":"Strait, Horace Burton",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "9009":{
-                "district":"2",
-                "name":"Strait, Horace Burton",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "7499":{
-                "district":"2",
-                "name":"Poehler, Henry",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "9009":{
-                "district":"2",
-                "name":"Strait, Horace Burton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Minnesota"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"mn"
 },
   "bbox": [
     -96.45448,

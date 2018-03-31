@@ -1,49 +1,13 @@
 {
-  "id": "tn_108_to_112_04",
+  "id": "tn_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"047108112004",
-    "member":{
-        "108":{
-            "20350":{
-                "district":"4",
-                "name":"Davis, Lincoln",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20350":{
-                "district":"4",
-                "name":"Davis, Lincoln",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20350":{
-                "district":"4",
-                "name":"Davis, Lincoln",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20350":{
-                "district":"4",
-                "name":"Davis, Lincoln",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21179":{
-                "district":"4",
-                "name":"Desjarlais, Scott",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tn"
 },
   "bbox": [
     -87.74375,

@@ -1,77 +1,13 @@
 {
-  "id": "ri_63_to_71_01",
+  "id": "ri_63_to_71_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"71",
-    "id":"044063071001",
-    "member":{
-        "63":{
-            "7098":{
-                "district":"1",
-                "name":"O'Shaunessy, George",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "7098":{
-                "district":"1",
-                "name":"O'Shaunessy, George",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "7098":{
-                "district":"1",
-                "name":"O'Shaunessy, George",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "1251":{
-                "district":"1",
-                "name":"Burdick, Clark",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "1251":{
-                "district":"1",
-                "name":"Burdick, Clark",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "1251":{
-                "district":"1",
-                "name":"Burdick, Clark",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "1251":{
-                "district":"1",
-                "name":"Burdick, Clark",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "1251":{
-                "district":"1",
-                "name":"Burdick, Clark",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "1251":{
-                "district":"1",
-                "name":"Burdick, Clark",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Rhode Island"
+    "district":1,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ri"
 },
   "bbox": [
     -71.61313,

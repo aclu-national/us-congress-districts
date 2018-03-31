@@ -1,49 +1,13 @@
 {
-  "id": "ma_28_to_32_07",
+  "id": "ma_28_to_32_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"32",
-    "id":"025028032007",
-    "member":{
-        "28":{
-            "8004":{
-                "district":"7",
-                "name":"Rockwell, Julius",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "8004":{
-                "district":"7",
-                "name":"Rockwell, Julius",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "8004":{
-                "district":"7",
-                "name":"Rockwell, Julius",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "8004":{
-                "district":"7",
-                "name":"Rockwell, Julius",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "3680":{
-                "district":"7",
-                "name":"Goodrich, John Zacheus",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ma"
 },
   "bbox": [
     -73.50814,

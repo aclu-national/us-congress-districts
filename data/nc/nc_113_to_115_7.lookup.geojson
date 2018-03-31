@@ -1,19 +1,13 @@
 {
-  "id": "nc_113_to_115_07",
+  "id": "nc_113_to_115_7",
   "type": "Feature",
   "properties": {
-    "ALAND":15962711526,
-    "AWATER":1123199017,
-    "CD113FP":"07",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3707",
-    "INTPTLAT":"+34.6883051",
-    "INTPTLON":"-078.3199580",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 7",
-    "STATEFP":"37"
+    "district":7,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nc"
 },
   "bbox": [
     -79.377927,

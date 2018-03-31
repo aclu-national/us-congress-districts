@@ -1,49 +1,13 @@
 {
-  "id": "or_108_to_112_05",
+  "id": "or_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"041108112005",
-    "member":{
-        "108":{
-            "29750":{
-                "district":"5",
-                "name":"Hooley, Darlene",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29750":{
-                "district":"5",
-                "name":"Hooley, Darlene",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29750":{
-                "district":"5",
-                "name":"Hooley, Darlene",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20944":{
-                "district":"5",
-                "name":"Schrader, Kurt",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20944":{
-                "district":"5",
-                "name":"Schrader, Kurt",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Oregon"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"or"
 },
   "bbox": [
     -124.11585,

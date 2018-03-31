@@ -2,48 +2,12 @@
   "id": "oh_53_to_57_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"57",
-    "id":"039053057020",
-    "member":{
-        "53":{
-            "10049":{
-                "district":"20",
-                "name":"White, William John",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "537":{
-                "district":"20",
-                "name":"Beach, Clifton Bailey",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "537":{
-                "district":"20",
-                "name":"Beach, Clifton Bailey",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "7412":{
-                "district":"20",
-                "name":"Phillips, Fremont Orestes",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "585":{
-                "district":"20",
-                "name":"Beidler, Jacob Atlee",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Ohio"
+    "district":20,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"oh"
 },
   "bbox": [
     -82.17342,

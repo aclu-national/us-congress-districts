@@ -2,34 +2,12 @@
   "id": "pa_48_to_50_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"50",
-    "id":"042048050022",
-    "member":{
-        "48":{
-            "4569":{
-                "district":"22",
-                "name":"Hopkins, James Herron",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "6857":{
-                "district":"22",
-                "name":"Negley, James Scott",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "2310":{
-                "district":"22",
-                "name":"Dalzell, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":22,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -80.17268,

@@ -1,49 +1,13 @@
 {
-  "id": "al_58_to_62_07",
+  "id": "al_58_to_62_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"62",
-    "id":"001058062007",
-    "member":{
-        "58":{
-            "1291":{
-                "district":"7",
-                "name":"Burnett, John Lawson",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "1291":{
-                "district":"7",
-                "name":"Burnett, John Lawson",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "1291":{
-                "district":"7",
-                "name":"Burnett, John Lawson",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "1291":{
-                "district":"7",
-                "name":"Burnett, John Lawson",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "1291":{
-                "district":"7",
-                "name":"Burnett, John Lawson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Alabama"
+    "district":7,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"al"
 },
   "bbox": [
     -88.17363,

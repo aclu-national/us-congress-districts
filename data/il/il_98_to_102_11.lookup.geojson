@@ -2,48 +2,12 @@
   "id": "il_98_to_102_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"102",
-    "id":"017098102011",
-    "member":{
-        "100":{
-            "10703":{
-                "district":"11",
-                "name":"Annunzio, Frank",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "10703":{
-                "district":"11",
-                "name":"Annunzio, Frank",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "10703":{
-                "district":"11",
-                "name":"Annunzio, Frank",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "10703":{
-                "district":"11",
-                "name":"Annunzio, Frank",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "10703":{
-                "district":"11",
-                "name":"Annunzio, Frank",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Illinois"
+    "district":11,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"il"
 },
   "bbox": [
     -87.939,

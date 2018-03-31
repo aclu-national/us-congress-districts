@@ -1,84 +1,13 @@
 {
-  "id": "pa_18_to_22_08",
+  "id": "pa_18_to_22_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"22",
-    "id":"042018022008",
-    "member":{
-        "18":{
-            "10306":{
-                "district":"8",
-                "name":"Wolf, George",
-                "party":"Jackson Republican"
-            },
-            "4811":{
-                "district":"8",
-                "name":"Ingham, Samuel Delucenna",
-                "party":"Jackson Republican"
-            },
-            "8034":{
-                "district":"8",
-                "name":"Rogers, Thomas Jones",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "10306":{
-                "district":"8",
-                "name":"Wolf, George",
-                "party":"Jackson"
-            },
-            "4811":{
-                "district":"8",
-                "name":"Ingham, Samuel Delucenna",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "10306":{
-                "district":"8",
-                "name":"Wolf, George",
-                "party":"Jackson"
-            },
-            "4811":{
-                "district":"8",
-                "name":"Ingham, Samuel Delucenna",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "10306":{
-                "district":"8",
-                "name":"Wolf, George",
-                "party":"Jackson"
-            },
-            "4795":{
-                "district":"8",
-                "name":"Ihrie, Peter Jr.",
-                "party":"Jackson"
-            },
-            "8681":{
-                "district":"8",
-                "name":"Smith, Samuel A.",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "4795":{
-                "district":"8",
-                "name":"Ihrie, Peter Jr.",
-                "party":"Jackson"
-            },
-            "8681":{
-                "district":"8",
-                "name":"Smith, Samuel A.",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"pa"
 },
   "bbox": [
     -75.99735,

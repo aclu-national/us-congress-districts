@@ -1,49 +1,13 @@
 {
-  "id": "il_43_to_47_06",
+  "id": "il_43_to_47_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"47",
-    "id":"017043047006",
-    "member":{
-        "43":{
-            "4219":{
-                "district":"6",
-                "name":"Hawley, John Baldwin",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "4316":{
-                "district":"6",
-                "name":"Henderson, Thomas Jefferson",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "4316":{
-                "district":"6",
-                "name":"Henderson, Thomas Jefferson",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "4316":{
-                "district":"6",
-                "name":"Henderson, Thomas Jefferson",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "4316":{
-                "district":"6",
-                "name":"Henderson, Thomas Jefferson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":6,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -91.07207,

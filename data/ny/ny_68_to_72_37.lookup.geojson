@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_37",
   "type": "Feature",
   "properties": {
-    "district":"37",
-    "endcong":"72",
-    "id":"036068072037",
-    "member":{
-        "68":{
-            "8827":{
-                "district":"37",
-                "name":"Stalker, Gale Hamilton",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "8827":{
-                "district":"37",
-                "name":"Stalker, Gale Hamilton",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "8827":{
-                "district":"37",
-                "name":"Stalker, Gale Hamilton",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8827":{
-                "district":"37",
-                "name":"Stalker, Gale Hamilton",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "8827":{
-                "district":"37",
-                "name":"Stalker, Gale Hamilton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":37,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -77.74993,

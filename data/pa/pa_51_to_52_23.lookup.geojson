@@ -2,27 +2,12 @@
   "id": "pa_51_to_52_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"52",
-    "id":"042051052023",
-    "member":{
-        "51":{
-            "536":{
-                "district":"23",
-                "name":"Bayne, Thomas McKee",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "8987":{
-                "district":"23",
-                "name":"Stone, William Alexis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":23,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -80.22866,

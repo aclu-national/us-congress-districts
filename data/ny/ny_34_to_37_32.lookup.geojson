@@ -2,41 +2,12 @@
   "id": "ny_34_to_37_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"37",
-    "id":"036034037032",
-    "member":{
-        "34":{
-            "4200":{
-                "district":"32",
-                "name":"Haven, Solomon George",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "4186":{
-                "district":"32",
-                "name":"Hatch, Israel Thompson",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "8768":{
-                "district":"32",
-                "name":"Spaulding, Elbridge Gerry",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "8768":{
-                "district":"32",
-                "name":"Spaulding, Elbridge Gerry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":32,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

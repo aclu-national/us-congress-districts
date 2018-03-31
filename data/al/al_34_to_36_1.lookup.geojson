@@ -1,35 +1,13 @@
 {
-  "id": "al_34_to_36_01",
+  "id": "al_34_to_36_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"36",
-    "id":"001034036001",
-    "member":{
-        "34":{
-            "9752":{
-                "district":"1",
-                "name":"Walker, Percy",
-                "party":"American"
-            }
-        },
-        "35":{
-            "8829":{
-                "district":"1",
-                "name":"Stallworth, James Adams",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "8829":{
-                "district":"1",
-                "name":"Stallworth, James Adams",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Alabama"
+    "district":1,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

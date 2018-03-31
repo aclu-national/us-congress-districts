@@ -2,20 +2,12 @@
   "id": "ny_33_to_33_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"33",
-    "id":"036033033027",
-    "member":{
-        "33":{
-            "9219":{
-                "district":"27",
-                "name":"Taylor, John James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -76.96636,

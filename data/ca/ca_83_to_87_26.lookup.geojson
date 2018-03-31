@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"87",
-    "id":"006083087026",
-    "member":{
-        "83":{
-            "10431":{
-                "district":"26",
-                "name":"Yorty, Samuel William",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "8051":{
-                "district":"26",
-                "name":"Roosevelt, James",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "8051":{
-                "district":"26",
-                "name":"Roosevelt, James",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "8051":{
-                "district":"26",
-                "name":"Roosevelt, James",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "8051":{
-                "district":"26",
-                "name":"Roosevelt, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":26,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -118.49281,

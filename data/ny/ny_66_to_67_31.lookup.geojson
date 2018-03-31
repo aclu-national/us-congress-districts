@@ -2,27 +2,12 @@
   "id": "ny_66_to_67_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"67",
-    "id":"036066067031",
-    "member":{
-        "66":{
-            "8721":{
-                "district":"31",
-                "name":"Snell, Bertrand Hollis",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "8721":{
-                "district":"31",
-                "name":"Snell, Bertrand Hollis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -75.83996,

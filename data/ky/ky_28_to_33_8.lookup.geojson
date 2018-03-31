@@ -1,56 +1,13 @@
 {
-  "id": "ky_28_to_33_08",
+  "id": "ky_28_to_33_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"33",
-    "id":"021028033008",
-    "member":{
-        "28":{
-            "2380":{
-                "district":"8",
-                "name":"Davis, Garrett",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "2380":{
-                "district":"8",
-                "name":"Davis, Garrett",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "6665":{
-                "district":"8",
-                "name":"Morehead, Charles Slaughter",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "6665":{
-                "district":"8",
-                "name":"Morehead, Charles Slaughter",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "995":{
-                "district":"8",
-                "name":"Breckinridge, John Cabell",
-                "party":"Democrat"
-            }
-        },
-        "33":{
-            "995":{
-                "district":"8",
-                "name":"Breckinridge, John Cabell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Kentucky"
+    "district":8,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ky"
 },
   "bbox": [
     -85.07604,

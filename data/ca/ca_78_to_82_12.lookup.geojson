@@ -2,48 +2,12 @@
   "id": "ca_78_to_82_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"82",
-    "id":"006078082012",
-    "member":{
-        "78":{
-            "9687":{
-                "district":"12",
-                "name":"Voorhis, Horace Jerry",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "9687":{
-                "district":"12",
-                "name":"Voorhis, Horace Jerry",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "6939":{
-                "district":"12",
-                "name":"Nixon, Richard Milhous",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6939":{
-                "district":"12",
-                "name":"Nixon, Richard Milhous",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4437":{
-                "district":"12",
-                "name":"Hillings, Patrick Jerome",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":12,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -118.17836,

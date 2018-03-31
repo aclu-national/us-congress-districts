@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_39",
   "type": "Feature",
   "properties": {
-    "district":"39",
-    "endcong":"90",
-    "id":"036088090039",
-    "member":{
-        "88":{
-            "7453":{
-                "district":"39",
-                "name":"Pillion, John Raymond",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10748":{
-                "district":"39",
-                "name":"McCarthy, Richard D.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10748":{
-                "district":"39",
-                "name":"McCarthy, Richard D.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":39,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

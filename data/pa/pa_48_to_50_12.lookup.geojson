@@ -2,34 +2,12 @@
   "id": "pa_48_to_50_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"50",
-    "id":"042048050012",
-    "member":{
-        "48":{
-            "1998":{
-                "district":"12",
-                "name":"Connolly, Daniel Ward",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "8317":{
-                "district":"12",
-                "name":"Scranton, Joseph Augustine",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "5854":{
-                "district":"12",
-                "name":"Lynch, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -76.25303,

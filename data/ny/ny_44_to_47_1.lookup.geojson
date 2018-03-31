@@ -1,42 +1,13 @@
 {
-  "id": "ny_44_to_47_01",
+  "id": "ny_44_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"036044047001",
-    "member":{
-        "44":{
-            "6444":{
-                "district":"1",
-                "name":"Metcalfe, Henry Bleecker",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "2096":{
-                "district":"1",
-                "name":"Covert, James Way",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "2096":{
-                "district":"1",
-                "name":"Covert, James Way",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "618":{
-                "district":"1",
-                "name":"Belmont, Perry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

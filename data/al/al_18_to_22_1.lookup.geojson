@@ -1,49 +1,13 @@
 {
-  "id": "al_18_to_22_01",
+  "id": "al_18_to_22_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"22",
-    "id":"001018022001",
-    "member":{
-        "18":{
-            "6632":{
-                "district":"1",
-                "name":"Moore, Gabriel",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "6632":{
-                "district":"1",
-                "name":"Moore, Gabriel",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "6632":{
-                "district":"1",
-                "name":"Moore, Gabriel",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "1809":{
-                "district":"1",
-                "name":"Clay, Clement Comer",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "1809":{
-                "district":"1",
-                "name":"Clay, Clement Comer",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Alabama"
+    "district":1,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"al"
 },
   "bbox": [
     -88.20296,

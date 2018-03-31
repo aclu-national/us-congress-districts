@@ -2,53 +2,12 @@
   "id": "ny_83_to_87_43",
   "type": "Feature",
   "properties": {
-    "district":"43",
-    "endcong":"87",
-    "id":"036083087043",
-    "member":{
-        "83":{
-            "7781":{
-                "district":"43",
-                "name":"Reed, Daniel Alden",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "7781":{
-                "district":"43",
-                "name":"Reed, Daniel Alden",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "7781":{
-                "district":"43",
-                "name":"Reed, Daniel Alden",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "3670":{
-                "district":"43",
-                "name":"Goodell, Charles Ellswort",
-                "party":"Republican"
-            },
-            "7781":{
-                "district":"43",
-                "name":"Reed, Daniel Alden",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "3670":{
-                "district":"43",
-                "name":"Goodell, Charles Ellswort",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":43,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

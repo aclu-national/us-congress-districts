@@ -1,21 +1,13 @@
 {
-  "id": "nc_55_to_55_08",
+  "id": "nc_55_to_55_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"55",
-    "id":"037055055008",
-    "member":{
-        "55":{
-            "5690":{
-                "district":"8",
-                "name":"Linney, Romulus Zachariah",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"North Carolina"
+    "district":8,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"nc"
 },
   "bbox": [
     -81.98788,

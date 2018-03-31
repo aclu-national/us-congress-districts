@@ -1,49 +1,13 @@
 {
-  "id": "oh_13_to_17_02",
+  "id": "oh_13_to_17_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"17",
-    "id":"039013017002",
-    "member":{
-        "13":{
-            "84":{
-                "district":"2",
-                "name":"Alexander, John",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "84":{
-                "district":"2",
-                "name":"Alexander, John",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "1460":{
-                "district":"2",
-                "name":"Campbell, John Wilson",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "1460":{
-                "district":"2",
-                "name":"Campbell, John Wilson",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "1460":{
-                "district":"2",
-                "name":"Campbell, John Wilson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"oh"
 },
   "bbox": [
     -84.31964,

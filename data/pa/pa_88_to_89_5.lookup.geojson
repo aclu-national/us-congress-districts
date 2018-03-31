@@ -1,33 +1,13 @@
 {
-  "id": "pa_88_to_89_05",
+  "id": "pa_88_to_89_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"89",
-    "id":"042088089005",
-    "member":{
-        "88":{
-            "10591":{
-                "district":"5",
-                "name":"Green, William J., III",
-                "party":"Democrat"
-            },
-            "3785":{
-                "district":"5",
-                "name":"Green, William Joseph, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10591":{
-                "district":"5",
-                "name":"Green, William J., III",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"pa"
 },
   "bbox": [
     -75.15958,

@@ -1,28 +1,13 @@
 {
-  "id": "va_28_to_29_02",
+  "id": "va_28_to_29_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"29",
-    "id":"051028029002",
-    "member":{
-        "28":{
-            "2733":{
-                "district":"2",
-                "name":"Dromgoole, George Coke",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "2733":{
-                "district":"2",
-                "name":"Dromgoole, George Coke",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Virginia"
+    "district":2,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"va"
 },
   "bbox": [
     -78.74044,

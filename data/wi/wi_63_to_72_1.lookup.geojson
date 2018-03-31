@@ -1,84 +1,13 @@
 {
-  "id": "wi_63_to_72_01",
+  "id": "wi_63_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"055063072001",
-    "member":{
-        "63":{
-            "2047":{
-                "district":"1",
-                "name":"Cooper, Henry Allen",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "2047":{
-                "district":"1",
-                "name":"Cooper, Henry Allen",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "2047":{
-                "district":"1",
-                "name":"Cooper, Henry Allen",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "7714":{
-                "district":"1",
-                "name":"Randall, Clifford Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "2047":{
-                "district":"1",
-                "name":"Cooper, Henry Allen",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "2047":{
-                "district":"1",
-                "name":"Cooper, Henry Allen",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "2047":{
-                "district":"1",
-                "name":"Cooper, Henry Allen",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "2047":{
-                "district":"1",
-                "name":"Cooper, Henry Allen",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2047":{
-                "district":"1",
-                "name":"Cooper, Henry Allen",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "156":{
-                "district":"1",
-                "name":"Amlie, Thomas Ryum",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Wisconsin"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"wi"
 },
   "bbox": [
     -89.36926,

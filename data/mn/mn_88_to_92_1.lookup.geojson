@@ -1,49 +1,13 @@
 {
-  "id": "mn_88_to_92_01",
+  "id": "mn_88_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"027088092001",
-    "member":{
-        "88":{
-            "7671":{
-                "district":"1",
-                "name":"Quie, Albert Harold",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "7671":{
-                "district":"1",
-                "name":"Quie, Albert Harold",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "7671":{
-                "district":"1",
-                "name":"Quie, Albert Harold",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "7671":{
-                "district":"1",
-                "name":"Quie, Albert Harold",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "7671":{
-                "district":"1",
-                "name":"Quie, Albert Harold",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Minnesota"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mn"
 },
   "bbox": [
     -93.64865,

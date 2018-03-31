@@ -1,28 +1,13 @@
 {
-  "id": "va_1_to_2_04",
+  "id": "va_1_to_2_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"2",
-    "id":"051001002004",
-    "member":{
-        "1":{
-            "5564":{
-                "district":"4",
-                "name":"Lee, Richard Bland",
-                "party":"Pro-Administration"
-            }
-        },
-        "2":{
-            "5564":{
-                "district":"4",
-                "name":"Lee, Richard Bland",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"va"
 },
   "bbox": [
     -78.13085,

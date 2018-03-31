@@ -2,20 +2,12 @@
   "id": "ny_43_to_43_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"43",
-    "id":"036043043030",
-    "member":{
-        "43":{
-            "4591":{
-                "district":"30",
-                "name":"Hoskins, George Gilbert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New York"
+    "district":30,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

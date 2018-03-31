@@ -1,49 +1,13 @@
 {
-  "id": "la_58_to_62_03",
+  "id": "la_58_to_62_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"62",
-    "id":"022058062003",
-    "member":{
-        "58":{
-            "1092":{
-                "district":"3",
-                "name":"Broussard, Robert Foligny",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "1092":{
-                "district":"3",
-                "name":"Broussard, Robert Foligny",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "1092":{
-                "district":"3",
-                "name":"Broussard, Robert Foligny",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "1092":{
-                "district":"3",
-                "name":"Broussard, Robert Foligny",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "1092":{
-                "district":"3",
-                "name":"Broussard, Robert Foligny",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Louisiana"
+    "district":3,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"la"
 },
   "bbox": [
     -92.7386,

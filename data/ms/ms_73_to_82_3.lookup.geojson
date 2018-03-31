@@ -1,84 +1,13 @@
 {
-  "id": "ms_73_to_82_03",
+  "id": "ms_73_to_82_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"82",
-    "id":"028073082003",
-    "member":{
-        "73":{
-            "10077":{
-                "district":"3",
-                "name":"Whittington, William Madison",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "10077":{
-                "district":"3",
-                "name":"Whittington, William Madison",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "10077":{
-                "district":"3",
-                "name":"Whittington, William Madison",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "10077":{
-                "district":"3",
-                "name":"Whittington, William Madison",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "10077":{
-                "district":"3",
-                "name":"Whittington, William Madison",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "10077":{
-                "district":"3",
-                "name":"Whittington, William Madison",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "10077":{
-                "district":"3",
-                "name":"Whittington, William Madison",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "10077":{
-                "district":"3",
-                "name":"Whittington, William Madison",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "10077":{
-                "district":"3",
-                "name":"Whittington, William Madison",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "8616":{
-                "district":"3",
-                "name":"Smith, Frank Ellis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Mississippi"
+    "district":3,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ms"
 },
   "bbox": [
     -91.23593,

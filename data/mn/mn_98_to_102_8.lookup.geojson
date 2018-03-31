@@ -1,49 +1,13 @@
 {
-  "id": "mn_98_to_102_08",
+  "id": "mn_98_to_102_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"102",
-    "id":"027098102008",
-    "member":{
-        "100":{
-            "14265":{
-                "district":"8",
-                "name":"Oberstar, James",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14265":{
-                "district":"8",
-                "name":"Oberstar, James",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14265":{
-                "district":"8",
-                "name":"Oberstar, James",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14265":{
-                "district":"8",
-                "name":"Oberstar, James",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14265":{
-                "district":"8",
-                "name":"Oberstar, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Minnesota"
+    "district":8,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"mn"
 },
   "bbox": [
     -94.78755,

@@ -2,27 +2,12 @@
   "id": "tx_105_to_106_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"106",
-    "id":"048105106012",
-    "member":{
-        "105":{
-            "29762":{
-                "district":"12",
-                "name":"Granger, Kay",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29762":{
-                "district":"12",
-                "name":"Granger, Kay",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Texas"
+    "district":12,
+    "end_date":"2000-12-15",
+    "end_session":106,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"tx"
 },
   "bbox": [
     -98.06652,

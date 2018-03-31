@@ -2,81 +2,12 @@
   "id": "mo_74_to_82_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"82",
-    "id":"029074082011",
-    "member":{
-        "74":{
-            "4328":{
-                "district":"11",
-                "name":"Hennings, Thomas Carey, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "4328":{
-                "district":"11",
-                "name":"Hennings, Thomas Carey, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "4328":{
-                "district":"11",
-                "name":"Hennings, Thomas Carey, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "9071":{
-                "district":"11",
-                "name":"Sullivan, John Berchmans",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "6499":{
-                "district":"11",
-                "name":"Miller, Louis Ebenezer",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "9071":{
-                "district":"11",
-                "name":"Sullivan, John Berchmans",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "377":{
-                "district":"11",
-                "name":"Bakewell, Claude Ignatius",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "9071":{
-                "district":"11",
-                "name":"Sullivan, John Berchmans",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "377":{
-                "district":"11",
-                "name":"Bakewell, Claude Ignatius",
-                "party":"Republican"
-            },
-            "9071":{
-                "district":"11",
-                "name":"Sullivan, John Berchmans",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Missouri"
+    "district":11,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mo"
 },
   "bbox": [
     -90.28562,

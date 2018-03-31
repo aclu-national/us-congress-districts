@@ -1,89 +1,13 @@
 {
-  "id": "nj_63_to_72_01",
+  "id": "nj_63_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"034063072001",
-    "member":{
-        "63":{
-            "1149":{
-                "district":"1",
-                "name":"Browning, William John",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "1149":{
-                "district":"1",
-                "name":"Browning, William John",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "1149":{
-                "district":"1",
-                "name":"Browning, William John",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "1149":{
-                "district":"1",
-                "name":"Browning, William John",
-                "party":"Republican"
-            },
-            "7240":{
-                "district":"1",
-                "name":"Patterson, Francis Ford, Jr.",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "7240":{
-                "district":"1",
-                "name":"Patterson, Francis Ford, Jr.",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "7240":{
-                "district":"1",
-                "name":"Patterson, Francis Ford, Jr.",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "7240":{
-                "district":"1",
-                "name":"Patterson, Francis Ford, Jr.",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New Jersey"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nj"
 },
   "bbox": [
     -75.55979,

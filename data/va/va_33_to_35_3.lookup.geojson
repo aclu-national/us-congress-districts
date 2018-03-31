@@ -1,35 +1,13 @@
 {
-  "id": "va_33_to_35_03",
+  "id": "va_33_to_35_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"35",
-    "id":"051033035003",
-    "member":{
-        "33":{
-            "1580":{
-                "district":"3",
-                "name":"Caskie, John Samuels",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "1580":{
-                "district":"3",
-                "name":"Caskie, John Samuels",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "1580":{
-                "district":"3",
-                "name":"Caskie, John Samuels",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Virginia"
+    "district":3,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"va"
 },
   "bbox": [
     -78.30661,

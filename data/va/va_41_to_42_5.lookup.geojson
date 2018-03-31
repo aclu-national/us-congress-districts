@@ -1,33 +1,13 @@
 {
-  "id": "va_41_to_42_05",
+  "id": "va_41_to_42_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"42",
-    "id":"051041042005",
-    "member":{
-        "41":{
-            "2750":{
-                "district":"5",
-                "name":"Duke, Richard Thomas Walk",
-                "party":"Conservative"
-            },
-            "7900":{
-                "district":"5",
-                "name":"Ridgway, Robert",
-                "party":"Conservative"
-            }
-        },
-        "42":{
-            "2750":{
-                "district":"5",
-                "name":"Duke, Richard Thomas Walk",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"va"
 },
   "bbox": [
     -79.85806,

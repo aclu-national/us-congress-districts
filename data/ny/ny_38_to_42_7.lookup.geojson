@@ -1,49 +1,13 @@
 {
-  "id": "ny_38_to_42_07",
+  "id": "ny_38_to_42_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"42",
-    "id":"036038042007",
-    "member":{
-        "38":{
-            "1645":{
-                "district":"7",
-                "name":"Chanler, John Winthrop",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "1645":{
-                "district":"7",
-                "name":"Chanler, John Winthrop",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "1645":{
-                "district":"7",
-                "name":"Chanler, John Winthrop",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "1421":{
-                "district":"7",
-                "name":"Calkin, Hervey Chittenden",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "2955":{
-                "district":"7",
-                "name":"Ely, Smith Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -73.99358,

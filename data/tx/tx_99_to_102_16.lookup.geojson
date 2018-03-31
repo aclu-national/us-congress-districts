@@ -2,41 +2,12 @@
   "id": "tx_99_to_102_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"102",
-    "id":"048099102016",
-    "member":{
-        "100":{
-            "15018":{
-                "district":"16",
-                "name":"Coleman, Ronald",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15018":{
-                "district":"16",
-                "name":"Coleman, Ronald",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15018":{
-                "district":"16",
-                "name":"Coleman, Ronald",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15018":{
-                "district":"16",
-                "name":"Coleman, Ronald",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Texas"
+    "district":16,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"tx"
 },
   "bbox": [
     -106.64328,

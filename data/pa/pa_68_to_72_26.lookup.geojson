@@ -2,48 +2,12 @@
   "id": "pa_68_to_72_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"72",
-    "id":"042068072026",
-    "member":{
-        "68":{
-            "7419":{
-                "district":"26",
-                "name":"Phillips, Thomas Wharton",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "7419":{
-                "district":"26",
-                "name":"Phillips, Thomas Wharton",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9123":{
-                "district":"26",
-                "name":"Swick, Jesse Howard",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9123":{
-                "district":"26",
-                "name":"Swick, Jesse Howard",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9123":{
-                "district":"26",
-                "name":"Swick, Jesse Howard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":26,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

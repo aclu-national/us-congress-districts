@@ -1,54 +1,13 @@
 {
-  "id": "ny_38_to_42_03",
+  "id": "ny_38_to_42_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"42",
-    "id":"036038042003",
-    "member":{
-        "38":{
-            "7025":{
-                "district":"3",
-                "name":"Odell, Moses Fowler",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "4729":{
-                "district":"3",
-                "name":"Humphrey, James",
-                "party":"Republican"
-            },
-            "4755":{
-                "district":"3",
-                "name":"Hunter, John Ward",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "7993":{
-                "district":"3",
-                "name":"Robinson, William Erigena",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "8584":{
-                "district":"3",
-                "name":"Slocum, Henry Warner",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "8584":{
-                "district":"3",
-                "name":"Slocum, Henry Warner",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -74.00405,

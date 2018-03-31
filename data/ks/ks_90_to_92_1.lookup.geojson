@@ -1,35 +1,13 @@
 {
-  "id": "ks_90_to_92_01",
+  "id": "ks_90_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"020090092001",
-    "member":{
-        "90":{
-            "10513":{
-                "district":"1",
-                "name":"Dole, Bob",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "12029":{
-                "district":"1",
-                "name":"Sebelius, Keith G.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "12029":{
-                "district":"1",
-                "name":"Sebelius, Keith G.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Kansas"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"ks"
 },
   "bbox": [
     -102.05177,

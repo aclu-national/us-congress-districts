@@ -2,48 +2,12 @@
   "id": "il_48_to_52_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"52",
-    "id":"017048052012",
-    "member":{
-        "48":{
-            "7903":{
-                "district":"12",
-                "name":"Riggs, James Milton",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "7903":{
-                "district":"12",
-                "name":"Riggs, James Milton",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "166":{
-                "district":"12",
-                "name":"Anderson, George Alburtus",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "10096":{
-                "district":"12",
-                "name":"Wike, Scott",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "10096":{
-                "district":"12",
-                "name":"Wike, Scott",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":12,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -91.51308,

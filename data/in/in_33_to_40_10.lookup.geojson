@@ -2,74 +2,12 @@
   "id": "in_33_to_40_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"40",
-    "id":"018033040010",
-    "member":{
-        "33":{
-            "1621":{
-                "district":"10",
-                "name":"Chamberlain, Ebenezer Mattoon",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "1010":{
-                "district":"10",
-                "name":"Brenton, Samuel",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "1010":{
-                "district":"10",
-                "name":"Brenton, Samuel",
-                "party":"Republican"
-            },
-            "1568":{
-                "district":"10",
-                "name":"Case, Charles",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "1568":{
-                "district":"10",
-                "name":"Case, Charles",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "6576":{
-                "district":"10",
-                "name":"Mitchell, William",
-                "party":"Republican"
-            }
-        },
-        "38":{
-            "2847":{
-                "district":"10",
-                "name":"Edgerton, Joseph Ketchum",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "2463":{
-                "district":"10",
-                "name":"Defrees, Joseph Hutton",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "10188":{
-                "district":"10",
-                "name":"Williams, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Indiana"
+    "district":10,
+    "end_date":"1869-03-03",
+    "end_session":40,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"in"
 },
   "bbox": [
     -86.07733,

@@ -1,49 +1,13 @@
 {
-  "id": "il_93_to_97_04",
+  "id": "il_93_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"017093097004",
-    "member":{
-        "93":{
-            "2525":{
-                "district":"4",
-                "name":"Derwinski, Edward Joseph",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "2525":{
-                "district":"4",
-                "name":"Derwinski, Edward Joseph",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "2525":{
-                "district":"4",
-                "name":"Derwinski, Edward Joseph",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "2525":{
-                "district":"4",
-                "name":"Derwinski, Edward Joseph",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "2525":{
-                "district":"4",
-                "name":"Derwinski, Edward Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Illinois"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"il"
 },
   "bbox": [
     -88.02916,

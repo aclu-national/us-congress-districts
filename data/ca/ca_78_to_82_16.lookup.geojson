@@ -2,48 +2,12 @@
   "id": "ca_78_to_82_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"82",
-    "id":"006078082016",
-    "member":{
-        "78":{
-            "8037":{
-                "district":"16",
-                "name":"Rogers, Will, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "7239":{
-                "district":"16",
-                "name":"Patterson, Ellis Ellwood",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "4846":{
-                "district":"16",
-                "name":"Jackson, Donald Lester",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4846":{
-                "district":"16",
-                "name":"Jackson, Donald Lester",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4846":{
-                "district":"16",
-                "name":"Jackson, Donald Lester",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":16,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -118.9449,

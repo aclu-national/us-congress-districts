@@ -1,49 +1,13 @@
 {
-  "id": "ne_108_to_112_02",
+  "id": "ne_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"031108112002",
-    "member":{
-        "108":{
-            "29921":{
-                "district":"2",
-                "name":"Terry, Lee",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29921":{
-                "district":"2",
-                "name":"Terry, Lee",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29921":{
-                "district":"2",
-                "name":"Terry, Lee",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29921":{
-                "district":"2",
-                "name":"Terry, Lee",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "29921":{
-                "district":"2",
-                "name":"Terry, Lee",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Nebraska"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ne"
 },
   "bbox": [
     -96.47072,

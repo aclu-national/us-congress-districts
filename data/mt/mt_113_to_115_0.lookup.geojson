@@ -1,19 +1,13 @@
 {
-  "id": "mt_113_to_115_00",
+  "id": "mt_113_to_115_0",
   "type": "Feature",
   "properties": {
-    "ALAND":376962936405,
-    "AWATER":3868552975,
-    "CD113FP":"00",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3000",
-    "INTPTLAT":"+47.0511771",
-    "INTPTLON":"-109.6348174",
-    "LSAD":"C1",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District (at Large)",
-    "STATEFP":"30"
+    "district":0,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mt"
 },
   "bbox": [
     -116.050002,

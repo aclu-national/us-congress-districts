@@ -2,41 +2,12 @@
   "id": "il_54_to_57_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"57",
-    "id":"017054057015",
-    "member":{
-        "54":{
-            "5992":{
-                "district":"15",
-                "name":"Marsh, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "5992":{
-                "district":"15",
-                "name":"Marsh, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "5992":{
-                "district":"15",
-                "name":"Marsh, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "6457":{
-                "district":"15",
-                "name":"Mickey, J. Ross",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"54",
-    "statename":"Illinois"
+    "district":15,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1895-12-02",
+    "start_session":54,
+    "state":"il"
 },
   "bbox": [
     -91.51308,

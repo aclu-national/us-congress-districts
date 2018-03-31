@@ -1,54 +1,13 @@
 {
-  "id": "mi_93_to_97_05",
+  "id": "mi_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"026093097005",
-    "member":{
-        "93":{
-            "14074":{
-                "district":"5",
-                "name":"Vander Veen, Richard",
-                "party":"Democrat"
-            },
-            "3268":{
-                "district":"5",
-                "name":"Ford, Gerald R. Jr.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14074":{
-                "district":"5",
-                "name":"Vander Veen, Richard",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14450":{
-                "district":"5",
-                "name":"Sawyer, Harold",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14450":{
-                "district":"5",
-                "name":"Sawyer, Harold",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14450":{
-                "district":"5",
-                "name":"Sawyer, Harold",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Michigan"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mi"
 },
   "bbox": [
     -85.79082,

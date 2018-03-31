@@ -1,33 +1,13 @@
 {
-  "id": "va_30_to_31_02",
+  "id": "va_30_to_31_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"31",
-    "id":"051030031002",
-    "member":{
-        "30":{
-            "2733":{
-                "district":"2",
-                "name":"Dromgoole, George Coke",
-                "party":"Democrat"
-            },
-            "6397":{
-                "district":"2",
-                "name":"Meade, Richard Kidder",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "6397":{
-                "district":"2",
-                "name":"Meade, Richard Kidder",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Virginia"
+    "district":2,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"va"
 },
   "bbox": [
     -78.74044,

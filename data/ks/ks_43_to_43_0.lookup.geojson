@@ -1,31 +1,13 @@
 {
-  "id": "ks_43_to_43_00",
+  "id": "ks_43_to_43_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"43",
-    "id":"020043043000",
-    "member":{
-        "43":{
-            "1871":{
-                "district":"98",
-                "name":"Cobb, Stephen Alonzo",
-                "party":"Republican"
-            },
-            "5808":{
-                "district":"98",
-                "name":"Lowe, David Perley",
-                "party":"Republican"
-            },
-            "7420":{
-                "district":"98",
-                "name":"Phillips, William Addison",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Kansas"
+    "district":0,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ks"
 },
   "bbox": [
     -102.05177,

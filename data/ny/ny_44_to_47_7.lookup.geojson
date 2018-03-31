@@ -1,47 +1,13 @@
 {
-  "id": "ny_44_to_47_07",
+  "id": "ny_44_to_47_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"47",
-    "id":"036044047007",
-    "member":{
-        "44":{
-            "2955":{
-                "district":"7",
-                "name":"Ely, Smith Jr.",
-                "party":"Democrat"
-            },
-            "3131":{
-                "district":"7",
-                "name":"Field, David Dudley",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "2885":{
-                "district":"7",
-                "name":"Eickhoff, Anthony",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "2886":{
-                "district":"7",
-                "name":"Einstein, Edwin",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "2749":{
-                "district":"7",
-                "name":"Dugro, Philip Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -73.99761,

@@ -1,35 +1,13 @@
 {
-  "id": "ny_88_to_90_05",
+  "id": "ny_88_to_90_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"90",
-    "id":"036088090005",
-    "member":{
-        "88":{
-            "563":{
-                "district":"5",
-                "name":"Becker, Frank John",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10775":{
-                "district":"5",
-                "name":"Tenzer, Herbert",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10775":{
-                "district":"5",
-                "name":"Tenzer, Herbert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -73.7672,

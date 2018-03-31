@@ -1,49 +1,13 @@
 {
-  "id": "ny_68_to_72_02",
+  "id": "ny_68_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"036068072002",
-    "member":{
-        "68":{
-            "5251":{
-                "district":"2",
-                "name":"Kindred, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "5251":{
-                "district":"2",
-                "name":"Kindred, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "5251":{
-                "district":"2",
-                "name":"Kindred, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "1166":{
-                "district":"2",
-                "name":"Brunner, William Frank",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "1166":{
-                "district":"2",
-                "name":"Brunner, William Frank",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -73.96161,

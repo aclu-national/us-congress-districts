@@ -1,49 +1,13 @@
 {
-  "id": "in_23_to_27_03",
+  "id": "in_23_to_27_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"27",
-    "id":"018023027003",
-    "member":{
-        "23":{
-            "1529":{
-                "district":"3",
-                "name":"Carr, John",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "1529":{
-                "district":"3",
-                "name":"Carr, John",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "3738":{
-                "district":"3",
-                "name":"Graham, William",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "1529":{
-                "district":"3",
-                "name":"Carr, John",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "10035":{
-                "district":"3",
-                "name":"White, Joseph Livingston",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"in"
 },
   "bbox": [
     -86.31854,

@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"87",
-    "id":"006083087025",
-    "member":{
-        "83":{
-            "4437":{
-                "district":"25",
-                "name":"Hillings, Patrick Jerome",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4437":{
-                "district":"25",
-                "name":"Hillings, Patrick Jerome",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4437":{
-                "district":"25",
-                "name":"Hillings, Patrick Jerome",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "5099":{
-                "district":"25",
-                "name":"Kasem, George Albert",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10553":{
-                "district":"25",
-                "name":"Rousselot, John H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":25,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -118.16487,

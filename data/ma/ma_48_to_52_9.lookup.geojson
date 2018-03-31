@@ -1,49 +1,13 @@
 {
-  "id": "ma_48_to_52_09",
+  "id": "ma_48_to_52_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"52",
-    "id":"025048052009",
-    "member":{
-        "48":{
-            "5851":{
-                "district":"9",
-                "name":"Lyman, Theodore",
-                "party":"Ind. Republican"
-            }
-        },
-        "49":{
-            "2953":{
-                "district":"9",
-                "name":"Ely, Frederick David",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "1289":{
-                "district":"9",
-                "name":"Burnett, Edward",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "1474":{
-                "district":"9",
-                "name":"Candler, John Wilson",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "10142":{
-                "district":"9",
-                "name":"Williams, George Fred",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Massachusetts"
+    "district":9,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ma"
 },
   "bbox": [
     -71.72599,

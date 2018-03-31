@@ -2,48 +2,12 @@
   "id": "pa_73_to_77_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"77",
-    "id":"042073077013",
-    "member":{
-        "73":{
-            "1163":{
-                "district":"13",
-                "name":"Brumm, George Franklin",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "3581":{
-                "district":"13",
-                "name":"Gildea, James Hilary",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "3581":{
-                "district":"13",
-                "name":"Gildea, James Hilary",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3105":{
-                "district":"13",
-                "name":"Fenton, Ivor David",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "3105":{
-                "district":"13",
-                "name":"Fenton, Ivor David",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"pa"
 },
   "bbox": [
     -76.949,

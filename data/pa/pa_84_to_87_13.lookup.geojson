@@ -2,46 +2,12 @@
   "id": "pa_84_to_87_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"87",
-    "id":"042084087013",
-    "member":{
-        "84":{
-            "6169":{
-                "district":"13",
-                "name":"McConnell, Samuel Kerns, Jr.",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "5404":{
-                "district":"13",
-                "name":"Lafore, John Armand Jr.",
-                "party":"Republican"
-            },
-            "6169":{
-                "district":"13",
-                "name":"McConnell, Samuel Kerns, Jr.",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "5404":{
-                "district":"13",
-                "name":"Lafore, John Armand Jr.",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10557":{
-                "district":"13",
-                "name":"Schweiker, Richard S.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -75.69679,

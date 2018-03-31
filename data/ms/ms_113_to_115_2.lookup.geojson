@@ -1,19 +1,13 @@
 {
-  "id": "ms_113_to_115_02",
+  "id": "ms_113_to_115_2",
   "type": "Feature",
   "properties": {
-    "ALAND":40280369588,
-    "AWATER":959049858,
-    "CD113FP":"02",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2802",
-    "INTPTLAT":"+33.1763295",
-    "INTPTLON":"-090.3508287",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 2",
-    "STATEFP":"28"
+    "district":2,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ms"
 },
   "bbox": [
     -91.365614,

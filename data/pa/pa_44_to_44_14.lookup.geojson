@@ -2,20 +2,12 @@
   "id": "pa_44_to_44_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"44",
-    "id":"042044044014",
-    "member":{
-        "44":{
-            "7147":{
-                "district":"14",
-                "name":"Packer, John Black",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -77.02923,

@@ -1,70 +1,13 @@
 {
-  "id": "mn_64_to_71_08",
+  "id": "mn_64_to_71_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"71",
-    "id":"027064071008",
-    "member":{
-        "64":{
-            "6476":{
-                "district":"8",
-                "name":"Miller, Clarence Benjamin",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "6476":{
-                "district":"8",
-                "name":"Miller, Clarence Benjamin",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "1544":{
-                "district":"8",
-                "name":"Carss, William Leighton",
-                "party":"Union Labor"
-            }
-        },
-        "67":{
-            "5483":{
-                "district":"8",
-                "name":"Larson, Oscar John",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "5483":{
-                "district":"8",
-                "name":"Larson, Oscar John",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "1544":{
-                "district":"8",
-                "name":"Carss, William Leighton",
-                "party":"Farmer-Labor"
-            }
-        },
-        "70":{
-            "1544":{
-                "district":"8",
-                "name":"Carss, William Leighton",
-                "party":"Farmer-Labor"
-            }
-        },
-        "71":{
-            "7472":{
-                "district":"8",
-                "name":"Pittenger, William Alvin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Minnesota"
+    "district":8,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mn"
 },
   "bbox": [
     -94.43035,

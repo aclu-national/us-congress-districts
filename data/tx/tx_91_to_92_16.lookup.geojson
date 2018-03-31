@@ -2,27 +2,12 @@
   "id": "tx_91_to_92_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"92",
-    "id":"048091092016",
-    "member":{
-        "91":{
-            "10783":{
-                "district":"16",
-                "name":"White, Richard C.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10783":{
-                "district":"16",
-                "name":"White, Richard C.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Texas"
+    "district":16,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

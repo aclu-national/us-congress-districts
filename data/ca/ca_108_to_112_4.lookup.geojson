@@ -1,49 +1,13 @@
 {
-  "id": "ca_108_to_112_04",
+  "id": "ca_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"006108112004",
-    "member":{
-        "108":{
-            "29104":{
-                "district":"4",
-                "name":"Doolittle, John T.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29104":{
-                "district":"4",
-                "name":"Doolittle, John T.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29104":{
-                "district":"4",
-                "name":"Doolittle, John T.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20903":{
-                "district":"4",
-                "name":"McClintock, Tom",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20903":{
-                "district":"4",
-                "name":"McClintock, Tom",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -121.69293,

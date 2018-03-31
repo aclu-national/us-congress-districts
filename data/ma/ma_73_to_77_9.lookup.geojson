@@ -1,49 +1,13 @@
 {
-  "id": "ma_73_to_77_09",
+  "id": "ma_73_to_77_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"77",
-    "id":"025073077009",
-    "member":{
-        "73":{
-            "5828":{
-                "district":"9",
-                "name":"Luce, Robert",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "8139":{
-                "district":"9",
-                "name":"Russell, Richard Manning",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5828":{
-                "district":"9",
-                "name":"Luce, Robert",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "5828":{
-                "district":"9",
-                "name":"Luce, Robert",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "2896":{
-                "district":"9",
-                "name":"Eliot, Thomas Hopkinson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Massachusetts"
+    "district":9,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ma"
 },
   "bbox": [
     -71.36655,

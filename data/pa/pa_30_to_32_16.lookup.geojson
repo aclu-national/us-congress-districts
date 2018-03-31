@@ -2,34 +2,12 @@
   "id": "pa_30_to_32_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"32",
-    "id":"042030032016",
-    "member":{
-        "30":{
-            "965":{
-                "district":"16",
-                "name":"Brady, Jasper Ewing",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "6322":{
-                "district":"16",
-                "name":"McLanahan, James Xavier",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "6322":{
-                "district":"16",
-                "name":"McLanahan, James Xavier",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -78.09913,

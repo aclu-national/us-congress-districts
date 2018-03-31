@@ -2,32 +2,12 @@
   "id": "oh_28_to_29_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"29",
-    "id":"039028029010",
-    "member":{
-        "28":{
-            "6633":{
-                "district":"10",
-                "name":"Moore, Herman Allen",
-                "party":"Democrat"
-            },
-            "8974":{
-                "district":"10",
-                "name":"Stone, Alfred Parish",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "2479":{
-                "district":"10",
-                "name":"Delano, Columbus",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":10,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -83.25207,

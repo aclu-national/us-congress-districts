@@ -2,34 +2,12 @@
   "id": "pa_45_to_47_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"47",
-    "id":"042045047027",
-    "member":{
-        "45":{
-            "9876":{
-                "district":"27",
-                "name":"Watson, Lewis Findlay",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "7100":{
-                "district":"27",
-                "name":"Osmer, James H.",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "9876":{
-                "district":"27",
-                "name":"Watson, Lewis Findlay",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Pennsylvania"
+    "district":27,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"pa"
 },
   "bbox": [
     -80.51943,

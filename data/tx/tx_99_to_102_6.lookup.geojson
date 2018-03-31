@@ -1,42 +1,13 @@
 {
-  "id": "tx_99_to_102_06",
+  "id": "tx_99_to_102_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"102",
-    "id":"048099102006",
-    "member":{
-        "100":{
-            "15085":{
-                "district":"6",
-                "name":"Barton, Joe L.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15085":{
-                "district":"6",
-                "name":"Barton, Joe L.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15085":{
-                "district":"6",
-                "name":"Barton, Joe L.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15085":{
-                "district":"6",
-                "name":"Barton, Joe L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"tx"
 },
   "bbox": [
     -98.06823,

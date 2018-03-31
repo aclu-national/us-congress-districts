@@ -1,21 +1,13 @@
 {
-  "id": "mn_72_to_72_09",
+  "id": "mn_72_to_72_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"72",
-    "id":"027072072009",
-    "member":{
-        "72":{
-            "8357":{
-                "district":"9",
-                "name":"Selvig, Conrad George",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"72",
-    "statename":"Minnesota"
+    "district":9,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1931-12-07",
+    "start_session":72,
+    "state":"mn"
 },
   "bbox": [
     -97.23921,

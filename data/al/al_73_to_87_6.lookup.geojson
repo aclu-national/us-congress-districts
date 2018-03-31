@@ -1,119 +1,13 @@
 {
-  "id": "al_73_to_87_06",
+  "id": "al_73_to_87_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"87",
-    "id":"001073087006",
-    "member":{
-        "73":{
-            "7064":{
-                "district":"6",
-                "name":"Oliver, William Bacon",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "7064":{
-                "district":"6",
-                "name":"Oliver, William Bacon",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "4892":{
-                "district":"6",
-                "name":"Jarman, Pete",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "4892":{
-                "district":"6",
-                "name":"Jarman, Pete",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "4892":{
-                "district":"6",
-                "name":"Jarman, Pete",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "4892":{
-                "district":"6",
-                "name":"Jarman, Pete",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "4892":{
-                "district":"6",
-                "name":"Jarman, Pete",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "4892":{
-                "district":"6",
-                "name":"Jarman, Pete",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "2468":{
-                "district":"6",
-                "name":"Degraffenried, Edward",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2468":{
-                "district":"6",
-                "name":"Degraffenried, Edward",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "8353":{
-                "district":"6",
-                "name":"Selden, Armistead Inge, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "8353":{
-                "district":"6",
-                "name":"Selden, Armistead Inge, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "8353":{
-                "district":"6",
-                "name":"Selden, Armistead Inge, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "8353":{
-                "district":"6",
-                "name":"Selden, Armistead Inge, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "8353":{
-                "district":"6",
-                "name":"Selden, Armistead Inge, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Alabama"
+    "district":6,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"al"
 },
   "bbox": [
     -88.42145,

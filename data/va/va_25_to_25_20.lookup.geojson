@@ -2,20 +2,12 @@
   "id": "va_25_to_25_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"25",
-    "id":"051025025020",
-    "member":{
-        "25":{
-            "4974":{
-                "district":"20",
-                "name":"Johnson, Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"25",
-    "statename":"Virginia"
+    "district":20,
+    "end_date":"1839-03-03",
+    "end_session":25,
+    "start_date":"1837-03-04",
+    "start_session":25,
+    "state":"va"
 },
   "bbox": [
     -82.22171,

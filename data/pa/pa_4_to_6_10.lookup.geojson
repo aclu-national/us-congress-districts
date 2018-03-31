@@ -2,34 +2,12 @@
   "id": "pa_4_to_6_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"6",
-    "id":"042004006010",
-    "member":{
-        "4":{
-            "429":{
-                "district":"10",
-                "name":"Bard, David",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "429":{
-                "district":"10",
-                "name":"Bard, David",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "10352":{
-                "district":"10",
-                "name":"Woods, Henry",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"pa"
 },
   "bbox": [
     -79.41756,

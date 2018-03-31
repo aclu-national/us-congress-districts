@@ -1,81 +1,13 @@
 {
-  "id": "mo_73_to_73_00",
+  "id": "mo_73_to_73_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"73",
-    "id":"029073073000",
-    "member":{
-        "73":{
-            "10139":{
-                "district":"98",
-                "name":"Williams, Clyde",
-                "party":"Democrat"
-            },
-            "10332":{
-                "district":"98",
-                "name":"Wood, Reuben Terrell",
-                "party":"Democrat"
-            },
-            "1479":{
-                "district":"98",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            },
-            "1735":{
-                "district":"98",
-                "name":"Claiborne, James Robert",
-                "party":"Democrat"
-            },
-            "1882":{
-                "district":"98",
-                "name":"Cochran, John Joseph",
-                "party":"Democrat"
-            },
-            "2568":{
-                "district":"98",
-                "name":"Dickinson, Clement Cabell",
-                "party":"Democrat"
-            },
-            "2761":{
-                "district":"98",
-                "name":"Duncan, Richard Meloan",
-                "party":"Democrat"
-            },
-            "5556":{
-                "district":"98",
-                "name":"Lee, Frank Hood",
-                "party":"Democrat"
-            },
-            "5820":{
-                "district":"98",
-                "name":"Lozier, Ralph Fulton",
-                "party":"Democrat"
-            },
-            "6520":{
-                "district":"98",
-                "name":"Milligan, Jacob Le Roy",
-                "party":"Democrat"
-            },
-            "8047":{
-                "district":"98",
-                "name":"Romjue, Milton Andrew",
-                "party":"Democrat"
-            },
-            "8105":{
-                "district":"98",
-                "name":"Ruffin, James Edward",
-                "party":"Democrat"
-            },
-            "8400":{
-                "district":"98",
-                "name":"Shannon, Joseph Bernard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Missouri"
+    "district":0,
+    "end_date":"1934-06-18",
+    "end_session":73,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mo"
 },
   "bbox": [
     -95.7747,

@@ -2,18 +2,12 @@
   "id": "pr_113_to_115_98",
   "type": "Feature",
   "properties": {
-    "ALAND":8867751079,
-    "AWATER":4923522837,
-    "CD113FP":"98",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"7298",
-    "INTPTLAT":"+18.2176480",
-    "INTPTLON":"-066.4107992",
-    "LSAD":"C3",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Resident Commissioner District (at Large)",
-    "STATEFP":"72"
+    "district":98,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"pr"
 },
   "bbox": [
     -67.998751,

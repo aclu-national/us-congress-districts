@@ -2,20 +2,12 @@
   "id": "ny_65_to_65_39",
   "type": "Feature",
   "properties": {
-    "district":"39",
-    "endcong":"65",
-    "id":"036065065039",
-    "member":{
-        "65":{
-            "8195":{
-                "district":"39",
-                "name":"Sanders, Archie Dovell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":39,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -78.48814,

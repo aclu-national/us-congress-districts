@@ -1,28 +1,13 @@
 {
-  "id": "az_88_to_89_01",
+  "id": "az_88_to_89_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"89",
-    "id":"004088089001",
-    "member":{
-        "88":{
-            "7845":{
-                "district":"1",
-                "name":"Rhodes, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "7845":{
-                "district":"1",
-                "name":"Rhodes, John Jacob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Arizona"
+    "district":1,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"az"
 },
   "bbox": [
     -113.33444,

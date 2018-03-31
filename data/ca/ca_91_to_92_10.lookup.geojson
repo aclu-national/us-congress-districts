@@ -2,27 +2,12 @@
   "id": "ca_91_to_92_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"92",
-    "id":"006091092010",
-    "member":{
-        "91":{
-            "3867":{
-                "district":"10",
-                "name":"Gubser, Charles Samuel",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "3867":{
-                "district":"10",
-                "name":"Gubser, Charles Samuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":10,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -122.20248,

@@ -1,28 +1,13 @@
 {
-  "id": "ny_1_to_2_05",
+  "id": "ny_1_to_2_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"2",
-    "id":"036001002005",
-    "member":{
-        "1":{
-            "8511":{
-                "district":"5",
-                "name":"Silvester, Peter",
-                "party":"Pro-Administration"
-            }
-        },
-        "2":{
-            "8511":{
-                "district":"5",
-                "name":"Silvester, Peter",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"ny"
 },
   "bbox": [
     -74.38403,

@@ -1,28 +1,13 @@
 {
-  "id": "wi_43_to_44_07",
+  "id": "wi_43_to_44_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"44",
-    "id":"055043044007",
-    "member":{
-        "43":{
-            "8120":{
-                "district":"7",
-                "name":"Rusk, Jeremiah McLain",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "8120":{
-                "district":"7",
-                "name":"Rusk, Jeremiah McLain",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Wisconsin"
+    "district":7,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"wi"
 },
   "bbox": [
     -92.808,

@@ -1,77 +1,13 @@
 {
-  "id": "ut_54_to_62_00",
+  "id": "ut_54_to_62_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"62",
-    "id":"049054062000",
-    "member":{
-        "54":{
-            "103":{
-                "district":"1",
-                "name":"Allen, Clarence Emir",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "5274":{
-                "district":"1",
-                "name":"King, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "5274":{
-                "district":"1",
-                "name":"King, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "9092":{
-                "district":"1",
-                "name":"Sutherland, George",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "4652":{
-                "district":"1",
-                "name":"Howell, Joseph",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "4652":{
-                "district":"1",
-                "name":"Howell, Joseph",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "4652":{
-                "district":"1",
-                "name":"Howell, Joseph",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "4652":{
-                "district":"1",
-                "name":"Howell, Joseph",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "4652":{
-                "district":"1",
-                "name":"Howell, Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"54",
-    "statename":"Utah"
+    "district":0,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1895-12-02",
+    "start_session":54,
+    "state":"ut"
 },
   "bbox": [
     -114.053,

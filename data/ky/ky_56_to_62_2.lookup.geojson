@@ -1,63 +1,13 @@
 {
-  "id": "ky_56_to_62_02",
+  "id": "ky_56_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"021056062002",
-    "member":{
-        "56":{
-            "109":{
-                "district":"2",
-                "name":"Allen, Henry Dixon",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "109":{
-                "district":"2",
-                "name":"Allen, Henry Dixon",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "8838":{
-                "district":"2",
-                "name":"Stanley, Augustus Owsley",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "8838":{
-                "district":"2",
-                "name":"Stanley, Augustus Owsley",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "8838":{
-                "district":"2",
-                "name":"Stanley, Augustus Owsley",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "8838":{
-                "district":"2",
-                "name":"Stanley, Augustus Owsley",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "8838":{
-                "district":"2",
-                "name":"Stanley, Augustus Owsley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Kentucky"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"ky"
 },
   "bbox": [
     -88.16021,

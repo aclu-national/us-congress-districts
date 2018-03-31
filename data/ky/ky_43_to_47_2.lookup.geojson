@@ -1,49 +1,13 @@
 {
-  "id": "ky_43_to_47_02",
+  "id": "ky_43_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"021043047002",
-    "member":{
-        "43":{
-            "1123":{
-                "district":"2",
-                "name":"Brown, John Young",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "1123":{
-                "district":"2",
-                "name":"Brown, John Young",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "6299":{
-                "district":"2",
-                "name":"McKenzie, James Andrew",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "6299":{
-                "district":"2",
-                "name":"McKenzie, James Andrew",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "6299":{
-                "district":"2",
-                "name":"McKenzie, James Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Kentucky"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ky"
 },
   "bbox": [
     -88.16021,

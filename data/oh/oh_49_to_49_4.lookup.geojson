@@ -1,21 +1,13 @@
 {
-  "id": "oh_49_to_49_04",
+  "id": "oh_49_to_49_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"49",
-    "id":"039049049004",
-    "member":{
-        "49":{
-            "164":{
-                "district":"4",
-                "name":"Anderson, Charles Marley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1887-03-03",
+    "end_session":49,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"oh"
 },
   "bbox": [
     -84.81241,

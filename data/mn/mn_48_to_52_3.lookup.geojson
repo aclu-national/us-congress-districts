@@ -1,49 +1,13 @@
 {
-  "id": "mn_48_to_52_03",
+  "id": "mn_48_to_52_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"52",
-    "id":"027048052003",
-    "member":{
-        "48":{
-            "9009":{
-                "district":"3",
-                "name":"Strait, Horace Burton",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "9009":{
-                "district":"3",
-                "name":"Strait, Horace Burton",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "5871":{
-                "district":"3",
-                "name":"MacDonald, John Lewis",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "3935":{
-                "district":"3",
-                "name":"Hall, Darwin Scott",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "3951":{
-                "district":"3",
-                "name":"Hall, Osee Matson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Minnesota"
+    "district":3,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mn"
 },
   "bbox": [
     -96.11834,

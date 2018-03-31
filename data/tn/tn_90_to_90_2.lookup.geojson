@@ -1,21 +1,13 @@
 {
-  "id": "tn_90_to_90_02",
+  "id": "tn_90_to_90_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"90",
-    "id":"047090090002",
-    "member":{
-        "90":{
-            "10719":{
-                "district":"2",
-                "name":"Duncan, John J.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Tennessee"
+    "district":2,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"tn"
 },
   "bbox": [
     -84.91415,

@@ -2,41 +2,12 @@
   "id": "pa_58_to_61_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"61",
-    "id":"042058061026",
-    "member":{
-        "58":{
-            "8496":{
-                "district":"26",
-                "name":"Shull, Joseph Horace",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "8267":{
-                "district":"26",
-                "name":"Schneebeli, Gustav Adolphus",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "1060":{
-                "district":"26",
-                "name":"Brodhead, Joseph Davis",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "7172":{
-                "district":"26",
-                "name":"Palmer, Alexander Mitchell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Pennsylvania"
+    "district":26,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"pa"
 },
   "bbox": [
     -75.99735,

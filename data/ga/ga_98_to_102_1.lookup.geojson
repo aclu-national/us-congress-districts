@@ -1,49 +1,13 @@
 {
-  "id": "ga_98_to_102_01",
+  "id": "ga_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"013098102001",
-    "member":{
-        "100":{
-            "15069":{
-                "district":"1",
-                "name":"Thomas, Lindsay",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15069":{
-                "district":"1",
-                "name":"Thomas, Lindsay",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15069":{
-                "district":"1",
-                "name":"Thomas, Lindsay",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "15069":{
-                "district":"1",
-                "name":"Thomas, Lindsay",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15069":{
-                "district":"1",
-                "name":"Thomas, Lindsay",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Georgia"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ga"
 },
   "bbox": [
     -82.65634,

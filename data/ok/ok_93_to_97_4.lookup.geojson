@@ -1,49 +1,13 @@
 {
-  "id": "ok_93_to_97_04",
+  "id": "ok_93_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"040093097004",
-    "member":{
-        "93":{
-            "8866":{
-                "district":"4",
-                "name":"Steed, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "8866":{
-                "district":"4",
-                "name":"Steed, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "8866":{
-                "district":"4",
-                "name":"Steed, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "8866":{
-                "district":"4",
-                "name":"Steed, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14843":{
-                "district":"4",
-                "name":"McCurdy, Dave",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Oklahoma"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ok"
 },
   "bbox": [
     -100.00038,

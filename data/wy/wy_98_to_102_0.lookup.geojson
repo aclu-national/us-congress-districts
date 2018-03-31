@@ -1,54 +1,13 @@
 {
-  "id": "wy_98_to_102_00",
+  "id": "wy_98_to_102_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"102",
-    "id":"056098102000",
-    "member":{
-        "100":{
-            "14611":{
-                "district":"1",
-                "name":"Cheney, Richard Bruce",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14611":{
-                "district":"1",
-                "name":"Cheney, Richard Bruce",
-                "party":"Republican"
-            },
-            "15633":{
-                "district":"1",
-                "name":"Thomas, Craig",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15633":{
-                "district":"1",
-                "name":"Thomas, Craig",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14611":{
-                "district":"1",
-                "name":"Cheney, Richard Bruce",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14611":{
-                "district":"1",
-                "name":"Cheney, Richard Bruce",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Wyoming"
+    "district":0,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"wy"
 },
   "bbox": [
     -111.05611,

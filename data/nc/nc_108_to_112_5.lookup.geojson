@@ -1,49 +1,13 @@
 {
-  "id": "nc_108_to_112_05",
+  "id": "nc_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"037108112005",
-    "member":{
-        "108":{
-            "29548":{
-                "district":"5",
-                "name":"Burr, Richard M.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20521":{
-                "district":"5",
-                "name":"Foxx, Virginia",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20521":{
-                "district":"5",
-                "name":"Foxx, Virginia",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20521":{
-                "district":"5",
-                "name":"Foxx, Virginia",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20521":{
-                "district":"5",
-                "name":"Foxx, Virginia",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nc"
 },
   "bbox": [
     -81.91817,

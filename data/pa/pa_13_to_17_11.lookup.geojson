@@ -2,48 +2,12 @@
   "id": "pa_13_to_17_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"17",
-    "id":"042013017011",
-    "member":{
-        "13":{
-            "3147":{
-                "district":"11",
-                "name":"Findley, William",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "3147":{
-                "district":"11",
-                "name":"Findley, William",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "5976":{
-                "district":"11",
-                "name":"Marchand, David",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "5976":{
-                "district":"11",
-                "name":"Marchand, David",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "7492":{
-                "district":"11",
-                "name":"Plumer, George",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"pa"
 },
   "bbox": [
     -79.90495,

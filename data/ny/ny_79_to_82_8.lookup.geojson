@@ -1,42 +1,13 @@
 {
-  "id": "ny_79_to_82_08",
+  "id": "ny_79_to_82_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"82",
-    "id":"036079082008",
-    "member":{
-        "79":{
-            "7390":{
-                "district":"8",
-                "name":"Pfeifer, Joseph Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "7390":{
-                "district":"8",
-                "name":"Pfeifer, Joseph Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "7390":{
-                "district":"8",
-                "name":"Pfeifer, Joseph Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "205":{
-                "district":"8",
-                "name":"Anfuso, Victor L'Episcopo",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -73.96959,

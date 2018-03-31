@@ -1,28 +1,13 @@
 {
-  "id": "va_104_to_105_04",
+  "id": "va_104_to_105_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"105",
-    "id":"051104105004",
-    "member":{
-        "104":{
-            "15060":{
-                "district":"4",
-                "name":"Sisisky, Norman",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "15060":{
-                "district":"4",
-                "name":"Sisisky, Norman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"va"
 },
   "bbox": [
     -78.30688,

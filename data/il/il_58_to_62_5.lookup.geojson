@@ -1,49 +1,13 @@
 {
-  "id": "il_58_to_62_05",
+  "id": "il_58_to_62_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"62",
-    "id":"017058062005",
-    "member":{
-        "58":{
-            "6122":{
-                "district":"5",
-                "name":"McAndrews, James",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "6454":{
-                "district":"5",
-                "name":"Michalek, Anthony",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "8163":{
-                "district":"5",
-                "name":"Sabath, Adolph Joachim",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "8163":{
-                "district":"5",
-                "name":"Sabath, Adolph Joachim",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "8163":{
-                "district":"5",
-                "name":"Sabath, Adolph Joachim",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":5,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -87.71376,

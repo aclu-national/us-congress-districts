@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"62",
-    "id":"036058062015",
-    "member":{
-        "58":{
-            "2693":{
-                "district":"15",
-                "name":"Douglas, William Harris",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "7047":{
-                "district":"15",
-                "name":"Olcott, Jacob Van Vechten",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "7047":{
-                "district":"15",
-                "name":"Olcott, Jacob Van Vechten",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "7047":{
-                "district":"15",
-                "name":"Olcott, Jacob Van Vechten",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "7236":{
-                "district":"15",
-                "name":"Patten, Thomas Gedney",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -73.99428,

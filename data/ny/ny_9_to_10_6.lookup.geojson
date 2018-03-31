@@ -1,28 +1,13 @@
 {
-  "id": "ny_9_to_10_06",
+  "id": "ny_9_to_10_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"10",
-    "id":"036009010006",
-    "member":{
-        "10":{
-            "9662":{
-                "district":"6",
-                "name":"Verplanck, Daniel Crommelin",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "9662":{
-                "district":"6",
-                "name":"Verplanck, Daniel Crommelin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"9",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1809-03-03",
+    "end_session":10,
+    "start_date":"1805-12-02",
+    "start_session":9,
+    "state":"ny"
 },
   "bbox": [
     -74.00011,

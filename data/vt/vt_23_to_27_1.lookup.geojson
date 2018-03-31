@@ -1,49 +1,13 @@
 {
-  "id": "vt_23_to_27_01",
+  "id": "vt_23_to_27_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"27",
-    "id":"050023027001",
-    "member":{
-        "23":{
-            "3939":{
-                "district":"1",
-                "name":"Hall, Hiland",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "3939":{
-                "district":"1",
-                "name":"Hall, Hiland",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "3939":{
-                "district":"1",
-                "name":"Hall, Hiland",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "3939":{
-                "district":"1",
-                "name":"Hall, Hiland",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "3939":{
-                "district":"1",
-                "name":"Hall, Hiland",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Vermont"
+    "district":1,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"vt"
 },
   "bbox": [
     -73.29094,

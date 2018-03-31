@@ -2,53 +2,12 @@
   "id": "pa_18_to_22_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"22",
-    "id":"042018022018",
-    "member":{
-        "18":{
-            "3070":{
-                "district":"18",
-                "name":"Farrelly, Patrick",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "3070":{
-                "district":"18",
-                "name":"Farrelly, Patrick",
-                "party":"Jackson"
-            },
-            "8509":{
-                "district":"18",
-                "name":"Sill, Thomas Hale",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "442":{
-                "district":"18",
-                "name":"Barlow, Stephen",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "8509":{
-                "district":"18",
-                "name":"Sill, Thomas Hale",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "407":{
-                "district":"18",
-                "name":"Banks, John",
-                "party":"Anti Masonic"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

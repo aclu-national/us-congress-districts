@@ -1,84 +1,13 @@
 {
-  "id": "ne_78_to_87_04",
+  "id": "ne_78_to_87_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"87",
-    "id":"031078087004",
-    "member":{
-        "78":{
-            "6474":{
-                "district":"4",
-                "name":"Miller, Arthur Lewis",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "6474":{
-                "district":"4",
-                "name":"Miller, Arthur Lewis",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "6474":{
-                "district":"4",
-                "name":"Miller, Arthur Lewis",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6474":{
-                "district":"4",
-                "name":"Miller, Arthur Lewis",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "6474":{
-                "district":"4",
-                "name":"Miller, Arthur Lewis",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "6474":{
-                "district":"4",
-                "name":"Miller, Arthur Lewis",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "6474":{
-                "district":"4",
-                "name":"Miller, Arthur Lewis",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "6474":{
-                "district":"4",
-                "name":"Miller, Arthur Lewis",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "6253":{
-                "district":"4",
-                "name":"McGinley, Donald Francis",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10534":{
-                "district":"4",
-                "name":"Martin, David T.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Nebraska"
+    "district":4,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ne"
 },
   "bbox": [
     -104.05351,

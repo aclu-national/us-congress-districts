@@ -1,68 +1,13 @@
 {
-  "id": "sc_58_to_64_05",
+  "id": "sc_58_to_64_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"64",
-    "id":"045058064005",
-    "member":{
-        "58":{
-            "3153":{
-                "district":"5",
-                "name":"Finley, David Edward",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "3153":{
-                "district":"5",
-                "name":"Finley, David Edward",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "3153":{
-                "district":"5",
-                "name":"Finley, David Edward",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "3153":{
-                "district":"5",
-                "name":"Finley, David Edward",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "3153":{
-                "district":"5",
-                "name":"Finley, David Edward",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "3153":{
-                "district":"5",
-                "name":"Finley, David Edward",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3153":{
-                "district":"5",
-                "name":"Finley, David Edward",
-                "party":"Democrat"
-            },
-            "6176":{
-                "district":"5",
-                "name":"McCorkle, Paul Grier",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"South Carolina"
+    "district":5,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"sc"
 },
   "bbox": [
     -81.87443,

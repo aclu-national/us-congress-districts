@@ -2,48 +2,12 @@
   "id": "mi_98_to_102_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"102",
-    "id":"026098102012",
-    "member":{
-        "100":{
-            "14407":{
-                "district":"12",
-                "name":"Bonior, David",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14407":{
-                "district":"12",
-                "name":"Bonior, David",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14407":{
-                "district":"12",
-                "name":"Bonior, David",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14407":{
-                "district":"12",
-                "name":"Bonior, David",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14407":{
-                "district":"12",
-                "name":"Bonior, David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Michigan"
+    "district":12,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"mi"
 },
   "bbox": [
     -83.0292,

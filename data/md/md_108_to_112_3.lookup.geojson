@@ -1,49 +1,13 @@
 {
-  "id": "md_108_to_112_03",
+  "id": "md_108_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"024108112003",
-    "member":{
-        "108":{
-            "15408":{
-                "district":"3",
-                "name":"Cardin, Benjamin L.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15408":{
-                "district":"3",
-                "name":"Cardin, Benjamin L.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20724":{
-                "district":"3",
-                "name":"Sarbanes, John P.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20724":{
-                "district":"3",
-                "name":"Sarbanes, John P.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20724":{
-                "district":"3",
-                "name":"Sarbanes, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"md"
 },
   "bbox": [
     -76.9352,

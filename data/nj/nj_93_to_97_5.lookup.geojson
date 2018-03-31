@@ -1,49 +1,13 @@
 {
-  "id": "nj_93_to_97_05",
+  "id": "nj_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"034093097005",
-    "member":{
-        "93":{
-            "3364":{
-                "district":"5",
-                "name":"Frelinghuysen, Peter H. B., II",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14221":{
-                "district":"5",
-                "name":"Fenwick, Millicent",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14221":{
-                "district":"5",
-                "name":"Fenwick, Millicent",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14221":{
-                "district":"5",
-                "name":"Fenwick, Millicent",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14221":{
-                "district":"5",
-                "name":"Fenwick, Millicent",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New Jersey"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nj"
 },
   "bbox": [
     -74.79751,

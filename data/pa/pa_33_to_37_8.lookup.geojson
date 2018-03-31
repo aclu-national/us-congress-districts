@@ -1,64 +1,13 @@
 {
-  "id": "pa_33_to_37_08",
+  "id": "pa_33_to_37_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"37",
-    "id":"042033037008",
-    "member":{
-        "33":{
-            "5044":{
-                "district":"8",
-                "name":"Jones, Jehu Glancy",
-                "party":"Democrat"
-            },
-            "6782":{
-                "district":"8",
-                "name":"Muhlenberg, Henry Augustus",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "5044":{
-                "district":"8",
-                "name":"Jones, Jehu Glancy",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "5044":{
-                "district":"8",
-                "name":"Jones, Jehu Glancy",
-                "party":"Democrat"
-            },
-            "5129":{
-                "district":"8",
-                "name":"Keim, William High",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "6297":{
-                "district":"8",
-                "name":"McKenty, Jacob Kerlin",
-                "party":"Democrat"
-            },
-            "8286":{
-                "district":"8",
-                "name":"Schwartz, John",
-                "party":"Anti-Lecompton Democrat"
-            }
-        },
-        "37":{
-            "157":{
-                "district":"8",
-                "name":"Ancona, Sydenham Elnathan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -76.44018,

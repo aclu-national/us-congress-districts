@@ -1,49 +1,13 @@
 {
-  "id": "ky_18_to_22_06",
+  "id": "ky_18_to_22_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"22",
-    "id":"021018022006",
-    "member":{
-        "18":{
-            "10016":{
-                "district":"6",
-                "name":"White, David",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "5551":{
-                "district":"6",
-                "name":"Lecompte, Joseph",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "5551":{
-                "district":"6",
-                "name":"Lecompte, Joseph",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "5551":{
-                "district":"6",
-                "name":"Lecompte, Joseph",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "5551":{
-                "district":"6",
-                "name":"Lecompte, Joseph",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ky"
 },
   "bbox": [
     -85.4829,

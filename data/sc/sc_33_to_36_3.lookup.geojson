@@ -1,42 +1,13 @@
 {
-  "id": "sc_33_to_36_03",
+  "id": "sc_33_to_36_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"36",
-    "id":"045033036003",
-    "member":{
-        "33":{
-            "5132":{
-                "district":"3",
-                "name":"Keitt, Laurence Massillon",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "5132":{
-                "district":"3",
-                "name":"Keitt, Laurence Massillon",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "5132":{
-                "district":"3",
-                "name":"Keitt, Laurence Massillon",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "5132":{
-                "district":"3",
-                "name":"Keitt, Laurence Massillon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"sc"
 },
   "bbox": [
     -81.8692,

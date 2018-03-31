@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_28",
   "type": "Feature",
   "properties": {
-    "ALAND":24290304018,
-    "AWATER":300333676,
-    "CD113FP":"28",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4828",
-    "INTPTLAT":"+27.8486342",
-    "INTPTLON":"-098.9136118",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 28",
-    "STATEFP":"48"
+    "district":28,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -100.212189,

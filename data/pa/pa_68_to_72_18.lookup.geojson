@@ -2,53 +2,12 @@
   "id": "pa_68_to_72_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"72",
-    "id":"042068072018",
-    "member":{
-        "68":{
-            "581":{
-                "district":"18",
-                "name":"Beers, Edward Mc Math",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "581":{
-                "district":"18",
-                "name":"Beers, Edward Mc Math",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "581":{
-                "district":"18",
-                "name":"Beers, Edward Mc Math",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "581":{
-                "district":"18",
-                "name":"Beers, Edward Mc Math",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "581":{
-                "district":"18",
-                "name":"Beers, Edward Mc Math",
-                "party":"Republican"
-            },
-            "694":{
-                "district":"18",
-                "name":"Biddle, Joseph Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -78.38034,

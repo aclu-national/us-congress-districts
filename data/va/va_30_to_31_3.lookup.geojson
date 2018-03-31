@@ -1,28 +1,13 @@
 {
-  "id": "va_30_to_31_03",
+  "id": "va_30_to_31_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"31",
-    "id":"051030031003",
-    "member":{
-        "30":{
-            "3230":{
-                "district":"3",
-                "name":"Flournoy, Thomas Stanhope",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "297":{
-                "district":"3",
-                "name":"Averett, Thomas Hamlet",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Virginia"
+    "district":3,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"va"
 },
   "bbox": [
     -80.62578,

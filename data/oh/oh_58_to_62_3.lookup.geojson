@@ -1,49 +1,13 @@
 {
-  "id": "oh_58_to_62_03",
+  "id": "oh_58_to_62_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"62",
-    "id":"039058062003",
-    "member":{
-        "58":{
-            "6885":{
-                "district":"3",
-                "name":"Nevin, Robert Murphy",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "6885":{
-                "district":"3",
-                "name":"Nevin, Robert Murphy",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "4058":{
-                "district":"3",
-                "name":"Harding, John Eugene",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2115":{
-                "district":"3",
-                "name":"Cox, James Middleton",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "2115":{
-                "district":"3",
-                "name":"Cox, James Middleton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

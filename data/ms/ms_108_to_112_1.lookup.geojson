@@ -1,54 +1,13 @@
 {
-  "id": "ms_108_to_112_01",
+  "id": "ms_108_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"028108112001",
-    "member":{
-        "108":{
-            "29534":{
-                "district":"1",
-                "name":"Wicker, Roger F.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29534":{
-                "district":"1",
-                "name":"Wicker, Roger F.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20761":{
-                "district":"1",
-                "name":"Childers, Travis",
-                "party":"Democrat"
-            },
-            "29534":{
-                "district":"1",
-                "name":"Wicker, Roger F.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20761":{
-                "district":"1",
-                "name":"Childers, Travis",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21147":{
-                "district":"1",
-                "name":"Nunnelee, Alan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Mississippi"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ms"
 },
   "bbox": [
     -90.31348,

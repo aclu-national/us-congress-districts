@@ -1,49 +1,13 @@
 {
-  "id": "fl_98_to_102_08",
+  "id": "fl_98_to_102_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"102",
-    "id":"012098102008",
-    "member":{
-        "100":{
-            "13047":{
-                "district":"8",
-                "name":"Young, C.w.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "13047":{
-                "district":"8",
-                "name":"Young, C.w.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "13047":{
-                "district":"8",
-                "name":"Young, C.w.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "13047":{
-                "district":"8",
-                "name":"Young, C.w.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "13047":{
-                "district":"8",
-                "name":"Young, C.w.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Florida"
+    "district":8,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"fl"
 },
   "bbox": [
     -82.85138,

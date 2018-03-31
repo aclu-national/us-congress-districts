@@ -1,49 +1,13 @@
 {
-  "id": "mi_108_to_112_01",
+  "id": "mi_108_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"026108112001",
-    "member":{
-        "108":{
-            "29360":{
-                "district":"1",
-                "name":"Stupak, Bart",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29360":{
-                "district":"1",
-                "name":"Stupak, Bart",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29360":{
-                "district":"1",
-                "name":"Stupak, Bart",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29360":{
-                "district":"1",
-                "name":"Stupak, Bart",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21141":{
-                "district":"1",
-                "name":"Benishek, Dan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Michigan"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mi"
 },
   "bbox": [
     -90.41814,

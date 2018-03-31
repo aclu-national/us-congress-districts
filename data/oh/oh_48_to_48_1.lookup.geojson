@@ -1,21 +1,13 @@
 {
-  "id": "oh_48_to_48_01",
+  "id": "oh_48_to_48_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"48",
-    "id":"039048048001",
-    "member":{
-        "48":{
-            "3253":{
-                "district":"1",
-                "name":"Follett, John Fassett",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Ohio"
+    "district":1,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"oh"
 },
   "bbox": [
     -84.5227,

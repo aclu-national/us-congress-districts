@@ -2,53 +2,12 @@
   "id": "pa_68_to_72_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"72",
-    "id":"042068072032",
-    "member":{
-        "68":{
-            "7540":{
-                "district":"32",
-                "name":"Porter, Stephen Geyer",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "7540":{
-                "district":"32",
-                "name":"Porter, Stephen Geyer",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "7540":{
-                "district":"32",
-                "name":"Porter, Stephen Geyer",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2981":{
-                "district":"32",
-                "name":"Erk, Edmund Frederick",
-                "party":"Republican"
-            },
-            "7540":{
-                "district":"32",
-                "name":"Porter, Stephen Geyer",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2981":{
-                "district":"32",
-                "name":"Erk, Edmund Frederick",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":32,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -80.22848,

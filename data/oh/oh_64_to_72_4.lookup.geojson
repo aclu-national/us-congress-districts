@@ -1,77 +1,13 @@
 {
-  "id": "oh_64_to_72_04",
+  "id": "oh_64_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"039064072004",
-    "member":{
-        "64":{
-            "8136":{
-                "district":"4",
-                "name":"Russell, Joshua Edward",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "9949":{
-                "district":"4",
-                "name":"Welty, Benjamin Franklin",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "9949":{
-                "district":"4",
-                "name":"Welty, Benjamin Franklin",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1382":{
-                "district":"4",
-                "name":"Cable, John Levi",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "1382":{
-                "district":"4",
-                "name":"Cable, John Levi",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "3188":{
-                "district":"4",
-                "name":"Fitzgerald, William Thomas",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "3188":{
-                "district":"4",
-                "name":"Fitzgerald, William Thomas",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "1382":{
-                "district":"4",
-                "name":"Cable, John Levi",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "1382":{
-                "district":"4",
-                "name":"Cable, John Levi",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -84.81241,

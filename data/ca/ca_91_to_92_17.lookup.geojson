@@ -2,27 +2,12 @@
   "id": "ca_91_to_92_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"92",
-    "id":"006091092017",
-    "member":{
-        "91":{
-            "12001":{
-                "district":"17",
-                "name":"Anderson, Glenn M.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "12001":{
-                "district":"17",
-                "name":"Anderson, Glenn M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":17,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -118.61454,

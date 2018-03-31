@@ -2,53 +2,12 @@
   "id": "ny_83_to_87_37",
   "type": "Feature",
   "properties": {
-    "district":"37",
-    "endcong":"87",
-    "id":"036083087037",
-    "member":{
-        "83":{
-            "1931":{
-                "district":"37",
-                "name":"Cole, William Sterling",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "1931":{
-                "district":"37",
-                "name":"Cole, William Sterling",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "1931":{
-                "district":"37",
-                "name":"Cole, William Sterling",
-                "party":"Republican"
-            },
-            "7995":{
-                "district":"37",
-                "name":"Robison, Howard Winfield",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "7995":{
-                "district":"37",
-                "name":"Robison, Howard Winfield",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "7995":{
-                "district":"37",
-                "name":"Robison, Howard Winfield",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":37,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -77.74993,

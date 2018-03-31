@@ -1,35 +1,13 @@
 {
-  "id": "sc_40_to_42_02",
+  "id": "sc_40_to_42_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"42",
-    "id":"045040042002",
-    "member":{
-        "40":{
-            "896":{
-                "district":"2",
-                "name":"Bowen, Christopher Columbus",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "896":{
-                "district":"2",
-                "name":"Bowen, Christopher Columbus",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "2482":{
-                "district":"2",
-                "name":"De Large, Robert Carlos",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"South Carolina"
+    "district":2,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"sc"
 },
   "bbox": [
     -81.8692,

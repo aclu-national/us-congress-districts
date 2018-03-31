@@ -1,28 +1,13 @@
 {
-  "id": "nc_88_to_89_04",
+  "id": "nc_88_to_89_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"89",
-    "id":"037088089004",
-    "member":{
-        "88":{
-            "2032":{
-                "district":"4",
-                "name":"Cooley, Harold Dunbar",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "2032":{
-                "district":"4",
-                "name":"Cooley, Harold Dunbar",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"nc"
 },
   "bbox": [
     -80.48785,

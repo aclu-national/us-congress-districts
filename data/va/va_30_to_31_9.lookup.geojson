@@ -1,28 +1,13 @@
 {
-  "id": "va_30_to_31_09",
+  "id": "va_30_to_31_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"31",
-    "id":"051030031009",
-    "member":{
-        "30":{
-            "7322":{
-                "district":"9",
-                "name":"Pendleton, John Strother",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "6740":{
-                "district":"9",
-                "name":"Morton, Jeremiah",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Virginia"
+    "district":9,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"va"
 },
   "bbox": [
     -78.33832,

@@ -1,49 +1,13 @@
 {
-  "id": "mi_33_to_37_03",
+  "id": "mi_33_to_37_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"37",
-    "id":"026033037003",
-    "member":{
-        "33":{
-            "1782":{
-                "district":"3",
-                "name":"Clark, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "9721":{
-                "district":"3",
-                "name":"Walbridge, David Safford",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "9721":{
-                "district":"3",
-                "name":"Walbridge, David Safford",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "5142":{
-                "district":"3",
-                "name":"Kellogg, Francis William",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "5142":{
-                "district":"3",
-                "name":"Kellogg, Francis William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Michigan"
+    "district":3,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"mi"
 },
   "bbox": [
     -86.82483,

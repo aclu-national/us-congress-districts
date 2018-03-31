@@ -1,49 +1,13 @@
 {
-  "id": "fl_98_to_102_05",
+  "id": "fl_98_to_102_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"102",
-    "id":"012098102005",
-    "member":{
-        "100":{
-            "14842":{
-                "district":"5",
-                "name":"McCollum, Bill",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14842":{
-                "district":"5",
-                "name":"McCollum, Bill",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14842":{
-                "district":"5",
-                "name":"McCollum, Bill",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14842":{
-                "district":"5",
-                "name":"McCollum, Bill",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14842":{
-                "district":"5",
-                "name":"McCollum, Bill",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Florida"
+    "district":5,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"fl"
 },
   "bbox": [
     -81.76217,

@@ -2,48 +2,12 @@
   "id": "pa_68_to_72_36",
   "type": "Feature",
   "properties": {
-    "district":"36",
-    "endcong":"72",
-    "id":"042068072036",
-    "member":{
-        "68":{
-            "1449":{
-                "district":"36",
-                "name":"Campbell, Guy Edgar",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "1449":{
-                "district":"36",
-                "name":"Campbell, Guy Edgar",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "1449":{
-                "district":"36",
-                "name":"Campbell, Guy Edgar",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "1449":{
-                "district":"36",
-                "name":"Campbell, Guy Edgar",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "1449":{
-                "district":"36",
-                "name":"Campbell, Guy Edgar",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":36,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -80.36087,

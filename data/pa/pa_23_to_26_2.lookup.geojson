@@ -1,62 +1,13 @@
 {
-  "id": "pa_23_to_26_02",
+  "id": "pa_23_to_26_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"26",
-    "id":"042023026002",
-    "member":{
-        "23":{
-            "4086":{
-                "district":"2",
-                "name":"Harper, James",
-                "party":"Anti-Jackson"
-            },
-            "720":{
-                "district":"2",
-                "name":"Binney, Horace",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "4086":{
-                "district":"2",
-                "name":"Harper, James",
-                "party":"Anti-Jackson"
-            },
-            "4808":{
-                "district":"2",
-                "name":"Ingersoll, Joseph Reed",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "8365":{
-                "district":"2",
-                "name":"Sergeant, John",
-                "party":"Whig"
-            },
-            "9407":{
-                "district":"2",
-                "name":"Toland, George Washington",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "8365":{
-                "district":"2",
-                "name":"Sergeant, John",
-                "party":"Whig"
-            },
-            "9407":{
-                "district":"2",
-                "name":"Toland, George Washington",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -75.18621,

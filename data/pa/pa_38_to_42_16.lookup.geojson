@@ -2,53 +2,12 @@
   "id": "pa_38_to_42_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"42",
-    "id":"042038042016",
-    "member":{
-        "38":{
-            "1908":{
-                "district":"16",
-                "name":"Coffroth, Alexander Hamilton",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "1908":{
-                "district":"16",
-                "name":"Coffroth, Alexander Hamilton",
-                "party":"Democrat"
-            },
-            "5356":{
-                "district":"16",
-                "name":"Koontz, William Henry",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "5356":{
-                "district":"16",
-                "name":"Koontz, William Henry",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "1612":{
-                "district":"16",
-                "name":"Cessna, John",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "6452":{
-                "district":"16",
-                "name":"Meyers, Benjamin Franklin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"pa"
 },
   "bbox": [
     -79.41756,

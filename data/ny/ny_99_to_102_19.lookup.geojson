@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"102",
-    "id":"036099102019",
-    "member":{
-        "100":{
-            "12003":{
-                "district":"19",
-                "name":"Biaggi, Mario",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15603":{
-                "district":"19",
-                "name":"Engel, Eliot L.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15603":{
-                "district":"19",
-                "name":"Engel, Eliot L.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "12003":{
-                "district":"19",
-                "name":"Biaggi, Mario",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":19,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -73.9147,

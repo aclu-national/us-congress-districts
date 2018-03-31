@@ -2,53 +2,12 @@
   "id": "ny_23_to_27_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"27",
-    "id":"036023027029",
-    "member":{
-        "23":{
-            "5526":{
-                "district":"29",
-                "name":"Lay, George Washington",
-                "party":"Anti Masonic"
-            }
-        },
-        "24":{
-            "5526":{
-                "district":"29",
-                "name":"Lay, George Washington",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "7257":{
-                "district":"29",
-                "name":"Patterson, William",
-                "party":"Whig"
-            },
-            "7661":{
-                "district":"29",
-                "name":"Putnam, Harvey",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "3505":{
-                "district":"29",
-                "name":"Gates, Seth Merrill",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "3505":{
-                "district":"29",
-                "name":"Gates, Seth Merrill",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -78.48814,

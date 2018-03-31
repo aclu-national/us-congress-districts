@@ -1,42 +1,13 @@
 {
-  "id": "ma_4_to_7_06",
+  "id": "ma_4_to_7_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"7",
-    "id":"025004007006",
-    "member":{
-        "4":{
-            "7788":{
-                "district":"6",
-                "name":"Reed, John",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "7788":{
-                "district":"6",
-                "name":"Reed, John",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "7788":{
-                "district":"6",
-                "name":"Reed, John",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "8662":{
-                "district":"6",
-                "name":"Smith, Josiah",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"ma"
 },
   "bbox": [
     -71.13069,

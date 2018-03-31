@@ -1,28 +1,13 @@
 {
-  "id": "tn_93_to_94_04",
+  "id": "tn_93_to_94_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"94",
-    "id":"047093094004",
-    "member":{
-        "93":{
-            "3034":{
-                "district":"4",
-                "name":"Evins, Joseph Landon",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "3034":{
-                "district":"4",
-                "name":"Evins, Joseph Landon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1976-10-01",
+    "end_session":94,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tn"
 },
   "bbox": [
     -86.9608,

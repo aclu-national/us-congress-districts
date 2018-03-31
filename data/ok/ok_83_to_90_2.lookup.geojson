@@ -1,70 +1,13 @@
 {
-  "id": "ok_83_to_90_02",
+  "id": "ok_83_to_90_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"90",
-    "id":"040083090002",
-    "member":{
-        "83":{
-            "2854":{
-                "district":"2",
-                "name":"Edmondson, Edmond Augustus \"Ed\"",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "2854":{
-                "district":"2",
-                "name":"Edmondson, Edmond Augustus \"Ed\"",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "2854":{
-                "district":"2",
-                "name":"Edmondson, Edmond Augustus \"Ed\"",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "2854":{
-                "district":"2",
-                "name":"Edmondson, Edmond Augustus \"Ed\"",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "2854":{
-                "district":"2",
-                "name":"Edmondson, Edmond Augustus \"Ed\"",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "2854":{
-                "district":"2",
-                "name":"Edmondson, Edmond Augustus \"Ed\"",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "2854":{
-                "district":"2",
-                "name":"Edmondson, Edmond Augustus \"Ed\"",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "2854":{
-                "district":"2",
-                "name":"Edmondson, Edmond Augustus \"Ed\"",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Oklahoma"
+    "district":2,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ok"
 },
   "bbox": [
     -97.06468,

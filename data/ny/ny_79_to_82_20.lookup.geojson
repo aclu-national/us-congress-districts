@@ -2,46 +2,12 @@
   "id": "ny_79_to_82_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"82",
-    "id":"036079082020",
-    "member":{
-        "79":{
-            "802":{
-                "district":"20",
-                "name":"Bloom, Sol",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "802":{
-                "district":"20",
-                "name":"Bloom, Sol",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "802":{
-                "district":"20",
-                "name":"Bloom, Sol",
-                "party":"Democrat"
-            },
-            "8050":{
-                "district":"20",
-                "name":"Roosevelt, Franklin Delano",
-                "party":"Liberal"
-            }
-        },
-        "82":{
-            "8050":{
-                "district":"20",
-                "name":"Roosevelt, Franklin Delano",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -74.01018,

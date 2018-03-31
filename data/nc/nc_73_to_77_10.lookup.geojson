@@ -2,48 +2,12 @@
   "id": "nc_73_to_77_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"77",
-    "id":"037073077010",
-    "member":{
-        "73":{
-            "1235":{
-                "district":"10",
-                "name":"Bulwinkle, Alfred Lee",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "1235":{
-                "district":"10",
-                "name":"Bulwinkle, Alfred Lee",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "1235":{
-                "district":"10",
-                "name":"Bulwinkle, Alfred Lee",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "1235":{
-                "district":"10",
-                "name":"Bulwinkle, Alfred Lee",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "1235":{
-                "district":"10",
-                "name":"Bulwinkle, Alfred Lee",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"North Carolina"
+    "district":10,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"nc"
 },
   "bbox": [
     -82.96284,

@@ -1,77 +1,13 @@
 {
-  "id": "ok_64_to_72_01",
+  "id": "ok_64_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"040064072001",
-    "member":{
-        "64":{
-            "2356":{
-                "district":"1",
-                "name":"Davenport, James Sanford",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "1638":{
-                "district":"1",
-                "name":"Chandler, Thomas Alberter",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "4625":{
-                "district":"1",
-                "name":"Howard, Everette Burgess",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1638":{
-                "district":"1",
-                "name":"Chandler, Thomas Alberter",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "4625":{
-                "district":"1",
-                "name":"Howard, Everette Burgess",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "6606":{
-                "district":"1",
-                "name":"Montgomery, Samuel James",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4625":{
-                "district":"1",
-                "name":"Howard, Everette Burgess",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7015":{
-                "district":"1",
-                "name":"O'Connor, Charles",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2611":{
-                "district":"1",
-                "name":"Disney, Wesley Ernest",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Oklahoma"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"ok"
 },
   "bbox": [
     -97.06468,

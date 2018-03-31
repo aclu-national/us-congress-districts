@@ -1,49 +1,13 @@
 {
-  "id": "sd_98_to_102_00",
+  "id": "sd_98_to_102_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"102",
-    "id":"046098102000",
-    "member":{
-        "100":{
-            "15425":{
-                "district":"1",
-                "name":"Johnson, Tim",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15425":{
-                "district":"1",
-                "name":"Johnson, Tim",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15425":{
-                "district":"1",
-                "name":"Johnson, Tim",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14617":{
-                "district":"1",
-                "name":"Daschle, Thomas Andrew",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14617":{
-                "district":"1",
-                "name":"Daschle, Thomas Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"South Dakota"
+    "district":0,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"sd"
 },
   "bbox": [
     -104.05725,

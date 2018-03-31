@@ -1,56 +1,13 @@
 {
-  "id": "al_28_to_33_04",
+  "id": "al_28_to_33_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"33",
-    "id":"001028033004",
-    "member":{
-        "28":{
-            "7274":{
-                "district":"4",
-                "name":"Payne, William Winter",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "7274":{
-                "district":"4",
-                "name":"Payne, William Winter",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "4802":{
-                "district":"4",
-                "name":"Inge, Samuel Williams",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "4802":{
-                "district":"4",
-                "name":"Inge, Samuel Williams",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "8706":{
-                "district":"4",
-                "name":"Smith, William Russell",
-                "party":"Union"
-            }
-        },
-        "33":{
-            "8706":{
-                "district":"4",
-                "name":"Smith, William Russell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Alabama"
+    "district":4,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

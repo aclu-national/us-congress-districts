@@ -1,54 +1,13 @@
 {
-  "id": "ga_98_to_102_07",
+  "id": "ga_98_to_102_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"102",
-    "id":"013098102007",
-    "member":{
-        "100":{
-            "15081":{
-                "district":"7",
-                "name":"Darden, George",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15081":{
-                "district":"7",
-                "name":"Darden, George",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15081":{
-                "district":"7",
-                "name":"Darden, George",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14252":{
-                "district":"7",
-                "name":"McDonald, Larry",
-                "party":"Democrat"
-            },
-            "15081":{
-                "district":"7",
-                "name":"Darden, George",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15081":{
-                "district":"7",
-                "name":"Darden, George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ga"
 },
   "bbox": [
     -85.6052,

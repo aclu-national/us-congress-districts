@@ -1,49 +1,13 @@
 {
-  "id": "al_58_to_62_04",
+  "id": "al_58_to_62_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"62",
-    "id":"001058062004",
-    "member":{
-        "58":{
-            "909":{
-                "district":"4",
-                "name":"Bowie, Sydney Johnston",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "909":{
-                "district":"4",
-                "name":"Bowie, Sydney Johnston",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "2137":{
-                "district":"4",
-                "name":"Craig, William Benjamin",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "2137":{
-                "district":"4",
-                "name":"Craig, William Benjamin",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "757":{
-                "district":"4",
-                "name":"Blackmon, Fred Leonard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Alabama"
+    "district":4,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"al"
 },
   "bbox": [
     -87.47308,

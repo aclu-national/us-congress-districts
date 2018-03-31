@@ -1,28 +1,13 @@
 {
-  "id": "oh_103_to_104_05",
+  "id": "oh_103_to_104_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"104",
-    "id":"039103104005",
-    "member":{
-        "103":{
-            "15604":{
-                "district":"5",
-                "name":"Gillmor, Paul E.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15604":{
-                "district":"5",
-                "name":"Gillmor, Paul E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"oh"
 },
   "bbox": [
     -84.80626,

@@ -1,75 +1,13 @@
 {
-  "id": "al_65_to_72_02",
+  "id": "al_65_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"001065072002",
-    "member":{
-        "65":{
-            "2514":{
-                "district":"2",
-                "name":"Dent, Stanley Hubert, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "2514":{
-                "district":"2",
-                "name":"Dent, Stanley Hubert, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "9547":{
-                "district":"2",
-                "name":"Tyson, John Russell",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "4418":{
-                "district":"2",
-                "name":"Hill, Lister",
-                "party":"Democrat"
-            },
-            "9547":{
-                "district":"2",
-                "name":"Tyson, John Russell",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "4418":{
-                "district":"2",
-                "name":"Hill, Lister",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "4418":{
-                "district":"2",
-                "name":"Hill, Lister",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "4418":{
-                "district":"2",
-                "name":"Hill, Lister",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "4418":{
-                "district":"2",
-                "name":"Hill, Lister",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Alabama"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"al"
 },
   "bbox": [
     -88.02938,

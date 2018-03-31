@@ -1,54 +1,13 @@
 {
-  "id": "wi_58_to_62_02",
+  "id": "wi_58_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"055058062002",
-    "member":{
-        "58":{
-            "30":{
-                "district":"2",
-                "name":"Adams, Henry Cullen",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "30":{
-                "district":"2",
-                "name":"Adams, Henry Cullen",
-                "party":"Republican"
-            },
-            "6869":{
-                "district":"2",
-                "name":"Nelson, John Mandt",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "6869":{
-                "district":"2",
-                "name":"Nelson, John Mandt",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "6869":{
-                "district":"2",
-                "name":"Nelson, John Mandt",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "6869":{
-                "district":"2",
-                "name":"Nelson, John Mandt",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Wisconsin"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"wi"
 },
   "bbox": [
     -90.02883,

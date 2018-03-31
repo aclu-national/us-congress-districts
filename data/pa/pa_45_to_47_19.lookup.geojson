@@ -2,34 +2,12 @@
   "id": "pa_45_to_47_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"47",
-    "id":"042045047019",
-    "member":{
-        "45":{
-            "5931":{
-                "district":"19",
-                "name":"Maish, Levi",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "620":{
-                "district":"19",
-                "name":"Beltzhoover, Frank Eckels",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "620":{
-                "district":"19",
-                "name":"Beltzhoover, Frank Eckels",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"pa"
 },
   "bbox": [
     -77.62724,

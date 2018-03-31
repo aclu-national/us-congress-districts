@@ -1,54 +1,13 @@
 {
-  "id": "pa_18_to_22_02",
+  "id": "pa_18_to_22_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"22",
-    "id":"042018022002",
-    "member":{
-        "18":{
-            "4298":{
-                "district":"2",
-                "name":"Hemphill, Joseph",
-                "party":"Jackson Federalist"
-            }
-        },
-        "19":{
-            "4298":{
-                "district":"2",
-                "name":"Hemphill, Joseph",
-                "party":"Jackson"
-            },
-            "5311":{
-                "district":"2",
-                "name":"Kittera, Thomas",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "8365":{
-                "district":"2",
-                "name":"Sergeant, John",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "4298":{
-                "district":"2",
-                "name":"Hemphill, Joseph",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "4580":{
-                "district":"2",
-                "name":"Horn, Henry",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"pa"
 },
   "bbox": [
     -75.18236,

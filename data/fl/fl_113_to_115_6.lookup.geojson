@@ -1,19 +1,13 @@
 {
-  "id": "fl_113_to_115_06",
+  "id": "fl_113_to_115_6",
   "type": "Feature",
   "properties": {
-    "ALAND":6493534280,
-    "AWATER":1789451640,
-    "CD113FP":"06",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1206",
-    "INTPTLAT":"+29.4576319",
-    "INTPTLON":"-081.3518251",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 6",
-    "STATEFP":"12"
+    "district":6,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"fl"
 },
   "bbox": [
     -82.056104,

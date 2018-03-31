@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_41",
   "type": "Feature",
   "properties": {
-    "district":"41",
-    "endcong":"82",
-    "id":"036079082041",
-    "member":{
-        "79":{
-            "9705":{
-                "district":"41",
-                "name":"Wadsworth, James Wolcott, Jr.",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "9705":{
-                "district":"41",
-                "name":"Wadsworth, James Wolcott, Jr.",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "9705":{
-                "district":"41",
-                "name":"Wadsworth, James Wolcott, Jr.",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "7102":{
-                "district":"41",
-                "name":"Ostertag, Harold Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":41,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -78.48814,

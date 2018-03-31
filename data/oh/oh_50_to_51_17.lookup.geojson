@@ -2,27 +2,12 @@
   "id": "oh_50_to_51_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"51",
-    "id":"039050051017",
-    "member":{
-        "50":{
-            "9224":{
-                "district":"17",
-                "name":"Taylor, Joseph Danner",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "9224":{
-                "district":"17",
-                "name":"Taylor, Joseph Danner",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"oh"
 },
   "bbox": [
     -81.72861,

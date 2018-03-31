@@ -2,48 +2,12 @@
   "id": "ny_108_to_112_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"112",
-    "id":"036108112019",
-    "member":{
-        "108":{
-            "29544":{
-                "district":"19",
-                "name":"Kelly, Sue W.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29544":{
-                "district":"19",
-                "name":"Kelly, Sue W.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20734":{
-                "district":"19",
-                "name":"Hall, John J.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20734":{
-                "district":"19",
-                "name":"Hall, John J.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21155":{
-                "district":"19",
-                "name":"Hayworth, Nan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":19,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -74.76205,

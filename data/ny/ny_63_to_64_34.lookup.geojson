@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_34",
   "type": "Feature",
   "properties": {
-    "district":"34",
-    "endcong":"64",
-    "id":"036063064034",
-    "member":{
-        "63":{
-            "3048":{
-                "district":"34",
-                "name":"Fairchild, George Winthrop",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "3048":{
-                "district":"34",
-                "name":"Fairchild, George Winthrop",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":34,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -76.13018,

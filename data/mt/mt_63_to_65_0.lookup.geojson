@@ -1,50 +1,13 @@
 {
-  "id": "mt_63_to_65_00",
+  "id": "mt_63_to_65_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"65",
-    "id":"030063065000",
-    "member":{
-        "63":{
-            "3013":{
-                "district":"98",
-                "name":"Evans, John Morgan",
-                "party":"Democrat"
-            },
-            "9003":{
-                "district":"98",
-                "name":"Stout, Tom",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3013":{
-                "district":"98",
-                "name":"Evans, John Morgan",
-                "party":"Democrat"
-            },
-            "9003":{
-                "district":"98",
-                "name":"Stout, Tom",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "3013":{
-                "district":"98",
-                "name":"Evans, John Morgan",
-                "party":"Democrat"
-            },
-            "7730":{
-                "district":"98",
-                "name":"Rankin, Jeannette",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Montana"
+    "district":0,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"mt"
 },
   "bbox": [
     -116.05,

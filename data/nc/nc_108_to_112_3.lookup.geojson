@@ -1,49 +1,13 @@
 {
-  "id": "nc_108_to_112_03",
+  "id": "nc_108_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"037108112003",
-    "member":{
-        "108":{
-            "29546":{
-                "district":"3",
-                "name":"Jones, Walter B., Jr.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29546":{
-                "district":"3",
-                "name":"Jones, Walter B., Jr.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29546":{
-                "district":"3",
-                "name":"Jones, Walter B., Jr.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29546":{
-                "district":"3",
-                "name":"Jones, Walter B., Jr.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "29546":{
-                "district":"3",
-                "name":"Jones, Walter B., Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nc"
 },
   "bbox": [
     -78.30466,

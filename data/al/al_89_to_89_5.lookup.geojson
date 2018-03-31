@@ -1,21 +1,13 @@
 {
-  "id": "al_89_to_89_05",
+  "id": "al_89_to_89_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"89",
-    "id":"001089089005",
-    "member":{
-        "89":{
-            "8353":{
-                "district":"5",
-                "name":"Selden, Armistead Inge, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Alabama"
+    "district":5,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"al"
 },
   "bbox": [
     -88.42145,

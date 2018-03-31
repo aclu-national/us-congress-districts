@@ -1,21 +1,13 @@
 {
-  "id": "pa_2_to_2_08",
+  "id": "pa_2_to_2_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"2",
-    "id":"042002002008",
-    "member":{
-        "2":{
-            "3147":{
-                "district":"8",
-                "name":"Findley, William",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"2",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1791-03-04",
+    "start_session":2,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

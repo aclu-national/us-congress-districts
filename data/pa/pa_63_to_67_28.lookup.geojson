@@ -2,53 +2,12 @@
   "id": "pa_63_to_67_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"67",
-    "id":"042063067028",
-    "member":{
-        "63":{
-            "4716":{
-                "district":"28",
-                "name":"Hulings, Willis James",
-                "party":"Progressive"
-            }
-        },
-        "64":{
-            "6507":{
-                "district":"28",
-                "name":"Miller, Samuel Henry",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "676":{
-                "district":"28",
-                "name":"Beshlin, Earl Hanley",
-                "party":"Democrat"
-            },
-            "790":{
-                "district":"28",
-                "name":"Bleakley, Orrin Dubbs",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "4716":{
-                "district":"28",
-                "name":"Hulings, Willis James",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "737":{
-                "district":"28",
-                "name":"Bixler, Harris Jacob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":28,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -80.51935,

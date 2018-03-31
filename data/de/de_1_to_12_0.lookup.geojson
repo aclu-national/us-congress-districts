@@ -1,103 +1,13 @@
 {
-  "id": "de_1_to_12_00",
+  "id": "de_1_to_12_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"12",
-    "id":"010001012000",
-    "member":{
-        "1":{
-            "9676":{
-                "district":"1",
-                "name":"Vining, John",
-                "party":"Pro-Administration"
-            }
-        },
-        "10":{
-            "9613":{
-                "district":"1",
-                "name":"Van Dyke, Nicholas",
-                "party":"Federalist"
-            }
-        },
-        "11":{
-            "9613":{
-                "district":"1",
-                "name":"Van Dyke, Nicholas",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "7897":{
-                "district":"1",
-                "name":"Ridgely, Henry Moore",
-                "party":"Federalist"
-            }
-        },
-        "2":{
-            "9676":{
-                "district":"1",
-                "name":"Vining, John",
-                "party":"Pro-Administration"
-            }
-        },
-        "3":{
-            "5494":{
-                "district":"1",
-                "name":"Latimer, Henry",
-                "party":"Pro-Administration"
-            },
-            "7235":{
-                "district":"1",
-                "name":"Patten, John",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "7235":{
-                "district":"1",
-                "name":"Patten, John",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "524":{
-                "district":"1",
-                "name":"Bayard, James Asheton Sr.",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "524":{
-                "district":"1",
-                "name":"Bayard, James Asheton Sr.",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "524":{
-                "district":"1",
-                "name":"Bayard, James Asheton Sr.",
-                "party":"Federalist"
-            }
-        },
-        "8":{
-            "8013":{
-                "district":"1",
-                "name":"Rodney, Caesar Augustus",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "1085":{
-                "district":"1",
-                "name":"Broom, James Madison",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Delaware"
+    "district":0,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"de"
 },
   "bbox": [
     -75.78876,

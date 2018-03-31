@@ -2,39 +2,12 @@
   "id": "il_90_to_92_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"92",
-    "id":"017090092015",
-    "member":{
-        "90":{
-            "10617":{
-                "district":"15",
-                "name":"Reid, Charlotte T.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10617":{
-                "district":"15",
-                "name":"Reid, Charlotte T.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10617":{
-                "district":"15",
-                "name":"Reid, Charlotte T.",
-                "party":"Republican"
-            },
-            "13054":{
-                "district":"15",
-                "name":"Carlson, Clifford",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Illinois"
+    "district":15,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"il"
 },
   "bbox": [
     -89.1672,

@@ -1,21 +1,13 @@
 {
-  "id": "me_28_to_28_02",
+  "id": "me_28_to_28_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"28",
-    "id":"023028028002",
-    "member":{
-        "28":{
-            "2768":{
-                "district":"2",
-                "name":"Dunlap, Robert Pinckney",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Maine"
+    "district":2,
+    "end_date":"1845-03-03",
+    "end_session":28,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"me"
 },
   "bbox": [
     -70.82174,

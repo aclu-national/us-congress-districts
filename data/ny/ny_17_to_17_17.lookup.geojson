@@ -2,20 +2,12 @@
   "id": "ny_17_to_17_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"17",
-    "id":"036017017017",
-    "member":{
-        "17":{
-            "4674":{
-                "district":"17",
-                "name":"Hubbard, Thomas Hill",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ny"
 },
   "bbox": [
     -75.99368,

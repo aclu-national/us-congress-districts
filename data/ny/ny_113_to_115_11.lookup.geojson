@@ -2,18 +2,12 @@
   "id": "ny_113_to_115_11",
   "type": "Feature",
   "properties": {
-    "ALAND":170515938,
-    "AWATER":126197973,
-    "CD113FP":"11",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3611",
-    "INTPTLAT":"+40.5669743",
-    "INTPTLON":"-074.1263136",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 11",
-    "STATEFP":"36"
+    "district":11,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ny"
 },
   "bbox": [
     -74.25909,

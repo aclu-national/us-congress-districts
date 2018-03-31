@@ -1,49 +1,13 @@
 {
-  "id": "ar_108_to_112_03",
+  "id": "ar_108_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"005108112003",
-    "member":{
-        "108":{
-            "20101":{
-                "district":"3",
-                "name":"Boozman, John",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20101":{
-                "district":"3",
-                "name":"Boozman, John",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20101":{
-                "district":"3",
-                "name":"Boozman, John",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20101":{
-                "district":"3",
-                "name":"Boozman, John",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21108":{
-                "district":"3",
-                "name":"Womack, Steve",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Arkansas"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ar"
 },
   "bbox": [
     -94.61792,

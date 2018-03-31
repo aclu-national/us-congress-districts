@@ -1,40 +1,13 @@
 {
-  "id": "in_50_to_52_01",
+  "id": "in_50_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"018050052001",
-    "member":{
-        "50":{
-            "4621":{
-                "district":"1",
-                "name":"Hovey, Alvin Peterson",
-                "party":"Republican"
-            },
-            "7542":{
-                "district":"1",
-                "name":"Posey, Francis Blackburn",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "7211":{
-                "district":"1",
-                "name":"Parrett, William Fletcher",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "7211":{
-                "district":"1",
-                "name":"Parrett, William Fletcher",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

@@ -1,49 +1,13 @@
 {
-  "id": "wv_58_to_62_05",
+  "id": "wv_58_to_62_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"62",
-    "id":"054058062005",
-    "member":{
-        "58":{
-            "4702":{
-                "district":"5",
-                "name":"Hughes, James Anthony",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "4702":{
-                "district":"5",
-                "name":"Hughes, James Anthony",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "4702":{
-                "district":"5",
-                "name":"Hughes, James Anthony",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "4702":{
-                "district":"5",
-                "name":"Hughes, James Anthony",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "4702":{
-                "district":"5",
-                "name":"Hughes, James Anthony",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"West Virginia"
+    "district":5,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"wv"
 },
   "bbox": [
     -82.64474,

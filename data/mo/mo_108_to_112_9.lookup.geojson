@@ -1,49 +1,13 @@
 {
-  "id": "mo_108_to_112_09",
+  "id": "mo_108_to_112_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"112",
-    "id":"029108112009",
-    "member":{
-        "108":{
-            "29737":{
-                "district":"9",
-                "name":"Hulshof, Kenny C.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29737":{
-                "district":"9",
-                "name":"Hulshof, Kenny C.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29737":{
-                "district":"9",
-                "name":"Hulshof, Kenny C.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20926":{
-                "district":"9",
-                "name":"Luetkemeyer, Blaine",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20926":{
-                "district":"9",
-                "name":"Luetkemeyer, Blaine",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Missouri"
+    "district":9,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mo"
 },
   "bbox": [
     -92.85791,

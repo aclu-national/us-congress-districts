@@ -1,21 +1,13 @@
 {
-  "id": "ny_92_to_92_03",
+  "id": "ny_92_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"036092092003",
-    "member":{
-        "92":{
-            "10784":{
-                "district":"3",
-                "name":"Wolff, Lester L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"ny"
 },
   "bbox": [
     -73.77099,

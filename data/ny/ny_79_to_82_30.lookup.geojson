@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"82",
-    "id":"036079082030",
-    "member":{
-        "79":{
-            "5580":{
-                "district":"30",
-                "name":"Le Fevre, Jay",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "5580":{
-                "district":"30",
-                "name":"Le Fevre, Jay",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "5580":{
-                "district":"30",
-                "name":"Le Fevre, Jay",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "9978":{
-                "district":"30",
-                "name":"Wharton, James Ernest",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":30,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -74.78069,

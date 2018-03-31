@@ -1,40 +1,13 @@
 {
-  "id": "md_52_to_54_05",
+  "id": "md_52_to_54_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"54",
-    "id":"024052054005",
-    "member":{
-        "52":{
-            "1965":{
-                "district":"5",
-                "name":"Compton, Barnes",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "1903":{
-                "district":"5",
-                "name":"Coffin, Charles Edward",
-                "party":"Republican"
-            },
-            "1965":{
-                "district":"5",
-                "name":"Compton, Barnes",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "1903":{
-                "district":"5",
-                "name":"Coffin, Charles Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Maryland"
+    "district":5,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"md"
 },
   "bbox": [
     -77.27422,

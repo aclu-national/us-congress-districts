@@ -1,33 +1,13 @@
 {
-  "id": "sc_13_to_14_09",
+  "id": "sc_13_to_14_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"14",
-    "id":"045013014009",
-    "member":{
-        "13":{
-            "5216":{
-                "district":"9",
-                "name":"Kershaw, John",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "6115":{
-                "district":"9",
-                "name":"Mayrant, William",
-                "party":"Republican"
-            },
-            "6509":{
-                "district":"9",
-                "name":"Miller, Stephen Decatur",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"South Carolina"
+    "district":9,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"sc"
 },
   "bbox": [
     -80.9095,

@@ -1,49 +1,13 @@
 {
-  "id": "mn_108_to_112_08",
+  "id": "mn_108_to_112_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"112",
-    "id":"027108112008",
-    "member":{
-        "108":{
-            "14265":{
-                "district":"8",
-                "name":"Oberstar, James L.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "14265":{
-                "district":"8",
-                "name":"Oberstar, James L.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "14265":{
-                "district":"8",
-                "name":"Oberstar, James L.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "14265":{
-                "district":"8",
-                "name":"Oberstar, James L.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21146":{
-                "district":"8",
-                "name":"Cravaack, Chip",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Minnesota"
+    "district":8,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mn"
 },
   "bbox": [
     -95.18374,

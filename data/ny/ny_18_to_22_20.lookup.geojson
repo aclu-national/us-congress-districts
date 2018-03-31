@@ -2,83 +2,12 @@
   "id": "ny_18_to_22_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"22",
-    "id":"036018022020",
-    "member":{
-        "18":{
-            "1945":{
-                "district":"20",
-                "name":"Collins, Ela",
-                "party":"Crawford Republican"
-            },
-            "9254":{
-                "district":"20",
-                "name":"Ten Eyck, Egbert",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "3294":{
-                "district":"20",
-                "name":"Fosdick, Nicoll",
-                "party":"Adams"
-            },
-            "4709":{
-                "district":"20",
-                "name":"Hugunin, Daniel Jr.",
-                "party":"Adams"
-            },
-            "9254":{
-                "district":"20",
-                "name":"Ten Eyck, Egbert",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "10398":{
-                "district":"20",
-                "name":"Wright, Silas, Jr.",
-                "party":"Jackson"
-            },
-            "1242":{
-                "district":"20",
-                "name":"Bunner, Rudolph",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "3166":{
-                "district":"20",
-                "name":"Fisher, George",
-                "party":"Anti-Jackson"
-            },
-            "4215":{
-                "district":"20",
-                "name":"Hawkins, Joseph",
-                "party":"Anti-Jackson"
-            },
-            "8210":{
-                "district":"20",
-                "name":"Sanford, Jonah",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "2437":{
-                "district":"20",
-                "name":"Dayan, Charles",
-                "party":"Jackson"
-            },
-            "9826":{
-                "district":"20",
-                "name":"Wardwell, Daniel",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

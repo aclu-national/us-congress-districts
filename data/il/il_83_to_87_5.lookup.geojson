@@ -1,49 +1,13 @@
 {
-  "id": "il_83_to_87_05",
+  "id": "il_83_to_87_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"87",
-    "id":"017083087005",
-    "member":{
-        "83":{
-            "5326":{
-                "district":"5",
-                "name":"Kluczynski, John Carl",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5326":{
-                "district":"5",
-                "name":"Kluczynski, John Carl",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5326":{
-                "district":"5",
-                "name":"Kluczynski, John Carl",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5326":{
-                "district":"5",
-                "name":"Kluczynski, John Carl",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "5326":{
-                "district":"5",
-                "name":"Kluczynski, John Carl",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":5,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -87.80261,

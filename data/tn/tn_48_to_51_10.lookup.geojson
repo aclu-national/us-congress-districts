@@ -2,41 +2,12 @@
   "id": "tn_48_to_51_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"51",
-    "id":"047048051010",
-    "member":{
-        "48":{
-            "10440":{
-                "district":"10",
-                "name":"Young, Hiram Casey",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "9237":{
-                "district":"10",
-                "name":"Taylor, Zachary",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "7394":{
-                "district":"10",
-                "name":"Phelan, James",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "7394":{
-                "district":"10",
-                "name":"Phelan, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Tennessee"
+    "district":10,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

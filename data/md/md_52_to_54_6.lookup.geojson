@@ -1,35 +1,13 @@
 {
-  "id": "md_52_to_54_06",
+  "id": "md_52_to_54_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"54",
-    "id":"024052054006",
-    "member":{
-        "52":{
-            "6283":{
-                "district":"6",
-                "name":"McKaig, William McMahon",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "6283":{
-                "district":"6",
-                "name":"McKaig, William McMahon",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9939":{
-                "district":"6",
-                "name":"Wellington, George Louis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

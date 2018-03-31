@@ -1,63 +1,13 @@
 {
-  "id": "tn_83_to_89_06",
+  "id": "tn_83_to_89_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"89",
-    "id":"047083089006",
-    "member":{
-        "83":{
-            "9099":{
-                "district":"6",
-                "name":"Sutton, James Patrick",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "504":{
-                "district":"6",
-                "name":"Bass, Ross",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "504":{
-                "district":"6",
-                "name":"Bass, Ross",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "504":{
-                "district":"6",
-                "name":"Bass, Ross",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "504":{
-                "district":"6",
-                "name":"Bass, Ross",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "504":{
-                "district":"6",
-                "name":"Bass, Ross",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10701":{
-                "district":"6",
-                "name":"Anderson, William R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tn"
 },
   "bbox": [
     -88.07053,

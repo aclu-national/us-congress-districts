@@ -1,28 +1,13 @@
 {
-  "id": "oh_50_to_51_07",
+  "id": "oh_50_to_51_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"51",
-    "id":"039050051007",
-    "member":{
-        "50":{
-            "1452":{
-                "district":"7",
-                "name":"Campbell, James Edwin",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "6671":{
-                "district":"7",
-                "name":"Morey, Henry Lee",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Ohio"
+    "district":7,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

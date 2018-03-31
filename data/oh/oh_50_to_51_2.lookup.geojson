@@ -1,28 +1,13 @@
 {
-  "id": "oh_50_to_51_02",
+  "id": "oh_50_to_51_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"51",
-    "id":"039050051002",
-    "member":{
-        "50":{
-            "1102":{
-                "district":"2",
-                "name":"Brown, Charles Elwood",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "1408":{
-                "district":"2",
-                "name":"Caldwell, John Alexander",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"97",
-    "id":"006094097026",
-    "member":{
-        "94":{
-            "10553":{
-                "district":"26",
-                "name":"Rousselot, John H.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "10553":{
-                "district":"26",
-                "name":"Rousselot, John H.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "10553":{
-                "district":"26",
-                "name":"Rousselot, John H.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "10553":{
-                "district":"26",
-                "name":"Rousselot, John H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":26,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -118.17821,

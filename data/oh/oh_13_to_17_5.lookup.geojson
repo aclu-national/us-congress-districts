@@ -1,49 +1,13 @@
 {
-  "id": "oh_13_to_17_05",
+  "id": "oh_13_to_17_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"17",
-    "id":"039013017005",
-    "member":{
-        "13":{
-            "5234":{
-                "district":"5",
-                "name":"Kilbourne, James",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "5234":{
-                "district":"5",
-                "name":"Kilbourne, James",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "576":{
-                "district":"5",
-                "name":"Beecher, Philemon",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "576":{
-                "district":"5",
-                "name":"Beecher, Philemon",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "9597":{
-                "district":"5",
-                "name":"Vance, Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"oh"
 },
   "bbox": [
     -84.81241,

@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"32",
-    "id":"036028032011",
-    "member":{
-        "28":{
-            "7597":{
-                "district":"11",
-                "name":"Pratt, Zadock",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "1944":{
-                "district":"11",
-                "name":"Collin, John Francis",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "8512":{
-                "district":"11",
-                "name":"Silvester, Peter Henry",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "8512":{
-                "district":"11",
-                "name":"Silvester, Peter Henry",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "9096":{
-                "district":"11",
-                "name":"Sutherland, Josiah",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -74.53731,

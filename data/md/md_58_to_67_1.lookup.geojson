@@ -1,89 +1,13 @@
 {
-  "id": "md_58_to_67_01",
+  "id": "md_58_to_67_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"67",
-    "id":"024058067001",
-    "member":{
-        "58":{
-            "4866":{
-                "district":"1",
-                "name":"Jackson, William Humphrey",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "8688":{
-                "district":"1",
-                "name":"Smith, Thomas Alexander",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "4866":{
-                "district":"1",
-                "name":"Jackson, William Humphrey",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2098":{
-                "district":"1",
-                "name":"Covington, James Harry",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "2098":{
-                "district":"1",
-                "name":"Covington, James Harry",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "2098":{
-                "district":"1",
-                "name":"Covington, James Harry",
-                "party":"Democrat"
-            },
-            "7614":{
-                "district":"1",
-                "name":"Price, Jesse Dashiell",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "7614":{
-                "district":"1",
-                "name":"Price, Jesse Dashiell",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "7614":{
-                "district":"1",
-                "name":"Price, Jesse Dashiell",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "203":{
-                "district":"1",
-                "name":"Andrews, William Noble",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3656":{
-                "district":"1",
-                "name":"Goldsborough, Thomas Alan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"md"
 },
   "bbox": [
     -76.38376,

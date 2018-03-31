@@ -1,40 +1,13 @@
 {
-  "id": "ga_70_to_72_05",
+  "id": "ga_70_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"013070072005",
-    "member":{
-        "70":{
-            "8872":{
-                "district":"5",
-                "name":"Steele, Leslie Jasper",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7709":{
-                "district":"5",
-                "name":"Ramspeck, Robert C. Word",
-                "party":"Democrat"
-            },
-            "8872":{
-                "district":"5",
-                "name":"Steele, Leslie Jasper",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "7709":{
-                "district":"5",
-                "name":"Ramspeck, Robert C. Word",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Georgia"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ga"
 },
   "bbox": [
     -84.91106,

@@ -2,81 +2,12 @@
   "id": "tx_74_to_82_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"82",
-    "id":"048074082013",
-    "member":{
-        "74":{
-            "6244":{
-                "district":"13",
-                "name":"McFarlane, William Doddridge",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "6244":{
-                "district":"13",
-                "name":"McFarlane, William Doddridge",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3719":{
-                "district":"13",
-                "name":"Gossett, Ed Lee",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "3719":{
-                "district":"13",
-                "name":"Gossett, Ed Lee",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "3719":{
-                "district":"13",
-                "name":"Gossett, Ed Lee",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "3719":{
-                "district":"13",
-                "name":"Gossett, Ed Lee",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "3719":{
-                "district":"13",
-                "name":"Gossett, Ed Lee",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "3719":{
-                "district":"13",
-                "name":"Gossett, Ed Lee",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "3719":{
-                "district":"13",
-                "name":"Gossett, Ed Lee",
-                "party":"Democrat"
-            },
-            "4796":{
-                "district":"13",
-                "name":"Ikard, Frank Neville",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":13,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -100.04848,

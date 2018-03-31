@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_41",
   "type": "Feature",
   "properties": {
-    "district":"41",
-    "endcong":"97",
-    "id":"006094097041",
-    "member":{
-        "94":{
-            "10249":{
-                "district":"41",
-                "name":"Wilson, Robert Carleton",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "10249":{
-                "district":"41",
-                "name":"Wilson, Robert Carleton",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "10249":{
-                "district":"41",
-                "name":"Wilson, Robert Carleton",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14839":{
-                "district":"41",
-                "name":"Lowery, Bill",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":41,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -117.28145,

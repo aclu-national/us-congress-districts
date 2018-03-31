@@ -1,28 +1,13 @@
 {
-  "id": "tx_105_to_106_08",
+  "id": "tx_105_to_106_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"106",
-    "id":"048105106008",
-    "member":{
-        "105":{
-            "29760":{
-                "district":"8",
-                "name":"Brady, Kevin",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29760":{
-                "district":"8",
-                "name":"Brady, Kevin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Texas"
+    "district":8,
+    "end_date":"2000-12-15",
+    "end_session":106,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"tx"
 },
   "bbox": [
     -96.7943,

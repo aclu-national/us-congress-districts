@@ -2,20 +2,12 @@
   "id": "pa_78_to_78_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"78",
-    "id":"042078078019",
-    "member":{
-        "78":{
-            "5377":{
-                "district":"19",
-                "name":"Kunkel, John Crain",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"pa"
 },
   "bbox": [
     -77.62724,

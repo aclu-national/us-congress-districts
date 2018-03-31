@@ -2,20 +2,12 @@
   "id": "pa_83_to_83_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"83",
-    "id":"042083083014",
-    "member":{
-        "83":{
-            "7844":{
-                "district":"14",
-                "name":"Rhodes, George Milton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1954-12-02",
+    "end_session":83,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"pa"
 },
   "bbox": [
     -76.44018,

@@ -1,61 +1,13 @@
 {
-  "id": "ky_73_to_73_00",
+  "id": "ky_73_to_73_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"73",
-    "id":"021073073000",
-    "member":{
-        "73":{
-            "1124":{
-                "district":"98",
-                "name":"Brown, John Young",
-                "party":"Democrat"
-            },
-            "1499":{
-                "district":"98",
-                "name":"Carden, Cap Robert",
-                "party":"Democrat"
-            },
-            "1563":{
-                "district":"98",
-                "name":"Cary, Glover H.",
-                "party":"Democrat"
-            },
-            "1659":{
-                "district":"98",
-                "name":"Chapman, Virgil Munday",
-                "party":"Democrat"
-            },
-            "3810":{
-                "district":"98",
-                "name":"Gregory, William Voris",
-                "party":"Democrat"
-            },
-            "3990":{
-                "district":"98",
-                "name":"Hamilton, Finley",
-                "party":"Democrat"
-            },
-            "6100":{
-                "district":"98",
-                "name":"May, Andrew Jackson",
-                "party":"Democrat"
-            },
-            "8778":{
-                "district":"98",
-                "name":"Spence, Brent",
-                "party":"Democrat"
-            },
-            "9678":{
-                "district":"98",
-                "name":"Vinson, Frederick Moore",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Kentucky"
+    "district":0,
+    "end_date":"1934-06-18",
+    "end_session":73,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ky"
 },
   "bbox": [
     -89.57151,

@@ -1,21 +1,13 @@
 {
-  "id": "ma_17_to_17_08",
+  "id": "ma_17_to_17_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"17",
-    "id":"025017017008",
-    "member":{
-        "17":{
-            "4467":{
-                "district":"8",
-                "name":"Hobart, Aaron",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Massachusetts"
+    "district":8,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ma"
 },
   "bbox": [
     -71.08019,

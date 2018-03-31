@@ -1,49 +1,13 @@
 {
-  "id": "al_108_to_112_07",
+  "id": "al_108_to_112_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"112",
-    "id":"001108112007",
-    "member":{
-        "108":{
-            "20302":{
-                "district":"7",
-                "name":"Davis, Artur",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20302":{
-                "district":"7",
-                "name":"Davis, Artur",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20302":{
-                "district":"7",
-                "name":"Davis, Artur",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20302":{
-                "district":"7",
-                "name":"Davis, Artur",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21102":{
-                "district":"7",
-                "name":"Sewell, Terri",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Alabama"
+    "district":7,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

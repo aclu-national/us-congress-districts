@@ -1,28 +1,13 @@
 {
-  "id": "ny_63_to_64_09",
+  "id": "ny_63_to_64_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"64",
-    "id":"036063064009",
-    "member":{
-        "63":{
-            "7000":{
-                "district":"9",
-                "name":"O'Brien, James Henry",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "9126":{
-                "district":"9",
-                "name":"Swift, Oscar William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":9,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -73.97247,

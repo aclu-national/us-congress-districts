@@ -1,49 +1,13 @@
 {
-  "id": "nj_38_to_42_02",
+  "id": "nj_38_to_42_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"42",
-    "id":"034038042002",
-    "member":{
-        "38":{
-            "6460":{
-                "district":"2",
-                "name":"Middleton, George",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "6894":{
-                "district":"2",
-                "name":"Newell, William Augustus",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "3908":{
-                "district":"2",
-                "name":"Haight, Charles",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "3908":{
-                "district":"2",
-                "name":"Haight, Charles",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "3277":{
-                "district":"2",
-                "name":"Forker, Samuel Carr",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New Jersey"
+    "district":2,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"nj"
 },
   "bbox": [
     -75.05452,

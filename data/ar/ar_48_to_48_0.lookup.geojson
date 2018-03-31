@@ -1,21 +1,13 @@
 {
-  "id": "ar_48_to_48_00",
+  "id": "ar_48_to_48_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"48",
-    "id":"005048048000",
-    "member":{
-        "48":{
-            "991":{
-                "district":"99",
-                "name":"Breckinridge, Clifton Rod",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Arkansas"
+    "district":0,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ar"
 },
   "bbox": [
     -94.61792,

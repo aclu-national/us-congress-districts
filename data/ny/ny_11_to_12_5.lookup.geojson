@@ -1,28 +1,13 @@
 {
-  "id": "ny_11_to_12_05",
+  "id": "ny_11_to_12_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"12",
-    "id":"036011012005",
-    "member":{
-        "11":{
-            "3460":{
-                "district":"5",
-                "name":"Gardenier, Barent",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "2031":{
-                "district":"5",
-                "name":"Cooke, Thomas Burrage",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"11",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1809-03-04",
+    "start_session":11,
+    "state":"ny"
 },
   "bbox": [
     -75.14645,

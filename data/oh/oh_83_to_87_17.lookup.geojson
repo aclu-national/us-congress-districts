@@ -2,48 +2,12 @@
   "id": "oh_83_to_87_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"87",
-    "id":"039083087017",
-    "member":{
-        "83":{
-            "6262":{
-                "district":"17",
-                "name":"McGregor, J. Harry",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "6262":{
-                "district":"17",
-                "name":"McGregor, J. Harry",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "6262":{
-                "district":"17",
-                "name":"McGregor, J. Harry",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "5625":{
-                "district":"17",
-                "name":"Levering, Robert Woodrow",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10502":{
-                "district":"17",
-                "name":"Ashbrook, John M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"oh"
 },
   "bbox": [
     -83.24962,

@@ -2,27 +2,12 @@
   "id": "tx_86_to_87_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"87",
-    "id":"048086087010",
-    "member":{
-        "86":{
-            "9356":{
-                "district":"10",
-                "name":"Thornberry, William Homer",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "9356":{
-                "district":"10",
-                "name":"Thornberry, William Homer",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"86",
-    "statename":"Texas"
+    "district":10,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1959-01-07",
+    "start_session":86,
+    "state":"tx"
 },
   "bbox": [
     -98.59167,

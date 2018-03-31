@@ -2,76 +2,12 @@
   "id": "oh_64_to_72_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"72",
-    "id":"039064072015",
-    "member":{
-        "64":{
-            "6622":{
-                "district":"15",
-                "name":"Mooney, William Crittenden",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "10023":{
-                "district":"15",
-                "name":"White, George",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "6628":{
-                "district":"15",
-                "name":"Moore, Charles Ellis",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6628":{
-                "district":"15",
-                "name":"Moore, Charles Ellis",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6628":{
-                "district":"15",
-                "name":"Moore, Charles Ellis",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "6628":{
-                "district":"15",
-                "name":"Moore, Charles Ellis",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "6628":{
-                "district":"15",
-                "name":"Moore, Charles Ellis",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "6628":{
-                "district":"15",
-                "name":"Moore, Charles Ellis",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "6628":{
-                "district":"15",
-                "name":"Moore, Charles Ellis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -82.23397,

@@ -1,54 +1,13 @@
 {
-  "id": "tn_28_to_32_08",
+  "id": "tn_28_to_32_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"32",
-    "id":"047028032008",
-    "member":{
-        "28":{
-            "7388":{
-                "district":"8",
-                "name":"Peyton, Joseph Hopkins",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "3037":{
-                "district":"8",
-                "name":"Ewing, Edwin Hickman",
-                "party":"Whig"
-            },
-            "7388":{
-                "district":"8",
-                "name":"Peyton, Joseph Hopkins",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "471":{
-                "district":"8",
-                "name":"Barrow, Washington",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "3036":{
-                "district":"8",
-                "name":"Ewing, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "2240":{
-                "district":"8",
-                "name":"Cullom, William",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"tn"
 },
   "bbox": [
     -87.18257,

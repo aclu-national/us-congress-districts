@@ -1,26 +1,13 @@
 {
-  "id": "in_43_to_43_00",
+  "id": "in_43_to_43_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"43",
-    "id":"018043043000",
-    "member":{
-        "43":{
-            "10188":{
-                "district":"99",
-                "name":"Williams, William",
-                "party":"Republican"
-            },
-            "7089":{
-                "district":"99",
-                "name":"Orth, Godlove Stein",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Indiana"
+    "district":0,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

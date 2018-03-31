@@ -2,48 +2,12 @@
   "id": "ny_23_to_27_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"27",
-    "id":"036023027020",
-    "member":{
-        "23":{
-            "4982":{
-                "district":"20",
-                "name":"Johnson, Noadiah",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "8388":{
-                "district":"20",
-                "name":"Seymour, William",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "7188":{
-                "district":"20",
-                "name":"Parker, Amasa Junius",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "120":{
-                "district":"20",
-                "name":"Allen, Judson",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "3699":{
-                "district":"20",
-                "name":"Gordon, Samuel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -76.13018,

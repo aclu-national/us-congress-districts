@@ -1,19 +1,13 @@
 {
-  "id": "az_113_to_115_07",
+  "id": "az_113_to_115_7",
   "type": "Feature",
   "properties": {
-    "ALAND":531238883,
-    "AWATER":1021257,
-    "CD113FP":"07",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0407",
-    "INTPTLAT":"+33.4278191",
-    "INTPTLON":"-112.1187678",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 7",
-    "STATEFP":"04"
+    "district":7,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"az"
 },
   "bbox": [
     -112.289902,

@@ -1,21 +1,13 @@
 {
-  "id": "az_108_to_108_02",
+  "id": "az_108_to_108_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"108",
-    "id":"004108108002",
-    "member":{
-        "108":{
-            "20304":{
-                "district":"2",
-                "name":"Franks, Trent",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Arizona"
+    "district":2,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"az"
 },
   "bbox": [
     -114.75562,

@@ -1,49 +1,13 @@
 {
-  "id": "nc_93_to_97_02",
+  "id": "nc_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"037093097002",
-    "member":{
-        "93":{
-            "3321":{
-                "district":"2",
-                "name":"Fountain, Lawrence H.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "3321":{
-                "district":"2",
-                "name":"Fountain, Lawrence H.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "3321":{
-                "district":"2",
-                "name":"Fountain, Lawrence H.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "3321":{
-                "district":"2",
-                "name":"Fountain, Lawrence H.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "3321":{
-                "district":"2",
-                "name":"Fountain, Lawrence H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"North Carolina"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nc"
 },
   "bbox": [
     -79.53197,

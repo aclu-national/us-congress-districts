@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_42",
   "type": "Feature",
   "properties": {
-    "district":"42",
-    "endcong":"82",
-    "id":"036079082042",
-    "member":{
-        "79":{
-            "200":{
-                "district":"42",
-                "name":"Andrews, Walter Gresham",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "200":{
-                "district":"42",
-                "name":"Andrews, Walter Gresham",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7391":{
-                "district":"42",
-                "name":"Pfeiffer, William Louis",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "6516":{
-                "district":"42",
-                "name":"Miller, William Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":42,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

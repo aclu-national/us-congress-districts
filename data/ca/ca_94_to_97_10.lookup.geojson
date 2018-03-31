@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"97",
-    "id":"006094097010",
-    "member":{
-        "94":{
-            "10583":{
-                "district":"10",
-                "name":"Edwards, Don",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10583":{
-                "district":"10",
-                "name":"Edwards, Don",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10583":{
-                "district":"10",
-                "name":"Edwards, Don",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "10583":{
-                "district":"10",
-                "name":"Edwards, Don",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":10,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -122.16158,

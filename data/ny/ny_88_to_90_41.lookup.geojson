@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_41",
   "type": "Feature",
   "properties": {
-    "district":"41",
-    "endcong":"90",
-    "id":"036088090041",
-    "member":{
-        "88":{
-            "2752":{
-                "district":"41",
-                "name":"Dulski, Thaddeus J.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "2752":{
-                "district":"41",
-                "name":"Dulski, Thaddeus J.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "2752":{
-                "district":"41",
-                "name":"Dulski, Thaddeus J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":41,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -78.90686,

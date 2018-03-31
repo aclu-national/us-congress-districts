@@ -1,40 +1,13 @@
 {
-  "id": "al_90_to_92_03",
+  "id": "al_90_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"001090092003",
-    "member":{
-        "90":{
-            "195":{
-                "district":"3",
-                "name":"Andrews, George William",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "195":{
-                "district":"3",
-                "name":"Andrews, George William",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "13053":{
-                "district":"3",
-                "name":"Andrews, Elizabeth",
-                "party":"Democrat"
-            },
-            "195":{
-                "district":"3",
-                "name":"Andrews, George William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Alabama"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"al"
 },
   "bbox": [
     -86.19636,

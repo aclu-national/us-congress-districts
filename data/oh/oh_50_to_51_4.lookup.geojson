@@ -1,28 +1,13 @@
 {
-  "id": "oh_50_to_51_04",
+  "id": "oh_50_to_51_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"51",
-    "id":"039050051004",
-    "member":{
-        "50":{
-            "10427":{
-                "district":"4",
-                "name":"Yoder, Samuel S.",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "10427":{
-                "district":"4",
-                "name":"Yoder, Samuel S.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"oh"
 },
   "bbox": [
     -84.81241,

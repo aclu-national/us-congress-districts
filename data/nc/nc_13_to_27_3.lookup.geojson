@@ -1,119 +1,13 @@
 {
-  "id": "nc_13_to_27_03",
+  "id": "nc_13_to_27_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"27",
-    "id":"037013027003",
-    "member":{
-        "13":{
-            "5186":{
-                "district":"3",
-                "name":"Kennedy, William",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "1770":{
-                "district":"3",
-                "name":"Clark, James West",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "3956":{
-                "district":"3",
-                "name":"Hall, Thomas H.",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "3956":{
-                "district":"3",
-                "name":"Hall, Thomas H.",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "3956":{
-                "district":"3",
-                "name":"Hall, Thomas H.",
-                "party":"Republican"
-            }
-        },
-        "18":{
-            "3956":{
-                "district":"3",
-                "name":"Hall, Thomas H.",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "4446":{
-                "district":"3",
-                "name":"Hines, Richard",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "3956":{
-                "district":"3",
-                "name":"Hall, Thomas H.",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "3956":{
-                "district":"3",
-                "name":"Hall, Thomas H.",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "3956":{
-                "district":"3",
-                "name":"Hall, Thomas H.",
-                "party":"Jackson"
-            }
-        },
-        "23":{
-            "3956":{
-                "district":"3",
-                "name":"Hall, Thomas H.",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "7378":{
-                "district":"3",
-                "name":"Pettigrew, Ebenezer",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "8841":{
-                "district":"3",
-                "name":"Stanly, Edward",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "8841":{
-                "district":"3",
-                "name":"Stanly, Edward",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "8841":{
-                "district":"3",
-                "name":"Stanly, Edward",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"nc"
 },
   "bbox": [
     -77.93969,

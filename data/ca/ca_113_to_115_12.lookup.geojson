@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_12",
   "type": "Feature",
   "properties": {
-    "ALAND":100994762,
-    "AWATER":211586152,
-    "CD113FP":"12",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0612",
-    "INTPTLAT":"+37.7855141",
-    "INTPTLON":"-122.4340005",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 12",
-    "STATEFP":"06"
+    "district":12,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -122.612285,

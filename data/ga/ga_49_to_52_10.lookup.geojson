@@ -2,41 +2,12 @@
   "id": "ga_49_to_52_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"52",
-    "id":"013049052010",
-    "member":{
-        "49":{
-            "447":{
-                "district":"10",
-                "name":"Barnes, George Thomas",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "447":{
-                "district":"10",
-                "name":"Barnes, George Thomas",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "447":{
-                "district":"10",
-                "name":"Barnes, George Thomas",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "9877":{
-                "district":"10",
-                "name":"Watson, Thomas Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Georgia"
+    "district":10,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ga"
 },
   "bbox": [
     -83.07365,

@@ -1,35 +1,13 @@
 {
-  "id": "md_80_to_82_02",
+  "id": "md_80_to_82_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"82",
-    "id":"024080082002",
-    "member":{
-        "80":{
-            "6396":{
-                "district":"2",
-                "name":"Meade, Hugh Allen",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "839":{
-                "district":"2",
-                "name":"Bolton, William P",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2531":{
-                "district":"2",
-                "name":"Devereux, James Patrick Sinnot",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"80",
-    "statename":"Maryland"
+    "district":2,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1947-01-03",
+    "start_session":80,
+    "state":"md"
 },
   "bbox": [
     -77.31151,

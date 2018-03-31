@@ -1,21 +1,13 @@
 {
-  "id": "oh_63_to_63_06",
+  "id": "oh_63_to_63_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"63",
-    "id":"039063063006",
-    "member":{
-        "63":{
-            "3124":{
-                "district":"6",
-                "name":"Fess, Simeon Davison",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Ohio"
+    "district":6,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"oh"
 },
   "bbox": [
     -84.36527,

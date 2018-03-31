@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"87",
-    "id":"006083087012",
-    "member":{
-        "83":{
-            "4751":{
-                "district":"12",
-                "name":"Hunter, Allan Oakley",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "8549":{
-                "district":"12",
-                "name":"Sisk, Bernice Frederic",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "8549":{
-                "district":"12",
-                "name":"Sisk, Bernice Frederic",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "8549":{
-                "district":"12",
-                "name":"Sisk, Bernice Frederic",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "8549":{
-                "district":"12",
-                "name":"Sisk, Bernice Frederic",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":12,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -121.24865,

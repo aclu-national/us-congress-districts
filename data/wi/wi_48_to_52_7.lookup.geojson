@@ -1,49 +1,13 @@
 {
-  "id": "wi_48_to_52_07",
+  "id": "wi_48_to_52_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"52",
-    "id":"055048052007",
-    "member":{
-        "48":{
-            "10361":{
-                "district":"7",
-                "name":"Woodward, Gilbert Motier",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "9305":{
-                "district":"7",
-                "name":"Thomas, Ormsby Brunson",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "9305":{
-                "district":"7",
-                "name":"Thomas, Ormsby Brunson",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "9305":{
-                "district":"7",
-                "name":"Thomas, Ormsby Brunson",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "1875":{
-                "district":"7",
-                "name":"Coburn, Frank Potter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Wisconsin"
+    "district":7,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"wi"
 },
   "bbox": [
     -91.42519,

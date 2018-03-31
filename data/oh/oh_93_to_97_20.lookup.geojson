@@ -2,48 +2,12 @@
   "id": "oh_93_to_97_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"97",
-    "id":"039093097020",
-    "member":{
-        "93":{
-            "13043":{
-                "district":"20",
-                "name":"Stanton, James V.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "13043":{
-                "district":"20",
-                "name":"Stanton, James V.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14443":{
-                "district":"20",
-                "name":"Oakar, Mary Rose",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14443":{
-                "district":"20",
-                "name":"Oakar, Mary Rose",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14443":{
-                "district":"20",
-                "name":"Oakar, Mary Rose",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Ohio"
+    "district":20,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"oh"
 },
   "bbox": [
     -81.88565,

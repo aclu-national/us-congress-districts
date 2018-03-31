@@ -2,48 +2,12 @@
   "id": "pa_103_to_107_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"107",
-    "id":"042103107017",
-    "member":{
-        "103":{
-            "15026":{
-                "district":"17",
-                "name":"Gekas, George W.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15026":{
-                "district":"17",
-                "name":"Gekas, George W.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15026":{
-                "district":"17",
-                "name":"Gekas, George W.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "15026":{
-                "district":"17",
-                "name":"Gekas, George W.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "15026":{
-                "district":"17",
-                "name":"Gekas, George W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"pa"
 },
   "bbox": [
     -77.28726,

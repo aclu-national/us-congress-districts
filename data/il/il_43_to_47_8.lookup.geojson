@@ -1,49 +1,13 @@
 {
-  "id": "il_43_to_47_08",
+  "id": "il_43_to_47_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"47",
-    "id":"017043047008",
-    "member":{
-        "43":{
-            "3290":{
-                "district":"8",
-                "name":"Fort, Greenbury Lafayette",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "3290":{
-                "district":"8",
-                "name":"Fort, Greenbury Lafayette",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "3290":{
-                "district":"8",
-                "name":"Fort, Greenbury Lafayette",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "3290":{
-                "district":"8",
-                "name":"Fort, Greenbury Lafayette",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "7277":{
-                "district":"8",
-                "name":"Payson, Lewis Edwin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":8,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -89.63874,

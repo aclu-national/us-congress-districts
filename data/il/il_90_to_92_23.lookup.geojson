@@ -2,34 +2,12 @@
   "id": "il_90_to_92_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"92",
-    "id":"017090092023",
-    "member":{
-        "90":{
-            "8474":{
-                "district":"23",
-                "name":"Shipley, George Edward",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "8474":{
-                "district":"23",
-                "name":"Shipley, George Edward",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "8474":{
-                "district":"23",
-                "name":"Shipley, George Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Illinois"
+    "district":23,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"il"
 },
   "bbox": [
     -90.27601,

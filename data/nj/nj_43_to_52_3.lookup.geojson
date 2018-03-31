@@ -1,84 +1,13 @@
 {
-  "id": "nj_43_to_52_03",
+  "id": "nj_43_to_52_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"52",
-    "id":"034043052003",
-    "member":{
-        "43":{
-            "1753":{
-                "district":"3",
-                "name":"Clark, Amos, Jr.",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "8074":{
-                "district":"3",
-                "name":"Ross, Miles",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "8074":{
-                "district":"3",
-                "name":"Ross, Miles",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "8074":{
-                "district":"3",
-                "name":"Ross, Miles",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "8074":{
-                "district":"3",
-                "name":"Ross, Miles",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "5108":{
-                "district":"3",
-                "name":"Kean, John",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "3782":{
-                "district":"3",
-                "name":"Green, Robert Stockton",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "5108":{
-                "district":"3",
-                "name":"Kean, John",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "3526":{
-                "district":"3",
-                "name":"Geissenhainer, Jacob Augu",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "3526":{
-                "district":"3",
-                "name":"Geissenhainer, Jacob Augu",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New Jersey"
+    "district":3,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"nj"
 },
   "bbox": [
     -74.6301,

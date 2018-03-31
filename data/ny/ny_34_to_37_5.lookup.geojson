@@ -1,42 +1,13 @@
 {
-  "id": "ny_34_to_37_05",
+  "id": "ny_34_to_37_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"37",
-    "id":"036034037005",
-    "member":{
-        "34":{
-            "10073":{
-                "district":"5",
-                "name":"Whitney, Thomas Richard",
-                "party":"American"
-            }
-        },
-        "35":{
-            "5893":{
-                "district":"5",
-                "name":"Maclay, William Brown",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "5893":{
-                "district":"5",
-                "name":"Maclay, William Brown",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "9759":{
-                "district":"5",
-                "name":"Wall, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -73.99745,

@@ -1,49 +1,13 @@
 {
-  "id": "ny_83_to_87_04",
+  "id": "ny_83_to_87_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"87",
-    "id":"036083087004",
-    "member":{
-        "83":{
-            "5488":{
-                "district":"4",
-                "name":"Latham, Henry Jepson",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "5488":{
-                "district":"4",
-                "name":"Latham, Henry Jepson",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "5488":{
-                "district":"4",
-                "name":"Latham, Henry Jepson",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "3967":{
-                "district":"4",
-                "name":"Halpern, Seymour",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "3967":{
-                "district":"4",
-                "name":"Halpern, Seymour",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -73.8768,

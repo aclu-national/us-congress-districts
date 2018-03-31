@@ -1,49 +1,13 @@
 {
-  "id": "mo_38_to_42_06",
+  "id": "mo_38_to_42_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"42",
-    "id":"029038042006",
-    "member":{
-        "38":{
-            "5254":{
-                "district":"6",
-                "name":"King, Austin Augustus",
-                "party":"Unionist"
-            }
-        },
-        "39":{
-            "9618":{
-                "district":"6",
-                "name":"Van Horn, Robert Thompson",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "9618":{
-                "district":"6",
-                "name":"Van Horn, Robert Thompson",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "9618":{
-                "district":"6",
-                "name":"Van Horn, Robert Thompson",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "1963":{
-                "district":"6",
-                "name":"Comingo, Abram",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Missouri"
+    "district":6,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"mo"
 },
   "bbox": [
     -95.10289,

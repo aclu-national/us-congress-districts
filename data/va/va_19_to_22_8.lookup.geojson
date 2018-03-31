@@ -1,42 +1,13 @@
 {
-  "id": "va_19_to_22_08",
+  "id": "va_19_to_22_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"22",
-    "id":"051019022008",
-    "member":{
-        "19":{
-            "505":{
-                "district":"8",
-                "name":"Bassett, Burwell",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "505":{
-                "district":"8",
-                "name":"Bassett, Burwell",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "1916":{
-                "district":"8",
-                "name":"Coke, Richard, Jr.",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "1916":{
-                "district":"8",
-                "name":"Coke, Richard, Jr.",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -76.91586,

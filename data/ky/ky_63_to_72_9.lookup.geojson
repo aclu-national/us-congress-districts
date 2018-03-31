@@ -1,89 +1,13 @@
 {
-  "id": "ky_63_to_72_09",
+  "id": "ky_63_to_72_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"72",
-    "id":"021063072009",
-    "member":{
-        "63":{
-            "3138":{
-                "district":"9",
-                "name":"Fields, William Jason",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3138":{
-                "district":"9",
-                "name":"Fields, William Jason",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "3138":{
-                "district":"9",
-                "name":"Fields, William Jason",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "3138":{
-                "district":"9",
-                "name":"Fields, William Jason",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "3138":{
-                "district":"9",
-                "name":"Fields, William Jason",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "3138":{
-                "district":"9",
-                "name":"Fields, William Jason",
-                "party":"Democrat"
-            },
-            "9678":{
-                "district":"9",
-                "name":"Vinson, Frederick Moore",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9678":{
-                "district":"9",
-                "name":"Vinson, Frederick Moore",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "9678":{
-                "district":"9",
-                "name":"Vinson, Frederick Moore",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "5165":{
-                "district":"9",
-                "name":"Kendall, Elva Roscoe",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9678":{
-                "district":"9",
-                "name":"Vinson, Frederick Moore",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Kentucky"
+    "district":9,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ky"
 },
   "bbox": [
     -84.5573,

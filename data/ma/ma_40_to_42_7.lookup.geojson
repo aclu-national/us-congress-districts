@@ -1,45 +1,13 @@
 {
-  "id": "ma_40_to_42_07",
+  "id": "ma_40_to_42_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"42",
-    "id":"025040042007",
-    "member":{
-        "40":{
-            "889":{
-                "district":"7",
-                "name":"Boutwell, George Sewel",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "1076":{
-                "district":"7",
-                "name":"Brooks, George Merrick",
-                "party":"Republican"
-            },
-            "889":{
-                "district":"7",
-                "name":"Boutwell, George Sewel",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "1076":{
-                "district":"7",
-                "name":"Brooks, George Merrick",
-                "party":"Republican"
-            },
-            "2997":{
-                "district":"7",
-                "name":"Esty, Constantine Canaris",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"ma"
 },
   "bbox": [
     -71.89872,

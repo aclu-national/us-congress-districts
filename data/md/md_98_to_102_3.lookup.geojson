@@ -1,49 +1,13 @@
 {
-  "id": "md_98_to_102_03",
+  "id": "md_98_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"024098102003",
-    "member":{
-        "100":{
-            "15408":{
-                "district":"3",
-                "name":"Cardin, Benjamin L.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15408":{
-                "district":"3",
-                "name":"Cardin, Benjamin L.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15408":{
-                "district":"3",
-                "name":"Cardin, Benjamin L.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14440":{
-                "district":"3",
-                "name":"Mikulski, Barbara",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14440":{
-                "district":"3",
-                "name":"Mikulski, Barbara",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"md"
 },
   "bbox": [
     -76.9177,

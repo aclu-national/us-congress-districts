@@ -1,19 +1,13 @@
 {
-  "id": "ri_113_to_115_01",
+  "id": "ri_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":695454648,
-    "AWATER":628668917,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4401",
-    "INTPTLAT":"+41.6306771",
-    "INTPTLON":"-071.3286718",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"44"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ri"
 },
   "bbox": [
     -71.606255,

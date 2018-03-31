@@ -2,53 +2,12 @@
   "id": "ny_68_to_72_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"72",
-    "id":"036068072024",
-    "member":{
-        "68":{
-            "3047":{
-                "district":"24",
-                "name":"Fairchild, Benjamin Lewis",
-                "party":"Republican"
-            },
-            "3451":{
-                "district":"24",
-                "name":"Ganly, James Vincent",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3047":{
-                "district":"24",
-                "name":"Fairchild, Benjamin Lewis",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "3193":{
-                "district":"24",
-                "name":"Fitzpatrick, James Martin",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "3193":{
-                "district":"24",
-                "name":"Fitzpatrick, James Martin",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "3193":{
-                "district":"24",
-                "name":"Fitzpatrick, James Martin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":24,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -73.91113,

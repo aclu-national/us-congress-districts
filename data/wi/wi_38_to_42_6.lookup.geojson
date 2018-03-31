@@ -1,49 +1,13 @@
 {
-  "id": "wi_38_to_42_06",
+  "id": "wi_38_to_42_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"42",
-    "id":"055038042006",
-    "member":{
-        "38":{
-            "6275":{
-                "district":"6",
-                "name":"McIndoe, Walter Duncan",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "6275":{
-                "district":"6",
-                "name":"McIndoe, Walter Duncan",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "9848":{
-                "district":"6",
-                "name":"Washburn, Cadwallader Colden",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "9848":{
-                "district":"6",
-                "name":"Washburn, Cadwallader Colden",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "8120":{
-                "district":"6",
-                "name":"Rusk, Jeremiah McLain",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Wisconsin"
+    "district":6,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"wi"
 },
   "bbox": [
     -92.88943,

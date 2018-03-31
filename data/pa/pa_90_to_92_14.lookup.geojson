@@ -2,34 +2,12 @@
   "id": "pa_90_to_92_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"92",
-    "id":"042090092014",
-    "member":{
-        "90":{
-            "6661":{
-                "district":"14",
-                "name":"Moorhead, William Singer",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "6661":{
-                "district":"14",
-                "name":"Moorhead, William Singer",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "6661":{
-                "district":"14",
-                "name":"Moorhead, William Singer",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"pa"
 },
   "bbox": [
     -80.05246,

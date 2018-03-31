@@ -1,19 +1,13 @@
 {
-  "id": "tn_113_to_115_08",
+  "id": "tn_113_to_115_8",
   "type": "Feature",
   "properties": {
-    "ALAND":17742951960,
-    "AWATER":382802406,
-    "CD113FP":"08",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4708",
-    "INTPTLAT":"+35.8555657",
-    "INTPTLON":"-089.0998420",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 8",
-    "STATEFP":"47"
+    "district":8,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tn"
 },
   "bbox": [
     -90.179265,

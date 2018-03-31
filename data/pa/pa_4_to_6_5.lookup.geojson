@@ -1,45 +1,13 @@
 {
-  "id": "pa_4_to_6_05",
+  "id": "pa_4_to_6_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"6",
-    "id":"042004006005",
-    "member":{
-        "4":{
-            "2881":{
-                "district":"5",
-                "name":"Ege, George",
-                "party":"Federalist"
-            },
-            "4390":{
-                "district":"5",
-                "name":"Hiester, Daniel",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "2881":{
-                "district":"5",
-                "name":"Ege, George",
-                "party":"Federalist"
-            },
-            "4394":{
-                "district":"5",
-                "name":"Hiester, Joseph",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "4394":{
-                "district":"5",
-                "name":"Hiester, Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"pa"
 },
   "bbox": [
     -76.92708,

@@ -1,42 +1,13 @@
 {
-  "id": "ks_56_to_59_05",
+  "id": "ks_56_to_59_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"59",
-    "id":"020056059005",
-    "member":{
-        "56":{
-            "1400":{
-                "district":"5",
-                "name":"Calderhead, William Alexander",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "1400":{
-                "district":"5",
-                "name":"Calderhead, William Alexander",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "1400":{
-                "district":"5",
-                "name":"Calderhead, William Alexander",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "1400":{
-                "district":"5",
-                "name":"Calderhead, William Alexander",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Kansas"
+    "district":5,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"ks"
 },
   "bbox": [
     -97.93334,

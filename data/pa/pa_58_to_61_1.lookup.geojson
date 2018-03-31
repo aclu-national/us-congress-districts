@@ -1,42 +1,13 @@
 {
-  "id": "pa_58_to_61_01",
+  "id": "pa_58_to_61_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"61",
-    "id":"042058061001",
-    "member":{
-        "58":{
-            "715":{
-                "district":"1",
-                "name":"Bingham, Henry Harrison",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "715":{
-                "district":"1",
-                "name":"Bingham, Henry Harrison",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "715":{
-                "district":"1",
-                "name":"Bingham, Henry Harrison",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "715":{
-                "district":"1",
-                "name":"Bingham, Henry Harrison",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"pa"
 },
   "bbox": [
     -75.21453,

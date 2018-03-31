@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_37",
   "type": "Feature",
   "properties": {
-    "district":"37",
-    "endcong":"64",
-    "id":"036063064037",
-    "member":{
-        "63":{
-            "9554":{
-                "district":"37",
-                "name":"Underhill, Edwin Stewart",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "7590":{
-                "district":"37",
-                "name":"Pratt, Harry Hayt",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":37,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -77.74993,

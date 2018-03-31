@@ -1,49 +1,13 @@
 {
-  "id": "ky_23_to_27_02",
+  "id": "ky_23_to_27_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"27",
-    "id":"021023027002",
-    "member":{
-        "23":{
-            "4205":{
-                "district":"2",
-                "name":"Hawes, Albert Gallatin",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "4205":{
-                "district":"2",
-                "name":"Hawes, Albert Gallatin",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "8114":{
-                "district":"2",
-                "name":"Rumsey, Edward",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "9478":{
-                "district":"2",
-                "name":"Triplett, Philip",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "9478":{
-                "district":"2",
-                "name":"Triplett, Philip",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Kentucky"
+    "district":2,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ky"
 },
   "bbox": [
     -87.92708,

@@ -1,26 +1,13 @@
 {
-  "id": "ga_104_to_104_09",
+  "id": "ga_104_to_104_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"104",
-    "id":"013104104009",
-    "member":{
-        "104":{
-            "29342":{
-                "district":"9",
-                "name":"Deal, Nathan",
-                "party":"Democrat"
-            },
-            "99342":{
-                "district":"9",
-                "name":"Deal, Nathan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Georgia"
+    "district":9,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"ga"
 },
   "bbox": [
     -85.6052,

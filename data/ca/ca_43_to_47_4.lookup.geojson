@@ -1,54 +1,13 @@
 {
-  "id": "ca_43_to_47_04",
+  "id": "ca_43_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"006043047004",
-    "member":{
-        "43":{
-            "4603":{
-                "district":"4",
-                "name":"Houghton, Sherman Otis",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "10094":{
-                "district":"4",
-                "name":"Wigginton, Peter Dinwiddie",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "10094":{
-                "district":"4",
-                "name":"Wigginton, Peter Dinwiddie",
-                "party":"Democrat"
-            },
-            "7143":{
-                "district":"4",
-                "name":"Pacheco, Romualdo",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "7143":{
-                "district":"4",
-                "name":"Pacheco, Romualdo",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "7143":{
-                "district":"4",
-                "name":"Pacheco, Romualdo",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"California"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ca"
 },
   "bbox": [
     -122.52069,

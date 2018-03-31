@@ -1,41 +1,13 @@
 {
-  "id": "nj_7_to_7_00",
+  "id": "nj_7_to_7_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"7",
-    "id":"034007007000",
-    "member":{
-        "7":{
-            "1974":{
-                "district":"98",
-                "name":"Condit, John",
-                "party":"Republican"
-            },
-            "2942":{
-                "district":"98",
-                "name":"Elmer, Ebenezer",
-                "party":"Republican"
-            },
-            "4293":{
-                "district":"98",
-                "name":"Helms, William",
-                "party":"Republican"
-            },
-            "6760":{
-                "district":"98",
-                "name":"Mott, James",
-                "party":"Republican"
-            },
-            "8748":{
-                "district":"98",
-                "name":"Southard, Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"7",
-    "statename":"New Jersey"
+    "district":0,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1801-03-04",
+    "start_session":7,
+    "state":"nj"
 },
   "bbox": [
     -75.55979,

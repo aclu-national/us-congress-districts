@@ -1,47 +1,13 @@
 {
-  "id": "tn_44_to_47_04",
+  "id": "tn_44_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"047044047004",
-    "member":{
-        "44":{
-            "3179":{
-                "district":"4",
-                "name":"Fite, Samuel McClary",
-                "party":"Democrat"
-            },
-            "7893":{
-                "district":"4",
-                "name":"Riddle, Haywood Yancey",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "7893":{
-                "district":"4",
-                "name":"Riddle, Haywood Yancey",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "6359":{
-                "district":"4",
-                "name":"McMillin, Benton",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "6359":{
-                "district":"4",
-                "name":"McMillin, Benton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"tn"
 },
   "bbox": [
     -87.15049,

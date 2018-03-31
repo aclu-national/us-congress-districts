@@ -1,75 +1,13 @@
 {
-  "id": "va_53_to_60_06",
+  "id": "va_53_to_60_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"60",
-    "id":"051053060006",
-    "member":{
-        "53":{
-            "2856":{
-                "district":"6",
-                "name":"Edmunds, Paul Carrington",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "7107":{
-                "district":"6",
-                "name":"Otey, Peter Johnston",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "7107":{
-                "district":"6",
-                "name":"Otey, Peter Johnston",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "7107":{
-                "district":"6",
-                "name":"Otey, Peter Johnston",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "3625":{
-                "district":"6",
-                "name":"Glass, Carter",
-                "party":"Democrat"
-            },
-            "7107":{
-                "district":"6",
-                "name":"Otey, Peter Johnston",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "3625":{
-                "district":"6",
-                "name":"Glass, Carter",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "3625":{
-                "district":"6",
-                "name":"Glass, Carter",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "3625":{
-                "district":"6",
-                "name":"Glass, Carter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"va"
 },
   "bbox": [
     -80.615,

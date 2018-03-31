@@ -2,20 +2,12 @@
   "id": "tx_107_to_107_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"107",
-    "id":"048107107017",
-    "member":{
-        "107":{
-            "14664":{
-                "district":"17",
-                "name":"Stenholm, Charles Walter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"107",
-    "statename":"Texas"
+    "district":17,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"2001-01-03",
+    "start_session":107,
+    "state":"tx"
 },
   "bbox": [
     -102.21125,

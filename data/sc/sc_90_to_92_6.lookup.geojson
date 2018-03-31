@@ -1,35 +1,13 @@
 {
-  "id": "sc_90_to_92_06",
+  "id": "sc_90_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"045090092006",
-    "member":{
-        "90":{
-            "6353":{
-                "district":"6",
-                "name":"McMillan, John Lanneau",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "6353":{
-                "district":"6",
-                "name":"McMillan, John Lanneau",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "6353":{
-                "district":"6",
-                "name":"McMillan, John Lanneau",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"South Carolina"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"sc"
 },
   "bbox": [
     -80.48132,

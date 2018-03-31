@@ -1,35 +1,13 @@
 {
-  "id": "tx_83_to_85_00",
+  "id": "tx_83_to_85_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"85",
-    "id":"048083085000",
-    "member":{
-        "83":{
-            "2588":{
-                "district":"99",
-                "name":"Dies, Martin Jr.",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "2588":{
-                "district":"99",
-                "name":"Dies, Martin Jr.",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "2588":{
-                "district":"99",
-                "name":"Dies, Martin Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Texas"
+    "district":0,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

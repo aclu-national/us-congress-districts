@@ -2,48 +2,12 @@
   "id": "oh_53_to_57_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"57",
-    "id":"039053057012",
-    "member":{
-        "53":{
-            "7116":{
-                "district":"12",
-                "name":"Outhwaite, Joseph Hodson",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9872":{
-                "district":"12",
-                "name":"Watson, David Kemper",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "5609":{
-                "district":"12",
-                "name":"Lentz, John Jacob",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "5609":{
-                "district":"12",
-                "name":"Lentz, John Jacob",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "9418":{
-                "district":"12",
-                "name":"Tompkins, Emmett",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"oh"
 },
   "bbox": [
     -83.26068,

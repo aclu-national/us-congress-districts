@@ -2,20 +2,12 @@
   "id": "ny_33_to_33_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"33",
-    "id":"036033033026",
-    "member":{
-        "33":{
-            "7057":{
-                "district":"26",
-                "name":"Oliver, Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -77.61192,

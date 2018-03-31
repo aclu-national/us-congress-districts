@@ -1,54 +1,13 @@
 {
-  "id": "nc_108_to_112_01",
+  "id": "nc_108_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"037108112001",
-    "member":{
-        "108":{
-            "20339":{
-                "district":"1",
-                "name":"Ballance, Frank W. Jr",
-                "party":"Democrat"
-            },
-            "20340":{
-                "district":"1",
-                "name":"Butterfield, G. K.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20340":{
-                "district":"1",
-                "name":"Butterfield, G. K.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20340":{
-                "district":"1",
-                "name":"Butterfield, G. K.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20340":{
-                "district":"1",
-                "name":"Butterfield, G. K.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20340":{
-                "district":"1",
-                "name":"Butterfield, G. K.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nc"
 },
   "bbox": [
     -78.66078,

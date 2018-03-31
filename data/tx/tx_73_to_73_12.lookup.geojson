@@ -2,20 +2,12 @@
   "id": "tx_73_to_73_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"73",
-    "id":"048073073012",
-    "member":{
-        "73":{
-            "5458":{
-                "district":"12",
-                "name":"Lanham, Fritz Garland",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Texas"
+    "district":12,
+    "end_date":"1934-06-18",
+    "end_session":73,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"tx"
 },
   "bbox": [
     -98.55116,

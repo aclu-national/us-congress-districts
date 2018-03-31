@@ -1,28 +1,13 @@
 {
-  "id": "oh_98_to_99_02",
+  "id": "oh_98_to_99_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"99",
-    "id":"039098099002",
-    "member":{
-        "98":{
-            "14225":{
-                "district":"2",
-                "name":"Gradison, Willis",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14225":{
-                "district":"2",
-                "name":"Gradison, Willis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1986-10-18",
+    "end_session":99,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"oh"
 },
   "bbox": [
     -84.53294,

@@ -2,20 +2,12 @@
   "id": "oh_63_to_63_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"63",
-    "id":"039063063019",
-    "member":{
-        "63":{
-            "519":{
-                "district":"19",
-                "name":"Bathrick, Elsworth Raymon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Ohio"
+    "district":19,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"oh"
 },
   "bbox": [
     -81.68845,

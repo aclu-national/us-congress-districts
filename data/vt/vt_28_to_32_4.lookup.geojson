@@ -1,49 +1,13 @@
 {
-  "id": "vt_28_to_32_04",
+  "id": "vt_28_to_32_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"32",
-    "id":"050028032004",
-    "member":{
-        "28":{
-            "2596":{
-                "district":"4",
-                "name":"Dillingham, Paul Jr.",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "2596":{
-                "district":"4",
-                "name":"Dillingham, Paul Jr.",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "7296":{
-                "district":"4",
-                "name":"Peck, Lucius Benedict",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "7296":{
-                "district":"4",
-                "name":"Peck, Lucius Benedict",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "492":{
-                "district":"4",
-                "name":"Bartlett, Thomas Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Vermont"
+    "district":4,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"vt"
 },
   "bbox": [
     -72.95293,

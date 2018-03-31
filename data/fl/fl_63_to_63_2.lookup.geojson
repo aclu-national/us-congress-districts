@@ -1,21 +1,13 @@
 {
-  "id": "fl_63_to_63_02",
+  "id": "fl_63_to_63_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"63",
-    "id":"012063063002",
-    "member":{
-        "63":{
-            "1762":{
-                "district":"2",
-                "name":"Clark, Frank",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Florida"
+    "district":2,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"fl"
 },
   "bbox": [
     -83.30961,

@@ -1,28 +1,13 @@
 {
-  "id": "va_23_to_24_01",
+  "id": "va_23_to_24_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"24",
-    "id":"051023024001",
-    "member":{
-        "23":{
-            "5819":{
-                "district":"1",
-                "name":"Loyall, George",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "5819":{
-                "district":"1",
-                "name":"Loyall, George",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1837-03-03",
+    "end_session":24,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"va"
 },
   "bbox": [
     -76.93094,

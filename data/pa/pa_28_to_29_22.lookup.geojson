@@ -2,27 +2,12 @@
   "id": "pa_28_to_29_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"29",
-    "id":"042028029022",
-    "member":{
-        "28":{
-            "4245":{
-                "district":"22",
-                "name":"Hays, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "3497":{
-                "district":"22",
-                "name":"Garvin, William Swan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":22,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

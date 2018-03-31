@@ -1,21 +1,13 @@
 {
-  "id": "nc_48_to_48_07",
+  "id": "nc_48_to_48_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"48",
-    "id":"037048048007",
-    "member":{
-        "48":{
-            "10429":{
-                "district":"7",
-                "name":"York, Tyre",
-                "party":"Ind. Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"North Carolina"
+    "district":7,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"nc"
 },
   "bbox": [
     -81.97604,

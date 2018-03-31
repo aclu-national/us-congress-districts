@@ -1,54 +1,13 @@
 {
-  "id": "nc_73_to_77_04",
+  "id": "nc_73_to_77_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"77",
-    "id":"037073077004",
-    "member":{
-        "73":{
-            "2032":{
-                "district":"4",
-                "name":"Cooley, Harold Dunbar",
-                "party":"Democrat"
-            },
-            "7565":{
-                "district":"4",
-                "name":"Pou, Edward William",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "2032":{
-                "district":"4",
-                "name":"Cooley, Harold Dunbar",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2032":{
-                "district":"4",
-                "name":"Cooley, Harold Dunbar",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2032":{
-                "district":"4",
-                "name":"Cooley, Harold Dunbar",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2032":{
-                "district":"4",
-                "name":"Cooley, Harold Dunbar",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"nc"
 },
   "bbox": [
     -80.06674,

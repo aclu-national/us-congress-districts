@@ -1,19 +1,13 @@
 {
-  "id": "ca_113_to_115_08",
+  "id": "ca_113_to_115_8",
   "type": "Feature",
   "properties": {
-    "ALAND":85126246360,
-    "AWATER":450252881,
-    "CD113FP":"08",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0608",
-    "INTPTLAT":"+35.6625568",
-    "INTPTLON":"-116.8195456",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 8",
-    "STATEFP":"06"
+    "district":8,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -119.651509,

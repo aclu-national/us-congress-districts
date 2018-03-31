@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"37",
-    "id":"042033037013",
-    "member":{
-        "33":{
-            "7145":{
-                "district":"13",
-                "name":"Packer, Asa",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "7145":{
-                "district":"13",
-                "name":"Packer, Asa",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "2601":{
-                "district":"13",
-                "name":"Dimmick, William Harrison",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "2601":{
-                "district":"13",
-                "name":"Dimmick, William Harrison",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "4986":{
-                "district":"13",
-                "name":"Johnson, Philip",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -75.99735,

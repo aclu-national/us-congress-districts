@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"102",
-    "id":"036099102030",
-    "member":{
-        "100":{
-            "15444":{
-                "district":"30",
-                "name":"Slaughter, Louise McIntosh",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15444":{
-                "district":"30",
-                "name":"Slaughter, Louise McIntosh",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15444":{
-                "district":"30",
-                "name":"Slaughter, Louise McIntosh",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15097":{
-                "district":"30",
-                "name":"Eckert, Fred J.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":30,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -78.46576,

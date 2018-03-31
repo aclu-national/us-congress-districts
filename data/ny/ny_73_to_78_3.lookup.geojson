@@ -1,56 +1,13 @@
 {
-  "id": "ny_73_to_78_03",
+  "id": "ny_73_to_78_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"78",
-    "id":"036073078003",
-    "member":{
-        "73":{
-            "5677":{
-                "district":"3",
-                "name":"Lindsay, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "7390":{
-                "district":"3",
-                "name":"Pfeifer, Joseph Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7390":{
-                "district":"3",
-                "name":"Pfeifer, Joseph Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "7390":{
-                "district":"3",
-                "name":"Pfeifer, Joseph Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "7390":{
-                "district":"3",
-                "name":"Pfeifer, Joseph Lawrence",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "7390":{
-                "district":"3",
-                "name":"Pfeifer, Joseph Lawrence",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -73.96255,

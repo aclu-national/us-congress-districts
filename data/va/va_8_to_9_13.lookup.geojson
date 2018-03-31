@@ -2,37 +2,12 @@
   "id": "va_8_to_9_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"9",
-    "id":"051008009013",
-    "member":{
-        "8":{
-            "1756":{
-                "district":"13",
-                "name":"Clark, Christopher Hender",
-                "party":"Republican"
-            },
-            "9470":{
-                "district":"13",
-                "name":"Trigg, John Johns",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "1323":{
-                "district":"13",
-                "name":"Burwell, William Armisted",
-                "party":"Republican"
-            },
-            "1756":{
-                "district":"13",
-                "name":"Clark, Christopher Hender",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Virginia"
+    "district":13,
+    "end_date":"1807-03-03",
+    "end_session":9,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"va"
 },
   "bbox": [
     -80.62578,

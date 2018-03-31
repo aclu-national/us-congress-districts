@@ -1,77 +1,13 @@
 {
-  "id": "sc_104_to_112_01",
+  "id": "sc_104_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"045104112001",
-    "member":{
-        "104":{
-            "29565":{
-                "district":"1",
-                "name":"Sanford, Marshall \"Mark\"",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29565":{
-                "district":"1",
-                "name":"Sanford, Marshall \"Mark\"",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29565":{
-                "district":"1",
-                "name":"Sanford, Marshall \"Mark\"",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "20137":{
-                "district":"1",
-                "name":"Brown, Henry E. Jr.",
-                "party":"Republican"
-            }
-        },
-        "108":{
-            "20137":{
-                "district":"1",
-                "name":"Brown, Henry E. Jr.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20137":{
-                "district":"1",
-                "name":"Brown, Henry E. Jr.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20137":{
-                "district":"1",
-                "name":"Brown, Henry E. Jr.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20137":{
-                "district":"1",
-                "name":"Brown, Henry E. Jr.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21173":{
-                "district":"1",
-                "name":"Scott, Tim",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"sc"
 },
   "bbox": [
     -80.30703,

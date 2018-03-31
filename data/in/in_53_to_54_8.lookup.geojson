@@ -1,28 +1,13 @@
 {
-  "id": "in_53_to_54_08",
+  "id": "in_53_to_54_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"54",
-    "id":"018053054008",
-    "member":{
-        "53":{
-            "1083":{
-                "district":"8",
-                "name":"Brookshire, Elijah Voorhees",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "3057":{
-                "district":"8",
-                "name":"Faris, George Washington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Indiana"
+    "district":8,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"in"
 },
   "bbox": [
     -87.65875,

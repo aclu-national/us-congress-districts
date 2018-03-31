@@ -1,49 +1,13 @@
 {
-  "id": "ia_73_to_77_03",
+  "id": "ia_73_to_77_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"77",
-    "id":"019073077003",
-    "member":{
-        "73":{
-            "10130":{
-                "district":"3",
-                "name":"Willford, Albert Clinton",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "3890":{
-                "district":"3",
-                "name":"Gwynne, John Williams",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "3890":{
-                "district":"3",
-                "name":"Gwynne, John Williams",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "3890":{
-                "district":"3",
-                "name":"Gwynne, John Williams",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "3890":{
-                "district":"3",
-                "name":"Gwynne, John Williams",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Iowa"
+    "district":3,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ia"
 },
   "bbox": [
     -93.97188,

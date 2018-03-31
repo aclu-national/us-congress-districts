@@ -1,42 +1,13 @@
 {
-  "id": "ga_89_to_92_03",
+  "id": "ga_89_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"013089092003",
-    "member":{
-        "89":{
-            "10709":{
-                "district":"3",
-                "name":"Callaway, Howard H.",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "11005":{
-                "district":"3",
-                "name":"Brinkley, Jack",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "11005":{
-                "district":"3",
-                "name":"Brinkley, Jack",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "11005":{
-                "district":"3",
-                "name":"Brinkley, Jack",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Georgia"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"ga"
 },
   "bbox": [
     -85.18491,

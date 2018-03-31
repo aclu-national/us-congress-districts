@@ -1,42 +1,13 @@
 {
-  "id": "wa_87_to_90_06",
+  "id": "wa_87_to_90_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"90",
-    "id":"053087090006",
-    "member":{
-        "87":{
-            "9409":{
-                "district":"6",
-                "name":"Tollefson, Thor Carl",
-                "party":"Republican"
-            }
-        },
-        "88":{
-            "9409":{
-                "district":"6",
-                "name":"Tollefson, Thor Carl",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10738":{
-                "district":"6",
-                "name":"Hicks, Floyd V.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10738":{
-                "district":"6",
-                "name":"Hicks, Floyd V.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"87",
-    "statename":"Washington"
+    "district":6,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1961-01-03",
+    "start_session":87,
+    "state":"wa"
 },
   "bbox": [
     -123.02335,

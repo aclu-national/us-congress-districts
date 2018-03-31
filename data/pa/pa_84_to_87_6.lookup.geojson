@@ -1,42 +1,13 @@
 {
-  "id": "pa_84_to_87_06",
+  "id": "pa_84_to_87_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"87",
-    "id":"042084087006",
-    "member":{
-        "84":{
-            "8301":{
-                "district":"6",
-                "name":"Scott, Hugh Doggett, Jr.",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "8301":{
-                "district":"6",
-                "name":"Scott, Hugh Doggett, Jr.",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "9408":{
-                "district":"6",
-                "name":"Toll, Herman",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "9408":{
-                "district":"6",
-                "name":"Toll, Herman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -75.26422,

@@ -1,42 +1,13 @@
 {
-  "id": "pa_79_to_82_02",
+  "id": "pa_79_to_82_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"82",
-    "id":"042079082002",
-    "member":{
-        "79":{
-            "3744":{
-                "district":"2",
-                "name":"Granahan, William Thomas",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "6246":{
-                "district":"2",
-                "name":"McGarvey, Robert Neill",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3744":{
-                "district":"2",
-                "name":"Granahan, William Thomas",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "3744":{
-                "district":"2",
-                "name":"Granahan, William Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

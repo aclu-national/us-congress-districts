@@ -1,54 +1,13 @@
 {
-  "id": "ia_38_to_42_02",
+  "id": "ia_38_to_42_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"42",
-    "id":"019038042002",
-    "member":{
-        "38":{
-            "7612":{
-                "district":"2",
-                "name":"Price, Hiram",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "7612":{
-                "district":"2",
-                "name":"Price, Hiram",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "7612":{
-                "district":"2",
-                "name":"Price, Hiram",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "10309":{
-                "district":"2",
-                "name":"Wolf, William Penn",
-                "party":"Republican"
-            },
-            "8717":{
-                "district":"2",
-                "name":"Smyth, William",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "2086":{
-                "district":"2",
-                "name":"Cotton, Aylett Rains",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Iowa"
+    "district":2,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ia"
 },
   "bbox": [
     -91.83528,

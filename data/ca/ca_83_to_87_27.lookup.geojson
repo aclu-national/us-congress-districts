@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"87",
-    "id":"006083087027",
-    "member":{
-        "83":{
-            "8444":{
-                "district":"27",
-                "name":"Sheppard, Harry Richard",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "8444":{
-                "district":"27",
-                "name":"Sheppard, Harry Richard",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "8444":{
-                "district":"27",
-                "name":"Sheppard, Harry Richard",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "8444":{
-                "district":"27",
-                "name":"Sheppard, Harry Richard",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "8444":{
-                "district":"27",
-                "name":"Sheppard, Harry Richard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":27,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -117.80289,

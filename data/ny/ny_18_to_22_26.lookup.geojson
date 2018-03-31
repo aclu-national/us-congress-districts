@@ -2,73 +2,12 @@
   "id": "ny_18_to_22_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"22",
-    "id":"036018022026",
-    "member":{
-        "18":{
-            "6046":{
-                "district":"26",
-                "name":"Marvin, Dudley",
-                "party":"Adams-Clay Republican"
-            },
-            "8062":{
-                "district":"26",
-                "name":"Rose, Robert Selden",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "6046":{
-                "district":"26",
-                "name":"Marvin, Dudley",
-                "party":"Adams"
-            },
-            "8062":{
-                "district":"26",
-                "name":"Rose, Robert Selden",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "6046":{
-                "district":"26",
-                "name":"Marvin, Dudley",
-                "party":"Adams"
-            },
-            "6113":{
-                "district":"26",
-                "name":"Maynard, John",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "3970":{
-                "district":"26",
-                "name":"Halsey, Jehiel Howell",
-                "party":"Jackson"
-            },
-            "8062":{
-                "district":"26",
-                "name":"Rose, Robert Selden",
-                "party":"Anti Masonic"
-            }
-        },
-        "22":{
-            "2580":{
-                "district":"26",
-                "name":"Dickson, John",
-                "party":"Anti Masonic"
-            },
-            "316":{
-                "district":"26",
-                "name":"Babcock, William",
-                "party":"Anti Masonic"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -77.61192,

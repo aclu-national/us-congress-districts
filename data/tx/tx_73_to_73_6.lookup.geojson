@@ -1,21 +1,13 @@
 {
-  "id": "tx_73_to_73_06",
+  "id": "tx_73_to_73_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"73",
-    "id":"048073073006",
-    "member":{
-        "73":{
-            "4978":{
-                "district":"6",
-                "name":"Johnson, Luther Alexander",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"1934-06-18",
+    "end_session":73,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"tx"
 },
   "bbox": [
     -97.49711,

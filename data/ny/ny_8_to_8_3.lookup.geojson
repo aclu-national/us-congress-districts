@@ -1,26 +1,13 @@
 {
-  "id": "ny_8_to_8_03",
+  "id": "ny_8_to_8_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"8",
-    "id":"036008008003",
-    "member":{
-        "8":{
-            "1849":{
-                "district":"3",
-                "name":"Clinton, George",
-                "party":"Republican"
-            },
-            "6577":{
-                "district":"3",
-                "name":"Mitchill, Samuel Latham",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1805-03-03",
+    "end_session":8,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ny"
 },
   "bbox": [
     -74.01863,

@@ -1,21 +1,13 @@
 {
-  "id": "tx_93_to_93_09",
+  "id": "tx_93_to_93_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"93",
-    "id":"048093093009",
-    "member":{
-        "93":{
-            "1077":{
-                "district":"9",
-                "name":"Brooks, Jack Bascom",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Texas"
+    "district":9,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tx"
 },
   "bbox": [
     -95.31761,

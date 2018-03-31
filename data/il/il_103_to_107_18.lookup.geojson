@@ -2,48 +2,12 @@
   "id": "il_103_to_107_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"107",
-    "id":"017103107018",
-    "member":{
-        "103":{
-            "6455":{
-                "district":"18",
-                "name":"Michel, Robert Henry",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29517":{
-                "district":"18",
-                "name":"Lahood, Ray",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29517":{
-                "district":"18",
-                "name":"Lahood, Ray",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29517":{
-                "district":"18",
-                "name":"Lahood, Ray",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29517":{
-                "district":"18",
-                "name":"Lahood, Ray",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Illinois"
+    "district":18,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"il"
 },
   "bbox": [
     -90.5991,

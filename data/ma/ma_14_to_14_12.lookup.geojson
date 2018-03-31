@@ -2,20 +2,12 @@
   "id": "ma_14_to_14_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"14",
-    "id":"025014014012",
-    "member":{
-        "14":{
-            "9036":{
-                "district":"12",
-                "name":"Strong, Solomon",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"14",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1815-12-04",
+    "start_session":14,
+    "state":"ma"
 },
   "bbox": [
     -72.29142,

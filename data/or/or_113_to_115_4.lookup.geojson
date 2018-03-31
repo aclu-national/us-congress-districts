@@ -1,19 +1,13 @@
 {
-  "id": "or_113_to_115_04",
+  "id": "or_113_to_115_4",
   "type": "Feature",
   "properties": {
-    "ALAND":44740459606,
-    "AWATER":2227069166,
-    "CD113FP":"04",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4104",
-    "INTPTLAT":"+43.4904305",
-    "INTPTLON":"-123.2455428",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 4",
-    "STATEFP":"41"
+    "district":4,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"or"
 },
   "bbox": [
     -124.703541,

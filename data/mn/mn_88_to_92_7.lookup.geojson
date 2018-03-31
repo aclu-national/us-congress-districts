@@ -1,49 +1,13 @@
 {
-  "id": "mn_88_to_92_07",
+  "id": "mn_88_to_92_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"92",
-    "id":"027088092007",
-    "member":{
-        "88":{
-            "5451":{
-                "district":"7",
-                "name":"Langen, Odin",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "5451":{
-                "district":"7",
-                "name":"Langen, Odin",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "5451":{
-                "district":"7",
-                "name":"Langen, Odin",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "5451":{
-                "district":"7",
-                "name":"Langen, Odin",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13007":{
-                "district":"7",
-                "name":"Bergland, Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Minnesota"
+    "district":7,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mn"
 },
   "bbox": [
     -97.23921,

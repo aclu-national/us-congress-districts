@@ -2,34 +2,12 @@
   "id": "ny_103_to_105_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"105",
-    "id":"036103105017",
-    "member":{
-        "103":{
-            "15603":{
-                "district":"17",
-                "name":"Engel, Eliot L.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "15603":{
-                "district":"17",
-                "name":"Engel, Eliot L.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "15603":{
-                "district":"17",
-                "name":"Engel, Eliot L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -73.934,

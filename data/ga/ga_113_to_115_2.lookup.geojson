@@ -1,19 +1,13 @@
 {
-  "id": "ga_113_to_115_02",
+  "id": "ga_113_to_115_2",
   "type": "Feature",
   "properties": {
-    "ALAND":24932133897,
-    "AWATER":449511864,
-    "CD113FP":"02",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1302",
-    "INTPTLAT":"+31.8162371",
-    "INTPTLON":"-084.4190306",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 2",
-    "STATEFP":"13"
+    "district":2,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ga"
 },
   "bbox": [
     -85.141931,

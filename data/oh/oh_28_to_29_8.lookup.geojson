@@ -1,28 +1,13 @@
 {
-  "id": "oh_28_to_29_08",
+  "id": "oh_28_to_29_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"29",
-    "id":"039028029008",
-    "member":{
-        "28":{
-            "9624":{
-                "district":"8",
-                "name":"Vanmeter, John Inskeep",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "9367":{
-                "district":"8",
-                "name":"Thurman, Allen Granberry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":8,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -83.70528,

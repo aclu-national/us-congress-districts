@@ -2,41 +2,12 @@
   "id": "ny_49_to_52_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"52",
-    "id":"036049052033",
-    "member":{
-        "49":{
-            "9902":{
-                "district":"33",
-                "name":"Weber, John Baptiste",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "9902":{
-                "district":"33",
-                "name":"Weber, John Baptiste",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "10113":{
-                "district":"33",
-                "name":"Wiley, John McClure",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "1243":{
-                "district":"33",
-                "name":"Bunting, Thomas Lathrop",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":33,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

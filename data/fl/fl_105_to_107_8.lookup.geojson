@@ -1,35 +1,13 @@
 {
-  "id": "fl_105_to_107_08",
+  "id": "fl_105_to_107_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"107",
-    "id":"012105107008",
-    "member":{
-        "105":{
-            "14842":{
-                "district":"8",
-                "name":"McCollum, Bill",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "14842":{
-                "district":"8",
-                "name":"McCollum, Bill",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "20112":{
-                "district":"8",
-                "name":"Keller, Ric",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Florida"
+    "district":8,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"fl"
 },
   "bbox": [
     -81.65873,

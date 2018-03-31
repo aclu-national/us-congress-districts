@@ -2,53 +2,12 @@
   "id": "ca_108_to_112_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"112",
-    "id":"006108112012",
-    "member":{
-        "108":{
-            "14837":{
-                "district":"12",
-                "name":"Lantos, Tom",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "14837":{
-                "district":"12",
-                "name":"Lantos, Tom",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "14837":{
-                "district":"12",
-                "name":"Lantos, Tom",
-                "party":"Democrat"
-            },
-            "20762":{
-                "district":"12",
-                "name":"Speier, Jackie",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20762":{
-                "district":"12",
-                "name":"Speier, Jackie",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20762":{
-                "district":"12",
-                "name":"Speier, Jackie",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":12,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -123.0143,

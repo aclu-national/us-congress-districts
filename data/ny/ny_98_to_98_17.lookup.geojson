@@ -2,20 +2,12 @@
   "id": "ny_98_to_98_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"98",
-    "id":"036098098017",
-    "member":{
-        "98":{
-            "14463":{
-                "district":"17",
-                "name":"Weiss, Theodore",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ny"
 },
   "bbox": [
     -74.01969,

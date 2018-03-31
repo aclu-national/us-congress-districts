@@ -1,49 +1,13 @@
 {
-  "id": "ca_73_to_77_07",
+  "id": "ca_73_to_77_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"77",
-    "id":"006073077007",
-    "member":{
-        "73":{
-            "2950":{
-                "district":"7",
-                "name":"Eltse, Ralph Roscoe",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "9406":{
-                "district":"7",
-                "name":"Tolan, John Harvey",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "9406":{
-                "district":"7",
-                "name":"Tolan, John Harvey",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "9406":{
-                "district":"7",
-                "name":"Tolan, John Harvey",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "9406":{
-                "district":"7",
-                "name":"Tolan, John Harvey",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"California"
+    "district":7,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ca"
 },
   "bbox": [
     -122.34148,

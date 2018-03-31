@@ -1,49 +1,13 @@
 {
-  "id": "ga_65_to_69_01",
+  "id": "ga_65_to_69_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"69",
-    "id":"013065069001",
-    "member":{
-        "65":{
-            "7123":{
-                "district":"1",
-                "name":"Overstreet, James Whetstone",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "7123":{
-                "district":"1",
-                "name":"Overstreet, James Whetstone",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "7123":{
-                "district":"1",
-                "name":"Overstreet, James Whetstone",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "6648":{
-                "district":"1",
-                "name":"Moore, Robert Lee",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2861":{
-                "district":"1",
-                "name":"Edwards, Charles Gordon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Georgia"
+    "district":1,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ga"
 },
   "bbox": [
     -82.3165,

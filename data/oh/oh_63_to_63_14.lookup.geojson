@@ -2,20 +2,12 @@
   "id": "oh_63_to_63_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"63",
-    "id":"039063063014",
-    "member":{
-        "63":{
-            "8408":{
-                "district":"14",
-                "name":"Sharp, William Graves",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"oh"
 },
   "bbox": [
     -83.02223,

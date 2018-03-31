@@ -2,20 +2,12 @@
   "id": "ny_98_to_98_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"98",
-    "id":"036098098013",
-    "member":{
-        "98":{
-            "14277":{
-                "district":"13",
-                "name":"Solarz, Stephen",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ny"
 },
   "bbox": [
     -74.03605,

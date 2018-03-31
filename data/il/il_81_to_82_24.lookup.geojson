@@ -2,27 +2,12 @@
   "id": "il_81_to_82_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"82",
-    "id":"017081082024",
-    "member":{
-        "81":{
-            "9693":{
-                "district":"24",
-                "name":"Vursell, Charles Wesley",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "9693":{
-                "district":"24",
-                "name":"Vursell, Charles Wesley",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"81",
-    "statename":"Illinois"
+    "district":24,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1949-01-03",
+    "start_session":81,
+    "state":"il"
 },
   "bbox": [
     -89.70705,

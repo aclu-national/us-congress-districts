@@ -1,42 +1,13 @@
 {
-  "id": "tn_74_to_77_04",
+  "id": "tn_74_to_77_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"77",
-    "id":"047074077004",
-    "member":{
-        "74":{
-            "6570":{
-                "district":"4",
-                "name":"Mitchell, John Ridley",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "6570":{
-                "district":"4",
-                "name":"Mitchell, John Ridley",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3704":{
-                "district":"4",
-                "name":"Gore, Albert Arnold",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "3704":{
-                "district":"4",
-                "name":"Gore, Albert Arnold",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tn"
 },
   "bbox": [
     -86.9608,

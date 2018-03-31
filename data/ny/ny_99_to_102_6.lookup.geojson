@@ -1,47 +1,13 @@
 {
-  "id": "ny_99_to_102_06",
+  "id": "ny_99_to_102_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"102",
-    "id":"036099102006",
-    "member":{
-        "100":{
-            "15412":{
-                "district":"6",
-                "name":"Flake, Floyd",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15412":{
-                "district":"6",
-                "name":"Flake, Floyd",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15412":{
-                "district":"6",
-                "name":"Flake, Floyd",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "10500":{
-                "district":"6",
-                "name":"Addabbo, Joseph P.",
-                "party":"Democrat"
-            },
-            "15244":{
-                "district":"6",
-                "name":"Waldon, Alton R., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -73.94059,

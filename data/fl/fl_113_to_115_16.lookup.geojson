@@ -2,18 +2,12 @@
   "id": "fl_113_to_115_16",
   "type": "Feature",
   "properties": {
-    "ALAND":2267142039,
-    "AWATER":823827525,
-    "CD113FP":"16",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1216",
-    "INTPTLAT":"+27.3062610",
-    "INTPTLON":"-082.4262015",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 16",
-    "STATEFP":"12"
+    "district":16,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"fl"
 },
   "bbox": [
     -82.823029,

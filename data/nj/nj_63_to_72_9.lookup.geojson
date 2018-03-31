@@ -1,89 +1,13 @@
 {
-  "id": "nj_63_to_72_09",
+  "id": "nj_63_to_72_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"72",
-    "id":"034063072009",
-    "member":{
-        "63":{
-            "6188":{
-                "district":"9",
-                "name":"McCoy, Walter Irving",
-                "party":"Democrat"
-            },
-            "7203":{
-                "district":"9",
-                "name":"Parker, Richard Wayne",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "7203":{
-                "district":"9",
-                "name":"Parker, Richard Wayne",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "7203":{
-                "district":"9",
-                "name":"Parker, Richard Wayne",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6542":{
-                "district":"9",
-                "name":"Minahan, Daniel Francis",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "7203":{
-                "district":"9",
-                "name":"Parker, Richard Wayne",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6542":{
-                "district":"9",
-                "name":"Minahan, Daniel Francis",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3289":{
-                "district":"9",
-                "name":"Fort, Franklin William",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "3289":{
-                "district":"9",
-                "name":"Fort, Franklin William",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "3289":{
-                "district":"9",
-                "name":"Fort, Franklin William",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "1609":{
-                "district":"9",
-                "name":"Cavicchia, Peter Angelo",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New Jersey"
+    "district":9,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nj"
 },
   "bbox": [
     -74.2554,

@@ -1,49 +1,13 @@
 {
-  "id": "oh_38_to_42_09",
+  "id": "oh_38_to_42_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"42",
-    "id":"039038042009",
-    "member":{
-        "38":{
-            "6942":{
-                "district":"9",
-                "name":"Noble, Warren Perry",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "1203":{
-                "district":"9",
-                "name":"Buckland, Ralph Pomeroy",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "1203":{
-                "district":"9",
-                "name":"Buckland, Ralph Pomeroy",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "2572":{
-                "district":"9",
-                "name":"Dickinson, Edward Fenwick",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "3301":{
-                "district":"9",
-                "name":"Foster, Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Ohio"
+    "district":9,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"oh"
 },
   "bbox": [
     -83.4213,

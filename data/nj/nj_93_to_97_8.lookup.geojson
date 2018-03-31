@@ -1,49 +1,13 @@
 {
-  "id": "nj_93_to_97_08",
+  "id": "nj_93_to_97_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"97",
-    "id":"034093097008",
-    "member":{
-        "93":{
-            "12042":{
-                "district":"8",
-                "name":"Roe, Robert A.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "12042":{
-                "district":"8",
-                "name":"Roe, Robert A.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "12042":{
-                "district":"8",
-                "name":"Roe, Robert A.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "12042":{
-                "district":"8",
-                "name":"Roe, Robert A.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "12042":{
-                "district":"8",
-                "name":"Roe, Robert A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New Jersey"
+    "district":8,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nj"
 },
   "bbox": [
     -74.5028,

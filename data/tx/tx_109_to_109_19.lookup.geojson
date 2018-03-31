@@ -2,20 +2,12 @@
   "id": "tx_109_to_109_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"109",
-    "id":"048109109019",
-    "member":{
-        "109":{
-            "20353":{
-                "district":"19",
-                "name":"Neugebauer, Randy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Texas"
+    "district":19,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"tx"
 },
   "bbox": [
     -103.06492,

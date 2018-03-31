@@ -1,49 +1,13 @@
 {
-  "id": "oh_53_to_57_05",
+  "id": "oh_53_to_57_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"57",
-    "id":"039053057005",
-    "member":{
-        "53":{
-            "2661":{
-                "district":"5",
-                "name":"Donovan, Dennis D.",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "2547":{
-                "district":"5",
-                "name":"De Witt, Francis Byron",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "6405":{
-                "district":"5",
-                "name":"Meekison, David",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "6405":{
-                "district":"5",
-                "name":"Meekison, David",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "8726":{
-                "district":"5",
-                "name":"Snook, John Stout",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"oh"
 },
   "bbox": [
     -84.80618,

@@ -1,31 +1,13 @@
 {
-  "id": "tn_8_to_8_00",
+  "id": "tn_8_to_8_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"8",
-    "id":"047008008000",
-    "member":{
-        "8":{
-            "1448":{
-                "district":"98",
-                "name":"Campbell, George Washington",
-                "party":"Republican"
-            },
-            "2583":{
-                "district":"98",
-                "name":"Dickson, William",
-                "party":"Republican"
-            },
-            "7838":{
-                "district":"98",
-                "name":"Rhea, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Tennessee"
+    "district":0,
+    "end_date":"1805-03-03",
+    "end_session":8,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"tn"
 },
   "bbox": [
     -87.99511,

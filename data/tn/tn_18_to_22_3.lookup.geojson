@@ -1,49 +1,13 @@
 {
-  "id": "tn_18_to_22_03",
+  "id": "tn_18_to_22_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"22",
-    "id":"047018022003",
-    "member":{
-        "18":{
-            "8832":{
-                "district":"3",
-                "name":"Standifer, James",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "6562":{
-                "district":"3",
-                "name":"Mitchell, James Coffield",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "6562":{
-                "district":"3",
-                "name":"Mitchell, James Coffield",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "8832":{
-                "district":"3",
-                "name":"Standifer, James",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "8832":{
-                "district":"3",
-                "name":"Standifer, James",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"tn"
 },
   "bbox": [
     -85.99362,

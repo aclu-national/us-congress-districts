@@ -2,25 +2,12 @@
   "id": "oh_47_to_47_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"47",
-    "id":"039047047016",
-    "member":{
-        "47":{
-            "9224":{
-                "district":"16",
-                "name":"Taylor, Joseph Danner",
-                "party":"Republican"
-            },
-            "9563":{
-                "district":"16",
-                "name":"Updegraff, Jonathan Taylor",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Ohio"
+    "district":16,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"oh"
 },
   "bbox": [
     -81.72861,

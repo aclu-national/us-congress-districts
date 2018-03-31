@@ -1,49 +1,13 @@
 {
-  "id": "ma_65_to_69_07",
+  "id": "ma_65_to_69_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"69",
-    "id":"025065069007",
-    "member":{
-        "65":{
-            "7396":{
-                "district":"7",
-                "name":"Phelan, Michael Francis",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "7396":{
-                "district":"7",
-                "name":"Phelan, Michael Francis",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5948":{
-                "district":"7",
-                "name":"Maloney, Robert Sarsfield",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "1996":{
-                "district":"7",
-                "name":"Connery, William Patrick,",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1996":{
-                "district":"7",
-                "name":"Connery, William Patrick, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ma"
 },
   "bbox": [
     -71.19105,

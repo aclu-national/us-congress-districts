@@ -1,28 +1,13 @@
 {
-  "id": "pa_28_to_29_01",
+  "id": "pa_28_to_29_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"29",
-    "id":"042028029001",
-    "member":{
-        "28":{
-            "6702":{
-                "district":"1",
-                "name":"Morris, Edward Joy",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "5626":{
-                "district":"1",
-                "name":"Levin, Lewis Charles",
-                "party":"American"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -75.21453,

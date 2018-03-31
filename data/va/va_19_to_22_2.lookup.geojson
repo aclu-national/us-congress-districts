@@ -1,42 +1,13 @@
 {
-  "id": "va_19_to_22_02",
+  "id": "va_19_to_22_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"22",
-    "id":"051019022002",
-    "member":{
-        "19":{
-            "9466":{
-                "district":"2",
-                "name":"Trezvant, James",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "9466":{
-                "district":"2",
-                "name":"Trezvant, James",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "9466":{
-                "district":"2",
-                "name":"Trezvant, James",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "6057":{
-                "district":"2",
-                "name":"Mason, John Young",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":2,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -77.76712,

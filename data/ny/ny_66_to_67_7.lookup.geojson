@@ -1,28 +1,13 @@
 {
-  "id": "ny_66_to_67_07",
+  "id": "ny_66_to_67_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"67",
-    "id":"036066067007",
-    "member":{
-        "66":{
-            "5922":{
-                "district":"7",
-                "name":"Maher, James Paul",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "4496":{
-                "district":"7",
-                "name":"Hogan, Michael Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -74.00464,

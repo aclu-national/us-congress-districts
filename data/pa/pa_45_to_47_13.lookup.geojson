@@ -2,34 +2,12 @@
   "id": "pa_45_to_47_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"47",
-    "id":"042045047013",
-    "member":{
-        "45":{
-            "7814":{
-                "district":"13",
-                "name":"Reilly, James Bernard",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "8161":{
-                "district":"13",
-                "name":"Ryon, John Walker",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "1162":{
-                "district":"13",
-                "name":"Brumm, Charles Napoleon",
-                "party":"National Greenbacker"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"pa"
 },
   "bbox": [
     -76.70148,

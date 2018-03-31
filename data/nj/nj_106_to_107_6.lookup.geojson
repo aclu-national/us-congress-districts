@@ -1,28 +1,13 @@
 {
-  "id": "nj_106_to_107_06",
+  "id": "nj_106_to_107_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"107",
-    "id":"034106107006",
-    "member":{
-        "106":{
-            "15454":{
-                "district":"6",
-                "name":"Pallone, Frank, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "15454":{
-                "district":"6",
-                "name":"Pallone, Frank, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"106",
-    "statename":"New Jersey"
+    "district":6,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1999-01-06",
+    "start_session":106,
+    "state":"nj"
 },
   "bbox": [
     -74.5317,

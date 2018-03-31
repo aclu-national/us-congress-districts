@@ -1,49 +1,13 @@
 {
-  "id": "ks_98_to_102_03",
+  "id": "ks_98_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"020098102003",
-    "member":{
-        "100":{
-            "15109":{
-                "district":"3",
-                "name":"Meyers, Jan",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15109":{
-                "district":"3",
-                "name":"Meyers, Jan",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15109":{
-                "district":"3",
-                "name":"Meyers, Jan",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "11057":{
-                "district":"3",
-                "name":"Winn, Larry, Jr.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15109":{
-                "district":"3",
-                "name":"Meyers, Jan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Kansas"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ks"
 },
   "bbox": [
     -95.07746,

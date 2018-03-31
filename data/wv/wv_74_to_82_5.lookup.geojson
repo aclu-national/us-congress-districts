@@ -1,82 +1,13 @@
 {
-  "id": "wv_74_to_82_05",
+  "id": "wv_74_to_82_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"82",
-    "id":"054074082005",
-    "member":{
-        "74":{
-            "5117":{
-                "district":"5",
-                "name":"Kee, John",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5117":{
-                "district":"5",
-                "name":"Kee, John",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "5117":{
-                "district":"5",
-                "name":"Kee, John",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "5117":{
-                "district":"5",
-                "name":"Kee, John",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "5117":{
-                "district":"5",
-                "name":"Kee, John",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "5117":{
-                "district":"5",
-                "name":"Kee, John",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5117":{
-                "district":"5",
-                "name":"Kee, John",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "5117":{
-                "district":"5",
-                "name":"Kee, John",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5117":{
-                "district":"5",
-                "name":"Kee, John",
-                "party":"Democrat"
-            },
-            "5118":{
-                "district":"5",
-                "name":"Kee, Maude Elizabeth",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"West Virginia"
+    "district":5,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"wv"
 },
   "bbox": [
     -82.42048,

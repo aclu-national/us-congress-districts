@@ -1,21 +1,13 @@
 {
-  "id": "tn_9_to_9_01",
+  "id": "tn_9_to_9_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"9",
-    "id":"047009009001",
-    "member":{
-        "9":{
-            "7838":{
-                "district":"1",
-                "name":"Rhea, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"9",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1807-03-03",
+    "end_session":9,
+    "start_date":"1805-12-02",
+    "start_session":9,
+    "state":"tn"
 },
   "bbox": [
     -83.35824,

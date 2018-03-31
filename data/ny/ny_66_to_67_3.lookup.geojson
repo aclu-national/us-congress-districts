@@ -1,28 +1,13 @@
 {
-  "id": "ny_66_to_67_03",
+  "id": "ny_66_to_67_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"67",
-    "id":"036066067003",
-    "member":{
-        "66":{
-            "5870":{
-                "district":"3",
-                "name":"Maccrate, John",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5302":{
-                "district":"3",
-                "name":"Kissel, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -73.96255,

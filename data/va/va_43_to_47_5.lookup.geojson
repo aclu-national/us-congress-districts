@@ -1,54 +1,13 @@
 {
-  "id": "va_43_to_47_05",
+  "id": "va_43_to_47_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"47",
-    "id":"051043047005",
-    "member":{
-        "43":{
-            "2373":{
-                "district":"5",
-                "name":"Davis, Alexander Mathews",
-                "party":"Democrat"
-            },
-            "9289":{
-                "district":"5",
-                "name":"Thomas, Christopher Yancy",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "1379":{
-                "district":"5",
-                "name":"Cabell, George Craighead",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "1379":{
-                "district":"5",
-                "name":"Cabell, George Craighead",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "1379":{
-                "district":"5",
-                "name":"Cabell, George Craighead",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "1379":{
-                "district":"5",
-                "name":"Cabell, George Craighead",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"va"
 },
   "bbox": [
     -81.67764,

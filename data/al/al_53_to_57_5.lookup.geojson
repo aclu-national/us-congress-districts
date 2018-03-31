@@ -1,54 +1,13 @@
 {
-  "id": "al_53_to_57_05",
+  "id": "al_53_to_57_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"57",
-    "id":"001053057005",
-    "member":{
-        "53":{
-            "1869":{
-                "district":"5",
-                "name":"Cobb, James Edward",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "1869":{
-                "district":"5",
-                "name":"Cobb, James Edward",
-                "party":"Democrat"
-            },
-            "3690":{
-                "district":"5",
-                "name":"Goodwyn, Albert Taylor",
-                "party":"Populist"
-            }
-        },
-        "55":{
-            "1017":{
-                "district":"5",
-                "name":"Brewer, Willis",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "1017":{
-                "district":"5",
-                "name":"Brewer, Willis",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "9318":{
-                "district":"5",
-                "name":"Thompson, Charles Winston",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Alabama"
+    "district":5,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"al"
 },
   "bbox": [
     -86.92137,

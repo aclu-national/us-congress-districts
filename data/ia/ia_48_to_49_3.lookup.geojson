@@ -1,28 +1,13 @@
 {
-  "id": "ia_48_to_49_03",
+  "id": "ia_48_to_49_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"49",
-    "id":"019048049003",
-    "member":{
-        "48":{
-            "4306":{
-                "district":"3",
-                "name":"Henderson, David Bremner",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "4306":{
-                "district":"3",
-                "name":"Henderson, David Bremner",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Iowa"
+    "district":3,
+    "end_date":"1887-03-03",
+    "end_session":49,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ia"
 },
   "bbox": [
     -93.02711,

@@ -2,41 +2,12 @@
   "id": "il_54_to_57_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"57",
-    "id":"017054057021",
-    "member":{
-        "54":{
-            "6807":{
-                "district":"21",
-                "name":"Murphy, Everett Jerome",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "366":{
-                "district":"21",
-                "name":"Baker, Jehu",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "8007":{
-                "district":"21",
-                "name":"Rodenberg, William August",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "5200":{
-                "district":"21",
-                "name":"Kern, Frederick John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"54",
-    "statename":"Illinois"
+    "district":21,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1895-12-02",
+    "start_session":54,
+    "state":"il"
 },
   "bbox": [
     -90.37408,

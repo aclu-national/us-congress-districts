@@ -1,35 +1,13 @@
 {
-  "id": "ma_45_to_47_09",
+  "id": "ma_45_to_47_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"47",
-    "id":"025045047009",
-    "member":{
-        "45":{
-            "7861":{
-                "district":"9",
-                "name":"Rice, William Whitney",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "7861":{
-                "district":"9",
-                "name":"Rice, William Whitney",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "7861":{
-                "district":"9",
-                "name":"Rice, William Whitney",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Massachusetts"
+    "district":9,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"ma"
 },
   "bbox": [
     -72.28202,

@@ -2,46 +2,12 @@
   "id": "ny_44_to_47_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"47",
-    "id":"036044047011",
-    "member":{
-        "44":{
-            "10200":{
-                "district":"11",
-                "name":"Willis, Benjamin Albertso",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "10200":{
-                "district":"11",
-                "name":"Willis, Benjamin Albertso",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "6742":{
-                "district":"11",
-                "name":"Morton, Levi Parsons",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "3231":{
-                "district":"11",
-                "name":"Flower, Roswell Pettibone",
-                "party":"Democrat"
-            },
-            "6742":{
-                "district":"11",
-                "name":"Morton, Levi Parsons",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -73.99426,

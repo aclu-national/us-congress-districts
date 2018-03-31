@@ -1,49 +1,13 @@
 {
-  "id": "il_58_to_62_02",
+  "id": "il_58_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"017058062002",
-    "member":{
-        "58":{
-            "5959":{
-                "district":"2",
-                "name":"Mann, James Robert",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5959":{
-                "district":"2",
-                "name":"Mann, James Robert",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5959":{
-                "district":"2",
-                "name":"Mann, James Robert",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "5959":{
-                "district":"2",
-                "name":"Mann, James Robert",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5959":{
-                "district":"2",
-                "name":"Mann, James Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -87.66153,

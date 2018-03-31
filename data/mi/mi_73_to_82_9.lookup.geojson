@@ -1,84 +1,13 @@
 {
-  "id": "mi_73_to_82_09",
+  "id": "mi_73_to_82_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"82",
-    "id":"026073082009",
-    "member":{
-        "73":{
-            "6832":{
-                "district":"9",
-                "name":"Musselwhite, Harry Webster",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "2963":{
-                "district":"9",
-                "name":"Engel, Albert Joseph",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "2963":{
-                "district":"9",
-                "name":"Engel, Albert Joseph",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "2963":{
-                "district":"9",
-                "name":"Engel, Albert Joseph",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "2963":{
-                "district":"9",
-                "name":"Engel, Albert Joseph",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "2963":{
-                "district":"9",
-                "name":"Engel, Albert Joseph",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "2963":{
-                "district":"9",
-                "name":"Engel, Albert Joseph",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "2963":{
-                "district":"9",
-                "name":"Engel, Albert Joseph",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "2963":{
-                "district":"9",
-                "name":"Engel, Albert Joseph",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "9338":{
-                "district":"9",
-                "name":"Thompson, Ruth",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Michigan"
+    "district":9,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mi"
 },
   "bbox": [
     -86.54101,

@@ -2,20 +2,12 @@
   "id": "ma_17_to_17_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"17",
-    "id":"025017017010",
-    "member":{
-        "17":{
-            "530":{
-                "district":"10",
-                "name":"Baylies, Francis",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ma"
 },
   "bbox": [
     -71.395,

@@ -1,84 +1,13 @@
 {
-  "id": "ia_78_to_87_01",
+  "id": "ia_78_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"019078087001",
-    "member":{
-        "78":{
-            "6039":{
-                "district":"1",
-                "name":"Martin, Thomas Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "6039":{
-                "district":"1",
-                "name":"Martin, Thomas Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "6039":{
-                "district":"1",
-                "name":"Martin, Thomas Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6039":{
-                "district":"1",
-                "name":"Martin, Thomas Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "6039":{
-                "district":"1",
-                "name":"Martin, Thomas Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "6039":{
-                "district":"1",
-                "name":"Martin, Thomas Ellsworth",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "8288":{
-                "district":"1",
-                "name":"Schwengel, Frederick Delbert",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "8288":{
-                "district":"1",
-                "name":"Schwengel, Frederick Delbert",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "8288":{
-                "district":"1",
-                "name":"Schwengel, Frederick Delbert",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "8288":{
-                "district":"1",
-                "name":"Schwengel, Frederick Delbert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Iowa"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ia"
 },
   "bbox": [
     -92.30015,

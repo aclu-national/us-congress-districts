@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_37",
   "type": "Feature",
   "properties": {
-    "district":"37",
-    "endcong":"82",
-    "id":"036079082037",
-    "member":{
-        "79":{
-            "3937":{
-                "district":"37",
-                "name":"Hall, Edwin Arthur",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3937":{
-                "district":"37",
-                "name":"Hall, Edwin Arthur",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3937":{
-                "district":"37",
-                "name":"Hall, Edwin Arthur",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "3937":{
-                "district":"37",
-                "name":"Hall, Edwin Arthur",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":37,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -76.13018,

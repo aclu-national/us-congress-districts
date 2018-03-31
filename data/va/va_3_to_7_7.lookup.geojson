@@ -1,49 +1,13 @@
 {
-  "id": "va_3_to_7_07",
+  "id": "va_3_to_7_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"7",
-    "id":"051003007007",
-    "member":{
-        "3":{
-            "9658":{
-                "district":"7",
-                "name":"Venable, Abraham Bedford",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "9658":{
-                "district":"7",
-                "name":"Venable, Abraham Bedford",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "9658":{
-                "district":"7",
-                "name":"Venable, Abraham Bedford",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "7723":{
-                "district":"7",
-                "name":"Randolph, John",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "7723":{
-                "district":"7",
-                "name":"Randolph, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"va"
 },
   "bbox": [
     -78.96318,

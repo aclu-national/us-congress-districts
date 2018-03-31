@@ -2,20 +2,12 @@
   "id": "in_74_to_74_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"74",
-    "id":"018074074012",
-    "member":{
-        "74":{
-            "5831":{
-                "district":"12",
-                "name":"Ludlow, Louis Leon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Indiana"
+    "district":12,
+    "end_date":"1936-06-20",
+    "end_session":74,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"in"
 },
   "bbox": [
     -86.32829,

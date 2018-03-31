@@ -1,49 +1,13 @@
 {
-  "id": "tn_13_to_17_04",
+  "id": "tn_13_to_17_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"17",
-    "id":"047013017004",
-    "member":{
-        "13":{
-            "898":{
-                "district":"4",
-                "name":"Bowen, John Henry",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "4304":{
-                "district":"4",
-                "name":"Henderson, Bennett H.",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "4508":{
-                "district":"4",
-                "name":"Hogg, Samuel",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "124":{
-                "district":"4",
-                "name":"Allen, Robert",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "124":{
-                "district":"4",
-                "name":"Allen, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"tn"
 },
   "bbox": [
     -86.7548,

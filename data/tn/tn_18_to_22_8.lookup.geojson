@@ -1,49 +1,13 @@
 {
-  "id": "tn_18_to_22_08",
+  "id": "tn_18_to_22_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"22",
-    "id":"047018022008",
-    "member":{
-        "18":{
-            "7831":{
-                "district":"8",
-                "name":"Reynolds, James B.",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "5973":{
-                "district":"8",
-                "name":"Marable, John Hartwell",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "5973":{
-                "district":"8",
-                "name":"Marable, John Hartwell",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "4945":{
-                "district":"8",
-                "name":"Johnson, Cave",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "4945":{
-                "district":"8",
-                "name":"Johnson, Cave",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"tn"
 },
   "bbox": [
     -88.21758,

@@ -2,48 +2,12 @@
   "id": "il_48_to_52_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"52",
-    "id":"017048052014",
-    "member":{
-        "48":{
-            "8094":{
-                "district":"14",
-                "name":"Rowell, Jonathan Harvey",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "8094":{
-                "district":"14",
-                "name":"Rowell, Jonathan Harvey",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "8094":{
-                "district":"14",
-                "name":"Rowell, Jonathan Harvey",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "8094":{
-                "district":"14",
-                "name":"Rowell, Jonathan Harvey",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "8310":{
-                "district":"14",
-                "name":"Scott, Owen",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":14,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -89.60385,

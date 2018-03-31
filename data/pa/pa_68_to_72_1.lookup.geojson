@@ -1,49 +1,13 @@
 {
-  "id": "pa_68_to_72_01",
+  "id": "pa_68_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"042068072001",
-    "member":{
-        "68":{
-            "9647":{
-                "district":"1",
-                "name":"Vare, William Scott",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9647":{
-                "district":"1",
-                "name":"Vare, William Scott",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "561":{
-                "district":"1",
-                "name":"Beck, James Montgomery",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "561":{
-                "district":"1",
-                "name":"Beck, James Montgomery",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "561":{
-                "district":"1",
-                "name":"Beck, James Montgomery",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -75.21453,

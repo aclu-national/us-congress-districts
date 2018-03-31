@@ -1,59 +1,13 @@
 {
-  "id": "ma_23_to_27_02",
+  "id": "ma_23_to_27_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"27",
-    "id":"025023027002",
-    "member":{
-        "23":{
-            "1711":{
-                "district":"2",
-                "name":"Choate, Rufus",
-                "party":"Anti-Jackson"
-            },
-            "7417":{
-                "district":"2",
-                "name":"Phillips, Stephen Clarendon",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "7417":{
-                "district":"2",
-                "name":"Phillips, Stephen Clarendon",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "7417":{
-                "district":"2",
-                "name":"Phillips, Stephen Clarendon",
-                "party":"Whig"
-            },
-            "8184":{
-                "district":"2",
-                "name":"Saltonstall, Leverett",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "8184":{
-                "district":"2",
-                "name":"Saltonstall, Leverett",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "8184":{
-                "district":"2",
-                "name":"Saltonstall, Leverett",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ma"
 },
   "bbox": [
     -71.0829,

@@ -1,35 +1,13 @@
 {
-  "id": "va_90_to_92_04",
+  "id": "va_90_to_92_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"92",
-    "id":"051090092004",
-    "member":{
-        "90":{
-            "2":{
-                "district":"4",
-                "name":"Abbitt, Watkins Moorman",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "2":{
-                "district":"4",
-                "name":"Abbitt, Watkins Moorman",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "2":{
-                "district":"4",
-                "name":"Abbitt, Watkins Moorman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"va"
 },
   "bbox": [
     -79.01853,

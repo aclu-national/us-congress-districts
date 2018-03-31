@@ -2,48 +2,12 @@
   "id": "ny_38_to_42_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"42",
-    "id":"036038042012",
-    "member":{
-        "38":{
-            "6864":{
-                "district":"12",
-                "name":"Nelson, Homer Augustus",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "5219":{
-                "district":"12",
-                "name":"Ketcham, John Henry",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "5219":{
-                "district":"12",
-                "name":"Ketcham, John Henry",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "5219":{
-                "district":"12",
-                "name":"Ketcham, John Henry",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "5219":{
-                "district":"12",
-                "name":"Ketcham, John Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -74.00011,

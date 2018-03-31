@@ -1,75 +1,13 @@
 {
-  "id": "va_53_to_60_07",
+  "id": "va_53_to_60_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"60",
-    "id":"051053060007",
-    "member":{
-        "53":{
-            "7028":{
-                "district":"7",
-                "name":"O'Ferrall, Charles",
-                "party":"Democrat"
-            },
-            "9521":{
-                "district":"7",
-                "name":"Turner, Smith Spangler",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9521":{
-                "district":"7",
-                "name":"Turner, Smith Spangler",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "4225":{
-                "district":"7",
-                "name":"Hay, James",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "4225":{
-                "district":"7",
-                "name":"Hay, James",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "4225":{
-                "district":"7",
-                "name":"Hay, James",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "4225":{
-                "district":"7",
-                "name":"Hay, James",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "4225":{
-                "district":"7",
-                "name":"Hay, James",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "4225":{
-                "district":"7",
-                "name":"Hay, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"va"
 },
   "bbox": [
     -79.22434,

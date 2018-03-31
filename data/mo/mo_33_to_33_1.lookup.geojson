@@ -1,21 +1,13 @@
 {
-  "id": "mo_33_to_33_01",
+  "id": "mo_33_to_33_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"33",
-    "id":"029033033001",
-    "member":{
-        "33":{
-            "658":{
-                "district":"1",
-                "name":"Benton, Thomas Hart",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Missouri"
+    "district":1,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"mo"
 },
   "bbox": [
     -90.73653,

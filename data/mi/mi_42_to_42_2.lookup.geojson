@@ -1,21 +1,13 @@
 {
-  "id": "mi_42_to_42_02",
+  "id": "mi_42_to_42_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"42",
-    "id":"026042042002",
-    "member":{
-        "42":{
-            "9000":{
-                "district":"2",
-                "name":"Stoughton, William Lewis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"42",
-    "statename":"Michigan"
+    "district":2,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1871-03-04",
+    "start_session":42,
+    "state":"mi"
 },
   "bbox": [
     -86.82483,

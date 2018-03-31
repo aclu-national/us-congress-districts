@@ -2,18 +2,12 @@
   "id": "nj_113_to_115_10",
   "type": "Feature",
   "properties": {
-    "ALAND":196612894,
-    "AWATER":12875417,
-    "CD113FP":"10",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3410",
-    "INTPTLAT":"+40.7089641",
-    "INTPTLON":"-074.2090452",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 10",
-    "STATEFP":"34"
+    "district":10,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nj"
 },
   "bbox": [
     -74.305326,

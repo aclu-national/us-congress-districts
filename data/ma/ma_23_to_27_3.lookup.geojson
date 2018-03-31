@@ -1,49 +1,13 @@
 {
-  "id": "ma_23_to_27_03",
+  "id": "ma_23_to_27_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"27",
-    "id":"025023027003",
-    "member":{
-        "23":{
-            "7096":{
-                "district":"3",
-                "name":"Osgood, Gayton Pickman",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "2277":{
-                "district":"3",
-                "name":"Cushing, Caleb",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "2277":{
-                "district":"3",
-                "name":"Cushing, Caleb",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "2277":{
-                "district":"3",
-                "name":"Cushing, Caleb",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "2277":{
-                "district":"3",
-                "name":"Cushing, Caleb",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ma"
 },
   "bbox": [
     -71.38244,

@@ -1,28 +1,13 @@
 {
-  "id": "nj_91_to_92_05",
+  "id": "nj_91_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"034091092005",
-    "member":{
-        "91":{
-            "3364":{
-                "district":"5",
-                "name":"Frelinghuysen, Peter H. B., II",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "3364":{
-                "district":"5",
-                "name":"Frelinghuysen, Peter H. B., II",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New Jersey"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nj"
 },
   "bbox": [
     -74.88989,

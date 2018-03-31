@@ -1,26 +1,13 @@
 {
-  "id": "md_23_to_23_01",
+  "id": "md_23_to_23_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"23",
-    "id":"024023023001",
-    "member":{
-        "23":{
-            "2503":{
-                "district":"1",
-                "name":"Dennis, Littleton Purnell",
-                "party":"Anti-Jackson"
-            },
-            "8871":{
-                "district":"1",
-                "name":"Steele, John Nevett",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"1835-03-03",
+    "end_session":23,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"md"
 },
   "bbox": [
     -76.34127,

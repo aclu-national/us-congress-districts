@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_51",
   "type": "Feature",
   "properties": {
-    "ALAND":12410163991,
-    "AWATER":870586182,
-    "CD113FP":"51",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0651",
-    "INTPTLAT":"+32.9962393",
-    "INTPTLON":"-115.5254278",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 51",
-    "STATEFP":"06"
+    "district":51,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -117.222513,

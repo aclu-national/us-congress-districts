@@ -1,42 +1,13 @@
 {
-  "id": "fl_79_to_82_04",
+  "id": "fl_79_to_82_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"82",
-    "id":"012079082004",
-    "member":{
-        "79":{
-            "1478":{
-                "district":"4",
-                "name":"Cannon, Arthur Patrick",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "8593":{
-                "district":"4",
-                "name":"Smathers, George Armistead",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "8593":{
-                "district":"4",
-                "name":"Smathers, George Armistead",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5471":{
-                "district":"4",
-                "name":"Lantaff, William Courtlan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Florida"
+    "district":4,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"fl"
 },
   "bbox": [
     -82.9264,

@@ -2,48 +2,12 @@
   "id": "ma_18_to_22_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"22",
-    "id":"025018022011",
-    "member":{
-        "18":{
-            "4467":{
-                "district":"11",
-                "name":"Hobart, Aaron",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "4467":{
-                "district":"11",
-                "name":"Hobart, Aaron",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "7881":{
-                "district":"11",
-                "name":"Richardson, Joseph",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "7881":{
-                "district":"11",
-                "name":"Richardson, Joseph",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "34":{
-                "district":"11",
-                "name":"Adams, John Quincy",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ma"
 },
   "bbox": [
     -71.09324,

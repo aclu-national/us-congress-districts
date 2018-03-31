@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"64",
-    "id":"036063064014",
-    "member":{
-        "63":{
-            "5627":{
-                "district":"14",
-                "name":"Levy, Jefferson Monroe",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3062":{
-                "district":"14",
-                "name":"Farley, Michael Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -74.01375,

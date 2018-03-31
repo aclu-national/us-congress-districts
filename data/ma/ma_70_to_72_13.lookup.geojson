@@ -2,34 +2,12 @@
   "id": "ma_70_to_72_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"72",
-    "id":"025070072013",
-    "member":{
-        "70":{
-            "5828":{
-                "district":"13",
-                "name":"Luce, Robert",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "5828":{
-                "district":"13",
-                "name":"Luce, Robert",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5828":{
-                "district":"13",
-                "name":"Luce, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Massachusetts"
+    "district":13,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ma"
 },
   "bbox": [
     -71.58535,

@@ -1,84 +1,13 @@
 {
-  "id": "tn_58_to_67_06",
+  "id": "tn_58_to_67_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"67",
-    "id":"047058067006",
-    "member":{
-        "58":{
-            "3425":{
-                "district":"6",
-                "name":"Gaines, John Wesley",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "3425":{
-                "district":"6",
-                "name":"Gaines, John Wesley",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "3425":{
-                "district":"6",
-                "name":"Gaines, John Wesley",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "1372":{
-                "district":"6",
-                "name":"Byrns, Joseph Wellington",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "1372":{
-                "district":"6",
-                "name":"Byrns, Joseph Wellington",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "1372":{
-                "district":"6",
-                "name":"Byrns, Joseph Wellington",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "1372":{
-                "district":"6",
-                "name":"Byrns, Joseph Wellington",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "1372":{
-                "district":"6",
-                "name":"Byrns, Joseph Wellington",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "1372":{
-                "district":"6",
-                "name":"Byrns, Joseph Wellington",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1372":{
-                "district":"6",
-                "name":"Byrns, Joseph Wellington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"tn"
 },
   "bbox": [
     -88.07053,

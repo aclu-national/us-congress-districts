@@ -1,28 +1,13 @@
 {
-  "id": "va_23_to_24_08",
+  "id": "va_23_to_24_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"24",
-    "id":"051023024008",
-    "member":{
-        "23":{
-            "10286":{
-                "district":"8",
-                "name":"Wise, Henry Alexander",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "10286":{
-                "district":"8",
-                "name":"Wise, Henry Alexander",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1837-03-03",
+    "end_session":24,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"va"
 },
   "bbox": [
     -76.91586,

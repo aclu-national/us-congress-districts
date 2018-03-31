@@ -1,21 +1,13 @@
 {
-  "id": "ny_65_to_65_03",
+  "id": "ny_65_to_65_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"65",
-    "id":"036065065003",
-    "member":{
-        "65":{
-            "3241":{
-                "district":"3",
-                "name":"Flynn, Joseph Vincent",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -73.96255,

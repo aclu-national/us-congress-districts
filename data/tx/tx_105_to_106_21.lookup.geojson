@@ -2,27 +2,12 @@
   "id": "tx_105_to_106_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"106",
-    "id":"048105106021",
-    "member":{
-        "105":{
-            "15445":{
-                "district":"21",
-                "name":"Smith, Lamar",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "15445":{
-                "district":"21",
-                "name":"Smith, Lamar S.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Texas"
+    "district":21,
+    "end_date":"2000-12-15",
+    "end_session":106,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"tx"
 },
   "bbox": [
     -102.14598,

@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_40",
   "type": "Feature",
   "properties": {
-    "ALAND":149406832,
-    "AWATER":1743134,
-    "CD113FP":"40",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0640",
-    "INTPTLAT":"+33.9698668",
-    "INTPTLON":"-118.1792067",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 40",
-    "STATEFP":"06"
+    "district":40,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -118.280987,

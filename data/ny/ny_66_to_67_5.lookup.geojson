@@ -1,28 +1,13 @@
 {
-  "id": "ny_66_to_67_05",
+  "id": "ny_66_to_67_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"67",
-    "id":"036066067005",
-    "member":{
-        "66":{
-            "5004":{
-                "district":"5",
-                "name":"Johnston, John Brown",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5320":{
-                "district":"5",
-                "name":"Kline, Ardolph Loges",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -73.9928,

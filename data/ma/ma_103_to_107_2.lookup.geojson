@@ -1,49 +1,13 @@
 {
-  "id": "ma_103_to_107_02",
+  "id": "ma_103_to_107_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"107",
-    "id":"025103107002",
-    "member":{
-        "103":{
-            "15616":{
-                "district":"2",
-                "name":"Neal, Richard E.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "15616":{
-                "district":"2",
-                "name":"Neal, Richard E.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "15616":{
-                "district":"2",
-                "name":"Neal, Richard E.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "15616":{
-                "district":"2",
-                "name":"Neal, Richard E.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "15616":{
-                "district":"2",
-                "name":"Neal, Richard E.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ma"
 },
   "bbox": [
     -72.74126,

@@ -2,20 +2,12 @@
   "id": "pa_43_to_43_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"43",
-    "id":"042043043017",
-    "member":{
-        "43":{
-            "8775":{
-                "district":"17",
-                "name":"Speer, Robert Milton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"pa"
 },
   "bbox": [
     -79.05606,

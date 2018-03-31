@@ -2,48 +2,12 @@
   "id": "pa_93_to_97_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"97",
-    "id":"042093097025",
-    "member":{
-        "93":{
-            "1763":{
-                "district":"25",
-                "name":"Clark, Frank Monroe",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14261":{
-                "district":"25",
-                "name":"Myers, Gary",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14261":{
-                "district":"25",
-                "name":"Myers, Gary",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14602":{
-                "district":"25",
-                "name":"Atkinson, Eugene Vincent",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "94602":{
-                "district":"25",
-                "name":"Atkinson, Eugene Vincent",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":25,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

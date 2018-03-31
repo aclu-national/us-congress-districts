@@ -1,19 +1,13 @@
 {
-  "id": "nj_113_to_115_02",
+  "id": "nj_113_to_115_2",
   "type": "Feature",
   "properties": {
-    "ALAND":5419960974,
-    "AWATER":2031578174,
-    "CD113FP":"02",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3402",
-    "INTPTLAT":"+39.3926472",
-    "INTPTLON":"-074.9086734",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 2",
-    "STATEFP":"34"
+    "district":2,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nj"
 },
   "bbox": [
     -75.563586,

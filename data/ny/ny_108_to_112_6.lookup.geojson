@@ -1,49 +1,13 @@
 {
-  "id": "ny_108_to_112_06",
+  "id": "ny_108_to_112_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"112",
-    "id":"036108112006",
-    "member":{
-        "108":{
-            "29776":{
-                "district":"6",
-                "name":"Meeks, Gregory W.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29776":{
-                "district":"6",
-                "name":"Meeks, Gregory W.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29776":{
-                "district":"6",
-                "name":"Meeks, Gregory W.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29776":{
-                "district":"6",
-                "name":"Meeks, Gregory W.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29776":{
-                "district":"6",
-                "name":"Meeks, Gregory W.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":6,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -73.84401,

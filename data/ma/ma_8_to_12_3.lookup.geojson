@@ -1,49 +1,13 @@
 {
-  "id": "ma_8_to_12_03",
+  "id": "ma_8_to_12_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"12",
-    "id":"025008012003",
-    "member":{
-        "10":{
-            "5712":{
-                "district":"3",
-                "name":"Livermore, Edward St. Loe",
-                "party":"Federalist"
-            }
-        },
-        "11":{
-            "5712":{
-                "district":"3",
-                "name":"Livermore, Edward St. Loe",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "10038":{
-                "district":"3",
-                "name":"White, Leonard",
-                "party":"Federalist"
-            }
-        },
-        "8":{
-            "2287":{
-                "district":"3",
-                "name":"Cutler, Manasseh",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "6866":{
-                "district":"3",
-                "name":"Nelson, Jeremiah",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ma"
 },
   "bbox": [
     -71.2561,

@@ -1,42 +1,13 @@
 {
-  "id": "ga_89_to_92_02",
+  "id": "ga_89_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"013089092002",
-    "member":{
-        "89":{
-            "10759":{
-                "district":"2",
-                "name":"O'Neal, Masten",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10759":{
-                "district":"2",
-                "name":"O'Neal, Masten",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "10759":{
-                "district":"2",
-                "name":"O'Neal, Masten",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "13023":{
-                "district":"2",
-                "name":"Mathis, Dawson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Georgia"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"ga"
 },
   "bbox": [
     -85.14193,

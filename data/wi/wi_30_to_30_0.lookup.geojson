@@ -1,26 +1,13 @@
 {
-  "id": "wi_30_to_30_00",
+  "id": "wi_30_to_30_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"30",
-    "id":"055030030000",
-    "member":{
-        "30":{
-            "2338":{
-                "district":"98",
-                "name":"Darling, Mason Cook",
-                "party":"Democrat"
-            },
-            "5860":{
-                "district":"98",
-                "name":"Lynde, William Pitt",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Wisconsin"
+    "district":0,
+    "end_date":"1849-03-03",
+    "end_session":30,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"wi"
 },
   "bbox": [
     -92.88943,

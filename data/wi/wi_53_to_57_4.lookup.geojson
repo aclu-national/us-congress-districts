@@ -1,49 +1,13 @@
 {
-  "id": "wi_53_to_57_04",
+  "id": "wi_53_to_57_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"57",
-    "id":"055053057004",
-    "member":{
-        "53":{
-            "8740":{
-                "district":"4",
-                "name":"Somers, Peter J.",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "7113":{
-                "district":"4",
-                "name":"Otjen, Theobald",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "7113":{
-                "district":"4",
-                "name":"Otjen, Theobald",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "7113":{
-                "district":"4",
-                "name":"Otjen, Theobald",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "7113":{
-                "district":"4",
-                "name":"Otjen, Theobald",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Wisconsin"
+    "district":4,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"wi"
 },
   "bbox": [
     -88.06991,

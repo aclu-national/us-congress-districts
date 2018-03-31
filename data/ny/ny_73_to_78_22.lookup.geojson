@@ -2,65 +2,12 @@
   "id": "ny_73_to_78_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"78",
-    "id":"036073078022",
-    "member":{
-        "73":{
-            "3817":{
-                "district":"22",
-                "name":"Griffin, Anthony Jerome",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "2257":{
-                "district":"22",
-                "name":"Curley, Edward Walter",
-                "party":"Democrat"
-            },
-            "3817":{
-                "district":"22",
-                "name":"Griffin, Anthony Jerome",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2257":{
-                "district":"22",
-                "name":"Curley, Edward Walter",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2257":{
-                "district":"22",
-                "name":"Curley, Edward Walter",
-                "party":"Democrat"
-            },
-            "5859":{
-                "district":"22",
-                "name":"Lynch, Walter Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "5859":{
-                "district":"22",
-                "name":"Lynch, Walter Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "5859":{
-                "district":"22",
-                "name":"Lynch, Walter Aloysius",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -73.94459,

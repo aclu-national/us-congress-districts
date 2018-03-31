@@ -1,19 +1,13 @@
 {
-  "id": "az_113_to_115_05",
+  "id": "az_113_to_115_5",
   "type": "Feature",
   "properties": {
-    "ALAND":760127492,
-    "AWATER":2295744,
-    "CD113FP":"05",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0405",
-    "INTPTLAT":"+33.3394082",
-    "INTPTLON":"-111.7120184",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 5",
-    "STATEFP":"04"
+    "district":5,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"az"
 },
   "bbox": [
     -111.893596,

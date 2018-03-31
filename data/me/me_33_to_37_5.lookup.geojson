@@ -1,54 +1,13 @@
 {
-  "id": "me_33_to_37_05",
+  "id": "me_33_to_37_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"37",
-    "id":"023033037005",
-    "member":{
-        "33":{
-            "9851":{
-                "district":"5",
-                "name":"Washburn, Isreal, Jr.",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "9851":{
-                "district":"5",
-                "name":"Washburn, Isreal, Jr.",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "9851":{
-                "district":"5",
-                "name":"Washburn, Isreal, Jr.",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "1877":{
-                "district":"5",
-                "name":"Coburn, Stephen",
-                "party":"Republican"
-            },
-            "9851":{
-                "district":"5",
-                "name":"Washburn, Isreal, Jr.",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "7857":{
-                "district":"5",
-                "name":"Rice, John Hovey",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Maine"
+    "district":5,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"me"
 },
   "bbox": [
     -70.00067,

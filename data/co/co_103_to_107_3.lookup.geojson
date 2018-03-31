@@ -1,49 +1,13 @@
 {
-  "id": "co_103_to_107_03",
+  "id": "co_103_to_107_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"107",
-    "id":"008103107003",
-    "member":{
-        "103":{
-            "29326":{
-                "district":"3",
-                "name":"McInnis, Scott",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29326":{
-                "district":"3",
-                "name":"McInnis, Scott",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29326":{
-                "district":"3",
-                "name":"McInnis, Scott",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29326":{
-                "district":"3",
-                "name":"McInnis, Scott",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29326":{
-                "district":"3",
-                "name":"McInnis, Scott",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Colorado"
+    "district":3,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"co"
 },
   "bbox": [
     -109.06025,

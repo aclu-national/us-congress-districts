@@ -2,34 +2,12 @@
   "id": "in_50_to_52_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"52",
-    "id":"018050052013",
-    "member":{
-        "50":{
-            "8478":{
-                "district":"13",
-                "name":"Shively, Benjamin Franklin",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "8478":{
-                "district":"13",
-                "name":"Shively, Benjamin Franklin",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "8478":{
-                "district":"13",
-                "name":"Shively, Benjamin Franklin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Indiana"
+    "district":13,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"in"
 },
   "bbox": [
     -86.93273,

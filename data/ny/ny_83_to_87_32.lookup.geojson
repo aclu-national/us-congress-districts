@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"87",
-    "id":"036083087032",
-    "member":{
-        "83":{
-            "5110":{
-                "district":"32",
-                "name":"Kearney, Bernard William",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "5110":{
-                "district":"32",
-                "name":"Kearney, Bernard William",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "5110":{
-                "district":"32",
-                "name":"Kearney, Bernard William",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "9017":{
-                "district":"32",
-                "name":"Stratton, Samuel Studdiford",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "9017":{
-                "district":"32",
-                "name":"Stratton, Samuel Studdiford",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":32,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -75.41693,

@@ -1,49 +1,13 @@
 {
-  "id": "mo_93_to_97_07",
+  "id": "mo_93_to_97_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"97",
-    "id":"029093097007",
-    "member":{
-        "93":{
-            "14057":{
-                "district":"7",
-                "name":"Taylor, Roy \"Gene\"",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14057":{
-                "district":"7",
-                "name":"Taylor, Roy \"Gene\"",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14057":{
-                "district":"7",
-                "name":"Taylor, Roy \"Gene\"",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14057":{
-                "district":"7",
-                "name":"Taylor, Roy \"Gene\"",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14057":{
-                "district":"7",
-                "name":"Taylor, Roy \"Gene\"",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Missouri"
+    "district":7,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mo"
 },
   "bbox": [
     -94.61866,

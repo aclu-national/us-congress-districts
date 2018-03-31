@@ -2,25 +2,12 @@
   "id": "pa_27_to_27_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"27",
-    "id":"042027027017",
-    "member":{
-        "27":{
-            "2602":{
-                "district":"17",
-                "name":"Dimock, Davis Jr.",
-                "party":"Democrat"
-            },
-            "7761":{
-                "district":"17",
-                "name":"Read, Almon Heath",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"27",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1841-03-04",
+    "start_session":27,
+    "state":"pa"
 },
   "bbox": [
     -78.95606,

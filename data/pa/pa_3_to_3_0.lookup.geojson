@@ -1,81 +1,13 @@
 {
-  "id": "pa_3_to_3_00",
+  "id": "pa_3_to_3_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"3",
-    "id":"042003003000",
-    "member":{
-        "3":{
-            "231":{
-                "district":"98",
-                "name":"Armstrong, James",
-                "party":"Pro-Administration"
-            },
-            "3147":{
-                "district":"98",
-                "name":"Findley, William",
-                "party":"Anti-Administration"
-            },
-            "3196":{
-                "district":"98",
-                "name":"Fitzsimons, Thomas",
-                "party":"Pro-Administration"
-            },
-            "3805":{
-                "district":"98",
-                "name":"Gregg, Andrew",
-                "party":"Anti-Administration"
-            },
-            "4156":{
-                "district":"98",
-                "name":"Hartley, Thomas",
-                "party":"Pro-Administration"
-            },
-            "4390":{
-                "district":"98",
-                "name":"Hiester, Daniel",
-                "party":"Anti-Administration"
-            },
-            "4820":{
-                "district":"98",
-                "name":"Irvine, William",
-                "party":"Anti-Administration"
-            },
-            "5310":{
-                "district":"98",
-                "name":"Kittera, John Wilkes",
-                "party":"Pro-Administration"
-            },
-            "6608":{
-                "district":"98",
-                "name":"Montgomery, William",
-                "party":"Anti-Administration"
-            },
-            "6781":{
-                "district":"98",
-                "name":"Muhlenberg, Frederick A.",
-                "party":"Anti-Administration"
-            },
-            "6784":{
-                "district":"98",
-                "name":"Muhlenberg, John Peter Gabriel",
-                "party":"Anti-Administration"
-            },
-            "8312":{
-                "district":"98",
-                "name":"Scott, Thomas",
-                "party":"Pro-Administration"
-            },
-            "8596":{
-                "district":"98",
-                "name":"Smilie, John",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Pennsylvania"
+    "district":0,
+    "end_date":"1795-03-03",
+    "end_session":3,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

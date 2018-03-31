@@ -1,42 +1,13 @@
 {
-  "id": "az_109_to_112_01",
+  "id": "az_109_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"004109112001",
-    "member":{
-        "109":{
-            "20303":{
-                "district":"1",
-                "name":"Renzi, Rick",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20303":{
-                "district":"1",
-                "name":"Renzi, Rick",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20902":{
-                "district":"1",
-                "name":"Kirkpatrick, Ann",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21103":{
-                "district":"1",
-                "name":"Gosar, Paul",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Arizona"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"az"
 },
   "bbox": [
     -113.3341,

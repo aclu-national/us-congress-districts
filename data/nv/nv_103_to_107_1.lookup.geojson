@@ -1,49 +1,13 @@
 {
-  "id": "nv_103_to_107_01",
+  "id": "nv_103_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"032103107001",
-    "member":{
-        "103":{
-            "15403":{
-                "district":"1",
-                "name":"Bilbray, James H",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29537":{
-                "district":"1",
-                "name":"Ensign, John E.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29537":{
-                "district":"1",
-                "name":"Ensign, John E.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29922":{
-                "district":"1",
-                "name":"Berkley, Shelley",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29922":{
-                "district":"1",
-                "name":"Berkley, Shelley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Nevada"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nv"
 },
   "bbox": [
     -115.28054,

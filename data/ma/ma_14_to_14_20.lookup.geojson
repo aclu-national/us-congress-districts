@@ -2,20 +2,12 @@
   "id": "ma_14_to_14_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"14",
-    "id":"025014014020",
-    "member":{
-        "14":{
-            "7212":{
-                "district":"20",
-                "name":"Parris, Albion Keith",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"14",
-    "statename":"Massachusetts"
+    "district":20,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1815-12-04",
+    "start_session":14,
+    "state":"ma"
 },
   "bbox": [
     -71.08433,

@@ -2,34 +2,12 @@
   "id": "in_47_to_49_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"49",
-    "id":"018047049012",
-    "member":{
-        "47":{
-            "1935":{
-                "district":"12",
-                "name":"Colerick, Walpole Gillespie",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "5818":{
-                "district":"12",
-                "name":"Lowry, Robert",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "5818":{
-                "district":"12",
-                "name":"Lowry, Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Indiana"
+    "district":12,
+    "end_date":"1887-03-03",
+    "end_session":49,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"in"
 },
   "bbox": [
     -85.6866,

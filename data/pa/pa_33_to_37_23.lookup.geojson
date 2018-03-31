@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"37",
-    "id":"042033037023",
-    "member":{
-        "33":{
-            "9483":{
-                "district":"23",
-                "name":"Trout, Michael Carver",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "139":{
-                "district":"23",
-                "name":"Allison, John",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "8947":{
-                "district":"23",
-                "name":"Stewart, William",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "8947":{
-                "district":"23",
-                "name":"Stewart, William",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "9765":{
-                "district":"23",
-                "name":"Wallace, John Winfield",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":23,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

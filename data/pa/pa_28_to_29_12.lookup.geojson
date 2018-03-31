@@ -2,32 +2,12 @@
   "id": "pa_28_to_29_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"29",
-    "id":"042028029012",
-    "member":{
-        "28":{
-            "3395":{
-                "district":"12",
-                "name":"Fuller, George",
-                "party":"Democrat"
-            },
-            "7761":{
-                "district":"12",
-                "name":"Read, Almon Heath",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "10208":{
-                "district":"12",
-                "name":"Wilmot, David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -77.60981,

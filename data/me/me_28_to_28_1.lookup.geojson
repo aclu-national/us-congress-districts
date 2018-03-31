@@ -1,21 +1,13 @@
 {
-  "id": "me_28_to_28_01",
+  "id": "me_28_to_28_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"28",
-    "id":"023028028001",
-    "member":{
-        "28":{
-            "4363":{
-                "district":"1",
-                "name":"Herrick, Joshua",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Maine"
+    "district":1,
+    "end_date":"1845-03-03",
+    "end_session":28,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"me"
 },
   "bbox": [
     -71.02555,

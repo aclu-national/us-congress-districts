@@ -1,47 +1,13 @@
 {
-  "id": "ky_34_to_37_02",
+  "id": "ky_34_to_37_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"37",
-    "id":"021034037002",
-    "member":{
-        "34":{
-            "1459":{
-                "district":"2",
-                "name":"Campbell, John Pierce, Jr.",
-                "party":"American"
-            }
-        },
-        "35":{
-            "7389":{
-                "district":"2",
-                "name":"Peyton, Samuel Oldham",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "7389":{
-                "district":"2",
-                "name":"Peyton, Samuel Oldham",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "10422":{
-                "district":"2",
-                "name":"Yeaman, George Helm",
-                "party":"Unionist"
-            },
-            "4857":{
-                "district":"2",
-                "name":"Jackson, James Streshly",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Kentucky"
+    "district":2,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ky"
 },
   "bbox": [
     -87.92708,

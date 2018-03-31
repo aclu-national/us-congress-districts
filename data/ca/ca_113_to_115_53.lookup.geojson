@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_53",
   "type": "Feature",
   "properties": {
-    "ALAND":350758370,
-    "AWATER":6842063,
-    "CD113FP":"53",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0653",
-    "INTPTLAT":"+32.7183139",
-    "INTPTLON":"-117.0314815",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 53",
-    "STATEFP":"06"
+    "district":53,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -117.203854,

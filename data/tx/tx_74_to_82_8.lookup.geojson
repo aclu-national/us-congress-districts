@@ -1,77 +1,13 @@
 {
-  "id": "tx_74_to_82_08",
+  "id": "tx_74_to_82_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"82",
-    "id":"048074082008",
-    "member":{
-        "74":{
-            "2810":{
-                "district":"8",
-                "name":"Eagle, Joe Henry",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "9284":{
-                "district":"8",
-                "name":"Thomas, Albert",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "9284":{
-                "district":"8",
-                "name":"Thomas, Albert",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "9284":{
-                "district":"8",
-                "name":"Thomas, Albert",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "9284":{
-                "district":"8",
-                "name":"Thomas, Albert",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "9284":{
-                "district":"8",
-                "name":"Thomas, Albert",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "9284":{
-                "district":"8",
-                "name":"Thomas, Albert",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "9284":{
-                "district":"8",
-                "name":"Thomas, Albert",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "9284":{
-                "district":"8",
-                "name":"Thomas, Albert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":8,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -95.96078,

@@ -1,35 +1,13 @@
 {
-  "id": "nc_103_to_105_03",
+  "id": "nc_103_to_105_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"105",
-    "id":"037103105003",
-    "member":{
-        "103":{
-            "15430":{
-                "district":"3",
-                "name":"Lancaster, Martin",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29546":{
-                "district":"3",
-                "name":"Jones, Walter B., Jr.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29546":{
-                "district":"3",
-                "name":"Jones, Walter B., Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nc"
 },
   "bbox": [
     -78.67265,

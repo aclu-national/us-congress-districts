@@ -1,54 +1,13 @@
 {
-  "id": "il_43_to_47_03",
+  "id": "il_43_to_47_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"47",
-    "id":"017043047003",
-    "member":{
-        "43":{
-            "3075":{
-                "district":"3",
-                "name":"Farwell, Charles Benjamin",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "3075":{
-                "district":"3",
-                "name":"Farwell, Charles Benjamin",
-                "party":"Republican"
-            },
-            "5603":{
-                "district":"3",
-                "name":"Le Moyne, John Valcoulon",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "1009":{
-                "district":"3",
-                "name":"Brentano, Lorenzo",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "413":{
-                "district":"3",
-                "name":"Barber, Hiram Jr.",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "3075":{
-                "district":"3",
-                "name":"Farwell, Charles Benjamin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":3,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -88.26348,

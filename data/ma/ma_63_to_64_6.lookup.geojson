@@ -1,28 +1,13 @@
 {
-  "id": "ma_63_to_64_06",
+  "id": "ma_63_to_64_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"64",
-    "id":"025063064006",
-    "member":{
-        "63":{
-            "3463":{
-                "district":"6",
-                "name":"Gardner, Augustus Peabody",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "3463":{
-                "district":"6",
-                "name":"Gardner, Augustus Peabody",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ma"
 },
   "bbox": [
     -71.18247,

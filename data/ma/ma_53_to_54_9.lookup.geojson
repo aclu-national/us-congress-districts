@@ -1,28 +1,13 @@
 {
-  "id": "ma_53_to_54_09",
+  "id": "ma_53_to_54_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"54",
-    "id":"025053054009",
-    "member":{
-        "53":{
-            "7075":{
-                "district":"9",
-                "name":"O'Neil, Joseph H.",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "3182":{
-                "district":"9",
-                "name":"Fitzgerald, John Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Massachusetts"
+    "district":9,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ma"
 },
   "bbox": [
     -71.08823,

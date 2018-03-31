@@ -1,99 +1,13 @@
 {
-  "id": "pa_8_to_12_02",
+  "id": "pa_8_to_12_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"12",
-    "id":"042008012002",
-    "member":{
-        "10":{
-            "1132":{
-                "district":"2",
-                "name":"Brown, Robert",
-                "party":"Republican"
-            },
-            "6539":{
-                "district":"2",
-                "name":"Milnor, William",
-                "party":"Federalist"
-            },
-            "7645":{
-                "district":"2",
-                "name":"Pugh, John",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "1132":{
-                "district":"2",
-                "name":"Brown, Robert",
-                "party":"Republican"
-            },
-            "6539":{
-                "district":"2",
-                "name":"Milnor, William",
-                "party":"Federalist"
-            },
-            "8071":{
-                "district":"2",
-                "name":"Ross, John",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "1132":{
-                "district":"2",
-                "name":"Brown, Robert",
-                "party":"Republican"
-            },
-            "7953":{
-                "district":"2",
-                "name":"Roberts, Jonathan",
-                "party":"Republican"
-            },
-            "8011":{
-                "district":"2",
-                "name":"Rodman, William",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "1132":{
-                "district":"2",
-                "name":"Brown, Robert",
-                "party":"Republican"
-            },
-            "2005":{
-                "district":"2",
-                "name":"Conrad, Frederick",
-                "party":"Republican"
-            },
-            "9621":{
-                "district":"2",
-                "name":"Van Horne, Isaac",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "1132":{
-                "district":"2",
-                "name":"Brown, Robert",
-                "party":"Republican"
-            },
-            "2005":{
-                "district":"2",
-                "name":"Conrad, Frederick",
-                "party":"Republican"
-            },
-            "7645":{
-                "district":"2",
-                "name":"Pugh, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"pa"
 },
   "bbox": [
     -76.89228,

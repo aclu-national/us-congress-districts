@@ -2,34 +2,12 @@
   "id": "oh_100_to_102_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"102",
-    "id":"039100102020",
-    "member":{
-        "100":{
-            "14443":{
-                "district":"20",
-                "name":"Oakar, Mary Rose",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14443":{
-                "district":"20",
-                "name":"Oakar, Mary Rose",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14443":{
-                "district":"20",
-                "name":"Oakar, Mary Rose",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"100",
-    "statename":"Ohio"
+    "district":20,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1987-01-06",
+    "start_session":100,
+    "state":"oh"
 },
   "bbox": [
     -81.92337,

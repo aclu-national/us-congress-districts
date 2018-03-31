@@ -1,21 +1,13 @@
 {
-  "id": "tx_50_to_50_09",
+  "id": "tx_50_to_50_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"50",
-    "id":"048050050009",
-    "member":{
-        "50":{
-            "6531":{
-                "district":"9",
-                "name":"Mills, Roger Quarles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Texas"
+    "district":9,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"tx"
 },
   "bbox": [
     -97.91385,

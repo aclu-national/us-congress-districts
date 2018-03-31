@@ -2,27 +2,12 @@
   "id": "va_23_to_24_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"24",
-    "id":"051023024010",
-    "member":{
-        "23":{
-            "1699":{
-                "district":"10",
-                "name":"Chinn, Joseph William",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "9167":{
-                "district":"10",
-                "name":"Taliaferro, John",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"1837-03-03",
+    "end_session":24,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"va"
 },
   "bbox": [
     -77.71559,

@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_40",
   "type": "Feature",
   "properties": {
-    "district":"40",
-    "endcong":"64",
-    "id":"036063064040",
-    "member":{
-        "63":{
-            "3621":{
-                "district":"40",
-                "name":"Gittins, Robert Henry",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "2491":{
-                "district":"40",
-                "name":"Dempsey, Stephen Wallace",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":40,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

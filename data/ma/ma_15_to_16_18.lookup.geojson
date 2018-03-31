@@ -2,27 +2,12 @@
   "id": "ma_15_to_16_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"16",
-    "id":"025015016018",
-    "member":{
-        "15":{
-            "7860":{
-                "district":"18",
-                "name":"Rice, Thomas",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "7194":{
-                "district":"18",
-                "name":"Parker, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Massachusetts"
+    "district":18,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"ma"
 },
   "bbox": [
     -70.22426,

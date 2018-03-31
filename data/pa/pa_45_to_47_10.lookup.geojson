@@ -2,34 +2,12 @@
   "id": "pa_45_to_47_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"47",
-    "id":"042045047010",
-    "member":{
-        "45":{
-            "1028":{
-                "district":"10",
-                "name":"Bridges, Samuel Augustus",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "320":{
-                "district":"10",
-                "name":"Bachman, Reuben Knecht",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "6834":{
-                "district":"10",
-                "name":"Mutchler, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"pa"
 },
   "bbox": [
     -75.89147,

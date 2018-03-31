@@ -1,21 +1,13 @@
 {
-  "id": "sc_43_to_43_00",
+  "id": "sc_43_to_43_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"43",
-    "id":"045043043000",
-    "member":{
-        "43":{
-            "1396":{
-                "district":"99",
-                "name":"Cain, Richard Harvey",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"South Carolina"
+    "district":0,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"sc"
 },
   "bbox": [
     -83.35395,

@@ -2,20 +2,12 @@
   "id": "ma_14_to_14_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"14",
-    "id":"025014014015",
-    "member":{
-        "14":{
-            "945":{
-                "district":"15",
-                "name":"Bradbury, George",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"14",
-    "statename":"Massachusetts"
+    "district":15,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1815-12-04",
+    "start_session":14,
+    "state":"ma"
 },
   "bbox": [
     -70.5466,

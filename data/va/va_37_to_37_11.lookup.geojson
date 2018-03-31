@@ -2,25 +2,12 @@
   "id": "va_37_to_37_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"37",
-    "id":"051037037011",
-    "member":{
-        "37":{
-            "1507":{
-                "district":"11",
-                "name":"Carlile, John Snyder",
-                "party":"Unionist"
-            },
-            "766":{
-                "district":"11",
-                "name":"Blair, Jacob Beeson",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"37",
-    "statename":"Virginia"
+    "district":11,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1861-03-04",
+    "start_session":37,
+    "state":"va"
 },
   "bbox": [
     -82.50768,

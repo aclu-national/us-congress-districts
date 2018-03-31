@@ -1,42 +1,13 @@
 {
-  "id": "mn_104_to_107_04",
+  "id": "mn_104_to_107_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"107",
-    "id":"027104107004",
-    "member":{
-        "104":{
-            "14458":{
-                "district":"4",
-                "name":"Vento, Bruce",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "14458":{
-                "district":"4",
-                "name":"Vento, Bruce",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "14458":{
-                "district":"4",
-                "name":"Vento, Bruce",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "20122":{
-                "district":"4",
-                "name":"McCollum, Betty",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Minnesota"
+    "district":4,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"mn"
 },
   "bbox": [
     -93.22792,

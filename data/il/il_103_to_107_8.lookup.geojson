@@ -1,49 +1,13 @@
 {
-  "id": "il_103_to_107_08",
+  "id": "il_103_to_107_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"107",
-    "id":"017103107008",
-    "member":{
-        "103":{
-            "12041":{
-                "district":"8",
-                "name":"Crane, Philip M.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "12041":{
-                "district":"8",
-                "name":"Crane, Philip M.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "12041":{
-                "district":"8",
-                "name":"Crane, Philip M.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "12041":{
-                "district":"8",
-                "name":"Crane, Philip M.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "12041":{
-                "district":"8",
-                "name":"Crane, Philip M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Illinois"
+    "district":8,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"il"
 },
   "bbox": [
     -88.26348,

@@ -2,20 +2,12 @@
   "id": "in_74_to_74_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"74",
-    "id":"018074074011",
-    "member":{
-        "74":{
-            "5479":{
-                "district":"11",
-                "name":"Larrabee, William Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Indiana"
+    "district":11,
+    "end_date":"1936-06-20",
+    "end_session":74,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"in"
 },
   "bbox": [
     -86.24406,

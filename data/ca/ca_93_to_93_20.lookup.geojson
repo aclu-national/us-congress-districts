@@ -2,20 +2,12 @@
   "id": "ca_93_to_93_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"93",
-    "id":"006093093020",
-    "member":{
-        "93":{
-            "14040":{
-                "district":"20",
-                "name":"Moorhead, Carlos",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"California"
+    "district":20,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ca"
 },
   "bbox": [
     -118.34099,

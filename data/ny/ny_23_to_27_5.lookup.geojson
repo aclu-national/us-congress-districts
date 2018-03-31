@@ -1,49 +1,13 @@
 {
-  "id": "ny_23_to_27_05",
+  "id": "ny_23_to_27_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"27",
-    "id":"036023027005",
-    "member":{
-        "23":{
-            "814":{
-                "district":"5",
-                "name":"Bockee, Abraham",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "814":{
-                "district":"5",
-                "name":"Bockee, Abraham",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "9400":{
-                "district":"5",
-                "name":"Titus, Obadiah",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "5000":{
-                "district":"5",
-                "name":"Johnston, Charles",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "2405":{
-                "district":"5",
-                "name":"Davis, Richard David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -74.00011,

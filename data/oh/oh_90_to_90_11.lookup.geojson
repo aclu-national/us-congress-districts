@@ -2,20 +2,12 @@
   "id": "oh_90_to_90_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"90",
-    "id":"039090090011",
-    "member":{
-        "90":{
-            "10773":{
-                "district":"11",
-                "name":"Stanton, J. William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Ohio"
+    "district":11,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"oh"
 },
   "bbox": [
     -81.68565,

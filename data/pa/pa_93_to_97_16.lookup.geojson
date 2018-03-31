@@ -2,48 +2,12 @@
   "id": "pa_93_to_97_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"97",
-    "id":"042093097016",
-    "member":{
-        "93":{
-            "11016":{
-                "district":"16",
-                "name":"Eshleman, Edwin D.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "11016":{
-                "district":"16",
-                "name":"Eshleman, Edwin D.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14461":{
-                "district":"16",
-                "name":"Walker, Robert",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14461":{
-                "district":"16",
-                "name":"Walker, Robert",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14461":{
-                "district":"16",
-                "name":"Walker, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

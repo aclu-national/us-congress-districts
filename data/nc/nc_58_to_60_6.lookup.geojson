@@ -1,35 +1,13 @@
 {
-  "id": "nc_58_to_60_06",
+  "id": "nc_58_to_60_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"60",
-    "id":"037058060006",
-    "member":{
-        "58":{
-            "7243":{
-                "district":"6",
-                "name":"Patterson, Gilbert Brown",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "7243":{
-                "district":"6",
-                "name":"Patterson, Gilbert Brown",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "3641":{
-                "district":"6",
-                "name":"Godwin, Hannibal Lafayette",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"nc"
 },
   "bbox": [
     -79.46175,

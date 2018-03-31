@@ -2,48 +2,12 @@
   "id": "pa_13_to_17_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"17",
-    "id":"042013017015",
-    "member":{
-        "13":{
-            "10254":{
-                "district":"15",
-                "name":"Wilson, Thomas",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "10254":{
-                "district":"15",
-                "name":"Wilson, Thomas",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "6647":{
-                "district":"15",
-                "name":"Moore, Robert",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "6647":{
-                "district":"15",
-                "name":"Moore, Robert",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "3070":{
-                "district":"15",
-                "name":"Farrelly, Patrick",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

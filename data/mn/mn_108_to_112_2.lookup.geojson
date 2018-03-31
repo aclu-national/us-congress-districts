@@ -1,49 +1,13 @@
 {
-  "id": "mn_108_to_112_02",
+  "id": "mn_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"027108112002",
-    "member":{
-        "108":{
-            "20333":{
-                "district":"2",
-                "name":"Kline, John",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20333":{
-                "district":"2",
-                "name":"Kline, John",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20333":{
-                "district":"2",
-                "name":"Kline, John",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20333":{
-                "district":"2",
-                "name":"Kline, John",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20333":{
-                "district":"2",
-                "name":"Kline, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Minnesota"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mn"
 },
   "bbox": [
     -94.02514,

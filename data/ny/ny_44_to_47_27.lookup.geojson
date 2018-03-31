@@ -2,46 +2,12 @@
   "id": "ny_44_to_47_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"47",
-    "id":"036044047027",
-    "member":{
-        "44":{
-            "5473":{
-                "district":"27",
-                "name":"Lapham, Elbridge Gerry",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "5473":{
-                "district":"27",
-                "name":"Lapham, Elbridge Gerry",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "5473":{
-                "district":"27",
-                "name":"Lapham, Elbridge Gerry",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "5473":{
-                "district":"27",
-                "name":"Lapham, Elbridge Gerry",
-                "party":"Republican"
-            },
-            "9704":{
-                "district":"27",
-                "name":"Wadsworth, James Wolcott",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -78.06096,

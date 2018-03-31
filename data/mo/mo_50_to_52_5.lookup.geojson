@@ -1,35 +1,13 @@
 {
-  "id": "mo_50_to_52_05",
+  "id": "mo_50_to_52_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"52",
-    "id":"029050052005",
-    "member":{
-        "50":{
-            "9838":{
-                "district":"5",
-                "name":"Warner, William",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "9181":{
-                "district":"5",
-                "name":"Tarsney, John Charles",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "9181":{
-                "district":"5",
-                "name":"Tarsney, John Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Missouri"
+    "district":5,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"mo"
 },
   "bbox": [
     -94.60863,

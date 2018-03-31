@@ -2,83 +2,12 @@
   "id": "mi_73_to_82_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"82",
-    "id":"026073082012",
-    "member":{
-        "73":{
-            "4887":{
-                "district":"12",
-                "name":"James, William Francis",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "4552":{
-                "district":"12",
-                "name":"Hook, Frank Eugene",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "4552":{
-                "district":"12",
-                "name":"Hook, Frank Eugene",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "4552":{
-                "district":"12",
-                "name":"Hook, Frank Eugene",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "4552":{
-                "district":"12",
-                "name":"Hook, Frank Eugene",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "639":{
-                "district":"12",
-                "name":"Bennett, John Bonifas",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4552":{
-                "district":"12",
-                "name":"Hook, Frank Eugene",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "639":{
-                "district":"12",
-                "name":"Bennett, John Bonifas",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "639":{
-                "district":"12",
-                "name":"Bennett, John Bonifas",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "639":{
-                "district":"12",
-                "name":"Bennett, John Bonifas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Michigan"
+    "district":12,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mi"
 },
   "bbox": [
     -90.41814,

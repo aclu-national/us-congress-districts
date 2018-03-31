@@ -1,42 +1,13 @@
 {
-  "id": "ky_34_to_37_07",
+  "id": "ky_34_to_37_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"37",
-    "id":"021034037007",
-    "member":{
-        "34":{
-            "6001":{
-                "district":"7",
-                "name":"Marshall, Humphrey",
-                "party":"American"
-            }
-        },
-        "35":{
-            "6001":{
-                "district":"7",
-                "name":"Marshall, Humphrey",
-                "party":"American"
-            }
-        },
-        "36":{
-            "5940":{
-                "district":"7",
-                "name":"Mallory, Robert",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "37":{
-            "5940":{
-                "district":"7",
-                "name":"Mallory, Robert",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Kentucky"
+    "district":7,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ky"
 },
   "bbox": [
     -85.94854,

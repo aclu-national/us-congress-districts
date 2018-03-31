@@ -2,48 +2,12 @@
   "id": "nc_93_to_97_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"97",
-    "id":"037093097011",
-    "member":{
-        "93":{
-            "9230":{
-                "district":"11",
-                "name":"Taylor, Roy Arthur",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "9230":{
-                "district":"11",
-                "name":"Taylor, Roy Arthur",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14424":{
-                "district":"11",
-                "name":"Gudger, Lamar",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14424":{
-                "district":"11",
-                "name":"Gudger, Lamar",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14832":{
-                "district":"11",
-                "name":"Hendon, William M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"North Carolina"
+    "district":11,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nc"
 },
   "bbox": [
     -84.32187,

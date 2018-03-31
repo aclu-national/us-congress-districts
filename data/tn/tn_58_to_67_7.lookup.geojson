@@ -1,89 +1,13 @@
 {
-  "id": "tn_58_to_67_07",
+  "id": "tn_58_to_67_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"67",
-    "id":"047058067007",
-    "member":{
-        "58":{
-            "7150":{
-                "district":"7",
-                "name":"Padgett, Lemuel Phillips",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "7150":{
-                "district":"7",
-                "name":"Padgett, Lemuel Phillips",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "7150":{
-                "district":"7",
-                "name":"Padgett, Lemuel Phillips",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "7150":{
-                "district":"7",
-                "name":"Padgett, Lemuel Phillips",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "7150":{
-                "district":"7",
-                "name":"Padgett, Lemuel Phillips",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "7150":{
-                "district":"7",
-                "name":"Padgett, Lemuel Phillips",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "7150":{
-                "district":"7",
-                "name":"Padgett, Lemuel Phillips",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "7150":{
-                "district":"7",
-                "name":"Padgett, Lemuel Phillips",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "7150":{
-                "district":"7",
-                "name":"Padgett, Lemuel Phillips",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "7150":{
-                "district":"7",
-                "name":"Padgett, Lemuel Phillips",
-                "party":"Democrat"
-            },
-            "9512":{
-                "district":"7",
-                "name":"Turner, Clarence Wyly",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Tennessee"
+    "district":7,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"tn"
 },
   "bbox": [
     -88.02474,

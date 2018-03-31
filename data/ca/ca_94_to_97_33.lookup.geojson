@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"97",
-    "id":"006094097033",
-    "member":{
-        "94":{
-            "10580":{
-                "district":"33",
-                "name":"Clawson, Del",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "10580":{
-                "district":"33",
-                "name":"Clawson, Del",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14630":{
-                "district":"33",
-                "name":"Grisham, Wayne Richard",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14630":{
-                "district":"33",
-                "name":"Grisham, Wayne Richard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":33,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -118.17052,

@@ -2,27 +2,12 @@
   "id": "va_8_to_9_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"9",
-    "id":"051008009012",
-    "member":{
-        "8":{
-            "3826":{
-                "district":"12",
-                "name":"Griffin, Thomas",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "505":{
-                "district":"12",
-                "name":"Bassett, Burwell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Virginia"
+    "district":12,
+    "end_date":"1807-03-03",
+    "end_session":9,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"va"
 },
   "bbox": [
     -76.91586,

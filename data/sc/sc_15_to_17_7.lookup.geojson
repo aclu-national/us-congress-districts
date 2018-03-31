@@ -1,35 +1,13 @@
 {
-  "id": "sc_15_to_17_07",
+  "id": "sc_15_to_17_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"17",
-    "id":"045015017007",
-    "member":{
-        "15":{
-            "2813":{
-                "district":"7",
-                "name":"Earle, Elias",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "2813":{
-                "district":"7",
-                "name":"Earle, Elias",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "10237":{
-                "district":"7",
-                "name":"Wilson, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"South Carolina"
+    "district":7,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"sc"
 },
   "bbox": [
     -83.35395,

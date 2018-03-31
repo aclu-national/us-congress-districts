@@ -1,28 +1,13 @@
 {
-  "id": "va_23_to_24_09",
+  "id": "va_23_to_24_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"24",
-    "id":"051023024009",
-    "member":{
-        "23":{
-            "9236":{
-                "district":"9",
-                "name":"Taylor, William Penn",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "7935":{
-                "district":"9",
-                "name":"Roane, John",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Virginia"
+    "district":9,
+    "end_date":"1837-03-03",
+    "end_session":24,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"va"
 },
   "bbox": [
     -77.64328,

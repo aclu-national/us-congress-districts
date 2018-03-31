@@ -2,34 +2,12 @@
   "id": "il_90_to_92_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"92",
-    "id":"017090092012",
-    "member":{
-        "90":{
-            "10606":{
-                "district":"12",
-                "name":"McClory, Robert",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10606":{
-                "district":"12",
-                "name":"McClory, Robert",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10606":{
-                "district":"12",
-                "name":"McClory, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Illinois"
+    "district":12,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"il"
 },
   "bbox": [
     -88.70738,

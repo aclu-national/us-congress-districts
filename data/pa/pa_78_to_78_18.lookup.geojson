@@ -2,20 +2,12 @@
   "id": "pa_78_to_78_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"78",
-    "id":"042078078018",
-    "member":{
-        "78":{
-            "8532":{
-                "district":"18",
-                "name":"Simpson, Richard Murray",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"pa"
 },
   "bbox": [
     -78.80838,

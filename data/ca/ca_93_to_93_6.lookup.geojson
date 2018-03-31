@@ -1,26 +1,13 @@
 {
-  "id": "ca_93_to_93_06",
+  "id": "ca_93_to_93_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"93",
-    "id":"006093093006",
-    "member":{
-        "93":{
-            "14076":{
-                "district":"6",
-                "name":"Burton, John",
-                "party":"Democrat"
-            },
-            "5929":{
-                "district":"6",
-                "name":"Mailliard, William Somers",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"California"
+    "district":6,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ca"
 },
   "bbox": [
     -123.02407,

@@ -1,49 +1,13 @@
 {
-  "id": "nj_33_to_37_02",
+  "id": "nj_33_to_37_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"37",
-    "id":"034033037002",
-    "member":{
-        "33":{
-            "8557":{
-                "district":"2",
-                "name":"Skelton, Charles",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "7943":{
-                "district":"2",
-                "name":"Robbins, George Robbins",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "7943":{
-                "district":"2",
-                "name":"Robbins, George Robbins",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "9015":{
-                "district":"2",
-                "name":"Stratton, John Leake Newbold",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "9015":{
-                "district":"2",
-                "name":"Stratton, John Leake Newbold",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New Jersey"
+    "district":2,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"nj"
 },
   "bbox": [
     -75.05452,

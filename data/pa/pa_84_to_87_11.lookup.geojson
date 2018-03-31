@@ -2,41 +2,12 @@
   "id": "pa_84_to_87_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"87",
-    "id":"042084087011",
-    "member":{
-        "84":{
-            "3224":{
-                "district":"11",
-                "name":"Flood, Daniel John",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "3224":{
-                "district":"11",
-                "name":"Flood, Daniel John",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "3224":{
-                "district":"11",
-                "name":"Flood, Daniel John",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "3224":{
-                "district":"11",
-                "name":"Flood, Daniel John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -76.31974,

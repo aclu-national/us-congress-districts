@@ -2,66 +2,12 @@
   "id": "ny_13_to_16_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"16",
-    "id":"036013016021",
-    "member":{
-        "13":{
-            "4573":{
-                "district":"21",
-                "name":"Hopkins, Samuel Miles",
-                "party":"Federalist"
-            },
-            "4653":{
-                "district":"21",
-                "name":"Howell, Nathaniel Woodhull",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "1080":{
-                "district":"21",
-                "name":"Brooks, Micah",
-                "party":"Republican"
-            },
-            "1787":{
-                "district":"21",
-                "name":"Clarke, Archibald Smith",
-                "party":"Republican"
-            },
-            "7539":{
-                "district":"21",
-                "name":"Porter, Peter Buell",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "2907":{
-                "district":"21",
-                "name":"Ellicott, Benjamin",
-                "party":"Republican"
-            },
-            "8787":{
-                "district":"21",
-                "name":"Spencer, John Canfield",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "122":{
-                "district":"21",
-                "name":"Allen, Nathaniel",
-                "party":"Republican"
-            },
-            "9447":{
-                "district":"21",
-                "name":"Tracy, Albert Haller",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

@@ -1,21 +1,13 @@
 {
-  "id": "tx_47_to_47_01",
+  "id": "tx_47_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"048047047001",
-    "member":{
-        "47":{
-            "7769":{
-                "district":"1",
-                "name":"Reagan, John Henninger",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Texas"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"tx"
 },
   "bbox": [
     -96.454,

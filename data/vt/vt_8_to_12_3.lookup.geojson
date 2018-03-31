@@ -1,49 +1,13 @@
 {
-  "id": "vt_8_to_12_03",
+  "id": "vt_8_to_12_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"12",
-    "id":"050008012003",
-    "member":{
-        "10":{
-            "3173":{
-                "district":"3",
-                "name":"Fisk, James",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "1625":{
-                "district":"3",
-                "name":"Chamberlain, William",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "3173":{
-                "district":"3",
-                "name":"Fisk, James",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "1625":{
-                "district":"3",
-                "name":"Chamberlain, William",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "3173":{
-                "district":"3",
-                "name":"Fisk, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Vermont"
+    "district":3,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"vt"
 },
   "bbox": [
     -72.81338,

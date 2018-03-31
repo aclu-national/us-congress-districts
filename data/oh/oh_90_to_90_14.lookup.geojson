@@ -2,20 +2,12 @@
   "id": "oh_90_to_90_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"90",
-    "id":"039090090014",
-    "member":{
-        "90":{
-            "310":{
-                "district":"14",
-                "name":"Ayres, William Hanes",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"oh"
 },
   "bbox": [
     -81.68845,

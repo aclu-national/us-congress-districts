@@ -1,49 +1,13 @@
 {
-  "id": "mo_103_to_107_08",
+  "id": "mo_103_to_107_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"107",
-    "id":"029103107008",
-    "member":{
-        "103":{
-            "14819":{
-                "district":"8",
-                "name":"Emerson, Bill",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14819":{
-                "district":"8",
-                "name":"Emerson, Bill",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29736":{
-                "district":"8",
-                "name":"Emerson, Jo Ann",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29736":{
-                "district":"8",
-                "name":"Emerson, Jo Ann",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29736":{
-                "district":"8",
-                "name":"Emerson, Jo Ann",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Missouri"
+    "district":8,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"mo"
 },
   "bbox": [
     -92.69209,

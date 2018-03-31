@@ -2,48 +2,12 @@
   "id": "mi_83_to_87_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"87",
-    "id":"026083087016",
-    "member":{
-        "83":{
-            "5617":{
-                "district":"16",
-                "name":"Lesinski, John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5617":{
-                "district":"16",
-                "name":"Lesinski, John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5617":{
-                "district":"16",
-                "name":"Lesinski, John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5617":{
-                "district":"16",
-                "name":"Lesinski, John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "5617":{
-                "district":"16",
-                "name":"Lesinski, John, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Michigan"
+    "district":16,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mi"
 },
   "bbox": [
     -83.54716,

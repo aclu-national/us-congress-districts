@@ -1,47 +1,13 @@
 {
-  "id": "il_54_to_57_06",
+  "id": "il_54_to_57_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"57",
-    "id":"017054057006",
-    "member":{
-        "54":{
-            "2029":{
-                "district":"6",
-                "name":"Cooke, Edward Dean",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2029":{
-                "district":"6",
-                "name":"Cooke, Edward Dean",
-                "party":"Republican"
-            },
-            "887":{
-                "district":"6",
-                "name":"Boutell, Henry Sherman",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "887":{
-                "district":"6",
-                "name":"Boutell, Henry Sherman",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "887":{
-                "district":"6",
-                "name":"Boutell, Henry Sherman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"54",
-    "statename":"Illinois"
+    "district":6,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1895-12-02",
+    "start_session":54,
+    "state":"il"
 },
   "bbox": [
     -87.68807,

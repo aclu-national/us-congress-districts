@@ -2,27 +2,12 @@
   "id": "oh_50_to_51_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"51",
-    "id":"039050051010",
-    "member":{
-        "50":{
-            "8045":{
-                "district":"10",
-                "name":"Romeis, Jacob",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "4240":{
-                "district":"10",
-                "name":"Haynes, William Elisha",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Ohio"
+    "district":10,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"oh"
 },
   "bbox": [
     -83.88329,

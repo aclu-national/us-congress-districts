@@ -1,28 +1,13 @@
 {
-  "id": "md_88_to_89_00",
+  "id": "md_88_to_89_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"89",
-    "id":"024088089000",
-    "member":{
-        "88":{
-            "10624":{
-                "district":"99",
-                "name":"Sickles, Carleton R.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10624":{
-                "district":"99",
-                "name":"Sickles, Carleton R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Maryland"
+    "district":0,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

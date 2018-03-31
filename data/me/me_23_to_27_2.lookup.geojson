@@ -1,49 +1,13 @@
 {
-  "id": "me_23_to_27_02",
+  "id": "me_23_to_27_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"27",
-    "id":"023023027002",
-    "member":{
-        "23":{
-            "8614":{
-                "district":"2",
-                "name":"Smith, Francis Ormand Jonathan",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "8614":{
-                "district":"2",
-                "name":"Smith, Francis Ormand Jonathan",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "8614":{
-                "district":"2",
-                "name":"Smith, Francis Ormand Jonathan",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "8599":{
-                "district":"2",
-                "name":"Smith, Albert",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "3127":{
-                "district":"2",
-                "name":"Fessenden, William Pitt",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Maine"
+    "district":2,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"me"
 },
   "bbox": [
     -70.80171,

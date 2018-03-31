@@ -2,34 +2,12 @@
   "id": "oh_30_to_32_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"32",
-    "id":"039030032021",
-    "member":{
-        "30":{
-            "8058":{
-                "district":"21",
-                "name":"Root, Joseph Mosley",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "8058":{
-                "district":"21",
-                "name":"Root, Joseph Mosley",
-                "party":"Free Soil"
-            }
-        },
-        "32":{
-            "9442":{
-                "district":"21",
-                "name":"Townshend, Norton Strange",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Ohio"
+    "district":21,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"oh"
 },
   "bbox": [
     -82.90323,

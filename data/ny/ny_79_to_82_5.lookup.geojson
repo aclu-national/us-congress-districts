@@ -1,47 +1,13 @@
 {
-  "id": "ny_79_to_82_05",
+  "id": "ny_79_to_82_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"82",
-    "id":"036079082005",
-    "member":{
-        "79":{
-            "8018":{
-                "district":"5",
-                "name":"Roe, James A.",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "8075":{
-                "district":"5",
-                "name":"Ross, Robert Tripp",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7680":{
-                "district":"5",
-                "name":"Quinn, Thomas Vincent",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7680":{
-                "district":"5",
-                "name":"Quinn, Thomas Vincent",
-                "party":"Democrat"
-            },
-            "8075":{
-                "district":"5",
-                "name":"Ross, Robert Tripp",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -73.92467,

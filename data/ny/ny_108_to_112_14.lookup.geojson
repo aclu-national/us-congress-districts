@@ -2,48 +2,12 @@
   "id": "ny_108_to_112_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"112",
-    "id":"036108112014",
-    "member":{
-        "108":{
-            "29379":{
-                "district":"14",
-                "name":"Maloney, Carolyn B.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29379":{
-                "district":"14",
-                "name":"Maloney, Carolyn B.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29379":{
-                "district":"14",
-                "name":"Maloney, Carolyn B.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29379":{
-                "district":"14",
-                "name":"Maloney, Carolyn B.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29379":{
-                "district":"14",
-                "name":"Maloney, Carolyn B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":14,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -73.99358,

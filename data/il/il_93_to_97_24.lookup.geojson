@@ -2,48 +2,12 @@
   "id": "il_93_to_97_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"97",
-    "id":"017093097024",
-    "member":{
-        "93":{
-            "3769":{
-                "district":"24",
-                "name":"Gray, Kenneth James",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14275":{
-                "district":"24",
-                "name":"Simon, Paul",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14275":{
-                "district":"24",
-                "name":"Simon, Paul",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14275":{
-                "district":"24",
-                "name":"Simon, Paul",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14275":{
-                "district":"24",
-                "name":"Simon, Paul",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Illinois"
+    "district":24,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"il"
 },
   "bbox": [
     -90.37408,

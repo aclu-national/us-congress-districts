@@ -2,20 +2,12 @@
   "id": "oh_90_to_90_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"90",
-    "id":"039090090017",
-    "member":{
-        "90":{
-            "10502":{
-                "district":"17",
-                "name":"Ashbrook, John M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"oh"
 },
   "bbox": [
     -82.78249,

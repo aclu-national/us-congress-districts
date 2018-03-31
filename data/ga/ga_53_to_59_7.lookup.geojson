@@ -1,63 +1,13 @@
 {
-  "id": "ga_53_to_59_07",
+  "id": "ga_53_to_59_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"59",
-    "id":"013053059007",
-    "member":{
-        "53":{
-            "5901":{
-                "district":"7",
-                "name":"Maddox, John W.",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "5901":{
-                "district":"7",
-                "name":"Maddox, John W.",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "5901":{
-                "district":"7",
-                "name":"Maddox, John W.",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "5901":{
-                "district":"7",
-                "name":"Maddox, John W.",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "5901":{
-                "district":"7",
-                "name":"Maddox, John W.",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "5901":{
-                "district":"7",
-                "name":"Maddox, John W.",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "5558":{
-                "district":"7",
-                "name":"Lee, Gordon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ga"
 },
   "bbox": [
     -85.60517,

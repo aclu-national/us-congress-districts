@@ -2,34 +2,12 @@
   "id": "ca_88_to_90_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"90",
-    "id":"006088090018",
-    "member":{
-        "88":{
-            "3901":{
-                "district":"18",
-                "name":"Hagen, Harlan Francis",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "3901":{
-                "district":"18",
-                "name":"Hagen, Harlan Francis",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11031":{
-                "district":"18",
-                "name":"Mathias, Robert B.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":18,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -120.31507,

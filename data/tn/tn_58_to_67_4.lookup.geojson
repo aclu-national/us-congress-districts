@@ -1,84 +1,13 @@
 {
-  "id": "tn_58_to_67_04",
+  "id": "tn_58_to_67_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"67",
-    "id":"047058067004",
-    "member":{
-        "58":{
-            "3194":{
-                "district":"4",
-                "name":"Fitzpatrick, Morgan Cassius",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "1345":{
-                "district":"4",
-                "name":"Butler, Mounce Gore",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "4717":{
-                "district":"4",
-                "name":"Hull, Cordell",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "4717":{
-                "district":"4",
-                "name":"Hull, Cordell",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "4717":{
-                "district":"4",
-                "name":"Hull, Cordell",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "4717":{
-                "district":"4",
-                "name":"Hull, Cordell",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4717":{
-                "district":"4",
-                "name":"Hull, Cordell",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "4717":{
-                "district":"4",
-                "name":"Hull, Cordell",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "4717":{
-                "district":"4",
-                "name":"Hull, Cordell",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1854":{
-                "district":"4",
-                "name":"Clouse, Wynne F.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"tn"
 },
   "bbox": [
     -86.7548,

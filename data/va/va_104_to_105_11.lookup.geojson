@@ -2,27 +2,12 @@
   "id": "va_104_to_105_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"105",
-    "id":"051104105011",
-    "member":{
-        "104":{
-            "29576":{
-                "district":"11",
-                "name":"Davis, Thomas M.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29576":{
-                "district":"11",
-                "name":"Davis, Thomas M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Virginia"
+    "district":11,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"va"
 },
   "bbox": [
     -77.55975,

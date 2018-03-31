@@ -1,35 +1,13 @@
 {
-  "id": "va_90_to_92_01",
+  "id": "va_90_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"051090092001",
-    "member":{
-        "90":{
-            "2706":{
-                "district":"1",
-                "name":"Downing, Thomas Nelms",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "2706":{
-                "district":"1",
-                "name":"Downing, Thomas Nelms",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "2706":{
-                "district":"1",
-                "name":"Downing, Thomas Nelms",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"va"
 },
   "bbox": [
     -76.91586,

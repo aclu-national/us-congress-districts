@@ -1,35 +1,13 @@
 {
-  "id": "va_10_to_12_09",
+  "id": "va_10_to_12_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"12",
-    "id":"051010012009",
-    "member":{
-        "10":{
-            "5792":{
-                "district":"9",
-                "name":"Love, John",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "5792":{
-                "district":"9",
-                "name":"Love, John",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "4206":{
-                "district":"9",
-                "name":"Hawes, Aylett",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"10",
-    "statename":"Virginia"
+    "district":9,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1807-10-26",
+    "start_session":10,
+    "state":"va"
 },
   "bbox": [
     -78.33832,

@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"64",
-    "id":"036063064015",
-    "member":{
-        "63":{
-            "2007":{
-                "district":"15",
-                "name":"Conry, Michael Francis",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "2007":{
-                "district":"15",
-                "name":"Conry, Michael Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -74.01248,

@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"64",
-    "id":"036063064016",
-    "member":{
-        "63":{
-            "2666":{
-                "district":"16",
-                "name":"Dooling, Peter Joseph",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "2666":{
-                "district":"16",
-                "name":"Dooling, Peter Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -74.00613,

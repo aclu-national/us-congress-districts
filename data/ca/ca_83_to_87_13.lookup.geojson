@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"87",
-    "id":"006083087013",
-    "member":{
-        "83":{
-            "971":{
-                "district":"13",
-                "name":"Bramblett, Ernest King",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "9240":{
-                "district":"13",
-                "name":"Teague, Charles McKevett",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "9240":{
-                "district":"13",
-                "name":"Teague, Charles McKevett",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "9240":{
-                "district":"13",
-                "name":"Teague, Charles McKevett",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "9240":{
-                "district":"13",
-                "name":"Teague, Charles McKevett",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":13,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -121.97874,

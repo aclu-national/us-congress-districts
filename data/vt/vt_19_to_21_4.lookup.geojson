@@ -1,35 +1,13 @@
 {
-  "id": "vt_19_to_21_04",
+  "id": "vt_19_to_21_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"21",
-    "id":"050019021004",
-    "member":{
-        "19":{
-            "6403":{
-                "district":"4",
-                "name":"Meech, Ezra",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "9124":{
-                "district":"4",
-                "name":"Swift, Benjamin",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "9124":{
-                "district":"4",
-                "name":"Swift, Benjamin",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Vermont"
+    "district":4,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"vt"
 },
   "bbox": [
     -73.39023,

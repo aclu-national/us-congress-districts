@@ -2,46 +2,12 @@
   "id": "tx_99_to_102_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"102",
-    "id":"048099102012",
-    "member":{
-        "100":{
-            "10391":{
-                "district":"12",
-                "name":"Wright, James Claud, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "10391":{
-                "district":"12",
-                "name":"Wright, James Claud, Jr.",
-                "party":"Democrat"
-            },
-            "15636":{
-                "district":"12",
-                "name":"Geren, Preston M. \"pete\"",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15636":{
-                "district":"12",
-                "name":"Geren, Preston M. \"pete\"",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "10391":{
-                "district":"12",
-                "name":"Wright, James Claud, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Texas"
+    "district":12,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"tx"
 },
   "bbox": [
     -97.5488,

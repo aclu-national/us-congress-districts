@@ -1,59 +1,13 @@
 {
-  "id": "me_18_to_22_05",
+  "id": "me_18_to_22_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"22",
-    "id":"023018022005",
-    "member":{
-        "18":{
-            "5667":{
-                "district":"5",
-                "name":"Lincoln, Enoch",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "5667":{
-                "district":"5",
-                "name":"Lincoln, Enoch",
-                "party":"Adams"
-            },
-            "7913":{
-                "district":"5",
-                "name":"Ripley, James Wheelock",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "7913":{
-                "district":"5",
-                "name":"Ripley, James Wheelock",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "4516":{
-                "district":"5",
-                "name":"Holland, Cornelius",
-                "party":"Jackson"
-            },
-            "7913":{
-                "district":"5",
-                "name":"Ripley, James Wheelock",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "4516":{
-                "district":"5",
-                "name":"Holland, Cornelius",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Maine"
+    "district":5,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"me"
 },
   "bbox": [
     -71.08433,

@@ -2,41 +2,12 @@
   "id": "ny_34_to_37_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"37",
-    "id":"036034037015",
-    "member":{
-        "34":{
-            "2635":{
-                "district":"15",
-                "name":"Dodd, Edward",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "2635":{
-                "district":"15",
-                "name":"Dodd, Edward",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "6285":{
-                "district":"15",
-                "name":"McKean, James Bedell",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "6285":{
-                "district":"15",
-                "name":"McKean, James Bedell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -74.86771,

@@ -1,33 +1,13 @@
 {
-  "id": "pa_51_to_52_04",
+  "id": "pa_51_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"042051052004",
-    "member":{
-        "51":{
-            "5140":{
-                "district":"4",
-                "name":"Kelley, William Darrah",
-                "party":"Republican"
-            },
-            "7827":{
-                "district":"4",
-                "name":"Reyburn, John Edgar",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "7827":{
-                "district":"4",
-                "name":"Reyburn, John Edgar",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

@@ -1,49 +1,13 @@
 {
-  "id": "in_23_to_27_02",
+  "id": "in_23_to_27_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"27",
-    "id":"018023027002",
-    "member":{
-        "23":{
-            "3038":{
-                "district":"2",
-                "name":"Ewing, John",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "2399":{
-                "district":"2",
-                "name":"Davis, John Wesley",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "3038":{
-                "district":"2",
-                "name":"Ewing, John",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "2399":{
-                "district":"2",
-                "name":"Davis, John Wesley",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "9336":{
-                "district":"2",
-                "name":"Thompson, Richard Wigginton",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Indiana"
+    "district":2,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"in"
 },
   "bbox": [
     -87.75683,

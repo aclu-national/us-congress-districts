@@ -1,49 +1,13 @@
 {
-  "id": "ar_93_to_97_01",
+  "id": "ar_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"005093097001",
-    "member":{
-        "93":{
-            "12000":{
-                "district":"1",
-                "name":"Alexander, William V.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "12000":{
-                "district":"1",
-                "name":"Alexander, William V.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "12000":{
-                "district":"1",
-                "name":"Alexander, William V.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "12000":{
-                "district":"1",
-                "name":"Alexander, William V.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "12000":{
-                "district":"1",
-                "name":"Alexander, William V.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Arkansas"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ar"
 },
   "bbox": [
     -92.85062,

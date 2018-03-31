@@ -2,48 +2,12 @@
   "id": "oh_83_to_87_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"87",
-    "id":"039083087015",
-    "member":{
-        "83":{
-            "8341":{
-                "district":"15",
-                "name":"Secrest, Robert Thompson",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "4311":{
-                "district":"15",
-                "name":"Henderson, John Earl",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4311":{
-                "district":"15",
-                "name":"Henderson, John Earl",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "4311":{
-                "district":"15",
-                "name":"Henderson, John Earl",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10537":{
-                "district":"15",
-                "name":"Moorehead, Tom V.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"oh"
 },
   "bbox": [
     -82.47252,

@@ -2,76 +2,12 @@
   "id": "mo_74_to_82_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"82",
-    "id":"029074082013",
-    "member":{
-        "74":{
-            "1882":{
-                "district":"13",
-                "name":"Cochran, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "1882":{
-                "district":"13",
-                "name":"Cochran, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "1882":{
-                "district":"13",
-                "name":"Cochran, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "1882":{
-                "district":"13",
-                "name":"Cochran, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "1882":{
-                "district":"13",
-                "name":"Cochran, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "1882":{
-                "district":"13",
-                "name":"Cochran, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5097":{
-                "district":"13",
-                "name":"Karsten, Frank Melvin",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "5097":{
-                "district":"13",
-                "name":"Karsten, Frank Melvin",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5097":{
-                "district":"13",
-                "name":"Karsten, Frank Melvin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Missouri"
+    "district":13,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mo"
 },
   "bbox": [
     -90.2967,

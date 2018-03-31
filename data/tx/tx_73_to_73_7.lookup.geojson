@@ -1,26 +1,13 @@
 {
-  "id": "tx_73_to_73_07",
+  "id": "tx_73_to_73_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"73",
-    "id":"048073073007",
-    "member":{
-        "73":{
-            "1029":{
-                "district":"7",
-                "name":"Briggs, Clay Stone",
-                "party":"Democrat"
-            },
-            "9320":{
-                "district":"7",
-                "name":"Thompson, Clark Wallace",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Texas"
+    "district":7,
+    "end_date":"1934-06-18",
+    "end_session":73,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"tx"
 },
   "bbox": [
     -96.06489,

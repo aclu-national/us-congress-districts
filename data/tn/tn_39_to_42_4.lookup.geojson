@@ -1,42 +1,13 @@
 {
-  "id": "tn_39_to_42_04",
+  "id": "tn_39_to_42_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"42",
-    "id":"047039042004",
-    "member":{
-        "39":{
-            "2042":{
-                "district":"4",
-                "name":"Cooper, Edmund",
-                "party":"Unionist"
-            }
-        },
-        "40":{
-            "6791":{
-                "district":"4",
-                "name":"Mullins, James",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "9389":{
-                "district":"4",
-                "name":"Tillman, Lewis",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "1039":{
-                "district":"4",
-                "name":"Bright, John Morgan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"39",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1865-03-04",
+    "start_session":39,
+    "state":"tn"
 },
   "bbox": [
     -87.22488,

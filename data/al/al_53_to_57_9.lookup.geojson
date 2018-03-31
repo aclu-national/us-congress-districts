@@ -1,54 +1,13 @@
 {
-  "id": "al_53_to_57_09",
+  "id": "al_53_to_57_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"57",
-    "id":"001053057009",
-    "member":{
-        "53":{
-            "9528":{
-                "district":"9",
-                "name":"Turpin, Louis Washington",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "73":{
-                "district":"9",
-                "name":"Aldrich, Truman Heminway",
-                "party":"Republican"
-            },
-            "9560":{
-                "district":"9",
-                "name":"Underwood, Oscar Wilder",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "9560":{
-                "district":"9",
-                "name":"Underwood, Oscar Wilder",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "9560":{
-                "district":"9",
-                "name":"Underwood, Oscar Wilder",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "9560":{
-                "district":"9",
-                "name":"Underwood, Oscar Wilder",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Alabama"
+    "district":9,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"al"
 },
   "bbox": [
     -87.8705,

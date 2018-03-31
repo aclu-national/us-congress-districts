@@ -1,54 +1,13 @@
 {
-  "id": "pa_73_to_77_04",
+  "id": "pa_73_to_77_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"77",
-    "id":"042073077004",
-    "member":{
-        "73":{
-            "2853":{
-                "district":"4",
-                "name":"Edmonds, George Washington",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "2308":{
-                "district":"4",
-                "name":"Daly, John Burrwood",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2308":{
-                "district":"4",
-                "name":"Daly, John Burrwood",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2308":{
-                "district":"4",
-                "name":"Daly, John Burrwood",
-                "party":"Democrat"
-            },
-            "8451":{
-                "district":"4",
-                "name":"Sheridan, John Edward",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8451":{
-                "district":"4",
-                "name":"Sheridan, John Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"pa"
 },
   "bbox": [
     -75.20413,

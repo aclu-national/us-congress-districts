@@ -1,49 +1,13 @@
 {
-  "id": "il_83_to_87_08",
+  "id": "il_83_to_87_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"87",
-    "id":"017083087008",
-    "member":{
-        "83":{
-            "3700":{
-                "district":"8",
-                "name":"Gordon, Thomas Sylvy",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "3700":{
-                "district":"8",
-                "name":"Gordon, Thomas Sylvy",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "3700":{
-                "district":"8",
-                "name":"Gordon, Thomas Sylvy",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "8080":{
-                "district":"8",
-                "name":"Rostenkowski, Daniel David",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "8080":{
-                "district":"8",
-                "name":"Rostenkowski, Daniel David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":8,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -87.72677,

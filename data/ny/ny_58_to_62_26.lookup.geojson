@@ -2,53 +2,12 @@
   "id": "ny_58_to_62_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"62",
-    "id":"036058062026",
-    "member":{
-        "58":{
-            "3198":{
-                "district":"26",
-                "name":"Flack, William Henry",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "3198":{
-                "district":"26",
-                "name":"Flack, William Henry",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5936":{
-                "district":"26",
-                "name":"Malby, George Roland",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "5936":{
-                "district":"26",
-                "name":"Malby, George Roland",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5936":{
-                "district":"26",
-                "name":"Malby, George Roland",
-                "party":"Republican"
-            },
-            "6433":{
-                "district":"26",
-                "name":"Merritt, Edwin Albert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -75.83996,

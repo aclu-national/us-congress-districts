@@ -1,28 +1,13 @@
 {
-  "id": "sc_13_to_14_05",
+  "id": "sc_13_to_14_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"14",
-    "id":"045013014005",
-    "member":{
-        "13":{
-            "3006":{
-                "district":"5",
-                "name":"Evans, David Reid",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "10363":{
-                "district":"5",
-                "name":"Woodward, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"South Carolina"
+    "district":5,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"sc"
 },
   "bbox": [
     -82.31488,

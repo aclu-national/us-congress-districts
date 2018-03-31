@@ -1,49 +1,13 @@
 {
-  "id": "mo_83_to_87_07",
+  "id": "mo_83_to_87_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"87",
-    "id":"029083087007",
-    "member":{
-        "83":{
-            "8484":{
-                "district":"7",
-                "name":"Short, Dewey",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "8484":{
-                "district":"7",
-                "name":"Short, Dewey",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "1103":{
-                "district":"7",
-                "name":"Brown, Charles Harrison",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "1103":{
-                "district":"7",
-                "name":"Brown, Charles Harrison",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10523":{
-                "district":"7",
-                "name":"Hall, Durward G.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Missouri"
+    "district":7,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mo"
 },
   "bbox": [
     -94.61866,

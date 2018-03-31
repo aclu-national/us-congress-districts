@@ -2,48 +2,12 @@
   "id": "ny_38_to_42_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"42",
-    "id":"036038042027",
-    "member":{
-        "38":{
-            "9637":{
-                "district":"27",
-                "name":"Van Valkenburgh, Robert B",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "9814":{
-                "district":"27",
-                "name":"Ward, Hamilton",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "9814":{
-                "district":"27",
-                "name":"Ward, Hamilton",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "9814":{
-                "district":"27",
-                "name":"Ward, Hamilton",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "8634":{
-                "district":"27",
-                "name":"Smith, Horace Boardman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -78.30931,

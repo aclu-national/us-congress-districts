@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"87",
-    "id":"036083087033",
-    "member":{
-        "83":{
-            "5235":{
-                "district":"33",
-                "name":"Kilburn, Clarence Evans",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "5235":{
-                "district":"33",
-                "name":"Kilburn, Clarence Evans",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "5235":{
-                "district":"33",
-                "name":"Kilburn, Clarence Evans",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "5235":{
-                "district":"33",
-                "name":"Kilburn, Clarence Evans",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "5235":{
-                "district":"33",
-                "name":"Kilburn, Clarence Evans",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":33,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

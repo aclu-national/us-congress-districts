@@ -1,49 +1,13 @@
 {
-  "id": "il_58_to_62_07",
+  "id": "il_58_to_62_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"62",
-    "id":"017058062007",
-    "member":{
-        "58":{
-            "5340":{
-                "district":"7",
-                "name":"Knopf, Philip",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5340":{
-                "district":"7",
-                "name":"Knopf, Philip",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5340":{
-                "district":"7",
-                "name":"Knopf, Philip",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "5840":{
-                "district":"7",
-                "name":"Lundin, Frederick",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "1183":{
-                "district":"7",
-                "name":"Buchanan, Frank",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":7,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -88.26348,

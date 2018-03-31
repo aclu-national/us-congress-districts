@@ -2,20 +2,12 @@
   "id": "oh_52_to_52_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"52",
-    "id":"039052052014",
-    "member":{
-        "52":{
-            "7137":{
-                "district":"14",
-                "name":"Owens, James W.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"oh"
 },
   "bbox": [
     -82.78249,

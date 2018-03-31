@@ -1,112 +1,13 @@
 {
-  "id": "mn_74_to_87_09",
+  "id": "mn_74_to_87_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"87",
-    "id":"027074087009",
-    "member":{
-        "74":{
-            "1204":{
-                "district":"9",
-                "name":"Buckler, Richard Thompson",
-                "party":"Farmer-Labor"
-            }
-        },
-        "75":{
-            "1204":{
-                "district":"9",
-                "name":"Buckler, Richard Thompson",
-                "party":"Farmer-Labor"
-            }
-        },
-        "76":{
-            "1204":{
-                "district":"9",
-                "name":"Buckler, Richard Thompson",
-                "party":"Farmer-Labor"
-            }
-        },
-        "77":{
-            "1204":{
-                "district":"9",
-                "name":"Buckler, Richard Thompson",
-                "party":"Farmer-Labor"
-            }
-        },
-        "78":{
-            "3902":{
-                "district":"9",
-                "name":"Hagen, Harold Christian",
-                "party":"Farmer-Labor"
-            }
-        },
-        "79":{
-            "3902":{
-                "district":"9",
-                "name":"Hagen, Harold Christian",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3902":{
-                "district":"9",
-                "name":"Hagen, Harold Christian",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3902":{
-                "district":"9",
-                "name":"Hagen, Harold Christian",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "3902":{
-                "district":"9",
-                "name":"Hagen, Harold Christian",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "3902":{
-                "district":"9",
-                "name":"Hagen, Harold Christian",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "5351":{
-                "district":"9",
-                "name":"Knutson, Coya Gjesdal",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5351":{
-                "district":"9",
-                "name":"Knutson, Coya Gjesdal",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5451":{
-                "district":"9",
-                "name":"Langen, Odin",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "5451":{
-                "district":"9",
-                "name":"Langen, Odin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Minnesota"
+    "district":9,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mn"
 },
   "bbox": [
     -97.23921,

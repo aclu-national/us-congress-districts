@@ -1,59 +1,13 @@
 {
-  "id": "md_3_to_7_03",
+  "id": "md_3_to_7_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"7",
-    "id":"024003007003",
-    "member":{
-        "3":{
-            "2859":{
-                "district":"3",
-                "name":"Edwards, Benjamin",
-                "party":"Pro-Administration"
-            },
-            "3285":{
-                "district":"3",
-                "name":"Forrest, Uriah",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "2125":{
-                "district":"3",
-                "name":"Crabb, Jeremiah",
-                "party":"Federalist"
-            },
-            "2139":{
-                "district":"3",
-                "name":"Craik, William",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "2139":{
-                "district":"3",
-                "name":"Craik, William",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "2139":{
-                "district":"3",
-                "name":"Craik, William",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "7478":{
-                "district":"3",
-                "name":"Plater, Thomas",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"md"
 },
   "bbox": [
     -77.52734,

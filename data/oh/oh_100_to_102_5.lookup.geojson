@@ -1,35 +1,13 @@
 {
-  "id": "oh_100_to_102_05",
+  "id": "oh_100_to_102_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"102",
-    "id":"039100102005",
-    "member":{
-        "100":{
-            "5495":{
-                "district":"5",
-                "name":"Latta, Delbert Leroy",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15604":{
-                "district":"5",
-                "name":"Gillmor, Paul E.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15604":{
-                "district":"5",
-                "name":"Gillmor, Paul E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"100",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1987-01-06",
+    "start_session":100,
+    "state":"oh"
 },
   "bbox": [
     -84.80619,

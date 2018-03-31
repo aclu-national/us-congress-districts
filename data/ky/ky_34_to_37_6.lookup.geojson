@@ -1,42 +1,13 @@
 {
-  "id": "ky_34_to_37_06",
+  "id": "ky_34_to_37_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"37",
-    "id":"021034037006",
-    "member":{
-        "34":{
-            "2914":{
-                "district":"6",
-                "name":"Elliott, John Milton",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "2914":{
-                "district":"6",
-                "name":"Elliott, John Milton",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "29":{
-                "district":"6",
-                "name":"Adams, Green",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "37":{
-            "2767":{
-                "district":"6",
-                "name":"Dunlap, George Washington",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ky"
 },
   "bbox": [
     -84.74554,

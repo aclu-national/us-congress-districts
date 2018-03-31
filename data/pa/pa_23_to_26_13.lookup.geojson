@@ -2,51 +2,12 @@
   "id": "pa_23_to_26_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"26",
-    "id":"042023026013",
-    "member":{
-        "23":{
-            "6489":{
-                "district":"13",
-                "name":"Miller, Jesse",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "6489":{
-                "district":"13",
-                "name":"Miller, Jesse",
-                "party":"Jackson"
-            },
-            "744":{
-                "district":"13",
-                "name":"Black, James",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "6162":{
-                "district":"13",
-                "name":"McClure, Charles",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "6162":{
-                "district":"13",
-                "name":"McClure, Charles",
-                "party":"Democrat"
-            },
-            "7707":{
-                "district":"13",
-                "name":"Ramsey, William Sterrett",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -77.75179,

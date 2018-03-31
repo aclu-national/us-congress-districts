@@ -2,48 +2,12 @@
   "id": "ny_23_to_27_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"27",
-    "id":"036023027032",
-    "member":{
-        "23":{
-            "3140":{
-                "district":"32",
-                "name":"Fillmore, Millard",
-                "party":"Anti Masonic"
-            }
-        },
-        "24":{
-            "5794":{
-                "district":"32",
-                "name":"Love, Thomas Cutting",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "3140":{
-                "district":"32",
-                "name":"Fillmore, Millard",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "3140":{
-                "district":"32",
-                "name":"Fillmore, Millard",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "3140":{
-                "district":"32",
-                "name":"Fillmore, Millard",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":32,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

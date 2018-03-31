@@ -1,49 +1,13 @@
 {
-  "id": "me_18_to_22_02",
+  "id": "me_18_to_22_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"22",
-    "id":"023018022002",
-    "member":{
-        "18":{
-            "5768":{
-                "district":"2",
-                "name":"Longfellow, Stephen",
-                "party":"Adams-Clay Federalist"
-            }
-        },
-        "19":{
-            "171":{
-                "district":"2",
-                "name":"Anderson, John",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "171":{
-                "district":"2",
-                "name":"Anderson, John",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "171":{
-                "district":"2",
-                "name":"Anderson, John",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "171":{
-                "district":"2",
-                "name":"Anderson, John",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Maine"
+    "district":2,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"me"
 },
   "bbox": [
     -70.66834,

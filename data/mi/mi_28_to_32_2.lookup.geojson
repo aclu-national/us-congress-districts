@@ -1,54 +1,13 @@
 {
-  "id": "mi_28_to_32_02",
+  "id": "mi_28_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"026028032002",
-    "member":{
-        "28":{
-            "5866":{
-                "district":"2",
-                "name":"Lyon, Lucius",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "1705":{
-                "district":"2",
-                "name":"Chipman, John Smith",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "9052":{
-                "district":"2",
-                "name":"Stuart, Charles Edward",
-                "party":"Democrat"
-            },
-            "952":{
-                "district":"2",
-                "name":"Bradley, Edward",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "8804":{
-                "district":"2",
-                "name":"Sprague, William",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "9052":{
-                "district":"2",
-                "name":"Stuart, Charles Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Michigan"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"mi"
 },
   "bbox": [
     -86.82483,

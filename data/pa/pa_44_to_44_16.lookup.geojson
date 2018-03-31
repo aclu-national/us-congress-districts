@@ -2,20 +2,12 @@
   "id": "pa_44_to_44_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"44",
-    "id":"042044044016",
-    "member":{
-        "44":{
-            "8076":{
-                "district":"16",
-                "name":"Ross, Sobieski",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -78.95606,

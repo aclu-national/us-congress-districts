@@ -1,28 +1,13 @@
 {
-  "id": "tn_68_to_69_05",
+  "id": "tn_68_to_69_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"69",
-    "id":"047068069005",
-    "member":{
-        "68":{
-            "2379":{
-                "district":"5",
-                "name":"Davis, Ewin Lamar",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2379":{
-                "district":"5",
-                "name":"Davis, Ewin Lamar",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"tn"
 },
   "bbox": [
     -86.9608,

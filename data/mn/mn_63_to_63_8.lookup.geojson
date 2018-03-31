@@ -1,21 +1,13 @@
 {
-  "id": "mn_63_to_63_08",
+  "id": "mn_63_to_63_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"63",
-    "id":"027063063008",
-    "member":{
-        "63":{
-            "6476":{
-                "district":"8",
-                "name":"Miller, Clarence Benjamin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Minnesota"
+    "district":8,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"mn"
 },
   "bbox": [
     -94.43035,

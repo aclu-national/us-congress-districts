@@ -1,49 +1,13 @@
 {
-  "id": "il_93_to_97_03",
+  "id": "il_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"017093097003",
-    "member":{
-        "93":{
-            "14019":{
-                "district":"3",
-                "name":"Hanrahan, Robert",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14271":{
-                "district":"3",
-                "name":"Russo, Martin",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14271":{
-                "district":"3",
-                "name":"Russo, Martin",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14271":{
-                "district":"3",
-                "name":"Russo, Martin",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14271":{
-                "district":"3",
-                "name":"Russo, Martin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Illinois"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"il"
 },
   "bbox": [
     -87.79856,

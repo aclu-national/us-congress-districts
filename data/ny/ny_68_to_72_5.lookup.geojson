@@ -1,49 +1,13 @@
 {
-  "id": "ny_68_to_72_05",
+  "id": "ny_68_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"036068072005",
-    "member":{
-        "68":{
-            "749":{
-                "district":"5",
-                "name":"Black, Loring Milton, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "749":{
-                "district":"5",
-                "name":"Black, Loring Milton, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "749":{
-                "district":"5",
-                "name":"Black, Loring Milton, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "749":{
-                "district":"5",
-                "name":"Black, Loring Milton, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "749":{
-                "district":"5",
-                "name":"Black, Loring Milton, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -73.9928,

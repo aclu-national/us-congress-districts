@@ -1,19 +1,13 @@
 {
-  "id": "mo_113_to_115_06",
+  "id": "mo_113_to_115_6",
   "type": "Feature",
   "properties": {
-    "ALAND":47134018465,
-    "AWATER":527123721,
-    "CD113FP":"06",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2906",
-    "INTPTLAT":"+39.9480143",
-    "INTPTLON":"-093.2935421",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 6",
-    "STATEFP":"29"
+    "district":6,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mo"
 },
   "bbox": [
     -95.774704,

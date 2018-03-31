@@ -2,27 +2,12 @@
   "id": "ny_66_to_67_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"67",
-    "id":"036066067027",
-    "member":{
-        "66":{
-            "9810":{
-                "district":"27",
-                "name":"Ward, Charles Bonnell",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9810":{
-                "district":"27",
-                "name":"Ward, Charles Bonnell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -75.14645,

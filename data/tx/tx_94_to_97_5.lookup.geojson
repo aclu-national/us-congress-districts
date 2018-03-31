@@ -1,42 +1,13 @@
 {
-  "id": "tx_94_to_97_05",
+  "id": "tx_94_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"048094097005",
-    "member":{
-        "94":{
-            "14054":{
-                "district":"5",
-                "name":"Steelman, Alan",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14439":{
-                "district":"5",
-                "name":"Mattox, Jim",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14439":{
-                "district":"5",
-                "name":"Mattox, Jim",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14439":{
-                "district":"5",
-                "name":"Mattox, Jim",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"Texas"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"tx"
 },
   "bbox": [
     -96.94998,

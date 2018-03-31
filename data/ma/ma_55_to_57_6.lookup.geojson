@@ -1,40 +1,13 @@
 {
-  "id": "ma_55_to_57_06",
+  "id": "ma_55_to_57_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"57",
-    "id":"025055057006",
-    "member":{
-        "55":{
-            "6617":{
-                "district":"6",
-                "name":"Moody, William Henry",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "6617":{
-                "district":"6",
-                "name":"Moody, William Henry",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "3463":{
-                "district":"6",
-                "name":"Gardner, Augustus Peabody",
-                "party":"Republican"
-            },
-            "6617":{
-                "district":"6",
-                "name":"Moody, William Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"ma"
 },
   "bbox": [
     -71.1824,

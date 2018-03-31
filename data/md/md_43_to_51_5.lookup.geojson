@@ -1,82 +1,13 @@
 {
-  "id": "md_43_to_51_05",
+  "id": "md_43_to_51_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"51",
-    "id":"024043051005",
-    "member":{
-        "43":{
-            "63":{
-                "district":"5",
-                "name":"Albert, William Julian",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "4323":{
-                "district":"5",
-                "name":"Henkle, Eli Jones",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "4323":{
-                "district":"5",
-                "name":"Henkle, Eli Jones",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "4323":{
-                "district":"5",
-                "name":"Henkle, Eli Jones",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "1650":{
-                "district":"5",
-                "name":"Chapman, Andrew Grant",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "4547":{
-                "district":"5",
-                "name":"Holton, Hart Benton",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "1965":{
-                "district":"5",
-                "name":"Compton, Barnes",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "1965":{
-                "district":"5",
-                "name":"Compton, Barnes",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "1965":{
-                "district":"5",
-                "name":"Compton, Barnes",
-                "party":"Democrat"
-            },
-            "6777":{
-                "district":"5",
-                "name":"Mudd, Sydney Emanuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Maryland"
+    "district":5,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"md"
 },
   "bbox": [
     -77.27422,

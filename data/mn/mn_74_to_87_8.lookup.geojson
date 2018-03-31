@@ -1,112 +1,13 @@
 {
-  "id": "mn_74_to_87_08",
+  "id": "mn_74_to_87_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"87",
-    "id":"027074087008",
-    "member":{
-        "74":{
-            "7472":{
-                "district":"8",
-                "name":"Pittenger, William Alvin",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "667":{
-                "district":"8",
-                "name":"Bernard, John Toussaint",
-                "party":"Farmer-Labor"
-            }
-        },
-        "76":{
-            "7472":{
-                "district":"8",
-                "name":"Pittenger, William Alvin",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "7472":{
-                "district":"8",
-                "name":"Pittenger, William Alvin",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "7472":{
-                "district":"8",
-                "name":"Pittenger, William Alvin",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "7472":{
-                "district":"8",
-                "name":"Pittenger, William Alvin",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "789":{
-                "district":"8",
-                "name":"Blatnik, John Anton",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "789":{
-                "district":"8",
-                "name":"Blatnik, John Anton",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "789":{
-                "district":"8",
-                "name":"Blatnik, John Anton",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "789":{
-                "district":"8",
-                "name":"Blatnik, John Anton",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "789":{
-                "district":"8",
-                "name":"Blatnik, John Anton",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "789":{
-                "district":"8",
-                "name":"Blatnik, John Anton",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "789":{
-                "district":"8",
-                "name":"Blatnik, John Anton",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "789":{
-                "district":"8",
-                "name":"Blatnik, John Anton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Minnesota"
+    "district":8,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mn"
 },
   "bbox": [
     -94.43035,

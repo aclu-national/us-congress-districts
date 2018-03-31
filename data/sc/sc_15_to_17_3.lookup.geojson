@@ -1,35 +1,13 @@
 {
-  "id": "sc_15_to_17_03",
+  "id": "sc_15_to_17_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"17",
-    "id":"045015017003",
-    "member":{
-        "15":{
-            "2985":{
-                "district":"3",
-                "name":"Ervin, James",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "2985":{
-                "district":"3",
-                "name":"Ervin, James",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "6575":{
-                "district":"3",
-                "name":"Mitchell, Thomas Rothmale",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"sc"
 },
   "bbox": [
     -80.28879,

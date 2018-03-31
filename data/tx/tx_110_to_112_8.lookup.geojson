@@ -1,35 +1,13 @@
 {
-  "id": "tx_110_to_112_08",
+  "id": "tx_110_to_112_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"112",
-    "id":"048110112008",
-    "member":{
-        "110":{
-            "29760":{
-                "district":"8",
-                "name":"Brady, Kevin",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29760":{
-                "district":"8",
-                "name":"Brady, Kevin",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "29760":{
-                "district":"8",
-                "name":"Brady, Kevin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"110",
-    "statename":"Texas"
+    "district":8,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2007-01-04",
+    "start_session":110,
+    "state":"tx"
 },
   "bbox": [
     -95.86306,

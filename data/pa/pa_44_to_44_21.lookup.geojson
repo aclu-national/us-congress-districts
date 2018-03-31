@@ -2,20 +2,12 @@
   "id": "pa_44_to_44_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"44",
-    "id":"042044044021",
-    "member":{
-        "44":{
-            "9525":{
-                "district":"21",
-                "name":"Turney, Jacob",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":21,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -80.51949,

@@ -1,89 +1,13 @@
 {
-  "id": "me_38_to_47_02",
+  "id": "me_38_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"023038047002",
-    "member":{
-        "38":{
-            "7340":{
-                "district":"2",
-                "name":"Perham, Sidney",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "7340":{
-                "district":"2",
-                "name":"Perham, Sidney",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "7340":{
-                "district":"2",
-                "name":"Perham, Sidney",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "6698":{
-                "district":"2",
-                "name":"Morrill, Samuel Plummer",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "3385":{
-                "district":"2",
-                "name":"Frye, William Pierce",
-                "party":"Republican"
-            }
-        },
-        "43":{
-            "3385":{
-                "district":"2",
-                "name":"Frye, William Pierce",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "3385":{
-                "district":"2",
-                "name":"Frye, William Pierce",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "3385":{
-                "district":"2",
-                "name":"Frye, William Pierce",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "3385":{
-                "district":"2",
-                "name":"Frye, William Pierce",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "2606":{
-                "district":"2",
-                "name":"Dingley, Nelson Jr.",
-                "party":"Republican"
-            },
-            "3385":{
-                "district":"2",
-                "name":"Frye, William Pierce",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Maine"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"me"
 },
   "bbox": [
     -71.08433,

@@ -2,41 +2,12 @@
   "id": "oh_18_to_21_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"21",
-    "id":"039018021014",
-    "member":{
-        "18":{
-            "493":{
-                "district":"14",
-                "name":"Bartley, Mordecai",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "493":{
-                "district":"14",
-                "name":"Bartley, Mordecai",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "493":{
-                "district":"14",
-                "name":"Bartley, Mordecai",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "493":{
-                "district":"14",
-                "name":"Bartley, Mordecai",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"oh"
 },
   "bbox": [
     -83.4213,

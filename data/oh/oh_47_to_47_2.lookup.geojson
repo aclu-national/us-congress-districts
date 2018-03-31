@@ -1,21 +1,13 @@
 {
-  "id": "oh_47_to_47_02",
+  "id": "oh_47_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"039047047002",
-    "member":{
-        "47":{
-            "10455":{
-                "district":"2",
-                "name":"Young, Thomas Lowry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

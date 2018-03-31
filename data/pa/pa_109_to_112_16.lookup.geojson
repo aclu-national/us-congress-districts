@@ -2,41 +2,12 @@
   "id": "pa_109_to_112_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"112",
-    "id":"042109112016",
-    "member":{
-        "109":{
-            "29752":{
-                "district":"16",
-                "name":"Pitts, Joseph R.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29752":{
-                "district":"16",
-                "name":"Pitts, Joseph R.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29752":{
-                "district":"16",
-                "name":"Pitts, Joseph R.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "29752":{
-                "district":"16",
-                "name":"Pitts, Joe",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

@@ -1,21 +1,13 @@
 {
-  "id": "pa_78_to_78_03",
+  "id": "pa_78_to_78_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"78",
-    "id":"042078078003",
-    "member":{
-        "78":{
-            "954":{
-                "district":"3",
-                "name":"Bradley, Michael Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"pa"
 },
   "bbox": [
     -75.1624,

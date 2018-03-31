@@ -2,53 +2,12 @@
   "id": "ma_8_to_12_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"12",
-    "id":"025008012010",
-    "member":{
-        "10":{
-            "9568":{
-                "district":"10",
-                "name":"Upham, Jabez",
-                "party":"Federalist"
-            }
-        },
-        "11":{
-            "119":{
-                "district":"10",
-                "name":"Allen, Joseph",
-                "party":"Federalist"
-            },
-            "9568":{
-                "district":"10",
-                "name":"Upham, Jabez",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "1036":{
-                "district":"10",
-                "name":"Brigham, Elijah",
-                "party":"Federalist"
-            }
-        },
-        "8":{
-            "4181":{
-                "district":"10",
-                "name":"Hastings, Seth",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "4181":{
-                "district":"10",
-                "name":"Hastings, Seth",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ma"
 },
   "bbox": [
     -72.26461,

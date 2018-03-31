@@ -1,33 +1,13 @@
 {
-  "id": "wv_63_to_64_04",
+  "id": "wv_63_to_64_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"64",
-    "id":"054063064004",
-    "member":{
-        "63":{
-            "6755":{
-                "district":"4",
-                "name":"Moss, Hunter Holmes, Jr.",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "10367":{
-                "district":"4",
-                "name":"Woodyard, Harry Chapman",
-                "party":"Republican"
-            },
-            "6755":{
-                "district":"4",
-                "name":"Moss, Hunter Holmes, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"West Virginia"
+    "district":4,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"wv"
 },
   "bbox": [
     -81.91061,

@@ -2,48 +2,12 @@
   "id": "pa_103_to_107_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"107",
-    "id":"042103107014",
-    "member":{
-        "103":{
-            "14808":{
-                "district":"14",
-                "name":"Coyne, William J.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "14808":{
-                "district":"14",
-                "name":"Coyne, William J.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "14808":{
-                "district":"14",
-                "name":"Coyne, William J.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "14808":{
-                "district":"14",
-                "name":"Coyne, William J.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "14808":{
-                "district":"14",
-                "name":"Coyne, William J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"pa"
 },
   "bbox": [
     -80.22828,

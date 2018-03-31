@@ -1,48 +1,13 @@
 {
-  "id": "ma_28_to_32_04",
+  "id": "ma_28_to_32_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"32",
-    "id":"025028032004",
-    "member":{
-        "28":{
-            "7209":{
-                "district":"4",
-                "name":"Parmenter, William",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "9315":{
-                "district":"4",
-                "name":"Thompson, Benjamin",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "7171":{
-                "district":"4",
-                "name":"Palfrey, John Gorham",
-                "party":"Whig"
-            }
-        },
-        "31":[],
-        "32":{
-            "8166":{
-                "district":"4",
-                "name":"Sabine, Lorenzo",
-                "party":"Whig"
-            },
-            "9315":{
-                "district":"4",
-                "name":"Thompson, Benjamin",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ma"
 },
   "bbox": [
     -71.89872,

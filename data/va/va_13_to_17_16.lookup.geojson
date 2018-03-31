@@ -2,48 +2,12 @@
   "id": "va_13_to_17_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"17",
-    "id":"051013017016",
-    "member":{
-        "13":{
-            "2977":{
-                "district":"16",
-                "name":"Eppes, John Wayles",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "7723":{
-                "district":"16",
-                "name":"Randolph, John",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "294":{
-                "district":"16",
-                "name":"Austin, Archibald",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "7723":{
-                "district":"16",
-                "name":"Randolph, John",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "7723":{
-                "district":"16",
-                "name":"Randolph, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":16,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -78.96371,

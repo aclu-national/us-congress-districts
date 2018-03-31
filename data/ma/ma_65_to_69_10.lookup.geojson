@@ -2,53 +2,12 @@
   "id": "ma_65_to_69_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"69",
-    "id":"025065069010",
-    "member":{
-        "65":{
-            "9156":{
-                "district":"10",
-                "name":"Tague, Peter Francis",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "3182":{
-                "district":"10",
-                "name":"Fitzgerald, John Francis",
-                "party":"Democrat"
-            },
-            "9156":{
-                "district":"10",
-                "name":"Tague, Peter Francis",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "9156":{
-                "district":"10",
-                "name":"Tague, Peter Francis",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "9156":{
-                "district":"10",
-                "name":"Tague, Peter Francis",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2694":{
-                "district":"10",
-                "name":"Douglass, John Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ma"
 },
   "bbox": [
     -71.0809,

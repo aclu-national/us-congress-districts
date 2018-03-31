@@ -2,34 +2,12 @@
   "id": "ca_88_to_90_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"90",
-    "id":"006088090031",
-    "member":{
-        "88":{
-            "10640":{
-                "district":"31",
-                "name":"Wilson, Charles H.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10640":{
-                "district":"31",
-                "name":"Wilson, Charles H.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10640":{
-                "district":"31",
-                "name":"Wilson, Charles H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":31,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -118.39937,

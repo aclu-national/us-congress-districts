@@ -2,20 +2,12 @@
   "id": "pa_27_to_27_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"27",
-    "id":"042027027015",
-    "member":{
-        "27":{
-            "696":{
-                "district":"15",
-                "name":"Bidlack, Benjamin Alden",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"27",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1841-03-04",
+    "start_session":27,
+    "state":"pa"
 },
   "bbox": [
     -76.79485,

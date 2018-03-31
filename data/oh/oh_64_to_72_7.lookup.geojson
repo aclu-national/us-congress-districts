@@ -1,77 +1,13 @@
 {
-  "id": "oh_64_to_72_07",
+  "id": "oh_64_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"039064072007",
-    "member":{
-        "64":{
-            "3124":{
-                "district":"7",
-                "name":"Fess, Simeon Davison",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "3124":{
-                "district":"7",
-                "name":"Fess, Simeon Davison",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "3124":{
-                "district":"7",
-                "name":"Fess, Simeon Davison",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3124":{
-                "district":"7",
-                "name":"Fess, Simeon Davison",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "975":{
-                "district":"7",
-                "name":"Brand, Charles",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "975":{
-                "district":"7",
-                "name":"Brand, Charles",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "975":{
-                "district":"7",
-                "name":"Brand, Charles",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "975":{
-                "district":"7",
-                "name":"Brand, Charles",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "975":{
-                "district":"7",
-                "name":"Brand, Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -84.36527,

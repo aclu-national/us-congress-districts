@@ -1,84 +1,13 @@
 {
-  "id": "nj_43_to_52_06",
+  "id": "nj_43_to_52_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"52",
-    "id":"034043052006",
-    "member":{
-        "43":{
-            "9818":{
-                "district":"6",
-                "name":"Ward, Marcus Lawrence",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "9242":{
-                "district":"6",
-                "name":"Teese, Frederick Halstead",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "7299":{
-                "district":"6",
-                "name":"Peddie, Thomas Baldwin",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "774":{
-                "district":"6",
-                "name":"Blake, John Lauris",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "5057":{
-                "district":"6",
-                "name":"Jones, Phineas",
-                "party":"Republican"
-            }
-        },
-        "48":{
-            "3130":{
-                "district":"6",
-                "name":"Fiedler, William Henry Frederick",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "5590":{
-                "district":"6",
-                "name":"Lehlbach, Herman",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "5590":{
-                "district":"6",
-                "name":"Lehlbach, Herman",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "5590":{
-                "district":"6",
-                "name":"Lehlbach, Herman",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "2969":{
-                "district":"6",
-                "name":"English, Thomas Dunn",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New Jersey"
+    "district":6,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"nj"
 },
   "bbox": [
     -74.3777,

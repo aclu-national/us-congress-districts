@@ -1,119 +1,13 @@
 {
-  "id": "al_73_to_87_09",
+  "id": "al_73_to_87_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"87",
-    "id":"001073087009",
-    "member":{
-        "73":{
-            "4685":{
-                "district":"9",
-                "name":"Huddleston, George",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "4685":{
-                "district":"9",
-                "name":"Huddleston, George",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7233":{
-                "district":"9",
-                "name":"Patrick, Luther",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "7233":{
-                "district":"9",
-                "name":"Patrick, Luther",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "7233":{
-                "district":"9",
-                "name":"Patrick, Luther",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "6901":{
-                "district":"9",
-                "name":"Newsome, John Parks",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "7233":{
-                "district":"9",
-                "name":"Patrick, Luther",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "520":{
-                "district":"9",
-                "name":"Battle, Laurie Calvin",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "520":{
-                "district":"9",
-                "name":"Battle, Laurie Calvin",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "520":{
-                "district":"9",
-                "name":"Battle, Laurie Calvin",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "520":{
-                "district":"9",
-                "name":"Battle, Laurie Calvin",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "4686":{
-                "district":"9",
-                "name":"Huddleston, George, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "4686":{
-                "district":"9",
-                "name":"Huddleston, George, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "4686":{
-                "district":"9",
-                "name":"Huddleston, George, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "4686":{
-                "district":"9",
-                "name":"Huddleston, George, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Alabama"
+    "district":9,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"al"
 },
   "bbox": [
     -87.3417,

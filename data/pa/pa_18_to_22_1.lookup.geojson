@@ -1,49 +1,13 @@
 {
-  "id": "pa_18_to_22_01",
+  "id": "pa_18_to_22_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"22",
-    "id":"042018022001",
-    "member":{
-        "18":{
-            "990":{
-                "district":"1",
-                "name":"Breck, Samuel",
-                "party":"Adams-Clay Federalist"
-            }
-        },
-        "19":{
-            "10402":{
-                "district":"1",
-                "name":"Wurts, John",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "9095":{
-                "district":"1",
-                "name":"Sutherland, Joel Barlow",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "9095":{
-                "district":"1",
-                "name":"Sutherland, Joel Barlow",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "9095":{
-                "district":"1",
-                "name":"Sutherland, Joel Barlow",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

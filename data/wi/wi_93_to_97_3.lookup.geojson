@@ -1,49 +1,13 @@
 {
-  "id": "wi_93_to_97_03",
+  "id": "wi_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"055093097003",
-    "member":{
-        "93":{
-            "10564":{
-                "district":"3",
-                "name":"Thomson, Vernon W.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14202":{
-                "district":"3",
-                "name":"Baldus, Alvin",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14202":{
-                "district":"3",
-                "name":"Baldus, Alvin",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14202":{
-                "district":"3",
-                "name":"Baldus, Alvin",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14827":{
-                "district":"3",
-                "name":"Gunderson, Steven",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Wisconsin"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"wi"
 },
   "bbox": [
     -92.88943,

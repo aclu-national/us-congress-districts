@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"87",
-    "id":"006083087021",
-    "member":{
-        "83":{
-            "4388":{
-                "district":"21",
-                "name":"Hiestand, Edgar Willard",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4388":{
-                "district":"21",
-                "name":"Hiestand, Edgar Willard",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4388":{
-                "district":"21",
-                "name":"Hiestand, Edgar Willard",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "4388":{
-                "district":"21",
-                "name":"Hiestand, Edgar Willard",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "4388":{
-                "district":"21",
-                "name":"Hiestand, Edgar Willard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":21,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -118.89447,

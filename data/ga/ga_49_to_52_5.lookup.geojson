@@ -1,42 +1,13 @@
 {
-  "id": "ga_49_to_52_05",
+  "id": "ga_49_to_52_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"52",
-    "id":"013049052005",
-    "member":{
-        "49":{
-            "4009":{
-                "district":"5",
-                "name":"Hammond, Nathaniel Job",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "8940":{
-                "district":"5",
-                "name":"Stewart, John David",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "8940":{
-                "district":"5",
-                "name":"Stewart, John David",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "5717":{
-                "district":"5",
-                "name":"Livingston, Leonidas Feli",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Georgia"
+    "district":5,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ga"
 },
   "bbox": [
     -84.91106,

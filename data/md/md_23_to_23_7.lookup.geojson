@@ -1,21 +1,13 @@
 {
-  "id": "md_23_to_23_07",
+  "id": "md_23_to_23_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"23",
-    "id":"024023023007",
-    "member":{
-        "23":{
-            "9292":{
-                "district":"7",
-                "name":"Thomas, Francis",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Maryland"
+    "district":7,
+    "end_date":"1835-03-03",
+    "end_session":23,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

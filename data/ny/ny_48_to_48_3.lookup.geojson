@@ -1,21 +1,13 @@
 {
-  "id": "ny_48_to_48_03",
+  "id": "ny_48_to_48_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"48",
-    "id":"036048048003",
-    "member":{
-        "48":{
-            "4882":{
-                "district":"3",
-                "name":"James, Darwin Rush",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -73.99329,

@@ -1,49 +1,13 @@
 {
-  "id": "ma_8_to_12_01",
+  "id": "ma_8_to_12_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"12",
-    "id":"025008012001",
-    "member":{
-        "10":{
-            "7675":{
-                "district":"1",
-                "name":"Quincy, Josiah",
-                "party":"Federalist"
-            }
-        },
-        "11":{
-            "7675":{
-                "district":"1",
-                "name":"Quincy, Josiah",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "7675":{
-                "district":"1",
-                "name":"Quincy, Josiah",
-                "party":"Federalist"
-            }
-        },
-        "8":{
-            "3001":{
-                "district":"1",
-                "name":"Eustis, William",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "7675":{
-                "district":"1",
-                "name":"Quincy, Josiah",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ma"
 },
   "bbox": [
     -71.17491,

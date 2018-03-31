@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"102",
-    "id":"036099102022",
-    "member":{
-        "100":{
-            "14015":{
-                "district":"22",
-                "name":"Gilman, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14015":{
-                "district":"22",
-                "name":"Gilman, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14015":{
-                "district":"22",
-                "name":"Gilman, Benjamin",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14015":{
-                "district":"22",
-                "name":"Gilman, Benjamin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -75.10496,

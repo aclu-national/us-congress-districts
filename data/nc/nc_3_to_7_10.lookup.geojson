@@ -2,53 +2,12 @@
   "id": "nc_3_to_7_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"7",
-    "id":"037003007010",
-    "member":{
-        "3":{
-            "10136":{
-                "district":"10",
-                "name":"Williams, Benjamin",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "1176":{
-                "district":"10",
-                "name":"Bryan, Nathan",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "1176":{
-                "district":"10",
-                "name":"Bryan, Nathan",
-                "party":"Republican"
-            },
-            "8756":{
-                "district":"10",
-                "name":"Spaight, Richard Dobbs",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "8756":{
-                "district":"10",
-                "name":"Spaight, Richard Dobbs",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "8842":{
-                "district":"10",
-                "name":"Stanly, John",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"North Carolina"
+    "district":10,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"nc"
 },
   "bbox": [
     -78.70863,

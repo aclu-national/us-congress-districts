@@ -1,21 +1,13 @@
 {
-  "id": "nj_28_to_28_05",
+  "id": "nj_28_to_28_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"28",
-    "id":"034028028005",
-    "member":{
-        "28":{
-            "10400":{
-                "district":"5",
-                "name":"Wright, William",
-                "party":"Ind. Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New Jersey"
+    "district":5,
+    "end_date":"1845-03-03",
+    "end_session":28,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"nj"
 },
   "bbox": [
     -74.5028,

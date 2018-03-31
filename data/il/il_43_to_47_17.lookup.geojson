@@ -2,48 +2,12 @@
   "id": "il_43_to_47_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"47",
-    "id":"017043047017",
-    "member":{
-        "43":{
-            "6725":{
-                "district":"17",
-                "name":"Morrison, William Ralls",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "6725":{
-                "district":"17",
-                "name":"Morrison, William Ralls",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "6725":{
-                "district":"17",
-                "name":"Morrison, William Ralls",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "6725":{
-                "district":"17",
-                "name":"Morrison, William Ralls",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "6725":{
-                "district":"17",
-                "name":"Morrison, William Ralls",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":17,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -90.37408,

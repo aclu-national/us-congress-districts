@@ -2,60 +2,12 @@
   "id": "ny_73_to_78_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"78",
-    "id":"036073078027",
-    "member":{
-        "73":{
-            "3687":{
-                "district":"27",
-                "name":"Goodwin, Philip Arnold",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "3687":{
-                "district":"27",
-                "name":"Goodwin, Philip Arnold",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "3687":{
-                "district":"27",
-                "name":"Goodwin, Philip Arnold",
-                "party":"Republican"
-            },
-            "7999":{
-                "district":"27",
-                "name":"Rockefeller, Lewis Kirby",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "7999":{
-                "district":"27",
-                "name":"Rockefeller, Lewis Kirby",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "7999":{
-                "district":"27",
-                "name":"Rockefeller, Lewis Kirby",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "5580":{
-                "district":"27",
-                "name":"Le Fevre, Jay",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -75.14645,

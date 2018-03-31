@@ -2,48 +2,12 @@
   "id": "pa_38_to_42_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"42",
-    "id":"042038042015",
-    "member":{
-        "38":{
-            "346":{
-                "district":"15",
-                "name":"Bailey, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "3633":{
-                "district":"15",
-                "name":"Glossbrenner, Adam John",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "3633":{
-                "district":"15",
-                "name":"Glossbrenner, Adam John",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "3915":{
-                "district":"15",
-                "name":"Haldeman, Richard Jacobs",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "3915":{
-                "district":"15",
-                "name":"Haldeman, Richard Jacobs",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"pa"
 },
   "bbox": [
     -77.67176,

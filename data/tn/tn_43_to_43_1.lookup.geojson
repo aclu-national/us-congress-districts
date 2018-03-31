@@ -1,21 +1,13 @@
 {
-  "id": "tn_43_to_43_01",
+  "id": "tn_43_to_43_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"43",
-    "id":"047043043001",
-    "member":{
-        "43":{
-            "1348":{
-                "district":"1",
-                "name":"Butler, Roderick Randum",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"tn"
 },
   "bbox": [
     -84.00976,

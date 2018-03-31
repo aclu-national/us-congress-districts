@@ -2,48 +2,12 @@
   "id": "nc_98_to_102_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"102",
-    "id":"037098102010",
-    "member":{
-        "100":{
-            "15402":{
-                "district":"10",
-                "name":"Ballenger, Cass",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15402":{
-                "district":"10",
-                "name":"Ballenger, Cass",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15402":{
-                "district":"10",
-                "name":"Ballenger, Cass",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "10574":{
-                "district":"10",
-                "name":"Broyhill, James T.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "10574":{
-                "district":"10",
-                "name":"Broyhill, James T.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"North Carolina"
+    "district":10,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"nc"
 },
   "bbox": [
     -82.03016,

@@ -2,20 +2,12 @@
   "id": "pa_7_to_7_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"7",
-    "id":"042007007012",
-    "member":{
-        "7":{
-            "4502":{
-                "district":"12",
-                "name":"Hoge, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"7",
-    "statename":"Pennsylvania"
+    "district":12,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1801-03-04",
+    "start_session":7,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

@@ -1,31 +1,13 @@
 {
-  "id": "pa_27_to_27_02",
+  "id": "pa_27_to_27_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"27",
-    "id":"042027027002",
-    "member":{
-        "27":{
-            "4808":{
-                "district":"2",
-                "name":"Ingersoll, Joseph Reed",
-                "party":"Whig"
-            },
-            "8365":{
-                "district":"2",
-                "name":"Sergeant, John",
-                "party":"Whig"
-            },
-            "9407":{
-                "district":"2",
-                "name":"Toland, George Washington",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"27",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1841-03-04",
+    "start_session":27,
+    "state":"pa"
 },
   "bbox": [
     -75.18621,

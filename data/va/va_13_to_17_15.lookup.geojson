@@ -2,48 +2,12 @@
   "id": "va_13_to_17_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"17",
-    "id":"051013017015",
-    "member":{
-        "13":{
-            "5205":{
-                "district":"15",
-                "name":"Kerr, John",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "5205":{
-                "district":"15",
-                "name":"Kerr, John",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "5651":{
-                "district":"15",
-                "name":"Lewis, William J.",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "9496":{
-                "district":"15",
-                "name":"Tucker, George",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "9496":{
-                "district":"15",
-                "name":"Tucker, George",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":15,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -79.71485,

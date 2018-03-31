@@ -1,56 +1,13 @@
 {
-  "id": "al_28_to_33_05",
+  "id": "al_28_to_33_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"33",
-    "id":"001028033005",
-    "member":{
-        "28":{
-            "4610":{
-                "district":"5",
-                "name":"Houston, George Smith",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4610":{
-                "district":"5",
-                "name":"Houston, George Smith",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "4610":{
-                "district":"5",
-                "name":"Houston, George Smith",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "4664":{
-                "district":"5",
-                "name":"Hubbard, David",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "4610":{
-                "district":"5",
-                "name":"Houston, George Smith",
-                "party":"Democrat"
-            }
-        },
-        "33":{
-            "4610":{
-                "district":"5",
-                "name":"Houston, George Smith",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Alabama"
+    "district":5,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"al"
 },
   "bbox": [
     -88.2381,

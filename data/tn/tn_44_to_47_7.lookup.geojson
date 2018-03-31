@@ -1,42 +1,13 @@
 {
-  "id": "tn_44_to_47_07",
+  "id": "tn_44_to_47_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"47",
-    "id":"047044047007",
-    "member":{
-        "44":{
-            "10076":{
-                "district":"7",
-                "name":"Whitthorne, Washington Curran",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "10076":{
-                "district":"7",
-                "name":"Whitthorne, Washington Curran",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "10076":{
-                "district":"7",
-                "name":"Whitthorne, Washington Curran",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "10076":{
-                "district":"7",
-                "name":"Whitthorne, Washington Curran",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Tennessee"
+    "district":7,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"tn"
 },
   "bbox": [
     -88.02474,

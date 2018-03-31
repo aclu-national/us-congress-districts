@@ -1,49 +1,13 @@
 {
-  "id": "mn_98_to_102_03",
+  "id": "mn_98_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"027098102003",
-    "member":{
-        "100":{
-            "13015":{
-                "district":"3",
-                "name":"Frenzel, William",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "13015":{
-                "district":"3",
-                "name":"Frenzel, William",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "29126":{
-                "district":"3",
-                "name":"Ramstad, Jim",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "13015":{
-                "district":"3",
-                "name":"Frenzel, William",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "13015":{
-                "district":"3",
-                "name":"Frenzel, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Minnesota"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"mn"
 },
   "bbox": [
     -94.01237,

@@ -1,84 +1,13 @@
 {
-  "id": "fl_48_to_57_02",
+  "id": "fl_48_to_57_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"57",
-    "id":"012048057002",
-    "member":{
-        "48":{
-            "730":{
-                "district":"2",
-                "name":"Bisbee, Horatio Jr",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "2682":{
-                "district":"2",
-                "name":"Dougherty, Charles",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "2682":{
-                "district":"2",
-                "name":"Dougherty, Charles",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "1231":{
-                "district":"2",
-                "name":"Bullock, Robert",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "1231":{
-                "district":"2",
-                "name":"Bullock, Robert",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "2041":{
-                "district":"2",
-                "name":"Cooper, Charles Merian",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "2041":{
-                "district":"2",
-                "name":"Cooper, Charles Merian",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "2408":{
-                "district":"2",
-                "name":"Davis, Robert Wyche",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "2408":{
-                "district":"2",
-                "name":"Davis, Robert Wyche",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "2408":{
-                "district":"2",
-                "name":"Davis, Robert Wyche",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Florida"
+    "district":2,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"fl"
 },
   "bbox": [
     -83.82172,

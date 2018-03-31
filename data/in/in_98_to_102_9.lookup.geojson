@@ -1,49 +1,13 @@
 {
-  "id": "in_98_to_102_09",
+  "id": "in_98_to_102_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"102",
-    "id":"018098102009",
-    "member":{
-        "100":{
-            "10732":{
-                "district":"9",
-                "name":"Hamilton, Lee H.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "10732":{
-                "district":"9",
-                "name":"Hamilton, Lee H.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "10732":{
-                "district":"9",
-                "name":"Hamilton, Lee H.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "10732":{
-                "district":"9",
-                "name":"Hamilton, Lee H.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "10732":{
-                "district":"9",
-                "name":"Hamilton, Lee H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Indiana"
+    "district":9,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"in"
 },
   "bbox": [
     -87.07327,

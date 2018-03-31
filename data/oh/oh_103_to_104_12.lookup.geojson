@@ -2,27 +2,12 @@
   "id": "oh_103_to_104_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"104",
-    "id":"039103104012",
-    "member":{
-        "103":{
-            "15030":{
-                "district":"12",
-                "name":"Kasich, John R.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15030":{
-                "district":"12",
-                "name":"Kasich, John R.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"oh"
 },
   "bbox": [
     -83.24968,

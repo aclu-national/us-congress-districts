@@ -1,49 +1,13 @@
 {
-  "id": "in_93_to_97_08",
+  "id": "in_93_to_97_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"97",
-    "id":"018093097008",
-    "member":{
-        "93":{
-            "11059":{
-                "district":"8",
-                "name":"Zion, Roger H.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14232":{
-                "district":"8",
-                "name":"Hayes, Philip",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14412":{
-                "district":"8",
-                "name":"Cornwell, David",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14619":{
-                "district":"8",
-                "name":"Deckard, H. Joel",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14619":{
-                "district":"8",
-                "name":"Deckard, H. Joel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Indiana"
+    "district":8,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_34",
   "type": "Feature",
   "properties": {
-    "district":"34",
-    "endcong":"82",
-    "id":"036079082034",
-    "member":{
-        "79":{
-            "5235":{
-                "district":"34",
-                "name":"Kilburn, Clarence Evans",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "5235":{
-                "district":"34",
-                "name":"Kilburn, Clarence Evans",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "5235":{
-                "district":"34",
-                "name":"Kilburn, Clarence Evans",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "5235":{
-                "district":"34",
-                "name":"Kilburn, Clarence Evans",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":34,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -76.44652,

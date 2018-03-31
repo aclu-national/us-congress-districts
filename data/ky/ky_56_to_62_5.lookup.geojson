@@ -1,63 +1,13 @@
 {
-  "id": "ky_56_to_62_05",
+  "id": "ky_56_to_62_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"62",
-    "id":"021056062005",
-    "member":{
-        "56":{
-            "9520":{
-                "district":"5",
-                "name":"Turner, Oscar",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "4826":{
-                "district":"5",
-                "name":"Irwin, Harvey Samuel",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "8452":{
-                "district":"5",
-                "name":"Sherley, Joseph Swagar",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "8452":{
-                "district":"5",
-                "name":"Sherley, Joseph Swagar",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "8452":{
-                "district":"5",
-                "name":"Sherley, Joseph Swagar",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "8452":{
-                "district":"5",
-                "name":"Sherley, Joseph Swagar",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "8452":{
-                "district":"5",
-                "name":"Sherley, Joseph Swagar",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Kentucky"
+    "district":5,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"ky"
 },
   "bbox": [
     -85.94854,

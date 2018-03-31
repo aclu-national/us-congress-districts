@@ -1,46 +1,13 @@
 {
-  "id": "vt_18_to_18_00",
+  "id": "vt_18_to_18_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"18",
-    "id":"050018018000",
-    "member":{
-        "18":{
-            "1196":{
-                "district":"98",
-                "name":"Buck, Daniel Azro Ashley",
-                "party":"Adams-Clay Republican"
-            },
-            "2128":{
-                "district":"98",
-                "name":"Crafts, Samuel Chandler",
-                "party":"Adams-Clay Republican"
-            },
-            "5937":{
-                "district":"98",
-                "name":"Mallary, Rolin Carolas",
-                "party":"Adams-Clay Republican"
-            },
-            "7056":{
-                "district":"98",
-                "name":"Olin, Henry",
-                "party":"Adams-Clay Republican"
-            },
-            "7862":{
-                "district":"98",
-                "name":"Rich, Charles",
-                "party":"Republican"
-            },
-            "959":{
-                "district":"98",
-                "name":"Bradley, William Czar",
-                "party":"Adams-Clay Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Vermont"
+    "district":0,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"vt"
 },
   "bbox": [
     -73.43774,

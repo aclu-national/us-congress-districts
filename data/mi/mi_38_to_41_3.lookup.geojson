@@ -1,42 +1,13 @@
 {
-  "id": "mi_38_to_41_03",
+  "id": "mi_38_to_41_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"41",
-    "id":"026038041003",
-    "member":{
-        "38":{
-            "5771":{
-                "district":"3",
-                "name":"Longyear, John Wesley",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "5771":{
-                "district":"3",
-                "name":"Longyear, John Wesley",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "762":{
-                "district":"3",
-                "name":"Blair, Austin",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "762":{
-                "district":"3",
-                "name":"Blair, Austin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Michigan"
+    "district":3,
+    "end_date":"1871-03-03",
+    "end_session":41,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"mi"
 },
   "bbox": [
     -85.2994,

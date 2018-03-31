@@ -1,47 +1,13 @@
 {
-  "id": "tx_99_to_102_03",
+  "id": "tx_99_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"048099102003",
-    "member":{
-        "100":{
-            "15002":{
-                "district":"3",
-                "name":"Bartlett, Steve",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15002":{
-                "district":"3",
-                "name":"Bartlett, Steve",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15002":{
-                "district":"3",
-                "name":"Bartlett, Steve",
-                "party":"Republican"
-            },
-            "29143":{
-                "district":"3",
-                "name":"Johnson, Sam",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15002":{
-                "district":"3",
-                "name":"Bartlett, Steve",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Texas"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"tx"
 },
   "bbox": [
     -96.99338,

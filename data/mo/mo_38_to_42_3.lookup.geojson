@@ -1,59 +1,13 @@
 {
-  "id": "mo_38_to_42_03",
+  "id": "mo_38_to_42_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"42",
-    "id":"029038042003",
-    "member":{
-        "38":{
-            "6945":{
-                "district":"3",
-                "name":"Noell, John William",
-                "party":"Unconditional Unionist"
-            },
-            "8305":{
-                "district":"3",
-                "name":"Scott, John Guier",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "6946":{
-                "district":"3",
-                "name":"Noell, Thomas Estes",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "6179":{
-                "district":"3",
-                "name":"McCormick, James Robinson",
-                "party":"Democrat"
-            },
-            "6946":{
-                "district":"3",
-                "name":"Noell, Thomas Estes",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "6179":{
-                "district":"3",
-                "name":"McCormick, James Robinson",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "6179":{
-                "district":"3",
-                "name":"McCormick, James Robinson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Missouri"
+    "district":3,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"mo"
 },
   "bbox": [
     -91.80911,

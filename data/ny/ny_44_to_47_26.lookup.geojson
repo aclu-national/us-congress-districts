@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"47",
-    "id":"036044047026",
-    "member":{
-        "44":{
-            "5875":{
-                "district":"26",
-                "name":"MacDougall, Clinton Dugal",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "1440":{
-                "district":"26",
-                "name":"Camp, John Henry",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "1440":{
-                "district":"26",
-                "name":"Camp, John Henry",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "1440":{
-                "district":"26",
-                "name":"Camp, John Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -77.37471,

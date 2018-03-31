@@ -2,39 +2,12 @@
   "id": "il_78_to_80_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"80",
-    "id":"017078080019",
-    "member":{
-        "78":{
-            "6358":{
-                "district":"19",
-                "name":"McMillen, Rolla Coral",
-                "party":"Republican"
-            },
-            "9981":{
-                "district":"19",
-                "name":"Wheat, William Howard",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "6358":{
-                "district":"19",
-                "name":"McMillen, Rolla Coral",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "6358":{
-                "district":"19",
-                "name":"McMillen, Rolla Coral",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Illinois"
+    "district":19,
+    "end_date":"1948-12-31",
+    "end_session":80,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"il"
 },
   "bbox": [
     -89.2179,

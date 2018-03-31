@@ -1,35 +1,13 @@
 {
-  "id": "in_44_to_46_01",
+  "id": "in_44_to_46_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"46",
-    "id":"018044046001",
-    "member":{
-        "44":{
-            "3392":{
-                "district":"1",
-                "name":"Fuller, Benoni Stinson",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "3392":{
-                "district":"1",
-                "name":"Fuller, Benoni Stinson",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "4283":{
-                "district":"1",
-                "name":"Heilman, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

@@ -1,54 +1,13 @@
 {
-  "id": "sc_8_to_12_01",
+  "id": "sc_8_to_12_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"12",
-    "id":"045008012001",
-    "member":{
-        "10":{
-            "5981":{
-                "district":"1",
-                "name":"Marion, Robert",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "1688":{
-                "district":"1",
-                "name":"Cheves, Langdon",
-                "party":"Republican"
-            },
-            "5981":{
-                "district":"1",
-                "name":"Marion, Robert",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "1688":{
-                "district":"1",
-                "name":"Cheves, Langdon",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "5814":{
-                "district":"1",
-                "name":"Lowndes, Thomas",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "5981":{
-                "district":"1",
-                "name":"Marion, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"sc"
 },
   "bbox": [
     -80.50279,

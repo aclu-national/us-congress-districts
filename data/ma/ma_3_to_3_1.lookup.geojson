@@ -1,36 +1,13 @@
 {
-  "id": "ma_3_to_3_01",
+  "id": "ma_3_to_3_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"3",
-    "id":"025003003001",
-    "member":{
-        "3":{
-            "154":{
-                "district":"1",
-                "name":"Ames, Fisher",
-                "party":"Pro-Administration"
-            },
-            "2550":{
-                "district":"1",
-                "name":"Dexter, Samuel",
-                "party":"Pro-Administration"
-            },
-            "3674":{
-                "district":"1",
-                "name":"Goodhue, Benjamin",
-                "party":"Pro-Administration"
-            },
-            "4546":{
-                "district":"1",
-                "name":"Holten, Samuel",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1795-03-03",
+    "end_session":3,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ma"
 },
   "bbox": [
     -71.85842,

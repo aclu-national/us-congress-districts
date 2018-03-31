@@ -1,56 +1,13 @@
 {
-  "id": "tn_52_to_57_04",
+  "id": "tn_52_to_57_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"57",
-    "id":"047052057004",
-    "member":{
-        "52":{
-            "6359":{
-                "district":"4",
-                "name":"McMillin, Benton",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "6359":{
-                "district":"4",
-                "name":"McMillin, Benton",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "6359":{
-                "district":"4",
-                "name":"McMillin, Benton",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "6359":{
-                "district":"4",
-                "name":"McMillin, Benton",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "8723":{
-                "district":"4",
-                "name":"Snodgrass, Charles Edward",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "8723":{
-                "district":"4",
-                "name":"Snodgrass, Charles Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"tn"
 },
   "bbox": [
     -86.7548,

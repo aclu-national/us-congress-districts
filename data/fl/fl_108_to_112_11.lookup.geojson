@@ -2,48 +2,12 @@
   "id": "fl_108_to_112_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"112",
-    "id":"012108112011",
-    "member":{
-        "108":{
-            "29714":{
-                "district":"11",
-                "name":"Davis, Jim",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29714":{
-                "district":"11",
-                "name":"Davis, Jim",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20708":{
-                "district":"11",
-                "name":"Castor, Kathy",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20708":{
-                "district":"11",
-                "name":"Castor, Kathy",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20708":{
-                "district":"11",
-                "name":"Castor, Kathy",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Florida"
+    "district":11,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"fl"
 },
   "bbox": [
     -82.70522,

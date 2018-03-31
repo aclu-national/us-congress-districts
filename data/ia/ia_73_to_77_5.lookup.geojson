@@ -1,49 +1,13 @@
 {
-  "id": "ia_73_to_77_05",
+  "id": "ia_73_to_77_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"77",
-    "id":"019073077005",
-    "member":{
-        "73":{
-            "9372":{
-                "district":"5",
-                "name":"Thurston, Lloyd",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "9372":{
-                "district":"5",
-                "name":"Thurston, Lloyd",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "9372":{
-                "district":"5",
-                "name":"Thurston, Lloyd",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "5552":{
-                "district":"5",
-                "name":"Le Compte, Karl Miles",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "5552":{
-                "district":"5",
-                "name":"Le Compte, Karl Miles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Iowa"
+    "district":5,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ia"
 },
   "bbox": [
     -94.47176,

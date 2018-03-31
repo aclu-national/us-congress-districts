@@ -1,35 +1,13 @@
 {
-  "id": "wa_83_to_85_06",
+  "id": "wa_83_to_85_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"85",
-    "id":"053083085006",
-    "member":{
-        "83":{
-            "9409":{
-                "district":"6",
-                "name":"Tollefson, Thor Carl",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "9409":{
-                "district":"6",
-                "name":"Tollefson, Thor Carl",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "9409":{
-                "district":"6",
-                "name":"Tollefson, Thor Carl",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Washington"
+    "district":6,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"wa"
 },
   "bbox": [
     -122.84155,

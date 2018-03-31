@@ -1,68 +1,13 @@
 {
-  "id": "sc_58_to_64_04",
+  "id": "sc_58_to_64_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"64",
-    "id":"045058064004",
-    "member":{
-        "58":{
-            "4975":{
-                "district":"4",
-                "name":"Johnson, Joseph Travis",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "4975":{
-                "district":"4",
-                "name":"Johnson, Joseph Travis",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "4975":{
-                "district":"4",
-                "name":"Johnson, Joseph Travis",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "4975":{
-                "district":"4",
-                "name":"Johnson, Joseph Travis",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "4975":{
-                "district":"4",
-                "name":"Johnson, Joseph Travis",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "4975":{
-                "district":"4",
-                "name":"Johnson, Joseph Travis",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4975":{
-                "district":"4",
-                "name":"Johnson, Joseph Travis",
-                "party":"Democrat"
-            },
-            "6915":{
-                "district":"4",
-                "name":"Nicholls, Samuel Jones",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"South Carolina"
+    "district":4,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"sc"
 },
   "bbox": [
     -82.76446,

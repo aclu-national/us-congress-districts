@@ -1,35 +1,13 @@
 {
-  "id": "sc_45_to_47_01",
+  "id": "sc_45_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"045045047001",
-    "member":{
-        "45":{
-            "7693":{
-                "district":"1",
-                "name":"Rainey, Joseph Hayne",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "7880":{
-                "district":"1",
-                "name":"Richardson, John Smythe",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "7880":{
-                "district":"1",
-                "name":"Richardson, John Smythe",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"sc"
 },
   "bbox": [
     -80.64671,

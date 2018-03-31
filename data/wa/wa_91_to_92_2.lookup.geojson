@@ -1,28 +1,13 @@
 {
-  "id": "wa_91_to_92_02",
+  "id": "wa_91_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"053091092002",
-    "member":{
-        "91":{
-            "10756":{
-                "district":"2",
-                "name":"Meeds, Lloyd",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10756":{
-                "district":"2",
-                "name":"Meeds, Lloyd",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Washington"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"wa"
 },
   "bbox": [
     -124.76258,

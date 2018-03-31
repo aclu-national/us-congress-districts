@@ -2,25 +2,12 @@
   "id": "ca_93_to_93_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"93",
-    "id":"006093093013",
-    "member":{
-        "93":{
-            "14071":{
-                "district":"13",
-                "name":"Lagomarsino, Robert",
-                "party":"Republican"
-            },
-            "9240":{
-                "district":"13",
-                "name":"Teague, Charles McKevett",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"California"
+    "district":13,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ca"
 },
   "bbox": [
     -120.55432,

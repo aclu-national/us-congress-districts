@@ -1,70 +1,13 @@
 {
-  "id": "in_33_to_40_04",
+  "id": "in_33_to_40_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"40",
-    "id":"018033040004",
-    "member":{
-        "33":{
-            "5443":{
-                "district":"4",
-                "name":"Lane, James Henry",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "2245":{
-                "district":"4",
-                "name":"Cumback, William",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "3248":{
-                "district":"4",
-                "name":"Foley, James Bradford",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "4529":{
-                "district":"4",
-                "name":"Holman, William Steele",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "4529":{
-                "district":"4",
-                "name":"Holman, William Steele",
-                "party":"Democrat"
-            }
-        },
-        "38":{
-            "4529":{
-                "district":"4",
-                "name":"Holman, William Steele",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "3065":{
-                "district":"4",
-                "name":"Farquhar, John Hanson",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "4529":{
-                "district":"4",
-                "name":"Holman, William Steele",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Indiana"
+    "district":4,
+    "end_date":"1869-03-03",
+    "end_session":40,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"in"
 },
   "bbox": [
     -85.68745,

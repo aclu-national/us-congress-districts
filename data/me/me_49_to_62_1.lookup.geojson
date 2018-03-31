@@ -1,117 +1,13 @@
 {
-  "id": "me_49_to_62_01",
+  "id": "me_49_to_62_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"62",
-    "id":"023049062001",
-    "member":{
-        "49":{
-            "7795":{
-                "district":"1",
-                "name":"Reed, Thomas Brackett",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "7795":{
-                "district":"1",
-                "name":"Reed, Thomas Brackett",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "7795":{
-                "district":"1",
-                "name":"Reed, Thomas Brackett",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "7795":{
-                "district":"1",
-                "name":"Reed, Thomas Brackett",
-                "party":"Republican"
-            }
-        },
-        "53":{
-            "7795":{
-                "district":"1",
-                "name":"Reed, Thomas Brackett",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "7795":{
-                "district":"1",
-                "name":"Reed, Thomas Brackett",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "7795":{
-                "district":"1",
-                "name":"Reed, Thomas Brackett",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "7795":{
-                "district":"1",
-                "name":"Reed, Thomas Brackett",
-                "party":"Republican"
-            },
-            "98":{
-                "district":"1",
-                "name":"Allen, Amos Lawrence",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "98":{
-                "district":"1",
-                "name":"Allen, Amos Lawrence",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "98":{
-                "district":"1",
-                "name":"Allen, Amos Lawrence",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "98":{
-                "district":"1",
-                "name":"Allen, Amos Lawrence",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "98":{
-                "district":"1",
-                "name":"Allen, Amos Lawrence",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "98":{
-                "district":"1",
-                "name":"Allen, Amos Lawrence",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "4442":{
-                "district":"1",
-                "name":"Hinds, Asher Crosby",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Maine"
+    "district":1,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"me"
 },
   "bbox": [
     -70.98907,

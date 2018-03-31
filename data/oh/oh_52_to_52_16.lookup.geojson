@@ -2,25 +2,12 @@
   "id": "oh_52_to_52_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"52",
-    "id":"039052052016",
-    "member":{
-        "52":{
-            "7045":{
-                "district":"16",
-                "name":"Ohliger, Lewis Philip",
-                "party":"Democrat"
-            },
-            "9847":{
-                "district":"16",
-                "name":"Warwick, John George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Ohio"
+    "district":16,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"oh"
 },
   "bbox": [
     -82.22069,

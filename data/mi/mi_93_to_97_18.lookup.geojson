@@ -2,48 +2,12 @@
   "id": "mi_93_to_97_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"97",
-    "id":"026093097018",
-    "member":{
-        "93":{
-            "14023":{
-                "district":"18",
-                "name":"Huber, Robert",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14206":{
-                "district":"18",
-                "name":"Blanchard, James",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14206":{
-                "district":"18",
-                "name":"Blanchard, James",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14206":{
-                "district":"18",
-                "name":"Blanchard, James",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14206":{
-                "district":"18",
-                "name":"Blanchard, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Michigan"
+    "district":18,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mi"
 },
   "bbox": [
     -83.20922,

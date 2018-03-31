@@ -1,35 +1,13 @@
 {
-  "id": "mo_50_to_52_08",
+  "id": "mo_50_to_52_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"52",
-    "id":"029050052008",
-    "member":{
-        "50":{
-            "7080":{
-                "district":"8",
-                "name":"O'Neill, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "6928":{
-                "district":"8",
-                "name":"Niedringhaus, Frederick Gottlieb",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "7080":{
-                "district":"8",
-                "name":"O'Neill, John Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Missouri"
+    "district":8,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"mo"
 },
   "bbox": [
     -90.48417,

@@ -1,35 +1,13 @@
 {
-  "id": "in_44_to_46_07",
+  "id": "in_44_to_46_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"46",
-    "id":"018044046007",
-    "member":{
-        "44":{
-            "5429":{
-                "district":"7",
-                "name":"Landers, Franklin",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "4036":{
-                "district":"7",
-                "name":"Hanna, John",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "2474":{
-                "district":"7",
-                "name":"De La Matyr, Gilbert",
-                "party":"National Greenbacker"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Indiana"
+    "district":7,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"in"
 },
   "bbox": [
     -87.01494,

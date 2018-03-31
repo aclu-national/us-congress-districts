@@ -1,21 +1,13 @@
 {
-  "id": "pa_44_to_44_04",
+  "id": "pa_44_to_44_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"44",
-    "id":"042044044004",
-    "member":{
-        "44":{
-            "5140":{
-                "district":"4",
-                "name":"Kelley, William Darrah",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

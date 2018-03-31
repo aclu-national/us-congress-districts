@@ -1,119 +1,13 @@
 {
-  "id": "mo_58_to_72_09",
+  "id": "mo_58_to_72_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"72",
-    "id":"029058072009",
-    "member":{
-        "58":{
-            "1769":{
-                "district":"9",
-                "name":"Clark, James Beauchamp \"Champ\"",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "1769":{
-                "district":"9",
-                "name":"Clark, James Beauchamp \"Champ\"",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "1769":{
-                "district":"9",
-                "name":"Clark, James Beauchamp \"Champ\"",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "1769":{
-                "district":"9",
-                "name":"Clark, James Beauchamp \"Champ\"",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "1769":{
-                "district":"9",
-                "name":"Clark, James Beauchamp \"Champ\"",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "1769":{
-                "district":"9",
-                "name":"Clark, James Beauchamp \"Champ\"",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "1769":{
-                "district":"9",
-                "name":"Clark, James Beauchamp \"Champ\"",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "1769":{
-                "district":"9",
-                "name":"Clark, James Beauchamp \"Champ\"",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "1769":{
-                "district":"9",
-                "name":"Clark, James Beauchamp \"Champ\"",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "4710":{
-                "district":"9",
-                "name":"Hukriede, Theodore Waldem",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "1479":{
-                "district":"9",
-                "name":"Cannon, Clarence",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Missouri"
+    "district":9,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"mo"
 },
   "bbox": [
     -92.31443,

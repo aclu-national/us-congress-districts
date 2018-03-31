@@ -2,18 +2,12 @@
   "id": "va_113_to_115_11",
   "type": "Feature",
   "properties": {
-    "ALAND":479388902,
-    "AWATER":21677941,
-    "CD113FP":"11",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5111",
-    "INTPTLAT":"+38.7912640",
-    "INTPTLON":"-077.2942679",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 11",
-    "STATEFP":"51"
+    "district":11,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"va"
 },
   "bbox": [
     -77.468233,

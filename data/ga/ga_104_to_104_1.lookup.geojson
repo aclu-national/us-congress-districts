@@ -1,21 +1,13 @@
 {
-  "id": "ga_104_to_104_01",
+  "id": "ga_104_to_104_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"104",
-    "id":"013104104001",
-    "member":{
-        "104":{
-            "29338":{
-                "district":"1",
-                "name":"Kingston, Jack",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Georgia"
+    "district":1,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"ga"
 },
   "bbox": [
     -82.70126,

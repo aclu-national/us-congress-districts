@@ -1,49 +1,13 @@
 {
-  "id": "ga_65_to_69_05",
+  "id": "ga_65_to_69_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"69",
-    "id":"013065069005",
-    "member":{
-        "65":{
-            "4636":{
-                "district":"5",
-                "name":"Howard, William Schley",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "9571":{
-                "district":"5",
-                "name":"Upshaw, William David",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "9571":{
-                "district":"5",
-                "name":"Upshaw, William David",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "9571":{
-                "district":"5",
-                "name":"Upshaw, William David",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9571":{
-                "district":"5",
-                "name":"Upshaw, William David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Georgia"
+    "district":5,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ga"
 },
   "bbox": [
     -84.91106,

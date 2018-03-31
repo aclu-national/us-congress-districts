@@ -1,19 +1,13 @@
 {
-  "id": "fl_113_to_115_02",
+  "id": "fl_113_to_115_2",
   "type": "Feature",
   "properties": {
-    "ALAND":22309097812,
-    "AWATER":3786941632,
-    "CD113FP":"02",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1202",
-    "INTPTLAT":"+30.2827085",
-    "INTPTLON":"-084.7303769",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 2",
-    "STATEFP":"12"
+    "district":2,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"fl"
 },
   "bbox": [
     -85.999893,

@@ -1,40 +1,13 @@
 {
-  "id": "va_10_to_12_01",
+  "id": "va_10_to_12_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"12",
-    "id":"051010012001",
-    "member":{
-        "10":{
-            "4858":{
-                "district":"1",
-                "name":"Jackson, John George",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "4858":{
-                "district":"1",
-                "name":"Jackson, John George",
-                "party":"Republican"
-            },
-            "6311":{
-                "district":"1",
-                "name":"McKinley, William",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "10253":{
-                "district":"1",
-                "name":"Wilson, Thomas",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"10",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1807-10-26",
+    "start_session":10,
+    "state":"va"
 },
   "bbox": [
     -81.81415,

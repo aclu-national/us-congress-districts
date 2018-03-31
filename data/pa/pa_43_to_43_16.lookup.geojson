@@ -2,20 +2,12 @@
   "id": "pa_43_to_43_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"43",
-    "id":"042043043016",
-    "member":{
-        "43":{
-            "1612":{
-                "district":"16",
-                "name":"Cessna, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"pa"
 },
   "bbox": [
     -79.41756,

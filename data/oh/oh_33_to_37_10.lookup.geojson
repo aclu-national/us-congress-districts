@@ -2,48 +2,12 @@
   "id": "oh_33_to_37_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"37",
-    "id":"039033037010",
-    "member":{
-        "33":{
-            "9220":{
-                "district":"10",
-                "name":"Taylor, John Lampkin",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "6645":{
-                "district":"10",
-                "name":"Moore, Oscar Fitzallen",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "6497":{
-                "district":"10",
-                "name":"Miller, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "9471":{
-                "district":"10",
-                "name":"Trimble, Carey Allen",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "9471":{
-                "district":"10",
-                "name":"Trimble, Carey Allen",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":10,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -83.39401,

@@ -1,49 +1,13 @@
 {
-  "id": "nc_3_to_7_06",
+  "id": "nc_3_to_7_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"7",
-    "id":"037003007006",
-    "member":{
-        "3":{
-            "3594":{
-                "district":"6",
-                "name":"Gillespie, James",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "3594":{
-                "district":"6",
-                "name":"Gillespie, James",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "3594":{
-                "district":"6",
-                "name":"Gillespie, James",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "4426":{
-                "district":"6",
-                "name":"Hill, William Henry",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "4426":{
-                "district":"6",
-                "name":"Hill, William Henry",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"nc"
 },
   "bbox": [
     -79.07117,

@@ -2,48 +2,12 @@
   "id": "ca_103_to_107_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"107",
-    "id":"006103107011",
-    "member":{
-        "103":{
-            "29311":{
-                "district":"11",
-                "name":"Pombo, Richard W.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29311":{
-                "district":"11",
-                "name":"Pombo, Richard W.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29311":{
-                "district":"11",
-                "name":"Pombo, Richard W.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29311":{
-                "district":"11",
-                "name":"Pombo, Richard W.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29311":{
-                "district":"11",
-                "name":"Pombo, Richard W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"California"
+    "district":11,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ca"
 },
   "bbox": [
     -121.86246,

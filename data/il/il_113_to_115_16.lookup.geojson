@@ -2,18 +2,12 @@
   "id": "il_113_to_115_16",
   "type": "Feature",
   "properties": {
-    "ALAND":20506254270,
-    "AWATER":180761000,
-    "CD113FP":"16",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1716",
-    "INTPTLAT":"+41.3915234",
-    "INTPTLON":"-088.7991966",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 16",
-    "STATEFP":"17"
+    "district":16,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"il"
 },
   "bbox": [
     -89.868384,

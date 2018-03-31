@@ -2,27 +2,12 @@
   "id": "va_26_to_27_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"27",
-    "id":"051026027016",
-    "member":{
-        "26":{
-            "8192":{
-                "district":"16",
-                "name":"Samuels, Green Berry",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "4118":{
-                "district":"16",
-                "name":"Harris, William Alexander",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"26",
-    "statename":"Virginia"
+    "district":16,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1839-12-02",
+    "start_session":26,
+    "state":"va"
 },
   "bbox": [
     -80.05606,

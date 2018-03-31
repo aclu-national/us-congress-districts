@@ -1,21 +1,13 @@
 {
-  "id": "ca_93_to_93_04",
+  "id": "ca_93_to_93_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"93",
-    "id":"006093093004",
-    "member":{
-        "93":{
-            "10599":{
-                "district":"4",
-                "name":"Leggett, Robert L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"California"
+    "district":4,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ca"
 },
   "bbox": [
     -122.93841,

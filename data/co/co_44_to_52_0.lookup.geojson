@@ -1,82 +1,13 @@
 {
-  "id": "co_44_to_52_00",
+  "id": "co_44_to_52_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"52",
-    "id":"008044052000",
-    "member":{
-        "44":{
-            "593":{
-                "district":"1",
-                "name":"Belford, James Burns",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "593":{
-                "district":"1",
-                "name":"Belford, James Burns",
-                "party":"Republican"
-            },
-            "7255":{
-                "district":"1",
-                "name":"Patterson, Thomas MacDonald",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "593":{
-                "district":"1",
-                "name":"Belford, James Burns",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "593":{
-                "district":"1",
-                "name":"Belford, James Burns",
-                "party":"Republican"
-            }
-        },
-        "48":{
-            "593":{
-                "district":"1",
-                "name":"Belford, James Burns",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "9140":{
-                "district":"1",
-                "name":"Symes, George Gifford",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "9140":{
-                "district":"1",
-                "name":"Symes, George Gifford",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "9438":{
-                "district":"1",
-                "name":"Townsend, Hosea",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "9438":{
-                "district":"1",
-                "name":"Townsend, Hosea",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Colorado"
+    "district":0,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"co"
 },
   "bbox": [
     -109.06026,

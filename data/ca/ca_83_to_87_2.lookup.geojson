@@ -1,49 +1,13 @@
 {
-  "id": "ca_83_to_87_02",
+  "id": "ca_83_to_87_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"87",
-    "id":"006083087002",
-    "member":{
-        "83":{
-            "2965":{
-                "district":"2",
-                "name":"Engle, Clair",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "2965":{
-                "district":"2",
-                "name":"Engle, Clair",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "2965":{
-                "district":"2",
-                "name":"Engle, Clair",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "4957":{
-                "district":"2",
-                "name":"Johnson, Harold Terry",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "4957":{
-                "district":"2",
-                "name":"Johnson, Harold Terry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":2,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -123.71917,

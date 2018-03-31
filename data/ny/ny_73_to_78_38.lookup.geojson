@@ -2,55 +2,12 @@
   "id": "ny_73_to_78_38",
   "type": "Feature",
   "properties": {
-    "district":"38",
-    "endcong":"78",
-    "id":"036073078038",
-    "member":{
-        "73":{
-            "10068":{
-                "district":"38",
-                "name":"Whitley, James Lucius",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "2748":{
-                "district":"38",
-                "name":"Duffy, James Patrick Bern",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5150":{
-                "district":"38",
-                "name":"Kelly, George Bradshaw",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "7002":{
-                "district":"38",
-                "name":"O'Brien, Joseph John",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "7002":{
-                "district":"38",
-                "name":"O'Brien, Joseph John",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "7002":{
-                "district":"38",
-                "name":"O'Brien, Joseph John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":38,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -77.76023,

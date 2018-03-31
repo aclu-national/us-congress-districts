@@ -1,49 +1,13 @@
 {
-  "id": "mi_83_to_87_04",
+  "id": "mi_83_to_87_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"87",
-    "id":"026083087004",
-    "member":{
-        "83":{
-            "4487":{
-                "district":"4",
-                "name":"Hoffman, Clare Eugene",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4487":{
-                "district":"4",
-                "name":"Hoffman, Clare Eugene",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4487":{
-                "district":"4",
-                "name":"Hoffman, Clare Eugene",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "4487":{
-                "district":"4",
-                "name":"Hoffman, Clare Eugene",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "4487":{
-                "district":"4",
-                "name":"Hoffman, Clare Eugene",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Michigan"
+    "district":4,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mi"
 },
   "bbox": [
     -86.82483,

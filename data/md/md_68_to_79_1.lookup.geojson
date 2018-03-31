@@ -1,103 +1,13 @@
 {
-  "id": "md_68_to_79_01",
+  "id": "md_68_to_79_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"79",
-    "id":"024068079001",
-    "member":{
-        "68":{
-            "3656":{
-                "district":"1",
-                "name":"Goldsborough, Thomas Alan",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3656":{
-                "district":"1",
-                "name":"Goldsborough, Thomas Alan",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "3656":{
-                "district":"1",
-                "name":"Goldsborough, Thomas Alan",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "3656":{
-                "district":"1",
-                "name":"Goldsborough, Thomas Alan",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "3656":{
-                "district":"1",
-                "name":"Goldsborough, Thomas Alan",
-                "party":"Democrat"
-            }
-        },
-        "73":{
-            "3656":{
-                "district":"1",
-                "name":"Goldsborough, Thomas Alan",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "3656":{
-                "district":"1",
-                "name":"Goldsborough, Thomas Alan",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "3656":{
-                "district":"1",
-                "name":"Goldsborough, Thomas Alan",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3656":{
-                "district":"1",
-                "name":"Goldsborough, Thomas Alan",
-                "party":"Democrat"
-            },
-            "9811":{
-                "district":"1",
-                "name":"Ward, David Jenkins",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "9811":{
-                "district":"1",
-                "name":"Ward, David Jenkins",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "9811":{
-                "district":"1",
-                "name":"Ward, David Jenkins",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "8017":{
-                "district":"1",
-                "name":"Roe, Dudley George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"1946-08-02",
+    "end_session":79,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"md"
 },
   "bbox": [
     -76.38376,

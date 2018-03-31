@@ -2,34 +2,12 @@
   "id": "va_33_to_35_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"35",
-    "id":"051033035012",
-    "member":{
-        "33":{
-            "2857":{
-                "district":"12",
-                "name":"Edmundson, Henry Alonzo",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "2857":{
-                "district":"12",
-                "name":"Edmundson, Henry Alonzo",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "2857":{
-                "district":"12",
-                "name":"Edmundson, Henry Alonzo",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Virginia"
+    "district":12,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"va"
 },
   "bbox": [
     -82.64474,

@@ -2,18 +2,12 @@
   "id": "pa_113_to_115_17",
   "type": "Feature",
   "properties": {
-    "ALAND":4489067831,
-    "AWATER":59176497,
-    "CD113FP":"17",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4217",
-    "INTPTLAT":"+40.8854972",
-    "INTPTLON":"-075.7970882",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 17",
-    "STATEFP":"42"
+    "district":17,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"pa"
 },
   "bbox": [
     -76.701624,

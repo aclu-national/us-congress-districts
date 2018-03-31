@@ -2,27 +2,12 @@
   "id": "oh_28_to_29_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"29",
-    "id":"039028029018",
-    "member":{
-        "28":{
-            "2444":{
-                "district":"18",
-                "name":"Dean, Ezra",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "8852":{
-                "district":"18",
-                "name":"Starkweather, David Austin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":18,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -82.22509,

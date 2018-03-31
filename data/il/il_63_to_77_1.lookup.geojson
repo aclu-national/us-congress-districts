@@ -1,119 +1,13 @@
 {
-  "id": "il_63_to_77_01",
+  "id": "il_63_to_77_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"77",
-    "id":"017063077001",
-    "member":{
-        "63":{
-            "5899":{
-                "district":"1",
-                "name":"Madden, Martin Barnaby",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "5899":{
-                "district":"1",
-                "name":"Madden, Martin Barnaby",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "5899":{
-                "district":"1",
-                "name":"Madden, Martin Barnaby",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "5899":{
-                "district":"1",
-                "name":"Madden, Martin Barnaby",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5899":{
-                "district":"1",
-                "name":"Madden, Martin Barnaby",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "5899":{
-                "district":"1",
-                "name":"Madden, Martin Barnaby",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "5899":{
-                "district":"1",
-                "name":"Madden, Martin Barnaby",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "5899":{
-                "district":"1",
-                "name":"Madden, Martin Barnaby",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2521":{
-                "district":"1",
-                "name":"De Priest, Oscar",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2521":{
-                "district":"1",
-                "name":"De Priest, Oscar",
-                "party":"Republican"
-            }
-        },
-        "73":{
-            "2521":{
-                "district":"1",
-                "name":"De Priest, Oscar",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "6554":{
-                "district":"1",
-                "name":"Mitchell, Arthur Wergs",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "6554":{
-                "district":"1",
-                "name":"Mitchell, Arthur Wergs",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "6554":{
-                "district":"1",
-                "name":"Mitchell, Arthur Wergs",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "6554":{
-                "district":"1",
-                "name":"Mitchell, Arthur Wergs",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Illinois"
+    "district":1,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"il"
 },
   "bbox": [
     -87.64651,

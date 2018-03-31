@@ -1,49 +1,13 @@
 {
-  "id": "mi_93_to_97_01",
+  "id": "mi_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"026093097001",
-    "member":{
-        "93":{
-            "10713":{
-                "district":"1",
-                "name":"Conyers, John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10713":{
-                "district":"1",
-                "name":"Conyers, John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10713":{
-                "district":"1",
-                "name":"Conyers, John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10713":{
-                "district":"1",
-                "name":"Conyers, John, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "10713":{
-                "district":"1",
-                "name":"Conyers, John, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Michigan"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mi"
 },
   "bbox": [
     -83.20053,

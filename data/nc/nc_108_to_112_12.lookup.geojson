@@ -2,48 +2,12 @@
   "id": "nc_108_to_112_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"112",
-    "id":"037108112012",
-    "member":{
-        "108":{
-            "29383":{
-                "district":"12",
-                "name":"Watt, Melvin L.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29383":{
-                "district":"12",
-                "name":"Watt, Melvin L.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29383":{
-                "district":"12",
-                "name":"Watt, Melvin L.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29383":{
-                "district":"12",
-                "name":"Watt, Melvin L.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29383":{
-                "district":"12",
-                "name":"Watt, Melvin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"North Carolina"
+    "district":12,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nc"
 },
   "bbox": [
     -81.01112,

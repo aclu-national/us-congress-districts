@@ -1,21 +1,13 @@
 {
-  "id": "mi_63_to_63_05",
+  "id": "mi_63_to_63_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"63",
-    "id":"026063063005",
-    "member":{
-        "63":{
-            "5972":{
-                "district":"5",
-                "name":"Mapes, Carl Edgar",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Michigan"
+    "district":5,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"mi"
 },
   "bbox": [
     -86.27186,

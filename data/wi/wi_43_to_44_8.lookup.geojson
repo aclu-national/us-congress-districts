@@ -1,28 +1,13 @@
 {
-  "id": "wi_43_to_44_08",
+  "id": "wi_43_to_44_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"44",
-    "id":"055043044008",
-    "member":{
-        "43":{
-            "6214":{
-                "district":"8",
-                "name":"McDill, Alexander Stuart",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "1596":{
-                "district":"8",
-                "name":"Cate, George Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Wisconsin"
+    "district":8,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"wi"
 },
   "bbox": [
     -92.88943,

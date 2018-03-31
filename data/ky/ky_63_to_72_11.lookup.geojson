@@ -2,88 +2,12 @@
   "id": "ky_63_to_72_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"72",
-    "id":"021063072011",
-    "member":{
-        "63":{
-            "7577":{
-                "district":"11",
-                "name":"Powers, Caleb",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "7577":{
-                "district":"11",
-                "name":"Powers, Caleb",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "7577":{
-                "district":"11",
-                "name":"Powers, Caleb",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "7996":{
-                "district":"11",
-                "name":"Robsion, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "7996":{
-                "district":"11",
-                "name":"Robsion, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "7996":{
-                "district":"11",
-                "name":"Robsion, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "7996":{
-                "district":"11",
-                "name":"Robsion, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "7996":{
-                "district":"11",
-                "name":"Robsion, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "3152":{
-                "district":"11",
-                "name":"Finley, Charles",
-                "party":"Republican"
-            },
-            "7996":{
-                "district":"11",
-                "name":"Robsion, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "3152":{
-                "district":"11",
-                "name":"Finley, Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Kentucky"
+    "district":11,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ky"
 },
   "bbox": [
     -85.97741,

@@ -2,27 +2,12 @@
   "id": "ga_61_to_62_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"62",
-    "id":"013061062010",
-    "member":{
-        "61":{
-            "4060":{
-                "district":"10",
-                "name":"Hardwick, Thomas William",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "4060":{
-                "district":"10",
-                "name":"Hardwick, Thomas William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"61",
-    "statename":"Georgia"
+    "district":10,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1909-03-04",
+    "start_session":61,
+    "state":"ga"
 },
   "bbox": [
     -83.40719,

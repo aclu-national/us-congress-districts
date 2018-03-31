@@ -1,54 +1,13 @@
 {
-  "id": "nc_43_to_47_01",
+  "id": "nc_43_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"037043047001",
-    "member":{
-        "43":{
-            "1864":{
-                "district":"1",
-                "name":"Cobb, Clinton Levering",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "10423":{
-                "district":"1",
-                "name":"Yeates, Jesse Johnson",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "10423":{
-                "district":"1",
-                "name":"Yeates, Jesse Johnson",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "10423":{
-                "district":"1",
-                "name":"Yeates, Jesse Johnson",
-                "party":"Democrat"
-            },
-            "6032":{
-                "district":"1",
-                "name":"Martin, Joseph John",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "5489":{
-                "district":"1",
-                "name":"Latham, Louis Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"nc"
 },
   "bbox": [
     -77.7005,

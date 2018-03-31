@@ -1,49 +1,13 @@
 {
-  "id": "me_23_to_27_04",
+  "id": "me_23_to_27_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"27",
-    "id":"023023027004",
-    "member":{
-        "23":{
-            "3007":{
-                "district":"4",
-                "name":"Evans, George",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "3007":{
-                "district":"4",
-                "name":"Evans, George",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "3007":{
-                "district":"4",
-                "name":"Evans, George",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "3007":{
-                "district":"4",
-                "name":"Evans, George",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "1066":{
-                "district":"4",
-                "name":"Bronson, David",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Maine"
+    "district":4,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"me"
 },
   "bbox": [
     -70.55279,

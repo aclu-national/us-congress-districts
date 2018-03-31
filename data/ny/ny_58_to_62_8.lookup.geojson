@@ -1,54 +1,13 @@
 {
-  "id": "ny_58_to_62_08",
+  "id": "ny_58_to_62_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"62",
-    "id":"036058062008",
-    "member":{
-        "58":{
-            "9076":{
-                "district":"8",
-                "name":"Sullivan, Timothy Daniel",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "7911":{
-                "district":"8",
-                "name":"Riordan, Daniel Joseph",
-                "party":"Democrat"
-            },
-            "9076":{
-                "district":"8",
-                "name":"Sullivan, Timothy Daniel",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "7911":{
-                "district":"8",
-                "name":"Riordan, Daniel Joseph",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "7911":{
-                "district":"8",
-                "name":"Riordan, Daniel Joseph",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "7911":{
-                "district":"8",
-                "name":"Riordan, Daniel Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

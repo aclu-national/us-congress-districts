@@ -1,35 +1,13 @@
 {
-  "id": "wi_45_to_47_02",
+  "id": "wi_45_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"055045047002",
-    "member":{
-        "45":{
-            "1593":{
-                "district":"2",
-                "name":"Caswell, Lucien Bonaparte",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "1593":{
-                "district":"2",
-                "name":"Caswell, Lucien Bonaparte",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "1593":{
-                "district":"2",
-                "name":"Caswell, Lucien Bonaparte",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Wisconsin"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"wi"
 },
   "bbox": [
     -90.31244,

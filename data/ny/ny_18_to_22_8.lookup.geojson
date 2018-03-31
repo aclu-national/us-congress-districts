@@ -1,49 +1,13 @@
 {
-  "id": "ny_18_to_22_08",
+  "id": "ny_18_to_22_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"22",
-    "id":"036018022008",
-    "member":{
-        "18":{
-            "9029":{
-                "district":"8",
-                "name":"Strong, James",
-                "party":"Adams-Clay Federalist"
-            }
-        },
-        "19":{
-            "9029":{
-                "district":"8",
-                "name":"Strong, James",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "9029":{
-                "district":"8",
-                "name":"Strong, James",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "9029":{
-                "district":"8",
-                "name":"Strong, James",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "5263":{
-                "district":"8",
-                "name":"King, John",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -73.92963,

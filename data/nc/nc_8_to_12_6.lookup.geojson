@@ -1,49 +1,13 @@
 {
-  "id": "nc_8_to_12_06",
+  "id": "nc_8_to_12_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"12",
-    "id":"037008012006",
-    "member":{
-        "10":{
-            "5895":{
-                "district":"6",
-                "name":"Macon, Nathaniel",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "5895":{
-                "district":"6",
-                "name":"Macon, Nathaniel",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "5895":{
-                "district":"6",
-                "name":"Macon, Nathaniel",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "5895":{
-                "district":"6",
-                "name":"Macon, Nathaniel",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "5895":{
-                "district":"6",
-                "name":"Macon, Nathaniel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"nc"
 },
   "bbox": [
     -78.80756,

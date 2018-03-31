@@ -1,19 +1,13 @@
 {
-  "id": "ny_113_to_115_04",
+  "id": "ny_113_to_115_4",
   "type": "Feature",
   "properties": {
-    "ALAND":287092974,
-    "AWATER":168424775,
-    "CD113FP":"04",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3604",
-    "INTPTLAT":"+40.6369483",
-    "INTPTLON":"-073.6059099",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 4",
-    "STATEFP":"36"
+    "district":4,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ny"
 },
   "bbox": [
     -73.755701,

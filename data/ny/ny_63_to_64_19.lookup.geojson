@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"64",
-    "id":"036063064019",
-    "member":{
-        "63":{
-            "1640":{
-                "district":"19",
-                "name":"Chandler, Walter Marion",
-                "party":"Progressive"
-            }
-        },
-        "64":{
-            "1640":{
-                "district":"19",
-                "name":"Chandler, Walter Marion",
-                "party":"Progressive"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":19,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -73.98245,

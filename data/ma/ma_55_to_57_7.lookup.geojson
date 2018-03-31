@@ -1,35 +1,13 @@
 {
-  "id": "ma_55_to_57_07",
+  "id": "ma_55_to_57_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"57",
-    "id":"025055057007",
-    "member":{
-        "55":{
-            "466":{
-                "district":"7",
-                "name":"Barrett, William Emerson",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "7952":{
-                "district":"7",
-                "name":"Roberts, Ernest William",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "7952":{
-                "district":"7",
-                "name":"Roberts, Ernest William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"ma"
 },
   "bbox": [
     -71.12158,

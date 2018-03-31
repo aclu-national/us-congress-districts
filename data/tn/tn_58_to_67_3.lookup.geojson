@@ -1,84 +1,13 @@
 {
-  "id": "tn_58_to_67_03",
+  "id": "tn_58_to_67_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"67",
-    "id":"047058067003",
-    "member":{
-        "58":{
-            "6618":{
-                "district":"3",
-                "name":"Moon, John Austin",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "6618":{
-                "district":"3",
-                "name":"Moon, John Austin",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "6618":{
-                "district":"3",
-                "name":"Moon, John Austin",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "6618":{
-                "district":"3",
-                "name":"Moon, John Austin",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "6618":{
-                "district":"3",
-                "name":"Moon, John Austin",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "6618":{
-                "district":"3",
-                "name":"Moon, John Austin",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "6618":{
-                "district":"3",
-                "name":"Moon, John Austin",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "6618":{
-                "district":"3",
-                "name":"Moon, John Austin",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "6618":{
-                "district":"3",
-                "name":"Moon, John Austin",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1125":{
-                "district":"3",
-                "name":"Brown, Joseph Edgar",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"tn"
 },
   "bbox": [
     -86.33343,

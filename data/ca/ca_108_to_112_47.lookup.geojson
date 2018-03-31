@@ -2,48 +2,12 @@
   "id": "ca_108_to_112_47",
   "type": "Feature",
   "properties": {
-    "district":"47",
-    "endcong":"112",
-    "id":"006108112047",
-    "member":{
-        "108":{
-            "29709":{
-                "district":"47",
-                "name":"Sanchez, Loretta",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29709":{
-                "district":"47",
-                "name":"Sanchez, Loretta",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29709":{
-                "district":"47",
-                "name":"Sanchez, Loretta",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29709":{
-                "district":"47",
-                "name":"Sanchez, Loretta",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29709":{
-                "district":"47",
-                "name":"Sanchez, Loretta",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":47,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -117.99229,

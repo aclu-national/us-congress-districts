@@ -1,49 +1,13 @@
 {
-  "id": "ny_83_to_87_07",
+  "id": "ny_83_to_87_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"87",
-    "id":"036083087007",
-    "member":{
-        "83":{
-            "2476":{
-                "district":"7",
-                "name":"Delaney, James Joseph",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "2476":{
-                "district":"7",
-                "name":"Delaney, James Joseph",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "2476":{
-                "district":"7",
-                "name":"Delaney, James Joseph",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "2476":{
-                "district":"7",
-                "name":"Delaney, James Joseph",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "2476":{
-                "district":"7",
-                "name":"Delaney, James Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":7,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -73.96161,

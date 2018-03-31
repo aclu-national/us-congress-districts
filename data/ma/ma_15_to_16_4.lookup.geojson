@@ -1,28 +1,13 @@
 {
-  "id": "ma_15_to_16_04",
+  "id": "ma_15_to_16_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"16",
-    "id":"025015016004",
-    "member":{
-        "15":{
-            "3400":{
-                "district":"4",
-                "name":"Fuller, Timothy",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "3400":{
-                "district":"4",
-                "name":"Fuller, Timothy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"ma"
 },
   "bbox": [
     -71.62598,

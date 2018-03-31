@@ -1,21 +1,13 @@
 {
-  "id": "wa_86_to_86_01",
+  "id": "wa_86_to_86_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"86",
-    "id":"053086086001",
-    "member":{
-        "86":{
-            "7313":{
-                "district":"1",
-                "name":"Pelly, Thomas Minor",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"86",
-    "statename":"Washington"
+    "district":1,
+    "end_date":"1960-09-01",
+    "end_session":86,
+    "start_date":"1959-01-07",
+    "start_session":86,
+    "state":"wa"
 },
   "bbox": [
     -122.5938,

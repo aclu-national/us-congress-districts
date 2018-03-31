@@ -1,28 +1,13 @@
 {
-  "id": "wi_43_to_44_03",
+  "id": "wi_43_to_44_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"44",
-    "id":"055043044003",
-    "member":{
-        "43":{
-            "415":{
-                "district":"3",
-                "name":"Barber, Joel Allen",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "5914":{
-                "district":"3",
-                "name":"Magoon, Henry Sterling",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Wisconsin"
+    "district":3,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"wi"
 },
   "bbox": [
     -91.21506,

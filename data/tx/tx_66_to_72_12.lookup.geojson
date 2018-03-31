@@ -2,67 +2,12 @@
   "id": "tx_66_to_72_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"72",
-    "id":"048066072012",
-    "member":{
-        "66":{
-            "10233":{
-                "district":"12",
-                "name":"Wilson, James Clifton",
-                "party":"Democrat"
-            },
-            "5458":{
-                "district":"12",
-                "name":"Lanham, Fritz Garland",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5458":{
-                "district":"12",
-                "name":"Lanham, Fritz Garland",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "5458":{
-                "district":"12",
-                "name":"Lanham, Fritz Garland",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "5458":{
-                "district":"12",
-                "name":"Lanham, Fritz Garland",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "5458":{
-                "district":"12",
-                "name":"Lanham, Fritz Garland",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "5458":{
-                "district":"12",
-                "name":"Lanham, Fritz Garland",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "5458":{
-                "district":"12",
-                "name":"Lanham, Fritz Garland",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":12,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -98.55116,

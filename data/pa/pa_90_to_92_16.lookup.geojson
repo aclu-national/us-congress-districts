@@ -2,34 +2,12 @@
   "id": "pa_90_to_92_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"92",
-    "id":"042090092016",
-    "member":{
-        "90":{
-            "11016":{
-                "district":"16",
-                "name":"Eshleman, Edwin D.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11016":{
-                "district":"16",
-                "name":"Eshleman, Edwin D.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11016":{
-                "district":"16",
-                "name":"Eshleman, Edwin D.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"pa"
 },
   "bbox": [
     -76.80631,

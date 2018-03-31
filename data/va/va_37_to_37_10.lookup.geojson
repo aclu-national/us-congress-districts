@@ -2,20 +2,12 @@
   "id": "va_37_to_37_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"37",
-    "id":"051037037010",
-    "member":{
-        "37":{
-            "1137":{
-                "district":"10",
-                "name":"Brown, William Gay",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"37",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1861-03-04",
+    "start_session":37,
+    "state":"va"
 },
   "bbox": [
     -81.20107,

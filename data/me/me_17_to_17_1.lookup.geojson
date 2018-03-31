@@ -1,21 +1,13 @@
 {
-  "id": "me_17_to_17_01",
+  "id": "me_17_to_17_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"17",
-    "id":"023017017001",
-    "member":{
-        "17":{
-            "2318":{
-                "district":"1",
-                "name":"Dane, Joseph",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Maine"
+    "district":1,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"me"
 },
   "bbox": [
     -70.98796,

@@ -2,48 +2,12 @@
   "id": "il_83_to_87_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"87",
-    "id":"017083087010",
-    "member":{
-        "83":{
-            "4493":{
-                "district":"10",
-                "name":"Hoffman, Richard William",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4493":{
-                "district":"10",
-                "name":"Hoffman, Richard William",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "1941":{
-                "district":"10",
-                "name":"Collier, Harold Reginald",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "1941":{
-                "district":"10",
-                "name":"Collier, Harold Reginald",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "1941":{
-                "district":"10",
-                "name":"Collier, Harold Reginald",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":10,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -87.92046,

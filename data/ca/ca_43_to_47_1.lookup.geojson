@@ -1,49 +1,13 @@
 {
-  "id": "ca_43_to_47_01",
+  "id": "ca_43_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"006043047001",
-    "member":{
-        "43":{
-            "1820":{
-                "district":"1",
-                "name":"Clayton, Charles",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "7465":{
-                "district":"1",
-                "name":"Piper, William Adam",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "2386":{
-                "district":"1",
-                "name":"Davis, Horace",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "2386":{
-                "district":"1",
-                "name":"Davis, Horace",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "8063":{
-                "district":"1",
-                "name":"Rosecrans, William Starke",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"California"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ca"
 },
   "bbox": [
     -123.10803,

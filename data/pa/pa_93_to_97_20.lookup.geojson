@@ -2,48 +2,12 @@
   "id": "pa_93_to_97_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"97",
-    "id":"042093097020",
-    "member":{
-        "93":{
-            "11067":{
-                "district":"20",
-                "name":"Gaydos, Joseph M.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "11067":{
-                "district":"20",
-                "name":"Gaydos, Joseph M.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "11067":{
-                "district":"20",
-                "name":"Gaydos, Joseph M.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "11067":{
-                "district":"20",
-                "name":"Gaydos, Joseph M.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "11067":{
-                "district":"20",
-                "name":"Gaydos, Joseph M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":20,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -80.07271,

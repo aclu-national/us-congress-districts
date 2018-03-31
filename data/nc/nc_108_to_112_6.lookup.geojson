@@ -1,49 +1,13 @@
 {
-  "id": "nc_108_to_112_06",
+  "id": "nc_108_to_112_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"112",
-    "id":"037108112006",
-    "member":{
-        "108":{
-            "15092":{
-                "district":"6",
-                "name":"Coble, Howard",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "15092":{
-                "district":"6",
-                "name":"Coble, Howard",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "15092":{
-                "district":"6",
-                "name":"Coble, Howard",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "15092":{
-                "district":"6",
-                "name":"Coble, Howard",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "15092":{
-                "district":"6",
-                "name":"Coble, Howard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nc"
 },
   "bbox": [
     -80.69651,

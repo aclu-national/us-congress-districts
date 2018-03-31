@@ -1,49 +1,13 @@
 {
-  "id": "il_93_to_97_01",
+  "id": "il_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"017093097001",
-    "member":{
-        "93":{
-            "13030":{
-                "district":"1",
-                "name":"Metcalf, Ralph",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "13030":{
-                "district":"1",
-                "name":"Metcalf, Ralph",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "13030":{
-                "district":"1",
-                "name":"Metcalf, Ralph",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14665":{
-                "district":"1",
-                "name":"Stewart, Bennett Mcvey",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14866":{
-                "district":"1",
-                "name":"Washington, Harold",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Illinois"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"il"
 },
   "bbox": [
     -87.64436,

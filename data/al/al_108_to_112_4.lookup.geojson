@@ -1,49 +1,13 @@
 {
-  "id": "al_108_to_112_04",
+  "id": "al_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"001108112004",
-    "member":{
-        "108":{
-            "29701":{
-                "district":"4",
-                "name":"Aderholt, Robert B.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29701":{
-                "district":"4",
-                "name":"Aderholt, Robert B.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29701":{
-                "district":"4",
-                "name":"Aderholt, Robert B.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29701":{
-                "district":"4",
-                "name":"Aderholt, Robert B.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "29701":{
-                "district":"4",
-                "name":"Aderholt, Robert B.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Alabama"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"al"
 },
   "bbox": [
     -88.29108,

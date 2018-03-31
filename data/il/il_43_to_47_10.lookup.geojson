@@ -2,48 +2,12 @@
   "id": "il_43_to_47_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"47",
-    "id":"017043047010",
-    "member":{
-        "43":{
-            "7752":{
-                "district":"10",
-                "name":"Ray, William Henry",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "335":{
-                "district":"10",
-                "name":"Bagby, John Courts",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "5992":{
-                "district":"10",
-                "name":"Marsh, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "5992":{
-                "district":"10",
-                "name":"Marsh, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "5992":{
-                "district":"10",
-                "name":"Marsh, Benjamin Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":10,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -91.50727,

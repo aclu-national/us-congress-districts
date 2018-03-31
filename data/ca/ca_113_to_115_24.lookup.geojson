@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_24",
   "type": "Feature",
   "properties": {
-    "ALAND":17827585874,
-    "AWATER":3689047497,
-    "CD113FP":"24",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0624",
-    "INTPTLAT":"+34.9196335",
-    "INTPTLON":"-120.1128450",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 24",
-    "STATEFP":"06"
+    "district":24,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -121.438176,

@@ -1,28 +1,13 @@
 {
-  "id": "in_21_to_22_01",
+  "id": "in_21_to_22_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"22",
-    "id":"018021022001",
-    "member":{
-        "21":{
-            "852":{
-                "district":"1",
-                "name":"Boon, Ratliff",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "852":{
-                "district":"1",
-                "name":"Boon, Ratliff",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"21",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1829-03-04",
+    "start_session":21,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

@@ -2,60 +2,12 @@
   "id": "ny_73_to_78_42",
   "type": "Feature",
   "properties": {
-    "district":"42",
-    "endcong":"78",
-    "id":"036073078042",
-    "member":{
-        "73":{
-            "6394":{
-                "district":"42",
-                "name":"Mead, James Michael",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "6394":{
-                "district":"42",
-                "name":"Mead, James Michael",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "6394":{
-                "district":"42",
-                "name":"Mead, James Michael",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8289":{
-                "district":"42",
-                "name":"Schwert, Pius Louis",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "1340":{
-                "district":"42",
-                "name":"Butler, John Cornelius",
-                "party":"Republican"
-            },
-            "8289":{
-                "district":"42",
-                "name":"Schwert, Pius Louis",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "1340":{
-                "district":"42",
-                "name":"Butler, John Cornelius",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":42,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

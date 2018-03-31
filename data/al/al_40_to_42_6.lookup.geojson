@@ -1,35 +1,13 @@
 {
-  "id": "al_40_to_42_06",
+  "id": "al_40_to_42_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"42",
-    "id":"001040042006",
-    "member":{
-        "40":{
-            "4197":{
-                "district":"6",
-                "name":"Haughey, Thomas",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "8460":{
-                "district":"6",
-                "name":"Sherrod, William Crawford",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "8586":{
-                "district":"6",
-                "name":"Sloss, Joseph Humphrey",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Alabama"
+    "district":6,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"al"
 },
   "bbox": [
     -88.20723,

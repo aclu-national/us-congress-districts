@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"47",
-    "id":"036044047010",
-    "member":{
-        "44":{
-            "4375":{
-                "district":"10",
-                "name":"Hewitt, Abram Stevens",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "4375":{
-                "district":"10",
-                "name":"Hewitt, Abram Stevens",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "6999":{
-                "district":"10",
-                "name":"O'Brien, James",
-                "party":"Ind. Democrat"
-            }
-        },
-        "47":{
-            "4375":{
-                "district":"10",
-                "name":"Hewitt, Abram Stevens",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":10,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -73.98996,

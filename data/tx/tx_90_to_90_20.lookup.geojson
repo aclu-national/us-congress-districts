@@ -2,20 +2,12 @@
   "id": "tx_90_to_90_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"90",
-    "id":"048090090020",
-    "member":{
-        "90":{
-            "10520":{
-                "district":"20",
-                "name":"Gonzalez, Henry B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Texas"
+    "district":20,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"tx"
 },
   "bbox": [
     -98.64235,

@@ -1,54 +1,13 @@
 {
-  "id": "sc_28_to_32_01",
+  "id": "sc_28_to_32_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"32",
-    "id":"045028032001",
-    "member":{
-        "28":{
-            "745":{
-                "district":"1",
-                "name":"Black, James Augustus",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "745":{
-                "district":"1",
-                "name":"Black, James Augustus",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "745":{
-                "district":"1",
-                "name":"Black, James Augustus",
-                "party":"Democrat"
-            },
-            "9761":{
-                "district":"1",
-                "name":"Wallace, Daniel",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "9761":{
-                "district":"1",
-                "name":"Wallace, Daniel",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "9761":{
-                "district":"1",
-                "name":"Wallace, Daniel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"sc"
 },
   "bbox": [
     -82.22647,

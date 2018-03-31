@@ -1,21 +1,13 @@
 {
-  "id": "mo_33_to_33_07",
+  "id": "mo_33_to_33_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"33",
-    "id":"029033033007",
-    "member":{
-        "33":{
-            "1559":{
-                "district":"7",
-                "name":"Caruthers, Samuel",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Missouri"
+    "district":7,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"mo"
 },
   "bbox": [
     -91.80911,

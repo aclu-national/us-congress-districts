@@ -1,28 +1,13 @@
 {
-  "id": "ms_83_to_84_06",
+  "id": "ms_83_to_84_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"84",
-    "id":"028083084006",
-    "member":{
-        "83":{
-            "1952":{
-                "district":"6",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "1952":{
-                "district":"6",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Mississippi"
+    "district":6,
+    "end_date":"1956-07-27",
+    "end_session":84,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ms"
 },
   "bbox": [
     -90.24519,

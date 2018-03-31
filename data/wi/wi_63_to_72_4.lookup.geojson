@@ -1,84 +1,13 @@
 {
-  "id": "wi_63_to_72_04",
+  "id": "wi_63_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"055063072004",
-    "member":{
-        "63":{
-            "1567":{
-                "district":"4",
-                "name":"Cary, William Joseph",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "1567":{
-                "district":"4",
-                "name":"Cary, William Joseph",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "1567":{
-                "district":"4",
-                "name":"Cary, William Joseph",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "5316":{
-                "district":"4",
-                "name":"Kleczka, John Casimir",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5316":{
-                "district":"4",
-                "name":"Kleczka, John Casimir",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "8253":{
-                "district":"4",
-                "name":"Schafer, John Charles",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "8253":{
-                "district":"4",
-                "name":"Schafer, John Charles",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "8253":{
-                "district":"4",
-                "name":"Schafer, John Charles",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8253":{
-                "district":"4",
-                "name":"Schafer, John Charles",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "8253":{
-                "district":"4",
-                "name":"Schafer, John Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Wisconsin"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"wi"
 },
   "bbox": [
     -88.06991,

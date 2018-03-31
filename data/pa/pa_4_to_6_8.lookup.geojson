@@ -1,40 +1,13 @@
 {
-  "id": "pa_4_to_6_08",
+  "id": "pa_4_to_6_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"6",
-    "id":"042004006008",
-    "member":{
-        "4":{
-            "4156":{
-                "district":"8",
-                "name":"Hartley, Thomas",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "4156":{
-                "district":"8",
-                "name":"Hartley, Thomas",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "4156":{
-                "district":"8",
-                "name":"Hartley, Thomas",
-                "party":"Federalist"
-            },
-            "8938":{
-                "district":"8",
-                "name":"Stewart, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"pa"
 },
   "bbox": [
     -77.47162,

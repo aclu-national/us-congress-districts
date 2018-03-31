@@ -2,41 +2,12 @@
   "id": "pa_58_to_61_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"61",
-    "id":"042058061031",
-    "member":{
-        "58":{
-            "7535":{
-                "district":"31",
-                "name":"Porter, Henry Kirke",
-                "party":"Ind. Republican"
-            }
-        },
-        "59":{
-            "1266":{
-                "district":"31",
-                "name":"Burke, James Francis",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "1266":{
-                "district":"31",
-                "name":"Burke, James Francis",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "1266":{
-                "district":"31",
-                "name":"Burke, James Francis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Pennsylvania"
+    "district":31,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"pa"
 },
   "bbox": [
     -80.01969,

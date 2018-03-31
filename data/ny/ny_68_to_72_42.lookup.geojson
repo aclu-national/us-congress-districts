@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_42",
   "type": "Feature",
   "properties": {
-    "district":"42",
-    "endcong":"72",
-    "id":"036068072042",
-    "member":{
-        "68":{
-            "6394":{
-                "district":"42",
-                "name":"Mead, James Michael",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "6394":{
-                "district":"42",
-                "name":"Mead, James Michael",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "6394":{
-                "district":"42",
-                "name":"Mead, James Michael",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "6394":{
-                "district":"42",
-                "name":"Mead, James Michael",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "6394":{
-                "district":"42",
-                "name":"Mead, James Michael",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":42,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

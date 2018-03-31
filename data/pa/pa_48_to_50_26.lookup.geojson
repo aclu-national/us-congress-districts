@@ -2,34 +2,12 @@
   "id": "pa_48_to_50_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"50",
-    "id":"042048050026",
-    "member":{
-        "48":{
-            "6507":{
-                "district":"26",
-                "name":"Miller, Samuel Henry",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "3209":{
-                "district":"26",
-                "name":"Fleeger, George Washington",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "3949":{
-                "district":"26",
-                "name":"Hall, Norman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":26,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

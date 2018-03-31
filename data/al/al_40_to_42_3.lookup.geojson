@@ -1,35 +1,13 @@
 {
-  "id": "al_40_to_42_03",
+  "id": "al_40_to_42_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"42",
-    "id":"001040042003",
-    "member":{
-        "40":{
-            "6959":{
-                "district":"3",
-                "name":"Norris, Benjamin White",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "4281":{
-                "district":"3",
-                "name":"Heflin, Robert Stell",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "4032":{
-                "district":"3",
-                "name":"Handley, William Anderson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Alabama"
+    "district":3,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"al"
 },
   "bbox": [
     -86.52228,

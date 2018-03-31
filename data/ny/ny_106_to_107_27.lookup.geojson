@@ -2,27 +2,12 @@
   "id": "ny_106_to_107_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"107",
-    "id":"036106107027",
-    "member":{
-        "106":{
-            "29928":{
-                "district":"27",
-                "name":"Reynolds, Thomas M.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29928":{
-                "district":"27",
-                "name":"Reynolds, Thomas M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"106",
-    "statename":"New York"
+    "district":27,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1999-01-06",
+    "start_session":106,
+    "state":"ny"
 },
   "bbox": [
     -78.83226,

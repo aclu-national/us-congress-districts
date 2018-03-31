@@ -2,20 +2,12 @@
   "id": "tx_107_to_107_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"107",
-    "id":"048107107016",
-    "member":{
-        "107":{
-            "29764":{
-                "district":"16",
-                "name":"Reyes, Silvestre",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"107",
-    "statename":"Texas"
+    "district":16,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"2001-01-03",
+    "start_session":107,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

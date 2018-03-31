@@ -1,21 +1,13 @@
 {
-  "id": "tx_50_to_50_03",
+  "id": "tx_50_to_50_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"50",
-    "id":"048050050003",
-    "member":{
-        "50":{
-            "5237":{
-                "district":"3",
-                "name":"Kilgore, Constantine Buck",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Texas"
+    "district":3,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"tx"
 },
   "bbox": [
     -96.29735,

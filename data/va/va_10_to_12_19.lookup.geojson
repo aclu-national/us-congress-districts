@@ -2,34 +2,12 @@
   "id": "va_10_to_12_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"12",
-    "id":"051010012019",
-    "member":{
-        "10":{
-            "3763":{
-                "district":"19",
-                "name":"Gray, Edwin",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "3763":{
-                "district":"19",
-                "name":"Gray, Edwin",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "3763":{
-                "district":"19",
-                "name":"Gray, Edwin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"10",
-    "statename":"Virginia"
+    "district":19,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1807-10-26",
+    "start_session":10,
+    "state":"va"
 },
   "bbox": [
     -77.61903,

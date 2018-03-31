@@ -1,49 +1,13 @@
 {
-  "id": "ks_73_to_77_01",
+  "id": "ks_73_to_77_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"77",
-    "id":"020073077001",
-    "member":{
-        "73":{
-            "5422":{
-                "district":"1",
-                "name":"Lambertson, William Purnell",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "5422":{
-                "district":"1",
-                "name":"Lambertson, William Purnell",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "5422":{
-                "district":"1",
-                "name":"Lambertson, William Purnell",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "5422":{
-                "district":"1",
-                "name":"Lambertson, William Purnell",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "5422":{
-                "district":"1",
-                "name":"Lambertson, William Purnell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Kansas"
+    "district":1,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ks"
 },
   "bbox": [
     -97.3691,

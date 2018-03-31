@@ -1,28 +1,13 @@
 {
-  "id": "in_41_to_42_05",
+  "id": "in_41_to_42_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"42",
-    "id":"018041042005",
-    "member":{
-        "41":{
-            "1876":{
-                "district":"5",
-                "name":"Coburn, John",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "1876":{
-                "district":"5",
-                "name":"Coburn, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Indiana"
+    "district":5,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"in"
 },
   "bbox": [
     -87.01494,

@@ -1,112 +1,13 @@
 {
-  "id": "mn_74_to_87_02",
+  "id": "mn_74_to_87_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"87",
-    "id":"027074087002",
-    "member":{
-        "74":{
-            "8155":{
-                "district":"2",
-                "name":"Ryan, Elmer James",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8155":{
-                "district":"2",
-                "name":"Ryan, Elmer James",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8155":{
-                "district":"2",
-                "name":"Ryan, Elmer James",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "7044":{
-                "district":"2",
-                "name":"O'Hara, Joseph P.",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "7044":{
-                "district":"2",
-                "name":"O'Hara, Joseph P.",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "7044":{
-                "district":"2",
-                "name":"O'Hara, Joseph P.",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "7044":{
-                "district":"2",
-                "name":"O'Hara, Joseph P.",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7044":{
-                "district":"2",
-                "name":"O'Hara, Joseph P.",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "7044":{
-                "district":"2",
-                "name":"O'Hara, Joseph P.",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "7044":{
-                "district":"2",
-                "name":"O'Hara, Joseph P.",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "7044":{
-                "district":"2",
-                "name":"O'Hara, Joseph P.",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "7044":{
-                "district":"2",
-                "name":"O'Hara, Joseph P.",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "6860":{
-                "district":"2",
-                "name":"Nelsen, Ancher",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "6860":{
-                "district":"2",
-                "name":"Nelsen, Ancher",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Minnesota"
+    "district":2,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mn"
 },
   "bbox": [
     -95.46289,

@@ -2,20 +2,12 @@
   "id": "ny_43_to_43_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"43",
-    "id":"036043043031",
-    "member":{
-        "43":{
-            "502":{
-                "district":"31",
-                "name":"Bass, Lyman Kidder",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

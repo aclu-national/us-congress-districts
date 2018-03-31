@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"82",
-    "id":"036079082012",
-    "member":{
-        "79":{
-            "8049":{
-                "district":"12",
-                "name":"Rooney, John James",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "8049":{
-                "district":"12",
-                "name":"Rooney, John James",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "8049":{
-                "district":"12",
-                "name":"Rooney, John James",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "8049":{
-                "district":"12",
-                "name":"Rooney, John James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -74.03696,

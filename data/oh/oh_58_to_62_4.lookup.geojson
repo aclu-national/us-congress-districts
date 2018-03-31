@@ -1,49 +1,13 @@
 {
-  "id": "oh_58_to_62_04",
+  "id": "oh_58_to_62_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"62",
-    "id":"039058062004",
-    "member":{
-        "58":{
-            "3456":{
-                "district":"4",
-                "name":"Garber, Harvey Cable",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "3456":{
-                "district":"4",
-                "name":"Garber, Harvey Cable",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "9426":{
-                "district":"4",
-                "name":"Tou Velle, William Ellsworth",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "9426":{
-                "district":"4",
-                "name":"Tou Velle, William Ellsworth",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "3643":{
-                "district":"4",
-                "name":"Goeke, John Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"oh"
 },
   "bbox": [
     -84.81241,

@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_36",
   "type": "Feature",
   "properties": {
-    "ALAND":18456277442,
-    "AWATER":1241924534,
-    "CD113FP":"36",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4836",
-    "INTPTLAT":"+30.4291930",
-    "INTPTLON":"-094.4314897",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 36",
-    "STATEFP":"48"
+    "district":36,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -95.21867,

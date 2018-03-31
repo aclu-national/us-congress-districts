@@ -2,53 +2,12 @@
   "id": "ma_65_to_69_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"69",
-    "id":"025065069016",
-    "member":{
-        "65":{
-            "9785":{
-                "district":"16",
-                "name":"Walsh, Joseph",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "9785":{
-                "district":"16",
-                "name":"Walsh, Joseph",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "3569":{
-                "district":"16",
-                "name":"Gifford, Charles Laceille",
-                "party":"Republican"
-            },
-            "9785":{
-                "district":"16",
-                "name":"Walsh, Joseph",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "3569":{
-                "district":"16",
-                "name":"Gifford, Charles Laceille",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "3569":{
-                "district":"16",
-                "name":"Gifford, Charles Laceille",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Massachusetts"
+    "district":16,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ma"
 },
   "bbox": [
     -71.07642,

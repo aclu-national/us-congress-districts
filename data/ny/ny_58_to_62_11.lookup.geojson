@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"62",
-    "id":"036058062011",
-    "member":{
-        "58":{
-            "4267":{
-                "district":"11",
-                "name":"Hearst, William Randolph",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "4267":{
-                "district":"11",
-                "name":"Hearst, William Randolph",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "3280":{
-                "district":"11",
-                "name":"Fornes, Charles Vincent",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "3280":{
-                "district":"11",
-                "name":"Fornes, Charles Vincent",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "3280":{
-                "district":"11",
-                "name":"Fornes, Charles Vincent",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -74.01375,

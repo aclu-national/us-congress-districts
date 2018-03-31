@@ -2,34 +2,12 @@
   "id": "ca_88_to_90_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"90",
-    "id":"006088090019",
-    "member":{
-        "88":{
-            "4514":{
-                "district":"19",
-                "name":"Holifield, Chet",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "4514":{
-                "district":"19",
-                "name":"Holifield, Chet",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "4514":{
-                "district":"19",
-                "name":"Holifield, Chet",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":19,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -118.1681,

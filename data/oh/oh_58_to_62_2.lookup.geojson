@@ -1,49 +1,13 @@
 {
-  "id": "oh_58_to_62_02",
+  "id": "oh_58_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"039058062002",
-    "member":{
-        "58":{
-            "3642":{
-                "district":"2",
-                "name":"Goebel, Herman Philip",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "3642":{
-                "district":"2",
-                "name":"Goebel, Herman Philip",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3642":{
-                "district":"2",
-                "name":"Goebel, Herman Philip",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3642":{
-                "district":"2",
-                "name":"Goebel, Herman Philip",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "97":{
-                "district":"2",
-                "name":"Allen, Alfred Gaither",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

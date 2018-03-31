@@ -2,53 +2,12 @@
   "id": "pa_38_to_42_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"42",
-    "id":"042038042020",
-    "member":{
-        "38":{
-            "6835":{
-                "district":"20",
-                "name":"Myers, Amos",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "2243":{
-                "district":"20",
-                "name":"Culver, Charles Vernon",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "3157":{
-                "district":"20",
-                "name":"Finney, Darwin Abel",
-                "party":"Republican"
-            },
-            "7380":{
-                "district":"20",
-                "name":"Pettis, Solomon Newton",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "3584":{
-                "district":"20",
-                "name":"Gilfillan, Calvin Willard",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "3829":{
-                "district":"20",
-                "name":"Griffith, Samuel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Pennsylvania"
+    "district":20,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

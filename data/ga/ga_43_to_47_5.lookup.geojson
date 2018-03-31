@@ -1,49 +1,13 @@
 {
-  "id": "ga_43_to_47_05",
+  "id": "ga_43_to_47_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"47",
-    "id":"013043047005",
-    "member":{
-        "43":{
-            "3355":{
-                "district":"5",
-                "name":"Freeman, James Crawford",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "1475":{
-                "district":"5",
-                "name":"Candler, Milton Anthony",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "1475":{
-                "district":"5",
-                "name":"Candler, Milton Anthony",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "4009":{
-                "district":"5",
-                "name":"Hammond, Nathaniel Job",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "4009":{
-                "district":"5",
-                "name":"Hammond, Nathaniel Job",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Georgia"
+    "district":5,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ga"
 },
   "bbox": [
     -84.62718,

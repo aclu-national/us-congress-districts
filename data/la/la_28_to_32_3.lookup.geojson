@@ -1,54 +1,13 @@
 {
-  "id": "la_28_to_32_03",
+  "id": "la_28_to_32_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"32",
-    "id":"022028032003",
-    "member":{
-        "28":{
-            "2427":{
-                "district":"3",
-                "name":"Dawson, John Bennett",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4079":{
-                "district":"3",
-                "name":"Harmanson, John Henry",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "4079":{
-                "district":"3",
-                "name":"Harmanson, John Henry",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "4079":{
-                "district":"3",
-                "name":"Harmanson, John Henry",
-                "party":"Democrat"
-            },
-            "7326":{
-                "district":"3",
-                "name":"Penn, Alexander Gordon",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "7326":{
-                "district":"3",
-                "name":"Penn, Alexander Gordon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Louisiana"
+    "district":3,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"la"
 },
   "bbox": [
     -92.81478,

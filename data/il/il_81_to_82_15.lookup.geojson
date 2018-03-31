@@ -2,27 +2,12 @@
   "id": "il_81_to_82_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"82",
-    "id":"017081082015",
-    "member":{
-        "81":{
-            "6061":{
-                "district":"15",
-                "name":"Mason, Noah Morgan",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "6061":{
-                "district":"15",
-                "name":"Mason, Noah Morgan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"81",
-    "statename":"Illinois"
+    "district":15,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1949-01-03",
+    "start_session":81,
+    "state":"il"
 },
   "bbox": [
     -89.1672,

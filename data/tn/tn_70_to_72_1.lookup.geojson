@@ -1,35 +1,13 @@
 {
-  "id": "tn_70_to_72_01",
+  "id": "tn_70_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"047070072001",
-    "member":{
-        "70":{
-            "7777":{
-                "district":"1",
-                "name":"Reece, Brazilla Carroll",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "7777":{
-                "district":"1",
-                "name":"Reece, Brazilla Carroll",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5802":{
-                "district":"1",
-                "name":"Lovette, Oscar Byrd",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"tn"
 },
   "bbox": [
     -83.9994,

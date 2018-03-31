@@ -1,54 +1,13 @@
 {
-  "id": "pa_33_to_37_07",
+  "id": "pa_33_to_37_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"37",
-    "id":"042033037007",
-    "member":{
-        "33":{
-            "1028":{
-                "district":"7",
-                "name":"Bridges, Samuel Augustus",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "962":{
-                "district":"7",
-                "name":"Bradshaw, Samuel Carey",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "1654":{
-                "district":"7",
-                "name":"Chapman, Henry",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "5769":{
-                "district":"7",
-                "name":"Longnecker, Henry Clay",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "2057":{
-                "district":"7",
-                "name":"Cooper, Thomas Buchecker",
-                "party":"Democrat"
-            },
-            "8950":{
-                "district":"7",
-                "name":"Stiles, John Dodson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -75.89147,

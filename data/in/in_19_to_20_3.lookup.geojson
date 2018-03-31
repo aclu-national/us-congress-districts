@@ -1,28 +1,13 @@
 {
-  "id": "in_19_to_20_03",
+  "id": "in_19_to_20_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"20",
-    "id":"018019020003",
-    "member":{
-        "19":{
-            "9266":{
-                "district":"3",
-                "name":"Test, John",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "8674":{
-                "district":"3",
-                "name":"Smith, Oliver Hampton",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1829-03-03",
+    "end_session":20,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"in"
 },
   "bbox": [
     -85.68745,

@@ -2,20 +2,12 @@
   "id": "ny_91_to_91_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"91",
-    "id":"036091091026",
-    "member":{
-        "91":{
-            "10618":{
-                "district":"26",
-                "name":"Reid, Ogden R.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ny"
 },
   "bbox": [
     -73.87776,

@@ -2,27 +2,12 @@
   "id": "tx_88_to_89_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"89",
-    "id":"048088089012",
-    "member":{
-        "88":{
-            "10391":{
-                "district":"12",
-                "name":"Wright, James Claud, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10391":{
-                "district":"12",
-                "name":"Wright, James Claud, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Texas"
+    "district":12,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"tx"
 },
   "bbox": [
     -97.55058,

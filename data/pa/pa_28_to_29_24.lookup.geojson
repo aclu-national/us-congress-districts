@@ -2,27 +2,12 @@
   "id": "pa_28_to_29_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"29",
-    "id":"042028029024",
-    "member":{
-        "28":{
-            "1219":{
-                "district":"24",
-                "name":"Buffington, Joseph",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "1219":{
-                "district":"24",
-                "name":"Buffington, Joseph",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":24,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -80.16529,

@@ -1,98 +1,13 @@
 {
-  "id": "in_78_to_89_08",
+  "id": "in_78_to_89_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"89",
-    "id":"018078089008",
-    "member":{
-        "78":{
-            "5400":{
-                "district":"8",
-                "name":"La Follette, Charles Marion",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "5400":{
-                "district":"8",
-                "name":"La Follette, Charles Marion",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "6557":{
-                "district":"8",
-                "name":"Mitchell, Edward Archibald",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "2517":{
-                "district":"8",
-                "name":"Denton, Winfield Kirkpatrick",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2517":{
-                "district":"8",
-                "name":"Denton, Winfield Kirkpatrick",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "6429":{
-                "district":"8",
-                "name":"Merrill, D. Bailey",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "2517":{
-                "district":"8",
-                "name":"Denton, Winfield Kirkpatrick",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "2517":{
-                "district":"8",
-                "name":"Denton, Winfield Kirkpatrick",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "2517":{
-                "district":"8",
-                "name":"Denton, Winfield Kirkpatrick",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "2517":{
-                "district":"8",
-                "name":"Denton, Winfield Kirkpatrick",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "2517":{
-                "district":"8",
-                "name":"Denton, Winfield Kirkpatrick",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "2517":{
-                "district":"8",
-                "name":"Denton, Winfield Kirkpatrick",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Indiana"
+    "district":8,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

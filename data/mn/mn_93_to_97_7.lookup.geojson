@@ -1,54 +1,13 @@
 {
-  "id": "mn_93_to_97_07",
+  "id": "mn_93_to_97_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"97",
-    "id":"027093097007",
-    "member":{
-        "93":{
-            "13007":{
-                "district":"7",
-                "name":"Bergland, Robert",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "13007":{
-                "district":"7",
-                "name":"Bergland, Robert",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "13007":{
-                "district":"7",
-                "name":"Bergland, Robert",
-                "party":"Democrat"
-            },
-            "14466":{
-                "district":"7",
-                "name":"Stangeland, Arlan",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14466":{
-                "district":"7",
-                "name":"Stangeland, Arlan",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14466":{
-                "district":"7",
-                "name":"Stangeland, Arlan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Minnesota"
+    "district":7,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mn"
 },
   "bbox": [
     -97.23921,

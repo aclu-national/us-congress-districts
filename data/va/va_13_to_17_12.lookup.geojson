@@ -2,48 +2,12 @@
   "id": "va_13_to_17_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"17",
-    "id":"051013017012",
-    "member":{
-        "13":{
-            "7935":{
-                "district":"12",
-                "name":"Roane, John",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "7937":{
-                "district":"12",
-                "name":"Roane, William Henry",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "3485":{
-                "district":"12",
-                "name":"Garnett, Robert Selden",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "3485":{
-                "district":"12",
-                "name":"Garnett, Robert Selden",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "3485":{
-                "district":"12",
-                "name":"Garnett, Robert Selden",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":12,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -77.64328,

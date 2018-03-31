@@ -2,20 +2,12 @@
   "id": "ny_91_to_91_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"91",
-    "id":"036091091032",
-    "member":{
-        "91":{
-            "7467":{
-                "district":"32",
-                "name":"Pirnie, Alexander",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New York"
+    "district":32,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ny"
 },
   "bbox": [
     -75.99368,

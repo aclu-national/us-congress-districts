@@ -2,27 +2,12 @@
   "id": "tx_105_to_106_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"106",
-    "id":"048105106030",
-    "member":{
-        "105":{
-            "39305":{
-                "district":"30",
-                "name":"Johnson, Eddie Bernice",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "39305":{
-                "district":"30",
-                "name":"Johnson, Eddie Bernice",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Texas"
+    "district":30,
+    "end_date":"2000-12-15",
+    "end_session":106,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"tx"
 },
   "bbox": [
     -97.0344,

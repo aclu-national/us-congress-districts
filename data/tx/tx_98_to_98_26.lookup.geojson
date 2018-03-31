@@ -2,20 +2,12 @@
   "id": "tx_98_to_98_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"98",
-    "id":"048098098026",
-    "member":{
-        "98":{
-            "15074":{
-                "district":"26",
-                "name":"Vandergriff, Tommy J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Texas"
+    "district":26,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"tx"
 },
   "bbox": [
     -97.55058,

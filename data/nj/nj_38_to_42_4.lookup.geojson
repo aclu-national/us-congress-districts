@@ -1,49 +1,13 @@
 {
-  "id": "nj_38_to_42_04",
+  "id": "nj_38_to_42_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"42",
-    "id":"034038042004",
-    "member":{
-        "38":{
-            "8019":{
-                "district":"4",
-                "name":"Rogers, Andrew Jackson",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "8019":{
-                "district":"4",
-                "name":"Rogers, Andrew Jackson",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "4414":{
-                "district":"4",
-                "name":"Hill, John",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "4414":{
-                "district":"4",
-                "name":"Hill, John",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "4414":{
-                "district":"4",
-                "name":"Hill, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New Jersey"
+    "district":4,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"nj"
 },
   "bbox": [
     -74.99202,

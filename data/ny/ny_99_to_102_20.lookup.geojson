@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"102",
-    "id":"036099102020",
-    "member":{
-        "100":{
-            "15095":{
-                "district":"20",
-                "name":"Dioguardi, Joseph D.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15612":{
-                "district":"20",
-                "name":"Lowey, Nita M.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15612":{
-                "district":"20",
-                "name":"Lowey, Nita M.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15095":{
-                "district":"20",
-                "name":"Dioguardi, Joseph D.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -73.90711,

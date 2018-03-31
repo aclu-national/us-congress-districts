@@ -1,54 +1,13 @@
 {
-  "id": "ky_18_to_22_02",
+  "id": "ky_18_to_22_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"22",
-    "id":"021018022002",
-    "member":{
-        "18":{
-            "6446":{
-                "district":"2",
-                "name":"Metcalfe, Thomas",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "6446":{
-                "district":"2",
-                "name":"Metcalfe, Thomas",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "1630":{
-                "district":"2",
-                "name":"Chambers, John",
-                "party":"Adams"
-            },
-            "6446":{
-                "district":"2",
-                "name":"Metcalfe, Thomas",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "1933":{
-                "district":"2",
-                "name":"Coleman, Nicholas Daniel",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "6007":{
-                "district":"2",
-                "name":"Marshall, Thomas Alexander",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Kentucky"
+    "district":2,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ky"
 },
   "bbox": [
     -84.44261,

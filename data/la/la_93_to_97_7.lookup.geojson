@@ -1,49 +1,13 @@
 {
-  "id": "la_93_to_97_07",
+  "id": "la_93_to_97_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"97",
-    "id":"022093097007",
-    "member":{
-        "93":{
-            "13056":{
-                "district":"7",
-                "name":"Breaux, John B.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "13056":{
-                "district":"7",
-                "name":"Breaux, John B.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "13056":{
-                "district":"7",
-                "name":"Breaux, John B.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "13056":{
-                "district":"7",
-                "name":"Breaux, John B.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "13056":{
-                "district":"7",
-                "name":"Breaux, John B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Louisiana"
+    "district":7,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"la"
 },
   "bbox": [
     -93.9053,

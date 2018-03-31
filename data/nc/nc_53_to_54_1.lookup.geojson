@@ -1,28 +1,13 @@
 {
-  "id": "nc_53_to_54_01",
+  "id": "nc_53_to_54_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"54",
-    "id":"037053054001",
-    "member":{
-        "53":{
-            "974":{
-                "district":"1",
-                "name":"Branch, William Augustus",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "8560":{
-                "district":"1",
-                "name":"Skinner, Harry",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"nc"
 },
   "bbox": [
     -77.7005,

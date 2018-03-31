@@ -2,34 +2,12 @@
   "id": "tx_83_to_85_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"85",
-    "id":"048083085016",
-    "member":{
-        "83":{
-            "7806":{
-                "district":"16",
-                "name":"Regan, Kenneth Mills",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "8147":{
-                "district":"16",
-                "name":"Rutherford, J. T.",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "8147":{
-                "district":"16",
-                "name":"Rutherford, J. T.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Texas"
+    "district":16,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

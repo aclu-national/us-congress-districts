@@ -1,54 +1,13 @@
 {
-  "id": "nc_73_to_77_01",
+  "id": "nc_73_to_77_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"77",
-    "id":"037073077001",
-    "member":{
-        "73":{
-            "9844":{
-                "district":"1",
-                "name":"Warren, Lindsay Carter",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "9844":{
-                "district":"1",
-                "name":"Warren, Lindsay Carter",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "9844":{
-                "district":"1",
-                "name":"Warren, Lindsay Carter",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "846":{
-                "district":"1",
-                "name":"Bonner, Herbert Covington",
-                "party":"Democrat"
-            },
-            "9844":{
-                "district":"1",
-                "name":"Warren, Lindsay Carter",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "846":{
-                "district":"1",
-                "name":"Bonner, Herbert Covington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"nc"
 },
   "bbox": [
     -77.7005,

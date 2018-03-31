@@ -1,54 +1,13 @@
 {
-  "id": "ok_103_to_107_01",
+  "id": "ok_103_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"040103107001",
-    "member":{
-        "103":{
-            "15424":{
-                "district":"1",
-                "name":"Inhofe, James M",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29554":{
-                "district":"1",
-                "name":"Largent, Steve",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29554":{
-                "district":"1",
-                "name":"Largent, Steve",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29554":{
-                "district":"1",
-                "name":"Largent, Steve",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "20131":{
-                "district":"1",
-                "name":"Sullivan, John",
-                "party":"Republican"
-            },
-            "29554":{
-                "district":"1",
-                "name":"Largent, Steve",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Oklahoma"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ok"
 },
   "bbox": [
     -96.29809,

@@ -2,41 +2,12 @@
   "id": "pa_23_to_26_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"26",
-    "id":"042023026019",
-    "member":{
-        "23":{
-            "2092":{
-                "district":"19",
-                "name":"Coulter, Richard",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "5323":{
-                "district":"19",
-                "name":"Klingensmith, John Jr.",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "5323":{
-                "district":"19",
-                "name":"Klingensmith, John Jr.",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "5975":{
-                "district":"19",
-                "name":"Marchand, Albert Gallatin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":19,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -79.90495,

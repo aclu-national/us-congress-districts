@@ -2,20 +2,12 @@
   "id": "pa_83_to_83_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"83",
-    "id":"042083083015",
-    "member":{
-        "83":{
-            "9791":{
-                "district":"15",
-                "name":"Walter, Francis Eugene",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1954-12-02",
+    "end_session":83,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"pa"
 },
   "bbox": [
     -75.99735,

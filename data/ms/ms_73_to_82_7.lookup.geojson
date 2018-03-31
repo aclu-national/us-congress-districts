@@ -1,84 +1,13 @@
 {
-  "id": "ms_73_to_82_07",
+  "id": "ms_73_to_82_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"82",
-    "id":"028073082007",
-    "member":{
-        "73":{
-            "2940":{
-                "district":"7",
-                "name":"Ellzey, Lawrence Russell",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "6250":{
-                "district":"7",
-                "name":"McGehee, Daniel Rayford",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "6250":{
-                "district":"7",
-                "name":"McGehee, Daniel Rayford",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "6250":{
-                "district":"7",
-                "name":"McGehee, Daniel Rayford",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "6250":{
-                "district":"7",
-                "name":"McGehee, Daniel Rayford",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "6250":{
-                "district":"7",
-                "name":"McGehee, Daniel Rayford",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "6250":{
-                "district":"7",
-                "name":"McGehee, Daniel Rayford",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "10162":{
-                "district":"7",
-                "name":"Williams, John Bell",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "10162":{
-                "district":"7",
-                "name":"Williams, John Bell",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "10162":{
-                "district":"7",
-                "name":"Williams, John Bell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Mississippi"
+    "district":7,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ms"
 },
   "bbox": [
     -91.65501,

@@ -1,49 +1,13 @@
 {
-  "id": "mi_48_to_52_03",
+  "id": "mi_48_to_52_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"52",
-    "id":"026048052003",
-    "member":{
-        "48":{
-            "5390":{
-                "district":"3",
-                "name":"Lacey, Edward Samuel",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "7027":{
-                "district":"3",
-                "name":"O'Donnell, James",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "7027":{
-                "district":"3",
-                "name":"O'Donnell, James",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "7027":{
-                "district":"3",
-                "name":"O'Donnell, James",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "7027":{
-                "district":"3",
-                "name":"O'Donnell, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Michigan"
+    "district":3,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mi"
 },
   "bbox": [
     -85.54552,

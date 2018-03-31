@@ -1,33 +1,13 @@
 {
-  "id": "tx_88_to_89_08",
+  "id": "tx_88_to_89_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"89",
-    "id":"048088089008",
-    "member":{
-        "88":{
-            "9284":{
-                "district":"8",
-                "name":"Thomas, Albert",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10792":{
-                "district":"8",
-                "name":"Thomas, Lera",
-                "party":"Democrat"
-            },
-            "9284":{
-                "district":"8",
-                "name":"Thomas, Albert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Texas"
+    "district":8,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"tx"
 },
   "bbox": [
     -95.96078,

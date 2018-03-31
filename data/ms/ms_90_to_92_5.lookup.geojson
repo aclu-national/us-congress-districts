@@ -1,35 +1,13 @@
 {
-  "id": "ms_90_to_92_05",
+  "id": "ms_90_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"028090092005",
-    "member":{
-        "90":{
-            "1952":{
-                "district":"5",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "1952":{
-                "district":"5",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "1952":{
-                "district":"5",
-                "name":"Colmer, William Meyers",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Mississippi"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"ms"
 },
   "bbox": [
     -90.24519,

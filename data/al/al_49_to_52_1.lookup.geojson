@@ -1,42 +1,13 @@
 {
-  "id": "al_49_to_52_01",
+  "id": "al_49_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"001049052001",
-    "member":{
-        "49":{
-            "5043":{
-                "district":"1",
-                "name":"Jones, James Taylor",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "5043":{
-                "district":"1",
-                "name":"Jones, James Taylor",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "1799":{
-                "district":"1",
-                "name":"Clarke, Richard Henry",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "1799":{
-                "district":"1",
-                "name":"Clarke, Richard Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Alabama"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

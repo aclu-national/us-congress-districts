@@ -1,35 +1,13 @@
 {
-  "id": "va_33_to_35_07",
+  "id": "va_33_to_35_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"35",
-    "id":"051033035007",
-    "member":{
-        "33":{
-            "8697":{
-                "district":"7",
-                "name":"Smith, William",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "8697":{
-                "district":"7",
-                "name":"Smith, William",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "8697":{
-                "district":"7",
-                "name":"Smith, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"va"
 },
   "bbox": [
     -78.36979,

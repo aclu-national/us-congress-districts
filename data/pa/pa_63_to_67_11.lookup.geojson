@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"67",
-    "id":"042063067011",
-    "member":{
-        "63":{
-            "1572":{
-                "district":"11",
-                "name":"Casey, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "1572":{
-                "district":"11",
-                "name":"Casey, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "9251":{
-                "district":"11",
-                "name":"Templeton, Thomas Weir",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "1572":{
-                "district":"11",
-                "name":"Casey, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "2091":{
-                "district":"11",
-                "name":"Coughlin, Clarence Dennis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -76.31974,

@@ -1,49 +1,13 @@
 {
-  "id": "ut_93_to_97_02",
+  "id": "ut_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"049093097002",
-    "member":{
-        "93":{
-            "14042":{
-                "district":"2",
-                "name":"Owens, Wayne",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14236":{
-                "district":"2",
-                "name":"Howe, Allan",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14438":{
-                "district":"2",
-                "name":"Marriott, Dan",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14438":{
-                "district":"2",
-                "name":"Marriott, Dan",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14438":{
-                "district":"2",
-                "name":"Marriott, Dan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Utah"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ut"
 },
   "bbox": [
     -114.053,

@@ -2,20 +2,12 @@
   "id": "ny_48_to_48_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"48",
-    "id":"036048048031",
-    "member":{
-        "48":{
-            "8916":{
-                "district":"31",
-                "name":"Stevens, Robert Smith",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

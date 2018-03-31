@@ -2,25 +2,12 @@
   "id": "pa_43_to_43_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"43",
-    "id":"042043043023",
-    "member":{
-        "43":{
-            "6282":{
-                "district":"23",
-                "name":"McJunkin, Ebenezer",
-                "party":"Republican"
-            },
-            "9331":{
-                "district":"23",
-                "name":"Thompson, John McCandless",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Pennsylvania"
+    "district":23,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"pa"
 },
   "bbox": [
     -80.22832,

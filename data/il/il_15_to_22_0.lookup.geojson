@@ -1,70 +1,13 @@
 {
-  "id": "il_15_to_22_00",
+  "id": "il_15_to_22_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"22",
-    "id":"017015022000",
-    "member":{
-        "15":{
-            "6338":{
-                "district":"1",
-                "name":"McLean, John",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "2015":{
-                "district":"1",
-                "name":"Cook, Daniel Pope",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "2015":{
-                "district":"1",
-                "name":"Cook, Daniel Pope",
-                "party":"Republican"
-            }
-        },
-        "18":{
-            "2015":{
-                "district":"1",
-                "name":"Cook, Daniel Pope",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "2015":{
-                "district":"1",
-                "name":"Cook, Daniel Pope",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "2760":{
-                "district":"1",
-                "name":"Duncan, Joseph",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2760":{
-                "district":"1",
-                "name":"Duncan, Joseph",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "2760":{
-                "district":"1",
-                "name":"Duncan, Joseph",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Illinois"
+    "district":0,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"il"
 },
   "bbox": [
     -91.51308,

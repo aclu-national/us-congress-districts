@@ -1,26 +1,13 @@
 {
-  "id": "ny_65_to_65_08",
+  "id": "ny_65_to_65_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"65",
-    "id":"036065065008",
-    "member":{
-        "65":{
-            "1826":{
-                "district":"8",
-                "name":"Cleary, William Edward",
-                "party":"Democrat"
-            },
-            "3819":{
-                "district":"8",
-                "name":"Griffin, Daniel Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -74.04215,

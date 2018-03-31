@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_34",
   "type": "Feature",
   "properties": {
-    "district":"34",
-    "endcong":"102",
-    "id":"036099102034",
-    "member":{
-        "100":{
-            "15423":{
-                "district":"34",
-                "name":"Houghton, Amory \"Amo\", Jr.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15423":{
-                "district":"34",
-                "name":"Houghton, Amory \"Amo\", Jr.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15423":{
-                "district":"34",
-                "name":"Houghton, Amory \"Amo\", Jr.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14289":{
-                "district":"34",
-                "name":"Lundine, Stanley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":34,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -79.76238,

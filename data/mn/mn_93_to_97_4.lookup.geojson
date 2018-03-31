@@ -1,49 +1,13 @@
 {
-  "id": "mn_93_to_97_04",
+  "id": "mn_93_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"027093097004",
-    "member":{
-        "93":{
-            "5098":{
-                "district":"4",
-                "name":"Karth, Joseph Edward",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "5098":{
-                "district":"4",
-                "name":"Karth, Joseph Edward",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14458":{
-                "district":"4",
-                "name":"Vento, Bruce",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14458":{
-                "district":"4",
-                "name":"Vento, Bruce",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14458":{
-                "district":"4",
-                "name":"Vento, Bruce",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Minnesota"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mn"
 },
   "bbox": [
     -93.22792,

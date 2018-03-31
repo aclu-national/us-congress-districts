@@ -1,28 +1,13 @@
 {
-  "id": "oh_28_to_29_07",
+  "id": "oh_28_to_29_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"29",
-    "id":"039028029007",
-    "member":{
-        "28":{
-            "6231":{
-                "district":"7",
-                "name":"McDowell, Joseph Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "6231":{
-                "district":"7",
-                "name":"McDowell, Joseph Jefferson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":7,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -84.31964,

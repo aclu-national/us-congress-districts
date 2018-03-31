@@ -2,20 +2,12 @@
   "id": "mi_63_to_63_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"63",
-    "id":"026063063010",
-    "member":{
-        "63":{
-            "10348":{
-                "district":"10",
-                "name":"Woodruff, Roy Orchard",
-                "party":"Progressive"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Michigan"
+    "district":10,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"mi"
 },
   "bbox": [
     -85.11974,

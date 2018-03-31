@@ -1,21 +1,13 @@
 {
-  "id": "ga_60_to_60_07",
+  "id": "ga_60_to_60_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"60",
-    "id":"013060060007",
-    "member":{
-        "60":{
-            "5558":{
-                "district":"7",
-                "name":"Lee, Gordon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ga"
 },
   "bbox": [
     -85.60517,

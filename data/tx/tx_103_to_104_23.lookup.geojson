@@ -2,27 +2,12 @@
   "id": "tx_103_to_104_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"104",
-    "id":"048103104023",
-    "member":{
-        "103":{
-            "39302":{
-                "district":"23",
-                "name":"Bonilla, Henry",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "39302":{
-                "district":"23",
-                "name":"Bonilla, Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Texas"
+    "district":23,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"tx"
 },
   "bbox": [
     -106.42854,

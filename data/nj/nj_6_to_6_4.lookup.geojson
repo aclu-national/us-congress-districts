@@ -1,21 +1,13 @@
 {
-  "id": "nj_6_to_6_04",
+  "id": "nj_6_to_6_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"6",
-    "id":"034006006004",
-    "member":{
-        "6":{
-            "4800":{
-                "district":"4",
-                "name":"Imlay, James Henderson",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"6",
-    "statename":"New Jersey"
+    "district":4,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1799-12-02",
+    "start_session":6,
+    "state":"nj"
 },
   "bbox": [
     -75.05452,

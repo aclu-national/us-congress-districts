@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"87",
-    "id":"036083087014",
-    "member":{
-        "83":{
-            "8049":{
-                "district":"14",
-                "name":"Rooney, John James",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "8049":{
-                "district":"14",
-                "name":"Rooney, John James",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "8049":{
-                "district":"14",
-                "name":"Rooney, John James",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "8049":{
-                "district":"14",
-                "name":"Rooney, John James",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "8049":{
-                "district":"14",
-                "name":"Rooney, John James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -74.03696,

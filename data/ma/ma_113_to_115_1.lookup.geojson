@@ -1,19 +1,13 @@
 {
-  "id": "ma_113_to_115_01",
+  "id": "ma_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":6087288902,
-    "AWATER":129395582,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2501",
-    "INTPTLAT":"+42.3310362",
-    "INTPTLON":"-072.8641678",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"25"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ma"
 },
   "bbox": [
     -73.508142,

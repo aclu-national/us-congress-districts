@@ -1,21 +1,13 @@
 {
-  "id": "la_92_to_92_01",
+  "id": "la_92_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"022092092001",
-    "member":{
-        "92":{
-            "4275":{
-                "district":"1",
-                "name":"Hebert, Felix Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"Louisiana"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"la"
 },
   "bbox": [
     -90.1167,

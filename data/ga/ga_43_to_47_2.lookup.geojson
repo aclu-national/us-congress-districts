@@ -1,49 +1,13 @@
 {
-  "id": "ga_43_to_47_02",
+  "id": "ga_43_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"013043047002",
-    "member":{
-        "43":{
-            "10058":{
-                "district":"2",
-                "name":"Whiteley, Richard Henry",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "8700":{
-                "district":"2",
-                "name":"Smith, William Ephraim",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "8700":{
-                "district":"2",
-                "name":"Smith, William Ephraim",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "8700":{
-                "district":"2",
-                "name":"Smith, William Ephraim",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "9516":{
-                "district":"2",
-                "name":"Turner, Henry Gray",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Georgia"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ga"
 },
   "bbox": [
     -85.14193,

@@ -1,33 +1,13 @@
 {
-  "id": "ma_43_to_44_04",
+  "id": "ma_43_to_44_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"44",
-    "id":"025043044004",
-    "member":{
-        "43":{
-            "4559":{
-                "district":"4",
-                "name":"Hooper, Samuel",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "3381":{
-                "district":"4",
-                "name":"Frost, Rufus Smith",
-                "party":"Republican"
-            },
-            "7":{
-                "district":"4",
-                "name":"Abbott, Josiah Gardner",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ma"
 },
   "bbox": [
     -71.09552,

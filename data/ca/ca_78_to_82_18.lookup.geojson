@@ -2,48 +2,12 @@
   "id": "ca_78_to_82_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"82",
-    "id":"006078082018",
-    "member":{
-        "78":{
-            "4999":{
-                "district":"18",
-                "name":"Johnson, William Ward",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "2713":{
-                "district":"18",
-                "name":"Doyle, Clyde Gilman",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "961":{
-                "district":"18",
-                "name":"Bradley, Willis Winter",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "2713":{
-                "district":"18",
-                "name":"Doyle, Clyde Gilman",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2713":{
-                "district":"18",
-                "name":"Doyle, Clyde Gilman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":18,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -118.28047,

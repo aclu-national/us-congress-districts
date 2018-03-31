@@ -2,20 +2,12 @@
   "id": "ny_17_to_17_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"17",
-    "id":"036017017021",
-    "member":{
-        "17":{
-            "8782":{
-                "district":"21",
-                "name":"Spencer, Elijah",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ny"
 },
   "bbox": [
     -77.99729,

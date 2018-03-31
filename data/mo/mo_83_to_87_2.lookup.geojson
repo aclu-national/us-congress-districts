@@ -1,49 +1,13 @@
 {
-  "id": "mo_83_to_87_02",
+  "id": "mo_83_to_87_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"87",
-    "id":"029083087002",
-    "member":{
-        "83":{
-            "2275":{
-                "district":"2",
-                "name":"Curtis, Thomas Bradford",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "2275":{
-                "district":"2",
-                "name":"Curtis, Thomas Bradford",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "2275":{
-                "district":"2",
-                "name":"Curtis, Thomas Bradford",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "2275":{
-                "district":"2",
-                "name":"Curtis, Thomas Bradford",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "2275":{
-                "district":"2",
-                "name":"Curtis, Thomas Bradford",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Missouri"
+    "district":2,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mo"
 },
   "bbox": [
     -90.73653,

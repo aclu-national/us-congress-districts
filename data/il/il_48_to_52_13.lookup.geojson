@@ -2,48 +2,12 @@
   "id": "il_48_to_52_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"52",
-    "id":"017048052013",
-    "member":{
-        "48":{
-            "8815":{
-                "district":"13",
-                "name":"Springer, William McKendree",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "8815":{
-                "district":"13",
-                "name":"Springer, William McKendree",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "8815":{
-                "district":"13",
-                "name":"Springer, William McKendree",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "8815":{
-                "district":"13",
-                "name":"Springer, William McKendree",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "8815":{
-                "district":"13",
-                "name":"Springer, William McKendree",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":13,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -90.5991,

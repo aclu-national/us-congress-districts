@@ -2,48 +2,12 @@
   "id": "oh_33_to_37_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"37",
-    "id":"039033037017",
-    "member":{
-        "33":{
-            "8404":{
-                "district":"17",
-                "name":"Shannon, Wilson",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "66":{
-                "district":"17",
-                "name":"Albright, Charles Jeffers",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "5517":{
-                "district":"17",
-                "name":"Lawrence, William",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "9279":{
-                "district":"17",
-                "name":"Theaker, Thomas Clarke",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "6705":{
-                "district":"17",
-                "name":"Morris, James Remley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -81.72861,

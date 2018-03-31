@@ -1,42 +1,13 @@
 {
-  "id": "nc_33_to_36_04",
+  "id": "nc_33_to_36_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"36",
-    "id":"037033036004",
-    "member":{
-        "33":{
-            "8033":{
-                "district":"4",
-                "name":"Rogers, Sion Hart",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "973":{
-                "district":"4",
-                "name":"Branch, Lawrence O'Bryan",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "973":{
-                "district":"4",
-                "name":"Branch, Lawrence O'Bryan",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "973":{
-                "district":"4",
-                "name":"Branch, Lawrence O'Bryan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"nc"
 },
   "bbox": [
     -79.26458,

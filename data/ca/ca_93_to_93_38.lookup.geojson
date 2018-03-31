@@ -2,20 +2,12 @@
   "id": "ca_93_to_93_38",
   "type": "Feature",
   "properties": {
-    "district":"38",
-    "endcong":"93",
-    "id":"006093093038",
-    "member":{
-        "93":{
-            "10573":{
-                "district":"38",
-                "name":"Brown, George E., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"California"
+    "district":38,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ca"
 },
   "bbox": [
     -117.80289,

@@ -1,49 +1,13 @@
 {
-  "id": "ga_43_to_47_07",
+  "id": "ga_43_to_47_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"47",
-    "id":"013043047007",
-    "member":{
-        "43":{
-            "10451":{
-                "district":"7",
-                "name":"Young, Pierce Manning Butler",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "3100":{
-                "district":"7",
-                "name":"Felton, William Harrell",
-                "party":"Ind. Democrat"
-            }
-        },
-        "45":{
-            "3100":{
-                "district":"7",
-                "name":"Felton, William Harrell",
-                "party":"Ind. Democrat"
-            }
-        },
-        "46":{
-            "3100":{
-                "district":"7",
-                "name":"Felton, William Harrell",
-                "party":"Ind. Democrat"
-            }
-        },
-        "47":{
-            "1833":{
-                "district":"7",
-                "name":"Clements, Judson Claudius",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ga"
 },
   "bbox": [
     -85.60517,

@@ -1,31 +1,13 @@
 {
-  "id": "pa_27_to_27_04",
+  "id": "pa_27_to_27_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"27",
-    "id":"042027027004",
-    "member":{
-        "27":{
-            "1115":{
-                "district":"4",
-                "name":"Brown, Jeremiah",
-                "party":"Whig"
-            },
-            "2868":{
-                "district":"4",
-                "name":"Edwards, John",
-                "party":"Whig"
-            },
-            "4883":{
-                "district":"4",
-                "name":"James, Francis",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"27",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1841-03-04",
+    "start_session":27,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

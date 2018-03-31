@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_35",
   "type": "Feature",
   "properties": {
-    "ALAND":437439320,
-    "AWATER":313475,
-    "CD113FP":"35",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0635",
-    "INTPTLAT":"+34.0454006",
-    "INTPTLON":"-117.5883234",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 35",
-    "STATEFP":"06"
+    "district":35,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -117.828719,

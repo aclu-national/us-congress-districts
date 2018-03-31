@@ -2,41 +2,12 @@
   "id": "ny_34_to_37_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"37",
-    "id":"036034037027",
-    "member":{
-        "34":{
-            "7198":{
-                "district":"27",
-                "name":"Parker, John Mason",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "7198":{
-                "district":"27",
-                "name":"Parker, John Mason",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "9940":{
-                "district":"27",
-                "name":"Wells, Alfred",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "2613":{
-                "district":"27",
-                "name":"Diven, Alexander Samuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -77.1072,

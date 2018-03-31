@@ -1,49 +1,13 @@
 {
-  "id": "ks_108_to_112_04",
+  "id": "ks_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"020108112004",
-    "member":{
-        "108":{
-            "29524":{
-                "district":"4",
-                "name":"Tiahrt, Todd",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29524":{
-                "district":"4",
-                "name":"Tiahrt, Todd",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29524":{
-                "district":"4",
-                "name":"Tiahrt, Todd",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29524":{
-                "district":"4",
-                "name":"Tiahrt, Todd",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21136":{
-                "district":"4",
-                "name":"Pompeo, Mike",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Kansas"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ks"
 },
   "bbox": [
     -98.46491,

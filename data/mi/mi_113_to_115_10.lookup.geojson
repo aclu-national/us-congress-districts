@@ -2,18 +2,12 @@
   "id": "mi_113_to_115_10",
   "type": "Feature",
   "properties": {
-    "ALAND":10728423766,
-    "AWATER":5439326375,
-    "CD113FP":"10",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2610",
-    "INTPTLAT":"+43.4559041",
-    "INTPTLON":"-082.8824074",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 10",
-    "STATEFP":"26"
+    "district":10,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mi"
 },
   "bbox": [
     -83.713563,

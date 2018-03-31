@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_34",
   "type": "Feature",
   "properties": {
-    "ALAND":123449128,
-    "AWATER":784655,
-    "CD113FP":"34",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0634",
-    "INTPTLAT":"+34.0746549",
-    "INTPTLON":"-118.2282686",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 34",
-    "STATEFP":"06"
+    "district":34,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -118.323857,

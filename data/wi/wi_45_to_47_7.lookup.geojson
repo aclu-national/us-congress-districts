@@ -1,35 +1,13 @@
 {
-  "id": "wi_45_to_47_07",
+  "id": "wi_45_to_47_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"47",
-    "id":"055045047007",
-    "member":{
-        "45":{
-            "4727":{
-                "district":"7",
-                "name":"Humphrey, Herman Leon",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "4727":{
-                "district":"7",
-                "name":"Humphrey, Herman Leon",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "4727":{
-                "district":"7",
-                "name":"Humphrey, Herman Leon",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Wisconsin"
+    "district":7,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"wi"
 },
   "bbox": [
     -92.808,

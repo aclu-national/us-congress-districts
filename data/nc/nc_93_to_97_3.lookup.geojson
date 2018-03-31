@@ -1,49 +1,13 @@
 {
-  "id": "nc_93_to_97_03",
+  "id": "nc_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"037093097003",
-    "member":{
-        "93":{
-            "10527":{
-                "district":"3",
-                "name":"Henderson, David N.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10527":{
-                "district":"3",
-                "name":"Henderson, David N.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14464":{
-                "district":"3",
-                "name":"Whitley, Charles",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14464":{
-                "district":"3",
-                "name":"Whitley, Charles",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14464":{
-                "district":"3",
-                "name":"Whitley, Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nc"
 },
   "bbox": [
     -79.35999,

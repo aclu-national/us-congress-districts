@@ -1,19 +1,13 @@
 {
-  "id": "ky_113_to_115_02",
+  "id": "ky_113_to_115_2",
   "type": "Feature",
   "properties": {
-    "ALAND":18586221769,
-    "AWATER":403818887,
-    "CD113FP":"02",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2102",
-    "INTPTLAT":"+37.5446206",
-    "INTPTLON":"-085.9904901",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 2",
-    "STATEFP":"21"
+    "district":2,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ky"
 },
   "bbox": [
     -87.408547,

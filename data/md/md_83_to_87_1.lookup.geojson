@@ -1,49 +1,13 @@
 {
-  "id": "md_83_to_87_01",
+  "id": "md_83_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"024083087001",
-    "member":{
-        "83":{
-            "6481":{
-                "district":"1",
-                "name":"Miller, Edward Tylor",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "6481":{
-                "district":"1",
-                "name":"Miller, Edward Tylor",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "6481":{
-                "district":"1",
-                "name":"Miller, Edward Tylor",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "4993":{
-                "district":"1",
-                "name":"Johnson, Thomas F.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "4993":{
-                "district":"1",
-                "name":"Johnson, Thomas F.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"md"
 },
   "bbox": [
     -76.38376,

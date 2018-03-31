@@ -1,42 +1,13 @@
 {
-  "id": "mi_89_to_92_03",
+  "id": "mi_89_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"026089092003",
-    "member":{
-        "89":{
-            "10776":{
-                "district":"3",
-                "name":"Todd, Paul H., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11006":{
-                "district":"3",
-                "name":"Brown, Gary E.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11006":{
-                "district":"3",
-                "name":"Brown, Gary E.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11006":{
-                "district":"3",
-                "name":"Brown, Gary E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Michigan"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"mi"
 },
   "bbox": [
     -85.76617,

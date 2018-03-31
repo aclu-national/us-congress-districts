@@ -1,28 +1,13 @@
 {
-  "id": "nj_91_to_92_02",
+  "id": "nj_91_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"034091092002",
-    "member":{
-        "91":{
-            "11046":{
-                "district":"2",
-                "name":"Sandman, Chas. W., Jr.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11046":{
-                "district":"2",
-                "name":"Sandman, Chas. W., Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New Jersey"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nj"
 },
   "bbox": [
     -75.55979,

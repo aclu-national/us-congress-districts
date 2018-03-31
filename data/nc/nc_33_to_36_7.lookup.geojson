@@ -1,42 +1,13 @@
 {
-  "id": "nc_33_to_36_07",
+  "id": "nc_33_to_36_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"36",
-    "id":"037033036007",
-    "member":{
-        "33":{
-            "2138":{
-                "district":"7",
-                "name":"Craige, Francis Burton",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "2138":{
-                "district":"7",
-                "name":"Craige, Francis Burton",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "2138":{
-                "district":"7",
-                "name":"Craige, Francis Burton",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "2138":{
-                "district":"7",
-                "name":"Craige, Francis Burton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"North Carolina"
+    "district":7,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"nc"
 },
   "bbox": [
     -81.76806,

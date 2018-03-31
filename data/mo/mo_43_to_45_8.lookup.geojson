@@ -1,35 +1,13 @@
 {
-  "id": "mo_43_to_45_08",
+  "id": "mo_43_to_45_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"45",
-    "id":"029043045008",
-    "member":{
-        "43":{
-            "1963":{
-                "district":"8",
-                "name":"Comingo, Abram",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "3341":{
-                "district":"8",
-                "name":"Franklin, Benjamin Joseph",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "3341":{
-                "district":"8",
-                "name":"Franklin, Benjamin Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Missouri"
+    "district":8,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"mo"
 },
   "bbox": [
     -95.10289,

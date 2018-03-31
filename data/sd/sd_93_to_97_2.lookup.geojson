@@ -1,49 +1,13 @@
 {
-  "id": "sd_93_to_97_02",
+  "id": "sd_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"046093097002",
-    "member":{
-        "93":{
-            "14000":{
-                "district":"2",
-                "name":"Abdnor, James",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14000":{
-                "district":"2",
-                "name":"Abdnor, James",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14000":{
-                "district":"2",
-                "name":"Abdnor, James",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14000":{
-                "district":"2",
-                "name":"Abdnor, James",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14851":{
-                "district":"2",
-                "name":"Roberts, Clint",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"South Dakota"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"sd"
 },
   "bbox": [
     -104.05774,

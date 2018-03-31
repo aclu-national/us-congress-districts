@@ -2,48 +2,12 @@
   "id": "il_83_to_87_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"87",
-    "id":"017083087020",
-    "member":{
-        "83":{
-            "8533":{
-                "district":"20",
-                "name":"Simpson, Sidney Elmer \"Sid\"",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "8533":{
-                "district":"20",
-                "name":"Simpson, Sidney Elmer \"Sid\"",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "8533":{
-                "district":"20",
-                "name":"Simpson, Sidney Elmer \"Sid\"",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "8527":{
-                "district":"20",
-                "name":"Simpson, Edna Oakes",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10517":{
-                "district":"20",
-                "name":"Findley, Paul",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":20,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -91.51308,

@@ -2,76 +2,12 @@
   "id": "mi_64_to_72_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"72",
-    "id":"026064072011",
-    "member":{
-        "64":{
-            "8296":{
-                "district":"11",
-                "name":"Scott, Frank Douglas",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "8296":{
-                "district":"11",
-                "name":"Scott, Frank Douglas",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "8296":{
-                "district":"11",
-                "name":"Scott, Frank Douglas",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "8296":{
-                "district":"11",
-                "name":"Scott, Frank Douglas",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "8296":{
-                "district":"11",
-                "name":"Scott, Frank Douglas",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "8296":{
-                "district":"11",
-                "name":"Scott, Frank Douglas",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "826":{
-                "district":"11",
-                "name":"Bohn, Frank Probasco",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "826":{
-                "district":"11",
-                "name":"Bohn, Frank Probasco",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "826":{
-                "district":"11",
-                "name":"Bohn, Frank Probasco",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Michigan"
+    "district":11,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mi"
 },
   "bbox": [
     -87.88824,

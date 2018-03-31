@@ -2,14 +2,12 @@
   "id": "nc_1_to_1_-1",
   "type": "Feature",
   "properties": {
-    "district":"-1",
-    "endcong":"1",
-    "id":"0370010010-1",
-    "member":{
-        "1":[]
-    },
-    "startcong":"1",
-    "statename":"North Carolina"
+    "district":-1,
+    "end_date":"1791-03-03",
+    "end_session":1,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"nc"
 },
   "bbox": [
     -90.3103,

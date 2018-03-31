@@ -2,48 +2,12 @@
   "id": "mo_53_to_57_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"57",
-    "id":"029053057014",
-    "member":{
-        "53":{
-            "244":{
-                "district":"14",
-                "name":"Arnold, Marshall",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "6775":{
-                "district":"14",
-                "name":"Mozley, Norman Adolphus",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "9608":{
-                "district":"14",
-                "name":"Vandiver, Willard Duncan",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "9608":{
-                "district":"14",
-                "name":"Vandiver, Willard Duncan",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "9608":{
-                "district":"14",
-                "name":"Vandiver, Willard Duncan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Missouri"
+    "district":14,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mo"
 },
   "bbox": [
     -93.61293,

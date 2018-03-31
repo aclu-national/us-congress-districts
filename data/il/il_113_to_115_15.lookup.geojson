@@ -2,18 +2,12 @@
   "id": "il_113_to_115_15",
   "type": "Feature",
   "properties": {
-    "ALAND":38062217044,
-    "AWATER":353575550,
-    "CD113FP":"15",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1715",
-    "INTPTLAT":"+38.9051792",
-    "INTPTLON":"-088.4421295",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 15",
-    "STATEFP":"17"
+    "district":15,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"il"
 },
   "bbox": [
     -90.038111,

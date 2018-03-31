@@ -2,20 +2,12 @@
   "id": "ny_93_to_93_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"93",
-    "id":"036093093032",
-    "member":{
-        "93":{
-            "10733":{
-                "district":"32",
-                "name":"Hanley, James M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New York"
+    "district":32,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ny"
 },
   "bbox": [
     -76.28311,

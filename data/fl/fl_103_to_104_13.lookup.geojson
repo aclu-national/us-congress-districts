@@ -2,27 +2,12 @@
   "id": "fl_103_to_104_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"104",
-    "id":"012103104013",
-    "member":{
-        "103":{
-            "29333":{
-                "district":"13",
-                "name":"Miller, Dan",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29333":{
-                "district":"13",
-                "name":"Miller, Dan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Florida"
+    "district":13,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"fl"
 },
   "bbox": [
     -82.74652,

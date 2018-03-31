@@ -1,49 +1,13 @@
 {
-  "id": "al_58_to_62_06",
+  "id": "al_58_to_62_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"62",
-    "id":"001058062006",
-    "member":{
-        "58":{
-            "403":{
-                "district":"6",
-                "name":"Bankhead, John Hollis",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "403":{
-                "district":"6",
-                "name":"Bankhead, John Hollis",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "4474":{
-                "district":"6",
-                "name":"Hobson, Richmond Pearson",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "4474":{
-                "district":"6",
-                "name":"Hobson, Richmond Pearson",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "4474":{
-                "district":"6",
-                "name":"Hobson, Richmond Pearson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Alabama"
+    "district":6,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"al"
 },
   "bbox": [
     -88.42145,

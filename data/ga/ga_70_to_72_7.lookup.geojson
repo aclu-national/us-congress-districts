@@ -1,35 +1,13 @@
 {
-  "id": "ga_70_to_72_07",
+  "id": "ga_70_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"013070072007",
-    "member":{
-        "70":{
-            "9183":{
-                "district":"7",
-                "name":"Tarver, Malcolm Connor",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "9183":{
-                "district":"7",
-                "name":"Tarver, Malcolm Connor",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "9183":{
-                "district":"7",
-                "name":"Tarver, Malcolm Connor",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Georgia"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ga"
 },
   "bbox": [
     -85.60517,

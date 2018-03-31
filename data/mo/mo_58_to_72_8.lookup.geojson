@@ -1,119 +1,13 @@
 {
-  "id": "mo_58_to_72_08",
+  "id": "mo_58_to_72_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"72",
-    "id":"029058072008",
-    "member":{
-        "58":{
-            "8390":{
-                "district":"8",
-                "name":"Shackleford, Dorsey William",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "8390":{
-                "district":"8",
-                "name":"Shackleford, Dorsey William",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "8390":{
-                "district":"8",
-                "name":"Shackleford, Dorsey William",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "8390":{
-                "district":"8",
-                "name":"Shackleford, Dorsey William",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "8390":{
-                "district":"8",
-                "name":"Shackleford, Dorsey William",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "8390":{
-                "district":"8",
-                "name":"Shackleford, Dorsey William",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "8390":{
-                "district":"8",
-                "name":"Shackleford, Dorsey William",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8390":{
-                "district":"8",
-                "name":"Shackleford, Dorsey William",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "6876":{
-                "district":"8",
-                "name":"Nelson, William Lester",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "7933":{
-                "district":"8",
-                "name":"Roach, Sidney Crain",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "7933":{
-                "district":"8",
-                "name":"Roach, Sidney Crain",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "6876":{
-                "district":"8",
-                "name":"Nelson, William Lester",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "6876":{
-                "district":"8",
-                "name":"Nelson, William Lester",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "6876":{
-                "district":"8",
-                "name":"Nelson, William Lester",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "6876":{
-                "district":"8",
-                "name":"Nelson, William Lester",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Missouri"
+    "district":8,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"mo"
 },
   "bbox": [
     -93.08216,

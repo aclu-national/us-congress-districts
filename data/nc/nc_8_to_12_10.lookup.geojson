@@ -2,48 +2,12 @@
   "id": "nc_8_to_12_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"12",
-    "id":"037008012010",
-    "member":{
-        "10":{
-            "80":{
-                "district":"10",
-                "name":"Alexander, Evan Shelby",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "7288":{
-                "district":"10",
-                "name":"Pearson, Joseph",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "7288":{
-                "district":"10",
-                "name":"Pearson, Joseph",
-                "party":"Federalist"
-            }
-        },
-        "8":{
-            "88":{
-                "district":"10",
-                "name":"Alexander, Nathaniel",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "80":{
-                "district":"10",
-                "name":"Alexander, Evan Shelby",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"North Carolina"
+    "district":10,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"nc"
 },
   "bbox": [
     -81.05803,

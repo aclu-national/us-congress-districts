@@ -1,21 +1,13 @@
 {
-  "id": "tx_63_to_63_06",
+  "id": "tx_63_to_63_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"63",
-    "id":"048063063006",
-    "member":{
-        "63":{
-            "4065":{
-                "district":"6",
-                "name":"Hardy, Rufus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"tx"
 },
   "bbox": [
     -97.31551,

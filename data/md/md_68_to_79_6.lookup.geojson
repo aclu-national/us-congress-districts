@@ -1,103 +1,13 @@
 {
-  "id": "md_68_to_79_06",
+  "id": "md_68_to_79_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"79",
-    "id":"024068079006",
-    "member":{
-        "68":{
-            "10467":{
-                "district":"6",
-                "name":"Zihlman, Frederick Nicholas",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "10467":{
-                "district":"6",
-                "name":"Zihlman, Frederick Nicholas",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "10467":{
-                "district":"6",
-                "name":"Zihlman, Frederick Nicholas",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "10467":{
-                "district":"6",
-                "name":"Zihlman, Frederick Nicholas",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5634":{
-                "district":"6",
-                "name":"Lewis, David John",
-                "party":"Democrat"
-            }
-        },
-        "73":{
-            "5634":{
-                "district":"6",
-                "name":"Lewis, David John",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "5634":{
-                "district":"6",
-                "name":"Lewis, David John",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5634":{
-                "district":"6",
-                "name":"Lewis, David John",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "1376":{
-                "district":"6",
-                "name":"Byron, William Devereux",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "1375":{
-                "district":"6",
-                "name":"Byron, Katharine Edgar",
-                "party":"Democrat"
-            },
-            "1376":{
-                "district":"6",
-                "name":"Byron, William Devereux",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "546":{
-                "district":"6",
-                "name":"Beall, James Glenn",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "546":{
-                "district":"6",
-                "name":"Beall, James Glenn",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1946-08-02",
+    "end_session":79,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

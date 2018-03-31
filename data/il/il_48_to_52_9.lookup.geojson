@@ -1,49 +1,13 @@
 {
-  "id": "il_48_to_52_09",
+  "id": "il_48_to_52_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"52",
-    "id":"017048052009",
-    "member":{
-        "48":{
-            "7277":{
-                "district":"9",
-                "name":"Payson, Lewis Edwin",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "7277":{
-                "district":"9",
-                "name":"Payson, Lewis Edwin",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "7277":{
-                "district":"9",
-                "name":"Payson, Lewis Edwin",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "7277":{
-                "district":"9",
-                "name":"Payson, Lewis Edwin",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "8729":{
-                "district":"9",
-                "name":"Snow, Herman Wilber",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":9,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -89.63874,

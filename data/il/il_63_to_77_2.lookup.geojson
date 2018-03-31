@@ -1,119 +1,13 @@
 {
-  "id": "il_63_to_77_02",
+  "id": "il_63_to_77_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"77",
-    "id":"017063077002",
-    "member":{
-        "63":{
-            "5959":{
-                "district":"2",
-                "name":"Mann, James Robert",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "5959":{
-                "district":"2",
-                "name":"Mann, James Robert",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "5959":{
-                "district":"2",
-                "name":"Mann, James Robert",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "5959":{
-                "district":"2",
-                "name":"Mann, James Robert",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5959":{
-                "district":"2",
-                "name":"Mann, James Robert",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "4721":{
-                "district":"2",
-                "name":"Hull, Morton Denison",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "4721":{
-                "district":"2",
-                "name":"Hull, Morton Denison",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4721":{
-                "district":"2",
-                "name":"Hull, Morton Denison",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4721":{
-                "district":"2",
-                "name":"Hull, Morton Denison",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "4721":{
-                "district":"2",
-                "name":"Hull, Morton Denison",
-                "party":"Republican"
-            }
-        },
-        "73":{
-            "6774":{
-                "district":"2",
-                "name":"Moynihan, Patrick Henry",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "6303":{
-                "district":"2",
-                "name":"McKeough, Raymond Stephen",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "6303":{
-                "district":"2",
-                "name":"McKeough, Raymond Stephen",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "6303":{
-                "district":"2",
-                "name":"McKeough, Raymond Stephen",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "6303":{
-                "district":"2",
-                "name":"McKeough, Raymond Stephen",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Illinois"
+    "district":2,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"il"
 },
   "bbox": [
     -87.66153,

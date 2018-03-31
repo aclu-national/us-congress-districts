@@ -1,35 +1,13 @@
 {
-  "id": "wa_83_to_85_03",
+  "id": "wa_83_to_85_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"85",
-    "id":"053083085003",
-    "member":{
-        "83":{
-            "5885":{
-                "district":"3",
-                "name":"Mack, Russell Vernon",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "5885":{
-                "district":"3",
-                "name":"Mack, Russell Vernon",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "5885":{
-                "district":"3",
-                "name":"Mack, Russell Vernon",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Washington"
+    "district":3,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"wa"
 },
   "bbox": [
     -124.36355,

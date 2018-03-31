@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"62",
-    "id":"036058062014",
-    "member":{
-        "58":{
-            "7895":{
-                "district":"14",
-                "name":"Rider, Ira Edgar",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "9429":{
-                "district":"14",
-                "name":"Towne, Charles Arnette",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "10126":{
-                "district":"14",
-                "name":"Willett, William Forte, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "10126":{
-                "district":"14",
-                "name":"Willett, William Forte, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "5251":{
-                "district":"14",
-                "name":"Kindred, John Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -73.96222,

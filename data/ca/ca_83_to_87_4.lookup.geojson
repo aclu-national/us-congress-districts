@@ -1,49 +1,13 @@
 {
-  "id": "ca_83_to_87_04",
+  "id": "ca_83_to_87_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"87",
-    "id":"006083087004",
-    "member":{
-        "83":{
-            "5929":{
-                "district":"4",
-                "name":"Mailliard, William Somers",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "5929":{
-                "district":"4",
-                "name":"Mailliard, William Somers",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "5929":{
-                "district":"4",
-                "name":"Mailliard, William Somers",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "5929":{
-                "district":"4",
-                "name":"Mailliard, William Somers",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "5929":{
-                "district":"4",
-                "name":"Mailliard, William Somers",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":4,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -122.51448,

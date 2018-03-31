@@ -1,82 +1,13 @@
 {
-  "id": "tx_74_to_82_09",
+  "id": "tx_74_to_82_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"82",
-    "id":"048074082009",
-    "member":{
-        "74":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5966":{
-                "district":"9",
-                "name":"Mansfield, Joseph Jeffers",
-                "party":"Democrat"
-            },
-            "9320":{
-                "district":"9",
-                "name":"Thompson, Clark Wallace",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "9320":{
-                "district":"9",
-                "name":"Thompson, Clark Wallace",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "9320":{
-                "district":"9",
-                "name":"Thompson, Clark Wallace",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":9,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -97.77869,

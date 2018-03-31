@@ -1,42 +1,13 @@
 {
-  "id": "al_45_to_48_05",
+  "id": "al_45_to_48_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"48",
-    "id":"001045048005",
-    "member":{
-        "45":{
-            "5659":{
-                "district":"5",
-                "name":"Ligon, Robert Fulwood",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "10180":{
-                "district":"5",
-                "name":"Williams, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "10180":{
-                "district":"5",
-                "name":"Williams, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "10180":{
-                "district":"5",
-                "name":"Williams, Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Alabama"
+    "district":5,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"al"
 },
   "bbox": [
     -87.42199,

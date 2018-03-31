@@ -1,49 +1,13 @@
 {
-  "id": "ca_83_to_87_05",
+  "id": "ca_83_to_87_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"87",
-    "id":"006083087005",
-    "member":{
-        "83":{
-            "8437":{
-                "district":"5",
-                "name":"Shelley, John Francis",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "8437":{
-                "district":"5",
-                "name":"Shelley, John Francis",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "8437":{
-                "district":"5",
-                "name":"Shelley, John Francis",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "8437":{
-                "district":"5",
-                "name":"Shelley, John Francis",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "8437":{
-                "district":"5",
-                "name":"Shelley, John Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":5,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -123.10803,

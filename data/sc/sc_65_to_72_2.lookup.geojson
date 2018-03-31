@@ -1,70 +1,13 @@
 {
-  "id": "sc_65_to_72_02",
+  "id": "sc_65_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"045065072002",
-    "member":{
-        "65":{
-            "1370":{
-                "district":"2",
-                "name":"Byrnes, James Francis",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "1370":{
-                "district":"2",
-                "name":"Byrnes, James Francis",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1370":{
-                "district":"2",
-                "name":"Byrnes, James Francis",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "1370":{
-                "district":"2",
-                "name":"Byrnes, James Francis",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "4067":{
-                "district":"2",
-                "name":"Hare, Butler Black",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "4067":{
-                "district":"2",
-                "name":"Hare, Butler Black",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "4067":{
-                "district":"2",
-                "name":"Hare, Butler Black",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "4067":{
-                "district":"2",
-                "name":"Hare, Butler Black",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"South Carolina"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"sc"
 },
   "bbox": [
     -82.18615,

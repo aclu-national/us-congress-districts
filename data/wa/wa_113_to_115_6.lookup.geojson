@@ -1,19 +1,13 @@
 {
-  "id": "wa_113_to_115_06",
+  "id": "wa_113_to_115_6",
   "type": "Feature",
   "properties": {
-    "ALAND":17878050853,
-    "AWATER":5090681474,
-    "CD113FP":"06",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5306",
-    "INTPTLAT":"+47.6388468",
-    "INTPTLON":"-123.5509260",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 6",
-    "STATEFP":"53"
+    "district":6,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"wa"
 },
   "bbox": [
     -124.848974,

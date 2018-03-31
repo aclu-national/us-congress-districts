@@ -2,27 +2,12 @@
   "id": "ca_91_to_92_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"92",
-    "id":"006091092015",
-    "member":{
-        "91":{
-            "6240":{
-                "district":"15",
-                "name":"McFall, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "6240":{
-                "district":"15",
-                "name":"McFall, John Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":15,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -121.587,

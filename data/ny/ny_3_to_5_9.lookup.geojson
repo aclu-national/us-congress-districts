@@ -1,35 +1,13 @@
 {
-  "id": "ny_3_to_5_09",
+  "id": "ny_3_to_5_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"5",
-    "id":"036003005009",
-    "member":{
-        "3":{
-            "3695":{
-                "district":"9",
-                "name":"Gordon, James",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "10159":{
-                "district":"9",
-                "name":"Williams, John",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "10159":{
-                "district":"9",
-                "name":"Williams, John",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"New York"
+    "district":9,
+    "end_date":"1799-03-03",
+    "end_session":5,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ny"
 },
   "bbox": [
     -74.21463,

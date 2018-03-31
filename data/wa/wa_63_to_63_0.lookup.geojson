@@ -1,26 +1,13 @@
 {
-  "id": "wa_63_to_63_00",
+  "id": "wa_63_to_63_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"63",
-    "id":"053063063000",
-    "member":{
-        "63":{
-            "1172":{
-                "district":"99",
-                "name":"Bryan, James Wesley",
-                "party":"Progressive"
-            },
-            "3052":{
-                "district":"99",
-                "name":"Falconer, Jacob Alexander",
-                "party":"Progressive"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Washington"
+    "district":0,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"wa"
 },
   "bbox": [
     -124.76258,

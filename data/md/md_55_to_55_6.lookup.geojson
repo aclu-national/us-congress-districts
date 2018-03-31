@@ -1,21 +1,13 @@
 {
-  "id": "md_55_to_55_06",
+  "id": "md_55_to_55_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"55",
-    "id":"024055055006",
-    "member":{
-        "55":{
-            "6218":{
-                "district":"6",
-                "name":"McDonald, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

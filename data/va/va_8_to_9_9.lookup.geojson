@@ -1,28 +1,13 @@
 {
-  "id": "va_8_to_9_09",
+  "id": "va_8_to_9_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"9",
-    "id":"051008009009",
-    "member":{
-        "8":{
-            "9335":{
-                "district":"9",
-                "name":"Thompson, Philip Rootes",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "9335":{
-                "district":"9",
-                "name":"Thompson, Philip Rootes",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Virginia"
+    "district":9,
+    "end_date":"1807-03-03",
+    "end_session":9,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"va"
 },
   "bbox": [
     -78.33832,

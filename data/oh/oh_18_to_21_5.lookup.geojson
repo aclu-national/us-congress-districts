@@ -1,42 +1,13 @@
 {
-  "id": "oh_18_to_21_05",
+  "id": "oh_18_to_21_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"21",
-    "id":"039018021005",
-    "member":{
-        "18":{
-            "1460":{
-                "district":"5",
-                "name":"Campbell, John Wilson",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "1460":{
-                "district":"5",
-                "name":"Campbell, John Wilson",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "8142":{
-                "district":"5",
-                "name":"Russell, William",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "8142":{
-                "district":"5",
-                "name":"Russell, William",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"oh"
 },
   "bbox": [
     -84.05274,

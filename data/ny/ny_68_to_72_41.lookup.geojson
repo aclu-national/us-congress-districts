@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_41",
   "type": "Feature",
   "properties": {
-    "district":"41",
-    "endcong":"72",
-    "id":"036068072041",
-    "member":{
-        "68":{
-            "5877":{
-                "district":"41",
-                "name":"MacGregor, Clarence",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "5877":{
-                "district":"41",
-                "name":"MacGregor, Clarence",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "5877":{
-                "district":"41",
-                "name":"MacGregor, Clarence",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2028":{
-                "district":"41",
-                "name":"Cooke, Edmund Francis",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2028":{
-                "district":"41",
-                "name":"Cooke, Edmund Francis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":41,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -78.90188,

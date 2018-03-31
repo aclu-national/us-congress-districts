@@ -1,35 +1,13 @@
 {
-  "id": "nj_30_to_32_01",
+  "id": "nj_30_to_32_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"32",
-    "id":"034030032001",
-    "member":{
-        "30":{
-            "4017":{
-                "district":"1",
-                "name":"Hampton, James Giles",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "4224":{
-                "district":"1",
-                "name":"Hay, Andrew Kessler",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "9016":{
-                "district":"1",
-                "name":"Stratton, Nathan Taylor",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"New Jersey"
+    "district":1,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"nj"
 },
   "bbox": [
     -75.55979,

@@ -2,48 +2,12 @@
   "id": "oh_33_to_37_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"37",
-    "id":"039033037016",
-    "member":{
-        "33":{
-            "393":{
-                "district":"16",
-                "name":"Ball, Edward",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "393":{
-                "district":"16",
-                "name":"Ball, Edward",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "9416":{
-                "district":"16",
-                "name":"Tompkins, Cydnor Bailey",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "9416":{
-                "district":"16",
-                "name":"Tompkins, Cydnor Bailey",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "2288":{
-                "district":"16",
-                "name":"Cutler, William Parker",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":16,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -82.23397,

@@ -1,49 +1,13 @@
 {
-  "id": "md_98_to_102_02",
+  "id": "md_98_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"024098102002",
-    "member":{
-        "100":{
-            "15086":{
-                "district":"2",
-                "name":"Bentley, Helen D.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15086":{
-                "district":"2",
-                "name":"Bentley, Helen D.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15086":{
-                "district":"2",
-                "name":"Bentley, Helen D.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "10601":{
-                "district":"2",
-                "name":"Long, Clarence D.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15086":{
-                "district":"2",
-                "name":"Bentley, Helen D.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Maryland"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"md"
 },
   "bbox": [
     -76.8942,

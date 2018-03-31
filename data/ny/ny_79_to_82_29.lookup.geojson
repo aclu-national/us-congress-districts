@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"82",
-    "id":"036079082029",
-    "member":{
-        "79":{
-            "629":{
-                "district":"29",
-                "name":"Bennet, Augustus Witschie",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "8177":{
-                "district":"29",
-                "name":"St. George, Katharine Price Collier",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "8177":{
-                "district":"29",
-                "name":"St. George, Katharine Price Collier",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "8177":{
-                "district":"29",
-                "name":"St. George, Katharine Price Collier",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

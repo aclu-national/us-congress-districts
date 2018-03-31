@@ -2,81 +2,12 @@
   "id": "tx_74_to_82_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"82",
-    "id":"048074082010",
-    "member":{
-        "74":{
-            "1188":{
-                "district":"10",
-                "name":"Buchanan, James Paul",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "1188":{
-                "district":"10",
-                "name":"Buchanan, James Paul",
-                "party":"Democrat"
-            },
-            "4979":{
-                "district":"10",
-                "name":"Johnson, Lyndon Baines",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "4979":{
-                "district":"10",
-                "name":"Johnson, Lyndon Baines",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "4979":{
-                "district":"10",
-                "name":"Johnson, Lyndon Baines",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "4979":{
-                "district":"10",
-                "name":"Johnson, Lyndon Baines",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "4979":{
-                "district":"10",
-                "name":"Johnson, Lyndon Baines",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "4979":{
-                "district":"10",
-                "name":"Johnson, Lyndon Baines",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "9356":{
-                "district":"10",
-                "name":"Thornberry, William Homer",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "9356":{
-                "district":"10",
-                "name":"Thornberry, William Homer",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":10,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -98.59167,

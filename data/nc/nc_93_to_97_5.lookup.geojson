@@ -1,49 +1,13 @@
 {
-  "id": "nc_93_to_97_05",
+  "id": "nc_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"037093097005",
-    "member":{
-        "93":{
-            "12026":{
-                "district":"5",
-                "name":"Mizell, Wilmer D.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14262":{
-                "district":"5",
-                "name":"Neal, Stephen",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14262":{
-                "district":"5",
-                "name":"Neal, Stephen",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14262":{
-                "district":"5",
-                "name":"Neal, Stephen",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14262":{
-                "district":"5",
-                "name":"Neal, Stephen",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nc"
 },
   "bbox": [
     -81.74185,

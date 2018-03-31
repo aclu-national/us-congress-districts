@@ -1,21 +1,13 @@
 {
-  "id": "me_17_to_17_07",
+  "id": "me_17_to_17_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"17",
-    "id":"023017017007",
-    "member":{
-        "17":{
-            "5667":{
-                "district":"7",
-                "name":"Lincoln, Enoch",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Maine"
+    "district":7,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"me"
 },
   "bbox": [
     -71.08433,

@@ -2,48 +2,12 @@
   "id": "oh_78_to_82_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"82",
-    "id":"039078082020",
-    "member":{
-        "78":{
-            "3092":{
-                "district":"20",
-                "name":"Feighan, Michael Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "3092":{
-                "district":"20",
-                "name":"Feighan, Michael Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "3092":{
-                "district":"20",
-                "name":"Feighan, Michael Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "3092":{
-                "district":"20",
-                "name":"Feighan, Michael Aloysius",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "3092":{
-                "district":"20",
-                "name":"Feighan, Michael Aloysius",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Ohio"
+    "district":20,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"oh"
 },
   "bbox": [
     -81.76909,

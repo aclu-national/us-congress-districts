@@ -1,42 +1,13 @@
 {
-  "id": "wa_87_to_90_04",
+  "id": "wa_87_to_90_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"90",
-    "id":"053087090004",
-    "member":{
-        "87":{
-            "6101":{
-                "district":"4",
-                "name":"May, Catherine Dean",
-                "party":"Republican"
-            }
-        },
-        "88":{
-            "6101":{
-                "district":"4",
-                "name":"May, Catherine Dean",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "6101":{
-                "district":"4",
-                "name":"May, Catherine Dean",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "6101":{
-                "district":"4",
-                "name":"May, Catherine Dean",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"87",
-    "statename":"Washington"
+    "district":4,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1961-01-03",
+    "start_session":87,
+    "state":"wa"
 },
   "bbox": [
     -121.61283,

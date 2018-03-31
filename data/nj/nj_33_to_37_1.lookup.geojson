@@ -1,49 +1,13 @@
 {
-  "id": "nj_33_to_37_01",
+  "id": "nj_33_to_37_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"37",
-    "id":"034033037001",
-    "member":{
-        "33":{
-            "9016":{
-                "district":"1",
-                "name":"Stratton, Nathan Taylor",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "1805":{
-                "district":"1",
-                "name":"Clawson, Isaiah Dunn",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "1805":{
-                "district":"1",
-                "name":"Clawson, Isaiah Dunn",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "6938":{
-                "district":"1",
-                "name":"Nixon, John Thompson",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "6938":{
-                "district":"1",
-                "name":"Nixon, John Thompson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New Jersey"
+    "district":1,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"nj"
 },
   "bbox": [
     -75.55979,

@@ -1,49 +1,13 @@
 {
-  "id": "mo_53_to_57_07",
+  "id": "mo_53_to_57_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"57",
-    "id":"029053057007",
-    "member":{
-        "53":{
-            "4265":{
-                "district":"7",
-                "name":"Heard, John Thaddeus",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9446":{
-                "district":"7",
-                "name":"Tracey, John Plank",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2039":{
-                "district":"7",
-                "name":"Cooney, James",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "2039":{
-                "district":"7",
-                "name":"Cooney, James",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "2039":{
-                "district":"7",
-                "name":"Cooney, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Missouri"
+    "district":7,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mo"
 },
   "bbox": [
     -93.63244,

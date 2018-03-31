@@ -1,55 +1,13 @@
 {
-  "id": "pa_4_to_6_04",
+  "id": "pa_4_to_6_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"6",
-    "id":"042004006004",
-    "member":{
-        "4":{
-            "7870":{
-                "district":"4",
-                "name":"Richards, John",
-                "party":"Republican"
-            },
-            "8555":{
-                "district":"4",
-                "name":"Sitgreaves, Samuel",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "1132":{
-                "district":"4",
-                "name":"Brown, Robert",
-                "party":"Republican"
-            },
-            "1655":{
-                "district":"4",
-                "name":"Chapman, John",
-                "party":"Federalist"
-            },
-            "8555":{
-                "district":"4",
-                "name":"Sitgreaves, Samuel",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "1132":{
-                "district":"4",
-                "name":"Brown, Robert",
-                "party":"Republican"
-            },
-            "6784":{
-                "district":"4",
-                "name":"Muhlenberg, John Peter Gabriel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"pa"
 },
   "bbox": [
     -76.16615,

@@ -1,54 +1,13 @@
 {
-  "id": "al_53_to_57_08",
+  "id": "al_53_to_57_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"57",
-    "id":"001053057008",
-    "member":{
-        "53":{
-            "9992":{
-                "district":"8",
-                "name":"Wheeler, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9992":{
-                "district":"8",
-                "name":"Wheeler, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "9992":{
-                "district":"8",
-                "name":"Wheeler, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "7882":{
-                "district":"8",
-                "name":"Richardson, William",
-                "party":"Democrat"
-            },
-            "9992":{
-                "district":"8",
-                "name":"Wheeler, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "7882":{
-                "district":"8",
-                "name":"Richardson, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Alabama"
+    "district":8,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"al"
 },
   "bbox": [
     -88.20296,

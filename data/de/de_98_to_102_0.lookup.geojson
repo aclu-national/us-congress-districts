@@ -1,49 +1,13 @@
 {
-  "id": "de_98_to_102_00",
+  "id": "de_98_to_102_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"102",
-    "id":"010098102000",
-    "member":{
-        "100":{
-            "15015":{
-                "district":"1",
-                "name":"Carper, Thomas R.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15015":{
-                "district":"1",
-                "name":"Carper, Thomas R.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15015":{
-                "district":"1",
-                "name":"Carper, Thomas R.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "15015":{
-                "district":"1",
-                "name":"Carper, Thomas R.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15015":{
-                "district":"1",
-                "name":"Carper, Thomas R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Delaware"
+    "district":0,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"de"
 },
   "bbox": [
     -75.7891,

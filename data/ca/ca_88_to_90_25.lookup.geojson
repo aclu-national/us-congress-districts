@@ -2,34 +2,12 @@
   "id": "ca_88_to_90_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"90",
-    "id":"006088090025",
-    "member":{
-        "88":{
-            "10578":{
-                "district":"25",
-                "name":"Cameron, Ronald B.",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10578":{
-                "district":"25",
-                "name":"Cameron, Ronald B.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11055":{
-                "district":"25",
-                "name":"Wiggins, Charles E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":25,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -118.07452,

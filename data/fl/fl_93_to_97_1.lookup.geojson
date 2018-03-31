@@ -1,49 +1,13 @@
 {
-  "id": "fl_93_to_97_01",
+  "id": "fl_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"012093097001",
-    "member":{
-        "93":{
-            "8507":{
-                "district":"1",
-                "name":"Sikes, Robert Lee Fulton",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "8507":{
-                "district":"1",
-                "name":"Sikes, Robert Lee Fulton",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "8507":{
-                "district":"1",
-                "name":"Sikes, Robert Lee Fulton",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14636":{
-                "district":"1",
-                "name":"Hutto, Earl Dewitt",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14636":{
-                "district":"1",
-                "name":"Hutto, Earl Dewitt",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Florida"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"fl"
 },
   "bbox": [
     -87.63494,

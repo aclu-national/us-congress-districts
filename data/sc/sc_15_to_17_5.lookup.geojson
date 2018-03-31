@@ -1,35 +1,13 @@
 {
-  "id": "sc_15_to_17_05",
+  "id": "sc_15_to_17_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"17",
-    "id":"045015017005",
-    "member":{
-        "15":{
-            "9500":{
-                "district":"5",
-                "name":"Tucker, Starling",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "9500":{
-                "district":"5",
-                "name":"Tucker, Starling",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "9500":{
-                "district":"5",
-                "name":"Tucker, Starling",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"South Carolina"
+    "district":5,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"sc"
 },
   "bbox": [
     -82.31488,

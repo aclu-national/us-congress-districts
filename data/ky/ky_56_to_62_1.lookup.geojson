@@ -1,63 +1,13 @@
 {
-  "id": "ky_56_to_62_01",
+  "id": "ky_56_to_62_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"62",
-    "id":"021056062001",
-    "member":{
-        "56":{
-            "9985":{
-                "district":"1",
-                "name":"Wheeler, Charles Kennedy",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "9985":{
-                "district":"1",
-                "name":"Wheeler, Charles Kennedy",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "4885":{
-                "district":"1",
-                "name":"James, Ollie Murray",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "4885":{
-                "district":"1",
-                "name":"James, Ollie Murray",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "4885":{
-                "district":"1",
-                "name":"James, Ollie Murray",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "4885":{
-                "district":"1",
-                "name":"James, Ollie Murray",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "4885":{
-                "district":"1",
-                "name":"James, Ollie Murray",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Kentucky"
+    "district":1,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"ky"
 },
   "bbox": [
     -89.57151,

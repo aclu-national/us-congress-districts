@@ -1,19 +1,13 @@
 {
-  "id": "az_113_to_115_06",
+  "id": "az_113_to_115_6",
   "type": "Feature",
   "properties": {
-    "ALAND":1619240143,
-    "AWATER":10576374,
-    "CD113FP":"06",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0406",
-    "INTPTLAT":"+33.6655180",
-    "INTPTLON":"-111.8885887",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 6",
-    "STATEFP":"04"
+    "district":6,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"az"
 },
   "bbox": [
     -112.169478,

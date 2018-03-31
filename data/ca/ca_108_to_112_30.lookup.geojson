@@ -2,48 +2,12 @@
   "id": "ca_108_to_112_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"112",
-    "id":"006108112030",
-    "member":{
-        "108":{
-            "14280":{
-                "district":"30",
-                "name":"Waxman, Henry A.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "14280":{
-                "district":"30",
-                "name":"Waxman, Henry A.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "14280":{
-                "district":"30",
-                "name":"Waxman, Henry A.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "14280":{
-                "district":"30",
-                "name":"Waxman, Henry A.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "14280":{
-                "district":"30",
-                "name":"Waxman, Henry A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":30,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -118.94489,

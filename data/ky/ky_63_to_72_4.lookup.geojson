@@ -1,84 +1,13 @@
 {
-  "id": "ky_63_to_72_04",
+  "id": "ky_63_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"021063072004",
-    "member":{
-        "63":{
-            "4942":{
-                "district":"4",
-                "name":"Johnson, Ben",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4942":{
-                "district":"4",
-                "name":"Johnson, Ben",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "4942":{
-                "district":"4",
-                "name":"Johnson, Ben",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "4942":{
-                "district":"4",
-                "name":"Johnson, Ben",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "4942":{
-                "district":"4",
-                "name":"Johnson, Ben",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "4942":{
-                "district":"4",
-                "name":"Johnson, Ben",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "4942":{
-                "district":"4",
-                "name":"Johnson, Ben",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "6662":{
-                "district":"4",
-                "name":"Moorman, Henry Dehaven",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "2126":{
-                "district":"4",
-                "name":"Craddock, John Durrett",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "1499":{
-                "district":"4",
-                "name":"Carden, Cap Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Kentucky"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ky"
 },
   "bbox": [
     -87.13768,

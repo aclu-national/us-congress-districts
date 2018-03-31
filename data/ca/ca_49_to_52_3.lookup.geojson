@@ -1,47 +1,13 @@
 {
-  "id": "ca_49_to_52_03",
+  "id": "ca_49_to_52_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"52",
-    "id":"006049052003",
-    "member":{
-        "49":{
-            "6294":{
-                "district":"3",
-                "name":"McKenna, Joseph",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "6294":{
-                "district":"3",
-                "name":"McKenna, Joseph",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "6294":{
-                "district":"3",
-                "name":"McKenna, Joseph",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "4402":{
-                "district":"3",
-                "name":"Hilborn, Samuel Greeley",
-                "party":"Republican"
-            },
-            "6294":{
-                "district":"3",
-                "name":"McKenna, Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"California"
+    "district":3,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ca"
 },
   "bbox": [
     -123.02407,

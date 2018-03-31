@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"62",
-    "id":"036058062028",
-    "member":{
-        "58":{
-            "5331":{
-                "district":"28",
-                "name":"Knapp, Charles Luman",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5331":{
-                "district":"28",
-                "name":"Knapp, Charles Luman",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5331":{
-                "district":"28",
-                "name":"Knapp, Charles Luman",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "5331":{
-                "district":"28",
-                "name":"Knapp, Charles Luman",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "6762":{
-                "district":"28",
-                "name":"Mott, Luther Wright",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":28,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

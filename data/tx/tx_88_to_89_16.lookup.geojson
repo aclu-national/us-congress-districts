@@ -2,27 +2,12 @@
   "id": "tx_88_to_89_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"89",
-    "id":"048088089016",
-    "member":{
-        "88":{
-            "10584":{
-                "district":"16",
-                "name":"Foreman, Ed",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10783":{
-                "district":"16",
-                "name":"White, Richard C.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Texas"
+    "district":16,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

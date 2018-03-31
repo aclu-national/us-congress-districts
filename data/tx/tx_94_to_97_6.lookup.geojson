@@ -1,42 +1,13 @@
 {
-  "id": "tx_94_to_97_06",
+  "id": "tx_94_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"048094097006",
-    "member":{
-        "94":{
-            "9241":{
-                "district":"6",
-                "name":"Teague, Olin Earl",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "9241":{
-                "district":"6",
-                "name":"Teague, Olin Earl",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "94628":{
-                "district":"6",
-                "name":"Gramm, William Philip",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "94628":{
-                "district":"6",
-                "name":"Gramm, William Philip",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"tx"
 },
   "bbox": [
     -98.06684,

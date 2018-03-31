@@ -1,49 +1,13 @@
 {
-  "id": "in_103_to_107_07",
+  "id": "in_103_to_107_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"107",
-    "id":"018103107007",
-    "member":{
-        "103":{
-            "11036":{
-                "district":"7",
-                "name":"Myers, John T.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "11036":{
-                "district":"7",
-                "name":"Myers, John T.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29719":{
-                "district":"7",
-                "name":"Pease, Edward A.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29719":{
-                "district":"7",
-                "name":"Pease, Edward A.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "20118":{
-                "district":"7",
-                "name":"Kerns, Brian D.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Indiana"
+    "district":7,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"in"
 },
   "bbox": [
     -87.61005,

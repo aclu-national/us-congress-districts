@@ -1,28 +1,13 @@
 {
-  "id": "va_41_to_42_03",
+  "id": "va_41_to_42_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"42",
-    "id":"051041042003",
-    "member":{
-        "41":{
-            "7532":{
-                "district":"3",
-                "name":"Porter, Charles Howell",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "7532":{
-                "district":"3",
-                "name":"Porter, Charles Howell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Virginia"
+    "district":3,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"va"
 },
   "bbox": [
     -78.46508,

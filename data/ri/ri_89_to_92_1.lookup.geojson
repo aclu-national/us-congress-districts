@@ -1,42 +1,13 @@
 {
-  "id": "ri_89_to_92_01",
+  "id": "ri_89_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"044089092001",
-    "member":{
-        "89":{
-            "10561":{
-                "district":"1",
-                "name":"St. Germain, Fernand J.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10561":{
-                "district":"1",
-                "name":"St. Germain, Fernand J.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "10561":{
-                "district":"1",
-                "name":"St. Germain, Fernand J.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10561":{
-                "district":"1",
-                "name":"St. Germain, Fernand J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Rhode Island"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"ri"
 },
   "bbox": [
     -71.53991,

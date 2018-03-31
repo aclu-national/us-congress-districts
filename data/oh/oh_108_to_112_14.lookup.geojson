@@ -2,48 +2,12 @@
   "id": "oh_108_to_112_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"112",
-    "id":"039108112014",
-    "member":{
-        "108":{
-            "29553":{
-                "district":"14",
-                "name":"LaTourette, Steven C.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29553":{
-                "district":"14",
-                "name":"LaTourette, Steven C.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29553":{
-                "district":"14",
-                "name":"LaTourette, Steven C.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29553":{
-                "district":"14",
-                "name":"LaTourette, Steven C.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "29553":{
-                "district":"14",
-                "name":"LaTourette, Steven C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"oh"
 },
   "bbox": [
     -81.59785,

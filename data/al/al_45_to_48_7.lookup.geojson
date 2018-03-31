@@ -1,42 +1,13 @@
 {
-  "id": "al_45_to_48_07",
+  "id": "al_45_to_48_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"48",
-    "id":"001045048007",
-    "member":{
-        "45":{
-            "3283":{
-                "district":"7",
-                "name":"Forney, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "3283":{
-                "district":"7",
-                "name":"Forney, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "3283":{
-                "district":"7",
-                "name":"Forney, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "3283":{
-                "district":"7",
-                "name":"Forney, William Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Alabama"
+    "district":7,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"al"
 },
   "bbox": [
     -87.15104,

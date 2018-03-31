@@ -2,76 +2,12 @@
   "id": "mo_74_to_82_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"82",
-    "id":"029074082012",
-    "member":{
-        "74":{
-            "1735":{
-                "district":"12",
-                "name":"Claiborne, James Robert",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "163":{
-                "district":"12",
-                "name":"Anderson, Charles Arthur",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "163":{
-                "district":"12",
-                "name":"Anderson, Charles Arthur",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "7487":{
-                "district":"12",
-                "name":"Ploeser, Walter Christian",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "7487":{
-                "district":"12",
-                "name":"Ploeser, Walter Christian",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "7487":{
-                "district":"12",
-                "name":"Ploeser, Walter Christian",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "7487":{
-                "district":"12",
-                "name":"Ploeser, Walter Christian",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "5096":{
-                "district":"12",
-                "name":"Karst, Raymond Willard",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "2275":{
-                "district":"12",
-                "name":"Curtis, Thomas Bradford",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Missouri"
+    "district":12,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mo"
 },
   "bbox": [
     -90.73653,

@@ -2,20 +2,12 @@
   "id": "ny_33_to_33_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"33",
-    "id":"036033033028",
-    "member":{
-        "33":{
-            "4178":{
-                "district":"28",
-                "name":"Hastings, George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"New York"
+    "district":28,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ny"
 },
   "bbox": [
     -78.06096,

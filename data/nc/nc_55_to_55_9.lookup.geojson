@@ -1,21 +1,13 @@
 {
-  "id": "nc_55_to_55_09",
+  "id": "nc_55_to_55_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"55",
-    "id":"037055055009",
-    "member":{
-        "55":{
-            "7289":{
-                "district":"9",
-                "name":"Pearson, Richmond",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"North Carolina"
+    "district":9,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"nc"
 },
   "bbox": [
     -84.32187,

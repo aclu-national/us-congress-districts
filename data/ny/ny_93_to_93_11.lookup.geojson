@@ -2,20 +2,12 @@
   "id": "ny_93_to_93_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"93",
-    "id":"036093093011",
-    "member":{
-        "93":{
-            "11004":{
-                "district":"11",
-                "name":"Brasco, Frank J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ny"
 },
   "bbox": [
     -73.93978,

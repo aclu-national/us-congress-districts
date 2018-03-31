@@ -1,49 +1,13 @@
 {
-  "id": "ny_53_to_57_05",
+  "id": "ny_53_to_57_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"57",
-    "id":"036053057005",
-    "member":{
-        "53":{
-            "3736":{
-                "district":"5",
-                "name":"Graham, John Hugh",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "634":{
-                "district":"5",
-                "name":"Bennett, Charles Goodwin",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "634":{
-                "district":"5",
-                "name":"Bennett, Charles Goodwin",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "10220":{
-                "district":"5",
-                "name":"Wilson, Frank Eugene",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "10220":{
-                "district":"5",
-                "name":"Wilson, Frank Eugene",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ny"
 },
   "bbox": [
     -73.96905,

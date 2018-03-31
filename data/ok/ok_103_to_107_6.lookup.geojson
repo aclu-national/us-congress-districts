@@ -1,54 +1,13 @@
 {
-  "id": "ok_103_to_107_06",
+  "id": "ok_103_to_107_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"107",
-    "id":"040103107006",
-    "member":{
-        "103":{
-            "14219":{
-                "district":"6",
-                "name":"English, Glenn",
-                "party":"Democrat"
-            },
-            "29393":{
-                "district":"6",
-                "name":"Lucas, Frank D.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29393":{
-                "district":"6",
-                "name":"Lucas, Frank D.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29393":{
-                "district":"6",
-                "name":"Lucas, Frank D.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29393":{
-                "district":"6",
-                "name":"Lucas, Frank D.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29393":{
-                "district":"6",
-                "name":"Lucas, Frank D.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Oklahoma"
+    "district":6,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ok"
 },
   "bbox": [
     -103.00257,

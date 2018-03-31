@@ -2,20 +2,12 @@
   "id": "ny_48_to_48_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"48",
-    "id":"036048048013",
-    "member":{
-        "48":{
-            "5219":{
-                "district":"13",
-                "name":"Ketcham, John Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -74.00011,

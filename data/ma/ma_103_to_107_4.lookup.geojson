@@ -1,49 +1,13 @@
 {
-  "id": "ma_103_to_107_04",
+  "id": "ma_103_to_107_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"107",
-    "id":"025103107004",
-    "member":{
-        "103":{
-            "14824":{
-                "district":"4",
-                "name":"Frank, Barney",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "14824":{
-                "district":"4",
-                "name":"Frank, Barney",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "14824":{
-                "district":"4",
-                "name":"Frank, Barney",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "14824":{
-                "district":"4",
-                "name":"Frank, Barney",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "14824":{
-                "district":"4",
-                "name":"Frank, Barney",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ma"
 },
   "bbox": [
     -71.41986,

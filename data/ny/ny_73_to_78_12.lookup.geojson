@@ -2,55 +2,12 @@
   "id": "ny_73_to_78_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"78",
-    "id":"036073078012",
-    "member":{
-        "73":{
-            "2585":{
-                "district":"12",
-                "name":"Dickstein, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "2585":{
-                "district":"12",
-                "name":"Dickstein, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2585":{
-                "district":"12",
-                "name":"Dickstein, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2585":{
-                "district":"12",
-                "name":"Dickstein, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2585":{
-                "district":"12",
-                "name":"Dickstein, Samuel",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "2585":{
-                "district":"12",
-                "name":"Dickstein, Samuel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -74.00055,

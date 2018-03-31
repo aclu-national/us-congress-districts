@@ -2,55 +2,12 @@
   "id": "tn_52_to_57_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"57",
-    "id":"047052057010",
-    "member":{
-        "52":{
-            "7249":{
-                "district":"10",
-                "name":"Patterson, Josiah",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "7249":{
-                "district":"10",
-                "name":"Patterson, Josiah",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "7249":{
-                "district":"10",
-                "name":"Patterson, Josiah",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "1513":{
-                "district":"10",
-                "name":"Carmack, Edward Ward",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "1513":{
-                "district":"10",
-                "name":"Carmack, Edward Ward",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "7251":{
-                "district":"10",
-                "name":"Patterson, Malcolm Rice",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Tennessee"
+    "district":10,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

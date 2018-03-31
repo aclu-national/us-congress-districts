@@ -1,33 +1,13 @@
 {
-  "id": "oh_103_to_104_02",
+  "id": "oh_103_to_104_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"104",
-    "id":"039103104002",
-    "member":{
-        "103":{
-            "14225":{
-                "district":"2",
-                "name":"Gradison, Willis",
-                "party":"Republican"
-            },
-            "29386":{
-                "district":"2",
-                "name":"Portman, Rob",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29386":{
-                "district":"2",
-                "name":"Portman, Rob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

@@ -2,48 +2,12 @@
   "id": "ma_18_to_22_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"22",
-    "id":"025018022010",
-    "member":{
-        "18":{
-            "344":{
-                "district":"10",
-                "name":"Bailey, John",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "344":{
-                "district":"10",
-                "name":"Bailey, John",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "344":{
-                "district":"10",
-                "name":"Bailey, John",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "344":{
-                "district":"10",
-                "name":"Bailey, John",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "2452":{
-                "district":"10",
-                "name":"Dearborn, Henry Alexander",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ma"
 },
   "bbox": [
     -71.60284,

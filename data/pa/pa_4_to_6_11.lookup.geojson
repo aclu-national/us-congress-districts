@@ -2,34 +2,12 @@
   "id": "pa_4_to_6_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"6",
-    "id":"042004006011",
-    "member":{
-        "4":{
-            "3147":{
-                "district":"11",
-                "name":"Findley, William",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "3147":{
-                "district":"11",
-                "name":"Findley, William",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "8596":{
-                "district":"11",
-                "name":"Smilie, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1801-03-03",
+    "end_session":6,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"pa"
 },
   "bbox": [
     -80.01075,

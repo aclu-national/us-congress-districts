@@ -2,20 +2,12 @@
   "id": "ny_98_to_98_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"98",
-    "id":"036098098027",
-    "member":{
-        "98":{
-            "14870":{
-                "district":"27",
-                "name":"Wortley, George",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ny"
 },
   "bbox": [
     -76.49932,

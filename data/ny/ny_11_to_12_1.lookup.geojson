@@ -1,28 +1,13 @@
 {
-  "id": "ny_11_to_12_01",
+  "id": "ny_11_to_12_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"12",
-    "id":"036011012001",
-    "member":{
-        "11":{
-            "8173":{
-                "district":"1",
-                "name":"Sage, Ebenezer",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "8173":{
-                "district":"1",
-                "name":"Sage, Ebenezer",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"11",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1809-03-04",
+    "start_session":11,
+    "state":"ny"
 },
   "bbox": [
     -74.04215,

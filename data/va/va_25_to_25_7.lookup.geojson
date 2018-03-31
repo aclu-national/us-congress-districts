@@ -1,21 +1,13 @@
 {
-  "id": "va_25_to_25_07",
+  "id": "va_25_to_25_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"25",
-    "id":"051025025007",
-    "member":{
-        "25":{
-            "9051":{
-                "district":"7",
-                "name":"Stuart, Archibald",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"25",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1839-03-03",
+    "end_session":25,
+    "start_date":"1837-03-04",
+    "start_session":25,
+    "state":"va"
 },
   "bbox": [
     -80.62578,

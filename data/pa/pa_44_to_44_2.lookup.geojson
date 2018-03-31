@@ -1,21 +1,13 @@
 {
-  "id": "pa_44_to_44_02",
+  "id": "pa_44_to_44_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"44",
-    "id":"042044044002",
-    "member":{
-        "44":{
-            "7076":{
-                "district":"2",
-                "name":"O'Neil, Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -75.18228,

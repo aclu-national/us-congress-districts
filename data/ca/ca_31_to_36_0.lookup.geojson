@@ -1,86 +1,13 @@
 {
-  "id": "ca_31_to_36_00",
+  "id": "ca_31_to_36_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"36",
-    "id":"006031036000",
-    "member":{
-        "31":{
-            "10388":{
-                "district":"98",
-                "name":"Wright, George Washington",
-                "party":"Independent"
-            },
-            "3572":{
-                "district":"98",
-                "name":"Gilbert, Edward",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "5997":{
-                "district":"98",
-                "name":"Marshall, Edward Chauncey",
-                "party":"Democrat"
-            },
-            "6175":{
-                "district":"98",
-                "name":"McCorkle, Joseph Walker",
-                "party":"Democrat"
-            }
-        },
-        "33":{
-            "5490":{
-                "district":"98",
-                "name":"Latham, Milton Slocum",
-                "party":"Democrat"
-            },
-            "6222":{
-                "district":"98",
-                "name":"McDougall, James Alexander",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "2518":{
-                "district":"98",
-                "name":"Denver, James William",
-                "party":"Democrat"
-            },
-            "4351":{
-                "district":"98",
-                "name":"Herbert, Philemon Thomas",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "6305":{
-                "district":"98",
-                "name":"McKibbin, Joseph Chambers",
-                "party":"Democrat"
-            },
-            "8294":{
-                "district":"98",
-                "name":"Scott, Charles Lewis",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "1244":{
-                "district":"98",
-                "name":"Burch, John Chilton",
-                "party":"Democrat"
-            },
-            "8294":{
-                "district":"98",
-                "name":"Scott, Charles Lewis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"31",
-    "statename":"California"
+    "district":0,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1849-03-05",
+    "start_session":31,
+    "state":"ca"
 },
   "bbox": [
     -124.41501,

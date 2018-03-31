@@ -1,33 +1,13 @@
 {
-  "id": "ma_63_to_64_03",
+  "id": "ma_63_to_64_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"64",
-    "id":"025063064003",
-    "member":{
-        "63":{
-            "10107":{
-                "district":"3",
-                "name":"Wilder, William Henry",
-                "party":"Republican"
-            },
-            "7162":{
-                "district":"3",
-                "name":"Paige, Calvin DeWitt",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "7162":{
-                "district":"3",
-                "name":"Paige, Calvin DeWitt",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ma"
 },
   "bbox": [
     -72.39556,

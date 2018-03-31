@@ -1,49 +1,13 @@
 {
-  "id": "wa_93_to_97_01",
+  "id": "wa_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"053093097001",
-    "member":{
-        "93":{
-            "14044":{
-                "district":"1",
-                "name":"Pritchard, Joel",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14044":{
-                "district":"1",
-                "name":"Pritchard, Joel",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14044":{
-                "district":"1",
-                "name":"Pritchard, Joel",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14044":{
-                "district":"1",
-                "name":"Pritchard, Joel",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14044":{
-                "district":"1",
-                "name":"Pritchard, Joel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Washington"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"wa"
 },
   "bbox": [
     -122.43694,

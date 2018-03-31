@@ -1,54 +1,13 @@
 {
-  "id": "mo_53_to_57_05",
+  "id": "mo_53_to_57_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"57",
-    "id":"029053057005",
-    "member":{
-        "53":{
-            "9181":{
-                "district":"5",
-                "name":"Tarsney, John Charles",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9181":{
-                "district":"5",
-                "name":"Tarsney, John Charles",
-                "party":"Democrat"
-            },
-            "9618":{
-                "district":"5",
-                "name":"Van Horn, Robert Thompson",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2106":{
-                "district":"5",
-                "name":"Cowherd, William Strother",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "2106":{
-                "district":"5",
-                "name":"Cowherd, William Strother",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "2106":{
-                "district":"5",
-                "name":"Cowherd, William Strother",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Missouri"
+    "district":5,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mo"
 },
   "bbox": [
     -94.60863,

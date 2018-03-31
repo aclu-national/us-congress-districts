@@ -1,42 +1,13 @@
 {
-  "id": "tx_99_to_102_04",
+  "id": "tx_99_to_102_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"102",
-    "id":"048099102004",
-    "member":{
-        "100":{
-            "14828":{
-                "district":"4",
-                "name":"Hall, Ralph M.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14828":{
-                "district":"4",
-                "name":"Hall, Ralph M.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14828":{
-                "district":"4",
-                "name":"Hall, Ralph M.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14828":{
-                "district":"4",
-                "name":"Hall, Ralph M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Texas"
+    "district":4,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"tx"
 },
   "bbox": [
     -96.94474,

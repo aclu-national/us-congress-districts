@@ -1,35 +1,13 @@
 {
-  "id": "wi_45_to_47_06",
+  "id": "wi_45_to_47_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"47",
-    "id":"055045047006",
-    "member":{
-        "45":{
-            "875":{
-                "district":"6",
-                "name":"Bouck, Gabriel",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "875":{
-                "district":"6",
-                "name":"Bouck, Gabriel",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "3869":{
-                "district":"6",
-                "name":"Guenther, Richard William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Wisconsin"
+    "district":6,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"wi"
 },
   "bbox": [
     -89.59837,

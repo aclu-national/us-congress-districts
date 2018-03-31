@@ -1,28 +1,13 @@
 {
-  "id": "az_90_to_91_03",
+  "id": "az_90_to_91_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"91",
-    "id":"004090091003",
-    "member":{
-        "90":{
-            "11050":{
-                "district":"3",
-                "name":"Steiger, Sam",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11050":{
-                "district":"3",
-                "name":"Steiger, Sam",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Arizona"
+    "district":3,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"az"
 },
   "bbox": [
     -114.75605,

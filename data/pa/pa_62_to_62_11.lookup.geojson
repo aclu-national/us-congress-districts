@@ -2,20 +2,12 @@
   "id": "pa_62_to_62_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"62",
-    "id":"042062062011",
-    "member":{
-        "62":{
-            "917":{
-                "district":"11",
-                "name":"Bowman, Charles Calvin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"62",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1911-04-04",
+    "start_session":62,
+    "state":"pa"
 },
   "bbox": [
     -76.31974,

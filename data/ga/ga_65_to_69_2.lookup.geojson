@@ -1,49 +1,13 @@
 {
-  "id": "ga_65_to_69_02",
+  "id": "ga_65_to_69_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"69",
-    "id":"013065069002",
-    "member":{
-        "65":{
-            "7185":{
-                "district":"2",
-                "name":"Park, Frank",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "7185":{
-                "district":"2",
-                "name":"Park, Frank",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "7185":{
-                "district":"2",
-                "name":"Park, Frank",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "7185":{
-                "district":"2",
-                "name":"Park, Frank",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "2111":{
-                "district":"2",
-                "name":"Cox, Edward Eugene",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Georgia"
+    "district":2,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ga"
 },
   "bbox": [
     -85.1146,

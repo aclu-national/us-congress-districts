@@ -2,46 +2,12 @@
   "id": "tx_94_to_97_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"97",
-    "id":"048094097022",
-    "member":{
-        "94":{
-            "14290":{
-                "district":"22",
-                "name":"Paul, Ron",
-                "party":"Republican"
-            },
-            "1577":{
-                "district":"22",
-                "name":"Casey, Robert Randolph",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14420":{
-                "district":"22",
-                "name":"Gammage, Bob",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14290":{
-                "district":"22",
-                "name":"Paul, Ron",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14290":{
-                "district":"22",
-                "name":"Paul, Ron",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"Texas"
+    "district":22,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"tx"
 },
   "bbox": [
     -96.12628,

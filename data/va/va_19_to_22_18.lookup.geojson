@@ -2,46 +2,12 @@
   "id": "va_19_to_22_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"22",
-    "id":"051019022018",
-    "member":{
-        "19":{
-            "4974":{
-                "district":"18",
-                "name":"Johnson, Joseph",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "5582":{
-                "district":"18",
-                "name":"Leffler, Isaac",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "2637":{
-                "district":"18",
-                "name":"Doddridge, Philip",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "2637":{
-                "district":"18",
-                "name":"Doddridge, Philip",
-                "party":"Anti-Jackson"
-            },
-            "4974":{
-                "district":"18",
-                "name":"Johnson, Joseph",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":18,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -81.20107,

@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"32",
-    "id":"036028032029",
-    "member":{
-        "28":{
-            "1537":{
-                "district":"29",
-                "name":"Carroll, Charles Hobart",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "1537":{
-                "district":"29",
-                "name":"Carroll, Charles Hobart",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "8061":{
-                "district":"29",
-                "name":"Rose, Robert Lawson",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "8061":{
-                "district":"29",
-                "name":"Rose, Robert Lawson",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "4587":{
-                "district":"29",
-                "name":"Horsford, Jerediah",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -78.06096,

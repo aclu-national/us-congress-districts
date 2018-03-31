@@ -2,41 +2,12 @@
   "id": "ca_99_to_102_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"102",
-    "id":"006099102016",
-    "member":{
-        "100":{
-            "14444":{
-                "district":"16",
-                "name":"Panetta, Leon",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14444":{
-                "district":"16",
-                "name":"Panetta, Leon",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14444":{
-                "district":"16",
-                "name":"Panetta, Leon",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14444":{
-                "district":"16",
-                "name":"Panetta, Leon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":16,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -122.3162,

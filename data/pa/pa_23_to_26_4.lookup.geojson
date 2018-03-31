@@ -1,82 +1,13 @@
 {
-  "id": "pa_23_to_26_04",
+  "id": "pa_23_to_26_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"26",
-    "id":"042023026004",
-    "member":{
-        "23":{
-            "2340":{
-                "district":"4",
-                "name":"Darlington, Edward",
-                "party":"Anti Masonic"
-            },
-            "4395":{
-                "district":"4",
-                "name":"Hiester, William",
-                "party":"Anti Masonic"
-            },
-            "7562":{
-                "district":"4",
-                "name":"Potts, David Jr.",
-                "party":"Anti Masonic"
-            }
-        },
-        "24":{
-            "2340":{
-                "district":"4",
-                "name":"Darlington, Edward",
-                "party":"Anti Masonic"
-            },
-            "4395":{
-                "district":"4",
-                "name":"Hiester, William",
-                "party":"Anti Masonic"
-            },
-            "7562":{
-                "district":"4",
-                "name":"Potts, David Jr.",
-                "party":"Anti Masonic"
-            }
-        },
-        "25":{
-            "2340":{
-                "district":"4",
-                "name":"Darlington, Edward",
-                "party":"Anti Masonic"
-            },
-            "2370":{
-                "district":"4",
-                "name":"Davies, Edward",
-                "party":"Anti Masonic"
-            },
-            "7562":{
-                "district":"4",
-                "name":"Potts, David Jr.",
-                "party":"Anti Masonic"
-            }
-        },
-        "26":{
-            "2370":{
-                "district":"4",
-                "name":"Davies, Edward",
-                "party":"Anti Masonic"
-            },
-            "2868":{
-                "district":"4",
-                "name":"Edwards, John",
-                "party":"Anti Masonic"
-            },
-            "4883":{
-                "district":"4",
-                "name":"James, Francis",
-                "party":"Anti Masonic"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -76.72155,

@@ -2,20 +2,12 @@
   "id": "ny_93_to_93_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"93",
-    "id":"036093093024",
-    "member":{
-        "93":{
-            "90618":{
-                "district":"24",
-                "name":"Reid, Ogden R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New York"
+    "district":24,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ny"
 },
   "bbox": [
     -73.89901,

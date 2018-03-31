@@ -1,19 +1,13 @@
 {
-  "id": "tn_113_to_115_01",
+  "id": "tn_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":10727835227,
-    "AWATER":207547598,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4701",
-    "INTPTLAT":"+36.2124803",
-    "INTPTLON":"-082.7999330",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"47"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tn"
 },
   "bbox": [
     -83.794275,

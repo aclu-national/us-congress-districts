@@ -1,42 +1,13 @@
 {
-  "id": "wi_89_to_92_01",
+  "id": "wi_89_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"055089092001",
-    "member":{
-        "89":{
-            "10772":{
-                "district":"1",
-                "name":"Stalbaum, Lynn E.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10556":{
-                "district":"1",
-                "name":"Schadeberg, Henry C.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10556":{
-                "district":"1",
-                "name":"Schadeberg, Henry C.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13003":{
-                "district":"1",
-                "name":"Aspin, Les",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Wisconsin"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"wi"
 },
   "bbox": [
     -89.36926,

@@ -2,20 +2,12 @@
   "id": "ny_65_to_65_34",
   "type": "Feature",
   "properties": {
-    "district":"34",
-    "endcong":"65",
-    "id":"036065065034",
-    "member":{
-        "65":{
-            "3048":{
-                "district":"34",
-                "name":"Fairchild, George Winthrop",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"New York"
+    "district":34,
+    "end_date":"1919-03-03",
+    "end_session":65,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ny"
 },
   "bbox": [
     -76.13018,

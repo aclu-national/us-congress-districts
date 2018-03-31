@@ -1,28 +1,13 @@
 {
-  "id": "mo_88_to_89_04",
+  "id": "mo_88_to_89_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"89",
-    "id":"029088089004",
-    "member":{
-        "88":{
-            "7717":{
-                "district":"4",
-                "name":"Randall, William Joseph",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "7717":{
-                "district":"4",
-                "name":"Randall, William Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Missouri"
+    "district":4,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mo"
 },
   "bbox": [
     -94.61798,

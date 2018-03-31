@@ -1,42 +1,13 @@
 {
-  "id": "ks_56_to_59_03",
+  "id": "ks_56_to_59_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"59",
-    "id":"020056059003",
-    "member":{
-        "56":{
-            "7896":{
-                "district":"3",
-                "name":"Ridgely, Edwin Reed",
-                "party":"Populist"
-            }
-        },
-        "57":{
-            "4841":{
-                "district":"3",
-                "name":"Jackson, Alfred Metcalf",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "1462":{
-                "district":"3",
-                "name":"Campbell, Philip Pitt",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "1462":{
-                "district":"3",
-                "name":"Campbell, Philip Pitt",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Kansas"
+    "district":3,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"ks"
 },
   "bbox": [
     -97.15327,

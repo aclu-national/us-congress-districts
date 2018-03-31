@@ -1,40 +1,13 @@
 {
-  "id": "ga_40_to_42_01",
+  "id": "ga_40_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"013040042001",
-    "member":{
-        "40":{
-            "1842":{
-                "district":"1",
-                "name":"Clift, Joseph Wales",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "1842":{
-                "district":"1",
-                "name":"Clift, Joseph Wales",
-                "party":"Republican"
-            },
-            "7169":{
-                "district":"1",
-                "name":"Paine, William Wiseham",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "5882":{
-                "district":"1",
-                "name":"MacIntyre, Archibald Thompson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Georgia"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"ga"
 },
   "bbox": [
     -84.282,

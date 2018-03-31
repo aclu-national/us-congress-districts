@@ -1,21 +1,13 @@
 {
-  "id": "pa_44_to_44_01",
+  "id": "pa_44_to_44_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"44",
-    "id":"042044044001",
-    "member":{
-        "44":{
-            "3354":{
-                "district":"1",
-                "name":"Freeman, Chapman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -75.21453,

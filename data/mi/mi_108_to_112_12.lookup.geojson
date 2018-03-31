@@ -2,48 +2,12 @@
   "id": "mi_108_to_112_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"112",
-    "id":"026108112012",
-    "member":{
-        "108":{
-            "15033":{
-                "district":"12",
-                "name":"Levin, Sander M.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15033":{
-                "district":"12",
-                "name":"Levin, Sander M.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "15033":{
-                "district":"12",
-                "name":"Levin, Sander M.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "15033":{
-                "district":"12",
-                "name":"Levin, Sander M.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "15033":{
-                "district":"12",
-                "name":"Levin, Sander M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Michigan"
+    "district":12,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mi"
 },
   "bbox": [
     -83.31953,

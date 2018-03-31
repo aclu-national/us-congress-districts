@@ -2,76 +2,12 @@
   "id": "tx_74_to_82_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"82",
-    "id":"048074082021",
-    "member":{
-        "74":{
-            "8746":{
-                "district":"21",
-                "name":"South, Charles Lacy",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8746":{
-                "district":"21",
-                "name":"South, Charles Lacy",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8746":{
-                "district":"21",
-                "name":"South, Charles Lacy",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8746":{
-                "district":"21",
-                "name":"South, Charles Lacy",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "3171":{
-                "district":"21",
-                "name":"Fisher, Ovie Clark",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "3171":{
-                "district":"21",
-                "name":"Fisher, Ovie Clark",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "3171":{
-                "district":"21",
-                "name":"Fisher, Ovie Clark",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "3171":{
-                "district":"21",
-                "name":"Fisher, Ovie Clark",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "3171":{
-                "district":"21",
-                "name":"Fisher, Ovie Clark",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":21,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -101.76092,

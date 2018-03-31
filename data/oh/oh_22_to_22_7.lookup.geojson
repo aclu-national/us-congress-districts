@@ -1,21 +1,13 @@
 {
-  "id": "oh_22_to_22_07",
+  "id": "oh_22_to_22_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"22",
-    "id":"039022022007",
-    "member":{
-        "22":{
-            "9679":{
-                "district":"7",
-                "name":"Vinton, Samuel Finley",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"22",
-    "statename":"Ohio"
+    "district":7,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1831-12-05",
+    "start_session":22,
+    "state":"oh"
 },
   "bbox": [
     -83.38564,

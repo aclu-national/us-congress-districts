@@ -1,49 +1,13 @@
 {
-  "id": "oh_93_to_97_03",
+  "id": "oh_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"039093097003",
-    "member":{
-        "93":{
-            "11054":{
-                "district":"3",
-                "name":"Whalen, Charles W., Jr.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "11054":{
-                "district":"3",
-                "name":"Whalen, Charles W., Jr.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "11054":{
-                "district":"3",
-                "name":"Whalen, Charles W., Jr.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14632":{
-                "district":"3",
-                "name":"Hall, Tony Patrick",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14632":{
-                "district":"3",
-                "name":"Hall, Tony Patrick",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"oh"
 },
   "bbox": [
     -84.48565,

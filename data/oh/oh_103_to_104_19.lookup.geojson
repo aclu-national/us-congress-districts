@@ -2,27 +2,12 @@
   "id": "oh_103_to_104_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"104",
-    "id":"039103104019",
-    "member":{
-        "103":{
-            "29391":{
-                "district":"19",
-                "name":"Fingerhut, Eric D.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29553":{
-                "district":"19",
-                "name":"LaTourette, Steven C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Ohio"
+    "district":19,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"oh"
 },
   "bbox": [
     -81.8859,

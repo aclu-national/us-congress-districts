@@ -1,49 +1,13 @@
 {
-  "id": "or_103_to_107_02",
+  "id": "or_103_to_107_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"107",
-    "id":"041103107002",
-    "member":{
-        "103":{
-            "15063":{
-                "district":"2",
-                "name":"Smith, Robert F.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29557":{
-                "district":"2",
-                "name":"Cooley, Wes",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15063":{
-                "district":"2",
-                "name":"Smith, Robert F.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29932":{
-                "district":"2",
-                "name":"Walden, Greg",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29932":{
-                "district":"2",
-                "name":"Walden, Greg",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Oregon"
+    "district":2,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"or"
 },
   "bbox": [
     -124.03935,

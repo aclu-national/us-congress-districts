@@ -1,63 +1,13 @@
 {
-  "id": "ga_53_to_59_09",
+  "id": "ga_53_to_59_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"59",
-    "id":"013053059009",
-    "member":{
-        "53":{
-            "9184":{
-                "district":"9",
-                "name":"Tate, Farish Carter",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9184":{
-                "district":"9",
-                "name":"Tate, Farish Carter",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "9184":{
-                "district":"9",
-                "name":"Tate, Farish Carter",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "9184":{
-                "district":"9",
-                "name":"Tate, Farish Carter",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "9184":{
-                "district":"9",
-                "name":"Tate, Farish Carter",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "9184":{
-                "district":"9",
-                "name":"Tate, Farish Carter",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "614":{
-                "district":"9",
-                "name":"Bell, Thomas Montgomery",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Georgia"
+    "district":9,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ga"
 },
   "bbox": [
     -84.65923,

@@ -2,18 +2,12 @@
   "id": "fl_113_to_115_21",
   "type": "Feature",
   "properties": {
-    "ALAND":675505315,
-    "AWATER":9098541,
-    "CD113FP":"21",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1221",
-    "INTPTLAT":"+26.4686927",
-    "INTPTLON":"-080.2113006",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 21",
-    "STATEFP":"12"
+    "district":21,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"fl"
 },
   "bbox": [
     -80.379379,

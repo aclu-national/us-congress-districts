@@ -1,49 +1,13 @@
 {
-  "id": "in_108_to_112_02",
+  "id": "in_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"018108112002",
-    "member":{
-        "108":{
-            "20324":{
-                "district":"2",
-                "name":"Chocola, Chris",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20324":{
-                "district":"2",
-                "name":"Chocola, Chris",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20717":{
-                "district":"2",
-                "name":"Donnelly, Joe",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20717":{
-                "district":"2",
-                "name":"Donnelly, Joe",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20717":{
-                "district":"2",
-                "name":"Donnelly, Joe",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Indiana"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"in"
 },
   "bbox": [
     -87.02867,

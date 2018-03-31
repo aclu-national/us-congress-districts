@@ -2,27 +2,12 @@
   "id": "nc_91_to_92_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"92",
-    "id":"037091092010",
-    "member":{
-        "91":{
-            "10574":{
-                "district":"10",
-                "name":"Broyhill, James T.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10574":{
-                "district":"10",
-                "name":"Broyhill, James T.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"North Carolina"
+    "district":10,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nc"
 },
   "bbox": [
     -82.08054,

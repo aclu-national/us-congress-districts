@@ -1,28 +1,13 @@
 {
-  "id": "nc_91_to_92_09",
+  "id": "nc_91_to_92_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"92",
-    "id":"037091092009",
-    "member":{
-        "91":{
-            "5019":{
-                "district":"9",
-                "name":"Jonas, Charles Raper",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "5019":{
-                "district":"9",
-                "name":"Jonas, Charles Raper",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"North Carolina"
+    "district":9,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nc"
 },
   "bbox": [
     -81.54546,

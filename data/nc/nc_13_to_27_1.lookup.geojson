@@ -1,119 +1,13 @@
 {
-  "id": "nc_13_to_27_01",
+  "id": "nc_13_to_27_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"27",
-    "id":"037013027001",
-    "member":{
-        "13":{
-            "6802":{
-                "district":"1",
-                "name":"Murfree, William Hardy",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "6802":{
-                "district":"1",
-                "name":"Murfree, William Hardy",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "8237":{
-                "district":"1",
-                "name":"Sawyer, Lemuel",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "8237":{
-                "district":"1",
-                "name":"Sawyer, Lemuel",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "8237":{
-                "district":"1",
-                "name":"Sawyer, Lemuel",
-                "party":"Republican"
-            }
-        },
-        "18":{
-            "3507":{
-                "district":"1",
-                "name":"Gatlin, Alfred Moore",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "8237":{
-                "district":"1",
-                "name":"Sawyer, Lemuel",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "8237":{
-                "district":"1",
-                "name":"Sawyer, Lemuel",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "8441":{
-                "district":"1",
-                "name":"Shepard, William Biddle",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "8441":{
-                "district":"1",
-                "name":"Shepard, William Biddle",
-                "party":"Anti-Jackson"
-            }
-        },
-        "23":{
-            "8441":{
-                "district":"1",
-                "name":"Shepard, William Biddle",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "8441":{
-                "district":"1",
-                "name":"Shepard, William Biddle",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "8241":{
-                "district":"1",
-                "name":"Sawyer, Samuel Tredwell",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "7758":{
-                "district":"1",
-                "name":"Rayner, Kenneth",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "7758":{
-                "district":"1",
-                "name":"Rayner, Kenneth",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"nc"
 },
   "bbox": [
     -77.20879,

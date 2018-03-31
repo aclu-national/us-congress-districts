@@ -2,20 +2,12 @@
   "id": "ny_92_to_92_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"92",
-    "id":"036092092022",
-    "member":{
-        "92":{
-            "10768":{
-                "district":"22",
-                "name":"Scheuer, James H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"ny"
 },
   "bbox": [
     -73.90659,

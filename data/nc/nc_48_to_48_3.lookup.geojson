@@ -1,21 +1,13 @@
 {
-  "id": "nc_48_to_48_03",
+  "id": "nc_48_to_48_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"48",
-    "id":"037048048003",
-    "member":{
-        "48":{
-            "3784":{
-                "district":"3",
-                "name":"Green, Wharton Jackson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"nc"
 },
   "bbox": [
     -79.76934,

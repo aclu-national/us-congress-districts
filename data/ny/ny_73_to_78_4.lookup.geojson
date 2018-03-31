@@ -1,61 +1,13 @@
 {
-  "id": "ny_73_to_78_04",
+  "id": "ny_73_to_78_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"78",
-    "id":"036073078004",
-    "member":{
-        "73":{
-            "2236":{
-                "district":"4",
-                "name":"Cullen, Thomas Henry",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "2236":{
-                "district":"4",
-                "name":"Cullen, Thomas Henry",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2236":{
-                "district":"4",
-                "name":"Cullen, Thomas Henry",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2236":{
-                "district":"4",
-                "name":"Cullen, Thomas Henry",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2236":{
-                "district":"4",
-                "name":"Cullen, Thomas Henry",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "2236":{
-                "district":"4",
-                "name":"Cullen, Thomas Henry",
-                "party":"Democrat"
-            },
-            "8049":{
-                "district":"4",
-                "name":"Rooney, John James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -74.03155,

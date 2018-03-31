@@ -1,21 +1,13 @@
 {
-  "id": "nj_90_to_90_06",
+  "id": "nj_90_to_90_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"90",
-    "id":"034090090006",
-    "member":{
-        "90":{
-            "1393":{
-                "district":"6",
-                "name":"Cahill, William Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"New Jersey"
+    "district":6,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"nj"
 },
   "bbox": [
     -75.11632,

@@ -1,49 +1,13 @@
 {
-  "id": "md_98_to_102_06",
+  "id": "md_98_to_102_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"102",
-    "id":"024098102006",
-    "member":{
-        "100":{
-            "14608":{
-                "district":"6",
-                "name":"Byron, Beverly Barton Butcher",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14608":{
-                "district":"6",
-                "name":"Byron, Beverly Barton Butcher",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14608":{
-                "district":"6",
-                "name":"Byron, Beverly Barton Butcher",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14608":{
-                "district":"6",
-                "name":"Byron, Beverly Barton Butcher",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14608":{
-                "district":"6",
-                "name":"Byron, Beverly Barton Butcher",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"md"
 },
   "bbox": [
     -79.48788,

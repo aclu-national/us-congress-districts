@@ -2,48 +2,12 @@
   "id": "va_3_to_7_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"7",
-    "id":"051003007015",
-    "member":{
-        "3":{
-            "5903":{
-                "district":"15",
-                "name":"Madison, James",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "5903":{
-                "district":"15",
-                "name":"Madison, James",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "2426":{
-                "district":"15",
-                "name":"Dawson, John",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "2426":{
-                "district":"15",
-                "name":"Dawson, John",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "2426":{
-                "district":"15",
-                "name":"Dawson, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Virginia"
+    "district":15,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"va"
 },
   "bbox": [
     -78.66317,

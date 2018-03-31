@@ -1,21 +1,13 @@
 {
-  "id": "ny_91_to_91_09",
+  "id": "ny_91_to_91_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"91",
-    "id":"036091091009",
-    "member":{
-        "91":{
-            "2476":{
-                "district":"9",
-                "name":"Delaney, James Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New York"
+    "district":9,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ny"
 },
   "bbox": [
     -73.96161,

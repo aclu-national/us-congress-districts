@@ -1,42 +1,13 @@
 {
-  "id": "va_49_to_52_01",
+  "id": "va_49_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"051049052001",
-    "member":{
-        "49":{
-            "2217":{
-                "district":"1",
-                "name":"Croxton, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "1145":{
-                "district":"1",
-                "name":"Browne, Thomas Henry Bayliss",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "1145":{
-                "district":"1",
-                "name":"Browne, Thomas Henry Bayliss",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "5067":{
-                "district":"1",
-                "name":"Jones, William Atkinson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"va"
 },
   "bbox": [
     -77.95482,

@@ -2,27 +2,12 @@
   "id": "ny_66_to_67_40",
   "type": "Feature",
   "properties": {
-    "district":"40",
-    "endcong":"67",
-    "id":"036066067040",
-    "member":{
-        "66":{
-            "2491":{
-                "district":"40",
-                "name":"Dempsey, Stephen Wallace",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "2491":{
-                "district":"40",
-                "name":"Dempsey, Stephen Wallace",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":40,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -79.07327,

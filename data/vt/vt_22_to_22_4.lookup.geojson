@@ -1,21 +1,13 @@
 {
-  "id": "vt_22_to_22_04",
+  "id": "vt_22_to_22_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"22",
-    "id":"050022022004",
-    "member":{
-        "22":{
-            "106":{
-                "district":"4",
-                "name":"Allen, Heman (of Milton)",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"22",
-    "statename":"Vermont"
+    "district":4,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1831-12-05",
+    "start_session":22,
+    "state":"vt"
 },
   "bbox": [
     -73.39023,

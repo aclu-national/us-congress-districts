@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"47",
-    "id":"036044047025",
-    "member":{
-        "44":{
-            "5546":{
-                "district":"25",
-                "name":"Leavenworth, Elias Warner",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "4452":{
-                "district":"25",
-                "name":"Hiscock, Frank",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "4452":{
-                "district":"25",
-                "name":"Hiscock, Frank",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "4452":{
-                "district":"25",
-                "name":"Hiscock, Frank",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -76.49932,

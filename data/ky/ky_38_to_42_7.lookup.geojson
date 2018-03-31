@@ -1,49 +1,13 @@
 {
-  "id": "ky_38_to_42_07",
+  "id": "ky_38_to_42_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"42",
-    "id":"021038042007",
-    "member":{
-        "38":{
-            "1807":{
-                "district":"7",
-                "name":"Clay, Brutus Junius",
-                "party":"Unionist"
-            }
-        },
-        "39":{
-            "8397":{
-                "district":"7",
-                "name":"Shanklin, George Sea",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "560":{
-                "district":"7",
-                "name":"Beck, James Burnie",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "560":{
-                "district":"7",
-                "name":"Beck, James Burnie",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "560":{
-                "district":"7",
-                "name":"Beck, James Burnie",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Kentucky"
+    "district":7,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ky"
 },
   "bbox": [
     -85.03966,

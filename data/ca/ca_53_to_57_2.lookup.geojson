@@ -1,54 +1,13 @@
 {
-  "id": "ca_53_to_57_02",
+  "id": "ca_53_to_57_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"57",
-    "id":"006053057002",
-    "member":{
-        "53":{
-            "1438":{
-                "district":"2",
-                "name":"Caminetti, Anthony",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "4956":{
-                "district":"2",
-                "name":"Johnson, Grove Lawrence",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2535":{
-                "district":"2",
-                "name":"De Vries, Marion",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "10356":{
-                "district":"2",
-                "name":"Woods, Samuel Davis",
-                "party":"Republican"
-            },
-            "2535":{
-                "district":"2",
-                "name":"De Vries, Marion",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "10356":{
-                "district":"2",
-                "name":"Woods, Samuel Davis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"California"
+    "district":2,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ca"
 },
   "bbox": [
     -122.06928,

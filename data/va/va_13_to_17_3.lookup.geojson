@@ -1,49 +1,13 @@
 {
-  "id": "va_13_to_17_03",
+  "id": "va_13_to_17_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"17",
-    "id":"051013017003",
-    "member":{
-        "13":{
-            "8646":{
-                "district":"3",
-                "name":"Smith, John",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "9497":{
-                "district":"3",
-                "name":"Tucker, Henry St. George",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "9497":{
-                "district":"3",
-                "name":"Tucker, Henry St. George",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "10155":{
-                "district":"3",
-                "name":"Williams, Jared",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "10155":{
-                "district":"3",
-                "name":"Williams, Jared",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":3,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -78.86928,

@@ -1,49 +1,13 @@
 {
-  "id": "ma_98_to_102_09",
+  "id": "ma_98_to_102_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"102",
-    "id":"025098102009",
-    "member":{
-        "100":{
-            "14039":{
-                "district":"9",
-                "name":"Moakley, John",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14039":{
-                "district":"9",
-                "name":"Moakley, John",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14039":{
-                "district":"9",
-                "name":"Moakley, John",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14039":{
-                "district":"9",
-                "name":"Moakley, John",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14039":{
-                "district":"9",
-                "name":"Moakley, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Massachusetts"
+    "district":9,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ma"
 },
   "bbox": [
     -71.30032,

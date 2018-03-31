@@ -1,28 +1,13 @@
 {
-  "id": "tx_51_to_52_05",
+  "id": "tx_51_to_52_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"52",
-    "id":"048051052005",
-    "member":{
-        "51":{
-            "4070":{
-                "district":"5",
-                "name":"Hare, Silas",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "347":{
-                "district":"5",
-                "name":"Bailey, Joseph Weldon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Texas"
+    "district":5,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"tx"
 },
   "bbox": [
     -99.4758,

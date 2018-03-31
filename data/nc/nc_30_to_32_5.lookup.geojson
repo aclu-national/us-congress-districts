@@ -1,35 +1,13 @@
 {
-  "id": "nc_30_to_32_05",
+  "id": "nc_30_to_32_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"32",
-    "id":"037030032005",
-    "member":{
-        "30":{
-            "9659":{
-                "district":"5",
-                "name":"Venable, Abraham Watkins",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "9659":{
-                "district":"5",
-                "name":"Venable, Abraham Watkins",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "9659":{
-                "district":"5",
-                "name":"Venable, Abraham Watkins",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"North Carolina"
+    "district":5,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"nc"
 },
   "bbox": [
     -79.5559,

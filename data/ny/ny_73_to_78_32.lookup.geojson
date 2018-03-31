@@ -2,60 +2,12 @@
   "id": "ny_73_to_78_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"78",
-    "id":"036073078032",
-    "member":{
-        "73":{
-            "2234":{
-                "district":"32",
-                "name":"Culkin, Francis Dugan",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "2234":{
-                "district":"32",
-                "name":"Culkin, Francis Dugan",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "2234":{
-                "district":"32",
-                "name":"Culkin, Francis Dugan",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "2234":{
-                "district":"32",
-                "name":"Culkin, Francis Dugan",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "2234":{
-                "district":"32",
-                "name":"Culkin, Francis Dugan",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "2234":{
-                "district":"32",
-                "name":"Culkin, Francis Dugan",
-                "party":"Republican"
-            },
-            "3396":{
-                "district":"32",
-                "name":"Fuller, Hadwen Carlton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":32,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

@@ -1,49 +1,13 @@
 {
-  "id": "ar_83_to_87_01",
+  "id": "ar_83_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"005083087001",
-    "member":{
-        "83":{
-            "3506":{
-                "district":"1",
-                "name":"Gathings, Ezekiel Candler",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "3506":{
-                "district":"1",
-                "name":"Gathings, Ezekiel Candler",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "3506":{
-                "district":"1",
-                "name":"Gathings, Ezekiel Candler",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "3506":{
-                "district":"1",
-                "name":"Gathings, Ezekiel Candler",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "3506":{
-                "district":"1",
-                "name":"Gathings, Ezekiel Candler",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Arkansas"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ar"
 },
   "bbox": [
     -91.15238,

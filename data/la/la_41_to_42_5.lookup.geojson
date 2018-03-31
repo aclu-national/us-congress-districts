@@ -1,28 +1,13 @@
 {
-  "id": "la_41_to_42_05",
+  "id": "la_41_to_42_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"42",
-    "id":"022041042005",
-    "member":{
-        "41":{
-            "6670":{
-                "district":"5",
-                "name":"Morey, Frank",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "6670":{
-                "district":"5",
-                "name":"Morey, Frank",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Louisiana"
+    "district":5,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"la"
 },
   "bbox": [
     -93.42926,

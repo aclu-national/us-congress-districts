@@ -1,75 +1,13 @@
 {
-  "id": "mn_64_to_71_07",
+  "id": "mn_64_to_71_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"71",
-    "id":"027064071007",
-    "member":{
-        "64":{
-            "9683":{
-                "district":"7",
-                "name":"Volstead, Andrew John",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "9683":{
-                "district":"7",
-                "name":"Volstead, Andrew John",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "9683":{
-                "district":"7",
-                "name":"Volstead, Andrew John",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9683":{
-                "district":"7",
-                "name":"Volstead, Andrew John",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "5383":{
-                "district":"7",
-                "name":"Kvale, Ole Juulson",
-                "party":"Farmer-Labor"
-            }
-        },
-        "69":{
-            "5383":{
-                "district":"7",
-                "name":"Kvale, Ole Juulson",
-                "party":"Farmer-Labor"
-            }
-        },
-        "70":{
-            "5383":{
-                "district":"7",
-                "name":"Kvale, Ole Juulson",
-                "party":"Farmer-Labor"
-            }
-        },
-        "71":{
-            "5383":{
-                "district":"7",
-                "name":"Kvale, Ole Juulson",
-                "party":"Farmer-Labor"
-            },
-            "5384":{
-                "district":"7",
-                "name":"Kvale, Paul John",
-                "party":"Farmer-Labor"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Minnesota"
+    "district":7,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mn"
 },
   "bbox": [
     -96.85775,

@@ -1,21 +1,13 @@
 {
-  "id": "pa_108_to_108_08",
+  "id": "pa_108_to_108_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"108",
-    "id":"042108108008",
-    "member":{
-        "108":{
-            "29397":{
-                "district":"8",
-                "name":"Greenwood, James C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"pa"
 },
   "bbox": [
     -75.48406,

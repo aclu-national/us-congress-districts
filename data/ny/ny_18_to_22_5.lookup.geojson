@@ -1,54 +1,13 @@
 {
-  "id": "ny_18_to_22_05",
+  "id": "ny_18_to_22_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"22",
-    "id":"036018022005",
-    "member":{
-        "18":{
-            "9644":{
-                "district":"5",
-                "name":"Van Wyck, William William",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "10010":{
-                "district":"5",
-                "name":"White, Bartow",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "6994":{
-                "district":"5",
-                "name":"Oakley, Thomas Jackson",
-                "party":"Jackson"
-            },
-            "9146":{
-                "district":"5",
-                "name":"Taber, Thomas, II",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "814":{
-                "district":"5",
-                "name":"Bockee, Abraham",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "7317":{
-                "district":"5",
-                "name":"Pendleton, Edmund Henry",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -74.00011,

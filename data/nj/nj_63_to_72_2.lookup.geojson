@@ -1,84 +1,13 @@
 {
-  "id": "nj_63_to_72_02",
+  "id": "nj_63_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"034063072002",
-    "member":{
-        "63":{
-            "365":{
-                "district":"2",
-                "name":"Baker, Jacob Thompson",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "318":{
-                "district":"2",
-                "name":"Bacharach, Isaac",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "318":{
-                "district":"2",
-                "name":"Bacharach, Isaac",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "318":{
-                "district":"2",
-                "name":"Bacharach, Isaac",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "318":{
-                "district":"2",
-                "name":"Bacharach, Isaac",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "318":{
-                "district":"2",
-                "name":"Bacharach, Isaac",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "318":{
-                "district":"2",
-                "name":"Bacharach, Isaac",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "318":{
-                "district":"2",
-                "name":"Bacharach, Isaac",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "318":{
-                "district":"2",
-                "name":"Bacharach, Isaac",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "318":{
-                "district":"2",
-                "name":"Bacharach, Isaac",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New Jersey"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nj"
 },
   "bbox": [
     -75.41956,

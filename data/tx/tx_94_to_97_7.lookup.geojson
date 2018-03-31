@@ -1,42 +1,13 @@
 {
-  "id": "tx_94_to_97_07",
+  "id": "tx_94_to_97_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"97",
-    "id":"048094097007",
-    "member":{
-        "94":{
-            "13002":{
-                "district":"7",
-                "name":"Archer, W.R.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "13002":{
-                "district":"7",
-                "name":"Archer, W.R.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "13002":{
-                "district":"7",
-                "name":"Archer, W.R.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "13002":{
-                "district":"7",
-                "name":"Archer, W.R.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"Texas"
+    "district":7,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"tx"
 },
   "bbox": [
     -95.96078,

@@ -1,33 +1,13 @@
 {
-  "id": "pa_51_to_52_03",
+  "id": "pa_51_to_52_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"52",
-    "id":"042051052003",
-    "member":{
-        "51":{
-            "7715":{
-                "district":"3",
-                "name":"Randall, Samuel Jackson",
-                "party":"Democrat"
-            },
-            "9654":{
-                "district":"3",
-                "name":"Vaux, Richard",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "6120":{
-                "district":"3",
-                "name":"McAleer, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -75.16632,

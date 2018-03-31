@@ -1,21 +1,13 @@
 {
-  "id": "tx_108_to_108_06",
+  "id": "tx_108_to_108_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"108",
-    "id":"048108108006",
-    "member":{
-        "108":{
-            "15085":{
-                "district":"6",
-                "name":"Barton, Joe L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tx"
 },
   "bbox": [
     -97.61713,

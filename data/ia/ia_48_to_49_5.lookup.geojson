@@ -1,33 +1,13 @@
 {
-  "id": "ia_48_to_49_05",
+  "id": "ia_48_to_49_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"49",
-    "id":"019048049005",
-    "member":{
-        "48":{
-            "10232":{
-                "district":"5",
-                "name":"Wilson, James",
-                "party":"Republican"
-            },
-            "3350":{
-                "district":"5",
-                "name":"Frederick, Benjamin Todd",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "3350":{
-                "district":"5",
-                "name":"Frederick, Benjamin Todd",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Iowa"
+    "district":5,
+    "end_date":"1887-03-03",
+    "end_session":49,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ia"
 },
   "bbox": [
     -93.23197,

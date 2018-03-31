@@ -1,35 +1,13 @@
 {
-  "id": "il_78_to_80_09",
+  "id": "il_78_to_80_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"80",
-    "id":"017078080009",
-    "member":{
-        "78":{
-            "2541":{
-                "district":"9",
-                "name":"Dewey, Charles Schuveldt",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "7823":{
-                "district":"9",
-                "name":"Resa, Alexander John",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "9537":{
-                "district":"9",
-                "name":"Twyman, Robert Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Illinois"
+    "district":9,
+    "end_date":"1948-12-31",
+    "end_session":80,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"il"
 },
   "bbox": [
     -87.65933,

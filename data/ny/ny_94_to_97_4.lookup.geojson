@@ -1,42 +1,13 @@
 {
-  "id": "ny_94_to_97_04",
+  "id": "ny_94_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"036094097004",
-    "member":{
-        "94":{
-            "13021":{
-                "district":"4",
-                "name":"Lent, Norman",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "13021":{
-                "district":"4",
-                "name":"Lent, Norman",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "13021":{
-                "district":"4",
-                "name":"Lent, Norman",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "13021":{
-                "district":"4",
-                "name":"Lent, Norman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -73.67657,

@@ -2,27 +2,12 @@
   "id": "tx_105_to_106_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"106",
-    "id":"048105106029",
-    "member":{
-        "105":{
-            "39304":{
-                "district":"29",
-                "name":"Green, Gene",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "39304":{
-                "district":"29",
-                "name":"Green, Gene",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Texas"
+    "district":29,
+    "end_date":"2000-12-15",
+    "end_session":106,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"tx"
 },
   "bbox": [
     -95.52599,

@@ -1,49 +1,13 @@
 {
-  "id": "pa_38_to_42_07",
+  "id": "pa_38_to_42_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"42",
-    "id":"042038042007",
-    "member":{
-        "38":{
-            "1086":{
-                "district":"7",
-                "name":"Broomall, John Martin",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "1086":{
-                "district":"7",
-                "name":"Broomall, John Martin",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "1086":{
-                "district":"7",
-                "name":"Broomall, John Martin",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "9441":{
-                "district":"7",
-                "name":"Townsend, Washington",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "9441":{
-                "district":"7",
-                "name":"Townsend, Washington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"pa"
 },
   "bbox": [
     -76.13638,

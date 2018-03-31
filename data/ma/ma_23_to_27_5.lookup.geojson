@@ -1,59 +1,13 @@
 {
-  "id": "ma_23_to_27_05",
+  "id": "ma_23_to_27_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"27",
-    "id":"025023027005",
-    "member":{
-        "23":{
-            "2394":{
-                "district":"5",
-                "name":"Davis, John",
-                "party":"Anti-Jackson"
-            },
-            "5669":{
-                "district":"5",
-                "name":"Lincoln, Levi",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "5669":{
-                "district":"5",
-                "name":"Lincoln, Levi",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "5669":{
-                "district":"5",
-                "name":"Lincoln, Levi",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "5669":{
-                "district":"5",
-                "name":"Lincoln, Levi",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "4687":{
-                "district":"5",
-                "name":"Hudson, Charles",
-                "party":"Whig"
-            },
-            "5669":{
-                "district":"5",
-                "name":"Lincoln, Levi",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ma"
 },
   "bbox": [
     -72.11663,

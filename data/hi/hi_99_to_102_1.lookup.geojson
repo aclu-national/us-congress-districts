@@ -1,47 +1,13 @@
 {
-  "id": "hi_99_to_102_01",
+  "id": "hi_99_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"015099102001",
-    "member":{
-        "100":{
-            "15441":{
-                "district":"1",
-                "name":"Saiki, Patricia",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15441":{
-                "district":"1",
-                "name":"Saiki, Patricia",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15245":{
-                "district":"1",
-                "name":"Abercrombie, Neil",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14425":{
-                "district":"1",
-                "name":"Heftel, Cecil",
-                "party":"Democrat"
-            },
-            "15245":{
-                "district":"1",
-                "name":"Abercrombie, Neil",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Hawaii"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"hi"
 },
   "bbox": [
     -158.0269,

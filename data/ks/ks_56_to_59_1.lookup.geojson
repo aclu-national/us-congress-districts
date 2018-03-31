@@ -1,42 +1,13 @@
 {
-  "id": "ks_56_to_59_01",
+  "id": "ks_56_to_59_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"59",
-    "id":"020056059001",
-    "member":{
-        "56":{
-            "2269":{
-                "district":"1",
-                "name":"Curtis, Charles",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2269":{
-                "district":"1",
-                "name":"Curtis, Charles",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "2269":{
-                "district":"1",
-                "name":"Curtis, Charles",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2269":{
-                "district":"1",
-                "name":"Curtis, Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Kansas"
+    "district":1,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"ks"
 },
   "bbox": [
     -96.23994,

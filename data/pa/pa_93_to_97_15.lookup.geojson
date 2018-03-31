@@ -2,48 +2,12 @@
   "id": "pa_93_to_97_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"97",
-    "id":"042093097015",
-    "member":{
-        "93":{
-            "10620":{
-                "district":"15",
-                "name":"Rooney, Fred B.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10620":{
-                "district":"15",
-                "name":"Rooney, Fred B.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10620":{
-                "district":"15",
-                "name":"Rooney, Fred B.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14654":{
-                "district":"15",
-                "name":"Ritter, Donald Lawrence",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14654":{
-                "district":"15",
-                "name":"Ritter, Donald Lawrence",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -75.89147,

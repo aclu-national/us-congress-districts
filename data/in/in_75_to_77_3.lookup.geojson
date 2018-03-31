@@ -1,35 +1,13 @@
 {
-  "id": "in_75_to_77_03",
+  "id": "in_75_to_77_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"77",
-    "id":"018075077003",
-    "member":{
-        "75":{
-            "7376":{
-                "district":"3",
-                "name":"Pettengill, Samuel Barrett",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3756":{
-                "district":"3",
-                "name":"Grant, Robert Allen",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "3756":{
-                "district":"3",
-                "name":"Grant, Robert Allen",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"75",
-    "statename":"Indiana"
+    "district":3,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1937-01-05",
+    "start_session":75,
+    "state":"in"
 },
   "bbox": [
     -86.93273,

@@ -1,49 +1,13 @@
 {
-  "id": "ny_83_to_87_08",
+  "id": "ny_83_to_87_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"87",
-    "id":"036083087008",
-    "member":{
-        "83":{
-            "4290":{
-                "district":"8",
-                "name":"Heller, Louis Benjamin",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "205":{
-                "district":"8",
-                "name":"Anfuso, Victor L'Episcopo",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "205":{
-                "district":"8",
-                "name":"Anfuso, Victor L'Episcopo",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "205":{
-                "district":"8",
-                "name":"Anfuso, Victor L'Episcopo",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "205":{
-                "district":"8",
-                "name":"Anfuso, Victor L'Episcopo",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -73.99543,

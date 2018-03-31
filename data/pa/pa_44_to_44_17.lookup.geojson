@@ -2,20 +2,12 @@
   "id": "pa_44_to_44_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"44",
-    "id":"042044044017",
-    "member":{
-        "44":{
-            "7815":{
-                "district":"17",
-                "name":"Reilly, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -79.41756,

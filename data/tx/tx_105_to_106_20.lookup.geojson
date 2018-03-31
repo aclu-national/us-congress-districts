@@ -2,27 +2,12 @@
   "id": "tx_105_to_106_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"106",
-    "id":"048105106020",
-    "member":{
-        "105":{
-            "10520":{
-                "district":"20",
-                "name":"Gonzalez, Henry B.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29943":{
-                "district":"20",
-                "name":"Gonzalez, Charles A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Texas"
+    "district":20,
+    "end_date":"2000-12-15",
+    "end_session":106,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"tx"
 },
   "bbox": [
     -98.80445,

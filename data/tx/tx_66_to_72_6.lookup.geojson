@@ -1,63 +1,13 @@
 {
-  "id": "tx_66_to_72_06",
+  "id": "tx_66_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"048066072006",
-    "member":{
-        "66":{
-            "4065":{
-                "district":"6",
-                "name":"Hardy, Rufus",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "4065":{
-                "district":"6",
-                "name":"Hardy, Rufus",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "4978":{
-                "district":"6",
-                "name":"Johnson, Luther Alexander",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "4978":{
-                "district":"6",
-                "name":"Johnson, Luther Alexander",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "4978":{
-                "district":"6",
-                "name":"Johnson, Luther Alexander",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "4978":{
-                "district":"6",
-                "name":"Johnson, Luther Alexander",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "4978":{
-                "district":"6",
-                "name":"Johnson, Luther Alexander",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -97.49711,

@@ -2,41 +2,12 @@
   "id": "tx_94_to_97_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"97",
-    "id":"048094097024",
-    "member":{
-        "94":{
-            "14037":{
-                "district":"24",
-                "name":"Milford, Dale",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14037":{
-                "district":"24",
-                "name":"Milford, Dale",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14626":{
-                "district":"24",
-                "name":"Frost, Jonas Martin III",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14626":{
-                "district":"24",
-                "name":"Frost, Jonas Martin III",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"Texas"
+    "district":24,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"tx"
 },
   "bbox": [
     -97.26485,

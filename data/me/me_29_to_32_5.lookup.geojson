@@ -1,42 +1,13 @@
 {
-  "id": "me_29_to_32_05",
+  "id": "me_29_to_32_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"32",
-    "id":"023029032005",
-    "member":{
-        "29":{
-            "8234":{
-                "district":"5",
-                "name":"Sawtelle, Cullen",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "8591":{
-                "district":"5",
-                "name":"Smart, Ephraim Knight",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "8234":{
-                "district":"5",
-                "name":"Sawtelle, Cullen",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "8591":{
-                "district":"5",
-                "name":"Smart, Ephraim Knight",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"Maine"
+    "district":5,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"me"
 },
   "bbox": [
     -70.55279,

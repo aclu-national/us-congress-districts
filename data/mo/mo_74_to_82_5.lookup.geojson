@@ -1,77 +1,13 @@
 {
-  "id": "mo_74_to_82_05",
+  "id": "mo_74_to_82_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"82",
-    "id":"029074082005",
-    "member":{
-        "74":{
-            "8400":{
-                "district":"5",
-                "name":"Shannon, Joseph Bernard",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8400":{
-                "district":"5",
-                "name":"Shannon, Joseph Bernard",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "8400":{
-                "district":"5",
-                "name":"Shannon, Joseph Bernard",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "8400":{
-                "district":"5",
-                "name":"Shannon, Joseph Bernard",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "8569":{
-                "district":"5",
-                "name":"Slaughter, Roger Caldwell",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "8569":{
-                "district":"5",
-                "name":"Slaughter, Roger Caldwell",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "7803":{
-                "district":"5",
-                "name":"Reeves, Albert Lee, Jr.",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "835":{
-                "district":"5",
-                "name":"Bolling, Richard Walker",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "835":{
-                "district":"5",
-                "name":"Bolling, Richard Walker",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Missouri"
+    "district":5,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mo"
 },
   "bbox": [
     -94.60863,

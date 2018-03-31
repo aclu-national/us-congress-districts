@@ -2,48 +2,12 @@
   "id": "pa_93_to_97_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"97",
-    "id":"042093097024",
-    "member":{
-        "93":{
-            "10778":{
-                "district":"24",
-                "name":"Vigorito, Joseph P.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10778":{
-                "district":"24",
-                "name":"Vigorito, Joseph P.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14436":{
-                "district":"24",
-                "name":"Marks, Marc",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14436":{
-                "district":"24",
-                "name":"Marks, Marc",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14436":{
-                "district":"24",
-                "name":"Marks, Marc",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":24,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

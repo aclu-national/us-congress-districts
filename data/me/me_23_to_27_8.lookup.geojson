@@ -1,43 +1,13 @@
 {
-  "id": "me_23_to_27_08",
+  "id": "me_23_to_27_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"27",
-    "id":"023023027008",
-    "member":{
-        "23":[],
-        "24":{
-            "7207":{
-                "district":"8",
-                "name":"Parks, Gorham",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "2350":{
-                "district":"8",
-                "name":"Davee, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "2350":{
-                "district":"8",
-                "name":"Davee, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "105":{
-                "district":"8",
-                "name":"Allen, Elisha Hunt",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Maine"
+    "district":8,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"me"
 },
   "bbox": [
     -69.73,

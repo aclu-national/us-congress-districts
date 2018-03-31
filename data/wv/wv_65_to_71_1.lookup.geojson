@@ -1,63 +1,13 @@
 {
-  "id": "wv_65_to_71_01",
+  "id": "wv_65_to_71_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"71",
-    "id":"054065071001",
-    "member":{
-        "65":{
-            "6856":{
-                "district":"1",
-                "name":"Neely, Matthew Mansfield",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "6856":{
-                "district":"1",
-                "name":"Neely, Matthew Mansfield",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "8064":{
-                "district":"1",
-                "name":"Rosenbloom, Benjamin Louis",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "8064":{
-                "district":"1",
-                "name":"Rosenbloom, Benjamin Louis",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "321":{
-                "district":"1",
-                "name":"Bachmann, Carl George",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "321":{
-                "district":"1",
-                "name":"Bachmann, Carl George",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "321":{
-                "district":"1",
-                "name":"Bachmann, Carl George",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"West Virginia"
+    "district":1,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"wv"
 },
   "bbox": [
     -80.94378,

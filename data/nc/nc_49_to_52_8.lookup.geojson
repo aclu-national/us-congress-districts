@@ -1,42 +1,13 @@
 {
-  "id": "nc_49_to_52_08",
+  "id": "nc_49_to_52_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"52",
-    "id":"037049052008",
-    "member":{
-        "49":{
-            "2110":{
-                "district":"8",
-                "name":"Cowles, William Henry H.",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "2110":{
-                "district":"8",
-                "name":"Cowles, William Henry H.",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "2110":{
-                "district":"8",
-                "name":"Cowles, William Henry H.",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "2110":{
-                "district":"8",
-                "name":"Cowles, William Henry H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"North Carolina"
+    "district":8,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"nc"
 },
   "bbox": [
     -81.98788,

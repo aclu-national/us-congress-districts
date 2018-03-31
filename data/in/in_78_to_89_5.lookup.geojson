@@ -1,103 +1,13 @@
 {
-  "id": "in_78_to_89_05",
+  "id": "in_78_to_89_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"89",
-    "id":"018078089005",
-    "member":{
-        "78":{
-            "4082":{
-                "district":"5",
-                "name":"Harness, Forest Arthur",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4082":{
-                "district":"5",
-                "name":"Harness, Forest Arthur",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "4082":{
-                "district":"5",
-                "name":"Harness, Forest Arthur",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "9784":{
-                "district":"5",
-                "name":"Walsh, John Richard",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "550":{
-                "district":"5",
-                "name":"Beamer, John Valentine",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "550":{
-                "district":"5",
-                "name":"Beamer, John Valentine",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "550":{
-                "district":"5",
-                "name":"Beamer, John Valentine",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "550":{
-                "district":"5",
-                "name":"Beamer, John Valentine",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "8084":{
-                "district":"5",
-                "name":"Roush, John Edward",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10509":{
-                "district":"5",
-                "name":"Chambers, George O.",
-                "party":"Republican"
-            },
-            "8084":{
-                "district":"5",
-                "name":"Roush, John Edward",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "8084":{
-                "district":"5",
-                "name":"Roush, John Edward",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "8084":{
-                "district":"5",
-                "name":"Roush, John Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Indiana"
+    "district":5,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"in"
 },
   "bbox": [
     -86.6958,

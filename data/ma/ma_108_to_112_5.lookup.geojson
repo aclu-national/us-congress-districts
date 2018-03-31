@@ -1,54 +1,13 @@
 {
-  "id": "ma_108_to_112_05",
+  "id": "ma_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"025108112005",
-    "member":{
-        "108":{
-            "29358":{
-                "district":"5",
-                "name":"Meehan, Martin T.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29358":{
-                "district":"5",
-                "name":"Meehan, Martin T.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20754":{
-                "district":"5",
-                "name":"Tsongas, Niki",
-                "party":"Democrat"
-            },
-            "29358":{
-                "district":"5",
-                "name":"Meehan, Martin T.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20754":{
-                "district":"5",
-                "name":"Tsongas, Niki",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20754":{
-                "district":"5",
-                "name":"Tsongas, Niki",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ma"
 },
   "bbox": [
     -71.72841,

@@ -1,45 +1,13 @@
 {
-  "id": "oh_30_to_32_06",
+  "id": "oh_30_to_32_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"32",
-    "id":"039030032006",
-    "member":{
-        "30":{
-            "2577":{
-                "district":"6",
-                "name":"Dickinson, Rodolphus",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "10319":{
-                "district":"6",
-                "name":"Wood, Amos Eastman",
-                "party":"Democrat"
-            },
-            "2577":{
-                "district":"6",
-                "name":"Dickinson, Rodolphus",
-                "party":"Democrat"
-            },
-            "605":{
-                "district":"6",
-                "name":"Bell, John",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "3776":{
-                "district":"6",
-                "name":"Green, Frederick William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Ohio"
+    "district":6,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"oh"
 },
   "bbox": [
     -83.88356,

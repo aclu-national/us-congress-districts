@@ -1,49 +1,13 @@
 {
-  "id": "ny_108_to_112_05",
+  "id": "ny_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"036108112005",
-    "member":{
-        "108":{
-            "15000":{
-                "district":"5",
-                "name":"Ackerman, Gary L.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15000":{
-                "district":"5",
-                "name":"Ackerman, Gary L.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "15000":{
-                "district":"5",
-                "name":"Ackerman, Gary L.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "15000":{
-                "district":"5",
-                "name":"Ackerman, Gary L.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "15000":{
-                "district":"5",
-                "name":"Ackerman, Gary L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New York"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ny"
 },
   "bbox": [
     -73.88573,

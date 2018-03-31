@@ -1,28 +1,13 @@
 {
-  "id": "tn_91_to_92_06",
+  "id": "tn_91_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"047091092006",
-    "member":{
-        "91":{
-            "10701":{
-                "district":"6",
-                "name":"Anderson, William R.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10701":{
-                "district":"6",
-                "name":"Anderson, William R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"tn"
 },
   "bbox": [
     -88.02264,

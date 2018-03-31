@@ -1,89 +1,13 @@
 {
-  "id": "la_18_to_27_01",
+  "id": "la_18_to_27_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"27",
-    "id":"022018027001",
-    "member":{
-        "18":{
-            "5715":{
-                "district":"1",
-                "name":"Livingston, Edward",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "5715":{
-                "district":"1",
-                "name":"Livingston, Edward",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "5715":{
-                "district":"1",
-                "name":"Livingston, Edward",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "10018":{
-                "district":"1",
-                "name":"White, Edward Douglass",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "10018":{
-                "district":"1",
-                "name":"White, Edward Douglass",
-                "party":"Anti-Jackson"
-            }
-        },
-        "23":{
-            "10018":{
-                "district":"1",
-                "name":"White, Edward Douglass",
-                "party":"Anti-Jackson"
-            },
-            "4959":{
-                "district":"1",
-                "name":"Johnson, Henry",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "4959":{
-                "district":"1",
-                "name":"Johnson, Henry",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "4959":{
-                "district":"1",
-                "name":"Johnson, Henry",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "10018":{
-                "district":"1",
-                "name":"White, Edward Douglass",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "10018":{
-                "district":"1",
-                "name":"White, Edward Douglass",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Louisiana"
+    "district":1,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"la"
 },
   "bbox": [
     -91.35307,

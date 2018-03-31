@@ -1,35 +1,13 @@
 {
-  "id": "ks_90_to_92_02",
+  "id": "ks_90_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"020090092002",
-    "member":{
-        "90":{
-            "10758":{
-                "district":"2",
-                "name":"Mize, Chester L.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10758":{
-                "district":"2",
-                "name":"Mize, Chester L.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13037":{
-                "district":"2",
-                "name":"Roy, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Kansas"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"ks"
 },
   "bbox": [
     -97.38122,

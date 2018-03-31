@@ -1,49 +1,13 @@
 {
-  "id": "ia_88_to_92_01",
+  "id": "ia_88_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"019088092001",
-    "member":{
-        "88":{
-            "8288":{
-                "district":"1",
-                "name":"Schwengel, Frederick Delbert",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10770":{
-                "district":"1",
-                "name":"Schmidhauser, John R.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "8288":{
-                "district":"1",
-                "name":"Schwengel, Frederick Delbert",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "8288":{
-                "district":"1",
-                "name":"Schwengel, Frederick Delbert",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "8288":{
-                "district":"1",
-                "name":"Schwengel, Frederick Delbert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Iowa"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ia"
 },
   "bbox": [
     -92.30015,

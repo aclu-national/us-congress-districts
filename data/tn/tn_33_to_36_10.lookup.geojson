@@ -2,41 +2,12 @@
   "id": "tn_33_to_36_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"36",
-    "id":"047033036010",
-    "member":{
-        "33":{
-            "8844":{
-                "district":"10",
-                "name":"Stanton, Frederick Perry",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "7927":{
-                "district":"10",
-                "name":"Rivers, Thomas",
-                "party":"American"
-            }
-        },
-        "35":{
-            "302":{
-                "district":"10",
-                "name":"Avery, William Tecumsah",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "302":{
-                "district":"10",
-                "name":"Avery, William Tecumsah",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Tennessee"
+    "district":10,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

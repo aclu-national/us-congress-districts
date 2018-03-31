@@ -1,49 +1,13 @@
 {
-  "id": "ny_83_to_87_03",
+  "id": "ny_83_to_87_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"87",
-    "id":"036083087003",
-    "member":{
-        "83":{
-            "563":{
-                "district":"3",
-                "name":"Becker, Frank John",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "563":{
-                "district":"3",
-                "name":"Becker, Frank John",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "563":{
-                "district":"3",
-                "name":"Becker, Frank John",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "563":{
-                "district":"3",
-                "name":"Becker, Frank John",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "563":{
-                "district":"3",
-                "name":"Becker, Frank John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":3,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -73.7672,

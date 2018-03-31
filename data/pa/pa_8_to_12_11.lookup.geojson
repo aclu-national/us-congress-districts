@@ -2,48 +2,12 @@
   "id": "pa_8_to_12_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"12",
-    "id":"042008012011",
-    "member":{
-        "10":{
-            "8679":{
-                "district":"11",
-                "name":"Smith, Samuel",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "8679":{
-                "district":"11",
-                "name":"Smith, Samuel",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "5392":{
-                "district":"11",
-                "name":"Lacock, Abner",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "5822":{
-                "district":"11",
-                "name":"Lucas, John Baptiste Charles",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "8679":{
-                "district":"11",
-                "name":"Smith, Samuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

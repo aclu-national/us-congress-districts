@@ -2,53 +2,12 @@
   "id": "il_58_to_62_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"62",
-    "id":"017058062014",
-    "member":{
-        "58":{
-            "5992":{
-                "district":"14",
-                "name":"Marsh, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5992":{
-                "district":"14",
-                "name":"Marsh, Benjamin Franklin",
-                "party":"Republican"
-            },
-            "6314":{
-                "district":"14",
-                "name":"McKinney, James",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "6314":{
-                "district":"14",
-                "name":"McKinney, James",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "6314":{
-                "district":"14",
-                "name":"McKinney, James",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "6314":{
-                "district":"14",
-                "name":"McKinney, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":14,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -91.50727,

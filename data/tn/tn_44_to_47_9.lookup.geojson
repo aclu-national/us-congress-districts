@@ -1,42 +1,13 @@
 {
-  "id": "tn_44_to_47_09",
+  "id": "tn_44_to_47_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"47",
-    "id":"047044047009",
-    "member":{
-        "44":{
-            "1415":{
-                "district":"9",
-                "name":"Caldwell, William Parker",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "1415":{
-                "district":"9",
-                "name":"Caldwell, William Parker",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "8524":{
-                "district":"9",
-                "name":"Simonton, Charles Bryson",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "8524":{
-                "district":"9",
-                "name":"Simonton, Charles Bryson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Tennessee"
+    "district":9,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"tn"
 },
   "bbox": [
     -90.17926,

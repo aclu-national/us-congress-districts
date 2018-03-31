@@ -1,21 +1,13 @@
 {
-  "id": "in_74_to_74_07",
+  "id": "in_74_to_74_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"74",
-    "id":"018074074007",
-    "member":{
-        "74":{
-            "3801":{
-                "district":"7",
-                "name":"Greenwood, Arthur Herbert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Indiana"
+    "district":7,
+    "end_date":"1936-06-20",
+    "end_session":74,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"in"
 },
   "bbox": [
     -87.98816,

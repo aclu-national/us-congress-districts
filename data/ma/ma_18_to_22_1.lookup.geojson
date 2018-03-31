@@ -1,49 +1,13 @@
 {
-  "id": "ma_18_to_22_01",
+  "id": "ma_18_to_22_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"22",
-    "id":"025018022001",
-    "member":{
-        "18":{
-            "9903":{
-                "district":"1",
-                "name":"Webster, Daniel",
-                "party":"Adams-Clay Federalist"
-            }
-        },
-        "19":{
-            "9903":{
-                "district":"1",
-                "name":"Webster, Daniel",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "3707":{
-                "district":"1",
-                "name":"Gorham, Benjamin",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "3707":{
-                "district":"1",
-                "name":"Gorham, Benjamin",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "219":{
-                "district":"1",
-                "name":"Appleton, Nathan",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ma"
 },
   "bbox": [
     -71.09552,

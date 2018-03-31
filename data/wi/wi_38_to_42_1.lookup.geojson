@@ -1,49 +1,13 @@
 {
-  "id": "wi_38_to_42_01",
+  "id": "wi_38_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"055038042001",
-    "member":{
-        "38":{
-            "1112":{
-                "district":"1",
-                "name":"Brown, James Sproat",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "7166":{
-                "district":"1",
-                "name":"Paine, Halbert Eleazer",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "7166":{
-                "district":"1",
-                "name":"Paine, Halbert Eleazer",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "7166":{
-                "district":"1",
-                "name":"Paine, Halbert Eleazer",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "6551":{
-                "district":"1",
-                "name":"Mitchell, Alexander",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Wisconsin"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"wi"
 },
   "bbox": [
     -88.77875,

@@ -2,20 +2,12 @@
   "id": "oh_46_to_46_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"46",
-    "id":"039046046018",
-    "member":{
-        "46":{
-            "9563":{
-                "district":"18",
-                "name":"Updegraff, Jonathan Taylor",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Ohio"
+    "district":18,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"oh"
 },
   "bbox": [
     -81.33956,

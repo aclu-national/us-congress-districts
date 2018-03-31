@@ -1,49 +1,13 @@
 {
-  "id": "mn_53_to_57_06",
+  "id": "mn_53_to_57_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"57",
-    "id":"027053057006",
-    "member":{
-        "53":{
-            "389":{
-                "district":"6",
-                "name":"Baldwin, Melvin Riley",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "9429":{
-                "district":"6",
-                "name":"Towne, Charles Arnette",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "6713":{
-                "district":"6",
-                "name":"Morris, Robert Page Walter",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "6713":{
-                "district":"6",
-                "name":"Morris, Robert Page Walter",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "6713":{
-                "district":"6",
-                "name":"Morris, Robert Page Walter",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Minnesota"
+    "district":6,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mn"
 },
   "bbox": [
     -95.61479,

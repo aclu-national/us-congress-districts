@@ -1,21 +1,13 @@
 {
-  "id": "vt_7_to_7_02",
+  "id": "vt_7_to_7_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"7",
-    "id":"050007007002",
-    "member":{
-        "7":{
-            "6710":{
-                "district":"2",
-                "name":"Morris, Lewis Robert",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"7",
-    "statename":"Vermont"
+    "district":2,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1801-03-04",
+    "start_session":7,
+    "state":"vt"
 },
   "bbox": [
     -73.00806,

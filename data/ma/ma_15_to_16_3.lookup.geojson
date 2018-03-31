@@ -1,28 +1,13 @@
 {
-  "id": "ma_15_to_16_03",
+  "id": "ma_15_to_16_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"16",
-    "id":"025015016003",
-    "member":{
-        "15":{
-            "6866":{
-                "district":"3",
-                "name":"Nelson, Jeremiah",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "6866":{
-                "district":"3",
-                "name":"Nelson, Jeremiah",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"15",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1817-03-04",
+    "start_session":15,
+    "state":"ma"
 },
   "bbox": [
     -71.38253,

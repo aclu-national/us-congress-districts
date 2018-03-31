@@ -2,48 +2,12 @@
   "id": "il_83_to_87_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"87",
-    "id":"017083087011",
-    "member":{
-        "83":{
-            "8426":{
-                "district":"11",
-                "name":"Sheehan, Timothy Patrick",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "8426":{
-                "district":"11",
-                "name":"Sheehan, Timothy Patrick",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "8426":{
-                "district":"11",
-                "name":"Sheehan, Timothy Patrick",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "7642":{
-                "district":"11",
-                "name":"Pucinski, Roman Conrad",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "7642":{
-                "district":"11",
-                "name":"Pucinski, Roman Conrad",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":11,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -87.83654,

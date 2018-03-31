@@ -1,35 +1,13 @@
 {
-  "id": "tx_83_to_85_05",
+  "id": "tx_83_to_85_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"85",
-    "id":"048083085005",
-    "member":{
-        "83":{
-            "10244":{
-                "district":"5",
-                "name":"Wilson, Joseph Franklin",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "93":{
-                "district":"5",
-                "name":"Alger, Bruce Reynolds",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "93":{
-                "district":"5",
-                "name":"Alger, Bruce Reynolds",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Texas"
+    "district":5,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tx"
 },
   "bbox": [
     -97.03838,

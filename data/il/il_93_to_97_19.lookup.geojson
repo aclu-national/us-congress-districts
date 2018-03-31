@@ -2,48 +2,12 @@
   "id": "il_93_to_97_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"97",
-    "id":"017093097019",
-    "member":{
-        "93":{
-            "11041":{
-                "district":"19",
-                "name":"Railsback, Tom",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "11041":{
-                "district":"19",
-                "name":"Railsback, Tom",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "11041":{
-                "district":"19",
-                "name":"Railsback, Tom",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "11041":{
-                "district":"19",
-                "name":"Railsback, Tom",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "11041":{
-                "district":"19",
-                "name":"Railsback, Tom",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Illinois"
+    "district":19,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"il"
 },
   "bbox": [
     -91.51308,

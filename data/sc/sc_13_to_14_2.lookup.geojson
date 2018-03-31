@@ -1,28 +1,13 @@
 {
-  "id": "sc_13_to_14_02",
+  "id": "sc_13_to_14_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"14",
-    "id":"045013014002",
-    "member":{
-        "13":{
-            "5815":{
-                "district":"2",
-                "name":"Lowndes, William",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "5815":{
-                "district":"2",
-                "name":"Lowndes, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"South Carolina"
+    "district":2,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"sc"
 },
   "bbox": [
     -81.43208,

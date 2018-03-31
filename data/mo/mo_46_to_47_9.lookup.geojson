@@ -1,28 +1,13 @@
 {
-  "id": "mo_46_to_47_09",
+  "id": "mo_46_to_47_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"47",
-    "id":"029046047009",
-    "member":{
-        "46":{
-            "3272":{
-                "district":"9",
-                "name":"Ford, Nicholas",
-                "party":"National Greenbacker"
-            }
-        },
-        "47":{
-            "3272":{
-                "district":"9",
-                "name":"Ford, Nicholas",
-                "party":"National Greenbacker"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Missouri"
+    "district":9,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"mo"
 },
   "bbox": [
     -95.7747,

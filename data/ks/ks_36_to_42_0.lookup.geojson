@@ -1,63 +1,13 @@
 {
-  "id": "ks_36_to_42_00",
+  "id": "ks_36_to_42_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"42",
-    "id":"020036042000",
-    "member":{
-        "36":{
-            "2013":{
-                "district":"1",
-                "name":"Conway, Martin Franklin",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "2013":{
-                "district":"1",
-                "name":"Conway, Martin Franklin",
-                "party":"Republican"
-            }
-        },
-        "38":{
-            "10106":{
-                "district":"1",
-                "name":"Wilder, Abel Carter",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "1800":{
-                "district":"1",
-                "name":"Clarke, Sidney",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "1800":{
-                "district":"1",
-                "name":"Clarke, Sidney",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "1800":{
-                "district":"1",
-                "name":"Clarke, Sidney",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "5808":{
-                "district":"1",
-                "name":"Lowe, David Perley",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"36",
-    "statename":"Kansas"
+    "district":0,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1859-03-04",
+    "start_session":36,
+    "state":"ks"
 },
   "bbox": [
     -102.05177,

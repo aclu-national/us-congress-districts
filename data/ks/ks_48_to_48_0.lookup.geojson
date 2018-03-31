@@ -1,36 +1,13 @@
 {
-  "id": "ks_48_to_48_00",
+  "id": "ks_48_to_48_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"48",
-    "id":"020048048000",
-    "member":{
-        "48":{
-            "4021":{
-                "district":"99",
-                "name":"Hanback, Lewis",
-                "party":"Republican"
-            },
-            "6695":{
-                "district":"99",
-                "name":"Morrill, Edmund Needham",
-                "party":"Republican"
-            },
-            "7342":{
-                "district":"99",
-                "name":"Perkins, Bishop Walden",
-                "party":"Republican"
-            },
-            "7369":{
-                "district":"99",
-                "name":"Peters, Samuel Ritter",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Kansas"
+    "district":0,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ks"
 },
   "bbox": [
     -102.05177,

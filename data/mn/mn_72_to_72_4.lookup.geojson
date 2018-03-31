@@ -1,21 +1,13 @@
 {
-  "id": "mn_72_to_72_04",
+  "id": "mn_72_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"027072072004",
-    "member":{
-        "72":{
-            "5869":{
-                "district":"4",
-                "name":"Maas, Melvin Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"72",
-    "statename":"Minnesota"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1931-12-07",
+    "start_session":72,
+    "state":"mn"
 },
   "bbox": [
     -93.22792,

@@ -2,20 +2,12 @@
   "id": "tx_108_to_108_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"108",
-    "id":"048108108017",
-    "member":{
-        "108":{
-            "14664":{
-                "district":"17",
-                "name":"Stenholm, Charles Walter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Texas"
+    "district":17,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tx"
 },
   "bbox": [
     -102.20852,

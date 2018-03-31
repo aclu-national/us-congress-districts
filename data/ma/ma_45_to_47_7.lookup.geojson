@@ -1,35 +1,13 @@
 {
-  "id": "ma_45_to_47_07",
+  "id": "ma_45_to_47_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"47",
-    "id":"025045047007",
-    "member":{
-        "45":{
-            "1335":{
-                "district":"7",
-                "name":"Butler, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "8143":{
-                "district":"7",
-                "name":"Russell, William Augustus",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "8143":{
-                "district":"7",
-                "name":"Russell, William Augustus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"ma"
 },
   "bbox": [
     -71.89872,

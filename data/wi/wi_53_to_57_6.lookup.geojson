@@ -1,49 +1,13 @@
 {
-  "id": "wi_53_to_57_06",
+  "id": "wi_53_to_57_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"57",
-    "id":"055053057006",
-    "member":{
-        "53":{
-            "9946":{
-                "district":"6",
-                "name":"Wells, Owen Augustine",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "2024":{
-                "district":"6",
-                "name":"Cook, Samuel Andrew",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2366":{
-                "district":"6",
-                "name":"Davidson, James Henry",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2366":{
-                "district":"6",
-                "name":"Davidson, James Henry",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2366":{
-                "district":"6",
-                "name":"Davidson, James Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Wisconsin"
+    "district":6,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"wi"
 },
   "bbox": [
     -89.59998,

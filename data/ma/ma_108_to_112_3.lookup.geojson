@@ -1,49 +1,13 @@
 {
-  "id": "ma_108_to_112_03",
+  "id": "ma_108_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"025108112003",
-    "member":{
-        "108":{
-            "29729":{
-                "district":"3",
-                "name":"McGovern, James P.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29729":{
-                "district":"3",
-                "name":"McGovern, James P.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29729":{
-                "district":"3",
-                "name":"McGovern, James P.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29729":{
-                "district":"3",
-                "name":"McGovern, James P.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29729":{
-                "district":"3",
-                "name":"McGovern, Jim",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ma"
 },
   "bbox": [
     -72.03522,

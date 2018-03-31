@@ -1,33 +1,13 @@
 {
-  "id": "ar_41_to_42_03",
+  "id": "ar_41_to_42_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"42",
-    "id":"005041042003",
-    "member":{
-        "41":{
-            "833":{
-                "district":"3",
-                "name":"Boles, Thomas",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "2869":{
-                "district":"3",
-                "name":"Edwards, John",
-                "party":"Liberal Republican"
-            },
-            "833":{
-                "district":"3",
-                "name":"Boles, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Arkansas"
+    "district":3,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"ar"
 },
   "bbox": [
     -94.61792,

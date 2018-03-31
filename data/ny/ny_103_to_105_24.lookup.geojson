@@ -2,34 +2,12 @@
   "id": "ny_103_to_105_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"105",
-    "id":"036103105024",
-    "member":{
-        "103":{
-            "39316":{
-                "district":"24",
-                "name":"McHugh, John M.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "39316":{
-                "district":"24",
-                "name":"McHugh, John M.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "39316":{
-                "district":"24",
-                "name":"McHugh, John M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":24,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -76.61713,

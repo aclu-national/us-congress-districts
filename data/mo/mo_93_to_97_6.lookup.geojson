@@ -1,49 +1,13 @@
 {
-  "id": "mo_93_to_97_06",
+  "id": "mo_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"029093097006",
-    "member":{
-        "93":{
-            "14030":{
-                "district":"6",
-                "name":"Litton, Jerry",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14030":{
-                "district":"6",
-                "name":"Litton, Jerry",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14410":{
-                "district":"6",
-                "name":"Coleman, E. Thomas",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14410":{
-                "district":"6",
-                "name":"Coleman, E. Thomas",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14410":{
-                "district":"6",
-                "name":"Coleman, E. Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Missouri"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mo"
 },
   "bbox": [
     -95.7747,

@@ -1,49 +1,13 @@
 {
-  "id": "la_58_to_62_04",
+  "id": "la_58_to_62_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"62",
-    "id":"022058062004",
-    "member":{
-        "58":{
-            "988":{
-                "district":"4",
-                "name":"Breazeale, Phanor",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "9867":{
-                "district":"4",
-                "name":"Watkins, John Thomas",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "9867":{
-                "district":"4",
-                "name":"Watkins, John Thomas",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "9867":{
-                "district":"4",
-                "name":"Watkins, John Thomas",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "9867":{
-                "district":"4",
-                "name":"Watkins, John Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Louisiana"
+    "district":4,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"la"
 },
   "bbox": [
     -94.04334,

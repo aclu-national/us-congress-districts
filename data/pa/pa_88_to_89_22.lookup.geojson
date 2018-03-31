@@ -2,27 +2,12 @@
   "id": "pa_88_to_89_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"89",
-    "id":"042088089022",
-    "member":{
-        "88":{
-            "8247":{
-                "district":"22",
-                "name":"Saylor, John Phillips",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "8247":{
-                "district":"22",
-                "name":"Saylor, John Phillips",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Pennsylvania"
+    "district":22,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"pa"
 },
   "bbox": [
     -79.69295,

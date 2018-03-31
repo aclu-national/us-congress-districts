@@ -1,119 +1,13 @@
 {
-  "id": "md_8_to_22_08",
+  "id": "md_8_to_22_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"22",
-    "id":"024008022008",
-    "member":{
-        "10":{
-            "3652":{
-                "district":"8",
-                "name":"Goldsborough, Charles",
-                "party":"Federalist"
-            }
-        },
-        "11":{
-            "3652":{
-                "district":"8",
-                "name":"Goldsborough, Charles",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "3652":{
-                "district":"8",
-                "name":"Goldsborough, Charles",
-                "party":"Federalist"
-            }
-        },
-        "13":{
-            "3652":{
-                "district":"8",
-                "name":"Goldsborough, Charles",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "3652":{
-                "district":"8",
-                "name":"Goldsborough, Charles",
-                "party":"Federalist"
-            }
-        },
-        "15":{
-            "533":{
-                "district":"8",
-                "name":"Bayly, Thomas",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "533":{
-                "district":"8",
-                "name":"Bayly, Thomas",
-                "party":"Federalist"
-            }
-        },
-        "17":{
-            "533":{
-                "district":"8",
-                "name":"Bayly, Thomas",
-                "party":"Federalist"
-            }
-        },
-        "18":{
-            "8779":{
-                "district":"8",
-                "name":"Spence, John Selby",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "6038":{
-                "district":"8",
-                "name":"Martin, Robert Nicols",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "10216":{
-                "district":"8",
-                "name":"Wilson, Ephraim King",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "10216":{
-                "district":"8",
-                "name":"Wilson, Ephraim King",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "8779":{
-                "district":"8",
-                "name":"Spence, John Selby",
-                "party":"Anti-Jackson"
-            }
-        },
-        "8":{
-            "2501":{
-                "district":"8",
-                "name":"Dennis, John",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "3652":{
-                "district":"8",
-                "name":"Goldsborough, Charles",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Maryland"
+    "district":8,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"md"
 },
   "bbox": [
     -76.34127,

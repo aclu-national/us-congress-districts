@@ -1,28 +1,13 @@
 {
-  "id": "ri_1_to_2_00",
+  "id": "ri_1_to_2_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"2",
-    "id":"044001002000",
-    "member":{
-        "1":{
-            "884":{
-                "district":"1",
-                "name":"Bourn, Benjamin",
-                "party":"Pro-Administration"
-            }
-        },
-        "2":{
-            "884":{
-                "district":"1",
-                "name":"Bourn, Benjamin",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Rhode Island"
+    "district":0,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"ri"
 },
   "bbox": [
     -71.89511,

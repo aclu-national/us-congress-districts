@@ -2,32 +2,12 @@
   "id": "va_26_to_27_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"27",
-    "id":"051026027013",
-    "member":{
-        "26":{
-            "408":{
-                "district":"13",
-                "name":"Banks, Linn",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "408":{
-                "district":"13",
-                "name":"Banks, Linn",
-                "party":"Democrat"
-            },
-            "8697":{
-                "district":"13",
-                "name":"Smith, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"26",
-    "statename":"Virginia"
+    "district":13,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1839-12-02",
+    "start_session":26,
+    "state":"va"
 },
   "bbox": [
     -78.66317,

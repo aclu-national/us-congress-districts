@@ -1,49 +1,13 @@
 {
-  "id": "sc_93_to_97_03",
+  "id": "sc_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"045093097003",
-    "member":{
-        "93":{
-            "2672":{
-                "district":"3",
-                "name":"Dorn, William Jennings Bryan",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14212":{
-                "district":"3",
-                "name":"Derrick, Butler",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14212":{
-                "district":"3",
-                "name":"Derrick, Butler",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14212":{
-                "district":"3",
-                "name":"Derrick, Butler",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14212":{
-                "district":"3",
-                "name":"Derrick, Butler",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"sc"
 },
   "bbox": [
     -83.35395,

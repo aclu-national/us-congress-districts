@@ -1,84 +1,13 @@
 {
-  "id": "me_63_to_72_01",
+  "id": "me_63_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"023063072001",
-    "member":{
-        "63":{
-            "4442":{
-                "district":"1",
-                "name":"Hinds, Asher Crosby",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "4442":{
-                "district":"1",
-                "name":"Hinds, Asher Crosby",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "3665":{
-                "district":"1",
-                "name":"Goodall, Louis Bertrand",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "3665":{
-                "district":"1",
-                "name":"Goodall, Louis Bertrand",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "577":{
-                "district":"1",
-                "name":"Beedy, Carroll Lynwood",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "577":{
-                "district":"1",
-                "name":"Beedy, Carroll Lynwood",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "577":{
-                "district":"1",
-                "name":"Beedy, Carroll Lynwood",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "577":{
-                "district":"1",
-                "name":"Beedy, Carroll Lynwood",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "577":{
-                "district":"1",
-                "name":"Beedy, Carroll Lynwood",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "577":{
-                "district":"1",
-                "name":"Beedy, Carroll Lynwood",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Maine"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"me"
 },
   "bbox": [
     -70.98907,

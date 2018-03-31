@@ -2,53 +2,12 @@
   "id": "il_58_to_62_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"62",
-    "id":"017058062013",
-    "member":{
-        "58":{
-            "4458":{
-                "district":"13",
-                "name":"Hitt, Robert Roberts",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "4458":{
-                "district":"13",
-                "name":"Hitt, Robert Roberts",
-                "party":"Republican"
-            },
-            "5807":{
-                "district":"13",
-                "name":"Lowden, Frank Orren",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5807":{
-                "district":"13",
-                "name":"Lowden, Frank Orren",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "5807":{
-                "district":"13",
-                "name":"Lowden, Frank Orren",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "6300":{
-                "district":"13",
-                "name":"McKenzie, John Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":13,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -90.65653,

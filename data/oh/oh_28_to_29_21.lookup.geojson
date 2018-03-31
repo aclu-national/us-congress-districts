@@ -2,32 +2,12 @@
   "id": "oh_28_to_29_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"29",
-    "id":"039028029021",
-    "member":{
-        "28":{
-            "1040":{
-                "district":"21",
-                "name":"Brinkerhoff, Henry Roelof",
-                "party":"Democrat"
-            },
-            "4000":{
-                "district":"21",
-                "name":"Hamlin, Edward Stowe",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "8058":{
-                "district":"21",
-                "name":"Root, Joseph Mosley",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":21,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -82.90323,

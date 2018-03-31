@@ -1,28 +1,13 @@
 {
-  "id": "ma_43_to_44_02",
+  "id": "ma_43_to_44_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"44",
-    "id":"025043044002",
-    "member":{
-        "43":{
-            "4097":{
-                "district":"2",
-                "name":"Harris, Benjamin Winslow",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "4097":{
-                "district":"2",
-                "name":"Harris, Benjamin Winslow",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ma"
 },
   "bbox": [
     -71.45801,

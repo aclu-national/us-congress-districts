@@ -2,48 +2,12 @@
   "id": "mi_98_to_102_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"102",
-    "id":"026098102015",
-    "member":{
-        "100":{
-            "10727":{
-                "district":"15",
-                "name":"Ford, William D.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "10727":{
-                "district":"15",
-                "name":"Ford, William D.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "10727":{
-                "district":"15",
-                "name":"Ford, William D.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "10727":{
-                "district":"15",
-                "name":"Ford, William D.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "10727":{
-                "district":"15",
-                "name":"Ford, William D.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Michigan"
+    "district":15,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"mi"
 },
   "bbox": [
     -83.80254,

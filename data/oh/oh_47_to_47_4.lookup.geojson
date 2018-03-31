@@ -1,21 +1,13 @@
 {
-  "id": "oh_47_to_47_04",
+  "id": "oh_47_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"039047047004",
-    "member":{
-        "47":{
-            "8497":{
-                "district":"4",
-                "name":"Shultz, Emanuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"oh"
 },
   "bbox": [
     -84.81516,

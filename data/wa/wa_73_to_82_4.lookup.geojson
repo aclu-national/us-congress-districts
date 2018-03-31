@@ -1,84 +1,13 @@
 {
-  "id": "wa_73_to_82_04",
+  "id": "wa_73_to_82_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"82",
-    "id":"053073082004",
-    "member":{
-        "73":{
-            "4417":{
-                "district":"4",
-                "name":"Hill, Knute",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "4417":{
-                "district":"4",
-                "name":"Hill, Knute",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "4417":{
-                "district":"4",
-                "name":"Hill, Knute",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "4417":{
-                "district":"4",
-                "name":"Hill, Knute",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "4417":{
-                "district":"4",
-                "name":"Hill, Knute",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "4537":{
-                "district":"4",
-                "name":"Holmes, Otis Halbert",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4537":{
-                "district":"4",
-                "name":"Holmes, Otis Halbert",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "4537":{
-                "district":"4",
-                "name":"Holmes, Otis Halbert",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4537":{
-                "district":"4",
-                "name":"Holmes, Otis Halbert",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4537":{
-                "district":"4",
-                "name":"Holmes, Otis Halbert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Washington"
+    "district":4,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"wa"
 },
   "bbox": [
     -121.61283,

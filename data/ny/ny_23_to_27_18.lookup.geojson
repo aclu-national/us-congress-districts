@@ -2,48 +2,12 @@
   "id": "ny_23_to_27_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"27",
-    "id":"036023027018",
-    "member":{
-        "23":{
-            "9826":{
-                "district":"18",
-                "name":"Wardwell, Daniel",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "9826":{
-                "district":"18",
-                "name":"Wardwell, Daniel",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "1067":{
-                "district":"18",
-                "name":"Bronson, Isaac Hopkins",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "1710":{
-                "district":"18",
-                "name":"Chittenden, Thomas Cotton",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "1710":{
-                "district":"18",
-                "name":"Chittenden, Thomas Cotton",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":18,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -76.44652,

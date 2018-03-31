@@ -1,19 +1,13 @@
 {
-  "id": "ca_113_to_115_01",
+  "id": "ca_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":72745072212,
-    "AWATER":1948576678,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0601",
-    "INTPTLAT":"+40.7319880",
-    "INTPTLON":"-121.5105160",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"06"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -123.719174,

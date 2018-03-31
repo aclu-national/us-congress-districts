@@ -2,27 +2,12 @@
   "id": "oh_91_to_92_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"92",
-    "id":"039091092022",
-    "member":{
-        "91":{
-            "9623":{
-                "district":"22",
-                "name":"Vanik, Charles Albert",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "9623":{
-                "district":"22",
-                "name":"Vanik, Charles Albert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Ohio"
+    "district":22,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"oh"
 },
   "bbox": [
     -81.62645,

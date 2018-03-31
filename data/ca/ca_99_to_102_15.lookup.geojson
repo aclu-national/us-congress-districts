@@ -2,46 +2,12 @@
   "id": "ca_99_to_102_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"102",
-    "id":"006099102015",
-    "member":{
-        "100":{
-            "14613":{
-                "district":"15",
-                "name":"Coelho, Anthony Lee",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14613":{
-                "district":"15",
-                "name":"Coelho, Anthony Lee",
-                "party":"Democrat"
-            },
-            "15635":{
-                "district":"15",
-                "name":"Condit, Gary",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15635":{
-                "district":"15",
-                "name":"Condit, Gary",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14613":{
-                "district":"15",
-                "name":"Coelho, Anthony Lee",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":15,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -122.0362,

@@ -2,27 +2,12 @@
   "id": "oh_98_to_99_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"99",
-    "id":"039098099016",
-    "member":{
-        "98":{
-            "14045":{
-                "district":"16",
-                "name":"Regula, Ralph",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14045":{
-                "district":"16",
-                "name":"Regula, Ralph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Ohio"
+    "district":16,
+    "end_date":"1986-10-18",
+    "end_session":99,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"oh"
 },
   "bbox": [
     -82.22069,

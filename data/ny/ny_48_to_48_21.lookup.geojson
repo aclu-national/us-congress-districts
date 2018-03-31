@@ -2,20 +2,12 @@
   "id": "ny_48_to_48_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"48",
-    "id":"036048048021",
-    "member":{
-        "48":{
-            "7748":{
-                "district":"21",
-                "name":"Ray, George Washington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -75.88983,

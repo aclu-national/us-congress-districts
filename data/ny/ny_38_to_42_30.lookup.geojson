@@ -2,48 +2,12 @@
   "id": "ny_38_to_42_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"42",
-    "id":"036038042030",
-    "member":{
-        "38":{
-            "3454":{
-                "district":"30",
-                "name":"Ganson, John",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "4730":{
-                "district":"30",
-                "name":"Humphrey, James Morgan",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "4730":{
-                "district":"30",
-                "name":"Humphrey, James Morgan",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "635":{
-                "district":"30",
-                "name":"Bennett, David Smith",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "10187":{
-                "district":"30",
-                "name":"Williams, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":30,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

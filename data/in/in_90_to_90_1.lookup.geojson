@@ -1,21 +1,13 @@
 {
-  "id": "in_90_to_90_01",
+  "id": "in_90_to_90_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"90",
-    "id":"018090090001",
-    "member":{
-        "90":{
-            "5900":{
-                "district":"1",
-                "name":"Madden, Ray John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"in"
 },
   "bbox": [
     -87.52504,

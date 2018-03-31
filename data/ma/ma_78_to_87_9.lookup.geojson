@@ -1,89 +1,13 @@
 {
-  "id": "ma_78_to_87_09",
+  "id": "ma_78_to_87_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"87",
-    "id":"025078087009",
-    "member":{
-        "78":{
-            "3569":{
-                "district":"9",
-                "name":"Gifford, Charles Laceille",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "3569":{
-                "district":"9",
-                "name":"Gifford, Charles Laceille",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3569":{
-                "district":"9",
-                "name":"Gifford, Charles Laceille",
-                "party":"Republican"
-            },
-            "6922":{
-                "district":"9",
-                "name":"Nicholson, Donald William",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6922":{
-                "district":"9",
-                "name":"Nicholson, Donald William",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "6922":{
-                "district":"9",
-                "name":"Nicholson, Donald William",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "6922":{
-                "district":"9",
-                "name":"Nicholson, Donald William",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "6922":{
-                "district":"9",
-                "name":"Nicholson, Donald William",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "6922":{
-                "district":"9",
-                "name":"Nicholson, Donald William",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "5131":{
-                "district":"9",
-                "name":"Keith, Hastings",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "5131":{
-                "district":"9",
-                "name":"Keith, Hastings",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Massachusetts"
+    "district":9,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ma"
 },
   "bbox": [
     -71.14151,

@@ -1,54 +1,13 @@
 {
-  "id": "va_13_to_17_01",
+  "id": "va_13_to_17_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"17",
-    "id":"051013017001",
-    "member":{
-        "13":{
-            "4858":{
-                "district":"1",
-                "name":"Jackson, John George",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "4858":{
-                "district":"1",
-                "name":"Jackson, John George",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "7459":{
-                "district":"1",
-                "name":"Pindall, James",
-                "party":"Federalist"
-            }
-        },
-        "16":{
-            "4848":{
-                "district":"1",
-                "name":"Jackson, Edward Brake",
-                "party":"Republican"
-            },
-            "7459":{
-                "district":"1",
-                "name":"Pindall, James",
-                "party":"Federalist"
-            }
-        },
-        "17":{
-            "4848":{
-                "district":"1",
-                "name":"Jackson, Edward Brake",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -81.30311,

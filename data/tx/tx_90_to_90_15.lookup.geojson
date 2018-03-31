@@ -2,20 +2,12 @@
   "id": "tx_90_to_90_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"90",
-    "id":"048090090015",
-    "member":{
-        "90":{
-            "10716":{
-                "district":"15",
-                "name":"De La Garza, Eligio",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Texas"
+    "district":15,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"tx"
 },
   "bbox": [
     -99.45379,

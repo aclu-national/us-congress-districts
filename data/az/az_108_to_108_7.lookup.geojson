@@ -1,21 +1,13 @@
 {
-  "id": "az_108_to_108_07",
+  "id": "az_108_to_108_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"108",
-    "id":"004108108007",
-    "member":{
-        "108":{
-            "20305":{
-                "district":"7",
-                "name":"Grijalva, Raul M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Arizona"
+    "district":7,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"az"
 },
   "bbox": [
     -114.81399,

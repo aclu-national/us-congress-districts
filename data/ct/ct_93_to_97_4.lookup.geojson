@@ -1,49 +1,13 @@
 {
-  "id": "ct_93_to_97_04",
+  "id": "ct_93_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"009093097004",
-    "member":{
-        "93":{
-            "13029":{
-                "district":"4",
-                "name":"McKinney, Stewart",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "13029":{
-                "district":"4",
-                "name":"McKinney, Stewart",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "13029":{
-                "district":"4",
-                "name":"McKinney, Stewart",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "13029":{
-                "district":"4",
-                "name":"McKinney, Stewart",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "13029":{
-                "district":"4",
-                "name":"McKinney, Stewart",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Connecticut"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ct"
 },
   "bbox": [
     -73.72778,

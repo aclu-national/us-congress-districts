@@ -1,64 +1,13 @@
 {
-  "id": "al_53_to_57_04",
+  "id": "al_53_to_57_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"57",
-    "id":"001053057004",
-    "member":{
-        "53":{
-            "7942":{
-                "district":"4",
-                "name":"Robbins, Gaston Ahi",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "75":{
-                "district":"4",
-                "name":"Aldrich, William Farringt",
-                "party":"Republican"
-            },
-            "7942":{
-                "district":"4",
-                "name":"Robbins, Gaston Ahi",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "7488":{
-                "district":"4",
-                "name":"Plowman, Thomas Scales",
-                "party":"Democrat"
-            },
-            "75":{
-                "district":"4",
-                "name":"Aldrich, William Farringt",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "75":{
-                "district":"4",
-                "name":"Aldrich, William Farringt",
-                "party":"Republican"
-            },
-            "7942":{
-                "district":"4",
-                "name":"Robbins, Gaston Ahi",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "909":{
-                "district":"4",
-                "name":"Bowie, Sydney Johnston",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Alabama"
+    "district":4,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"al"
 },
   "bbox": [
     -87.47308,

@@ -2,53 +2,12 @@
   "id": "ny_28_to_32_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"32",
-    "id":"036028032027",
-    "member":{
-        "28":{
-            "3774":{
-                "district":"27",
-                "name":"Green, Byram",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "2488":{
-                "district":"27",
-                "name":"De Mott, John",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "4522":{
-                "district":"27",
-                "name":"Holley, John Milton",
-                "party":"Whig"
-            },
-            "756":{
-                "district":"27",
-                "name":"Blackmar, Esbon",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "8168":{
-                "district":"27",
-                "name":"Sackett, William Augustus",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "8168":{
-                "district":"27",
-                "name":"Sackett, William Augustus",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -77.37471,

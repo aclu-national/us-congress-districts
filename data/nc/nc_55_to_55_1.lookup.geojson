@@ -1,21 +1,13 @@
 {
-  "id": "nc_55_to_55_01",
+  "id": "nc_55_to_55_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"55",
-    "id":"037055055001",
-    "member":{
-        "55":{
-            "8560":{
-                "district":"1",
-                "name":"Skinner, Harry",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"nc"
 },
   "bbox": [
     -77.7005,

@@ -2,34 +2,12 @@
   "id": "in_50_to_52_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"52",
-    "id":"018050052010",
-    "member":{
-        "50":{
-            "7135":{
-                "district":"10",
-                "name":"Owen, William Dale",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "7135":{
-                "district":"10",
-                "name":"Owen, William Dale",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "7261":{
-                "district":"10",
-                "name":"Patton, David Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Indiana"
+    "district":10,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"in"
 },
   "bbox": [
     -87.52677,

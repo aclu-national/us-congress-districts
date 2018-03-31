@@ -1,49 +1,13 @@
 {
-  "id": "ut_98_to_102_03",
+  "id": "ut_98_to_102_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"102",
-    "id":"049098102003",
-    "member":{
-        "100":{
-            "15047":{
-                "district":"3",
-                "name":"Nielson, Howard C.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15047":{
-                "district":"3",
-                "name":"Nielson, Howard C.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "29146":{
-                "district":"3",
-                "name":"Orton, Bill",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "15047":{
-                "district":"3",
-                "name":"Nielson, Howard C.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15047":{
-                "district":"3",
-                "name":"Nielson, Howard C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Utah"
+    "district":3,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ut"
 },
   "bbox": [
     -112.51773,

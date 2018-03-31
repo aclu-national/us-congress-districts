@@ -1,84 +1,13 @@
 {
-  "id": "ms_48_to_57_07",
+  "id": "ms_48_to_57_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"57",
-    "id":"028048057007",
-    "member":{
-        "48":{
-            "438":{
-                "district":"7",
-                "name":"Barksdale, Ethelbert",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "438":{
-                "district":"7",
-                "name":"Barksdale, Ethelbert",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "4553":{
-                "district":"7",
-                "name":"Hooker, Charles Edward",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "4553":{
-                "district":"7",
-                "name":"Hooker, Charles Edward",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "4553":{
-                "district":"7",
-                "name":"Hooker, Charles Edward",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "4553":{
-                "district":"7",
-                "name":"Hooker, Charles Edward",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "8786":{
-                "district":"7",
-                "name":"Spencer, James Grafton",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "4338":{
-                "district":"7",
-                "name":"Henry, Patrick",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "4338":{
-                "district":"7",
-                "name":"Henry, Patrick",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "4553":{
-                "district":"7",
-                "name":"Hooker, Charles Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Mississippi"
+    "district":7,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ms"
 },
   "bbox": [
     -91.36561,

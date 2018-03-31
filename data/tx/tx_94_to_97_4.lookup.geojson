@@ -1,42 +1,13 @@
 {
-  "id": "tx_94_to_97_04",
+  "id": "tx_94_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"048094097004",
-    "member":{
-        "94":{
-            "10550":{
-                "district":"4",
-                "name":"Roberts, Ray",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10550":{
-                "district":"4",
-                "name":"Roberts, Ray",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10550":{
-                "district":"4",
-                "name":"Roberts, Ray",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14828":{
-                "district":"4",
-                "name":"Hall, Ralph M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"Texas"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"tx"
 },
   "bbox": [
     -97.3985,

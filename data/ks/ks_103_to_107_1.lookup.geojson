@@ -1,49 +1,13 @@
 {
-  "id": "ks_103_to_107_01",
+  "id": "ks_103_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"020103107001",
-    "member":{
-        "103":{
-            "14852":{
-                "district":"1",
-                "name":"Roberts, Pat",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14852":{
-                "district":"1",
-                "name":"Roberts, Pat",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29722":{
-                "district":"1",
-                "name":"Moran, Jerry",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29722":{
-                "district":"1",
-                "name":"Moran, Jerry",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29722":{
-                "district":"1",
-                "name":"Moran, Jerry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Kansas"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ks"
 },
   "bbox": [
     -102.05174,

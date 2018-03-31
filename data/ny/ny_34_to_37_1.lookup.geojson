@@ -1,42 +1,13 @@
 {
-  "id": "ny_34_to_37_01",
+  "id": "ny_34_to_37_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"37",
-    "id":"036034037001",
-    "member":{
-        "34":{
-            "9587":{
-                "district":"1",
-                "name":"Valk, William Weightman",
-                "party":"American"
-            }
-        },
-        "35":{
-            "8333":{
-                "district":"1",
-                "name":"Searing, John Alexander",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "1548":{
-                "district":"1",
-                "name":"Carter, Luther Cullen",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "8612":{
-                "district":"1",
-                "name":"Smith, Edward Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

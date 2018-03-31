@@ -1,42 +1,13 @@
 {
-  "id": "ky_48_to_51_07",
+  "id": "ky_48_to_51_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"51",
-    "id":"021048051007",
-    "member":{
-        "48":{
-            "751":{
-                "district":"7",
-                "name":"Blackburn, Joseph Clay Stiles",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "996":{
-                "district":"7",
-                "name":"Breckinridge, William Campbell Preston",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "996":{
-                "district":"7",
-                "name":"Breckinridge, William Campbell Preston",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "996":{
-                "district":"7",
-                "name":"Breckinridge, William Campbell Preston",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Kentucky"
+    "district":7,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ky"
 },
   "bbox": [
     -85.63796,

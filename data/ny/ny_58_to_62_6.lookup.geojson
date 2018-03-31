@@ -1,49 +1,13 @@
 {
-  "id": "ny_58_to_62_06",
+  "id": "ny_58_to_62_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"62",
-    "id":"036058062006",
-    "member":{
-        "58":{
-            "371":{
-                "district":"6",
-                "name":"Baker, Robert",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "1399":{
-                "district":"6",
-                "name":"Calder, William Musgrave",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "1399":{
-                "district":"6",
-                "name":"Calder, William Musgrave",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "1399":{
-                "district":"6",
-                "name":"Calder, William Musgrave",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "1399":{
-                "district":"6",
-                "name":"Calder, William Musgrave",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -73.99984,

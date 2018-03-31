@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"87",
-    "id":"006083087022",
-    "member":{
-        "83":{
-            "4543":{
-                "district":"22",
-                "name":"Holt, Joseph Franklin III",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4543":{
-                "district":"22",
-                "name":"Holt, Joseph Franklin III",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4543":{
-                "district":"22",
-                "name":"Holt, Joseph Franklin III",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "4543":{
-                "district":"22",
-                "name":"Holt, Joseph Franklin III",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10511":{
-                "district":"22",
-                "name":"Corman, James C.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":22,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -118.89472,

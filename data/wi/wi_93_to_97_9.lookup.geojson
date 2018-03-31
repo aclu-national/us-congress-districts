@@ -1,49 +1,13 @@
 {
-  "id": "wi_93_to_97_09",
+  "id": "wi_93_to_97_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"97",
-    "id":"055093097009",
-    "member":{
-        "93":{
-            "2383":{
-                "district":"9",
-                "name":"Davis, Glenn Robert",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14242":{
-                "district":"9",
-                "name":"Kasten, Robert W.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14242":{
-                "district":"9",
-                "name":"Kasten, Robert W.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14657":{
-                "district":"9",
-                "name":"Sensenbrenner, Frank James",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14657":{
-                "district":"9",
-                "name":"Sensenbrenner, Frank James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Wisconsin"
+    "district":9,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"wi"
 },
   "bbox": [
     -89.01349,

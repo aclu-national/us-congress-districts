@@ -1,42 +1,13 @@
 {
-  "id": "fl_79_to_82_06",
+  "id": "fl_79_to_82_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"82",
-    "id":"012079082006",
-    "member":{
-        "79":{
-            "8023":{
-                "district":"6",
-                "name":"Rogers, Dwight Laing",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "8023":{
-                "district":"6",
-                "name":"Rogers, Dwight Laing",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "8023":{
-                "district":"6",
-                "name":"Rogers, Dwight Laing",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "8023":{
-                "district":"6",
-                "name":"Rogers, Dwight Laing",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Florida"
+    "district":6,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"fl"
 },
   "bbox": [
     -82.37482,

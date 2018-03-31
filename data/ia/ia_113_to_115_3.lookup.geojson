@@ -1,19 +1,13 @@
 {
-  "id": "ia_113_to_115_03",
+  "id": "ia_113_to_115_3",
   "type": "Feature",
   "properties": {
-    "ALAND":22765045373,
-    "AWATER":153166859,
-    "CD113FP":"03",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1903",
-    "INTPTLAT":"+41.2095427",
-    "INTPTLON":"-094.6403809",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 3",
-    "STATEFP":"19"
+    "district":3,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ia"
 },
   "bbox": [
     -96.019543,

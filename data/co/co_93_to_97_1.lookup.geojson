@@ -1,49 +1,13 @@
 {
-  "id": "co_93_to_97_01",
+  "id": "co_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"008093097001",
-    "member":{
-        "93":{
-            "14051":{
-                "district":"1",
-                "name":"Schroeder, Patricia",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14051":{
-                "district":"1",
-                "name":"Schroeder, Patricia",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14051":{
-                "district":"1",
-                "name":"Schroeder, Patricia",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14051":{
-                "district":"1",
-                "name":"Schroeder, Patricia",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14051":{
-                "district":"1",
-                "name":"Schroeder, Patricia",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Colorado"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"co"
 },
   "bbox": [
     -105.08134,

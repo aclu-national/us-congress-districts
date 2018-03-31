@@ -1,49 +1,13 @@
 {
-  "id": "ma_8_to_12_09",
+  "id": "ma_8_to_12_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"12",
-    "id":"025008012009",
-    "member":{
-        "10":{
-            "2446":{
-                "district":"9",
-                "name":"Dean, Josiah",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "9983":{
-                "district":"9",
-                "name":"Wheaton, Laban",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "9983":{
-                "district":"9",
-                "name":"Wheaton, Laban",
-                "party":"Federalist"
-            }
-        },
-        "8":{
-            "733":{
-                "district":"9",
-                "name":"Bishop, Phanuel",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "733":{
-                "district":"9",
-                "name":"Bishop, Phanuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Massachusetts"
+    "district":9,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ma"
 },
   "bbox": [
     -71.395,

@@ -2,48 +2,12 @@
   "id": "pa_98_to_102_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"102",
-    "id":"042098102010",
-    "member":{
-        "100":{
-            "10607":{
-                "district":"10",
-                "name":"McDade, Joseph M.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "10607":{
-                "district":"10",
-                "name":"McDade, Joseph M.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "10607":{
-                "district":"10",
-                "name":"McDade, Joseph M.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "10607":{
-                "district":"10",
-                "name":"McDade, Joseph M.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "10607":{
-                "district":"10",
-                "name":"McDade, Joseph M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"pa"
 },
   "bbox": [
     -78.20687,

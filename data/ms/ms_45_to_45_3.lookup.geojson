@@ -1,21 +1,13 @@
 {
-  "id": "ms_45_to_45_03",
+  "id": "ms_45_to_45_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"45",
-    "id":"028045045003",
-    "member":{
-        "45":{
-            "6592":{
-                "district":"3",
-                "name":"Money, Hernando De Soto",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Mississippi"
+    "district":3,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"ms"
 },
   "bbox": [
     -90.76466,

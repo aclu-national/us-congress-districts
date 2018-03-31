@@ -1,19 +1,13 @@
 {
-  "id": "il_113_to_115_05",
+  "id": "il_113_to_115_5",
   "type": "Feature",
   "properties": {
-    "ALAND":247897144,
-    "AWATER":1645493,
-    "CD113FP":"05",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1705",
-    "INTPTLAT":"+41.9303655",
-    "INTPTLON":"-087.8309020",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 5",
-    "STATEFP":"17"
+    "district":5,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"il"
 },
   "bbox": [
     -87.96916,

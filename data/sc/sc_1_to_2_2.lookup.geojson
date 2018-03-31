@@ -1,28 +1,13 @@
 {
-  "id": "sc_1_to_2_02",
+  "id": "sc_1_to_2_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"2",
-    "id":"045001002002",
-    "member":{
-        "1":{
-            "1260":{
-                "district":"2",
-                "name":"Burke, Aedanus",
-                "party":"Anti-Administration"
-            }
-        },
-        "2":{
-            "456":{
-                "district":"2",
-                "name":"Barnwell, Robert",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"South Carolina"
+    "district":2,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"sc"
 },
   "bbox": [
     -81.8692,

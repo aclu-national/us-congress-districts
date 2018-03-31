@@ -2,48 +2,12 @@
   "id": "il_98_to_102_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"102",
-    "id":"017098102013",
-    "member":{
-        "100":{
-            "15098":{
-                "district":"13",
-                "name":"Fawell, Harris W.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15098":{
-                "district":"13",
-                "name":"Fawell, Harris W.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15098":{
-                "district":"13",
-                "name":"Fawell, Harris W.",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "10722":{
-                "district":"13",
-                "name":"Erlenborn, John N.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15098":{
-                "district":"13",
-                "name":"Fawell, Harris W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Illinois"
+    "district":13,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"il"
 },
   "bbox": [
     -88.1482,

@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_41",
   "type": "Feature",
   "properties": {
-    "district":"41",
-    "endcong":"87",
-    "id":"036083087041",
-    "member":{
-        "83":{
-            "7687":{
-                "district":"41",
-                "name":"Radwan, Edmund Patrick",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "7687":{
-                "district":"41",
-                "name":"Radwan, Edmund Patrick",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "7687":{
-                "district":"41",
-                "name":"Radwan, Edmund Patrick",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "2752":{
-                "district":"41",
-                "name":"Dulski, Thaddeus J.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "2752":{
-                "district":"41",
-                "name":"Dulski, Thaddeus J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":41,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -78.88888,

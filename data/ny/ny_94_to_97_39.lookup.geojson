@@ -2,46 +2,12 @@
   "id": "ny_94_to_97_39",
   "type": "Feature",
   "properties": {
-    "district":"39",
-    "endcong":"97",
-    "id":"036094097039",
-    "member":{
-        "94":{
-            "12017":{
-                "district":"39",
-                "name":"Hastings, James F.",
-                "party":"Republican"
-            },
-            "14289":{
-                "district":"39",
-                "name":"Lundine, Stanley",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14289":{
-                "district":"39",
-                "name":"Lundine, Stanley",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14289":{
-                "district":"39",
-                "name":"Lundine, Stanley",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14289":{
-                "district":"39",
-                "name":"Lundine, Stanley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":39,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

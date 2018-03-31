@@ -1,19 +1,13 @@
 {
-  "id": "mo_113_to_115_07",
+  "id": "mo_113_to_115_7",
   "type": "Feature",
   "properties": {
-    "ALAND":16246628240,
-    "AWATER":248406583,
-    "CD113FP":"07",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2907",
-    "INTPTLAT":"+36.9910613",
-    "INTPTLON":"-093.7063517",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 7",
-    "STATEFP":"29"
+    "district":7,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mo"
 },
   "bbox": [
     -94.619594,

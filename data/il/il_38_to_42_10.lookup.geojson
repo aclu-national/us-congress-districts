@@ -2,48 +2,12 @@
   "id": "il_38_to_42_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"42",
-    "id":"017038042010",
-    "member":{
-        "38":{
-            "5328":{
-                "district":"10",
-                "name":"Knapp, Anthony Lausett",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "9358":{
-                "district":"10",
-                "name":"Thornton, Anthony",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "1303":{
-                "district":"10",
-                "name":"Burr, Albert George",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "1303":{
-                "district":"10",
-                "name":"Burr, Albert George",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "7853":{
-                "district":"10",
-                "name":"Rice, Edward Young",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Illinois"
+    "district":10,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"il"
 },
   "bbox": [
     -90.93673,

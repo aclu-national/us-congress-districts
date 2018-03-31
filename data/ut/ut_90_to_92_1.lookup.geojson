@@ -1,35 +1,13 @@
 {
-  "id": "ut_90_to_92_01",
+  "id": "ut_90_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"049090092001",
-    "member":{
-        "90":{
-            "10576":{
-                "district":"1",
-                "name":"Burton, Lawrence J.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10576":{
-                "district":"1",
-                "name":"Burton, Lawrence J.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "13027":{
-                "district":"1",
-                "name":"McKay, K. Gunn",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Utah"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"ut"
 },
   "bbox": [
     -114.04255,

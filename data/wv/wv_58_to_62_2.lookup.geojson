@@ -1,54 +1,13 @@
 {
-  "id": "wv_58_to_62_02",
+  "id": "wv_58_to_62_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"62",
-    "id":"054058062002",
-    "member":{
-        "58":{
-            "2438":{
-                "district":"2",
-                "name":"Dayton, Alston Gordon",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2412":{
-                "district":"2",
-                "name":"Davis, Thomas Beall",
-                "party":"Democrat"
-            },
-            "2438":{
-                "district":"2",
-                "name":"Dayton, Alston Gordon",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "9064":{
-                "district":"2",
-                "name":"Sturgiss, George Cookman",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "9064":{
-                "district":"2",
-                "name":"Sturgiss, George Cookman",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "1138":{
-                "district":"2",
-                "name":"Brown, William Gay, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"West Virginia"
+    "district":2,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"wv"
 },
   "bbox": [
     -80.42224,

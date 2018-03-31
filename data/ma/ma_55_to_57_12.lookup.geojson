@@ -2,34 +2,12 @@
   "id": "ma_55_to_57_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"57",
-    "id":"025055057012",
-    "member":{
-        "55":{
-            "5800":{
-                "district":"12",
-                "name":"Lovering, William Croad",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "5800":{
-                "district":"12",
-                "name":"Lovering, William Croad",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "5800":{
-                "district":"12",
-                "name":"Lovering, William Croad",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"ma"
 },
   "bbox": [
     -71.3817,

@@ -2,53 +2,12 @@
   "id": "ky_18_to_22_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"22",
-    "id":"021018022012",
-    "member":{
-        "18":{
-            "4342":{
-                "district":"12",
-                "name":"Henry, Robert Pryor",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "4335":{
-                "district":"12",
-                "name":"Henry, John Flournoy",
-                "party":"Adams"
-            },
-            "4342":{
-                "district":"12",
-                "name":"Henry, Robert Pryor",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "5863":{
-                "district":"12",
-                "name":"Lyon, Chittenden",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "5863":{
-                "district":"12",
-                "name":"Lyon, Chittenden",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "5863":{
-                "district":"12",
-                "name":"Lyon, Chittenden",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Kentucky"
+    "district":12,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ky"
 },
   "bbox": [
     -89.57151,

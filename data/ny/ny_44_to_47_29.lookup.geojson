@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"47",
-    "id":"036044047029",
-    "member":{
-        "44":{
-            "9736":{
-                "district":"29",
-                "name":"Walker, Charles Christoph",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "4739":{
-                "district":"29",
-                "name":"Hungerford, John Newton",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "7874":{
-                "district":"29",
-                "name":"Richardson, David Plunket",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "7874":{
-                "district":"29",
-                "name":"Richardson, David Plunket",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -78.30931,

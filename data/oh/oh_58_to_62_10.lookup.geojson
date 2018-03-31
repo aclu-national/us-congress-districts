@@ -2,48 +2,12 @@
   "id": "oh_58_to_62_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"62",
-    "id":"039058062010",
-    "member":{
-        "58":{
-            "6684":{
-                "district":"10",
-                "name":"Morgan, Stephen",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "411":{
-                "district":"10",
-                "name":"Bannon, Henry Towne",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "411":{
-                "district":"10",
-                "name":"Bannon, Henry Towne",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "4938":{
-                "district":"10",
-                "name":"Johnson, Adna Romulus",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "9131":{
-                "district":"10",
-                "name":"Switzer, Robert Mauck",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Ohio"
+    "district":10,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"oh"
 },
   "bbox": [
     -83.70528,

@@ -1,49 +1,13 @@
 {
-  "id": "il_58_to_62_08",
+  "id": "il_58_to_62_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"62",
-    "id":"017058062008",
-    "member":{
-        "58":{
-            "5928":{
-                "district":"8",
-                "name":"Mahoney, William Frank",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "6248":{
-                "district":"8",
-                "name":"McGavin, Charles",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "6248":{
-                "district":"8",
-                "name":"McGavin, Charles",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3435":{
-                "district":"8",
-                "name":"Gallagher, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "3435":{
-                "district":"8",
-                "name":"Gallagher, Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Illinois"
+    "district":8,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"il"
 },
   "bbox": [
     -87.67788,

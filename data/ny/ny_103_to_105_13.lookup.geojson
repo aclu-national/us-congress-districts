@@ -2,39 +2,12 @@
   "id": "ny_103_to_105_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"105",
-    "id":"036103105013",
-    "member":{
-        "103":{
-            "15639":{
-                "district":"13",
-                "name":"Molinari, Susan",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15639":{
-                "district":"13",
-                "name":"Molinari, Susan",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15639":{
-                "district":"13",
-                "name":"Molinari, Susan",
-                "party":"Republican"
-            },
-            "29773":{
-                "district":"13",
-                "name":"Fossella, Vito",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ny"
 },
   "bbox": [
     -74.25951,

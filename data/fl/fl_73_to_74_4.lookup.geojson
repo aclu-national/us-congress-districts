@@ -1,28 +1,13 @@
 {
-  "id": "fl_73_to_74_04",
+  "id": "fl_73_to_74_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"74",
-    "id":"012073074004",
-    "member":{
-        "73":{
-            "10100":{
-                "district":"4",
-                "name":"Wilcox, James Mark",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "10100":{
-                "district":"4",
-                "name":"Wilcox, James Mark",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Florida"
+    "district":4,
+    "end_date":"1936-06-20",
+    "end_session":74,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"fl"
 },
   "bbox": [
     -82.9264,

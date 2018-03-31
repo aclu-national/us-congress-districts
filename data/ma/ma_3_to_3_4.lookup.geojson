@@ -1,31 +1,13 @@
 {
-  "id": "ma_3_to_3_04",
+  "id": "ma_3_to_3_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"3",
-    "id":"025003003004",
-    "member":{
-        "3":{
-            "2451":{
-                "district":"4",
-                "name":"Dearborn, Henry",
-                "party":"Anti-Administration"
-            },
-            "9268":{
-                "district":"4",
-                "name":"Thacher, George",
-                "party":"Pro-Administration"
-            },
-            "9707":{
-                "district":"4",
-                "name":"Wadsworth, Peleg",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1795-03-03",
+    "end_session":3,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ma"
 },
   "bbox": [
     -71.08433,

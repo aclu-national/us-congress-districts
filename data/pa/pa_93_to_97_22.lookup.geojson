@@ -2,48 +2,12 @@
   "id": "pa_93_to_97_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"97",
-    "id":"042093097022",
-    "member":{
-        "93":{
-            "6685":{
-                "district":"22",
-                "name":"Morgan, Thomas Ellsworth",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "6685":{
-                "district":"22",
-                "name":"Morgan, Thomas Ellsworth",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14441":{
-                "district":"22",
-                "name":"Murphy, Austin",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14441":{
-                "district":"22",
-                "name":"Murphy, Austin",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14441":{
-                "district":"22",
-                "name":"Murphy, Austin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":22,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -80.51949,

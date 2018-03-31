@@ -1,49 +1,13 @@
 {
-  "id": "ma_33_to_37_04",
+  "id": "ma_33_to_37_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"37",
-    "id":"025033037004",
-    "member":{
-        "33":{
-            "9773":{
-                "district":"4",
-                "name":"Walley, Samuel Hurd",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "1964":{
-                "district":"4",
-                "name":"Comins, Linus Bacon",
-                "party":"American"
-            }
-        },
-        "35":{
-            "1964":{
-                "district":"4",
-                "name":"Comins, Linus Bacon",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "7849":{
-                "district":"4",
-                "name":"Rice, Alexander Hamilton",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "7849":{
-                "district":"4",
-                "name":"Rice, Alexander Hamilton",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ma"
 },
   "bbox": [
     -71.179,

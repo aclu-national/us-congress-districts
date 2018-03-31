@@ -2,48 +2,12 @@
   "id": "ny_23_to_27_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"27",
-    "id":"036023027031",
-    "member":{
-        "23":{
-            "4254":{
-                "district":"31",
-                "name":"Hazeltine, Abner",
-                "party":"Anti Masonic"
-            }
-        },
-        "24":{
-            "4254":{
-                "district":"31",
-                "name":"Hazeltine, Abner",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "6049":{
-                "district":"31",
-                "name":"Marvin, Richard Pratt",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "6049":{
-                "district":"31",
-                "name":"Marvin, Richard Pratt",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "1801":{
-                "district":"31",
-                "name":"Clarke, Staley Nichols",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

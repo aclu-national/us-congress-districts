@@ -2,41 +2,12 @@
   "id": "il_54_to_57_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"57",
-    "id":"017054057017",
-    "member":{
-        "54":{
-            "1999":{
-                "district":"17",
-                "name":"Connolly, James Austin",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "1999":{
-                "district":"17",
-                "name":"Connolly, James Austin",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "1403":{
-                "district":"17",
-                "name":"Caldwell, Ben Franklin",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "1403":{
-                "district":"17",
-                "name":"Caldwell, Ben Franklin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"54",
-    "statename":"Illinois"
+    "district":17,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1895-12-02",
+    "start_session":54,
+    "state":"il"
 },
   "bbox": [
     -89.99503,

@@ -1,42 +1,13 @@
 {
-  "id": "ky_48_to_51_01",
+  "id": "ky_48_to_51_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"51",
-    "id":"021048051001",
-    "member":{
-        "48":{
-            "9519":{
-                "district":"1",
-                "name":"Turner, Oscar",
-                "party":"Ind. Democrat"
-            }
-        },
-        "49":{
-            "8990":{
-                "district":"1",
-                "name":"Stone, William Johnson",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "8990":{
-                "district":"1",
-                "name":"Stone, William Johnson",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "8990":{
-                "district":"1",
-                "name":"Stone, William Johnson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Kentucky"
+    "district":1,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ky"
 },
   "bbox": [
     -89.57151,

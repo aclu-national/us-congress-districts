@@ -2,53 +2,12 @@
   "id": "pa_68_to_72_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"72",
-    "id":"042068072016",
-    "member":{
-        "68":{
-            "5233":{
-                "district":"16",
-                "name":"Kiess, Edgar Raymond",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "5233":{
-                "district":"16",
-                "name":"Kiess, Edgar Raymond",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "5233":{
-                "district":"16",
-                "name":"Kiess, Edgar Raymond",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "5233":{
-                "district":"16",
-                "name":"Kiess, Edgar Raymond",
-                "party":"Republican"
-            },
-            "7864":{
-                "district":"16",
-                "name":"Rich, Robert Fleming",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "7864":{
-                "district":"16",
-                "name":"Rich, Robert Fleming",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -78.2066,

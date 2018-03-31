@@ -1,84 +1,13 @@
 {
-  "id": "ga_3_to_7_00",
+  "id": "ga_3_to_7_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"7",
-    "id":"013003007000",
-    "member":{
-        "3":{
-            "1518":{
-                "district":"98",
-                "name":"Carnes, Thomas Petters",
-                "party":"Anti-Administration"
-            },
-            "379":{
-                "district":"98",
-                "name":"Baldwin, Abraham",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "379":{
-                "district":"98",
-                "name":"Baldwin, Abraham",
-                "party":"Republican"
-            },
-            "6472":{
-                "district":"98",
-                "name":"Milledge, John",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "379":{
-                "district":"98",
-                "name":"Baldwin, Abraham",
-                "party":"Republican"
-            },
-            "6472":{
-                "district":"98",
-                "name":"Milledge, John",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "5038":{
-                "district":"98",
-                "name":"Jones, James",
-                "party":"Federalist"
-            },
-            "9165":{
-                "district":"98",
-                "name":"Taliaferro, Benjamin",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "2819":{
-                "district":"98",
-                "name":"Early, Peter",
-                "party":"Republican"
-            },
-            "6422":{
-                "district":"98",
-                "name":"Meriwether, David",
-                "party":"Republican"
-            },
-            "6472":{
-                "district":"98",
-                "name":"Milledge, John",
-                "party":"Republican"
-            },
-            "9165":{
-                "district":"98",
-                "name":"Taliaferro, Benjamin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Georgia"
+    "district":0,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ga"
 },
   "bbox": [
     -83.94155,

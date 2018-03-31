@@ -1,28 +1,13 @@
 {
-  "id": "in_41_to_42_01",
+  "id": "in_41_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"018041042001",
-    "member":{
-        "41":{
-            "6910":{
-                "district":"1",
-                "name":"Niblack, William Ellis",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "6910":{
-                "district":"1",
-                "name":"Niblack, William Ellis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

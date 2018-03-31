@@ -1,35 +1,13 @@
 {
-  "id": "ga_110_to_112_03",
+  "id": "ga_110_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"013110112003",
-    "member":{
-        "110":{
-            "20506":{
-                "district":"3",
-                "name":"Westmoreland, Lynn A.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20506":{
-                "district":"3",
-                "name":"Westmoreland, Lynn A.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20506":{
-                "district":"3",
-                "name":"Westmoreland, Lynn",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"110",
-    "statename":"Georgia"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2007-01-04",
+    "start_session":110,
+    "state":"ga"
 },
   "bbox": [
     -85.32256,

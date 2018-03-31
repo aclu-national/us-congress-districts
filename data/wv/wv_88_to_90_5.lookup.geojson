@@ -1,35 +1,13 @@
 {
-  "id": "wv_88_to_90_05",
+  "id": "wv_88_to_90_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"90",
-    "id":"054088090005",
-    "member":{
-        "88":{
-            "5118":{
-                "district":"5",
-                "name":"Kee, Maude Elizabeth",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10744":{
-                "district":"5",
-                "name":"Kee, James",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10744":{
-                "district":"5",
-                "name":"Kee, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"West Virginia"
+    "district":5,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"wv"
 },
   "bbox": [
     -82.42048,

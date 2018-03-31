@@ -1,28 +1,13 @@
 {
-  "id": "oh_98_to_99_09",
+  "id": "oh_98_to_99_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"99",
-    "id":"039098099009",
-    "member":{
-        "98":{
-            "15029":{
-                "district":"9",
-                "name":"Kaptur, Marcia",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15029":{
-                "district":"9",
-                "name":"Kaptur, Marcia",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Ohio"
+    "district":9,
+    "end_date":"1986-10-18",
+    "end_session":99,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"oh"
 },
   "bbox": [
     -84.23016,

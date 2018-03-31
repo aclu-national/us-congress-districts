@@ -1,21 +1,13 @@
 {
-  "id": "ny_43_to_43_08",
+  "id": "ny_43_to_43_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"43",
-    "id":"036043043008",
-    "member":{
-        "43":{
-            "5521":{
-                "district":"8",
-                "name":"Lawson, John Daniel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ny"
 },
   "bbox": [
     -74.01514,

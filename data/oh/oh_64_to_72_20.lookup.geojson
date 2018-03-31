@@ -2,81 +2,12 @@
   "id": "oh_64_to_72_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"72",
-    "id":"039064072020",
-    "member":{
-        "64":{
-            "3702":{
-                "district":"20",
-                "name":"Gordon, William",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "3702":{
-                "district":"20",
-                "name":"Gordon, William",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "6621":{
-                "district":"20",
-                "name":"Mooney, Charles Anthony",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "6973":{
-                "district":"20",
-                "name":"Norton, Miner Gibbs",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6621":{
-                "district":"20",
-                "name":"Mooney, Charles Anthony",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "6621":{
-                "district":"20",
-                "name":"Mooney, Charles Anthony",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "6621":{
-                "district":"20",
-                "name":"Mooney, Charles Anthony",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "6621":{
-                "district":"20",
-                "name":"Mooney, Charles Anthony",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "6621":{
-                "district":"20",
-                "name":"Mooney, Charles Anthony",
-                "party":"Democrat"
-            },
-            "9113":{
-                "district":"20",
-                "name":"Sweeney, Martin Leonard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":20,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -81.76909,

@@ -1,62 +1,13 @@
 {
-  "id": "fl_44_to_47_02",
+  "id": "fl_44_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"012044047002",
-    "member":{
-        "44":{
-            "3156":{
-                "district":"2",
-                "name":"Finley, Jesse Johnson",
-                "party":"Democrat"
-            },
-            "9778":{
-                "district":"2",
-                "name":"Walls, Josiah Thomas",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "3156":{
-                "district":"2",
-                "name":"Finley, Jesse Johnson",
-                "party":"Democrat"
-            },
-            "730":{
-                "district":"2",
-                "name":"Bisbee, Horatio Jr",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "4722":{
-                "district":"2",
-                "name":"Hull, Noble Andrew",
-                "party":"Democrat"
-            },
-            "730":{
-                "district":"2",
-                "name":"Bisbee, Horatio Jr",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "3156":{
-                "district":"2",
-                "name":"Finley, Jesse Johnson",
-                "party":"Democrat"
-            },
-            "730":{
-                "district":"2",
-                "name":"Bisbee, Horatio Jr",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Florida"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"fl"
 },
   "bbox": [
     -83.82172,

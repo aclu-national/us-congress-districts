@@ -1,21 +1,13 @@
 {
-  "id": "tn_37_to_37_04",
+  "id": "tn_37_to_37_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"37",
-    "id":"047037037004",
-    "member":{
-        "37":{
-            "1830":{
-                "district":"4",
-                "name":"Clements, Andrew Jackson",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"37",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1861-03-04",
+    "start_session":37,
+    "state":"tn"
 },
   "bbox": [
     -86.25835,

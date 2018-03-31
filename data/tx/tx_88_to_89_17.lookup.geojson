@@ -2,27 +2,12 @@
   "id": "tx_88_to_89_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"89",
-    "id":"048088089017",
-    "member":{
-        "88":{
-            "1282":{
-                "district":"17",
-                "name":"Burleson, Omar Truman",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "1282":{
-                "district":"17",
-                "name":"Burleson, Omar Truman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Texas"
+    "district":17,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"tx"
 },
   "bbox": [
     -101.17473,

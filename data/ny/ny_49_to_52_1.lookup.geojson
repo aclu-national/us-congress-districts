@@ -1,47 +1,13 @@
 {
-  "id": "ny_49_to_52_01",
+  "id": "ny_49_to_52_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"52",
-    "id":"036049052001",
-    "member":{
-        "49":{
-            "618":{
-                "district":"1",
-                "name":"Belmont, Perry",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "618":{
-                "district":"1",
-                "name":"Belmont, Perry",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "2096":{
-                "district":"1",
-                "name":"Covert, James Way",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "1647":{
-                "district":"1",
-                "name":"Chapin, Alfred Clark",
-                "party":"Democrat"
-            },
-            "2096":{
-                "district":"1",
-                "name":"Covert, James Way",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

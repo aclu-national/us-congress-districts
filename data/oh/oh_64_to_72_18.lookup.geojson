@@ -2,76 +2,12 @@
   "id": "oh_64_to_72_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"72",
-    "id":"039064072018",
-    "member":{
-        "64":{
-            "4524":{
-                "district":"18",
-                "name":"Hollingsworth, David Adams",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "4524":{
-                "district":"18",
-                "name":"Hollingsworth, David Adams",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6805":{
-                "district":"18",
-                "name":"Murphy, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6805":{
-                "district":"18",
-                "name":"Murphy, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6805":{
-                "district":"18",
-                "name":"Murphy, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "6805":{
-                "district":"18",
-                "name":"Murphy, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "6805":{
-                "district":"18",
-                "name":"Murphy, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "6805":{
-                "district":"18",
-                "name":"Murphy, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "6805":{
-                "district":"18",
-                "name":"Murphy, Benjamin Franklin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":18,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -81.33956,

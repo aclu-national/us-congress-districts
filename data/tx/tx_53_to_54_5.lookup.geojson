@@ -1,28 +1,13 @@
 {
-  "id": "tx_53_to_54_05",
+  "id": "tx_53_to_54_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"54",
-    "id":"048053054005",
-    "member":{
-        "53":{
-            "347":{
-                "district":"5",
-                "name":"Bailey, Joseph Weldon",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "347":{
-                "district":"5",
-                "name":"Bailey, Joseph Weldon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Texas"
+    "district":5,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"tx"
 },
   "bbox": [
     -97.97905,

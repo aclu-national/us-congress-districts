@@ -1,54 +1,13 @@
 {
-  "id": "mi_93_to_97_08",
+  "id": "mi_93_to_97_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"97",
-    "id":"026093097008",
-    "member":{
-        "93":{
-            "10526":{
-                "district":"8",
-                "name":"Harvey, James",
-                "party":"Republican"
-            },
-            "14075":{
-                "district":"8",
-                "name":"Traxler, Bob",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14075":{
-                "district":"8",
-                "name":"Traxler, Bob",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14075":{
-                "district":"8",
-                "name":"Traxler, Bob",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14075":{
-                "district":"8",
-                "name":"Traxler, Bob",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14075":{
-                "district":"8",
-                "name":"Traxler, Bob",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Michigan"
+    "district":8,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mi"
 },
   "bbox": [
     -84.17056,

@@ -2,53 +2,12 @@
   "id": "va_13_to_17_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"17",
-    "id":"051013017019",
-    "member":{
-        "13":{
-            "3691":{
-                "district":"19",
-                "name":"Goodwyn, Peterson",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "3691":{
-                "district":"19",
-                "name":"Goodwyn, Peterson",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "3691":{
-                "district":"19",
-                "name":"Goodwyn, Peterson",
-                "party":"Republican"
-            },
-            "7307":{
-                "district":"19",
-                "name":"Pegram, John",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "5039":{
-                "district":"19",
-                "name":"Jones, James",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "5039":{
-                "district":"19",
-                "name":"Jones, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Virginia"
+    "district":19,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"va"
 },
   "bbox": [
     -78.23935,

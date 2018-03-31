@@ -1,21 +1,13 @@
 {
-  "id": "ga_20_to_20_05",
+  "id": "ga_20_to_20_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"20",
-    "id":"013020020005",
-    "member":{
-        "20":{
-            "4238":{
-                "district":"5",
-                "name":"Haynes, Charles Eaton",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"20",
-    "statename":"Georgia"
+    "district":5,
+    "end_date":"1829-03-03",
+    "end_session":20,
+    "start_date":"1827-12-03",
+    "start_session":20,
+    "state":"ga"
 },
   "bbox": [
     -83.54541,

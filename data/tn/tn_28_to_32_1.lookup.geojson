@@ -1,49 +1,13 @@
 {
-  "id": "tn_28_to_32_01",
+  "id": "tn_28_to_32_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"32",
-    "id":"047028032001",
-    "member":{
-        "28":{
-            "4940":{
-                "district":"1",
-                "name":"Johnson, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4940":{
-                "district":"1",
-                "name":"Johnson, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "4940":{
-                "district":"1",
-                "name":"Johnson, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "4940":{
-                "district":"1",
-                "name":"Johnson, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "4940":{
-                "district":"1",
-                "name":"Johnson, Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"tn"
 },
   "bbox": [
     -83.39024,

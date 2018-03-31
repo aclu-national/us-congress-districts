@@ -1,49 +1,13 @@
 {
-  "id": "ks_98_to_102_01",
+  "id": "ks_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"020098102001",
-    "member":{
-        "100":{
-            "14852":{
-                "district":"1",
-                "name":"Roberts, Pat",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14852":{
-                "district":"1",
-                "name":"Roberts, Pat",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14852":{
-                "district":"1",
-                "name":"Roberts, Pat",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "14852":{
-                "district":"1",
-                "name":"Roberts, Pat",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14852":{
-                "district":"1",
-                "name":"Roberts, Pat",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Kansas"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ks"
 },
   "bbox": [
     -102.05129,

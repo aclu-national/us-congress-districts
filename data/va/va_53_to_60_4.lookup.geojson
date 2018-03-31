@@ -1,85 +1,13 @@
 {
-  "id": "va_53_to_60_04",
+  "id": "va_53_to_60_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"60",
-    "id":"051053060004",
-    "member":{
-        "53":{
-            "2975":{
-                "district":"4",
-                "name":"Epes, James Fletcher",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "6296":{
-                "district":"4",
-                "name":"McKenney, William Roberts",
-                "party":"Democrat"
-            },
-            "9361":{
-                "district":"4",
-                "name":"Thorp, Robert Taylor",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2976":{
-                "district":"4",
-                "name":"Epes, Sydney Parham",
-                "party":"Democrat"
-            },
-            "9361":{
-                "district":"4",
-                "name":"Thorp, Robert Taylor",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2976":{
-                "district":"4",
-                "name":"Epes, Sydney Parham",
-                "party":"Democrat"
-            },
-            "5486":{
-                "district":"4",
-                "name":"Lassiter, Francis Rives",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "5486":{
-                "district":"4",
-                "name":"Lassiter, Francis Rives",
-                "party":"Democrat"
-            }
-        },
-        "58":{
-            "8747":{
-                "district":"4",
-                "name":"Southall, Robert Goode",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "8747":{
-                "district":"4",
-                "name":"Southall, Robert Goode",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "5486":{
-                "district":"4",
-                "name":"Lassiter, Francis Rives",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Virginia"
+    "district":4,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"va"
 },
   "bbox": [
     -78.74044,

@@ -2,34 +2,12 @@
   "id": "oh_100_to_102_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"102",
-    "id":"039100102011",
-    "member":{
-        "100":{
-            "14818":{
-                "district":"11",
-                "name":"Eckart, Dennis E.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14818":{
-                "district":"11",
-                "name":"Eckart, Dennis E.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14818":{
-                "district":"11",
-                "name":"Eckart, Dennis E.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"100",
-    "statename":"Ohio"
+    "district":11,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1987-01-06",
+    "start_session":100,
+    "state":"oh"
 },
   "bbox": [
     -81.4627,

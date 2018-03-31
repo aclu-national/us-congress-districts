@@ -1,49 +1,13 @@
 {
-  "id": "wi_108_to_112_06",
+  "id": "wi_108_to_112_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"112",
-    "id":"055108112006",
-    "member":{
-        "108":{
-            "14675":{
-                "district":"6",
-                "name":"Petri, Thomas E.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "14675":{
-                "district":"6",
-                "name":"Petri, Thomas E.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "14675":{
-                "district":"6",
-                "name":"Petri, Thomas E.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "14675":{
-                "district":"6",
-                "name":"Petri, Thomas E.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "14675":{
-                "district":"6",
-                "name":"Petri, Tom",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Wisconsin"
+    "district":6,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"wi"
 },
   "bbox": [
     -90.02876,

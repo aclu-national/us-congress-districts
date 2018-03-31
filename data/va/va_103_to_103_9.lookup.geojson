@@ -1,21 +1,13 @@
 {
-  "id": "va_103_to_103_09",
+  "id": "va_103_to_103_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"103",
-    "id":"051103103009",
-    "member":{
-        "103":{
-            "15010":{
-                "district":"9",
-                "name":"Boucher, Frederick C.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Virginia"
+    "district":9,
+    "end_date":"1994-12-01",
+    "end_session":103,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"va"
 },
   "bbox": [
     -83.6755,

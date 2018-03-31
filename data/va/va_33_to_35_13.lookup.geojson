@@ -2,34 +2,12 @@
   "id": "va_33_to_35_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"35",
-    "id":"051033035013",
-    "member":{
-        "33":{
-            "6362":{
-                "district":"13",
-                "name":"McMullen, Fayette",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "6362":{
-                "district":"13",
-                "name":"McMullen, Fayette",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "4568":{
-                "district":"13",
-                "name":"Hopkins, George Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Virginia"
+    "district":13,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"va"
 },
   "bbox": [
     -83.67541,

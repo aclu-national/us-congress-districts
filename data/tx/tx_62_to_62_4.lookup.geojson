@@ -1,21 +1,13 @@
 {
-  "id": "tx_62_to_62_04",
+  "id": "tx_62_to_62_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"62",
-    "id":"048062062004",
-    "member":{
-        "62":{
-            "7718":{
-                "district":"4",
-                "name":"Randell, Choice Boswell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"62",
-    "statename":"Texas"
+    "district":4,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1911-04-04",
+    "start_session":62,
+    "state":"tx"
 },
   "bbox": [
     -96.94513,

@@ -1,28 +1,13 @@
 {
-  "id": "va_1_to_2_06",
+  "id": "va_1_to_2_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"2",
-    "id":"051001002006",
-    "member":{
-        "1":{
-            "1936":{
-                "district":"6",
-                "name":"Coles, Isaac",
-                "party":"Anti-Administration"
-            }
-        },
-        "2":{
-            "9658":{
-                "district":"6",
-                "name":"Venable, Abraham Bedford",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"va"
 },
   "bbox": [
     -80.82964,

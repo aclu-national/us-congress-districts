@@ -1,35 +1,13 @@
 {
-  "id": "tn_80_to_82_06",
+  "id": "tn_80_to_82_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"82",
-    "id":"047080082006",
-    "member":{
-        "80":{
-            "7622":{
-                "district":"6",
-                "name":"Priest, James Percy",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "7622":{
-                "district":"6",
-                "name":"Priest, James Percy",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7622":{
-                "district":"6",
-                "name":"Priest, James Percy",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"80",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1947-01-03",
+    "start_session":80,
+    "state":"tn"
 },
   "bbox": [
     -87.0549,

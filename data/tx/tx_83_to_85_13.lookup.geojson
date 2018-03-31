@@ -2,34 +2,12 @@
   "id": "tx_83_to_85_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"85",
-    "id":"048083085013",
-    "member":{
-        "83":{
-            "4796":{
-                "district":"13",
-                "name":"Ikard, Frank Neville",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "4796":{
-                "district":"13",
-                "name":"Ikard, Frank Neville",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "4796":{
-                "district":"13",
-                "name":"Ikard, Frank Neville",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Texas"
+    "district":13,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tx"
 },
   "bbox": [
     -100.04848,

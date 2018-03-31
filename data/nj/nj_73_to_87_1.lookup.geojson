@@ -1,119 +1,13 @@
 {
-  "id": "nj_73_to_87_01",
+  "id": "nj_73_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"034073087001",
-    "member":{
-        "73":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "10314":{
-                "district":"1",
-                "name":"Wolverton, Charles Anderson",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "1393":{
-                "district":"1",
-                "name":"Cahill, William Thomas",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "1393":{
-                "district":"1",
-                "name":"Cahill, William Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New Jersey"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"nj"
 },
   "bbox": [
     -75.55979,

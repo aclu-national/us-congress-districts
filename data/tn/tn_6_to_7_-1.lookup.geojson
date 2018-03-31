@@ -2,15 +2,12 @@
   "id": "tn_6_to_7_-1",
   "type": "Feature",
   "properties": {
-    "district":"-1",
-    "endcong":"7",
-    "id":"0470060070-1",
-    "member":{
-        "6":[],
-        "7":[]
-    },
-    "startcong":"6",
-    "statename":"Tennessee"
+    "district":-1,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1799-12-02",
+    "start_session":6,
+    "state":"tn"
 },
   "bbox": [
     -90.3103,

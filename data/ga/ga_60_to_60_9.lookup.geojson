@@ -1,21 +1,13 @@
 {
-  "id": "ga_60_to_60_09",
+  "id": "ga_60_to_60_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"60",
-    "id":"013060060009",
-    "member":{
-        "60":{
-            "614":{
-                "district":"9",
-                "name":"Bell, Thomas Montgomery",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Georgia"
+    "district":9,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ga"
 },
   "bbox": [
     -84.65923,

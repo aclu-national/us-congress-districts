@@ -1,49 +1,13 @@
 {
-  "id": "nc_108_to_112_08",
+  "id": "nc_108_to_112_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"112",
-    "id":"037108112008",
-    "member":{
-        "108":{
-            "29929":{
-                "district":"8",
-                "name":"Hayes, Robin",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29929":{
-                "district":"8",
-                "name":"Hayes, Robin",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29929":{
-                "district":"8",
-                "name":"Hayes, Robin",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20938":{
-                "district":"8",
-                "name":"Kissell, Larry",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20938":{
-                "district":"8",
-                "name":"Kissell, Larry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"North Carolina"
+    "district":8,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nc"
 },
   "bbox": [
     -80.83589,

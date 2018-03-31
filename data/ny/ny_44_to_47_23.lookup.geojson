@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"47",
-    "id":"036044047023",
-    "member":{
-        "44":{
-            "5779":{
-                "district":"23",
-                "name":"Lord, Scott",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "328":{
-                "district":"23",
-                "name":"Bacon, William Johnson",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "7602":{
-                "district":"23",
-                "name":"Prescott, Cyrus Dan",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "7602":{
-                "district":"23",
-                "name":"Prescott, Cyrus Dan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -75.88676,

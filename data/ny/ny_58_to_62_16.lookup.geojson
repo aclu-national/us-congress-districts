@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"62",
-    "id":"036058062016",
-    "member":{
-        "58":{
-            "8117":{
-                "district":"16",
-                "name":"Ruppert, Jacob, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "8117":{
-                "district":"16",
-                "name":"Ruppert, Jacob, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "4129":{
-                "district":"16",
-                "name":"Harrison, Francis Burton",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "4129":{
-                "district":"16",
-                "name":"Harrison, Francis Burton",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "4129":{
-                "district":"16",
-                "name":"Harrison, Francis Burton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -73.95574,

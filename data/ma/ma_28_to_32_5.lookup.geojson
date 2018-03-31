@@ -1,49 +1,13 @@
 {
-  "id": "ma_28_to_32_05",
+  "id": "ma_28_to_32_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"32",
-    "id":"025028032005",
-    "member":{
-        "28":{
-            "4687":{
-                "district":"5",
-                "name":"Hudson, Charles",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "4687":{
-                "district":"5",
-                "name":"Hudson, Charles",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "4687":{
-                "district":"5",
-                "name":"Hudson, Charles",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "101":{
-                "district":"5",
-                "name":"Allen, Charles",
-                "party":"Free Soil"
-            }
-        },
-        "32":{
-            "101":{
-                "district":"5",
-                "name":"Allen, Charles",
-                "party":"Free Soil"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ma"
 },
   "bbox": [
     -72.29142,

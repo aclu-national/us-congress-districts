@@ -1,41 +1,13 @@
 {
-  "id": "al_27_to_27_00",
+  "id": "al_27_to_27_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"27",
-    "id":"001027027000",
-    "member":{
-        "27":{
-            "1658":{
-                "district":"98",
-                "name":"Chapman, Reuben",
-                "party":"Democrat"
-            },
-            "4610":{
-                "district":"98",
-                "name":"Houston, George Smith",
-                "party":"Democrat"
-            },
-            "5635":{
-                "district":"98",
-                "name":"Lewis, Dixon Hall",
-                "party":"Democrat"
-            },
-            "7274":{
-                "district":"98",
-                "name":"Payne, William Winter",
-                "party":"Democrat"
-            },
-            "8467":{
-                "district":"98",
-                "name":"Shields, Benjamin Glover",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"27",
-    "statename":"Alabama"
+    "district":0,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1841-03-04",
+    "start_session":27,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

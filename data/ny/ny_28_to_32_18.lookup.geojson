@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"32",
-    "id":"036028032018",
-    "member":{
-        "28":{
-            "5269":{
-                "district":"18",
-                "name":"King, Preston",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "5269":{
-                "district":"18",
-                "name":"King, Preston",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "1951":{
-                "district":"18",
-                "name":"Collins, William",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "5269":{
-                "district":"18",
-                "name":"King, Preston",
-                "party":"Free Soil"
-            }
-        },
-        "32":{
-            "5269":{
-                "district":"18",
-                "name":"King, Preston",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":18,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -75.85052,

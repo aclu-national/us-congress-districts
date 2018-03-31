@@ -1,49 +1,13 @@
 {
-  "id": "ca_78_to_82_04",
+  "id": "ca_78_to_82_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"82",
-    "id":"006078082004",
-    "member":{
-        "78":{
-            "8043":{
-                "district":"4",
-                "name":"Rolph, Thomas",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4201":{
-                "district":"4",
-                "name":"Havenner, Franck Roberts",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "4201":{
-                "district":"4",
-                "name":"Havenner, Franck Roberts",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "4201":{
-                "district":"4",
-                "name":"Havenner, Franck Roberts",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "4201":{
-                "district":"4",
-                "name":"Havenner, Franck Roberts",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":4,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -123.10803,

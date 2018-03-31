@@ -1,42 +1,13 @@
 {
-  "id": "ky_52_to_55_07",
+  "id": "ky_52_to_55_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"55",
-    "id":"021052055007",
-    "member":{
-        "52":{
-            "996":{
-                "district":"7",
-                "name":"Breckinridge, William Campbell Preston",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "996":{
-                "district":"7",
-                "name":"Breckinridge, William Campbell Preston",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "7139":{
-                "district":"7",
-                "name":"Owens, William Claiborne",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "8369":{
-                "district":"7",
-                "name":"Settle, Evan Evans",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"52",
-    "statename":"Kentucky"
+    "district":7,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1891-12-07",
+    "start_session":52,
+    "state":"ky"
 },
   "bbox": [
     -85.63796,

@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"102",
-    "id":"036099102021",
-    "member":{
-        "100":{
-            "12013":{
-                "district":"21",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "12013":{
-                "district":"21",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "12013":{
-                "district":"21",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "12013":{
-                "district":"21",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -74.30447,

@@ -2,69 +2,12 @@
   "id": "mn_64_to_71_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"71",
-    "id":"027064071010",
-    "member":{
-        "64":{
-            "8254":{
-                "district":"10",
-                "name":"Schall, Thomas David",
-                "party":"Progressive"
-            }
-        },
-        "65":{
-            "8254":{
-                "district":"10",
-                "name":"Schall, Thomas David",
-                "party":"Progressive"
-            }
-        },
-        "66":{
-            "8254":{
-                "district":"10",
-                "name":"Schall, Thomas David",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "8254":{
-                "district":"10",
-                "name":"Schall, Thomas David",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "8254":{
-                "district":"10",
-                "name":"Schall, Thomas David",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "3684":{
-                "district":"10",
-                "name":"Goodwin, Godfrey Gummer",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "3684":{
-                "district":"10",
-                "name":"Goodwin, Godfrey Gummer",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "3684":{
-                "district":"10",
-                "name":"Goodwin, Godfrey Gummer",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Minnesota"
+    "district":10,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mn"
 },
   "bbox": [
     -94.26153,

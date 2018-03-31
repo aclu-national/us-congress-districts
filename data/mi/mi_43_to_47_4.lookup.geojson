@@ -1,49 +1,13 @@
 {
-  "id": "mi_43_to_47_04",
+  "id": "mi_43_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"026043047004",
-    "member":{
-        "43":{
-            "1310":{
-                "district":"4",
-                "name":"Burrows, Julius Caesar",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "7550":{
-                "district":"4",
-                "name":"Potter, Allen",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "5127":{
-                "district":"4",
-                "name":"Keightley, Edwin William",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "1310":{
-                "district":"4",
-                "name":"Burrows, Julius Caesar",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "1310":{
-                "district":"4",
-                "name":"Burrows, Julius Caesar",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Michigan"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"mi"
 },
   "bbox": [
     -86.82483,

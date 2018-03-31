@@ -1,19 +1,13 @@
 {
-  "id": "oh_113_to_115_03",
+  "id": "oh_113_to_115_3",
   "type": "Feature",
   "properties": {
-    "ALAND":590544381,
-    "AWATER":11252158,
-    "CD113FP":"03",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3903",
-    "INTPTLAT":"+39.9662072",
-    "INTPTLON":"-082.9474950",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 3",
-    "STATEFP":"39"
+    "district":3,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"oh"
 },
   "bbox": [
     -83.174469,

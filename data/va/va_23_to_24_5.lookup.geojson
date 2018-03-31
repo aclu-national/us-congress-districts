@@ -1,33 +1,13 @@
 {
-  "id": "va_23_to_24_05",
+  "id": "va_23_to_24_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"24",
-    "id":"051023024005",
-    "member":{
-        "23":{
-            "879":{
-                "district":"5",
-                "name":"Bouldin, James Wood",
-                "party":"Jackson"
-            },
-            "880":{
-                "district":"5",
-                "name":"Bouldin, Thomas Tyler",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "879":{
-                "district":"5",
-                "name":"Bouldin, James Wood",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1837-03-03",
+    "end_session":24,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"va"
 },
   "bbox": [
     -78.96371,

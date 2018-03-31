@@ -1,28 +1,13 @@
 {
-  "id": "oh_28_to_29_04",
+  "id": "oh_28_to_29_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"29",
-    "id":"039028029004",
-    "member":{
-        "28":{
-            "9597":{
-                "district":"4",
-                "name":"Vance, Joseph",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "9597":{
-                "district":"4",
-                "name":"Vance, Joseph",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":4,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -84.4364,

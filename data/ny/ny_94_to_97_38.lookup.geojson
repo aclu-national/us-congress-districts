@@ -2,41 +2,12 @@
   "id": "ny_94_to_97_38",
   "type": "Feature",
   "properties": {
-    "district":"38",
-    "endcong":"97",
-    "id":"036094097038",
-    "member":{
-        "94":{
-            "13020":{
-                "district":"38",
-                "name":"Kemp, Jack",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "13020":{
-                "district":"38",
-                "name":"Kemp, Jack",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "13020":{
-                "district":"38",
-                "name":"Kemp, Jack",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "13020":{
-                "district":"38",
-                "name":"Kemp, Jack",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":38,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

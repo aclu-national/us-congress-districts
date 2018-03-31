@@ -2,46 +2,12 @@
   "id": "ny_79_to_82_32",
   "type": "Feature",
   "properties": {
-    "district":"32",
-    "endcong":"82",
-    "id":"036079082032",
-    "member":{
-        "79":{
-            "1369":{
-                "district":"32",
-                "name":"Byrne, William Thomas",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "1369":{
-                "district":"32",
-                "name":"Byrne, William Thomas",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "1369":{
-                "district":"32",
-                "name":"Byrne, William Thomas",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1369":{
-                "district":"32",
-                "name":"Byrne, William Thomas",
-                "party":"Democrat"
-            },
-            "7003":{
-                "district":"32",
-                "name":"O'Brien, Leo William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":32,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -74.26486,

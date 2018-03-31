@@ -1,28 +1,13 @@
 {
-  "id": "nc_91_to_92_07",
+  "id": "nc_91_to_92_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"92",
-    "id":"037091092007",
-    "member":{
-        "91":{
-            "5606":{
-                "district":"7",
-                "name":"Lennon, Alton Asa",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "5606":{
-                "district":"7",
-                "name":"Lennon, Alton Asa",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"North Carolina"
+    "district":7,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nc"
 },
   "bbox": [
     -79.46175,

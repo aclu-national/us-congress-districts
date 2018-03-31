@@ -2,20 +2,12 @@
   "id": "ca_93_to_93_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"93",
-    "id":"006093093025",
-    "member":{
-        "93":{
-            "11055":{
-                "district":"25",
-                "name":"Wiggins, Charles E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"California"
+    "district":25,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ca"
 },
   "bbox": [
     -118.03268,

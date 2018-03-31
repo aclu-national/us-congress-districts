@@ -1,49 +1,13 @@
 {
-  "id": "oh_93_to_97_08",
+  "id": "oh_93_to_97_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"97",
-    "id":"039093097008",
-    "member":{
-        "93":{
-            "13034":{
-                "district":"8",
-                "name":"Powell, Walter",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14245":{
-                "district":"8",
-                "name":"Kindness, Thomas",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14245":{
-                "district":"8",
-                "name":"Kindness, Thomas",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14245":{
-                "district":"8",
-                "name":"Kindness, Thomas",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14245":{
-                "district":"8",
-                "name":"Kindness, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Ohio"
+    "district":8,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

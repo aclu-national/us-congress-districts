@@ -1,49 +1,13 @@
 {
-  "id": "wi_48_to_52_03",
+  "id": "wi_48_to_52_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"52",
-    "id":"055048052003",
-    "member":{
-        "48":{
-            "5025":{
-                "district":"3",
-                "name":"Jones, Burr W.",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "5401":{
-                "district":"3",
-                "name":"La Follette, Robert Marion",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "5401":{
-                "district":"3",
-                "name":"La Follette, Robert Marion",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "5401":{
-                "district":"3",
-                "name":"La Follette, Robert Marion",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "1332":{
-                "district":"3",
-                "name":"Bushnell, Allen Ralph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Wisconsin"
+    "district":3,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"wi"
 },
   "bbox": [
     -91.15689,

@@ -1,28 +1,13 @@
 {
-  "id": "va_1_to_2_05",
+  "id": "va_1_to_2_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"2",
-    "id":"051001002005",
-    "member":{
-        "1":{
-            "5903":{
-                "district":"5",
-                "name":"Madison, James",
-                "party":"Anti-Administration"
-            }
-        },
-        "2":{
-            "5903":{
-                "district":"5",
-                "name":"Madison, James",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"va"
 },
   "bbox": [
     -79.43704,

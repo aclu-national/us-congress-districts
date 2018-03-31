@@ -1,49 +1,13 @@
 {
-  "id": "or_93_to_97_04",
+  "id": "or_93_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"041093097004",
-    "member":{
-        "93":{
-            "11011":{
-                "district":"4",
-                "name":"Dellenback, John R.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14281":{
-                "district":"4",
-                "name":"Weaver, James",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14281":{
-                "district":"4",
-                "name":"Weaver, James",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14281":{
-                "district":"4",
-                "name":"Weaver, James",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14281":{
-                "district":"4",
-                "name":"Weaver, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Oregon"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"or"
 },
   "bbox": [
     -124.60679,

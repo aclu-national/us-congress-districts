@@ -1,21 +1,13 @@
 {
-  "id": "va_48_to_48_06",
+  "id": "va_48_to_48_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"48",
-    "id":"051048048006",
-    "member":{
-        "48":{
-            "9499":{
-                "district":"6",
-                "name":"Tucker, John Randolph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Virginia"
+    "district":6,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"va"
 },
   "bbox": [
     -80.29614,

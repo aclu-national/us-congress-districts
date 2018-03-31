@@ -2,27 +2,12 @@
   "id": "va_30_to_31_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"31",
-    "id":"051030031011",
-    "member":{
-        "30":{
-            "6225":{
-                "district":"11",
-                "name":"McDowell, James",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "6225":{
-                "district":"11",
-                "name":"McDowell, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Virginia"
+    "district":11,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"va"
 },
   "bbox": [
     -79.69962,

@@ -1,28 +1,13 @@
 {
-  "id": "tx_103_to_104_06",
+  "id": "tx_103_to_104_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"104",
-    "id":"048103104006",
-    "member":{
-        "103":{
-            "15085":{
-                "district":"6",
-                "name":"Barton, Joe L.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15085":{
-                "district":"6",
-                "name":"Barton, Joe L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"tx"
 },
   "bbox": [
     -97.78908,

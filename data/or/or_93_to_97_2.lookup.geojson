@@ -1,49 +1,13 @@
 {
-  "id": "or_93_to_97_02",
+  "id": "or_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"041093097002",
-    "member":{
-        "93":{
-            "9551":{
-                "district":"2",
-                "name":"Ullman, Albert Conrad",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "9551":{
-                "district":"2",
-                "name":"Ullman, Albert Conrad",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "9551":{
-                "district":"2",
-                "name":"Ullman, Albert Conrad",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "9551":{
-                "district":"2",
-                "name":"Ullman, Albert Conrad",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14864":{
-                "district":"2",
-                "name":"Smith, Denny",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Oregon"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"or"
 },
   "bbox": [
     -123.25618,

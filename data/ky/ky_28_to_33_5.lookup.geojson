@@ -1,56 +1,13 @@
 {
-  "id": "ky_28_to_33_05",
+  "id": "ky_28_to_33_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"33",
-    "id":"021028033005",
-    "member":{
-        "28":{
-            "8980":{
-                "district":"5",
-                "name":"Stone, James W.",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "10436":{
-                "district":"5",
-                "name":"Young, Bryan Rust",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "9330":{
-                "district":"5",
-                "name":"Thompson, John Burton",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "9330":{
-                "district":"5",
-                "name":"Thompson, John Burton",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "8980":{
-                "district":"5",
-                "name":"Stone, James W.",
-                "party":"Democrat"
-            }
-        },
-        "33":{
-            "4407":{
-                "district":"5",
-                "name":"Hill, Clement Sidney",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Kentucky"
+    "district":5,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ky"
 },
   "bbox": [
     -86.27761,

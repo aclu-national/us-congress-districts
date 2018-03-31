@@ -1,79 +1,13 @@
 {
-  "id": "pa_13_to_17_05",
+  "id": "pa_13_to_17_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"17",
-    "id":"042013017005",
-    "member":{
-        "13":{
-            "2164":{
-                "district":"5",
-                "name":"Crawford, William",
-                "party":"Republican"
-            },
-            "7760":{
-                "district":"5",
-                "name":"Rea, John",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "2164":{
-                "district":"5",
-                "name":"Crawford, William",
-                "party":"Republican"
-            },
-            "5892":{
-                "district":"5",
-                "name":"Maclay, William",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "5892":{
-                "district":"5",
-                "name":"Maclay, William",
-                "party":"Republican"
-            },
-            "816":{
-                "district":"5",
-                "name":"Boden, Andrew",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "3403":{
-                "district":"5",
-                "name":"Fullerton, David",
-                "party":"Republican"
-            },
-            "6207":{
-                "district":"5",
-                "name":"McCullough, Thomas Grubb",
-                "party":"Federalist"
-            },
-            "816":{
-                "district":"5",
-                "name":"Boden, Andrew",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "3144":{
-                "district":"5",
-                "name":"Findlay, John",
-                "party":"Republican"
-            },
-            "6384":{
-                "district":"5",
-                "name":"McSherry, James",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"pa"
 },
   "bbox": [
     -78.09913,

@@ -1,28 +1,13 @@
 {
-  "id": "al_43_to_44_01",
+  "id": "al_43_to_44_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"44",
-    "id":"001043044001",
-    "member":{
-        "43":{
-            "1063":{
-                "district":"1",
-                "name":"Bromberg, Frederick Georg",
-                "party":"Liberal Republican"
-            }
-        },
-        "44":{
-            "4047":{
-                "district":"1",
-                "name":"Haralson, Jeremiah",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Alabama"
+    "district":1,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"al"
 },
   "bbox": [
     -88.46442,

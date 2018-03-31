@@ -2,34 +2,12 @@
   "id": "pa_48_to_50_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"50",
-    "id":"042048050010",
-    "member":{
-        "48":{
-            "6834":{
-                "district":"10",
-                "name":"Mutchler, William",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "8755":{
-                "district":"10",
-                "name":"Sowden, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "8755":{
-                "district":"10",
-                "name":"Sowden, William Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -75.89147,

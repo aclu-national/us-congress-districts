@@ -1,21 +1,13 @@
 {
-  "id": "la_104_to_104_05",
+  "id": "la_104_to_104_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"104",
-    "id":"022104104005",
-    "member":{
-        "104":{
-            "15451":{
-                "district":"5",
-                "name":"McCrery, Jim",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Louisiana"
+    "district":5,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"la"
 },
   "bbox": [
     -94.04316,

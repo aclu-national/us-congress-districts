@@ -1,54 +1,13 @@
 {
-  "id": "la_93_to_97_01",
+  "id": "la_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"022093097001",
-    "member":{
-        "93":{
-            "4275":{
-                "district":"1",
-                "name":"Hebert, Felix Edward",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "4275":{
-                "district":"1",
-                "name":"Hebert, Felix Edward",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14455":{
-                "district":"1",
-                "name":"Tonry, Richard E.",
-                "party":"Democrat"
-            },
-            "14469":{
-                "district":"1",
-                "name":"Livingston, Robert L.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14469":{
-                "district":"1",
-                "name":"Livingston, Robert L.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14469":{
-                "district":"1",
-                "name":"Livingston, Robert L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Louisiana"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"la"
 },
   "bbox": [
     -90.25778,

@@ -1,70 +1,13 @@
 {
-  "id": "ok_83_to_90_05",
+  "id": "ok_83_to_90_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"90",
-    "id":"040083090005",
-    "member":{
-        "83":{
-            "4891":{
-                "district":"5",
-                "name":"Jarman, John",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "4891":{
-                "district":"5",
-                "name":"Jarman, John",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "4891":{
-                "district":"5",
-                "name":"Jarman, John",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "4891":{
-                "district":"5",
-                "name":"Jarman, John",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "4891":{
-                "district":"5",
-                "name":"Jarman, John",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "4891":{
-                "district":"5",
-                "name":"Jarman, John",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "4891":{
-                "district":"5",
-                "name":"Jarman, John",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "4891":{
-                "district":"5",
-                "name":"Jarman, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Oklahoma"
+    "district":5,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ok"
 },
   "bbox": [
     -98.31348,

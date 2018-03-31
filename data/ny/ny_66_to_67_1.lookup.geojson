@@ -1,28 +1,13 @@
 {
-  "id": "ny_66_to_67_01",
+  "id": "ny_66_to_67_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"67",
-    "id":"036066067001",
-    "member":{
-        "66":{
-            "4385":{
-                "district":"1",
-                "name":"Hicks, Frederick Cocks",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "4385":{
-                "district":"1",
-                "name":"Hicks, Frederick Cocks",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -73.84349,

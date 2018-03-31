@@ -1,79 +1,13 @@
 {
-  "id": "pa_53_to_57_00",
+  "id": "pa_53_to_57_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"57",
-    "id":"042053057000",
-    "member":{
-        "53":{
-            "3863":{
-                "district":"99",
-                "name":"Grow, Galusha Aaron",
-                "party":"Republican"
-            },
-            "5665":{
-                "district":"99",
-                "name":"Lilly, William",
-                "party":"Republican"
-            },
-            "6223":{
-                "district":"99",
-                "name":"McDowell, Alexander",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "3863":{
-                "district":"99",
-                "name":"Grow, Galusha Aaron",
-                "party":"Republican"
-            },
-            "4691":{
-                "district":"99",
-                "name":"Huff, George Franklin",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2359":{
-                "district":"99",
-                "name":"Davenport, Samuel Arza",
-                "party":"Republican"
-            },
-            "3863":{
-                "district":"99",
-                "name":"Grow, Galusha Aaron",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2359":{
-                "district":"99",
-                "name":"Davenport, Samuel Arza",
-                "party":"Republican"
-            },
-            "3863":{
-                "district":"99",
-                "name":"Grow, Galusha Aaron",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "3245":{
-                "district":"99",
-                "name":"Foerderer, Robert Hermann",
-                "party":"Republican"
-            },
-            "3863":{
-                "district":"99",
-                "name":"Grow, Galusha Aaron",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Pennsylvania"
+    "district":0,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

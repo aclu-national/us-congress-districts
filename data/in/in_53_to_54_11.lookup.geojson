@@ -2,27 +2,12 @@
   "id": "in_53_to_54_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"54",
-    "id":"018053054011",
-    "member":{
-        "53":{
-            "6013":{
-                "district":"11",
-                "name":"Martin, Augustus Newton",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "8867":{
-                "district":"11",
-                "name":"Steele, George Washington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Indiana"
+    "district":11,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"in"
 },
   "bbox": [
     -86.16915,

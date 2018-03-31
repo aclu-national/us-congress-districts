@@ -1,49 +1,13 @@
 {
-  "id": "pa_63_to_67_05",
+  "id": "pa_63_to_67_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"67",
-    "id":"042063067005",
-    "member":{
-        "63":{
-            "2659":{
-                "district":"5",
-                "name":"Donohoe, Michael",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "2082":{
-                "district":"5",
-                "name":"Costello, Peter Edward",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "2082":{
-                "district":"5",
-                "name":"Costello, Peter Edward",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "2082":{
-                "district":"5",
-                "name":"Costello, Peter Edward",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "2000":{
-                "district":"5",
-                "name":"Connolly, James Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -75.15905,

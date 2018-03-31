@@ -1,49 +1,13 @@
 {
-  "id": "nh_108_to_112_02",
+  "id": "nh_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"033108112002",
-    "member":{
-        "108":{
-            "29538":{
-                "district":"2",
-                "name":"Bass, Charles F.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29538":{
-                "district":"2",
-                "name":"Bass, Charles F.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20732":{
-                "district":"2",
-                "name":"Hodes, Paul W.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20732":{
-                "district":"2",
-                "name":"Hodes, Paul W.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29538":{
-                "district":"2",
-                "name":"Bass, Charles F.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"New Hampshire"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"nh"
 },
   "bbox": [
     -72.55725,

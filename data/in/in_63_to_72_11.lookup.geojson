@@ -2,83 +2,12 @@
   "id": "in_63_to_72_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"72",
-    "id":"018063072011",
-    "member":{
-        "63":{
-            "7743":{
-                "district":"11",
-                "name":"Rauch, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "7743":{
-                "district":"11",
-                "name":"Rauch, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "5364":{
-                "district":"11",
-                "name":"Kraus, Milton",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "5364":{
-                "district":"11",
-                "name":"Kraus, Milton",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5364":{
-                "district":"11",
-                "name":"Kraus, Milton",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "2025":{
-                "district":"11",
-                "name":"Cook, Samuel Ellis",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3930":{
-                "district":"11",
-                "name":"Hall, Albert Richardson",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "3930":{
-                "district":"11",
-                "name":"Hall, Albert Richardson",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "3930":{
-                "district":"11",
-                "name":"Hall, Albert Richardson",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "3841":{
-                "district":"11",
-                "name":"Griswold, Glenn Hasenfrat",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Indiana"
+    "district":11,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"in"
 },
   "bbox": [
     -86.93109,

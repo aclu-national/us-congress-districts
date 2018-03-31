@@ -1,21 +1,13 @@
 {
-  "id": "la_92_to_92_06",
+  "id": "la_92_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"022092092006",
-    "member":{
-        "92":{
-            "11042":{
-                "district":"6",
-                "name":"Rarick, John R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"Louisiana"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"la"
 },
   "bbox": [
     -91.31656,

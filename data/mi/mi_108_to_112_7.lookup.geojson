@@ -1,49 +1,13 @@
 {
-  "id": "mi_108_to_112_07",
+  "id": "mi_108_to_112_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"112",
-    "id":"026108112007",
-    "member":{
-        "108":{
-            "29364":{
-                "district":"7",
-                "name":"Smith, Nick",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20515":{
-                "district":"7",
-                "name":"Schwarz, Joe",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20725":{
-                "district":"7",
-                "name":"Walberg, Tim",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20922":{
-                "district":"7",
-                "name":"Schauer, Mark",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20725":{
-                "district":"7",
-                "name":"Walberg, Timothy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Michigan"
+    "district":7,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mi"
 },
   "bbox": [
     -85.2994,

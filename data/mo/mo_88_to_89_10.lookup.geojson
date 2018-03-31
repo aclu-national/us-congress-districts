@@ -2,27 +2,12 @@
   "id": "mo_88_to_89_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"89",
-    "id":"029088089010",
-    "member":{
-        "88":{
-            "5056":{
-                "district":"10",
-                "name":"Jones, Paul Caruthers",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "5056":{
-                "district":"10",
-                "name":"Jones, Paul Caruthers",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Missouri"
+    "district":10,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mo"
 },
   "bbox": [
     -92.12031,

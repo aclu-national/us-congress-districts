@@ -2,76 +2,12 @@
   "id": "tx_74_to_82_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"82",
-    "id":"048074082011",
-    "member":{
-        "74":{
-            "2198":{
-                "district":"11",
-                "name":"Cross, Oliver Harlan",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":11,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -98.18001,

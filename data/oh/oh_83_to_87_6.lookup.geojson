@@ -1,49 +1,13 @@
 {
-  "id": "oh_83_to_87_06",
+  "id": "oh_83_to_87_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"87",
-    "id":"039083087006",
-    "member":{
-        "83":{
-            "7506":{
-                "district":"6",
-                "name":"Polk, James Gould",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "7506":{
-                "district":"6",
-                "name":"Polk, James Gould",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "7506":{
-                "district":"6",
-                "name":"Polk, James Gould",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "7506":{
-                "district":"6",
-                "name":"Polk, James Gould",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10525":{
-                "district":"6",
-                "name":"Harsha, William H.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Ohio"
+    "district":6,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"oh"
 },
   "bbox": [
     -84.31964,

@@ -2,41 +2,12 @@
   "id": "ny_13_to_16_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"16",
-    "id":"036013016014",
-    "member":{
-        "13":{
-            "5983":{
-                "district":"14",
-                "name":"Markell, Jacob",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "1389":{
-                "district":"14",
-                "name":"Cady, Daniel",
-                "party":"Federalist"
-            }
-        },
-        "15":{
-            "4353":{
-                "district":"14",
-                "name":"Herkimer, John",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "3086":{
-                "district":"14",
-                "name":"Fay, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ny"
 },
   "bbox": [
     -74.87882,

@@ -1,21 +1,13 @@
 {
-  "id": "ky_7_to_7_01",
+  "id": "ky_7_to_7_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"7",
-    "id":"021007007001",
-    "member":{
-        "7":{
-            "2413":{
-                "district":"1",
-                "name":"Davis, Thomas Terry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"7",
-    "statename":"Kentucky"
+    "district":1,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1801-03-04",
+    "start_session":7,
+    "state":"ky"
 },
   "bbox": [
     -89.57151,

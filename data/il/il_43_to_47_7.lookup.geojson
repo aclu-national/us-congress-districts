@@ -1,49 +1,13 @@
 {
-  "id": "il_43_to_47_07",
+  "id": "il_43_to_47_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"47",
-    "id":"017043047007",
-    "member":{
-        "43":{
-            "2076":{
-                "district":"7",
-                "name":"Corwin, Franklin",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "1443":{
-                "district":"7",
-                "name":"Campbell, Alexander",
-                "party":"Independent"
-            }
-        },
-        "45":{
-            "4231":{
-                "district":"7",
-                "name":"Hayes, Philip Cornelius",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "4231":{
-                "district":"7",
-                "name":"Hayes, Philip Cornelius",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "2237":{
-                "district":"7",
-                "name":"Cullen, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":7,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -89.1672,

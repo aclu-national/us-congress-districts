@@ -1,49 +1,13 @@
 {
-  "id": "pa_93_to_97_01",
+  "id": "pa_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"042093097001",
-    "member":{
-        "93":{
-            "465":{
-                "district":"1",
-                "name":"Barrett, William A.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "465":{
-                "district":"1",
-                "name":"Barrett, William A.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14442":{
-                "district":"1",
-                "name":"Myers, Michael",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14442":{
-                "district":"1",
-                "name":"Myers, Michael",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14823":{
-                "district":"1",
-                "name":"Foglietta, Thomas M.",
-                "party":"Independent"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

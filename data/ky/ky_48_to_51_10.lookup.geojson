@@ -2,41 +2,12 @@
   "id": "ky_48_to_51_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"51",
-    "id":"021048051010",
-    "member":{
-        "48":{
-            "10034":{
-                "district":"10",
-                "name":"White, John Dougherty",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "9191":{
-                "district":"10",
-                "name":"Taulbee, William Preston",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "9191":{
-                "district":"10",
-                "name":"Taulbee, William Preston",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "10241":{
-                "district":"10",
-                "name":"Wilson, John Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Kentucky"
+    "district":10,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ky"
 },
   "bbox": [
     -84.34897,

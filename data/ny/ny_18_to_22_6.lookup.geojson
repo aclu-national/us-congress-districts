@@ -1,54 +1,13 @@
 {
-  "id": "ny_18_to_22_06",
+  "id": "ny_18_to_22_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"22",
-    "id":"036018022006",
-    "member":{
-        "18":{
-            "2133":{
-                "district":"6",
-                "name":"Craig, Hector",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "3964":{
-                "district":"6",
-                "name":"Hallock, John Jr.",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "3964":{
-                "district":"6",
-                "name":"Hallock, John Jr.",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2133":{
-                "district":"6",
-                "name":"Craig, Hector",
-                "party":"Jackson"
-            },
-            "2809":{
-                "district":"6",
-                "name":"Eager, Samuel Watkins",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "10118":{
-                "district":"6",
-                "name":"Wilkin, Samuel Jones",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -74.7621,

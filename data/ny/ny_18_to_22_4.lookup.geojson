@@ -1,49 +1,13 @@
 {
-  "id": "ny_18_to_22_04",
+  "id": "ny_18_to_22_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"22",
-    "id":"036018022004",
-    "member":{
-        "18":{
-            "3379":{
-                "district":"4",
-                "name":"Frost, Joel",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "9806":{
-                "district":"4",
-                "name":"Ward, Aaron",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "9806":{
-                "district":"4",
-                "name":"Ward, Aaron",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "2109":{
-                "district":"4",
-                "name":"Cowles, Henry Booth",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "9806":{
-                "district":"4",
-                "name":"Ward, Aaron",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -73.9827,

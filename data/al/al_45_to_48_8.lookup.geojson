@@ -1,47 +1,13 @@
 {
-  "id": "al_45_to_48_08",
+  "id": "al_45_to_48_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"48",
-    "id":"001045048008",
-    "member":{
-        "45":{
-            "3494":{
-                "district":"8",
-                "name":"Garth, William Willis",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "5809":{
-                "district":"8",
-                "name":"Lowe, William Manning",
-                "party":"National Greenbacker"
-            }
-        },
-        "47":{
-            "5809":{
-                "district":"8",
-                "name":"Lowe, William Manning",
-                "party":"National Greenbacker"
-            },
-            "9992":{
-                "district":"8",
-                "name":"Wheeler, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "7640":{
-                "district":"8",
-                "name":"Pryor, Luke",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Alabama"
+    "district":8,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"al"
 },
   "bbox": [
     -88.20296,

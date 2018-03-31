@@ -2,48 +2,12 @@
   "id": "oh_33_to_37_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"37",
-    "id":"039033037018",
-    "member":{
-        "33":{
-            "796":{
-                "district":"18",
-                "name":"Bliss, George",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "5601":{
-                "district":"18",
-                "name":"Leiter, Benjamin Franklin",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "5601":{
-                "district":"18",
-                "name":"Leiter, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "2848":{
-                "district":"18",
-                "name":"Edgerton, Sidney",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "2848":{
-                "district":"18",
-                "name":"Edgerton, Sidney",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":18,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -81.68845,

@@ -1,35 +1,13 @@
 {
-  "id": "tx_44_to_46_06",
+  "id": "tx_44_to_46_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"46",
-    "id":"048044046006",
-    "member":{
-        "44":{
-            "8265":{
-                "district":"6",
-                "name":"Schleicher, Gustave",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "8265":{
-                "district":"6",
-                "name":"Schleicher, Gustave",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "9573":{
-                "district":"6",
-                "name":"Upson, Christopher Columbus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

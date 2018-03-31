@@ -1,35 +1,13 @@
 {
-  "id": "md_80_to_82_06",
+  "id": "md_80_to_82_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"82",
-    "id":"024080082006",
-    "member":{
-        "80":{
-            "546":{
-                "district":"6",
-                "name":"Beall, James Glenn",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "546":{
-                "district":"6",
-                "name":"Beall, James Glenn",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "546":{
-                "district":"6",
-                "name":"Beall, James Glenn",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"80",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1947-01-03",
+    "start_session":80,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

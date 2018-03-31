@@ -2,51 +2,12 @@
   "id": "ma_4_to_7_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"7",
-    "id":"025004007010",
-    "member":{
-        "4":{
-            "3674":{
-                "district":"10",
-                "name":"Goodhue, Benjamin",
-                "party":"Federalist"
-            },
-            "8376":{
-                "district":"10",
-                "name":"Sewall, Samuel",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "8376":{
-                "district":"10",
-                "name":"Sewall, Samuel",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "7764":{
-                "district":"10",
-                "name":"Read, Nathan",
-                "party":"Federalist"
-            },
-            "8376":{
-                "district":"10",
-                "name":"Sewall, Samuel",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "7764":{
-                "district":"10",
-                "name":"Read, Nathan",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"4",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1795-06-08",
+    "start_session":4,
+    "state":"ma"
 },
   "bbox": [
     -71.33305,

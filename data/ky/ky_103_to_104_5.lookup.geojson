@@ -1,28 +1,13 @@
 {
-  "id": "ky_103_to_104_05",
+  "id": "ky_103_to_104_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"104",
-    "id":"021103104005",
-    "member":{
-        "103":{
-            "14854":{
-                "district":"5",
-                "name":"Rogers, Harold",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14854":{
-                "district":"5",
-                "name":"Rogers, Harold",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Kentucky"
+    "district":5,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ky"
 },
   "bbox": [
     -85.06429,

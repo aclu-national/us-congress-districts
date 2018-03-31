@@ -1,54 +1,13 @@
 {
-  "id": "ma_33_to_37_03",
+  "id": "ma_33_to_37_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"37",
-    "id":"025033037003",
-    "member":{
-        "33":{
-            "2850":{
-                "district":"3",
-                "name":"Edmands, John Wiley",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "2311":{
-                "district":"3",
-                "name":"Damrell, William Shapleigh",
-                "party":"American"
-            }
-        },
-        "35":{
-            "2311":{
-                "district":"3",
-                "name":"Damrell, William Shapleigh",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "25":{
-                "district":"3",
-                "name":"Adams, Charles Francis",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "25":{
-                "district":"3",
-                "name":"Adams, Charles Francis",
-                "party":"Republican"
-            },
-            "9285":{
-                "district":"3",
-                "name":"Thomas, Benjamin Franklin",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ma"
 },
   "bbox": [
     -71.70773,

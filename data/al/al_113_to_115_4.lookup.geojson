@@ -1,19 +1,13 @@
 {
-  "id": "al_113_to_115_04",
+  "id": "al_113_to_115_4",
   "type": "Feature",
   "properties": {
-    "ALAND":23022928375,
-    "AWATER":569202510,
-    "CD113FP":"04",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0104",
-    "INTPTLAT":"+34.1181806",
-    "INTPTLON":"-087.2138097",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 4",
-    "STATEFP":"01"
+    "district":4,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"al"
 },
   "bbox": [
     -88.274619,

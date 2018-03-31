@@ -2,18 +2,12 @@
   "id": "mi_113_to_115_14",
   "type": "Feature",
   "properties": {
-    "ALAND":480886632,
-    "AWATER":97647130,
-    "CD113FP":"14",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2614",
-    "INTPTLAT":"+42.3892242",
-    "INTPTLON":"-082.9218407",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 14",
-    "STATEFP":"26"
+    "district":14,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"mi"
 },
   "bbox": [
     -83.439292,

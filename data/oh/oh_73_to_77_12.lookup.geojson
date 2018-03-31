@@ -2,48 +2,12 @@
   "id": "oh_73_to_77_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"77",
-    "id":"039073077012",
-    "member":{
-        "73":{
-            "5425":{
-                "district":"12",
-                "name":"Lamneck, Arthur Philip",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "5425":{
-                "district":"12",
-                "name":"Lamneck, Arthur Philip",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "5425":{
-                "district":"12",
-                "name":"Lamneck, Arthur Philip",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "9688":{
-                "district":"12",
-                "name":"Vorys, John Martin",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "9688":{
-                "district":"12",
-                "name":"Vorys, John Martin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Ohio"
+    "district":12,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"oh"
 },
   "bbox": [
     -83.26068,

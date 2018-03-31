@@ -1,35 +1,13 @@
 {
-  "id": "in_47_to_49_01",
+  "id": "in_47_to_49_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"49",
-    "id":"018047049001",
-    "member":{
-        "47":{
-            "4283":{
-                "district":"1",
-                "name":"Heilman, William",
-                "party":"Republican"
-            }
-        },
-        "48":{
-            "5318":{
-                "district":"1",
-                "name":"Kleiner, John Jay",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "5318":{
-                "district":"1",
-                "name":"Kleiner, John Jay",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1887-03-03",
+    "end_session":49,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

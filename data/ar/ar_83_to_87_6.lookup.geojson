@@ -1,54 +1,13 @@
 {
-  "id": "ar_83_to_87_06",
+  "id": "ar_83_to_87_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"87",
-    "id":"005083087006",
-    "member":{
-        "83":{
-            "6958":{
-                "district":"6",
-                "name":"Norrell, William Frank",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "6958":{
-                "district":"6",
-                "name":"Norrell, William Frank",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "6958":{
-                "district":"6",
-                "name":"Norrell, William Frank",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "6958":{
-                "district":"6",
-                "name":"Norrell, William Frank",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10541":{
-                "district":"6",
-                "name":"Norrell, Catherine D.",
-                "party":"Democrat"
-            },
-            "6958":{
-                "district":"6",
-                "name":"Norrell, William Frank",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Arkansas"
+    "district":6,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ar"
 },
   "bbox": [
     -93.40812,

@@ -2,53 +2,12 @@
   "id": "mi_48_to_52_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"52",
-    "id":"026048052011",
-    "member":{
-        "48":{
-            "1001":{
-                "district":"11",
-                "name":"Breitung, Edward",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "6580":{
-                "district":"11",
-                "name":"Moffatt, Seth Crittenden",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "6580":{
-                "district":"11",
-                "name":"Moffatt, Seth Crittenden",
-                "party":"Republican"
-            },
-            "8384":{
-                "district":"11",
-                "name":"Seymour, Henry William",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "8895":{
-                "district":"11",
-                "name":"Stephenson, Samuel Merritt",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "8895":{
-                "district":"11",
-                "name":"Stephenson, Samuel Merritt",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Michigan"
+    "district":11,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"mi"
 },
   "bbox": [
     -90.41814,

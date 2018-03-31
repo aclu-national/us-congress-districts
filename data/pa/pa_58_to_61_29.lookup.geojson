@@ -2,41 +2,12 @@
   "id": "pa_58_to_61_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"61",
-    "id":"042058061029",
-    "member":{
-        "58":{
-            "8477":{
-                "district":"29",
-                "name":"Shiras, George, III",
-                "party":"Ind. Republican"
-            }
-        },
-        "59":{
-            "3740":{
-                "district":"29",
-                "name":"Graham, William Harrison",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3740":{
-                "district":"29",
-                "name":"Graham, William Harrison",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3740":{
-                "district":"29",
-                "name":"Graham, William Harrison",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Pennsylvania"
+    "district":29,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"pa"
 },
   "bbox": [
     -80.2282,

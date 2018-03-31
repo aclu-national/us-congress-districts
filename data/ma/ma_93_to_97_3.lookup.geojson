@@ -1,49 +1,13 @@
 {
-  "id": "ma_93_to_97_03",
+  "id": "ma_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"025093097003",
-    "member":{
-        "93":{
-            "2660":{
-                "district":"3",
-                "name":"Donohue, Harold Daniel",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14216":{
-                "district":"3",
-                "name":"Early, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14216":{
-                "district":"3",
-                "name":"Early, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14216":{
-                "district":"3",
-                "name":"Early, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14216":{
-                "district":"3",
-                "name":"Early, Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ma"
 },
   "bbox": [
     -71.9606,

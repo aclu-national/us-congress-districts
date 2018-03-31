@@ -1,77 +1,13 @@
 {
-  "id": "tx_74_to_82_06",
+  "id": "tx_74_to_82_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"82",
-    "id":"048074082006",
-    "member":{
-        "74":{
-            "4978":{
-                "district":"6",
-                "name":"Johnson, Luther Alexander",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "4978":{
-                "district":"6",
-                "name":"Johnson, Luther Alexander",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "4978":{
-                "district":"6",
-                "name":"Johnson, Luther Alexander",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "4978":{
-                "district":"6",
-                "name":"Johnson, Luther Alexander",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "4978":{
-                "district":"6",
-                "name":"Johnson, Luther Alexander",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "4978":{
-                "district":"6",
-                "name":"Johnson, Luther Alexander",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "9241":{
-                "district":"6",
-                "name":"Teague, Olin Earl",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "9241":{
-                "district":"6",
-                "name":"Teague, Olin Earl",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "9241":{
-                "district":"6",
-                "name":"Teague, Olin Earl",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":6,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -97.49711,

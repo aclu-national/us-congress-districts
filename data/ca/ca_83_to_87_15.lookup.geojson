@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"87",
-    "id":"006083087015",
-    "member":{
-        "83":{
-            "6220":{
-                "district":"15",
-                "name":"McDonough, Gordon Leo",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "6220":{
-                "district":"15",
-                "name":"McDonough, Gordon Leo",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "6220":{
-                "district":"15",
-                "name":"McDonough, Gordon Leo",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "6220":{
-                "district":"15",
-                "name":"McDonough, Gordon Leo",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "6220":{
-                "district":"15",
-                "name":"McDonough, Gordon Leo",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":15,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -118.37427,

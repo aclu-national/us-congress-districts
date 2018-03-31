@@ -1,42 +1,13 @@
 {
-  "id": "tn_48_to_51_06",
+  "id": "tn_48_to_51_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"51",
-    "id":"047048051006",
-    "member":{
-        "48":{
-            "1402":{
-                "district":"6",
-                "name":"Caldwell, Andrew Jackson",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "1402":{
-                "district":"6",
-                "name":"Caldwell, Andrew Jackson",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "9857":{
-                "district":"6",
-                "name":"Washington, Joseph Edwin",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "9857":{
-                "district":"6",
-                "name":"Washington, Joseph Edwin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"tn"
 },
   "bbox": [
     -88.07053,

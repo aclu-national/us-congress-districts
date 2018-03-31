@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"47",
-    "id":"036044047020",
-    "member":{
-        "44":{
-            "4192":{
-                "district":"20",
-                "name":"Hathorn, Henry Harrison",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "8848":{
-                "district":"20",
-                "name":"Starin, John Henry",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "8848":{
-                "district":"20",
-                "name":"Starin, John Henry",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "9960":{
-                "district":"20",
-                "name":"West, George",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":20,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -74.86771,

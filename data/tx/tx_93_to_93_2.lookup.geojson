@@ -1,21 +1,13 @@
 {
-  "id": "tx_93_to_93_02",
+  "id": "tx_93_to_93_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"93",
-    "id":"048093093002",
-    "member":{
-        "93":{
-            "14062":{
-                "district":"2",
-                "name":"Wilson, Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Texas"
+    "district":2,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tx"
 },
   "bbox": [
     -96.49671,

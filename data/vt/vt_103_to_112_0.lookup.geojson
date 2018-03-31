@@ -1,84 +1,13 @@
 {
-  "id": "vt_103_to_112_00",
+  "id": "vt_103_to_112_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"112",
-    "id":"050103112000",
-    "member":{
-        "103":{
-            "29147":{
-                "district":"1",
-                "name":"Sanders, Bernard",
-                "party":"Independent"
-            }
-        },
-        "104":{
-            "29147":{
-                "district":"1",
-                "name":"Sanders, Bernard",
-                "party":"Independent"
-            }
-        },
-        "105":{
-            "29147":{
-                "district":"1",
-                "name":"Sanders, Bernard",
-                "party":"Independent"
-            }
-        },
-        "106":{
-            "29147":{
-                "district":"1",
-                "name":"Sanders, Bernard",
-                "party":"Independent"
-            }
-        },
-        "107":{
-            "29147":{
-                "district":"1",
-                "name":"Sanders, Bernard",
-                "party":"Independent"
-            }
-        },
-        "108":{
-            "29147":{
-                "district":"1",
-                "name":"Sanders, Bernard",
-                "party":"Independent"
-            }
-        },
-        "109":{
-            "29147":{
-                "district":"1",
-                "name":"Sanders, Bernard",
-                "party":"Independent"
-            }
-        },
-        "110":{
-            "20750":{
-                "district":"1",
-                "name":"Welch, Peter",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20750":{
-                "district":"1",
-                "name":"Welch, Peter",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20750":{
-                "district":"1",
-                "name":"Welch, Peter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Vermont"
+    "district":0,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"vt"
 },
   "bbox": [
     -73.43774,

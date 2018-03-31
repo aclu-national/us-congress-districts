@@ -1,49 +1,13 @@
 {
-  "id": "oh_58_to_62_07",
+  "id": "oh_58_to_62_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"62",
-    "id":"039058062007",
-    "member":{
-        "58":{
-            "5388":{
-                "district":"7",
-                "name":"Kyle, Thomas Barton",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5126":{
-                "district":"7",
-                "name":"Keifer, Joseph Warren",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5126":{
-                "district":"7",
-                "name":"Keifer, Joseph Warren",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "5126":{
-                "district":"7",
-                "name":"Keifer, Joseph Warren",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "7545":{
-                "district":"7",
-                "name":"Post, James Douglass",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Ohio"
+    "district":7,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"oh"
 },
   "bbox": [
     -84.4364,

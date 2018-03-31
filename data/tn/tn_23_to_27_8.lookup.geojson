@@ -1,49 +1,13 @@
 {
-  "id": "tn_23_to_27_08",
+  "id": "tn_23_to_27_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"27",
-    "id":"047023027008",
-    "member":{
-        "23":{
-            "2570":{
-                "district":"8",
-                "name":"Dickinson, David W.",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "6091":{
-                "district":"8",
-                "name":"Maury, Abram Poindexter",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "6091":{
-                "district":"8",
-                "name":"Maury, Abram Poindexter",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "3530":{
-                "district":"8",
-                "name":"Gentry, Meredith Poindext",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "3530":{
-                "district":"8",
-                "name":"Gentry, Meredith Poindext",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"tn"
 },
   "bbox": [
     -87.2151,

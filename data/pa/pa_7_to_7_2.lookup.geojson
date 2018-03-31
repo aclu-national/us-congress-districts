@@ -1,21 +1,13 @@
 {
-  "id": "pa_7_to_7_02",
+  "id": "pa_7_to_7_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"7",
-    "id":"042007007002",
-    "member":{
-        "7":{
-            "5594":{
-                "district":"2",
-                "name":"Leib, Michael",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"7",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1801-03-04",
+    "start_session":7,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

@@ -2,46 +2,12 @@
   "id": "pa_79_to_82_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"82",
-    "id":"042079082014",
-    "member":{
-        "79":{
-            "3604":{
-                "district":"14",
-                "name":"Gillette, Wilson Darwin",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3604":{
-                "district":"14",
-                "name":"Gillette, Wilson Darwin",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3604":{
-                "district":"14",
-                "name":"Gillette, Wilson Darwin",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "1533":{
-                "district":"14",
-                "name":"Carrigg, Joseph Leonard",
-                "party":"Republican"
-            },
-            "3604":{
-                "district":"14",
-                "name":"Gillette, Wilson Darwin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -76.92708,

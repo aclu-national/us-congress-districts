@@ -1,77 +1,13 @@
 {
-  "id": "tx_74_to_82_02",
+  "id": "tx_74_to_82_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"82",
-    "id":"048074082002",
-    "member":{
-        "74":{
-            "2588":{
-                "district":"2",
-                "name":"Dies, Martin Jr.",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2588":{
-                "district":"2",
-                "name":"Dies, Martin Jr.",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2588":{
-                "district":"2",
-                "name":"Dies, Martin Jr.",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2588":{
-                "district":"2",
-                "name":"Dies, Martin Jr.",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "2588":{
-                "district":"2",
-                "name":"Dies, Martin Jr.",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "1960":{
-                "district":"2",
-                "name":"Combs, Jesse Martin",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "1960":{
-                "district":"2",
-                "name":"Combs, Jesse Martin",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "1960":{
-                "district":"2",
-                "name":"Combs, Jesse Martin",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1960":{
-                "district":"2",
-                "name":"Combs, Jesse Martin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Texas"
+    "district":2,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"tx"
 },
   "bbox": [
     -95.1659,

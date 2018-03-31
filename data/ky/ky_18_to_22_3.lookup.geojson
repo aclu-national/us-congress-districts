@@ -1,49 +1,13 @@
 {
-  "id": "ky_18_to_22_03",
+  "id": "ky_18_to_22_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"22",
-    "id":"021018022003",
-    "member":{
-        "18":{
-            "1810":{
-                "district":"3",
-                "name":"Clay, Henry",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "1768":{
-                "district":"3",
-                "name":"Clark, James",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "1768":{
-                "district":"3",
-                "name":"Clark, James",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "1768":{
-                "district":"3",
-                "name":"Clark, James",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "95":{
-                "district":"3",
-                "name":"Allan, Chilton",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ky"
 },
   "bbox": [
     -84.8659,

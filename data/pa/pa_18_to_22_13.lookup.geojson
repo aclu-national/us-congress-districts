@@ -2,58 +2,12 @@
   "id": "pa_18_to_22_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"22",
-    "id":"042018022013",
-    "member":{
-        "18":{
-            "9348":{
-                "district":"13",
-                "name":"Thomson, Alexander",
-                "party":"Jackson Republican"
-            },
-            "9402":{
-                "district":"13",
-                "name":"Tod, John",
-                "party":"Republican"
-            }
-        },
-        "19":{
-            "3292":{
-                "district":"13",
-                "name":"Forward, Chauncey",
-                "party":"Jackson"
-            },
-            "9348":{
-                "district":"13",
-                "name":"Thomson, Alexander",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "3292":{
-                "district":"13",
-                "name":"Forward, Chauncey",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "3292":{
-                "district":"13",
-                "name":"Forward, Chauncey",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "1249":{
-                "district":"13",
-                "name":"Burd, George",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"pa"
 },
   "bbox": [
     -79.41756,

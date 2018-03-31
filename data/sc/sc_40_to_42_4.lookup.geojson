@@ -1,35 +1,13 @@
 {
-  "id": "sc_40_to_42_04",
+  "id": "sc_40_to_42_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"42",
-    "id":"045040042004",
-    "member":{
-        "40":{
-            "3717":{
-                "district":"4",
-                "name":"Goss, James Hamilton",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "9760":{
-                "district":"4",
-                "name":"Wallace, Alexander Stuart",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "9760":{
-                "district":"4",
-                "name":"Wallace, Alexander Stuart",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"South Carolina"
+    "district":4,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"sc"
 },
   "bbox": [
     -83.35395,

@@ -1,84 +1,13 @@
 {
-  "id": "ak_103_to_112_00",
+  "id": "ak_103_to_112_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"112",
-    "id":"002103112000",
-    "member":{
-        "103":{
-            "14066":{
-                "district":"1",
-                "name":"Young, Donald",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14066":{
-                "district":"1",
-                "name":"Young, Donald",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "14066":{
-                "district":"1",
-                "name":"Young, Donald",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "14066":{
-                "district":"1",
-                "name":"Young, Donald",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "14066":{
-                "district":"1",
-                "name":"Young, Donald",
-                "party":"Republican"
-            }
-        },
-        "108":{
-            "14066":{
-                "district":"1",
-                "name":"Young, Donald",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "14066":{
-                "district":"1",
-                "name":"Young, Donald",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "14066":{
-                "district":"1",
-                "name":"Young, Donald",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "14066":{
-                "district":"1",
-                "name":"Young, Donald",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "14066":{
-                "district":"1",
-                "name":"Young, Don",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Alaska"
+    "district":0,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ak"
 },
   "bbox": [
     -179.14734,

@@ -1,49 +1,13 @@
 {
-  "id": "me_33_to_37_04",
+  "id": "me_33_to_37_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"37",
-    "id":"023033037004",
-    "member":{
-        "33":{
-            "651":{
-                "district":"4",
-                "name":"Benson, Samuel Page",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "651":{
-                "district":"4",
-                "name":"Benson, Samuel Page",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "6734":{
-                "district":"4",
-                "name":"Morse, Freeman Harlow",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "6734":{
-                "district":"4",
-                "name":"Morse, Freeman Harlow",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "6694":{
-                "district":"4",
-                "name":"Morrill, Anson Peaslee",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Maine"
+    "district":4,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"me"
 },
   "bbox": [
     -70.55279,

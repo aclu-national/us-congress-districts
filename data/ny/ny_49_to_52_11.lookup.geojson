@@ -2,41 +2,12 @@
   "id": "ny_49_to_52_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"52",
-    "id":"036049052011",
-    "member":{
-        "49":{
-            "6431":{
-                "district":"11",
-                "name":"Merriman, Truman Adams",
-                "party":"Ind. Democrat"
-            }
-        },
-        "50":{
-            "6431":{
-                "district":"11",
-                "name":"Merriman, Truman Adams",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "7677":{
-                "district":"11",
-                "name":"Quinn, John",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "9832":{
-                "district":"11",
-                "name":"Warner, John De Witt",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -74.01228,

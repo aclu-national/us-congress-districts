@@ -1,49 +1,13 @@
 {
-  "id": "al_18_to_22_02",
+  "id": "al_18_to_22_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"22",
-    "id":"001018022002",
-    "member":{
-        "18":{
-            "6289":{
-                "district":"2",
-                "name":"McKee, John",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "6289":{
-                "district":"2",
-                "name":"McKee, John",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "6289":{
-                "district":"2",
-                "name":"McKee, John",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "532":{
-                "district":"2",
-                "name":"Baylor, Robert Emmett Ble",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "5980":{
-                "district":"2",
-                "name":"Mardis, Samuel Wright",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Alabama"
+    "district":2,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"al"
 },
   "bbox": [
     -88.31066,

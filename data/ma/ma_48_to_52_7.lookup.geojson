@@ -1,49 +1,13 @@
 {
-  "id": "ma_48_to_52_07",
+  "id": "ma_48_to_52_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"52",
-    "id":"025048052007",
-    "member":{
-        "48":{
-            "8978":{
-                "district":"7",
-                "name":"Stone, Eben Francis",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "8978":{
-                "district":"7",
-                "name":"Stone, Eben Francis",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "1910":{
-                "district":"7",
-                "name":"Cogswell, William",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "1910":{
-                "district":"7",
-                "name":"Cogswell, William",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "1910":{
-                "district":"7",
-                "name":"Cogswell, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ma"
 },
   "bbox": [
     -71.18241,

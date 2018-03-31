@@ -1,49 +1,13 @@
 {
-  "id": "ut_108_to_112_02",
+  "id": "ut_108_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"049108112002",
-    "member":{
-        "108":{
-            "20140":{
-                "district":"2",
-                "name":"Matheson, Jim",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20140":{
-                "district":"2",
-                "name":"Matheson, Jim",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "20140":{
-                "district":"2",
-                "name":"Matheson, Jim",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20140":{
-                "district":"2",
-                "name":"Matheson, Jim",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20140":{
-                "district":"2",
-                "name":"Matheson, Jim",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Utah"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ut"
 },
   "bbox": [
     -114.05296,

@@ -1,49 +1,13 @@
 {
-  "id": "nc_8_to_12_09",
+  "id": "nc_8_to_12_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"12",
-    "id":"037008012009",
-    "member":{
-        "10":{
-            "10171":{
-                "district":"9",
-                "name":"Williams, Marmaduke",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "1880":{
-                "district":"9",
-                "name":"Cochran, James",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "1880":{
-                "district":"9",
-                "name":"Cochran, James",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "10171":{
-                "district":"9",
-                "name":"Williams, Marmaduke",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "10171":{
-                "district":"9",
-                "name":"Williams, Marmaduke",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"North Carolina"
+    "district":9,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"nc"
 },
   "bbox": [
     -80.06674,

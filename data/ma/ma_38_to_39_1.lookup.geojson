@@ -1,28 +1,13 @@
 {
-  "id": "ma_38_to_39_01",
+  "id": "ma_38_to_39_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"39",
-    "id":"025038039001",
-    "member":{
-        "38":{
-            "2895":{
-                "district":"1",
-                "name":"Eliot, Thomas Dawes",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "2895":{
-                "district":"1",
-                "name":"Eliot, Thomas Dawes",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1867-03-03",
+    "end_session":39,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ma"
 },
   "bbox": [
     -71.19569,

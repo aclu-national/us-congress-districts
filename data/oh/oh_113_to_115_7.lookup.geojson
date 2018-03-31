@@ -1,19 +1,13 @@
 {
-  "id": "oh_113_to_115_07",
+  "id": "oh_113_to_115_7",
   "type": "Feature",
   "properties": {
-    "ALAND":10009722536,
-    "AWATER":64690531,
-    "CD113FP":"07",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3907",
-    "INTPTLAT":"+40.4811635",
-    "INTPTLON":"-082.3929179",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 7",
-    "STATEFP":"39"
+    "district":7,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"oh"
 },
   "bbox": [
     -82.838538,

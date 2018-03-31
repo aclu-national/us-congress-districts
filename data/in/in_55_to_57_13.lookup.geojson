@@ -2,34 +2,12 @@
   "id": "in_55_to_57_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"57",
-    "id":"018055057013",
-    "member":{
-        "55":{
-            "8099":{
-                "district":"13",
-                "name":"Royse, Lemuel Willard",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "1023":{
-                "district":"13",
-                "name":"Brick, Abraham Lincoln",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "1023":{
-                "district":"13",
-                "name":"Brick, Abraham Lincoln",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"55",
-    "statename":"Indiana"
+    "district":13,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1897-03-04",
+    "start_session":55,
+    "state":"in"
 },
   "bbox": [
     -86.93109,

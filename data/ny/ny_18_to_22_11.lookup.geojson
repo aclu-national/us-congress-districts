@@ -2,48 +2,12 @@
   "id": "ny_18_to_22_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"22",
-    "id":"036018022011",
-    "member":{
-        "18":{
-            "3257":{
-                "district":"11",
-                "name":"Foote, Charles Augustus",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "265":{
-                "district":"11",
-                "name":"Ashley, Henry",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "4470":{
-                "district":"11",
-                "name":"Hobbie, Selah Reeve",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "5268":{
-                "district":"11",
-                "name":"King, Perkins",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "8056":{
-                "district":"11",
-                "name":"Root, Erastus",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

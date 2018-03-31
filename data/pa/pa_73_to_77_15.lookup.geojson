@@ -2,53 +2,12 @@
   "id": "pa_73_to_77_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"77",
-    "id":"042073077015",
-    "member":{
-        "73":{
-            "6238":{
-                "district":"15",
-                "name":"McFadden, Louis Thomas",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "2590":{
-                "district":"15",
-                "name":"Dietrich, Charles Elmer",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "8146":{
-                "district":"15",
-                "name":"Rutherford, Albert Greig",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "8146":{
-                "district":"15",
-                "name":"Rutherford, Albert Greig",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "3604":{
-                "district":"15",
-                "name":"Gillette, Wilson Darwin",
-                "party":"Republican"
-            },
-            "8146":{
-                "district":"15",
-                "name":"Rutherford, Albert Greig",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"pa"
 },
   "bbox": [
     -76.92708,

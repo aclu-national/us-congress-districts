@@ -1,49 +1,13 @@
 {
-  "id": "ca_83_to_87_01",
+  "id": "ca_83_to_87_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"87",
-    "id":"006083087001",
-    "member":{
-        "83":{
-            "8322":{
-                "district":"1",
-                "name":"Scudder, Hubert Baxter",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "8322":{
-                "district":"1",
-                "name":"Scudder, Hubert Baxter",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "8322":{
-                "district":"1",
-                "name":"Scudder, Hubert Baxter",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "6477":{
-                "district":"1",
-                "name":"Miller, Clement Woodnutt",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "6477":{
-                "district":"1",
-                "name":"Miller, Clement Woodnutt",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":1,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -124.41501,

@@ -2,48 +2,12 @@
   "id": "ky_23_to_27_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"27",
-    "id":"021023027010",
-    "member":{
-        "23":{
-            "95":{
-                "district":"10",
-                "name":"Allan, Chilton",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "95":{
-                "district":"10",
-                "name":"Allan, Chilton",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "4208":{
-                "district":"10",
-                "name":"Hawes, Richard",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "4208":{
-                "district":"10",
-                "name":"Hawes, Richard",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "6008":{
-                "district":"10",
-                "name":"Marshall, Thomas Francis",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Kentucky"
+    "district":10,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ky"
 },
   "bbox": [
     -85.02439,

@@ -1,28 +1,13 @@
 {
-  "id": "ks_88_to_89_01",
+  "id": "ks_88_to_89_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"89",
-    "id":"020088089001",
-    "member":{
-        "88":{
-            "10513":{
-                "district":"1",
-                "name":"Dole, Bob",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10513":{
-                "district":"1",
-                "name":"Dole, Bob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Kansas"
+    "district":1,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ks"
 },
   "bbox": [
     -102.05177,

@@ -2,48 +2,12 @@
   "id": "pa_98_to_102_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"102",
-    "id":"042098102022",
-    "member":{
-        "100":{
-            "14441":{
-                "district":"22",
-                "name":"Murphy, Austin",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14441":{
-                "district":"22",
-                "name":"Murphy, Austin",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14441":{
-                "district":"22",
-                "name":"Murphy, Austin",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14441":{
-                "district":"22",
-                "name":"Murphy, Austin",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14441":{
-                "district":"22",
-                "name":"Murphy, Austin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Pennsylvania"
+    "district":22,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"pa"
 },
   "bbox": [
     -80.51969,

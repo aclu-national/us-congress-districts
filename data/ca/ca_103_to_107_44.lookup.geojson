@@ -2,53 +2,12 @@
   "id": "ca_103_to_107_44",
   "type": "Feature",
   "properties": {
-    "district":"44",
-    "endcong":"107",
-    "id":"006103107044",
-    "member":{
-        "103":{
-            "15040":{
-                "district":"44",
-                "name":"McCandless, Alfred A.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29507":{
-                "district":"44",
-                "name":"Bono, Sonny",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29507":{
-                "district":"44",
-                "name":"Bono, Sonny",
-                "party":"Republican"
-            },
-            "29775":{
-                "district":"44",
-                "name":"Bono, Mary",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29775":{
-                "district":"44",
-                "name":"Bono, Mary",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29775":{
-                "district":"44",
-                "name":"Bono, Mary",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"California"
+    "district":44,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ca"
 },
   "bbox": [
     -117.29334,

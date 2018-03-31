@@ -1,28 +1,13 @@
 {
-  "id": "oh_28_to_29_09",
+  "id": "oh_28_to_29_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"29",
-    "id":"039028029009",
-    "member":{
-        "28":{
-            "3228":{
-                "district":"9",
-                "name":"Florence, Elias",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "7353":{
-                "district":"9",
-                "name":"Perrill, Augustus Leonard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":9,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -83.67019,

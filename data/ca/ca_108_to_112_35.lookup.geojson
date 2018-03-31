@@ -2,48 +2,12 @@
   "id": "ca_108_to_112_35",
   "type": "Feature",
   "properties": {
-    "district":"35",
-    "endcong":"112",
-    "id":"006108112035",
-    "member":{
-        "108":{
-            "29106":{
-                "district":"35",
-                "name":"Waters, Maxine",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29106":{
-                "district":"35",
-                "name":"Waters, Maxine",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29106":{
-                "district":"35",
-                "name":"Waters, Maxine",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29106":{
-                "district":"35",
-                "name":"Waters, Maxine",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29106":{
-                "district":"35",
-                "name":"Waters, Maxine",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":35,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -118.44551,

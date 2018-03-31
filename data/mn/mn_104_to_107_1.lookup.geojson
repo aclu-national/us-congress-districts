@@ -1,42 +1,13 @@
 {
-  "id": "mn_104_to_107_01",
+  "id": "mn_104_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"027104107001",
-    "member":{
-        "104":{
-            "29532":{
-                "district":"1",
-                "name":"Gutknecht, Gil",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29532":{
-                "district":"1",
-                "name":"Gutknecht, Gil",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29532":{
-                "district":"1",
-                "name":"Gutknecht, Gil",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29532":{
-                "district":"1",
-                "name":"Gutknecht, Gil",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Minnesota"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"mn"
 },
   "bbox": [
     -94.37189,

@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"72",
-    "id":"036068072013",
-    "member":{
-        "68":{
-            "9066":{
-                "district":"13",
-                "name":"Sullivan, Christopher Daniel",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9066":{
-                "district":"13",
-                "name":"Sullivan, Christopher Daniel",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "9066":{
-                "district":"13",
-                "name":"Sullivan, Christopher Daniel",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "9066":{
-                "district":"13",
-                "name":"Sullivan, Christopher Daniel",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "9066":{
-                "district":"13",
-                "name":"Sullivan, Christopher Daniel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":13,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -74.00631,

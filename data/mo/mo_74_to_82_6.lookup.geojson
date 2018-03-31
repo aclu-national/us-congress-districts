@@ -1,77 +1,13 @@
 {
-  "id": "mo_74_to_82_06",
+  "id": "mo_74_to_82_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"82",
-    "id":"029074082006",
-    "member":{
-        "74":{
-            "10332":{
-                "district":"6",
-                "name":"Wood, Reuben Terrell",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "10332":{
-                "district":"6",
-                "name":"Wood, Reuben Terrell",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "10332":{
-                "district":"6",
-                "name":"Wood, Reuben Terrell",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "642":{
-                "district":"6",
-                "name":"Bennett, Philip Allen",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "641":{
-                "district":"6",
-                "name":"Bennett, Marion Tinsley",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "641":{
-                "district":"6",
-                "name":"Bennett, Marion Tinsley",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "641":{
-                "district":"6",
-                "name":"Bennett, Marion Tinsley",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "1717":{
-                "district":"6",
-                "name":"Christopher, George Henry",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "235":{
-                "district":"6",
-                "name":"Armstrong, Orland Kay",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Missouri"
+    "district":6,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mo"
 },
   "bbox": [
     -94.61798,

@@ -1,21 +1,13 @@
 {
-  "id": "tx_43_to_43_03",
+  "id": "tx_43_to_43_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"43",
-    "id":"048043043003",
-    "member":{
-        "43":{
-            "3566":{
-                "district":"3",
-                "name":"Giddings, De Witt Clinton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Texas"
+    "district":3,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"tx"
 },
   "bbox": [
     -98.00531,

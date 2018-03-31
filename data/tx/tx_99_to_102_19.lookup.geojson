@@ -2,41 +2,12 @@
   "id": "tx_99_to_102_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"102",
-    "id":"048099102019",
-    "member":{
-        "100":{
-            "15093":{
-                "district":"19",
-                "name":"Combest, Larry E.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15093":{
-                "district":"19",
-                "name":"Combest, Larry E.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15093":{
-                "district":"19",
-                "name":"Combest, Larry E.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15093":{
-                "district":"19",
-                "name":"Combest, Larry E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Texas"
+    "district":19,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"tx"
 },
   "bbox": [
     -103.06448,

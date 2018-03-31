@@ -1,28 +1,13 @@
 {
-  "id": "in_53_to_54_01",
+  "id": "in_53_to_54_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"54",
-    "id":"018053054001",
-    "member":{
-        "53":{
-            "9199":{
-                "district":"1",
-                "name":"Taylor, Arthur Herbert",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "4295":{
-                "district":"1",
-                "name":"Hemenway, James Alexander",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

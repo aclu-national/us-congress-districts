@@ -2,48 +2,12 @@
   "id": "ma_58_to_62_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"62",
-    "id":"025058062010",
-    "member":{
-        "58":{
-            "6368":{
-                "district":"10",
-                "name":"McNary, William Sarsfield",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "6368":{
-                "district":"10",
-                "name":"McNary, William Sarsfield",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "7014":{
-                "district":"10",
-                "name":"O'Connell, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "7014":{
-                "district":"10",
-                "name":"O'Connell, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "2258":{
-                "district":"10",
-                "name":"Curley, James Michael",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ma"
 },
   "bbox": [
     -71.13076,

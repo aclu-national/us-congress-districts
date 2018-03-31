@@ -1,42 +1,13 @@
 {
-  "id": "pa_79_to_82_01",
+  "id": "pa_79_to_82_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"82",
-    "id":"042079082001",
-    "member":{
-        "79":{
-            "465":{
-                "district":"1",
-                "name":"Barrett, William A.",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "3434":{
-                "district":"1",
-                "name":"Gallagher, James A.",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "465":{
-                "district":"1",
-                "name":"Barrett, William A.",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "465":{
-                "district":"1",
-                "name":"Barrett, William A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -75.21453,

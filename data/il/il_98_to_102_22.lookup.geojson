@@ -2,48 +2,12 @@
   "id": "il_98_to_102_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"102",
-    "id":"017098102022",
-    "member":{
-        "100":{
-            "15101":{
-                "district":"22",
-                "name":"Gray, Kenneth James",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15620":{
-                "district":"22",
-                "name":"Poshard, Glenn",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15620":{
-                "district":"22",
-                "name":"Poshard, Glenn",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14275":{
-                "district":"22",
-                "name":"Simon, Paul",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15101":{
-                "district":"22",
-                "name":"Gray, Kenneth James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Illinois"
+    "district":22,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"il"
 },
   "bbox": [
     -90.37393,

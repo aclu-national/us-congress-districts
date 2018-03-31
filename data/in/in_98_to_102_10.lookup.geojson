@@ -2,48 +2,12 @@
   "id": "in_98_to_102_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"102",
-    "id":"018098102010",
-    "member":{
-        "100":{
-            "10742":{
-                "district":"10",
-                "name":"Jacobs, Andrew, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "10742":{
-                "district":"10",
-                "name":"Jacobs, Andrew, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "10742":{
-                "district":"10",
-                "name":"Jacobs, Andrew, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "10742":{
-                "district":"10",
-                "name":"Jacobs, Andrew, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "10742":{
-                "district":"10",
-                "name":"Jacobs, Andrew, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Indiana"
+    "district":10,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"in"
 },
   "bbox": [
     -86.3269,

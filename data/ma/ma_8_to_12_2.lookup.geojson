@@ -1,54 +1,13 @@
 {
-  "id": "ma_8_to_12_02",
+  "id": "ma_8_to_12_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"12",
-    "id":"025008012002",
-    "member":{
-        "10":{
-            "2214":{
-                "district":"2",
-                "name":"Crowninshield, Jacob",
-                "party":"Republican"
-            },
-            "8999":{
-                "district":"2",
-                "name":"Story, Joseph",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "7432":{
-                "district":"2",
-                "name":"Pickman, Benjamin, Jr.",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "7797":{
-                "district":"2",
-                "name":"Reed, William",
-                "party":"Federalist"
-            }
-        },
-        "8":{
-            "2214":{
-                "district":"2",
-                "name":"Crowninshield, Jacob",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "2214":{
-                "district":"2",
-                "name":"Crowninshield, Jacob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ma"
 },
   "bbox": [
     -71.0829,

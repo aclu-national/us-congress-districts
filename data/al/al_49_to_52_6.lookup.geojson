@@ -1,42 +1,13 @@
 {
-  "id": "al_49_to_52_06",
+  "id": "al_49_to_52_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"52",
-    "id":"001049052006",
-    "member":{
-        "49":{
-            "6030":{
-                "district":"6",
-                "name":"Martin, John Mason",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "403":{
-                "district":"6",
-                "name":"Bankhead, John Hollis",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "403":{
-                "district":"6",
-                "name":"Bankhead, John Hollis",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "403":{
-                "district":"6",
-                "name":"Bankhead, John Hollis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Alabama"
+    "district":6,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"al"
 },
   "bbox": [
     -88.42145,

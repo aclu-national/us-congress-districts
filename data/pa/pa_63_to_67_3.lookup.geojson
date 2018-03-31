@@ -1,54 +1,13 @@
 {
-  "id": "pa_63_to_67_03",
+  "id": "pa_63_to_67_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"67",
-    "id":"042063067003",
-    "member":{
-        "63":{
-            "6640":{
-                "district":"3",
-                "name":"Moore, Joseph Hampton",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "6640":{
-                "district":"3",
-                "name":"Moore, Joseph Hampton",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "6640":{
-                "district":"3",
-                "name":"Moore, Joseph Hampton",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6640":{
-                "district":"3",
-                "name":"Moore, Joseph Hampton",
-                "party":"Republican"
-            },
-            "7736":{
-                "district":"3",
-                "name":"Ransley, Harry Clay",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "7736":{
-                "district":"3",
-                "name":"Ransley, Harry Clay",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -75.16704,

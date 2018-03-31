@@ -1,49 +1,13 @@
 {
-  "id": "in_98_to_102_01",
+  "id": "in_98_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"018098102001",
-    "member":{
-        "100":{
-            "15124":{
-                "district":"1",
-                "name":"Visclosky, Peter J.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15124":{
-                "district":"1",
-                "name":"Visclosky, Peter J.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15124":{
-                "district":"1",
-                "name":"Visclosky, Peter J.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14880":{
-                "district":"1",
-                "name":"Hall, Katie Beatrice",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15124":{
-                "district":"1",
-                "name":"Visclosky, Peter J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"in"
 },
   "bbox": [
     -87.525,

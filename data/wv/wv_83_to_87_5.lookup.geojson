@@ -1,49 +1,13 @@
 {
-  "id": "wv_83_to_87_05",
+  "id": "wv_83_to_87_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"87",
-    "id":"054083087005",
-    "member":{
-        "83":{
-            "5118":{
-                "district":"5",
-                "name":"Kee, Maude Elizabeth",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5118":{
-                "district":"5",
-                "name":"Kee, Maude Elizabeth",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5118":{
-                "district":"5",
-                "name":"Kee, Maude Elizabeth",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5118":{
-                "district":"5",
-                "name":"Kee, Maude Elizabeth",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "5118":{
-                "district":"5",
-                "name":"Kee, Maude Elizabeth",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"West Virginia"
+    "district":5,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"wv"
 },
   "bbox": [
     -82.42048,

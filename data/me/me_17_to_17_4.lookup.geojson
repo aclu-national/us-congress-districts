@@ -1,21 +1,13 @@
 {
-  "id": "me_17_to_17_04",
+  "id": "me_17_to_17_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"17",
-    "id":"023017017004",
-    "member":{
-        "17":{
-            "10196":{
-                "district":"4",
-                "name":"Williamson, William Durke",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Maine"
+    "district":4,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"me"
 },
   "bbox": [
     -69.38199,

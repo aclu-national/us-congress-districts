@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"102",
-    "id":"036099102015",
-    "member":{
-        "100":{
-            "14471":{
-                "district":"15",
-                "name":"Green, S. William",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14471":{
-                "district":"15",
-                "name":"Green, S. William",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14471":{
-                "district":"15",
-                "name":"Green, S. William",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14471":{
-                "district":"15",
-                "name":"Green, S. William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -74.02683,

@@ -2,34 +2,12 @@
   "id": "pa_48_to_50_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"50",
-    "id":"042048050011",
-    "member":{
-        "48":{
-            "8996":{
-                "district":"11",
-                "name":"Storm, John Brutzman",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "8996":{
-                "district":"11",
-                "name":"Storm, John Brutzman",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "1200":{
-                "district":"11",
-                "name":"Buckalew, Charles Rollin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -76.79485,

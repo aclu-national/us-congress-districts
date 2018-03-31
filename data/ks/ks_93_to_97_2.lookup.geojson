@@ -1,49 +1,13 @@
 {
-  "id": "ks_93_to_97_02",
+  "id": "ks_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"020093097002",
-    "member":{
-        "93":{
-            "13037":{
-                "district":"2",
-                "name":"Roy, William",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14244":{
-                "district":"2",
-                "name":"Keys, Martha",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14244":{
-                "district":"2",
-                "name":"Keys, Martha",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14637":{
-                "district":"2",
-                "name":"Jeffries, James Edmund",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14637":{
-                "district":"2",
-                "name":"Jeffries, James Edmund",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Kansas"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ks"
 },
   "bbox": [
     -97.38122,

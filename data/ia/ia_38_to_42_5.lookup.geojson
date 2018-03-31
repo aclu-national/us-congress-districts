@@ -1,49 +1,13 @@
 {
-  "id": "ia_38_to_42_05",
+  "id": "ia_38_to_42_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"42",
-    "id":"019038042005",
-    "member":{
-        "38":{
-            "5100":{
-                "district":"5",
-                "name":"Kasson, John Adam",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "5100":{
-                "district":"5",
-                "name":"Kasson, John Adam",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "2641":{
-                "district":"5",
-                "name":"Dodge, Grenville Mellen",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "7175":{
-                "district":"5",
-                "name":"Palmer, Francis Wayland",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "7175":{
-                "district":"5",
-                "name":"Palmer, Francis Wayland",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Iowa"
+    "district":5,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ia"
 },
   "bbox": [
     -96.1391,

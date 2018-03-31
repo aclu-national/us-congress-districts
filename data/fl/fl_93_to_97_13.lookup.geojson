@@ -2,48 +2,12 @@
   "id": "fl_93_to_97_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"97",
-    "id":"012093097013",
-    "member":{
-        "93":{
-            "14029":{
-                "district":"13",
-                "name":"Lehman, William",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14029":{
-                "district":"13",
-                "name":"Lehman, William",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14029":{
-                "district":"13",
-                "name":"Lehman, William",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14029":{
-                "district":"13",
-                "name":"Lehman, William",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14029":{
-                "district":"13",
-                "name":"Lehman, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Florida"
+    "district":13,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"fl"
 },
   "bbox": [
     -80.44057,

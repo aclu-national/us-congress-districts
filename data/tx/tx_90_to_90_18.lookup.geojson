@@ -2,20 +2,12 @@
   "id": "tx_90_to_90_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"90",
-    "id":"048090090018",
-    "member":{
-        "90":{
-            "11062":{
-                "district":"18",
-                "name":"Price, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Texas"
+    "district":18,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"tx"
 },
   "bbox": [
     -103.04735,

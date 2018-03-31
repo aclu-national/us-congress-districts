@@ -1,49 +1,13 @@
 {
-  "id": "ct_108_to_112_05",
+  "id": "ct_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"009108112005",
-    "member":{
-        "108":{
-            "15028":{
-                "district":"5",
-                "name":"Johnson, Nancy L.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "15028":{
-                "district":"5",
-                "name":"Johnson, Nancy L.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20707":{
-                "district":"5",
-                "name":"Murphy, Christopher S.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20707":{
-                "district":"5",
-                "name":"Murphy, Christopher S.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20707":{
-                "district":"5",
-                "name":"Murphy, Christopher S.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Connecticut"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ct"
 },
   "bbox": [
     -73.54342,

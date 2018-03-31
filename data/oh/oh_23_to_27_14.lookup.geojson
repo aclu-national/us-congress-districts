@@ -2,48 +2,12 @@
   "id": "oh_23_to_27_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"27",
-    "id":"039023027014",
-    "member":{
-        "23":{
-            "7258":{
-                "district":"14",
-                "name":"Patterson, William",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "7258":{
-                "district":"14",
-                "name":"Patterson, William",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "4764":{
-                "district":"14",
-                "name":"Hunter, William H.",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "9115":{
-                "district":"14",
-                "name":"Sweeny, George",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "9115":{
-                "district":"14",
-                "name":"Sweeny, George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Ohio"
+    "district":14,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"oh"
 },
   "bbox": [
     -83.4213,

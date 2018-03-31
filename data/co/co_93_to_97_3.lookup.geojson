@@ -1,49 +1,13 @@
 {
-  "id": "co_93_to_97_03",
+  "id": "co_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"008093097003",
-    "member":{
-        "93":{
-            "10723":{
-                "district":"3",
-                "name":"Evans, Frank E.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "10723":{
-                "district":"3",
-                "name":"Evans, Frank E.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10723":{
-                "district":"3",
-                "name":"Evans, Frank E.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14638":{
-                "district":"3",
-                "name":"Kogovsek, Raymond Peter",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14638":{
-                "district":"3",
-                "name":"Kogovsek, Raymond Peter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Colorado"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"co"
 },
   "bbox": [
     -109.06026,

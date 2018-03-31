@@ -2,53 +2,12 @@
   "id": "ca_103_to_107_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"107",
-    "id":"006103107031",
-    "member":{
-        "103":{
-            "14879":{
-                "district":"31",
-                "name":"Martinez, Matthew G.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "14879":{
-                "district":"31",
-                "name":"Martinez, Matthew G.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "14879":{
-                "district":"31",
-                "name":"Martinez, Matthew G.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "14879":{
-                "district":"31",
-                "name":"Martinez, Matthew G.",
-                "party":"Democrat"
-            },
-            "94879":{
-                "district":"31",
-                "name":"Martinez, Matthew G.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "20105":{
-                "district":"31",
-                "name":"Solis, Hilda L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"California"
+    "district":31,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ca"
 },
   "bbox": [
     -118.1967,

@@ -1,49 +1,13 @@
 {
-  "id": "ct_108_to_112_03",
+  "id": "ct_108_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"009108112003",
-    "member":{
-        "108":{
-            "29109":{
-                "district":"3",
-                "name":"Delauro, Rosa L.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29109":{
-                "district":"3",
-                "name":"Delauro, Rosa L.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29109":{
-                "district":"3",
-                "name":"Delauro, Rosa L.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29109":{
-                "district":"3",
-                "name":"Delauro, Rosa L.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29109":{
-                "district":"3",
-                "name":"Delauro, Rosa",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Connecticut"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ct"
 },
   "bbox": [
     -73.1643,

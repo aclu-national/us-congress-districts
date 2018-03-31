@@ -1,21 +1,13 @@
 {
-  "id": "ma_2_to_2_07",
+  "id": "ma_2_to_2_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"2",
-    "id":"025002002007",
-    "member":{
-        "2":{
-            "9808":{
-                "district":"7",
-                "name":"Ward, Artemas",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"2",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1791-03-04",
+    "start_session":2,
+    "state":"ma"
 },
   "bbox": [
     -72.29142,

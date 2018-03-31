@@ -1,28 +1,13 @@
 {
-  "id": "ma_63_to_64_05",
+  "id": "ma_63_to_64_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"64",
-    "id":"025063064005",
-    "member":{
-        "63":{
-            "8031":{
-                "district":"5",
-                "name":"Rogers, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "8031":{
-                "district":"5",
-                "name":"Rogers, John Jacob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Massachusetts"
+    "district":5,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ma"
 },
   "bbox": [
     -71.68969,

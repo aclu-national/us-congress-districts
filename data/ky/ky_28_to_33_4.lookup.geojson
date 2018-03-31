@@ -1,56 +1,13 @@
 {
-  "id": "ky_28_to_33_04",
+  "id": "ky_28_to_33_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"33",
-    "id":"021028033004",
-    "member":{
-        "28":{
-            "1405":{
-                "district":"4",
-                "name":"Caldwell, George Alfred",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "609":{
-                "district":"4",
-                "name":"Bell, Joshua Fry",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "1211":{
-                "district":"4",
-                "name":"Buckner, Aylette",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "1405":{
-                "district":"4",
-                "name":"Caldwell, George Alfred",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "9825":{
-                "district":"4",
-                "name":"Ward, William Thomas",
-                "party":"Whig"
-            }
-        },
-        "33":{
-            "1712":{
-                "district":"4",
-                "name":"Chrisman, James Stone",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Kentucky"
+    "district":4,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ky"
 },
   "bbox": [
     -85.69749,

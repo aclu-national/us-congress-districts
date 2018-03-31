@@ -1,49 +1,13 @@
 {
-  "id": "vt_8_to_12_04",
+  "id": "vt_8_to_12_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"12",
-    "id":"050008012004",
-    "member":{
-        "10":{
-            "1708":{
-                "district":"4",
-                "name":"Chittenden, Martin",
-                "party":"Federalist"
-            }
-        },
-        "11":{
-            "1708":{
-                "district":"4",
-                "name":"Chittenden, Martin",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "1708":{
-                "district":"4",
-                "name":"Chittenden, Martin",
-                "party":"Federalist"
-            }
-        },
-        "8":{
-            "1708":{
-                "district":"4",
-                "name":"Chittenden, Martin",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "1708":{
-                "district":"4",
-                "name":"Chittenden, Martin",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Vermont"
+    "district":4,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"vt"
 },
   "bbox": [
     -73.43774,

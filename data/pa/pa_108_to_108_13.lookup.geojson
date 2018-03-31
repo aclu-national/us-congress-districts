@@ -2,20 +2,12 @@
   "id": "pa_108_to_108_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"108",
-    "id":"042108108013",
-    "member":{
-        "108":{
-            "29934":{
-                "district":"13",
-                "name":"Hoeffel, Joseph M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Pennsylvania"
+    "district":13,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"pa"
 },
   "bbox": [
     -75.61532,

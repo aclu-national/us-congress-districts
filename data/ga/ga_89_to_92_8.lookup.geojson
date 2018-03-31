@@ -1,42 +1,13 @@
 {
-  "id": "ga_89_to_92_08",
+  "id": "ga_89_to_92_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"92",
-    "id":"013089092008",
-    "member":{
-        "89":{
-            "10632":{
-                "district":"8",
-                "name":"Tuten, J. Russell",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "11052":{
-                "district":"8",
-                "name":"Stuckey, W. S., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "11052":{
-                "district":"8",
-                "name":"Stuckey, W. S., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "11052":{
-                "district":"8",
-                "name":"Stuckey, W. S., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Georgia"
+    "district":8,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"ga"
 },
   "bbox": [
     -83.61226,

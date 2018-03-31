@@ -1,98 +1,13 @@
 {
-  "id": "id_51_to_62_00",
+  "id": "id_51_to_62_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"62",
-    "id":"016051062000",
-    "member":{
-        "51":{
-            "9120":{
-                "district":"1",
-                "name":"Sweet, Willis",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "9120":{
-                "district":"1",
-                "name":"Sweet, Willis",
-                "party":"Republican"
-            }
-        },
-        "53":{
-            "9120":{
-                "district":"1",
-                "name":"Sweet, Willis",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "10213":{
-                "district":"1",
-                "name":"Wilson, Edgar",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "3878":{
-                "district":"1",
-                "name":"Gunn, James",
-                "party":"Populist"
-            }
-        },
-        "56":{
-            "10213":{
-                "district":"1",
-                "name":"Wilson, Edgar",
-                "party":"Silver Republican"
-            }
-        },
-        "57":{
-            "3631":{
-                "district":"1",
-                "name":"Glenn, Thomas Louis",
-                "party":"Populist"
-            }
-        },
-        "58":{
-            "3367":{
-                "district":"1",
-                "name":"French, Burton Lee",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "3367":{
-                "district":"1",
-                "name":"French, Burton Lee",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3367":{
-                "district":"1",
-                "name":"French, Burton Lee",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3979":{
-                "district":"1",
-                "name":"Hamer, Thomas Ray",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "3367":{
-                "district":"1",
-                "name":"French, Burton Lee",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Idaho"
+    "district":0,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"id"
 },
   "bbox": [
     -117.24303,

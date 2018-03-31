@@ -2,34 +2,12 @@
   "id": "ga_110_to_112_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"112",
-    "id":"013110112012",
-    "member":{
-        "110":{
-            "20507":{
-                "district":"12",
-                "name":"Barrow, John",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20507":{
-                "district":"12",
-                "name":"Barrow, John",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20507":{
-                "district":"12",
-                "name":"Barrow, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"110",
-    "statename":"Georgia"
+    "district":12,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2007-01-04",
+    "start_session":110,
+    "state":"ga"
 },
   "bbox": [
     -83.42903,

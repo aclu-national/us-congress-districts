@@ -2,27 +2,12 @@
   "id": "oh_98_to_99_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"99",
-    "id":"039098099010",
-    "member":{
-        "98":{
-            "11034":{
-                "district":"10",
-                "name":"Miller, Clarence E.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "11034":{
-                "district":"10",
-                "name":"Miller, Clarence E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Ohio"
+    "district":10,
+    "end_date":"1986-10-18",
+    "end_session":99,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"oh"
 },
   "bbox": [
     -82.84307,

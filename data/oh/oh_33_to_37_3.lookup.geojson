@@ -1,54 +1,13 @@
 {
-  "id": "oh_33_to_37_03",
+  "id": "oh_33_to_37_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"37",
-    "id":"039033037003",
-    "member":{
-        "33":{
-            "1461":{
-                "district":"3",
-                "name":"Campbell, Lewis Davis",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "1461":{
-                "district":"3",
-                "name":"Campbell, Lewis Davis",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "1461":{
-                "district":"3",
-                "name":"Campbell, Lewis Davis",
-                "party":"Republican"
-            },
-            "9588":{
-                "district":"3",
-                "name":"Vallandigham, Clement Laird",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "9588":{
-                "district":"3",
-                "name":"Vallandigham, Clement Laird",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "9588":{
-                "district":"3",
-                "name":"Vallandigham, Clement Laird",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -84.81945,

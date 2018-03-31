@@ -2,48 +2,12 @@
   "id": "oh_78_to_82_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"82",
-    "id":"039078082015",
-    "member":{
-        "78":{
-            "3831":{
-                "district":"15",
-                "name":"Griffiths, Percy Wilfred",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "3831":{
-                "district":"15",
-                "name":"Griffiths, Percy Wilfred",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "3831":{
-                "district":"15",
-                "name":"Griffiths, Percy Wilfred",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "8341":{
-                "district":"15",
-                "name":"Secrest, Robert Thompson",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "8341":{
-                "district":"15",
-                "name":"Secrest, Robert Thompson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"oh"
 },
   "bbox": [
     -82.23397,

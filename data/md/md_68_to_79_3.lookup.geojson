@@ -1,98 +1,13 @@
 {
-  "id": "md_68_to_79_03",
+  "id": "md_68_to_79_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"79",
-    "id":"024068079003",
-    "member":{
-        "68":{
-            "4415":{
-                "district":"3",
-                "name":"Hill, John Boynton Philip",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "4415":{
-                "district":"3",
-                "name":"Hill, John Boynton Philip",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "7183":{
-                "district":"3",
-                "name":"Palmisano, Vincent Luke",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7183":{
-                "district":"3",
-                "name":"Palmisano, Vincent Luke",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "7183":{
-                "district":"3",
-                "name":"Palmisano, Vincent Luke",
-                "party":"Democrat"
-            }
-        },
-        "73":{
-            "7183":{
-                "district":"3",
-                "name":"Palmisano, Vincent Luke",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "7183":{
-                "district":"3",
-                "name":"Palmisano, Vincent Luke",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "7183":{
-                "district":"3",
-                "name":"Palmisano, Vincent Luke",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2304":{
-                "district":"3",
-                "name":"D'alesandro, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "2304":{
-                "district":"3",
-                "name":"D'alesandro, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "2304":{
-                "district":"3",
-                "name":"D'alesandro, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "2304":{
-                "district":"3",
-                "name":"D'alesandro, Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"1946-08-02",
+    "end_session":79,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"md"
 },
   "bbox": [
     -76.63674,

@@ -1,19 +1,13 @@
 {
-  "id": "sc_113_to_115_01",
+  "id": "sc_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":4008970917,
-    "AWATER":2197055543,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4501",
-    "INTPTLAT":"+32.7140628",
-    "INTPTLON":"-080.1606245",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"45"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"sc"
 },
   "bbox": [
     -81.016341,

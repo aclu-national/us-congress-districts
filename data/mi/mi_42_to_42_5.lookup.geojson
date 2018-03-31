@@ -1,21 +1,13 @@
 {
-  "id": "mi_42_to_42_05",
+  "id": "mi_42_to_42_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"42",
-    "id":"026042042005",
-    "member":{
-        "42":{
-            "1981":{
-                "district":"5",
-                "name":"Conger, Omar Dwight",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"42",
-    "statename":"Michigan"
+    "district":5,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1871-03-04",
+    "start_session":42,
+    "state":"mi"
 },
   "bbox": [
     -84.15816,

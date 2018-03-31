@@ -1,84 +1,13 @@
 {
-  "id": "wv_38_to_47_02",
+  "id": "wv_38_to_47_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"47",
-    "id":"054038047002",
-    "member":{
-        "38":{
-            "1137":{
-                "district":"2",
-                "name":"Brown, William Gay",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "39":{
-            "5487":{
-                "district":"2",
-                "name":"Latham, George Robert",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "40":{
-            "5304":{
-                "district":"2",
-                "name":"Kitchen, Bethuel Middleton",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "6263":{
-                "district":"2",
-                "name":"McGrew, James Clark",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "6263":{
-                "district":"2",
-                "name":"McGrew, James Clark",
-                "party":"Republican"
-            }
-        },
-        "43":{
-            "3900":{
-                "district":"2",
-                "name":"Hagans, John Marshall",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "3080":{
-                "district":"2",
-                "name":"Faulkner, Charles James",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "6015":{
-                "district":"2",
-                "name":"Martin, Benjamin Franklin",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "6015":{
-                "district":"2",
-                "name":"Martin, Benjamin Franklin",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "4499":{
-                "district":"2",
-                "name":"Hoge, John Blair",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"West Virginia"
+    "district":2,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"wv"
 },
   "bbox": [
     -80.67829,

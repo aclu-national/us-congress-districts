@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_20",
   "type": "Feature",
   "properties": {
-    "ALAND":517193241,
-    "AWATER":1486622,
-    "CD113FP":"20",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4820",
-    "INTPTLAT":"+29.4743174",
-    "INTPTLON":"-098.6224612",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 20",
-    "STATEFP":"48"
+    "district":20,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -98.788192,

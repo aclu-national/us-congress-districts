@@ -1,84 +1,13 @@
 {
-  "id": "tn_58_to_67_08",
+  "id": "tn_58_to_67_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"67",
-    "id":"047058067008",
-    "member":{
-        "58":{
-            "8537":{
-                "district":"8",
-                "name":"Sims, Thetus Willrette",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "8537":{
-                "district":"8",
-                "name":"Sims, Thetus Willrette",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "8537":{
-                "district":"8",
-                "name":"Sims, Thetus Willrette",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "8537":{
-                "district":"8",
-                "name":"Sims, Thetus Willrette",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "8537":{
-                "district":"8",
-                "name":"Sims, Thetus Willrette",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "8537":{
-                "district":"8",
-                "name":"Sims, Thetus Willrette",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "8537":{
-                "district":"8",
-                "name":"Sims, Thetus Willrette",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8537":{
-                "district":"8",
-                "name":"Sims, Thetus Willrette",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "8537":{
-                "district":"8",
-                "name":"Sims, Thetus Willrette",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "8308":{
-                "district":"8",
-                "name":"Scott, Lon Allen",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"tn"
 },
   "bbox": [
     -89.07888,

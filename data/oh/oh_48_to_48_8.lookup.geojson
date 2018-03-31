@@ -1,21 +1,13 @@
 {
-  "id": "oh_48_to_48_08",
+  "id": "oh_48_to_48_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"48",
-    "id":"039048048008",
-    "member":{
-        "48":{
-            "5126":{
-                "district":"8",
-                "name":"Keifer, Joseph Warren",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Ohio"
+    "district":8,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"oh"
 },
   "bbox": [
     -84.05374,

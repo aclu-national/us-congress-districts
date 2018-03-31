@@ -2,48 +2,12 @@
   "id": "ca_83_to_87_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"87",
-    "id":"006083087023",
-    "member":{
-        "83":{
-            "2713":{
-                "district":"23",
-                "name":"Doyle, Clyde Gilman",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "2713":{
-                "district":"23",
-                "name":"Doyle, Clyde Gilman",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "2713":{
-                "district":"23",
-                "name":"Doyle, Clyde Gilman",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "2713":{
-                "district":"23",
-                "name":"Doyle, Clyde Gilman",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "2713":{
-                "district":"23",
-                "name":"Doyle, Clyde Gilman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":23,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -118.2739,

@@ -1,61 +1,13 @@
 {
-  "id": "mn_73_to_73_00",
+  "id": "mn_73_to_73_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"73",
-    "id":"027073073000",
-    "member":{
-        "73":{
-            "1671":{
-                "district":"98",
-                "name":"Chase, Ray P.",
-                "party":"Republican"
-            },
-            "1715":{
-                "district":"98",
-                "name":"Christianson, Theodore",
-                "party":"Republican"
-            },
-            "227":{
-                "district":"98",
-                "name":"Arens, Henry",
-                "party":"Farmer-Labor"
-            },
-            "4509":{
-                "district":"98",
-                "name":"Hoidale, Einar",
-                "party":"Democrat"
-            },
-            "4980":{
-                "district":"98",
-                "name":"Johnson, Magnus",
-                "party":"Farmer-Labor"
-            },
-            "5352":{
-                "district":"98",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            },
-            "5384":{
-                "district":"98",
-                "name":"Kvale, Paul John",
-                "party":"Farmer-Labor"
-            },
-            "5839":{
-                "district":"98",
-                "name":"Lundeen, Ernest",
-                "party":"Farmer-Labor"
-            },
-            "8481":{
-                "district":"98",
-                "name":"Shoemaker, Francis Henry",
-                "party":"Farmer-Labor"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Minnesota"
+    "district":0,
+    "end_date":"1934-06-18",
+    "end_session":73,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mn"
 },
   "bbox": [
     -97.23921,

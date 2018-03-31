@@ -1,54 +1,13 @@
 {
-  "id": "ny_38_to_42_08",
+  "id": "ny_38_to_42_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"42",
-    "id":"036038042008",
-    "member":{
-        "38":{
-            "1078":{
-                "district":"8",
-                "name":"Brooks, James",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "1078":{
-                "district":"8",
-                "name":"Brooks, James",
-                "party":"Democrat"
-            },
-            "2643":{
-                "district":"8",
-                "name":"Dodge, William Earle",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "1078":{
-                "district":"8",
-                "name":"Brooks, James",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "1078":{
-                "district":"8",
-                "name":"Brooks, James",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "1078":{
-                "district":"8",
-                "name":"Brooks, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -74.01018,

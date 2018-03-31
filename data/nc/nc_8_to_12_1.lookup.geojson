@@ -1,49 +1,13 @@
 {
-  "id": "nc_8_to_12_01",
+  "id": "nc_8_to_12_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"12",
-    "id":"037008012001",
-    "member":{
-        "10":{
-            "8237":{
-                "district":"1",
-                "name":"Sawyer, Lemuel",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "8237":{
-                "district":"1",
-                "name":"Sawyer, Lemuel",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "8237":{
-                "district":"1",
-                "name":"Sawyer, Lemuel",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "10407":{
-                "district":"1",
-                "name":"Wynns, Thomas",
-                "party":"Republican"
-            }
-        },
-        "9":{
-            "10407":{
-                "district":"1",
-                "name":"Wynns, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"nc"
 },
   "bbox": [
     -77.20879,

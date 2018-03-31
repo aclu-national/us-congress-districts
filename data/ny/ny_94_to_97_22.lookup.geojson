@@ -2,41 +2,12 @@
   "id": "ny_94_to_97_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"97",
-    "id":"036094097022",
-    "member":{
-        "94":{
-            "10705":{
-                "district":"22",
-                "name":"Bingham, Jonathan B.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10705":{
-                "district":"22",
-                "name":"Bingham, Jonathan B.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "10705":{
-                "district":"22",
-                "name":"Bingham, Jonathan B.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "10705":{
-                "district":"22",
-                "name":"Bingham, Jonathan B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -73.93341,

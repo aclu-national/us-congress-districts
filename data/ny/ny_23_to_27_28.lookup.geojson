@@ -2,48 +2,12 @@
   "id": "ny_23_to_27_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"27",
-    "id":"036023027028",
-    "member":{
-        "23":{
-            "10079":{
-                "district":"28",
-                "name":"Whittlesey, Frederick",
-                "party":"Anti Masonic"
-            }
-        },
-        "24":{
-            "1693":{
-                "district":"28",
-                "name":"Childs, Timothy",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "1693":{
-                "district":"28",
-                "name":"Childs, Timothy",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "5162":{
-                "district":"28",
-                "name":"Kempshall, Thomas",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "1693":{
-                "district":"28",
-                "name":"Childs, Timothy",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":28,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -77.99729,

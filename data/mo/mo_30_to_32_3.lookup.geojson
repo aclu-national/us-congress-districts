@@ -1,35 +1,13 @@
 {
-  "id": "mo_30_to_32_03",
+  "id": "mo_30_to_32_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"32",
-    "id":"029030032003",
-    "member":{
-        "30":{
-            "3780":{
-                "district":"3",
-                "name":"Green, James Stephen",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "3780":{
-                "district":"3",
-                "name":"Green, James Stephen",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "6495":{
-                "district":"3",
-                "name":"Miller, John Gaines",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Missouri"
+    "district":3,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"mo"
 },
   "bbox": [
     -93.28791,

@@ -2,39 +2,12 @@
   "id": "ny_88_to_90_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"90",
-    "id":"036088090017",
-    "member":{
-        "88":{
-            "5678":{
-                "district":"17",
-                "name":"Lindsay, John Vliet",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10789":{
-                "district":"17",
-                "name":"Kupferman, Theodore",
-                "party":"Republican"
-            },
-            "5678":{
-                "district":"17",
-                "name":"Lindsay, John Vliet",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "10789":{
-                "district":"17",
-                "name":"Kupferman, Theodore",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -74.00555,

@@ -1,42 +1,13 @@
 {
-  "id": "ks_56_to_59_07",
+  "id": "ks_56_to_59_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"59",
-    "id":"020056059007",
-    "member":{
-        "56":{
-            "5754":{
-                "district":"7",
-                "name":"Long, Chester Isaiah",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "5754":{
-                "district":"7",
-                "name":"Long, Chester Isaiah",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "6801":{
-                "district":"7",
-                "name":"Murdock, Victor",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "6801":{
-                "district":"7",
-                "name":"Murdock, Victor",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Kansas"
+    "district":7,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"ks"
 },
   "bbox": [
     -102.04533,

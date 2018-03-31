@@ -1,21 +1,13 @@
 {
-  "id": "nc_106_to_106_01",
+  "id": "nc_106_to_106_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"106",
-    "id":"037106106001",
-    "member":{
-        "106":{
-            "29382":{
-                "district":"1",
-                "name":"Clayton, Eva M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"106",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"2000-12-15",
+    "end_session":106,
+    "start_date":"1999-01-06",
+    "start_session":106,
+    "state":"nc"
 },
   "bbox": [
     -79.14359,

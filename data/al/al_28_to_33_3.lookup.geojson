@@ -1,66 +1,13 @@
 {
-  "id": "al_28_to_33_03",
+  "id": "al_28_to_33_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"33",
-    "id":"001028033003",
-    "member":{
-        "28":{
-            "10411":{
-                "district":"3",
-                "name":"Yancey, William Lowndes",
-                "party":"Democrat"
-            },
-            "5635":{
-                "district":"3",
-                "name":"Lewis, Dixon Hall",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "10411":{
-                "district":"3",
-                "name":"Yancey, William Lowndes",
-                "party":"Democrat"
-            },
-            "2088":{
-                "district":"3",
-                "name":"Cottrell, James La Fayette",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "4113":{
-                "district":"3",
-                "name":"Harris, Sampson Willis",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "4113":{
-                "district":"3",
-                "name":"Harris, Sampson Willis",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "4113":{
-                "district":"3",
-                "name":"Harris, Sampson Willis",
-                "party":"Democrat"
-            }
-        },
-        "33":{
-            "4113":{
-                "district":"3",
-                "name":"Harris, Sampson Willis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Alabama"
+    "district":3,
+    "end_date":"1855-03-03",
+    "end_session":33,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"al"
 },
   "bbox": [
     -87.52568,

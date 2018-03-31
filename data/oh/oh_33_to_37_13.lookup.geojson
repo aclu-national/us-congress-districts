@@ -2,53 +2,12 @@
   "id": "oh_33_to_37_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"37",
-    "id":"039033037013",
-    "member":{
-        "33":{
-            "5682":{
-                "district":"13",
-                "name":"Lindsley, William Dell",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "8454":{
-                "district":"13",
-                "name":"Sherman, John",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "8454":{
-                "district":"13",
-                "name":"Sherman, John",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "8454":{
-                "district":"13",
-                "name":"Sherman, John",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "10370":{
-                "district":"13",
-                "name":"Worcester, Samuel Thomas",
-                "party":"Republican"
-            },
-            "8454":{
-                "district":"13",
-                "name":"Sherman, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":13,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -83.02223,

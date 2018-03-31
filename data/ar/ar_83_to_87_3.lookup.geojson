@@ -1,49 +1,13 @@
 {
-  "id": "ar_83_to_87_03",
+  "id": "ar_83_to_87_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"87",
-    "id":"005083087003",
-    "member":{
-        "83":{
-            "9473":{
-                "district":"3",
-                "name":"Trimble, James William",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "9473":{
-                "district":"3",
-                "name":"Trimble, James William",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "9473":{
-                "district":"3",
-                "name":"Trimble, James William",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "9473":{
-                "district":"3",
-                "name":"Trimble, James William",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "9473":{
-                "district":"3",
-                "name":"Trimble, James William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Arkansas"
+    "district":3,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ar"
 },
   "bbox": [
     -94.61792,

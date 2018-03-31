@@ -2,20 +2,12 @@
   "id": "pa_44_to_44_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"44",
-    "id":"042044044022",
-    "member":{
-        "44":{
-            "4569":{
-                "district":"22",
-                "name":"Hopkins, James Herron",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Pennsylvania"
+    "district":22,
+    "end_date":"1877-03-03",
+    "end_session":44,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"pa"
 },
   "bbox": [
     -80.17268,

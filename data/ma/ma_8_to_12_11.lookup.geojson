@@ -2,53 +2,12 @@
   "id": "ma_8_to_12_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"12",
-    "id":"025008012011",
-    "member":{
-        "10":{
-            "8865":{
-                "district":"11",
-                "name":"Stedman, William",
-                "party":"Federalist"
-            }
-        },
-        "11":{
-            "703":{
-                "district":"11",
-                "name":"Bigelow, Abijah",
-                "party":"Federalist"
-            },
-            "8865":{
-                "district":"11",
-                "name":"Stedman, William",
-                "party":"Federalist"
-            }
-        },
-        "12":{
-            "703":{
-                "district":"11",
-                "name":"Bigelow, Abijah",
-                "party":"Federalist"
-            }
-        },
-        "8":{
-            "8865":{
-                "district":"11",
-                "name":"Stedman, William",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "8865":{
-                "district":"11",
-                "name":"Stedman, William",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Massachusetts"
+    "district":11,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ma"
 },
   "bbox": [
     -72.29142,

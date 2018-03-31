@@ -2,78 +2,12 @@
   "id": "ny_23_to_27_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"27",
-    "id":"036023027017",
-    "member":{
-        "23":{
-            "553":{
-                "district":"17",
-                "name":"Beardsley, Samuel",
-                "party":"Jackson"
-            },
-            "9529":{
-                "district":"17",
-                "name":"Turrill, Joel",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "553":{
-                "district":"17",
-                "name":"Beardsley, Samuel",
-                "party":"Jackson"
-            },
-            "6505":{
-                "district":"17",
-                "name":"Miller, Rutger Bleecker",
-                "party":"Jackson"
-            },
-            "9529":{
-                "district":"17",
-                "name":"Turrill, Joel",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "3306":{
-                "district":"17",
-                "name":"Foster, Henry Allen",
-                "party":"Democrat"
-            },
-            "3753":{
-                "district":"17",
-                "name":"Grant, Abraham Phineas",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "1019":{
-                "district":"17",
-                "name":"Brewster, David P",
-                "party":"Democrat"
-            },
-            "3236":{
-                "district":"17",
-                "name":"Floyd, John Gelston",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "1019":{
-                "district":"17",
-                "name":"Brewster, David P",
-                "party":"Democrat"
-            },
-            "3236":{
-                "district":"17",
-                "name":"Floyd, John Gelston",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

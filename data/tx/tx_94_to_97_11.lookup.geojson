@@ -2,41 +2,12 @@
   "id": "tx_94_to_97_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"97",
-    "id":"048094097011",
-    "member":{
-        "94":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "7498":{
-                "district":"11",
-                "name":"Poage, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14641":{
-                "district":"11",
-                "name":"Leath, James Marvin",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14641":{
-                "district":"11",
-                "name":"Leath, James Marvin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"Texas"
+    "district":11,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"tx"
 },
   "bbox": [
     -99.72206,

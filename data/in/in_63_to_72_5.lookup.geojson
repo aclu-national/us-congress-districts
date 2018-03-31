@@ -1,84 +1,13 @@
 {
-  "id": "in_63_to_72_05",
+  "id": "in_63_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"018063072005",
-    "member":{
-        "63":{
-            "6758":{
-                "district":"5",
-                "name":"Moss, Ralph Wilbur",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "6758":{
-                "district":"5",
-                "name":"Moss, Ralph Wilbur",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8196":{
-                "district":"5",
-                "name":"Sanders, Everett",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "8196":{
-                "district":"5",
-                "name":"Sanders, Everett",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "8196":{
-                "district":"5",
-                "name":"Sanders, Everett",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "8196":{
-                "district":"5",
-                "name":"Sanders, Everett",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "4983":{
-                "district":"5",
-                "name":"Johnson, Noble Jacob",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "4983":{
-                "district":"5",
-                "name":"Johnson, Noble Jacob",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "4983":{
-                "district":"5",
-                "name":"Johnson, Noble Jacob",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "3591":{
-                "district":"5",
-                "name":"Gillen, Courtland Craig",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Indiana"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"in"
 },
   "bbox": [
     -87.62118,

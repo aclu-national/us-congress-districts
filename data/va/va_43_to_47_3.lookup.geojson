@@ -1,49 +1,13 @@
 {
-  "id": "va_43_to_47_03",
+  "id": "va_43_to_47_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"47",
-    "id":"051043047003",
-    "member":{
-        "43":{
-            "8649":{
-                "district":"3",
-                "name":"Smith, John Ambler",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "9742":{
-                "district":"3",
-                "name":"Walker, Gilbert Carlton",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "9742":{
-                "district":"3",
-                "name":"Walker, Gilbert Carlton",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "5006":{
-                "district":"3",
-                "name":"Johnston, Joseph Egglesto",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "10285":{
-                "district":"3",
-                "name":"Wise, George Douglas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Virginia"
+    "district":3,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"va"
 },
   "bbox": [
     -78.30661,

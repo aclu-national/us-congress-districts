@@ -1,21 +1,13 @@
 {
-  "id": "vt_22_to_22_02",
+  "id": "vt_22_to_22_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"22",
-    "id":"050022022002",
-    "member":{
-        "22":{
-            "8566":{
-                "district":"2",
-                "name":"Slade, William",
-                "party":"Anti Masonic"
-            }
-        }
-    },
-    "startcong":"22",
-    "statename":"Vermont"
+    "district":2,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1831-12-05",
+    "start_session":22,
+    "state":"vt"
 },
   "bbox": [
     -73.43774,

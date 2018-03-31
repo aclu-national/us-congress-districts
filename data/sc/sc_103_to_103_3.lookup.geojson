@@ -1,21 +1,13 @@
 {
-  "id": "sc_103_to_103_03",
+  "id": "sc_103_to_103_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"103",
-    "id":"045103103003",
-    "member":{
-        "103":{
-            "14212":{
-                "district":"3",
-                "name":"Derrick, Butler",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"1994-12-01",
+    "end_session":103,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"sc"
 },
   "bbox": [
     -83.35407,

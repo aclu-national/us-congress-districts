@@ -1,21 +1,13 @@
 {
-  "id": "pa_62_to_62_06",
+  "id": "pa_62_to_62_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"62",
-    "id":"042062062006",
-    "member":{
-        "62":{
-            "6193":{
-                "district":"6",
-                "name":"McCreary, George Deardorff",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"62",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1911-04-04",
+    "start_session":62,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

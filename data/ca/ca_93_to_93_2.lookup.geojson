@@ -1,21 +1,13 @@
 {
-  "id": "ca_93_to_93_02",
+  "id": "ca_93_to_93_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"93",
-    "id":"006093093002",
-    "member":{
-        "93":{
-            "4957":{
-                "district":"2",
-                "name":"Johnson, Harold Terry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"California"
+    "district":2,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ca"
 },
   "bbox": [
     -123.71917,

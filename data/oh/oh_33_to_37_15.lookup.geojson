@@ -2,48 +2,12 @@
   "id": "oh_33_to_37_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"37",
-    "id":"039033037015",
-    "member":{
-        "33":{
-            "8216":{
-                "district":"15",
-                "name":"Sapp, William Robinson",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "8216":{
-                "district":"15",
-                "name":"Sapp, William Robinson",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "1297":{
-                "district":"15",
-                "name":"Burns, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "4292":{
-                "district":"15",
-                "name":"Helmick, William",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "6985":{
-                "district":"15",
-                "name":"Nugen, Robert Hunter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -82.75282,

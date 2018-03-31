@@ -2,48 +2,12 @@
   "id": "pa_38_to_42_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"42",
-    "id":"042038042011",
-    "member":{
-        "38":{
-            "4986":{
-                "district":"11",
-                "name":"Johnson, Philip",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "4986":{
-                "district":"11",
-                "name":"Johnson, Philip",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "9593":{
-                "district":"11",
-                "name":"Van Auken, Daniel Myers",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "9593":{
-                "district":"11",
-                "name":"Van Auken, Daniel Myers",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "8996":{
-                "district":"11",
-                "name":"Storm, John Brutzman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"pa"
 },
   "bbox": [
     -75.99735,

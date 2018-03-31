@@ -2,39 +2,12 @@
   "id": "pa_30_to_32_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"32",
-    "id":"042030032015",
-    "member":{
-        "30":{
-            "6877":{
-                "district":"15",
-                "name":"Nes, Henry",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "2331":{
-                "district":"15",
-                "name":"Danner, Joel Buchanan",
-                "party":"Democrat"
-            },
-            "6877":{
-                "district":"15",
-                "name":"Nes, Henry",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "5380":{
-                "district":"15",
-                "name":"Kurtz, William Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -77.47162,

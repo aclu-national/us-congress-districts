@@ -2,18 +2,12 @@
   "id": "nc_113_to_115_10",
   "type": "Feature",
   "properties": {
-    "ALAND":6669407805,
-    "AWATER":101725365,
-    "CD113FP":"10",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3710",
-    "INTPTLAT":"+35.4391869",
-    "INTPTLON":"-081.6293598",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 10",
-    "STATEFP":"37"
+    "district":10,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"nc"
 },
   "bbox": [
     -82.651641,

@@ -1,21 +1,13 @@
 {
-  "id": "ms_45_to_45_01",
+  "id": "ms_45_to_45_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"45",
-    "id":"028045045001",
-    "member":{
-        "45":{
-            "6786":{
-                "district":"1",
-                "name":"Muldrow, Henry Lowndes",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Mississippi"
+    "district":1,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"ms"
 },
   "bbox": [
     -89.24643,

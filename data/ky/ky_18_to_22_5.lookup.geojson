@@ -1,54 +1,13 @@
 {
-  "id": "ky_18_to_22_05",
+  "id": "ky_18_to_22_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"22",
-    "id":"021018022005",
-    "member":{
-        "18":{
-            "4973":{
-                "district":"5",
-                "name":"Johnson, John Telemachus",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "4965":{
-                "district":"5",
-                "name":"Johnson, James",
-                "party":"Jackson"
-            },
-            "6268":{
-                "district":"5",
-                "name":"McHatton, Robert Lytle",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "6268":{
-                "district":"5",
-                "name":"McHatton, Robert Lytle",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "4988":{
-                "district":"5",
-                "name":"Johnson, Richard Mentor",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "4988":{
-                "district":"5",
-                "name":"Johnson, Richard Mentor",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Kentucky"
+    "district":5,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ky"
 },
   "bbox": [
     -84.89757,

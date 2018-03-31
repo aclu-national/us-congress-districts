@@ -2,48 +2,12 @@
   "id": "ca_73_to_77_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"77",
-    "id":"006073077012",
-    "member":{
-        "73":{
-            "4481":{
-                "district":"12",
-                "name":"Hoeppel, John Henry",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "4481":{
-                "district":"12",
-                "name":"Hoeppel, John Henry",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "9687":{
-                "district":"12",
-                "name":"Voorhis, Horace Jerry",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "9687":{
-                "district":"12",
-                "name":"Voorhis, Horace Jerry",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "9687":{
-                "district":"12",
-                "name":"Voorhis, Horace Jerry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"California"
+    "district":12,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ca"
 },
   "bbox": [
     -118.19372,

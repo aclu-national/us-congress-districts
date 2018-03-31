@@ -1,89 +1,13 @@
 {
-  "id": "pa_13_to_17_06",
+  "id": "pa_13_to_17_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"17",
-    "id":"042013017006",
-    "member":{
-        "13":{
-            "1132":{
-                "district":"6",
-                "name":"Brown, Robert",
-                "party":"Republican"
-            },
-            "4811":{
-                "district":"6",
-                "name":"Ingham, Samuel Delucenna",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "4811":{
-                "district":"6",
-                "name":"Ingham, Samuel Delucenna",
-                "party":"Republican"
-            },
-            "8071":{
-                "district":"6",
-                "name":"Ross, John",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "4811":{
-                "district":"6",
-                "name":"Ingham, Samuel Delucenna",
-                "party":"Republican"
-            },
-            "6650":{
-                "district":"6",
-                "name":"Moore, Samuel",
-                "party":"Republican"
-            },
-            "8034":{
-                "district":"6",
-                "name":"Rogers, Thomas Jones",
-                "party":"Republican"
-            },
-            "8071":{
-                "district":"6",
-                "name":"Ross, John",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "6650":{
-                "district":"6",
-                "name":"Moore, Samuel",
-                "party":"Republican"
-            },
-            "8034":{
-                "district":"6",
-                "name":"Rogers, Thomas Jones",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "4811":{
-                "district":"6",
-                "name":"Ingham, Samuel Delucenna",
-                "party":"Republican"
-            },
-            "6650":{
-                "district":"6",
-                "name":"Moore, Samuel",
-                "party":"Republican"
-            },
-            "8034":{
-                "district":"6",
-                "name":"Rogers, Thomas Jones",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"pa"
 },
   "bbox": [
     -75.99735,

@@ -1,49 +1,13 @@
 {
-  "id": "oh_58_to_62_01",
+  "id": "oh_58_to_62_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"62",
-    "id":"039058062001",
-    "member":{
-        "58":{
-            "5770":{
-                "district":"1",
-                "name":"Longworth, Nicholas",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5770":{
-                "district":"1",
-                "name":"Longworth, Nicholas",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5770":{
-                "district":"1",
-                "name":"Longworth, Nicholas",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "5770":{
-                "district":"1",
-                "name":"Longworth, Nicholas",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5770":{
-                "district":"1",
-                "name":"Longworth, Nicholas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Ohio"
+    "district":1,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"oh"
 },
   "bbox": [
     -84.5227,

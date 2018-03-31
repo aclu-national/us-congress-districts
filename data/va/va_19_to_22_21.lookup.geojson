@@ -2,41 +2,12 @@
   "id": "va_19_to_22_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"22",
-    "id":"051019022021",
-    "member":{
-        "19":{
-            "8696":{
-                "district":"21",
-                "name":"Smith, William",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "6097":{
-                "district":"21",
-                "name":"Maxwell, Lewis",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "6097":{
-                "district":"21",
-                "name":"Maxwell, Lewis",
-                "party":"Anti-Jackson"
-            }
-        },
-        "22":{
-            "6097":{
-                "district":"21",
-                "name":"Maxwell, Lewis",
-                "party":"Anti-Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":21,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -82.64474,

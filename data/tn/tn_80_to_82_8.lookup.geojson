@@ -1,35 +1,13 @@
 {
-  "id": "tn_80_to_82_08",
+  "id": "tn_80_to_82_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"82",
-    "id":"047080082008",
-    "member":{
-        "80":{
-            "6826":{
-                "district":"8",
-                "name":"Murray, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "6826":{
-                "district":"8",
-                "name":"Murray, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "6826":{
-                "district":"8",
-                "name":"Murray, Thomas Jefferson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"80",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1947-01-03",
+    "start_session":80,
+    "state":"tn"
 },
   "bbox": [
     -89.64428,

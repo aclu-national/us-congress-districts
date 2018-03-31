@@ -1,77 +1,13 @@
 {
-  "id": "ok_64_to_72_06",
+  "id": "ok_64_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"040064072006",
-    "member":{
-        "64":{
-            "3119":{
-                "district":"6",
-                "name":"Ferris, Scott",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "3119":{
-                "district":"6",
-                "name":"Ferris, Scott",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "3119":{
-                "district":"6",
-                "name":"Ferris, Scott",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "3528":{
-                "district":"6",
-                "name":"Gensman, Lorraine Michael",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "9303":{
-                "district":"6",
-                "name":"Thomas, John William Elmer",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9303":{
-                "district":"6",
-                "name":"Thomas, John William Elmer",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "4970":{
-                "district":"6",
-                "name":"Johnson, Jed Joseph",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "4970":{
-                "district":"6",
-                "name":"Johnson, Jed Joseph",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "4970":{
-                "district":"6",
-                "name":"Johnson, Jed Joseph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Oklahoma"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"ok"
 },
   "bbox": [
     -98.82633,

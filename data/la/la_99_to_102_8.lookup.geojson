@@ -1,47 +1,13 @@
 {
-  "id": "la_99_to_102_08",
+  "id": "la_99_to_102_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"102",
-    "id":"022099102008",
-    "member":{
-        "100":{
-            "15422":{
-                "district":"8",
-                "name":"Holloway, Clyde",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15422":{
-                "district":"8",
-                "name":"Holloway, Clyde",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15422":{
-                "district":"8",
-                "name":"Holloway, Clyde",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "10602":{
-                "district":"8",
-                "name":"Long, Gillis W.",
-                "party":"Democrat"
-            },
-            "15128":{
-                "district":"8",
-                "name":"Long, Cathy",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Louisiana"
+    "district":8,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"la"
 },
   "bbox": [
     -92.98131,

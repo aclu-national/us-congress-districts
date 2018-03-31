@@ -2,41 +2,12 @@
   "id": "ny_49_to_52_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"52",
-    "id":"036049052014",
-    "member":{
-        "49":{
-            "8826":{
-                "district":"14",
-                "name":"Stahlnecker, William Griggs",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "8826":{
-                "district":"14",
-                "name":"Stahlnecker, William Griggs",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "8826":{
-                "district":"14",
-                "name":"Stahlnecker, William Griggs",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "8826":{
-                "district":"14",
-                "name":"Stahlnecker, William Griggs",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":14,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -73.9827,

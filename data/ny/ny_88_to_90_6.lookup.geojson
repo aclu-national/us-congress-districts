@@ -1,35 +1,13 @@
 {
-  "id": "ny_88_to_90_06",
+  "id": "ny_88_to_90_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"90",
-    "id":"036088090006",
-    "member":{
-        "88":{
-            "3967":{
-                "district":"6",
-                "name":"Halpern, Seymour",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "3967":{
-                "district":"6",
-                "name":"Halpern, Seymour",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "3967":{
-                "district":"6",
-                "name":"Halpern, Seymour",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -73.87164,

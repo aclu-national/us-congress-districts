@@ -2,48 +2,12 @@
   "id": "ny_83_to_87_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"87",
-    "id":"036083087015",
-    "member":{
-        "83":{
-            "7749":{
-                "district":"15",
-                "name":"Ray, John Henry",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "7749":{
-                "district":"15",
-                "name":"Ray, John Henry",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "7749":{
-                "district":"15",
-                "name":"Ray, John Henry",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "7749":{
-                "district":"15",
-                "name":"Ray, John Henry",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "7749":{
-                "district":"15",
-                "name":"Ray, John Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

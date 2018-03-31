@@ -1,28 +1,13 @@
 {
-  "id": "ky_88_to_89_03",
+  "id": "ky_88_to_89_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"89",
-    "id":"021088089003",
-    "member":{
-        "88":{
-            "10626":{
-                "district":"3",
-                "name":"Snyder, M. G.",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10724":{
-                "district":"3",
-                "name":"Farnsley, Charles P.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ky"
 },
   "bbox": [
     -85.94854,

@@ -2,34 +2,12 @@
   "id": "pa_90_to_92_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"92",
-    "id":"042090092017",
-    "member":{
-        "90":{
-            "8268":{
-                "district":"17",
-                "name":"Schneebeli, Herman T.",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "8268":{
-                "district":"17",
-                "name":"Schneebeli, Herman T.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "8268":{
-                "district":"17",
-                "name":"Schneebeli, Herman T.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"pa"
 },
   "bbox": [
     -77.5996,

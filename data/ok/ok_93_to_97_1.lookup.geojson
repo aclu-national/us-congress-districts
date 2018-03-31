@@ -1,49 +1,13 @@
 {
-  "id": "ok_93_to_97_01",
+  "id": "ok_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"040093097001",
-    "member":{
-        "93":{
-            "14026":{
-                "district":"1",
-                "name":"Jones, James R.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14026":{
-                "district":"1",
-                "name":"Jones, James R.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14026":{
-                "district":"1",
-                "name":"Jones, James R.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14026":{
-                "district":"1",
-                "name":"Jones, James R.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14026":{
-                "district":"1",
-                "name":"Jones, James R.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Oklahoma"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ok"
 },
   "bbox": [
     -97.03231,

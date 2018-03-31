@@ -1,54 +1,13 @@
 {
-  "id": "wi_53_to_57_07",
+  "id": "wi_53_to_57_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"57",
-    "id":"055053057007",
-    "member":{
-        "53":{
-            "3823":{
-                "district":"7",
-                "name":"Griffin, Michael",
-                "party":"Republican"
-            },
-            "8416":{
-                "district":"7",
-                "name":"Shaw, George Bullen",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "3823":{
-                "district":"7",
-                "name":"Griffin, Michael",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "3823":{
-                "district":"7",
-                "name":"Griffin, Michael",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2988":{
-                "district":"7",
-                "name":"Esch, John Jacob",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2988":{
-                "district":"7",
-                "name":"Esch, John Jacob",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Wisconsin"
+    "district":7,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"wi"
 },
   "bbox": [
     -92.31617,

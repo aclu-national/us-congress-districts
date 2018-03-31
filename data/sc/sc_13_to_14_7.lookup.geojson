@@ -1,28 +1,13 @@
 {
-  "id": "sc_13_to_14_07",
+  "id": "sc_13_to_14_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"14",
-    "id":"045013014007",
-    "member":{
-        "13":{
-            "2813":{
-                "district":"7",
-                "name":"Earle, Elias",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "9217":{
-                "district":"7",
-                "name":"Taylor, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"South Carolina"
+    "district":7,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"sc"
 },
   "bbox": [
     -83.34262,

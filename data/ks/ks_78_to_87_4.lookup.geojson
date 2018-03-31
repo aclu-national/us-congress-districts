@@ -1,84 +1,13 @@
 {
-  "id": "ks_78_to_87_04",
+  "id": "ks_78_to_87_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"87",
-    "id":"020078087004",
-    "member":{
-        "78":{
-            "7799":{
-                "district":"4",
-                "name":"Rees, Edward Herbert",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "7799":{
-                "district":"4",
-                "name":"Rees, Edward Herbert",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "7799":{
-                "district":"4",
-                "name":"Rees, Edward Herbert",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7799":{
-                "district":"4",
-                "name":"Rees, Edward Herbert",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "7799":{
-                "district":"4",
-                "name":"Rees, Edward Herbert",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "7799":{
-                "district":"4",
-                "name":"Rees, Edward Herbert",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "7799":{
-                "district":"4",
-                "name":"Rees, Edward Herbert",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "7799":{
-                "district":"4",
-                "name":"Rees, Edward Herbert",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "7799":{
-                "district":"4",
-                "name":"Rees, Edward Herbert",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "10559":{
-                "district":"4",
-                "name":"Shriver, Garner E.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Kansas"
+    "district":4,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ks"
 },
   "bbox": [
     -97.92543,

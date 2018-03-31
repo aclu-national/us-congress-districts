@@ -2,48 +2,12 @@
   "id": "va_3_to_7_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"7",
-    "id":"051003007011",
-    "member":{
-        "3":{
-            "7199":{
-                "district":"11",
-                "name":"Parker, Josiah",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "7199":{
-                "district":"11",
-                "name":"Parker, Josiah",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "7199":{
-                "district":"11",
-                "name":"Parker, Josiah",
-                "party":"Federalist"
-            }
-        },
-        "6":{
-            "7199":{
-                "district":"11",
-                "name":"Parker, Josiah",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "6905":{
-                "district":"11",
-                "name":"Newton, Thomas, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Virginia"
+    "district":11,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"va"
 },
   "bbox": [
     -76.93094,

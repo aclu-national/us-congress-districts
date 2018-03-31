@@ -1,19 +1,13 @@
 {
-  "id": "wi_113_to_115_01",
+  "id": "wi_113_to_115_1",
   "type": "Feature",
   "properties": {
-    "ALAND":4475186521,
-    "AWATER":2524351258,
-    "CD113FP":"01",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5501",
-    "INTPTLAT":"+42.6952148",
-    "INTPTLON":"-088.0463951",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 1",
-    "STATEFP":"55"
+    "district":1,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"wi"
 },
   "bbox": [
     -89.081034,

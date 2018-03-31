@@ -2,41 +2,12 @@
   "id": "tx_58_to_61_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"61",
-    "id":"048058061012",
-    "member":{
-        "58":{
-            "3596":{
-                "district":"12",
-                "name":"Gillespie, Oscar William",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "3596":{
-                "district":"12",
-                "name":"Gillespie, Oscar William",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "3596":{
-                "district":"12",
-                "name":"Gillespie, Oscar William",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "3596":{
-                "district":"12",
-                "name":"Gillespie, Oscar William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Texas"
+    "district":12,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"tx"
 },
   "bbox": [
     -98.9244,

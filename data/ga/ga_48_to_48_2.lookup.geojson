@@ -1,21 +1,13 @@
 {
-  "id": "ga_48_to_48_02",
+  "id": "ga_48_to_48_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"48",
-    "id":"013048048002",
-    "member":{
-        "48":{
-            "9516":{
-                "district":"2",
-                "name":"Turner, Henry Gray",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Georgia"
+    "district":2,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ga"
 },
   "bbox": [
     -85.14193,

@@ -2,18 +2,12 @@
   "id": "ny_113_to_115_20",
   "type": "Feature",
   "properties": {
-    "ALAND":3189337715,
-    "AWATER":81986737,
-    "CD113FP":"20",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"3620",
-    "INTPTLAT":"+42.7488819",
-    "INTPTLON":"-073.9883663",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 20",
-    "STATEFP":"36"
+    "district":20,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ny"
 },
   "bbox": [
     -74.488844,

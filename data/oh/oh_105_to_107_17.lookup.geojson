@@ -2,34 +2,12 @@
   "id": "oh_105_to_107_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"107",
-    "id":"039105107017",
-    "member":{
-        "105":{
-            "15121":{
-                "district":"17",
-                "name":"Traficant, James A., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "15121":{
-                "district":"17",
-                "name":"Traficant, James A., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "15121":{
-                "district":"17",
-                "name":"Traficant, James A., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"oh"
 },
   "bbox": [
     -81.08729,

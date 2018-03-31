@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"90",
-    "id":"036088090021",
-    "member":{
-        "88":{
-            "4262":{
-                "district":"21",
-                "name":"Healey, James Christopher",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10768":{
-                "district":"21",
-                "name":"Scheuer, James H.",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "10768":{
-                "district":"21",
-                "name":"Scheuer, James H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -73.93341,

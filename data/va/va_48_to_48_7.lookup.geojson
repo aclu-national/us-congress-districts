@@ -1,26 +1,13 @@
 {
-  "id": "va_48_to_48_07",
+  "id": "va_48_to_48_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"48",
-    "id":"051048048007",
-    "member":{
-        "48":{
-            "7028":{
-                "district":"7",
-                "name":"O'Ferrall, Charles",
-                "party":"Democrat"
-            },
-            "7267":{
-                "district":"7",
-                "name":"Paul, John",
-                "party":"Readjuster"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"va"
 },
   "bbox": [
     -80.05606,

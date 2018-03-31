@@ -2,34 +2,12 @@
   "id": "pa_45_to_47_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"47",
-    "id":"042045047017",
-    "member":{
-        "45":{
-            "1451":{
-                "district":"17",
-                "name":"Campbell, Jacob Miller",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "1908":{
-                "district":"17",
-                "name":"Coffroth, Alexander Hamilton",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "1451":{
-                "district":"17",
-                "name":"Campbell, Jacob Miller",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"pa"
 },
   "bbox": [
     -79.41756,

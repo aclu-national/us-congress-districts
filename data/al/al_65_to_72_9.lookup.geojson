@@ -1,70 +1,13 @@
 {
-  "id": "al_65_to_72_09",
+  "id": "al_65_to_72_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"72",
-    "id":"001065072009",
-    "member":{
-        "65":{
-            "4685":{
-                "district":"9",
-                "name":"Huddleston, George",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "4685":{
-                "district":"9",
-                "name":"Huddleston, George",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "4685":{
-                "district":"9",
-                "name":"Huddleston, George",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "4685":{
-                "district":"9",
-                "name":"Huddleston, George",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "4685":{
-                "district":"9",
-                "name":"Huddleston, George",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "4685":{
-                "district":"9",
-                "name":"Huddleston, George",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "4685":{
-                "district":"9",
-                "name":"Huddleston, George",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "4685":{
-                "district":"9",
-                "name":"Huddleston, George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Alabama"
+    "district":9,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"al"
 },
   "bbox": [
     -87.3417,

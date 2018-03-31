@@ -2,60 +2,12 @@
   "id": "ny_73_to_78_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"78",
-    "id":"036073078031",
-    "member":{
-        "73":{
-            "8721":{
-                "district":"31",
-                "name":"Snell, Bertrand Hollis",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "8721":{
-                "district":"31",
-                "name":"Snell, Bertrand Hollis",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "8721":{
-                "district":"31",
-                "name":"Snell, Bertrand Hollis",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "5235":{
-                "district":"31",
-                "name":"Kilburn, Clarence Evans",
-                "party":"Republican"
-            },
-            "7440":{
-                "district":"31",
-                "name":"Pierce, Wallace Edgar",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "5235":{
-                "district":"31",
-                "name":"Kilburn, Clarence Evans",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "5235":{
-                "district":"31",
-                "name":"Kilburn, Clarence Evans",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -75.83996,

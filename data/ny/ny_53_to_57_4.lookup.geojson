@@ -1,49 +1,13 @@
 {
-  "id": "ny_53_to_57_04",
+  "id": "ny_53_to_57_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"57",
-    "id":"036053057004",
-    "member":{
-        "53":{
-            "2037":{
-                "district":"4",
-                "name":"Coombs, William Jerome",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "3159":{
-                "district":"4",
-                "name":"Fischer, Israel Frederick",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "3159":{
-                "district":"4",
-                "name":"Fischer, Israel Frederick",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "1819":{
-                "district":"4",
-                "name":"Clayton, Bertram Tracy",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "4022":{
-                "district":"4",
-                "name":"Hanbury, Harry Alfred",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ny"
 },
   "bbox": [
     -74.04215,

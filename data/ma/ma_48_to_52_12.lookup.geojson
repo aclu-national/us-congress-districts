@@ -2,53 +2,12 @@
   "id": "ma_48_to_52_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"52",
-    "id":"025048052012",
-    "member":{
-        "48":{
-            "7975":{
-                "district":"12",
-                "name":"Robinson, George Dexter",
-                "party":"Republican"
-            },
-            "8001":{
-                "district":"12",
-                "name":"Rockwell, Francis Williams",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "8001":{
-                "district":"12",
-                "name":"Rockwell, Francis Williams",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "8001":{
-                "district":"12",
-                "name":"Rockwell, Francis Williams",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "8001":{
-                "district":"12",
-                "name":"Rockwell, Francis Williams",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "2196":{
-                "district":"12",
-                "name":"Crosby, John Crawford",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ma"
 },
   "bbox": [
     -73.50814,

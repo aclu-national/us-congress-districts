@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"32",
-    "id":"036028032026",
-    "member":{
-        "28":{
-            "2312":{
-                "district":"26",
-                "name":"Dana, Amasa",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "2937":{
-                "district":"26",
-                "name":"Ellsworth, Samuel Stewart",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "5519":{
-                "district":"26",
-                "name":"Lawrence, William Thomas",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "4868":{
-                "district":"26",
-                "name":"Jackson, William Terry",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "9722":{
-                "district":"26",
-                "name":"Walbridge, Henry Sanford",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -77.36711,

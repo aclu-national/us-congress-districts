@@ -2,53 +2,12 @@
   "id": "oh_93_to_97_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"97",
-    "id":"039093097017",
-    "member":{
-        "93":{
-            "10502":{
-                "district":"17",
-                "name":"Ashbrook, John M.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "10502":{
-                "district":"17",
-                "name":"Ashbrook, John M.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "10502":{
-                "district":"17",
-                "name":"Ashbrook, John M.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "10502":{
-                "district":"17",
-                "name":"Ashbrook, John M.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "10502":{
-                "district":"17",
-                "name":"Ashbrook, John M.",
-                "party":"Republican"
-            },
-            "14878":{
-                "district":"17",
-                "name":"Ashbrook, Jean",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Ohio"
+    "district":17,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"oh"
 },
   "bbox": [
     -83.11262,

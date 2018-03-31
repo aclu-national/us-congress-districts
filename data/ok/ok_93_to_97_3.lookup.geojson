@@ -1,49 +1,13 @@
 {
-  "id": "ok_93_to_97_03",
+  "id": "ok_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"040093097003",
-    "member":{
-        "93":{
-            "62":{
-                "district":"3",
-                "name":"Albert, Carl",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "62":{
-                "district":"3",
-                "name":"Albert, Carl",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14462":{
-                "district":"3",
-                "name":"Watkins, Wes",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14462":{
-                "district":"3",
-                "name":"Watkins, Wes",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14462":{
-                "district":"3",
-                "name":"Watkins, Wes",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Oklahoma"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ok"
 },
   "bbox": [
     -98.662,

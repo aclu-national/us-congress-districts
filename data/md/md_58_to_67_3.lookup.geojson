@@ -1,89 +1,13 @@
 {
-  "id": "md_58_to_67_03",
+  "id": "md_58_to_67_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"67",
-    "id":"024058067003",
-    "member":{
-        "58":{
-            "9694":{
-                "district":"3",
-                "name":"Wachter, Frank Charles",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "9694":{
-                "district":"3",
-                "name":"Wachter, Frank Charles",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "10307":{
-                "district":"3",
-                "name":"Wolf, Harry Benjamin",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "5369":{
-                "district":"3",
-                "name":"Kronmiller, John",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5354":{
-                "district":"3",
-                "name":"Konig, George",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "1862":{
-                "district":"3",
-                "name":"Coady, Charles Pearce",
-                "party":"Democrat"
-            },
-            "5354":{
-                "district":"3",
-                "name":"Konig, George",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "1862":{
-                "district":"3",
-                "name":"Coady, Charles Pearce",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "1862":{
-                "district":"3",
-                "name":"Coady, Charles Pearce",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "1862":{
-                "district":"3",
-                "name":"Coady, Charles Pearce",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "4415":{
-                "district":"3",
-                "name":"Hill, John Boynton Philip",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Maryland"
+    "district":3,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"md"
 },
   "bbox": [
     -76.63674,

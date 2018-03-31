@@ -1,84 +1,13 @@
 {
-  "id": "nc_63_to_72_01",
+  "id": "nc_63_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"037063072001",
-    "member":{
-        "63":{
-            "8588":{
-                "district":"1",
-                "name":"Small, John Humphrey",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "8588":{
-                "district":"1",
-                "name":"Small, John Humphrey",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8588":{
-                "district":"1",
-                "name":"Small, John Humphrey",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "8588":{
-                "district":"1",
-                "name":"Small, John Humphrey",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "9813":{
-                "district":"1",
-                "name":"Ward, Hallett Sydney",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "9813":{
-                "district":"1",
-                "name":"Ward, Hallett Sydney",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9844":{
-                "district":"1",
-                "name":"Warren, Lindsay Carter",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "9844":{
-                "district":"1",
-                "name":"Warren, Lindsay Carter",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "9844":{
-                "district":"1",
-                "name":"Warren, Lindsay Carter",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "9844":{
-                "district":"1",
-                "name":"Warren, Lindsay Carter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nc"
 },
   "bbox": [
     -77.7005,

@@ -2,48 +2,12 @@
   "id": "mi_93_to_97_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"97",
-    "id":"026093097011",
-    "member":{
-        "93":{
-            "11045":{
-                "district":"11",
-                "name":"Ruppe, Philip E.",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "11045":{
-                "district":"11",
-                "name":"Ruppe, Philip E.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "11045":{
-                "district":"11",
-                "name":"Ruppe, Philip E.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14618":{
-                "district":"11",
-                "name":"Davis, Robert William",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14618":{
-                "district":"11",
-                "name":"Davis, Robert William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Michigan"
+    "district":11,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mi"
 },
   "bbox": [
     -90.41814,

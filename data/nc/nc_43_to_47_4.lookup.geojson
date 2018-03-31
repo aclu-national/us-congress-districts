@@ -1,49 +1,13 @@
 {
-  "id": "nc_43_to_47_04",
+  "id": "nc_43_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"037043047004",
-    "member":{
-        "43":{
-            "8699":{
-                "district":"4",
-                "name":"Smith, William Alexander",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "2401":{
-                "district":"4",
-                "name":"Davis, Joseph Jonathan",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "2401":{
-                "district":"4",
-                "name":"Davis, Joseph Jonathan",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "2401":{
-                "district":"4",
-                "name":"Davis, Joseph Jonathan",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "2120":{
-                "district":"4",
-                "name":"Cox, William Ruffin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"nc"
 },
   "bbox": [
     -79.5559,

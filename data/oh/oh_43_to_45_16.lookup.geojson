@@ -2,34 +2,12 @@
   "id": "oh_43_to_45_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"45",
-    "id":"039043045016",
-    "member":{
-        "43":{
-            "2320":{
-                "district":"16",
-                "name":"Danford, Lorenzo",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "2320":{
-                "district":"16",
-                "name":"Danford, Lorenzo",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "2320":{
-                "district":"16",
-                "name":"Danford, Lorenzo",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Ohio"
+    "district":16,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"oh"
 },
   "bbox": [
     -81.72861,

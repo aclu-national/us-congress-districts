@@ -1,28 +1,13 @@
 {
-  "id": "ms_41_to_42_01",
+  "id": "ms_41_to_42_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"42",
-    "id":"028041042001",
-    "member":{
-        "41":{
-            "4100":{
-                "district":"1",
-                "name":"Harris, George Emrick",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "4100":{
-                "district":"1",
-                "name":"Harris, George Emrick",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"41",
-    "statename":"Mississippi"
+    "district":1,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1869-03-04",
+    "start_session":41,
+    "state":"ms"
 },
   "bbox": [
     -90.95932,

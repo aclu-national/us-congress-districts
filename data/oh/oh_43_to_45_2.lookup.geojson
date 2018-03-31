@@ -1,35 +1,13 @@
 {
-  "id": "oh_43_to_45_02",
+  "id": "oh_43_to_45_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"45",
-    "id":"039043045002",
-    "member":{
-        "43":{
-            "410":{
-                "district":"2",
-                "name":"Banning, Henry Blackstone",
-                "party":"Liberal Republican"
-            }
-        },
-        "44":{
-            "410":{
-                "district":"2",
-                "name":"Banning, Henry Blackstone",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "410":{
-                "district":"2",
-                "name":"Banning, Henry Blackstone",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

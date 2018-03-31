@@ -2,53 +2,12 @@
   "id": "ny_38_to_42_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"42",
-    "id":"036038042011",
-    "member":{
-        "38":{
-            "10269":{
-                "district":"11",
-                "name":"Winfield, Charles Henry",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "10269":{
-                "district":"11",
-                "name":"Winfield, Charles Henry",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "9643":{
-                "district":"11",
-                "name":"Van Wyck, Charles Henry",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "3790":{
-                "district":"11",
-                "name":"Greene, George Woodward",
-                "party":"Democrat"
-            },
-            "9643":{
-                "district":"11",
-                "name":"Van Wyck, Charles Henry",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "8178":{
-                "district":"11",
-                "name":"St. John, Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":11,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -75.14645,

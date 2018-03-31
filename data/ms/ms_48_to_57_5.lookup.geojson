@@ -1,84 +1,13 @@
 {
-  "id": "ms_48_to_57_05",
+  "id": "ms_48_to_57_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"57",
-    "id":"028048057005",
-    "member":{
-        "48":{
-            "8541":{
-                "district":"5",
-                "name":"Singleton, Otho Robards",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "8541":{
-                "district":"5",
-                "name":"Singleton, Otho Robards",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "162":{
-                "district":"5",
-                "name":"Anderson, Chapman Levy",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "162":{
-                "district":"5",
-                "name":"Anderson, Chapman Levy",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "579":{
-                "district":"5",
-                "name":"Beeman, Joseph Henry",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "10165":{
-                "district":"5",
-                "name":"Williams, John Sharp",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "10165":{
-                "district":"5",
-                "name":"Williams, John Sharp",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "10165":{
-                "district":"5",
-                "name":"Williams, John Sharp",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "10165":{
-                "district":"5",
-                "name":"Williams, John Sharp",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "10165":{
-                "district":"5",
-                "name":"Williams, John Sharp",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Mississippi"
+    "district":5,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ms"
 },
   "bbox": [
     -90.75984,

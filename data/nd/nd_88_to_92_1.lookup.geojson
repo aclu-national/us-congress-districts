@@ -1,54 +1,13 @@
 {
-  "id": "nd_88_to_92_01",
+  "id": "nd_88_to_92_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"92",
-    "id":"038088092001",
-    "member":{
-        "88":{
-            "10542":{
-                "district":"1",
-                "name":"Nygaard, Hjalmar C.",
-                "party":"Republican"
-            },
-            "10569":{
-                "district":"1",
-                "name":"Andrews, Mark",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10569":{
-                "district":"1",
-                "name":"Andrews, Mark",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "10569":{
-                "district":"1",
-                "name":"Andrews, Mark",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "10569":{
-                "district":"1",
-                "name":"Andrews, Mark",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10569":{
-                "district":"1",
-                "name":"Andrews, Mark",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"North Dakota"
+    "district":1,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"nd"
 },
   "bbox": [
     -100.27681,

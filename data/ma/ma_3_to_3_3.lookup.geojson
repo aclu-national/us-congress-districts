@@ -1,26 +1,13 @@
 {
-  "id": "ma_3_to_3_03",
+  "id": "ma_3_to_3_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"3",
-    "id":"025003003003",
-    "member":{
-        "3":{
-            "1906":{
-                "district":"3",
-                "name":"Coffin, Peleg, Jr.",
-                "party":"Pro-Administration"
-            },
-            "886":{
-                "district":"3",
-                "name":"Bourne, Shearjashub",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1795-03-03",
+    "end_session":3,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"ma"
 },
   "bbox": [
     -71.395,

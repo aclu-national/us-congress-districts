@@ -2,20 +2,12 @@
   "id": "ny_48_to_48_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"48",
-    "id":"036048048025",
-    "member":{
-        "48":{
-            "4452":{
-                "district":"25",
-                "name":"Hiscock, Frank",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ny"
 },
   "bbox": [
     -76.49932,

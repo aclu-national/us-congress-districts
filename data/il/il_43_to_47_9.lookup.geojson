@@ -1,49 +1,13 @@
 {
-  "id": "il_43_to_47_09",
+  "id": "il_43_to_47_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"47",
-    "id":"017043047009",
-    "member":{
-        "43":{
-            "461":{
-                "district":"9",
-                "name":"Barrere, Granville",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "10065":{
-                "district":"9",
-                "name":"Whiting, Richard Henry",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "933":{
-                "district":"9",
-                "name":"Boyd, Thomas Alexander",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "933":{
-                "district":"9",
-                "name":"Boyd, Thomas Alexander",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "5643":{
-                "district":"9",
-                "name":"Lewis, John Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":9,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -90.4515,

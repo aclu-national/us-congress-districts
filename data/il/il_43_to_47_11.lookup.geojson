@@ -2,48 +2,12 @@
   "id": "il_43_to_47_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"47",
-    "id":"017043047011",
-    "member":{
-        "43":{
-            "5333":{
-                "district":"11",
-                "name":"Knapp, Robert McCarty",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "10096":{
-                "district":"11",
-                "name":"Wike, Scott",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "5333":{
-                "district":"11",
-                "name":"Knapp, Robert McCarty",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "8540":{
-                "district":"11",
-                "name":"Singleton, James Washington",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "8540":{
-                "district":"11",
-                "name":"Singleton, James Washington",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":11,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -91.51308,

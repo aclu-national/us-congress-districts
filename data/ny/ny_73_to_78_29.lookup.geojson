@@ -2,60 +2,12 @@
   "id": "ny_73_to_78_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"78",
-    "id":"036073078029",
-    "member":{
-        "73":{
-            "7196":{
-                "district":"29",
-                "name":"Parker, James Southworth",
-                "party":"Republican"
-            },
-            "9311":{
-                "district":"29",
-                "name":"Thomas, William David",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "9311":{
-                "district":"29",
-                "name":"Thomas, William David",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "1857":{
-                "district":"29",
-                "name":"Cluett, Ernest Harold",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "1857":{
-                "district":"29",
-                "name":"Cluett, Ernest Harold",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "1857":{
-                "district":"29",
-                "name":"Cluett, Ernest Harold",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "9203":{
-                "district":"29",
-                "name":"Taylor, Dean Park",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -74.21463,

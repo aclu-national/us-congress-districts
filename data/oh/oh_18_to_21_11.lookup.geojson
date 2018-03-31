@@ -2,46 +2,12 @@
   "id": "oh_18_to_21_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"21",
-    "id":"039018021011",
-    "member":{
-        "18":{
-            "10392":{
-                "district":"11",
-                "name":"Wright, John Crafts",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "10392":{
-                "district":"11",
-                "name":"Wright, John Crafts",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "10392":{
-                "district":"11",
-                "name":"Wright, John Crafts",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "3671":{
-                "district":"11",
-                "name":"Goodenow, John Milton",
-                "party":"Jackson"
-            },
-            "5547":{
-                "district":"11",
-                "name":"Leavitt, Humphrey Howe",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Ohio"
+    "district":11,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"oh"
 },
   "bbox": [
     -81.71229,

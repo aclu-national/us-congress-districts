@@ -2,41 +2,12 @@
   "id": "ny_94_to_97_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"97",
-    "id":"036094097025",
-    "member":{
-        "94":{
-            "12013":{
-                "district":"25",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "12013":{
-                "district":"25",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "12013":{
-                "district":"25",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "12013":{
-                "district":"25",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":25,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -74.08628,

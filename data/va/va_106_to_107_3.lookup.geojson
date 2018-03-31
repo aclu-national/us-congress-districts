@@ -1,28 +1,13 @@
 {
-  "id": "va_106_to_107_03",
+  "id": "va_106_to_107_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"107",
-    "id":"051106107003",
-    "member":{
-        "106":{
-            "39307":{
-                "district":"3",
-                "name":"Scott, Robert C.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "39307":{
-                "district":"3",
-                "name":"Scott, Robert C.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"106",
-    "statename":"Virginia"
+    "district":3,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1999-01-06",
+    "start_session":106,
+    "state":"va"
 },
   "bbox": [
     -77.52451,

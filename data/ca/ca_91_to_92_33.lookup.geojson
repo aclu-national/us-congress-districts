@@ -2,27 +2,12 @@
   "id": "ca_91_to_92_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"92",
-    "id":"006091092033",
-    "member":{
-        "91":{
-            "11038":{
-                "district":"33",
-                "name":"Pettis, Jerry L.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11038":{
-                "district":"33",
-                "name":"Pettis, Jerry L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":33,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -117.80289,

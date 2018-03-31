@@ -2,20 +2,12 @@
   "id": "va_25_to_25_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"25",
-    "id":"051025025017",
-    "member":{
-        "25":{
-            "2135":{
-                "district":"17",
-                "name":"Craig, Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"25",
-    "statename":"Virginia"
+    "district":17,
+    "end_date":"1839-03-03",
+    "end_session":25,
+    "start_date":"1837-03-04",
+    "start_session":25,
+    "state":"va"
 },
   "bbox": [
     -80.84246,

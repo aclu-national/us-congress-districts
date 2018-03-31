@@ -2,20 +2,12 @@
   "id": "ny_43_to_43_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"43",
-    "id":"036043043012",
-    "member":{
-        "43":{
-            "8178":{
-                "district":"12",
-                "name":"St. John, Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"New York"
+    "district":12,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ny"
 },
   "bbox": [
     -75.14645,

@@ -1,49 +1,13 @@
 {
-  "id": "vt_28_to_32_02",
+  "id": "vt_28_to_32_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"32",
-    "id":"050028032002",
-    "member":{
-        "28":{
-            "1940":{
-                "district":"2",
-                "name":"Collamer, Jacob",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "1940":{
-                "district":"2",
-                "name":"Collamer, Jacob",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "1940":{
-                "district":"2",
-                "name":"Collamer, Jacob",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "4273":{
-                "district":"2",
-                "name":"Hebard, William",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "4273":{
-                "district":"2",
-                "name":"Hebard, William",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Vermont"
+    "district":2,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"vt"
 },
   "bbox": [
     -72.87455,

@@ -1,49 +1,13 @@
 {
-  "id": "oh_83_to_87_05",
+  "id": "oh_83_to_87_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"87",
-    "id":"039083087005",
-    "member":{
-        "83":{
-            "1839":{
-                "district":"5",
-                "name":"Clevenger, Cliff",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "1839":{
-                "district":"5",
-                "name":"Clevenger, Cliff",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "1839":{
-                "district":"5",
-                "name":"Clevenger, Cliff",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "5495":{
-                "district":"5",
-                "name":"Latta, Delbert Leroy",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "5495":{
-                "district":"5",
-                "name":"Latta, Delbert Leroy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"oh"
 },
   "bbox": [
     -84.80618,

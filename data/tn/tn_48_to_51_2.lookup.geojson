@@ -1,42 +1,13 @@
 {
-  "id": "tn_48_to_51_02",
+  "id": "tn_48_to_51_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"51",
-    "id":"047048051002",
-    "member":{
-        "48":{
-            "4606":{
-                "district":"2",
-                "name":"Houk, Leonidas Campbell",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "4606":{
-                "district":"2",
-                "name":"Houk, Leonidas Campbell",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "4606":{
-                "district":"2",
-                "name":"Houk, Leonidas Campbell",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "4606":{
-                "district":"2",
-                "name":"Houk, Leonidas Campbell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Tennessee"
+    "district":2,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"tn"
 },
   "bbox": [
     -84.91415,

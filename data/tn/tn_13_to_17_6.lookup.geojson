@@ -1,49 +1,13 @@
 {
-  "id": "tn_13_to_17_06",
+  "id": "tn_13_to_17_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"17",
-    "id":"047013017006",
-    "member":{
-        "13":{
-            "4736":{
-                "district":"6",
-                "name":"Humphreys, Parry Wayne",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "7831":{
-                "district":"6",
-                "name":"Reynolds, James B.",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "5990":{
-                "district":"6",
-                "name":"Marr, George Washington Lent",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "1171":{
-                "district":"6",
-                "name":"Bryan, Henry H",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "1171":{
-                "district":"6",
-                "name":"Bryan, Henry H",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Tennessee"
+    "district":6,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"tn"
 },
   "bbox": [
     -88.07053,

@@ -1,105 +1,13 @@
 {
-  "id": "ks_60_to_72_03",
+  "id": "ks_60_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"020060072003",
-    "member":{
-        "60":{
-            "1462":{
-                "district":"3",
-                "name":"Campbell, Philip Pitt",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "1462":{
-                "district":"3",
-                "name":"Campbell, Philip Pitt",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "1462":{
-                "district":"3",
-                "name":"Campbell, Philip Pitt",
-                "party":"Republican"
-            }
-        },
-        "63":{
-            "1462":{
-                "district":"3",
-                "name":"Campbell, Philip Pitt",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "1462":{
-                "district":"3",
-                "name":"Campbell, Philip Pitt",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "1462":{
-                "district":"3",
-                "name":"Campbell, Philip Pitt",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "1462":{
-                "district":"3",
-                "name":"Campbell, Philip Pitt",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "1462":{
-                "district":"3",
-                "name":"Campbell, Philip Pitt",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "8817":{
-                "district":"3",
-                "name":"Sproul, William Henry",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "8817":{
-                "district":"3",
-                "name":"Sproul, William Henry",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "8817":{
-                "district":"3",
-                "name":"Sproul, William Henry",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8817":{
-                "district":"3",
-                "name":"Sproul, William Henry",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "6265":{
-                "district":"3",
-                "name":"McGugin, Harold Clement",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Kansas"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ks"
 },
   "bbox": [
     -97.15327,

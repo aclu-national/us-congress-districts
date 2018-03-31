@@ -1,49 +1,13 @@
 {
-  "id": "la_93_to_97_05",
+  "id": "la_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"022093097005",
-    "member":{
-        "93":{
-            "7228":{
-                "district":"5",
-                "name":"Passman, Otto Ernest",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "7228":{
-                "district":"5",
-                "name":"Passman, Otto Ernest",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14427":{
-                "district":"5",
-                "name":"Huckaby, Jerry",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14427":{
-                "district":"5",
-                "name":"Huckaby, Jerry",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14427":{
-                "district":"5",
-                "name":"Huckaby, Jerry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Louisiana"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"la"
 },
   "bbox": [
     -93.44175,

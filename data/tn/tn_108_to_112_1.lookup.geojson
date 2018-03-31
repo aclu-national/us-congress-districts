@@ -1,49 +1,13 @@
 {
-  "id": "tn_108_to_112_01",
+  "id": "tn_108_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"047108112001",
-    "member":{
-        "108":{
-            "29755":{
-                "district":"1",
-                "name":"Jenkins, William L.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29755":{
-                "district":"1",
-                "name":"Jenkins, William L.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20747":{
-                "district":"1",
-                "name":"Davis, David",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20947":{
-                "district":"1",
-                "name":"Roe, Phil",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20947":{
-                "district":"1",
-                "name":"Roe, Phil",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tn"
 },
   "bbox": [
     -83.78429,

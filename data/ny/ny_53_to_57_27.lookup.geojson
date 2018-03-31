@@ -2,48 +2,12 @@
   "id": "ny_53_to_57_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"57",
-    "id":"036053057027",
-    "member":{
-        "53":{
-            "592":{
-                "district":"27",
-                "name":"Belden, James Jerome",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "7523":{
-                "district":"27",
-                "name":"Poole, Theodore Lewis",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "592":{
-                "district":"27",
-                "name":"Belden, James Jerome",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2731":{
-                "district":"27",
-                "name":"Driscoll, Michael Edward",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2731":{
-                "district":"27",
-                "name":"Driscoll, Michael Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"New York"
+    "district":27,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ny"
 },
   "bbox": [
     -76.49932,

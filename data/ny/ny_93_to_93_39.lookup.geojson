@@ -2,20 +2,12 @@
   "id": "ny_93_to_93_39",
   "type": "Feature",
   "properties": {
-    "district":"39",
-    "endcong":"93",
-    "id":"036093093039",
-    "member":{
-        "93":{
-            "12017":{
-                "district":"39",
-                "name":"Hastings, James F.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"New York"
+    "district":39,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

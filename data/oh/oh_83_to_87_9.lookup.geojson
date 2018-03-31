@@ -1,49 +1,13 @@
 {
-  "id": "oh_83_to_87_09",
+  "id": "oh_83_to_87_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"87",
-    "id":"039083087009",
-    "member":{
-        "83":{
-            "7771":{
-                "district":"9",
-                "name":"Reams, Henry Frazier",
-                "party":"Independent"
-            }
-        },
-        "84":{
-            "267":{
-                "district":"9",
-                "name":"Ashley, Thomas William Ludlow",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "267":{
-                "district":"9",
-                "name":"Ashley, Thomas William Ludlow",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "267":{
-                "district":"9",
-                "name":"Ashley, Thomas William Ludlow",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "267":{
-                "district":"9",
-                "name":"Ashley, Thomas William Ludlow",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Ohio"
+    "district":9,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"oh"
 },
   "bbox": [
     -83.88329,

@@ -1,54 +1,13 @@
 {
-  "id": "pa_13_to_17_04",
+  "id": "pa_13_to_17_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"17",
-    "id":"042013017004",
-    "member":{
-        "13":{
-            "3624":{
-                "district":"4",
-                "name":"Glasgow, Hugh",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "3624":{
-                "district":"4",
-                "name":"Glasgow, Hugh",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "4596":{
-                "district":"4",
-                "name":"Hostetter, Jacob",
-                "party":"Republican"
-            },
-            "8763":{
-                "district":"4",
-                "name":"Spangler, Jacob",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "4596":{
-                "district":"4",
-                "name":"Hostetter, Jacob",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "6563":{
-                "district":"4",
-                "name":"Mitchell, James S.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"pa"
 },
   "bbox": [
     -77.13698,

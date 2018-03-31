@@ -1,94 +1,13 @@
 {
-  "id": "ca_63_to_72_05",
+  "id": "ca_63_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"006063072005",
-    "member":{
-        "63":{
-            "6947":{
-                "district":"5",
-                "name":"Nolan, John Ignatius",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "6947":{
-                "district":"5",
-                "name":"Nolan, John Ignatius",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "6947":{
-                "district":"5",
-                "name":"Nolan, John Ignatius",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6947":{
-                "district":"5",
-                "name":"Nolan, John Ignatius",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6947":{
-                "district":"5",
-                "name":"Nolan, John Ignatius",
-                "party":"Republican"
-            },
-            "6948":{
-                "district":"5",
-                "name":"Nolan, Mae Ella",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "6948":{
-                "district":"5",
-                "name":"Nolan, Mae Ella",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "3200":{
-                "district":"5",
-                "name":"Flaherty, Lawrence James",
-                "party":"Republican"
-            },
-            "9928":{
-                "district":"5",
-                "name":"Welch, Richard Joseph",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9928":{
-                "district":"5",
-                "name":"Welch, Richard Joseph",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9928":{
-                "district":"5",
-                "name":"Welch, Richard Joseph",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9928":{
-                "district":"5",
-                "name":"Welch, Richard Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"California"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ca"
 },
   "bbox": [
     -122.51202,

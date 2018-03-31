@@ -1,49 +1,13 @@
 {
-  "id": "mo_17_to_21_00",
+  "id": "mo_17_to_21_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"21",
-    "id":"029017021000",
-    "member":{
-        "17":{
-            "8302":{
-                "district":"1",
-                "name":"Scott, John",
-                "party":"Republican"
-            }
-        },
-        "18":{
-            "8302":{
-                "district":"1",
-                "name":"Scott, John",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "8302":{
-                "district":"1",
-                "name":"Scott, John",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "511":{
-                "district":"1",
-                "name":"Bates, Edward",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "7381":{
-                "district":"1",
-                "name":"Pettis, Spencer Darwin",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"Missouri"
+    "district":0,
+    "end_date":"1831-03-03",
+    "end_session":21,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"mo"
 },
   "bbox": [
     -94.63237,

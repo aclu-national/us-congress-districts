@@ -2,20 +2,12 @@
   "id": "ga_60_to_60_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"60",
-    "id":"013060060011",
-    "member":{
-        "60":{
-            "979":{
-                "district":"11",
-                "name":"Brantley, William Gordon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Georgia"
+    "district":11,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ga"
 },
   "bbox": [
     -83.74387,

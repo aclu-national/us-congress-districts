@@ -2,34 +2,12 @@
   "id": "il_90_to_92_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"92",
-    "id":"017090092017",
-    "member":{
-        "90":{
-            "226":{
-                "district":"17",
-                "name":"Arends, Leslie Cornelius",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "226":{
-                "district":"17",
-                "name":"Arends, Leslie Cornelius",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "226":{
-                "district":"17",
-                "name":"Arends, Leslie Cornelius",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Illinois"
+    "district":17,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"il"
 },
   "bbox": [
     -89.26941,

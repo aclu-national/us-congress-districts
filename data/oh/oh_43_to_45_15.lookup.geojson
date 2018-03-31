@@ -2,34 +2,12 @@
   "id": "oh_43_to_45_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"45",
-    "id":"039043045015",
-    "member":{
-        "43":{
-            "8807":{
-                "district":"15",
-                "name":"Sprague, William Peter",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "9640":{
-                "district":"15",
-                "name":"Van Vorhes, Nelson Holmes",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "9640":{
-                "district":"15",
-                "name":"Van Vorhes, Nelson Holmes",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"oh"
 },
   "bbox": [
     -82.32389,

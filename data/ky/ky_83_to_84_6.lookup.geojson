@@ -1,28 +1,13 @@
 {
-  "id": "ky_83_to_84_06",
+  "id": "ky_83_to_84_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"84",
-    "id":"021083084006",
-    "member":{
-        "83":{
-            "9882":{
-                "district":"6",
-                "name":"Watts, John Clarence",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "9882":{
-                "district":"6",
-                "name":"Watts, John Clarence",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Kentucky"
+    "district":6,
+    "end_date":"1956-07-27",
+    "end_session":84,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ky"
 },
   "bbox": [
     -85.34593,

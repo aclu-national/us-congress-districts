@@ -1,42 +1,13 @@
 {
-  "id": "al_23_to_26_04",
+  "id": "al_23_to_26_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"26",
-    "id":"001023026004",
-    "member":{
-        "23":{
-            "5635":{
-                "district":"4",
-                "name":"Lewis, Dixon Hall",
-                "party":"Nullifier"
-            }
-        },
-        "24":{
-            "5635":{
-                "district":"4",
-                "name":"Lewis, Dixon Hall",
-                "party":"Nullifier"
-            }
-        },
-        "25":{
-            "5635":{
-                "district":"4",
-                "name":"Lewis, Dixon Hall",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "5635":{
-                "district":"4",
-                "name":"Lewis, Dixon Hall",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Alabama"
+    "district":4,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"al"
 },
   "bbox": [
     -87.42729,

@@ -2,48 +2,12 @@
   "id": "pa_63_to_67_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"67",
-    "id":"042063067027",
-    "member":{
-        "63":{
-            "5453":{
-                "district":"27",
-                "name":"Langham, Jonathan Nichola",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "6962":{
-                "district":"27",
-                "name":"North, Solomon Taylor",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "9034":{
-                "district":"27",
-                "name":"Strong, Nathan Leroy",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "9034":{
-                "district":"27",
-                "name":"Strong, Nathan Leroy",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9034":{
-                "district":"27",
-                "name":"Strong, Nathan Leroy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Pennsylvania"
+    "district":27,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"pa"
 },
   "bbox": [
     -79.70044,

@@ -1,40 +1,13 @@
 {
-  "id": "sc_45_to_47_05",
+  "id": "sc_45_to_47_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"47",
-    "id":"045045047005",
-    "member":{
-        "45":{
-            "8590":{
-                "district":"5",
-                "name":"Smalls, Robert",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "9387":{
-                "district":"5",
-                "name":"Tillman, George Dionysius",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "8590":{
-                "district":"5",
-                "name":"Smalls, Robert",
-                "party":"Republican"
-            },
-            "9387":{
-                "district":"5",
-                "name":"Tillman, George Dionysius",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"South Carolina"
+    "district":5,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"sc"
 },
   "bbox": [
     -82.35722,

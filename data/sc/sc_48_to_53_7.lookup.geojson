@@ -1,66 +1,13 @@
 {
-  "id": "sc_48_to_53_07",
+  "id": "sc_48_to_53_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"53",
-    "id":"045048053007",
-    "member":{
-        "48":{
-            "5886":{
-                "district":"7",
-                "name":"Mackey, Edmund William M.",
-                "party":"Republican"
-            },
-            "8590":{
-                "district":"7",
-                "name":"Smalls, Robert",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "8590":{
-                "district":"7",
-                "name":"Smalls, Robert",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "2918":{
-                "district":"7",
-                "name":"Elliott, William",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "2918":{
-                "district":"7",
-                "name":"Elliott, William",
-                "party":"Democrat"
-            },
-            "6511":{
-                "district":"7",
-                "name":"Miller, Thomas Ezekiel",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "2918":{
-                "district":"7",
-                "name":"Elliott, William",
-                "party":"Democrat"
-            }
-        },
-        "53":{
-            "6818":{
-                "district":"7",
-                "name":"Murray, George Washington",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"South Carolina"
+    "district":7,
+    "end_date":"1895-03-03",
+    "end_session":53,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"sc"
 },
   "bbox": [
     -81.15215,

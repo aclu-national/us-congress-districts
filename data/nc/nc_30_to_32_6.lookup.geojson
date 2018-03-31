@@ -1,35 +1,13 @@
 {
-  "id": "nc_30_to_32_06",
+  "id": "nc_30_to_32_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"32",
-    "id":"037030032006",
-    "member":{
-        "30":{
-            "2324":{
-                "district":"6",
-                "name":"Daniel, John Reeves Jones",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "2324":{
-                "district":"6",
-                "name":"Daniel, John Reeves Jones",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "2324":{
-                "district":"6",
-                "name":"Daniel, John Reeves Jones",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"nc"
 },
   "bbox": [
     -78.99526,

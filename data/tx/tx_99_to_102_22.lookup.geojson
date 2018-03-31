@@ -2,41 +2,12 @@
   "id": "tx_99_to_102_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"102",
-    "id":"048099102022",
-    "member":{
-        "100":{
-            "15094":{
-                "district":"22",
-                "name":"Delay, Thomas D.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15094":{
-                "district":"22",
-                "name":"Delay, Thomas D.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15094":{
-                "district":"22",
-                "name":"Delay, Thomas D.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15094":{
-                "district":"22",
-                "name":"Delay, Thomas D.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Texas"
+    "district":22,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"tx"
 },
   "bbox": [
     -96.08857,

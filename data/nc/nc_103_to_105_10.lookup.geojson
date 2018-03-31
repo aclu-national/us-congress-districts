@@ -2,34 +2,12 @@
   "id": "nc_103_to_105_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"105",
-    "id":"037103105010",
-    "member":{
-        "103":{
-            "15402":{
-                "district":"10",
-                "name":"Ballenger, Cass",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15402":{
-                "district":"10",
-                "name":"Ballenger, Cass",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15402":{
-                "district":"10",
-                "name":"Ballenger, Cass",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"North Carolina"
+    "district":10,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nc"
 },
   "bbox": [
     -82.53648,

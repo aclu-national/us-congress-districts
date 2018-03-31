@@ -2,20 +2,12 @@
   "id": "pa_62_to_62_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"62",
-    "id":"042062062029",
-    "member":{
-        "62":{
-            "7540":{
-                "district":"29",
-                "name":"Porter, Stephen Geyer",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"62",
-    "statename":"Pennsylvania"
+    "district":29,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1911-04-04",
+    "start_session":62,
+    "state":"pa"
 },
   "bbox": [
     -80.2282,

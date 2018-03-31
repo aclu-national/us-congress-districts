@@ -1,49 +1,13 @@
 {
-  "id": "ma_48_to_52_03",
+  "id": "ma_48_to_52_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"52",
-    "id":"025048052003",
-    "member":{
-        "48":{
-            "7733":{
-                "district":"3",
-                "name":"Ranney, Ambrose Arnold",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "7733":{
-                "district":"3",
-                "name":"Ranney, Ambrose Arnold",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "6736":{
-                "district":"3",
-                "name":"Morse, Leopold",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "191":{
-                "district":"3",
-                "name":"Andrew, John Forrester",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "191":{
-                "district":"3",
-                "name":"Andrew, John Forrester",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Massachusetts"
+    "district":3,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ma"
 },
   "bbox": [
     -71.1912,

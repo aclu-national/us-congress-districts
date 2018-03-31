@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_47",
   "type": "Feature",
   "properties": {
-    "ALAND":559945108,
-    "AWATER":1176309149,
-    "CD113FP":"47",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0647",
-    "INTPTLAT":"+33.3676425",
-    "INTPTLON":"-118.4810428",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 47",
-    "STATEFP":"06"
+    "district":47,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -118.678551,

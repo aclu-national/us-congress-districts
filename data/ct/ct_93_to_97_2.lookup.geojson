@@ -1,49 +1,13 @@
 {
-  "id": "ct_93_to_97_02",
+  "id": "ct_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"009093097002",
-    "member":{
-        "93":{
-            "12047":{
-                "district":"2",
-                "name":"Steele, Robert",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14213":{
-                "district":"2",
-                "name":"Dodd, Christopher",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14213":{
-                "district":"2",
-                "name":"Dodd, Christopher",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14213":{
-                "district":"2",
-                "name":"Dodd, Christopher",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14825":{
-                "district":"2",
-                "name":"Gejdenson, Samuel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Connecticut"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ct"
 },
   "bbox": [
     -72.75294,

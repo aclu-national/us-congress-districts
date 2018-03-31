@@ -1,84 +1,13 @@
 {
-  "id": "mi_73_to_82_07",
+  "id": "mi_73_to_82_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"82",
-    "id":"026073082007",
-    "member":{
-        "73":{
-            "10303":{
-                "district":"7",
-                "name":"Wolcott, Jesse Paine",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "10303":{
-                "district":"7",
-                "name":"Wolcott, Jesse Paine",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "10303":{
-                "district":"7",
-                "name":"Wolcott, Jesse Paine",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "10303":{
-                "district":"7",
-                "name":"Wolcott, Jesse Paine",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "10303":{
-                "district":"7",
-                "name":"Wolcott, Jesse Paine",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "10303":{
-                "district":"7",
-                "name":"Wolcott, Jesse Paine",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "10303":{
-                "district":"7",
-                "name":"Wolcott, Jesse Paine",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "10303":{
-                "district":"7",
-                "name":"Wolcott, Jesse Paine",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "10303":{
-                "district":"7",
-                "name":"Wolcott, Jesse Paine",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "10303":{
-                "district":"7",
-                "name":"Wolcott, Jesse Paine",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Michigan"
+    "district":7,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mi"
 },
   "bbox": [
     -83.69959,

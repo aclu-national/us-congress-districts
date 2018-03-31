@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"82",
-    "id":"036079082017",
-    "member":{
-        "79":{
-            "388":{
-                "district":"17",
-                "name":"Baldwin, Joseph Clark",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "2089":{
-                "district":"17",
-                "name":"Coudert, Frederic Rene, Jr.",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "2089":{
-                "district":"17",
-                "name":"Coudert, Frederic Rene, Jr.",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "2089":{
-                "district":"17",
-                "name":"Coudert, Frederic Rene, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -74.00597,

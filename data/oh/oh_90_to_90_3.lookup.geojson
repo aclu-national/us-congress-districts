@@ -1,21 +1,13 @@
 {
-  "id": "oh_90_to_90_03",
+  "id": "oh_90_to_90_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"90",
-    "id":"039090090003",
-    "member":{
-        "90":{
-            "11054":{
-                "district":"3",
-                "name":"Whalen, Charles W., Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"oh"
 },
   "bbox": [
     -84.36855,

@@ -2,55 +2,12 @@
   "id": "ny_73_to_78_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"78",
-    "id":"036073078026",
-    "member":{
-        "73":{
-            "3162":{
-                "district":"26",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "3162":{
-                "district":"26",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "3162":{
-                "district":"26",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "3162":{
-                "district":"26",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "3162":{
-                "district":"26",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "3162":{
-                "district":"26",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -74.7621,

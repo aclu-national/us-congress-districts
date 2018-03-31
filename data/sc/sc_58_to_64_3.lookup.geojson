@@ -1,63 +1,13 @@
 {
-  "id": "sc_58_to_64_03",
+  "id": "sc_58_to_64_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"64",
-    "id":"045058064003",
-    "member":{
-        "58":{
-            "54":{
-                "district":"3",
-                "name":"Aiken, Wyatt",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "54":{
-                "district":"3",
-                "name":"Aiken, Wyatt",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "54":{
-                "district":"3",
-                "name":"Aiken, Wyatt",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "54":{
-                "district":"3",
-                "name":"Aiken, Wyatt",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "54":{
-                "district":"3",
-                "name":"Aiken, Wyatt",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "54":{
-                "district":"3",
-                "name":"Aiken, Wyatt",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "54":{
-                "district":"3",
-                "name":"Aiken, Wyatt",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"sc"
 },
   "bbox": [
     -83.35395,

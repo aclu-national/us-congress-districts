@@ -1,35 +1,13 @@
 {
-  "id": "fl_105_to_107_04",
+  "id": "fl_105_to_107_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"107",
-    "id":"012105107004",
-    "member":{
-        "105":{
-            "29329":{
-                "district":"4",
-                "name":"Fowler, Tillie K.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29329":{
-                "district":"4",
-                "name":"Fowler, Tillie K.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "20111":{
-                "district":"4",
-                "name":"Crenshaw, Ander",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Florida"
+    "district":4,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"fl"
 },
   "bbox": [
     -82.05043,

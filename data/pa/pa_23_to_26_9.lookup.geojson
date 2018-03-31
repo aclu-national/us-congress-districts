@@ -1,47 +1,13 @@
 {
-  "id": "pa_23_to_26_09",
+  "id": "pa_23_to_26_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"26",
-    "id":"042023026009",
-    "member":{
-        "23":{
-            "6783":{
-                "district":"9",
-                "name":"Muhlenberg, Henry Augustus",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "6783":{
-                "district":"9",
-                "name":"Muhlenberg, Henry Augustus",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "5128":{
-                "district":"9",
-                "name":"Keim, George May",
-                "party":"Democrat"
-            },
-            "6783":{
-                "district":"9",
-                "name":"Muhlenberg, Henry Augustus",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "5128":{
-                "district":"9",
-                "name":"Keim, George May",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":9,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -76.44018,

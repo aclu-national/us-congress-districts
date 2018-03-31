@@ -1,49 +1,13 @@
 {
-  "id": "ny_18_to_22_02",
+  "id": "ny_18_to_22_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"22",
-    "id":"036018022002",
-    "member":{
-        "18":{
-            "9545":{
-                "district":"2",
-                "name":"Tyson, Jacob",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "8206":{
-                "district":"2",
-                "name":"Sands, Joshua",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "10327":{
-                "district":"2",
-                "name":"Wood, John Jacob",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2184":{
-                "district":"2",
-                "name":"Crocheron, Jacob",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "663":{
-                "district":"2",
-                "name":"Bergen, John Teunis",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":2,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -74.25609,

@@ -1,54 +1,13 @@
 {
-  "id": "me_23_to_27_03",
+  "id": "me_23_to_27_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"27",
-    "id":"023023027003",
-    "member":{
-        "23":{
-            "5103":{
-                "district":"3",
-                "name":"Kavanagh, Edward",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "343":{
-                "district":"3",
-                "name":"Bailey, Jeremiah",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "1728":{
-                "district":"3",
-                "name":"Cilley, Jonathan",
-                "party":"Democrat"
-            },
-            "7974":{
-                "district":"3",
-                "name":"Robinson, Edward",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "7711":{
-                "district":"3",
-                "name":"Randall, Benjamin",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "7711":{
-                "district":"3",
-                "name":"Randall, Benjamin",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Maine"
+    "district":3,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"me"
 },
   "bbox": [
     -70.04336,

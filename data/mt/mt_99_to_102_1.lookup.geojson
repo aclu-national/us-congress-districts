@@ -1,42 +1,13 @@
 {
-  "id": "mt_99_to_102_01",
+  "id": "mt_99_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"030099102001",
-    "member":{
-        "100":{
-            "14672":{
-                "district":"1",
-                "name":"Williams, Pat",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14672":{
-                "district":"1",
-                "name":"Williams, Pat",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14672":{
-                "district":"1",
-                "name":"Williams, Pat",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14672":{
-                "district":"1",
-                "name":"Williams, Pat",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Montana"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"mt"
 },
   "bbox": [
     -116.049,

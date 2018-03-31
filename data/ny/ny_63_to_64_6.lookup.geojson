@@ -1,28 +1,13 @@
 {
-  "id": "ny_63_to_64_06",
+  "id": "ny_63_to_64_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"64",
-    "id":"036063064006",
-    "member":{
-        "63":{
-            "1399":{
-                "district":"6",
-                "name":"Calder, William Musgrave",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "8092":{
-                "district":"6",
-                "name":"Rowe, Frederick William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -73.99736,

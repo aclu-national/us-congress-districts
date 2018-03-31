@@ -1,28 +1,13 @@
 {
-  "id": "fl_88_to_89_07",
+  "id": "fl_88_to_89_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"89",
-    "id":"012088089007",
-    "member":{
-        "88":{
-            "3929":{
-                "district":"7",
-                "name":"Haley, James Andrew",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "3929":{
-                "district":"7",
-                "name":"Haley, James Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Florida"
+    "district":7,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"fl"
 },
   "bbox": [
     -82.74634,

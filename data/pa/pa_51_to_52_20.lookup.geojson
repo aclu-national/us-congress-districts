@@ -2,27 +2,12 @@
   "id": "pa_51_to_52_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"52",
-    "id":"042051052020",
-    "member":{
-        "51":{
-            "8329":{
-                "district":"20",
-                "name":"Scull, Edward",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "8329":{
-                "district":"20",
-                "name":"Scull, Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":20,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -79.41756,

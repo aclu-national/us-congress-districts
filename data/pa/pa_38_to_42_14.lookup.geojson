@@ -2,48 +2,12 @@
   "id": "pa_38_to_42_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"42",
-    "id":"042038042014",
-    "member":{
-        "38":{
-            "6517":{
-                "district":"14",
-                "name":"Miller, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "6482":{
-                "district":"14",
-                "name":"Miller, George Funston",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "6482":{
-                "district":"14",
-                "name":"Miller, George Funston",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "7147":{
-                "district":"14",
-                "name":"Packer, John Black",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "7147":{
-                "district":"14",
-                "name":"Packer, John Black",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Pennsylvania"
+    "district":14,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"pa"
 },
   "bbox": [
     -77.75179,

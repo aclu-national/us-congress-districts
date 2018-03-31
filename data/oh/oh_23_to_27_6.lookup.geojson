@@ -1,49 +1,13 @@
 {
-  "id": "oh_23_to_27_06",
+  "id": "oh_23_to_27_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"27",
-    "id":"039023027006",
-    "member":{
-        "23":{
-            "9679":{
-                "district":"6",
-                "name":"Vinton, Samuel Finley",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "9679":{
-                "district":"6",
-                "name":"Vinton, Samuel Finley",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "6700":{
-                "district":"6",
-                "name":"Morris, Calvary",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "6700":{
-                "district":"6",
-                "name":"Morris, Calvary",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "6700":{
-                "district":"6",
-                "name":"Morris, Calvary",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Ohio"
+    "district":6,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"oh"
 },
   "bbox": [
     -82.81602,

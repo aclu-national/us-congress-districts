@@ -1,35 +1,13 @@
 {
-  "id": "tn_80_to_82_05",
+  "id": "tn_80_to_82_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"82",
-    "id":"047080082005",
-    "member":{
-        "80":{
-            "3034":{
-                "district":"5",
-                "name":"Evins, Joseph Landon",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "3034":{
-                "district":"5",
-                "name":"Evins, Joseph Landon",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "3034":{
-                "district":"5",
-                "name":"Evins, Joseph Landon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"80",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1947-01-03",
+    "start_session":80,
+    "state":"tn"
 },
   "bbox": [
     -87.23244,

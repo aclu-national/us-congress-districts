@@ -1,54 +1,13 @@
 {
-  "id": "ma_28_to_32_01",
+  "id": "ma_28_to_32_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"32",
-    "id":"025028032001",
-    "member":{
-        "28":{
-            "10284":{
-                "district":"1",
-                "name":"Winthrop, Robert Charles",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "10284":{
-                "district":"1",
-                "name":"Winthrop, Robert Charles",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "10284":{
-                "district":"1",
-                "name":"Winthrop, Robert Charles",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "10284":{
-                "district":"1",
-                "name":"Winthrop, Robert Charles",
-                "party":"Whig"
-            },
-            "2894":{
-                "district":"1",
-                "name":"Eliot, Samuel Atkins",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "220":{
-                "district":"1",
-                "name":"Appleton, William",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Massachusetts"
+    "district":1,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ma"
 },
   "bbox": [
     -71.09552,

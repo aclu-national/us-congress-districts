@@ -1,21 +1,13 @@
 {
-  "id": "nc_90_to_90_03",
+  "id": "nc_90_to_90_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"90",
-    "id":"037090090003",
-    "member":{
-        "90":{
-            "10527":{
-                "district":"3",
-                "name":"Henderson, David N.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"nc"
 },
   "bbox": [
     -79.35999,

@@ -1,28 +1,13 @@
 {
-  "id": "tn_93_to_94_03",
+  "id": "tn_93_to_94_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"94",
-    "id":"047093094003",
-    "member":{
-        "93":{
-            "13005":{
-                "district":"3",
-                "name":"Baker, Lamar",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14251":{
-                "district":"3",
-                "name":"Lloyd, Marilyn (Bouquard)",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Tennessee"
+    "district":3,
+    "end_date":"1976-10-01",
+    "end_session":94,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tn"
 },
   "bbox": [
     -85.87303,

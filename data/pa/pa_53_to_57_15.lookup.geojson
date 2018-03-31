@@ -2,53 +2,12 @@
   "id": "pa_53_to_57_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"57",
-    "id":"042053057015",
-    "member":{
-        "53":{
-            "10395":{
-                "district":"15",
-                "name":"Wright, Myron Benjamin",
-                "party":"Republican"
-            },
-            "5075":{
-                "district":"15",
-                "name":"Jorden, Edwin James",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "1896":{
-                "district":"15",
-                "name":"Codding, James Hodge",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "1896":{
-                "district":"15",
-                "name":"Codding, James Hodge",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "10384":{
-                "district":"15",
-                "name":"Wright, Charles Frederick",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "10384":{
-                "district":"15",
-                "name":"Wright, Charles Frederick",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"pa"
 },
   "bbox": [
     -76.92708,

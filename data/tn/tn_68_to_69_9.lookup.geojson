@@ -1,28 +1,13 @@
 {
-  "id": "tn_68_to_69_09",
+  "id": "tn_68_to_69_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"69",
-    "id":"047068069009",
-    "member":{
-        "68":{
-            "3490":{
-                "district":"9",
-                "name":"Garrett, Finis James",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "3490":{
-                "district":"9",
-                "name":"Garrett, Finis James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Tennessee"
+    "district":9,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"tn"
 },
   "bbox": [
     -90.17926,

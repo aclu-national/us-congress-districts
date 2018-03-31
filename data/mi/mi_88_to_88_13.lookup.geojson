@@ -2,20 +2,12 @@
   "id": "mi_88_to_88_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"88",
-    "id":"026088088013",
-    "member":{
-        "88":{
-            "2594":{
-                "district":"13",
-                "name":"Diggs, Charles Coles Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Michigan"
+    "district":13,
+    "end_date":"1964-10-03",
+    "end_session":88,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mi"
 },
   "bbox": [
     -83.14203,

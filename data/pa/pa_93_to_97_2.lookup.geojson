@@ -1,49 +1,13 @@
 {
-  "id": "pa_93_to_97_02",
+  "id": "pa_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"042093097002",
-    "member":{
-        "93":{
-            "6936":{
-                "district":"2",
-                "name":"Nix, Robert Nelson C., Sr.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "6936":{
-                "district":"2",
-                "name":"Nix, Robert Nelson C., Sr.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "6936":{
-                "district":"2",
-                "name":"Nix, Robert Nelson C., Sr.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14629":{
-                "district":"2",
-                "name":"Gray, William H., III",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14629":{
-                "district":"2",
-                "name":"Gray, William H., III",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"pa"
 },
   "bbox": [
     -75.24787,

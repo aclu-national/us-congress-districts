@@ -2,48 +2,12 @@
   "id": "il_108_to_112_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"112",
-    "id":"017108112011",
-    "member":{
-        "108":{
-            "29516":{
-                "district":"11",
-                "name":"Weller, Gerald C. \"Jerry\"",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29516":{
-                "district":"11",
-                "name":"Weller, Gerald C. \"Jerry\"",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29516":{
-                "district":"11",
-                "name":"Weller, Gerald C. \"Jerry\"",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20913":{
-                "district":"11",
-                "name":"Halvorson, Debbie",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21128":{
-                "district":"11",
-                "name":"Kinzinger, Adam",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Illinois"
+    "district":11,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"il"
 },
   "bbox": [
     -89.85786,

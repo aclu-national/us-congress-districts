@@ -1,21 +1,13 @@
 {
-  "id": "mn_103_to_103_05",
+  "id": "mn_103_to_103_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"103",
-    "id":"027103103005",
-    "member":{
-        "103":{
-            "14656":{
-                "district":"5",
-                "name":"Sabo, Martin Olav",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Minnesota"
+    "district":5,
+    "end_date":"1994-12-01",
+    "end_session":103,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"mn"
 },
   "bbox": [
     -93.4292,

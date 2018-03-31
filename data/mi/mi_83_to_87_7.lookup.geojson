@@ -1,49 +1,13 @@
 {
-  "id": "mi_83_to_87_07",
+  "id": "mi_83_to_87_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"87",
-    "id":"026083087007",
-    "member":{
-        "83":{
-            "10303":{
-                "district":"7",
-                "name":"Wolcott, Jesse Paine",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "10303":{
-                "district":"7",
-                "name":"Wolcott, Jesse Paine",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "6280":{
-                "district":"7",
-                "name":"McIntosh, Robert John",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "7043":{
-                "district":"7",
-                "name":"O'Hara, James G.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "7043":{
-                "district":"7",
-                "name":"O'Hara, James G.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Michigan"
+    "district":7,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mi"
 },
   "bbox": [
     -83.69959,

@@ -1,54 +1,13 @@
 {
-  "id": "ga_93_to_97_05",
+  "id": "ga_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"013093097005",
-    "member":{
-        "93":{
-            "14063":{
-                "district":"5",
-                "name":"Young, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14063":{
-                "district":"5",
-                "name":"Young, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14063":{
-                "district":"5",
-                "name":"Young, Andrew",
-                "party":"Democrat"
-            },
-            "14467":{
-                "district":"5",
-                "name":"Fowler, Wyche, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14467":{
-                "district":"5",
-                "name":"Fowler, Wyche, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14467":{
-                "district":"5",
-                "name":"Fowler, Wyche, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Georgia"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ga"
 },
   "bbox": [
     -84.53353,

@@ -1,49 +1,13 @@
 {
-  "id": "wi_48_to_52_04",
+  "id": "wi_48_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"055048052004",
-    "member":{
-        "48":{
-            "2530":{
-                "district":"4",
-                "name":"Deuster, Peter Victor",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "9634":{
-                "district":"4",
-                "name":"Van Schaick, Isaac Whitbe",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "8629":{
-                "district":"4",
-                "name":"Smith, Henry",
-                "party":"Union"
-            }
-        },
-        "51":{
-            "9634":{
-                "district":"4",
-                "name":"Van Schaick, Isaac Whitbe",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "6568":{
-                "district":"4",
-                "name":"Mitchell, John Lendrum",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Wisconsin"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"wi"
 },
   "bbox": [
     -88.06991,

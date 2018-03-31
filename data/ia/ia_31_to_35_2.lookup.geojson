@@ -1,49 +1,13 @@
 {
-  "id": "ia_31_to_35_02",
+  "id": "ia_31_to_35_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"35",
-    "id":"019031035002",
-    "member":{
-        "31":{
-            "5583":{
-                "district":"2",
-                "name":"Leffler, Shepherd",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "1777":{
-                "district":"2",
-                "name":"Clark, Lincoln",
-                "party":"Democrat"
-            }
-        },
-        "33":{
-            "2019":{
-                "district":"2",
-                "name":"Cook, John Parsons",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "9354":{
-                "district":"2",
-                "name":"Thorington, James",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "2415":{
-                "district":"2",
-                "name":"Davis, Timothy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"31",
-    "statename":"Iowa"
+    "district":2,
+    "end_date":"1859-03-03",
+    "end_session":35,
+    "start_date":"1849-03-05",
+    "start_session":31,
+    "state":"ia"
 },
   "bbox": [
     -96.6397,

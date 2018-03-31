@@ -1,82 +1,13 @@
 {
-  "id": "sc_104_to_112_02",
+  "id": "sc_104_to_112_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"112",
-    "id":"045104112002",
-    "member":{
-        "104":{
-            "13042":{
-                "district":"2",
-                "name":"Spence, Floyd",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "13042":{
-                "district":"2",
-                "name":"Spence, Floyd",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "13042":{
-                "district":"2",
-                "name":"Spence, Floyd",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "13042":{
-                "district":"2",
-                "name":"Spence, Floyd",
-                "party":"Republican"
-            },
-            "20138":{
-                "district":"2",
-                "name":"Wilson, Joe",
-                "party":"Republican"
-            }
-        },
-        "108":{
-            "20138":{
-                "district":"2",
-                "name":"Wilson, Joe",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20138":{
-                "district":"2",
-                "name":"Wilson, Joe",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20138":{
-                "district":"2",
-                "name":"Wilson, Joe",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20138":{
-                "district":"2",
-                "name":"Wilson, Joe",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20138":{
-                "district":"2",
-                "name":"Wilson, Joe",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"South Carolina"
+    "district":2,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"sc"
 },
   "bbox": [
     -81.77244,

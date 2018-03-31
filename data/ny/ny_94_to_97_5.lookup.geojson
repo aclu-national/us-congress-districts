@@ -1,42 +1,13 @@
 {
-  "id": "ny_94_to_97_05",
+  "id": "ny_94_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"036094097005",
-    "member":{
-        "94":{
-            "10638":{
-                "district":"5",
-                "name":"Wydler, John W.",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "10638":{
-                "district":"5",
-                "name":"Wydler, John W.",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "10638":{
-                "district":"5",
-                "name":"Wydler, John W.",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14845":{
-                "district":"5",
-                "name":"McGrath, Raymond J.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -73.7672,

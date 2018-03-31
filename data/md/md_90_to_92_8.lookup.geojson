@@ -1,35 +1,13 @@
 {
-  "id": "md_90_to_92_08",
+  "id": "md_90_to_92_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"92",
-    "id":"024090092008",
-    "member":{
-        "90":{
-            "11019":{
-                "district":"8",
-                "name":"Gude, Gilbert",
-                "party":"Republican"
-            }
-        },
-        "91":{
-            "11019":{
-                "district":"8",
-                "name":"Gude, Gilbert",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11019":{
-                "district":"8",
-                "name":"Gude, Gilbert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Maryland"
+    "district":8,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"md"
 },
   "bbox": [
     -77.52734,

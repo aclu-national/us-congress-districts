@@ -2,41 +2,12 @@
   "id": "ny_49_to_52_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"52",
-    "id":"036049052023",
-    "member":{
-        "49":{
-            "8812":{
-                "district":"23",
-                "name":"Spriggs, John Thomas",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "8453":{
-                "district":"23",
-                "name":"Sherman, James Schoolcraft",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "8453":{
-                "district":"23",
-                "name":"Sherman, James Schoolcraft",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "653":{
-                "district":"23",
-                "name":"Bentley, Henry Wilbur",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -75.88676,

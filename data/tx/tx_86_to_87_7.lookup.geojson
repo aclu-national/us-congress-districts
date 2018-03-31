@@ -1,28 +1,13 @@
 {
-  "id": "tx_86_to_87_07",
+  "id": "tx_86_to_87_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"87",
-    "id":"048086087007",
-    "member":{
-        "86":{
-            "2700":{
-                "district":"7",
-                "name":"Dowdy, John Vernard",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "2700":{
-                "district":"7",
-                "name":"Dowdy, John Vernard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"86",
-    "statename":"Texas"
+    "district":7,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1959-01-07",
+    "start_session":86,
+    "state":"tx"
 },
   "bbox": [
     -96.454,

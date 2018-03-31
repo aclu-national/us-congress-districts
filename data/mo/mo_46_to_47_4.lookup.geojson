@@ -1,28 +1,13 @@
 {
-  "id": "mo_46_to_47_04",
+  "id": "mo_46_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"029046047004",
-    "member":{
-        "46":{
-            "2402":{
-                "district":"4",
-                "name":"Davis, Lowndes Henry",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "2402":{
-                "district":"4",
-                "name":"Davis, Lowndes Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"46",
-    "statename":"Missouri"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1879-03-18",
+    "start_session":46,
+    "state":"mo"
 },
   "bbox": [
     -91.67833,

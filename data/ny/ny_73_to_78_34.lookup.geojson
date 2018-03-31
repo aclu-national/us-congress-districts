@@ -2,65 +2,12 @@
   "id": "ny_73_to_78_34",
   "type": "Feature",
   "properties": {
-    "district":"34",
-    "endcong":"78",
-    "id":"036073078034",
-    "member":{
-        "73":{
-            "1795":{
-                "district":"34",
-                "name":"Clarke, John Davenport",
-                "party":"Republican"
-            },
-            "1797":{
-                "district":"34",
-                "name":"Clarke, Marian Williams",
-                "party":"Republican"
-            }
-        },
-        "74":{
-            "5776":{
-                "district":"34",
-                "name":"Lord, Bert",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "5776":{
-                "district":"34",
-                "name":"Lord, Bert",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "3937":{
-                "district":"34",
-                "name":"Hall, Edwin Arthur",
-                "party":"Republican"
-            },
-            "5776":{
-                "district":"34",
-                "name":"Lord, Bert",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "3937":{
-                "district":"34",
-                "name":"Hall, Edwin Arthur",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "3937":{
-                "district":"34",
-                "name":"Hall, Edwin Arthur",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":34,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -76.13018,

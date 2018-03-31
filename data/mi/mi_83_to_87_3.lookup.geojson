@@ -1,49 +1,13 @@
 {
-  "id": "mi_83_to_87_03",
+  "id": "mi_83_to_87_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"87",
-    "id":"026083087003",
-    "member":{
-        "83":{
-            "8392":{
-                "district":"3",
-                "name":"Shafer, Paul Werntz",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "4935":{
-                "district":"3",
-                "name":"Johansen, August Edgar",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4935":{
-                "district":"3",
-                "name":"Johansen, August Edgar",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "4935":{
-                "district":"3",
-                "name":"Johansen, August Edgar",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "4935":{
-                "district":"3",
-                "name":"Johansen, August Edgar",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Michigan"
+    "district":3,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mi"
 },
   "bbox": [
     -85.76617,

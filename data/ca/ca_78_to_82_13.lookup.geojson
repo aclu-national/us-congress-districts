@@ -2,48 +2,12 @@
   "id": "ca_78_to_82_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"82",
-    "id":"006078082013",
-    "member":{
-        "78":{
-            "7566":{
-                "district":"13",
-                "name":"Poulson, Norris",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4264":{
-                "district":"13",
-                "name":"Healy, Ned R.",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "7566":{
-                "district":"13",
-                "name":"Poulson, Norris",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7566":{
-                "district":"13",
-                "name":"Poulson, Norris",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "7566":{
-                "district":"13",
-                "name":"Poulson, Norris",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":13,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -118.30946,

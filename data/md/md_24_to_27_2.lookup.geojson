@@ -1,42 +1,13 @@
 {
-  "id": "md_24_to_27_02",
+  "id": "md_24_to_27_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"27",
-    "id":"024024027002",
-    "member":{
-        "24":{
-            "7282":{
-                "district":"2",
-                "name":"Pearce, James Alfred",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "7282":{
-                "district":"2",
-                "name":"Pearce, James Alfred",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "9307":{
-                "district":"2",
-                "name":"Thomas, Phillip Francis",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "7282":{
-                "district":"2",
-                "name":"Pearce, James Alfred",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"24",
-    "statename":"Maryland"
+    "district":2,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1835-12-07",
+    "start_session":24,
+    "state":"md"
 },
   "bbox": [
     -76.38376,

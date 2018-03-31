@@ -2,34 +2,12 @@
   "id": "fl_105_to_107_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"107",
-    "id":"012105107023",
-    "member":{
-        "105":{
-            "29337":{
-                "district":"23",
-                "name":"Hastings, Alcee L.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "29337":{
-                "district":"23",
-                "name":"Hastings, Alcee L.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "29337":{
-                "district":"23",
-                "name":"Hastings, Alcee L.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Florida"
+    "district":23,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"fl"
 },
   "bbox": [
     -80.9595,

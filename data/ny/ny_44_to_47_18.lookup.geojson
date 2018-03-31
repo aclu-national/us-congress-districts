@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"47",
-    "id":"036044047018",
-    "member":{
-        "44":{
-            "10133":{
-                "district":"18",
-                "name":"Williams, Andrew",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "10133":{
-                "district":"18",
-                "name":"Williams, Andrew",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "4008":{
-                "district":"18",
-                "name":"Hammond, John",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "4008":{
-                "district":"18",
-                "name":"Hammond, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":18,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -74.28187,

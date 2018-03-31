@@ -1,35 +1,13 @@
 {
-  "id": "ct_25_to_27_06",
+  "id": "ct_25_to_27_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"27",
-    "id":"009025027006",
-    "member":{
-        "25":{
-            "4544":{
-                "district":"6",
-                "name":"Holt, Orrin",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "1054":{
-                "district":"6",
-                "name":"Brockway, John Hall",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "1054":{
-                "district":"6",
-                "name":"Brockway, John Hall",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"25",
-    "statename":"Connecticut"
+    "district":6,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1837-03-04",
+    "start_session":25,
+    "state":"ct"
 },
   "bbox": [
     -72.51833,

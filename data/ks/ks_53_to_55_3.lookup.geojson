@@ -1,35 +1,13 @@
 {
-  "id": "ks_53_to_55_03",
+  "id": "ks_53_to_55_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"55",
-    "id":"020053055003",
-    "member":{
-        "53":{
-            "4689":{
-                "district":"3",
-                "name":"Hudson, Thomas Jefferson",
-                "party":"Populist"
-            }
-        },
-        "54":{
-            "5295":{
-                "district":"3",
-                "name":"Kirkpatrick, Snyder Solom",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "7896":{
-                "district":"3",
-                "name":"Ridgely, Edwin Reed",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Kansas"
+    "district":3,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ks"
 },
   "bbox": [
     -97.15327,

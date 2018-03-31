@@ -1,28 +1,13 @@
 {
-  "id": "va_1_to_2_01",
+  "id": "va_1_to_2_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"2",
-    "id":"051001002001",
-    "member":{
-        "1":{
-            "10006":{
-                "district":"1",
-                "name":"White, Alexander",
-                "party":"Pro-Administration"
-            }
-        },
-        "2":{
-            "10006":{
-                "district":"1",
-                "name":"White, Alexander",
-                "party":"Pro-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Virginia"
+    "district":1,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"va"
 },
   "bbox": [
     -81.75625,

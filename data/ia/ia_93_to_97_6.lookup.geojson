@@ -1,49 +1,13 @@
 {
-  "id": "ia_93_to_97_06",
+  "id": "ia_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"019093097006",
-    "member":{
-        "93":{
-            "11032":{
-                "district":"6",
-                "name":"Mayne, Wiley",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14205":{
-                "district":"6",
-                "name":"Bedell, Berkley",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14205":{
-                "district":"6",
-                "name":"Bedell, Berkley",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14205":{
-                "district":"6",
-                "name":"Bedell, Berkley",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14205":{
-                "district":"6",
-                "name":"Bedell, Berkley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Iowa"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ia"
 },
   "bbox": [
     -96.6397,

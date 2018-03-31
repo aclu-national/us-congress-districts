@@ -2,20 +2,12 @@
   "id": "va_18_to_18_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"18",
-    "id":"051018018016",
-    "member":{
-        "18":{
-            "8894":{
-                "district":"16",
-                "name":"Stephenson, James",
-                "party":"Crawford Federalist"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Virginia"
+    "district":16,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"va"
 },
   "bbox": [
     -79.48717,

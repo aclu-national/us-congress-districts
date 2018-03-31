@@ -1,42 +1,13 @@
 {
-  "id": "pa_109_to_112_01",
+  "id": "pa_109_to_112_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"112",
-    "id":"042109112001",
-    "member":{
-        "109":{
-            "29777":{
-                "district":"1",
-                "name":"Brady, Robert A.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29777":{
-                "district":"1",
-                "name":"Brady, Robert A.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29777":{
-                "district":"1",
-                "name":"Brady, Robert A.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29777":{
-                "district":"1",
-                "name":"Brady, Robert A.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"pa"
 },
   "bbox": [
     -75.41754,

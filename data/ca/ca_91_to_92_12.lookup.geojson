@@ -2,27 +2,12 @@
   "id": "ca_91_to_92_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"92",
-    "id":"006091092012",
-    "member":{
-        "91":{
-            "10631":{
-                "district":"12",
-                "name":"Talcott, Burt L.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "10631":{
-                "district":"12",
-                "name":"Talcott, Burt L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":12,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -122.31768,

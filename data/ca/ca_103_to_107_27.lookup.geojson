@@ -2,48 +2,12 @@
   "id": "ca_103_to_107_27",
   "type": "Feature",
   "properties": {
-    "district":"27",
-    "endcong":"107",
-    "id":"006103107027",
-    "member":{
-        "103":{
-            "14040":{
-                "district":"27",
-                "name":"Moorhead, Carlos",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14040":{
-                "district":"27",
-                "name":"Moorhead, Carlos",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29708":{
-                "district":"27",
-                "name":"Rogan, James E.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29708":{
-                "district":"27",
-                "name":"Rogan, James E.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "20104":{
-                "district":"27",
-                "name":"Schiff, Adam B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"California"
+    "district":27,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"ca"
 },
   "bbox": [
     -118.51044,

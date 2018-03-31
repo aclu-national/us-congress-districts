@@ -1,35 +1,13 @@
 {
-  "id": "mo_43_to_45_07",
+  "id": "mo_43_to_45_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"45",
-    "id":"029043045007",
-    "member":{
-        "43":{
-            "2182":{
-                "district":"7",
-                "name":"Crittenden, Thomas Theodore",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "7409":{
-                "district":"7",
-                "name":"Philips, John Finis",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "2182":{
-                "district":"7",
-                "name":"Crittenden, Thomas Theodore",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Missouri"
+    "district":7,
+    "end_date":"1879-03-03",
+    "end_session":45,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"mo"
 },
   "bbox": [
     -94.12937,

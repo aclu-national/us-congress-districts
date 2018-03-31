@@ -1,49 +1,13 @@
 {
-  "id": "nc_98_to_102_06",
+  "id": "nc_98_to_102_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"102",
-    "id":"037098102006",
-    "member":{
-        "100":{
-            "15092":{
-                "district":"6",
-                "name":"Coble, Howard",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "15092":{
-                "district":"6",
-                "name":"Coble, Howard",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "15092":{
-                "district":"6",
-                "name":"Coble, Howard",
-                "party":"Republican"
-            }
-        },
-        "98":{
-            "15012":{
-                "district":"6",
-                "name":"Britt, Robin",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15092":{
-                "district":"6",
-                "name":"Coble, Howard",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"North Carolina"
+    "district":6,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"nc"
 },
   "bbox": [
     -80.48755,

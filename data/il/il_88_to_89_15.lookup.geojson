@@ -2,27 +2,12 @@
   "id": "il_88_to_89_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"89",
-    "id":"017088089015",
-    "member":{
-        "88":{
-            "10617":{
-                "district":"15",
-                "name":"Reid, Charlotte T.",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10617":{
-                "district":"15",
-                "name":"Reid, Charlotte T.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Illinois"
+    "district":15,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"il"
 },
   "bbox": [
     -89.1672,

@@ -1,28 +1,13 @@
 {
-  "id": "ar_45_to_46_02",
+  "id": "ar_45_to_46_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"46",
-    "id":"005045046002",
-    "member":{
-        "45":{
-            "8572":{
-                "district":"2",
-                "name":"Slemons, William Ferguson",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "8572":{
-                "district":"2",
-                "name":"Slemons, William Ferguson",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Arkansas"
+    "district":2,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"ar"
 },
   "bbox": [
     -94.48587,

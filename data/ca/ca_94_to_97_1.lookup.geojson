@@ -1,42 +1,13 @@
 {
-  "id": "ca_94_to_97_01",
+  "id": "ca_94_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"006094097001",
-    "member":{
-        "94":{
-            "4957":{
-                "district":"1",
-                "name":"Johnson, Harold Terry",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "4957":{
-                "district":"1",
-                "name":"Johnson, Harold Terry",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "4957":{
-                "district":"1",
-                "name":"Johnson, Harold Terry",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14805":{
-                "district":"1",
-                "name":"Chappie, Eugene A",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -123.71917,

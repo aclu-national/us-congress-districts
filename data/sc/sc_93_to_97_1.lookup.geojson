@@ -1,49 +1,13 @@
 {
-  "id": "sc_93_to_97_01",
+  "id": "sc_93_to_97_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"97",
-    "id":"045093097001",
-    "member":{
-        "93":{
-            "13048":{
-                "district":"1",
-                "name":"Davis, Mendel",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "13048":{
-                "district":"1",
-                "name":"Davis, Mendel",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "13048":{
-                "district":"1",
-                "name":"Davis, Mendel",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "13048":{
-                "district":"1",
-                "name":"Davis, Mendel",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14830":{
-                "district":"1",
-                "name":"Hartnett, Thomas F.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"sc"
 },
   "bbox": [
     -81.42752,

@@ -1,42 +1,13 @@
 {
-  "id": "mn_104_to_107_05",
+  "id": "mn_104_to_107_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"107",
-    "id":"027104107005",
-    "member":{
-        "104":{
-            "14656":{
-                "district":"5",
-                "name":"Sabo, Martin Olav",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "14656":{
-                "district":"5",
-                "name":"Sabo, Martin Olav",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "14656":{
-                "district":"5",
-                "name":"Sabo, Martin Olav",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "14656":{
-                "district":"5",
-                "name":"Sabo, Martin Olav",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Minnesota"
+    "district":5,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"mn"
 },
   "bbox": [
     -93.41063,

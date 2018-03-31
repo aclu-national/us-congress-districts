@@ -1,49 +1,13 @@
 {
-  "id": "oh_58_to_62_06",
+  "id": "oh_58_to_62_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"62",
-    "id":"039058062006",
-    "member":{
-        "58":{
-            "4404":{
-                "district":"6",
-                "name":"Hildebrant, Charles Quinn",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "8319":{
-                "district":"6",
-                "name":"Scroggy, Thomas Edmund",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2519":{
-                "district":"6",
-                "name":"Denver, Matthew Rombach",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "2519":{
-                "district":"6",
-                "name":"Denver, Matthew Rombach",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "2519":{
-                "district":"6",
-                "name":"Denver, Matthew Rombach",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Ohio"
+    "district":6,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"oh"
 },
   "bbox": [
     -84.36527,

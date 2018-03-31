@@ -1,21 +1,13 @@
 {
-  "id": "ga_104_to_104_08",
+  "id": "ga_104_to_104_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"104",
-    "id":"013104104008",
-    "member":{
-        "104":{
-            "29512":{
-                "district":"8",
-                "name":"Chambliss, Saxby",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Georgia"
+    "district":8,
+    "end_date":"1996-10-04",
+    "end_session":104,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"ga"
 },
   "bbox": [
     -84.45767,

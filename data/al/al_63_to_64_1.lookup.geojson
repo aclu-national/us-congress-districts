@@ -1,28 +1,13 @@
 {
-  "id": "al_63_to_64_01",
+  "id": "al_63_to_64_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"64",
-    "id":"001063064001",
-    "member":{
-        "63":{
-            "9209":{
-                "district":"1",
-                "name":"Taylor, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3770":{
-                "district":"1",
-                "name":"Gray, Oscar Lee",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Alabama"
+    "district":1,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

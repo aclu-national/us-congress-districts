@@ -2,55 +2,12 @@
   "id": "ny_73_to_78_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"78",
-    "id":"036073078024",
-    "member":{
-        "73":{
-            "3193":{
-                "district":"24",
-                "name":"Fitzpatrick, James Martin",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "3193":{
-                "district":"24",
-                "name":"Fitzpatrick, James Martin",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "3193":{
-                "district":"24",
-                "name":"Fitzpatrick, James Martin",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3193":{
-                "district":"24",
-                "name":"Fitzpatrick, James Martin",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "3193":{
-                "district":"24",
-                "name":"Fitzpatrick, James Martin",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "3193":{
-                "district":"24",
-                "name":"Fitzpatrick, James Martin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":24,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -73.91113,

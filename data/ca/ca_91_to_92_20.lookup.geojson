@@ -2,27 +2,12 @@
   "id": "ca_91_to_92_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"92",
-    "id":"006091092020",
-    "member":{
-        "91":{
-            "8628":{
-                "district":"20",
-                "name":"Smith, H. Allen",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "8628":{
-                "district":"20",
-                "name":"Smith, H. Allen",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"California"
+    "district":20,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ca"
 },
   "bbox": [
     -118.34703,

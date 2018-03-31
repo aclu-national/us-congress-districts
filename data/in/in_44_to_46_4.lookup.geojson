@@ -1,35 +1,13 @@
 {
-  "id": "in_44_to_46_04",
+  "id": "in_44_to_46_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"46",
-    "id":"018044046004",
-    "member":{
-        "44":{
-            "6888":{
-                "district":"4",
-                "name":"New, Jeptha Dudley",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "8380":{
-                "district":"4",
-                "name":"Sexton, Leonidas",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "6888":{
-                "district":"4",
-                "name":"New, Jeptha Dudley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"Indiana"
+    "district":4,
+    "end_date":"1881-03-03",
+    "end_session":46,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"in"
 },
   "bbox": [
     -85.88847,

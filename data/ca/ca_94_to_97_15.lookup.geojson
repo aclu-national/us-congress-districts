@@ -2,41 +2,12 @@
   "id": "ca_94_to_97_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"97",
-    "id":"006094097015",
-    "member":{
-        "94":{
-            "8549":{
-                "district":"15",
-                "name":"Sisk, Bernice Frederic",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "8549":{
-                "district":"15",
-                "name":"Sisk, Bernice Frederic",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14613":{
-                "district":"15",
-                "name":"Coelho, Anthony Lee",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14613":{
-                "district":"15",
-                "name":"Coelho, Anthony Lee",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":15,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -121.24865,

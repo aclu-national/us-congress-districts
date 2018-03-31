@@ -1,19 +1,13 @@
 {
-  "id": "fl_113_to_115_07",
+  "id": "fl_113_to_115_7",
   "type": "Feature",
   "properties": {
-    "ALAND":1330400058,
-    "AWATER":167358814,
-    "CD113FP":"07",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1207",
-    "INTPTLAT":"+28.7257089",
-    "INTPTLON":"-081.2196197",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 7",
-    "STATEFP":"12"
+    "district":7,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"fl"
 },
   "bbox": [
     -81.513619,

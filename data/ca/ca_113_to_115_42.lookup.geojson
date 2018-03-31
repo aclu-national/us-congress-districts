@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_42",
   "type": "Feature",
   "properties": {
-    "ALAND":2424054853,
-    "AWATER":44755449,
-    "CD113FP":"42",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0642",
-    "INTPTLAT":"+33.6750434",
-    "INTPTLON":"-117.2296974",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 42",
-    "STATEFP":"06"
+    "district":42,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -117.676286,

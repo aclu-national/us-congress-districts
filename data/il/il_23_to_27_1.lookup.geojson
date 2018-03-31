@@ -1,54 +1,13 @@
 {
-  "id": "il_23_to_27_01",
+  "id": "il_23_to_27_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"27",
-    "id":"017023027001",
-    "member":{
-        "23":{
-            "7832":{
-                "district":"1",
-                "name":"Reynolds, John",
-                "party":"Jackson"
-            },
-            "8565":{
-                "district":"1",
-                "name":"Slade, Charles",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "7832":{
-                "district":"1",
-                "name":"Reynolds, John",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "8731":{
-                "district":"1",
-                "name":"Snyder, Adam Wilson",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "7832":{
-                "district":"1",
-                "name":"Reynolds, John",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "7832":{
-                "district":"1",
-                "name":"Reynolds, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Illinois"
+    "district":1,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"il"
 },
   "bbox": [
     -90.37408,

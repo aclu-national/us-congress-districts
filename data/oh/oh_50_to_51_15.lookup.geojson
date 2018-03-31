@@ -2,27 +2,12 @@
   "id": "oh_50_to_51_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"51",
-    "id":"039050051015",
-    "member":{
-        "50":{
-            "3855":{
-                "district":"15",
-                "name":"Grosvenor, Charles Henry",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "3855":{
-                "district":"15",
-                "name":"Grosvenor, Charles Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"oh"
 },
   "bbox": [
     -82.32389,

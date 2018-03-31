@@ -1,26 +1,13 @@
 {
-  "id": "ks_48_to_48_02",
+  "id": "ks_48_to_48_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"48",
-    "id":"020048048002",
-    "member":{
-        "48":{
-            "3414":{
-                "district":"2",
-                "name":"Funston, Edward Hogue",
-                "party":"Republican"
-            },
-            "4171":{
-                "district":"2",
-                "name":"Haskell, Dudley Chase",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Kansas"
+    "district":2,
+    "end_date":"1885-03-03",
+    "end_session":48,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ks"
 },
   "bbox": [
     -95.96475,

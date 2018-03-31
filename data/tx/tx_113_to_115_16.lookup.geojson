@@ -2,18 +2,12 @@
   "id": "tx_113_to_115_16",
   "type": "Feature",
   "properties": {
-    "ALAND":1840139990,
-    "AWATER":3787082,
-    "CD113FP":"16",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4816",
-    "INTPTLAT":"+31.9108030",
-    "INTPTLON":"-106.3104239",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 16",
-    "STATEFP":"48"
+    "district":16,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tx"
 },
   "bbox": [
     -106.645646,

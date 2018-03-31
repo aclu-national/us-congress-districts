@@ -1,42 +1,13 @@
 {
-  "id": "ny_79_to_82_01",
+  "id": "ny_79_to_82_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"82",
-    "id":"036079082001",
-    "member":{
-        "79":{
-            "8406":{
-                "district":"1",
-                "name":"Sharp, Edgar Allan",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "5898":{
-                "district":"1",
-                "name":"Macy, William Kingsland",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "5898":{
-                "district":"1",
-                "name":"Macy, William Kingsland",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "3802":{
-                "district":"1",
-                "name":"Greenwood, Ernest",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":1,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -73.62821,

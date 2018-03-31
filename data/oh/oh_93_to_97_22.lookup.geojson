@@ -2,48 +2,12 @@
   "id": "oh_93_to_97_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"97",
-    "id":"039093097022",
-    "member":{
-        "93":{
-            "9623":{
-                "district":"22",
-                "name":"Vanik, Charles Albert",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "9623":{
-                "district":"22",
-                "name":"Vanik, Charles Albert",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "9623":{
-                "district":"22",
-                "name":"Vanik, Charles Albert",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "9623":{
-                "district":"22",
-                "name":"Vanik, Charles Albert",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14818":{
-                "district":"22",
-                "name":"Eckart, Dennis E.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Ohio"
+    "district":22,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"oh"
 },
   "bbox": [
     -81.68565,

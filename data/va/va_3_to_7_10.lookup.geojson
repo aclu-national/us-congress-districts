@@ -2,48 +2,12 @@
   "id": "va_3_to_7_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"7",
-    "id":"051003007010",
-    "member":{
-        "3":{
-            "4127":{
-                "district":"10",
-                "name":"Harrison, Carter Bassett",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "4127":{
-                "district":"10",
-                "name":"Harrison, Carter Bassett",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "4127":{
-                "district":"10",
-                "name":"Harrison, Carter Bassett",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "3763":{
-                "district":"10",
-                "name":"Gray, Edwin",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "3763":{
-                "district":"10",
-                "name":"Gray, Edwin",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"va"
 },
   "bbox": [
     -77.61903,

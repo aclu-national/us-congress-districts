@@ -1,28 +1,13 @@
 {
-  "id": "md_56_to_57_05",
+  "id": "md_56_to_57_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"57",
-    "id":"024056057005",
-    "member":{
-        "56":{
-            "6777":{
-                "district":"5",
-                "name":"Mudd, Sydney Emanuel",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "6777":{
-                "district":"5",
-                "name":"Mudd, Sydney Emanuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Maryland"
+    "district":5,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"md"
 },
   "bbox": [
     -77.27422,

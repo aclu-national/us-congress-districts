@@ -1,52 +1,13 @@
 {
-  "id": "mo_34_to_37_05",
+  "id": "mo_34_to_37_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"37",
-    "id":"029034037005",
-    "member":{
-        "34":{
-            "59":{
-                "district":"5",
-                "name":"Akers, Thomas Peter",
-                "party":"American"
-            },
-            "6495":{
-                "district":"5",
-                "name":"Miller, John Gaines",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "10359":{
-                "district":"5",
-                "name":"Woodson, Samuel Hughes",
-                "party":"American"
-            }
-        },
-        "36":{
-            "10359":{
-                "district":"5",
-                "name":"Woodson, Samuel Hughes",
-                "party":"American"
-            }
-        },
-        "37":{
-            "7618":{
-                "district":"5",
-                "name":"Price, Thomas Lawson",
-                "party":"Democrat"
-            },
-            "7812":{
-                "district":"5",
-                "name":"Reid, John William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Missouri"
+    "district":5,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"mo"
 },
   "bbox": [
     -94.61344,

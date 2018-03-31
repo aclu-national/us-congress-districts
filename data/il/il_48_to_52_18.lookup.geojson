@@ -2,48 +2,12 @@
   "id": "il_48_to_52_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"52",
-    "id":"017048052018",
-    "member":{
-        "48":{
-            "6725":{
-                "district":"18",
-                "name":"Morrison, William Ralls",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "6725":{
-                "district":"18",
-                "name":"Morrison, William Ralls",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "366":{
-                "district":"18",
-                "name":"Baker, Jehu",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "3278":{
-                "district":"18",
-                "name":"Forman, William St. John",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "3278":{
-                "district":"18",
-                "name":"Forman, William St. John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Illinois"
+    "district":18,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"il"
 },
   "bbox": [
     -90.37408,

@@ -1,35 +1,13 @@
 {
-  "id": "tx_83_to_85_02",
+  "id": "tx_83_to_85_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"85",
-    "id":"048083085002",
-    "member":{
-        "83":{
-            "1077":{
-                "district":"2",
-                "name":"Brooks, Jack Bascom",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "1077":{
-                "district":"2",
-                "name":"Brooks, Jack Bascom",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "1077":{
-                "district":"2",
-                "name":"Brooks, Jack Bascom",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Texas"
+    "district":2,
+    "end_date":"1958-08-24",
+    "end_session":85,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"tx"
 },
   "bbox": [
     -95.1659,

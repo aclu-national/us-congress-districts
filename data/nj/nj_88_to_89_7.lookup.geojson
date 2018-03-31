@@ -1,28 +1,13 @@
 {
-  "id": "nj_88_to_89_07",
+  "id": "nj_88_to_89_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"89",
-    "id":"034088089007",
-    "member":{
-        "88":{
-            "10091":{
-                "district":"7",
-                "name":"Widnall, William Beck",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10091":{
-                "district":"7",
-                "name":"Widnall, William Beck",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New Jersey"
+    "district":7,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"nj"
 },
   "bbox": [
     -75.20392,

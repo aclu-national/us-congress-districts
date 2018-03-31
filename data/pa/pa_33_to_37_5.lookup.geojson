@@ -1,49 +1,13 @@
 {
-  "id": "pa_33_to_37_05",
+  "id": "pa_33_to_37_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"37",
-    "id":"042033037005",
-    "member":{
-        "33":{
-            "6365":{
-                "district":"5",
-                "name":"McNair, John",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "1386":{
-                "district":"5",
-                "name":"Cadwalder, John",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "5055":{
-                "district":"5",
-                "name":"Jones, Owen",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "10326":{
-                "district":"5",
-                "name":"Wood, John",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "2418":{
-                "district":"5",
-                "name":"Davis, William Morris",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -75.69679,

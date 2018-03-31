@@ -1,49 +1,13 @@
 {
-  "id": "mo_38_to_42_07",
+  "id": "mo_38_to_42_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"42",
-    "id":"029038042007",
-    "member":{
-        "38":{
-            "5729":{
-                "district":"7",
-                "name":"Loan, Benjamin Franklin",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "39":{
-            "5729":{
-                "district":"7",
-                "name":"Loan, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "5729":{
-                "district":"7",
-                "name":"Loan, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "274":{
-                "district":"7",
-                "name":"Asper, Joel Funk",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "7193":{
-                "district":"7",
-                "name":"Parker, Isaac Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Missouri"
+    "district":7,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"mo"
 },
   "bbox": [
     -95.7747,

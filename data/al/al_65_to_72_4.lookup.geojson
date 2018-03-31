@@ -1,70 +1,13 @@
 {
-  "id": "al_65_to_72_04",
+  "id": "al_65_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"001065072004",
-    "member":{
-        "65":{
-            "757":{
-                "district":"4",
-                "name":"Blackmon, Fred Leonard",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "757":{
-                "district":"4",
-                "name":"Blackmon, Fred Leonard",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "4902":{
-                "district":"4",
-                "name":"Jeffers, Lamar",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "4902":{
-                "district":"4",
-                "name":"Jeffers, Lamar",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "4902":{
-                "district":"4",
-                "name":"Jeffers, Lamar",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "4902":{
-                "district":"4",
-                "name":"Jeffers, Lamar",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "4902":{
-                "district":"4",
-                "name":"Jeffers, Lamar",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "4902":{
-                "district":"4",
-                "name":"Jeffers, Lamar",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Alabama"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"al"
 },
   "bbox": [
     -87.47308,

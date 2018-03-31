@@ -1,42 +1,13 @@
 {
-  "id": "ny_44_to_47_06",
+  "id": "ny_44_to_47_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"47",
-    "id":"036044047006",
-    "member":{
-        "44":{
-            "2118":{
-                "district":"6",
-                "name":"Cox, Samuel Sullivan",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "2118":{
-                "district":"6",
-                "name":"Cox, Samuel Sullivan",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "2118":{
-                "district":"6",
-                "name":"Cox, Samuel Sullivan",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "2118":{
-                "district":"6",
-                "name":"Cox, Samuel Sullivan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -73.99745,

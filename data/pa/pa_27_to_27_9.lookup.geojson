@@ -1,21 +1,13 @@
 {
-  "id": "pa_27_to_27_09",
+  "id": "pa_27_to_27_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"27",
-    "id":"042027027009",
-    "member":{
-        "27":{
-            "5128":{
-                "district":"9",
-                "name":"Keim, George May",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"27",
-    "statename":"Pennsylvania"
+    "district":9,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1841-03-04",
+    "start_session":27,
+    "state":"pa"
 },
   "bbox": [
     -76.44018,

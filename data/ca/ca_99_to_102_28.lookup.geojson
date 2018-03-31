@@ -2,41 +2,12 @@
   "id": "ca_99_to_102_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"102",
-    "id":"006099102028",
-    "member":{
-        "100":{
-            "14620":{
-                "district":"28",
-                "name":"Dixon, Julian Carey",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14620":{
-                "district":"28",
-                "name":"Dixon, Julian Carey",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14620":{
-                "district":"28",
-                "name":"Dixon, Julian Carey",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14620":{
-                "district":"28",
-                "name":"Dixon, Julian Carey",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":28,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -118.4625,

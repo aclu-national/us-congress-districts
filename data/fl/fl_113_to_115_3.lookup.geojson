@@ -1,19 +1,13 @@
 {
-  "id": "fl_113_to_115_03",
+  "id": "fl_113_to_115_3",
   "type": "Feature",
   "properties": {
-    "ALAND":18924247482,
-    "AWATER":1443501703,
-    "CD113FP":"03",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1203",
-    "INTPTLAT":"+29.8346239",
-    "INTPTLON":"-082.7358289",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 3",
-    "STATEFP":"12"
+    "district":3,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"fl"
 },
   "bbox": [
     -83.49771,

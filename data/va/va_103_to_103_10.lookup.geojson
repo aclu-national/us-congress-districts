@@ -2,20 +2,12 @@
   "id": "va_103_to_103_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"103",
-    "id":"051103103010",
-    "member":{
-        "103":{
-            "14869":{
-                "district":"10",
-                "name":"Wolf, Frank R.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"1994-12-01",
+    "end_session":103,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"va"
 },
   "bbox": [
     -78.86953,

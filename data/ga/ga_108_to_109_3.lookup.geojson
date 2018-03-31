@@ -1,28 +1,13 @@
 {
-  "id": "ga_108_to_109_03",
+  "id": "ga_108_to_109_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"109",
-    "id":"013108109003",
-    "member":{
-        "108":{
-            "20317":{
-                "district":"3",
-                "name":"Marshall, Jim",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20317":{
-                "district":"3",
-                "name":"Marshall, Jim",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Georgia"
+    "district":3,
+    "end_date":"2006-12-09",
+    "end_session":109,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ga"
 },
   "bbox": [
     -84.65892,

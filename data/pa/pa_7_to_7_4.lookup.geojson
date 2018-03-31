@@ -1,26 +1,13 @@
 {
-  "id": "pa_7_to_7_04",
+  "id": "pa_7_to_7_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"7",
-    "id":"042007007004",
-    "member":{
-        "7":{
-            "1132":{
-                "district":"4",
-                "name":"Brown, Robert",
-                "party":"Republican"
-            },
-            "9621":{
-                "district":"4",
-                "name":"Van Horne, Isaac",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"7",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1801-03-04",
+    "start_session":7,
+    "state":"pa"
 },
   "bbox": [
     -76.16615,

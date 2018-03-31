@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"37",
-    "id":"042033037018",
-    "member":{
-        "33":{
-            "6201":{
-                "district":"18",
-                "name":"McCulloch, John",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "2849":{
-                "district":"18",
-                "name":"Edie, John Rufus",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "2849":{
-                "district":"18",
-                "name":"Edie, John Rufus",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "770":{
-                "district":"18",
-                "name":"Blair, Samuel Steel",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "770":{
-                "district":"18",
-                "name":"Blair, Samuel Steel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -79.41756,

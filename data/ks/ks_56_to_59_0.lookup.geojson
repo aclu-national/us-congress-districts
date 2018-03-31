@@ -1,42 +1,13 @@
 {
-  "id": "ks_56_to_59_00",
+  "id": "ks_56_to_59_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"59",
-    "id":"020056059000",
-    "member":{
-        "56":{
-            "353":{
-                "district":"99",
-                "name":"Bailey, Willis Joshua",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "8293":{
-                "district":"99",
-                "name":"Scott, Charles Frederick",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "8293":{
-                "district":"99",
-                "name":"Scott, Charles Frederick",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "8293":{
-                "district":"99",
-                "name":"Scott, Charles Frederick",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"56",
-    "statename":"Kansas"
+    "district":0,
+    "end_date":"1907-03-03",
+    "end_session":59,
+    "start_date":"1899-12-04",
+    "start_session":56,
+    "state":"ks"
 },
   "bbox": [
     -102.05177,

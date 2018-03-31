@@ -2,20 +2,12 @@
   "id": "ny_91_to_91_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"91",
-    "id":"036091091030",
-    "member":{
-        "91":{
-            "10530":{
-                "district":"30",
-                "name":"King, Carleton J.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New York"
+    "district":30,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ny"
 },
   "bbox": [
     -74.86771,

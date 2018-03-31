@@ -2,34 +2,12 @@
   "id": "pa_48_to_50_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"50",
-    "id":"042048050021",
-    "member":{
-        "48":{
-            "940":{
-                "district":"21",
-                "name":"Boyle, Charles Edmund",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "940":{
-                "district":"21",
-                "name":"Boyle, Charles Edmund",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "6205":{
-                "district":"21",
-                "name":"McCullogh, Welty",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":21,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -80.51949,

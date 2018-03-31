@@ -2,83 +2,12 @@
   "id": "ma_78_to_87_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"87",
-    "id":"025078087012",
-    "member":{
-        "78":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "6177":{
-                "district":"12",
-                "name":"McCormack, John William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ma"
 },
   "bbox": [
     -71.12009,

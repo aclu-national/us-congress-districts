@@ -1,42 +1,13 @@
 {
-  "id": "ky_48_to_51_03",
+  "id": "ky_48_to_51_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"51",
-    "id":"021048051003",
-    "member":{
-        "48":{
-            "3968":{
-                "district":"3",
-                "name":"Halsell, John Edward",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "3968":{
-                "district":"3",
-                "name":"Halsell, John Edward",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "4760":{
-                "district":"3",
-                "name":"Hunter, Whiteside Godfrey",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "3677":{
-                "district":"3",
-                "name":"Goodnight, Isaac Herschel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"ky"
 },
   "bbox": [
     -87.38886,

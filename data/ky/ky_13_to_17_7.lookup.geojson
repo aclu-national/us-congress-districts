@@ -1,49 +1,13 @@
 {
-  "id": "ky_13_to_17_07",
+  "id": "ky_13_to_17_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"17",
-    "id":"021013017007",
-    "member":{
-        "13":{
-            "6290":{
-                "district":"7",
-                "name":"McKee, Samuel",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "6290":{
-                "district":"7",
-                "name":"McKee, Samuel",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "7962":{
-                "district":"7",
-                "name":"Robertson, George",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "7962":{
-                "district":"7",
-                "name":"Robertson, George",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "8656":{
-                "district":"7",
-                "name":"Smith, John Speed",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Kentucky"
+    "district":7,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ky"
 },
   "bbox": [
     -85.03966,

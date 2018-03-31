@@ -1,21 +1,13 @@
 {
-  "id": "tx_93_to_93_08",
+  "id": "tx_93_to_93_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"93",
-    "id":"048093093008",
-    "member":{
-        "93":{
-            "11013":{
-                "district":"8",
-                "name":"Eckhardt, Bob",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Texas"
+    "district":8,
+    "end_date":"1974-12-20",
+    "end_session":93,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"tx"
 },
   "bbox": [
     -95.53404,

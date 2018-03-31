@@ -1,49 +1,13 @@
 {
-  "id": "nc_43_to_47_08",
+  "id": "nc_43_to_47_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"47",
-    "id":"037043047008",
-    "member":{
-        "43":{
-            "9599":{
-                "district":"8",
-                "name":"Vance, Robert Brank",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "9599":{
-                "district":"8",
-                "name":"Vance, Robert Brank",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "9599":{
-                "district":"8",
-                "name":"Vance, Robert Brank",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "9599":{
-                "district":"8",
-                "name":"Vance, Robert Brank",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "9599":{
-                "district":"8",
-                "name":"Vance, Robert Brank",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"North Carolina"
+    "district":8,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"nc"
 },
   "bbox": [
     -84.32187,

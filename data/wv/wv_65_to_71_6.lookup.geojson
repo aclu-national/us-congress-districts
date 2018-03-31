@@ -1,63 +1,13 @@
 {
-  "id": "wv_65_to_71_06",
+  "id": "wv_65_to_71_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"71",
-    "id":"054065071006",
-    "member":{
-        "65":{
-            "5708":{
-                "district":"6",
-                "name":"Littlepage, Adam Brown",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "2834":{
-                "district":"6",
-                "name":"Echols, Leonard Sidney",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "2834":{
-                "district":"6",
-                "name":"Echols, Leonard Sidney",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "9213":{
-                "district":"6",
-                "name":"Taylor, James Alfred",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "9213":{
-                "district":"6",
-                "name":"Taylor, James Alfred",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "2964":{
-                "district":"6",
-                "name":"England, Edward Theodore",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "8660":{
-                "district":"6",
-                "name":"Smith, Joseph Luther",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"West Virginia"
+    "district":6,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"wv"
 },
   "bbox": [
     -81.98035,

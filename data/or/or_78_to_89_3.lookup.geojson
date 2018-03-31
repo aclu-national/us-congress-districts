@@ -1,98 +1,13 @@
 {
-  "id": "or_78_to_89_03",
+  "id": "or_78_to_89_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"89",
-    "id":"041078089003",
-    "member":{
-        "78":{
-            "207":{
-                "district":"3",
-                "name":"Angell, Homer Daniel",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "207":{
-                "district":"3",
-                "name":"Angell, Homer Daniel",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "207":{
-                "district":"3",
-                "name":"Angell, Homer Daniel",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "207":{
-                "district":"3",
-                "name":"Angell, Homer Daniel",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "207":{
-                "district":"3",
-                "name":"Angell, Homer Daniel",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "207":{
-                "district":"3",
-                "name":"Angell, Homer Daniel",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "3775":{
-                "district":"3",
-                "name":"Green, Edith",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "3775":{
-                "district":"3",
-                "name":"Green, Edith",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "3775":{
-                "district":"3",
-                "name":"Green, Edith",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "3775":{
-                "district":"3",
-                "name":"Green, Edith",
-                "party":"Democrat"
-            }
-        },
-        "88":{
-            "3775":{
-                "district":"3",
-                "name":"Green, Edith",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "3775":{
-                "district":"3",
-                "name":"Green, Edith",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Oregon"
+    "district":3,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"or"
 },
   "bbox": [
     -122.92915,

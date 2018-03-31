@@ -2,20 +2,12 @@
   "id": "pa_43_to_43_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"43",
-    "id":"042043043018",
-    "member":{
-        "43":{
-            "8076":{
-                "district":"18",
-                "name":"Ross, Sobieski",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"1875-03-03",
+    "end_session":43,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"pa"
 },
   "bbox": [
     -78.37668,

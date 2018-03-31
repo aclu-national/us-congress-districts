@@ -1,49 +1,13 @@
 {
-  "id": "mo_53_to_57_01",
+  "id": "mo_53_to_57_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"57",
-    "id":"029053057001",
-    "member":{
-        "53":{
-            "4188":{
-                "district":"1",
-                "name":"Hatch, William Henry",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "1755":{
-                "district":"1",
-                "name":"Clark, Charles Nelson",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "5727":{
-                "district":"1",
-                "name":"Lloyd, James Tilghman",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "5727":{
-                "district":"1",
-                "name":"Lloyd, James Tilghman",
-                "party":"Democrat"
-            }
-        },
-        "57":{
-            "5727":{
-                "district":"1",
-                "name":"Lloyd, James Tilghman",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Missouri"
+    "district":1,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mo"
 },
   "bbox": [
     -93.37521,

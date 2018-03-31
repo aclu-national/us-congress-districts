@@ -1,49 +1,13 @@
 {
-  "id": "in_23_to_27_04",
+  "id": "in_23_to_27_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"27",
-    "id":"018023027004",
-    "member":{
-        "23":{
-            "5439":{
-                "district":"4",
-                "name":"Lane, Amos",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "5439":{
-                "district":"4",
-                "name":"Lane, Amos",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "2772":{
-                "district":"4",
-                "name":"Dunn, George Hedford",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "8687":{
-                "district":"4",
-                "name":"Smith, Thomas",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "2154":{
-                "district":"4",
-                "name":"Cravens, James Harrison",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Indiana"
+    "district":4,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"in"
 },
   "bbox": [
     -85.68745,

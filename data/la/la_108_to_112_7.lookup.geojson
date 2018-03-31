@@ -1,49 +1,13 @@
 {
-  "id": "la_108_to_112_07",
+  "id": "la_108_to_112_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"112",
-    "id":"022108112007",
-    "member":{
-        "108":{
-            "29727":{
-                "district":"7",
-                "name":"John, Christopher",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "20514":{
-                "district":"7",
-                "name":"Boustany, Charles Jr.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20514":{
-                "district":"7",
-                "name":"Boustany, Charles Jr.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20514":{
-                "district":"7",
-                "name":"Boustany, Charles Jr.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20514":{
-                "district":"7",
-                "name":"Boustany Jr., Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Louisiana"
+    "district":7,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"la"
 },
   "bbox": [
     -93.92921,

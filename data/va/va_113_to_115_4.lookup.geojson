@@ -1,19 +1,13 @@
 {
-  "id": "va_113_to_115_04",
+  "id": "va_113_to_115_4",
   "type": "Feature",
   "properties": {
-    "ALAND":11163981808,
-    "AWATER":180206530,
-    "CD113FP":"04",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5104",
-    "INTPTLAT":"+36.9745621",
-    "INTPTLON":"-077.3068003",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 4",
-    "STATEFP":"51"
+    "district":4,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"va"
 },
   "bbox": [
     -78.240748,

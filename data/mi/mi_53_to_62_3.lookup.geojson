@@ -1,84 +1,13 @@
 {
-  "id": "mi_53_to_62_03",
+  "id": "mi_53_to_62_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"62",
-    "id":"026053062003",
-    "member":{
-        "53":{
-            "1310":{
-                "district":"3",
-                "name":"Burrows, Julius Caesar",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "6536":{
-                "district":"3",
-                "name":"Milnes, Alfred",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "9403":{
-                "district":"3",
-                "name":"Todd, Albert May",
-                "party":"Democrat"
-            }
-        },
-        "56":{
-            "3472":{
-                "district":"3",
-                "name":"Gardner, Washington",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "3472":{
-                "district":"3",
-                "name":"Gardner, Washington",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "3472":{
-                "district":"3",
-                "name":"Gardner, Washington",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "3472":{
-                "district":"3",
-                "name":"Gardner, Washington",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3472":{
-                "district":"3",
-                "name":"Gardner, Washington",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3472":{
-                "district":"3",
-                "name":"Gardner, Washington",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "8654":{
-                "district":"3",
-                "name":"Smith, John M. C.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Michigan"
+    "district":3,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mi"
 },
   "bbox": [
     -85.76617,

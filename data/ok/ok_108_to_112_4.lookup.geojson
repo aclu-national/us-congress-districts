@@ -1,49 +1,13 @@
 {
-  "id": "ok_108_to_112_04",
+  "id": "ok_108_to_112_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"112",
-    "id":"040108112004",
-    "member":{
-        "108":{
-            "20344":{
-                "district":"4",
-                "name":"Cole, Tom",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20344":{
-                "district":"4",
-                "name":"Cole, Tom",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20344":{
-                "district":"4",
-                "name":"Cole, Tom",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20344":{
-                "district":"4",
-                "name":"Cole, Tom",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20344":{
-                "district":"4",
-                "name":"Cole, Tom",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Oklahoma"
+    "district":4,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ok"
 },
   "bbox": [
     -99.23806,

@@ -1,26 +1,13 @@
 {
-  "id": "ar_40_to_40_02",
+  "id": "ar_40_to_40_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"40",
-    "id":"005040040002",
-    "member":{
-        "40":{
-            "2912":{
-                "district":"2",
-                "name":"Elliott, James Thomas",
-                "party":"Republican"
-            },
-            "4443":{
-                "district":"2",
-                "name":"Hinds, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"Arkansas"
+    "district":2,
+    "end_date":"1869-03-03",
+    "end_session":40,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"ar"
 },
   "bbox": [
     -94.04345,

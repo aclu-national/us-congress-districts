@@ -1,52 +1,13 @@
 {
-  "id": "pa_58_to_61_02",
+  "id": "pa_58_to_61_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"61",
-    "id":"042058061002",
-    "member":{
-        "58":{
-            "36":{
-                "district":"2",
-                "name":"Adams, Robert Jr.",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "36":{
-                "district":"2",
-                "name":"Adams, Robert Jr.",
-                "party":"Republican"
-            },
-            "7827":{
-                "district":"2",
-                "name":"Reyburn, John Edgar",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2017":{
-                "district":"2",
-                "name":"Cook, Joel",
-                "party":"Republican"
-            },
-            "7827":{
-                "district":"2",
-                "name":"Reyburn, John Edgar",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2017":{
-                "district":"2",
-                "name":"Cook, Joel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"pa"
 },
   "bbox": [
     -75.19222,

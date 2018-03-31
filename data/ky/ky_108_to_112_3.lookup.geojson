@@ -1,49 +1,13 @@
 {
-  "id": "ky_108_to_112_03",
+  "id": "ky_108_to_112_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"112",
-    "id":"021108112003",
-    "member":{
-        "108":{
-            "29725":{
-                "district":"3",
-                "name":"Northup, Anne M.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29725":{
-                "district":"3",
-                "name":"Northup, Anne M.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20723":{
-                "district":"3",
-                "name":"Yarmuth, John A.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20723":{
-                "district":"3",
-                "name":"Yarmuth, John A.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20723":{
-                "district":"3",
-                "name":"Yarmuth, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Kentucky"
+    "district":3,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ky"
 },
   "bbox": [
     -85.91524,

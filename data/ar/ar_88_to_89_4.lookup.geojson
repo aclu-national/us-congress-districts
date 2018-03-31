@@ -1,33 +1,13 @@
 {
-  "id": "ar_88_to_89_04",
+  "id": "ar_88_to_89_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"89",
-    "id":"005088089004",
-    "member":{
-        "88":{
-            "4110":{
-                "district":"4",
-                "name":"Harris, Oren",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10791":{
-                "district":"4",
-                "name":"Pryor, David",
-                "party":"Democrat"
-            },
-            "4110":{
-                "district":"4",
-                "name":"Harris, Oren",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Arkansas"
+    "district":4,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ar"
 },
   "bbox": [
     -94.48587,

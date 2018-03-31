@@ -2,41 +2,12 @@
   "id": "tx_58_to_61_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"61",
-    "id":"048058061016",
-    "member":{
-        "58":{
-            "8705":{
-                "district":"16",
-                "name":"Smith, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "8705":{
-                "district":"16",
-                "name":"Smith, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "8705":{
-                "district":"16",
-                "name":"Smith, William Robert",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "8705":{
-                "district":"16",
-                "name":"Smith, William Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Texas"
+    "district":16,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"tx"
 },
   "bbox": [
     -106.64565,

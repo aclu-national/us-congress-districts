@@ -1,49 +1,13 @@
 {
-  "id": "nj_38_to_42_05",
+  "id": "nj_38_to_42_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"42",
-    "id":"034038042005",
-    "member":{
-        "38":{
-            "7357":{
-                "district":"5",
-                "name":"Perry, Nehemiah",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "10386":{
-                "district":"5",
-                "name":"Wright, Edwin Ruthvin Vincent",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "3969":{
-                "district":"5",
-                "name":"Halsey, George Armstrong",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "1838":{
-                "district":"5",
-                "name":"Cleveland, Orestes",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "3969":{
-                "district":"5",
-                "name":"Halsey, George Armstrong",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New Jersey"
+    "district":5,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"nj"
 },
   "bbox": [
     -74.2162,

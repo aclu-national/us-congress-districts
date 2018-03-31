@@ -1,89 +1,13 @@
 {
-  "id": "in_63_to_72_06",
+  "id": "in_63_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"018063072006",
-    "member":{
-        "63":{
-            "3764":{
-                "district":"6",
-                "name":"Gray, Finly Hutchinson",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "3764":{
-                "district":"6",
-                "name":"Gray, Finly Hutchinson",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "1968":{
-                "district":"6",
-                "name":"Comstock, Daniel Webster",
-                "party":"Republican"
-            },
-            "2916":{
-                "district":"6",
-                "name":"Elliott, Richard Nash",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "2916":{
-                "district":"6",
-                "name":"Elliott, Richard Nash",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "2916":{
-                "district":"6",
-                "name":"Elliott, Richard Nash",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "2916":{
-                "district":"6",
-                "name":"Elliott, Richard Nash",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "2916":{
-                "district":"6",
-                "name":"Elliott, Richard Nash",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "2916":{
-                "district":"6",
-                "name":"Elliott, Richard Nash",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2916":{
-                "district":"6",
-                "name":"Elliott, Richard Nash",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5479":{
-                "district":"6",
-                "name":"Larrabee, William Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Indiana"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"in"
 },
   "bbox": [
     -85.95398,

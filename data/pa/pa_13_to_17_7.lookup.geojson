@@ -1,64 +1,13 @@
 {
-  "id": "pa_13_to_17_07",
+  "id": "pa_13_to_17_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"17",
-    "id":"042013017007",
-    "member":{
-        "13":{
-            "4789":{
-                "district":"7",
-                "name":"Hyneman, John M.",
-                "party":"Republican"
-            },
-            "9550":{
-                "district":"7",
-                "name":"Udree, Daniel",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "4394":{
-                "district":"7",
-                "name":"Hiester, Joseph",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "4394":{
-                "district":"7",
-                "name":"Hiester, Joseph",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "4394":{
-                "district":"7",
-                "name":"Hiester, Joseph",
-                "party":"Republican"
-            },
-            "9550":{
-                "district":"7",
-                "name":"Udree, Daniel",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "10374":{
-                "district":"7",
-                "name":"Worman, Ludwig",
-                "party":"Federalist"
-            },
-            "9550":{
-                "district":"7",
-                "name":"Udree, Daniel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"pa"
 },
   "bbox": [
     -76.70148,

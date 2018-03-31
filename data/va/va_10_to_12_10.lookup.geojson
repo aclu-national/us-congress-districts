@@ -2,34 +2,12 @@
   "id": "va_10_to_12_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"12",
-    "id":"051010012010",
-    "member":{
-        "10":{
-            "2426":{
-                "district":"10",
-                "name":"Dawson, John",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "2426":{
-                "district":"10",
-                "name":"Dawson, John",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "2426":{
-                "district":"10",
-                "name":"Dawson, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"10",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1807-10-26",
+    "start_session":10,
+    "state":"va"
 },
   "bbox": [
     -78.66317,

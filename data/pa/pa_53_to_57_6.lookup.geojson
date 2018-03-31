@@ -1,49 +1,13 @@
 {
-  "id": "pa_53_to_57_06",
+  "id": "pa_53_to_57_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"57",
-    "id":"042053057006",
-    "member":{
-        "53":{
-            "7981":{
-                "district":"6",
-                "name":"Robinson, John Buchanan",
-                "party":"Republican"
-            }
-        },
-        "54":{
-            "7981":{
-                "district":"6",
-                "name":"Robinson, John Buchanan",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "1352":{
-                "district":"6",
-                "name":"Butler, Thomas Stalker",
-                "party":"Ind. Republican"
-            }
-        },
-        "56":{
-            "1352":{
-                "district":"6",
-                "name":"Butler, Thomas Stalker",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "1352":{
-                "district":"6",
-                "name":"Butler, Thomas Stalker",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"pa"
 },
   "bbox": [
     -76.13638,

@@ -1,21 +1,13 @@
 {
-  "id": "pa_2_to_2_06",
+  "id": "pa_2_to_2_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"2",
-    "id":"042002002006",
-    "member":{
-        "2":{
-            "3805":{
-                "district":"6",
-                "name":"Gregg, Andrew",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"2",
-    "statename":"Pennsylvania"
+    "district":6,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1791-03-04",
+    "start_session":2,
+    "state":"pa"
 },
   "bbox": [
     -79.85369,

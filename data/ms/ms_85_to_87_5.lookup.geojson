@@ -1,35 +1,13 @@
 {
-  "id": "ms_85_to_87_05",
+  "id": "ms_85_to_87_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"87",
-    "id":"028085087005",
-    "member":{
-        "85":{
-            "10279":{
-                "district":"5",
-                "name":"Winstead, William Arthur",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "10279":{
-                "district":"5",
-                "name":"Winstead, William Arthur",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10279":{
-                "district":"5",
-                "name":"Winstead, William Arthur",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"85",
-    "statename":"Mississippi"
+    "district":5,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1957-01-03",
+    "start_session":85,
+    "state":"ms"
 },
   "bbox": [
     -90.45149,

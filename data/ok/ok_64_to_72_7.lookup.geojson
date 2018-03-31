@@ -1,77 +1,13 @@
 {
-  "id": "ok_64_to_72_07",
+  "id": "ok_64_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"040064072007",
-    "member":{
-        "64":{
-            "6158":{
-                "district":"7",
-                "name":"McClintic, James Vernon",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "6158":{
-                "district":"7",
-                "name":"McClintic, James Vernon",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "6158":{
-                "district":"7",
-                "name":"McClintic, James Vernon",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "6158":{
-                "district":"7",
-                "name":"McClintic, James Vernon",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "6158":{
-                "district":"7",
-                "name":"McClintic, James Vernon",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "6158":{
-                "district":"7",
-                "name":"McClintic, James Vernon",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "6158":{
-                "district":"7",
-                "name":"McClintic, James Vernon",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "6158":{
-                "district":"7",
-                "name":"McClintic, James Vernon",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "6158":{
-                "district":"7",
-                "name":"McClintic, James Vernon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Oklahoma"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"ok"
 },
   "bbox": [
     -100.0038,

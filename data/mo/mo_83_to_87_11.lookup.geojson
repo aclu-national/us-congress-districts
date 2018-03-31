@@ -2,48 +2,12 @@
   "id": "mo_83_to_87_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"87",
-    "id":"029083087011",
-    "member":{
-        "83":{
-            "6765":{
-                "district":"11",
-                "name":"Moulder, Morgan Moore",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "6765":{
-                "district":"11",
-                "name":"Moulder, Morgan Moore",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "6765":{
-                "district":"11",
-                "name":"Moulder, Morgan Moore",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "6765":{
-                "district":"11",
-                "name":"Moulder, Morgan Moore",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "6765":{
-                "district":"11",
-                "name":"Moulder, Morgan Moore",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Missouri"
+    "district":11,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"mo"
 },
   "bbox": [
     -93.75937,

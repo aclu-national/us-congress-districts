@@ -1,63 +1,13 @@
 {
-  "id": "ms_66_to_72_02",
+  "id": "ms_66_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"028066072002",
-    "member":{
-        "66":{
-            "8888":{
-                "district":"2",
-                "name":"Stephens, Hubert Durrett",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "5816":{
-                "district":"2",
-                "name":"Lowrey, Bill Green",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "5816":{
-                "district":"2",
-                "name":"Lowrey, Bill Green",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "5816":{
-                "district":"2",
-                "name":"Lowrey, Bill Green",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "5816":{
-                "district":"2",
-                "name":"Lowrey, Bill Green",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "2712":{
-                "district":"2",
-                "name":"Doxey, Wall",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "2712":{
-                "district":"2",
-                "name":"Doxey, Wall",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Mississippi"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ms"
 },
   "bbox": [
     -90.45164,

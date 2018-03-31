@@ -1,93 +1,13 @@
 {
-  "id": "ga_21_to_22_00",
+  "id": "ga_21_to_22_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"22",
-    "id":"013021022000",
-    "member":{
-        "21":{
-            "10105":{
-                "district":"98",
-                "name":"Wilde, Richard Henry",
-                "party":"Jackson"
-            },
-            "3316":{
-                "district":"98",
-                "name":"Foster, Thomas Flournoy",
-                "party":"Jackson"
-            },
-            "4238":{
-                "district":"98",
-                "name":"Haynes, Charles Eaton",
-                "party":"Jackson"
-            },
-            "5413":{
-                "district":"98",
-                "name":"Lamar, Henry Graybill",
-                "party":"Jackson"
-            },
-            "5837":{
-                "district":"98",
-                "name":"Lumpkin, Wilson",
-                "party":"Jackson"
-            },
-            "9343":{
-                "district":"98",
-                "name":"Thompson, Wiley",
-                "party":"Jackson"
-            },
-            "9887":{
-                "district":"98",
-                "name":"Wayne, James Moore",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "10105":{
-                "district":"98",
-                "name":"Wilde, Richard Henry",
-                "party":"Jackson"
-            },
-            "1818":{
-                "district":"98",
-                "name":"Clayton, Augustin Smith",
-                "party":"Jackson"
-            },
-            "3316":{
-                "district":"98",
-                "name":"Foster, Thomas Flournoy",
-                "party":"Jackson"
-            },
-            "5413":{
-                "district":"98",
-                "name":"Lamar, Henry Graybill",
-                "party":"Jackson"
-            },
-            "5837":{
-                "district":"98",
-                "name":"Lumpkin, Wilson",
-                "party":"Jackson"
-            },
-            "6899":{
-                "district":"98",
-                "name":"Newman, Daniel",
-                "party":"Jackson"
-            },
-            "9343":{
-                "district":"98",
-                "name":"Thompson, Wiley",
-                "party":"Jackson"
-            },
-            "9887":{
-                "district":"98",
-                "name":"Wayne, James Moore",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"21",
-    "statename":"Georgia"
+    "district":0,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1829-03-04",
+    "start_session":21,
+    "state":"ga"
 },
   "bbox": [
     -85.37791,

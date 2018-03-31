@@ -2,18 +2,12 @@
   "id": "fl_113_to_115_26",
   "type": "Feature",
   "properties": {
-    "ALAND":5435558703,
-    "AWATER":7255157541,
-    "CD113FP":"26",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1226",
-    "INTPTLAT":"+25.1426313",
-    "INTPTLON":"-081.0277073",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 26",
-    "STATEFP":"12"
+    "district":26,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"fl"
 },
   "bbox": [
     -82.987477,

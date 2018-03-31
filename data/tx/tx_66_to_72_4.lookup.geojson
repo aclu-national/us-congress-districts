@@ -1,63 +1,13 @@
 {
-  "id": "tx_66_to_72_04",
+  "id": "tx_66_to_72_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"72",
-    "id":"048066072004",
-    "member":{
-        "66":{
-            "7753":{
-                "district":"4",
-                "name":"Rayburn, Sam",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "7753":{
-                "district":"4",
-                "name":"Rayburn, Sam",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "7753":{
-                "district":"4",
-                "name":"Rayburn, Sam",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "7753":{
-                "district":"4",
-                "name":"Rayburn, Sam",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "7753":{
-                "district":"4",
-                "name":"Rayburn, Sam",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7753":{
-                "district":"4",
-                "name":"Rayburn, Sam",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "7753":{
-                "district":"4",
-                "name":"Rayburn, Sam",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Texas"
+    "district":4,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"tx"
 },
   "bbox": [
     -96.94513,

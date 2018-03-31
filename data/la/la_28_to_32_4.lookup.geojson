@@ -1,54 +1,13 @@
 {
-  "id": "la_28_to_32_04",
+  "id": "la_28_to_32_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"32",
-    "id":"022028032004",
-    "member":{
-        "28":{
-            "6735":{
-                "district":"4",
-                "name":"Morse, Isaac Edward",
-                "party":"Democrat"
-            },
-            "871":{
-                "district":"4",
-                "name":"Bossier, Pierre Evariste",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "6735":{
-                "district":"4",
-                "name":"Morse, Isaac Edward",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "6735":{
-                "district":"4",
-                "name":"Morse, Isaac Edward",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "6735":{
-                "district":"4",
-                "name":"Morse, Isaac Edward",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "6637":{
-                "district":"4",
-                "name":"Moore, John",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Louisiana"
+    "district":4,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"la"
 },
   "bbox": [
     -94.04334,

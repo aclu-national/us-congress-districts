@@ -1,84 +1,13 @@
 {
-  "id": "ky_63_to_72_05",
+  "id": "ky_63_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"021063072005",
-    "member":{
-        "63":{
-            "8452":{
-                "district":"5",
-                "name":"Sherley, Joseph Swagar",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "8452":{
-                "district":"5",
-                "name":"Sherley, Joseph Swagar",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8452":{
-                "district":"5",
-                "name":"Sherley, Joseph Swagar",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "7030":{
-                "district":"5",
-                "name":"Ogden, Charles Franklin",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "7030":{
-                "district":"5",
-                "name":"Ogden, Charles Franklin",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "9270":{
-                "district":"5",
-                "name":"Thatcher, Maurice Hudson",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9270":{
-                "district":"5",
-                "name":"Thatcher, Maurice Hudson",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9270":{
-                "district":"5",
-                "name":"Thatcher, Maurice Hudson",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9270":{
-                "district":"5",
-                "name":"Thatcher, Maurice Hudson",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "9270":{
-                "district":"5",
-                "name":"Thatcher, Maurice Hudson",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Kentucky"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ky"
 },
   "bbox": [
     -85.94854,

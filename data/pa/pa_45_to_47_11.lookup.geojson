@@ -2,34 +2,12 @@
   "id": "pa_45_to_47_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"47",
-    "id":"042045047011",
-    "member":{
-        "45":{
-            "1946":{
-                "district":"11",
-                "name":"Collins, Francis Dolan",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "5325":{
-                "district":"11",
-                "name":"Klotz, Robert",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "5325":{
-                "district":"11",
-                "name":"Klotz, Robert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"pa"
 },
   "bbox": [
     -76.79485,

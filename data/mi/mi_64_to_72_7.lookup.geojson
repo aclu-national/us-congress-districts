@@ -1,77 +1,13 @@
 {
-  "id": "mi_64_to_72_07",
+  "id": "mi_64_to_72_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"72",
-    "id":"026064072007",
-    "member":{
-        "64":{
-            "2144":{
-                "district":"7",
-                "name":"Cramton, Loues Convers",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "2144":{
-                "district":"7",
-                "name":"Cramton, Loues Convers",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "2144":{
-                "district":"7",
-                "name":"Cramton, Loues Convers",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "2144":{
-                "district":"7",
-                "name":"Cramton, Loues Convers",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "2144":{
-                "district":"7",
-                "name":"Cramton, Loues Convers",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "2144":{
-                "district":"7",
-                "name":"Cramton, Loues Convers",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "2144":{
-                "district":"7",
-                "name":"Cramton, Loues Convers",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2144":{
-                "district":"7",
-                "name":"Cramton, Loues Convers",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "10303":{
-                "district":"7",
-                "name":"Wolcott, Jesse Paine",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Michigan"
+    "district":7,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mi"
 },
   "bbox": [
     -83.69959,

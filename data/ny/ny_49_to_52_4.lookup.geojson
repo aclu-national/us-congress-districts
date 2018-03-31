@@ -1,42 +1,13 @@
 {
-  "id": "ny_49_to_52_04",
+  "id": "ny_49_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"036049052004",
-    "member":{
-        "49":{
-            "5927":{
-                "district":"4",
-                "name":"Mahoney, Peter Paul",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "5927":{
-                "district":"4",
-                "name":"Mahoney, Peter Paul",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "1742":{
-                "district":"4",
-                "name":"Clancy, John Michael",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "1742":{
-                "district":"4",
-                "name":"Clancy, John Michael",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -74.00823,

@@ -1,63 +1,13 @@
 {
-  "id": "sc_58_to_64_01",
+  "id": "sc_58_to_64_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"64",
-    "id":"045058064001",
-    "member":{
-        "58":{
-            "5587":{
-                "district":"1",
-                "name":"Legare, George Swinton",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "5587":{
-                "district":"1",
-                "name":"Legare, George Swinton",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "5587":{
-                "district":"1",
-                "name":"Legare, George Swinton",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "5587":{
-                "district":"1",
-                "name":"Legare, George Swinton",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "5587":{
-                "district":"1",
-                "name":"Legare, George Swinton",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "9974":{
-                "district":"1",
-                "name":"Whaley, Richard Smith",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "9974":{
-                "district":"1",
-                "name":"Whaley, Richard Smith",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"South Carolina"
+    "district":1,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"sc"
 },
   "bbox": [
     -81.08264,

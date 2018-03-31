@@ -1,28 +1,13 @@
 {
-  "id": "oh_50_to_51_06",
+  "id": "oh_50_to_51_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"51",
-    "id":"039050051006",
-    "member":{
-        "50":{
-            "856":{
-                "district":"6",
-                "name":"Boothman, Melvin Morella",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "856":{
-                "district":"6",
-                "name":"Boothman, Melvin Morella",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Ohio"
+    "district":6,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"oh"
 },
   "bbox": [
     -84.80618,

@@ -1,49 +1,13 @@
 {
-  "id": "co_108_to_112_07",
+  "id": "co_108_to_112_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"112",
-    "id":"008108112007",
-    "member":{
-        "108":{
-            "20312":{
-                "district":"7",
-                "name":"Beauprez, Bob",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "20312":{
-                "district":"7",
-                "name":"Beauprez, Bob",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20705":{
-                "district":"7",
-                "name":"Perlmutter, Ed",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20705":{
-                "district":"7",
-                "name":"Perlmutter, Ed",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20705":{
-                "district":"7",
-                "name":"Perlmutter, Ed",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Colorado"
+    "district":7,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"co"
 },
   "bbox": [
     -105.24075,

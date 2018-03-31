@@ -1,35 +1,13 @@
 {
-  "id": "mo_30_to_32_01",
+  "id": "mo_30_to_32_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"32",
-    "id":"029030032001",
-    "member":{
-        "30":{
-            "915":{
-                "district":"1",
-                "name":"Bowlin, James Butler",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "915":{
-                "district":"1",
-                "name":"Bowlin, James Butler",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "2334":{
-                "district":"1",
-                "name":"Darby, John Fletcher",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Missouri"
+    "district":1,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"mo"
 },
   "bbox": [
     -92.00887,

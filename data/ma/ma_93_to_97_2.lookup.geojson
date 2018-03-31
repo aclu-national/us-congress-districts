@@ -1,49 +1,13 @@
 {
-  "id": "ma_93_to_97_02",
+  "id": "ma_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"025093097002",
-    "member":{
-        "93":{
-            "830":{
-                "district":"2",
-                "name":"Boland, Edward Patrick",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "830":{
-                "district":"2",
-                "name":"Boland, Edward Patrick",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "830":{
-                "district":"2",
-                "name":"Boland, Edward Patrick",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "830":{
-                "district":"2",
-                "name":"Boland, Edward Patrick",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "830":{
-                "district":"2",
-                "name":"Boland, Edward Patrick",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Massachusetts"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ma"
 },
   "bbox": [
     -72.62863,

@@ -1,35 +1,13 @@
 {
-  "id": "va_90_to_92_02",
+  "id": "va_90_to_92_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"92",
-    "id":"051090092002",
-    "member":{
-        "90":{
-            "4064":{
-                "district":"2",
-                "name":"Hardy, Porter, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "12033":{
-                "district":"2",
-                "name":"Whitehurst, G. William",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "12033":{
-                "district":"2",
-                "name":"Whitehurst, G. William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"90",
-    "statename":"Virginia"
+    "district":2,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1967-01-10",
+    "start_session":90,
+    "state":"va"
 },
   "bbox": [
     -76.40283,

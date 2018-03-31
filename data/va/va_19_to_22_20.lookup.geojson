@@ -2,41 +2,12 @@
   "id": "va_19_to_22_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"22",
-    "id":"051019022020",
-    "member":{
-        "19":{
-            "3234":{
-                "district":"20",
-                "name":"Floyd, John",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "3234":{
-                "district":"20",
-                "name":"Floyd, John",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "2135":{
-                "district":"20",
-                "name":"Craig, Robert",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "2135":{
-                "district":"20",
-                "name":"Craig, Robert",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"19",
-    "statename":"Virginia"
+    "district":20,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1825-03-04",
+    "start_session":19,
+    "state":"va"
 },
   "bbox": [
     -81.30748,

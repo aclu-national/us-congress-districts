@@ -2,48 +2,12 @@
   "id": "il_43_to_47_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"47",
-    "id":"017043047015",
-    "member":{
-        "43":{
-            "2843":{
-                "district":"15",
-                "name":"Eden, John Rice",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "2843":{
-                "district":"15",
-                "name":"Eden, John Rice",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "2843":{
-                "district":"15",
-                "name":"Eden, John Rice",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "3288":{
-                "district":"15",
-                "name":"Forsythe, Albert Palaska",
-                "party":"National Greenbacker"
-            }
-        },
-        "47":{
-            "6767":{
-                "district":"15",
-                "name":"Moulton, Samuel Wheeler",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Illinois"
+    "district":15,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"il"
 },
   "bbox": [
     -89.1401,

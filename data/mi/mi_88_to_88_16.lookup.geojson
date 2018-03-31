@@ -2,20 +2,12 @@
   "id": "mi_88_to_88_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"88",
-    "id":"026088088016",
-    "member":{
-        "88":{
-            "5617":{
-                "district":"16",
-                "name":"Lesinski, John, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Michigan"
+    "district":16,
+    "end_date":"1964-10-03",
+    "end_session":88,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"mi"
 },
   "bbox": [
     -83.54716,

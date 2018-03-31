@@ -2,34 +2,12 @@
   "id": "nj_103_to_105_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"105",
-    "id":"034103105011",
-    "member":{
-        "103":{
-            "15099":{
-                "district":"11",
-                "name":"Gallo, Dean A.",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29541":{
-                "district":"11",
-                "name":"Frelinghuysen, Rodney P.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29541":{
-                "district":"11",
-                "name":"Frelinghuysen, Rodney P.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New Jersey"
+    "district":11,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nj"
 },
   "bbox": [
     -74.89028,

@@ -1,42 +1,13 @@
 {
-  "id": "tn_33_to_36_09",
+  "id": "tn_33_to_36_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"36",
-    "id":"047033036009",
-    "member":{
-        "33":{
-            "2998":{
-                "district":"9",
-                "name":"Etheridge, Emerson",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "2998":{
-                "district":"9",
-                "name":"Etheridge, Emerson",
-                "party":"American"
-            }
-        },
-        "35":{
-            "282":{
-                "district":"9",
-                "name":"Atkins, John Dewitt Clint",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "2998":{
-                "district":"9",
-                "name":"Etheridge, Emerson",
-                "party":"Ind. Republican-Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Tennessee"
+    "district":9,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"tn"
 },
   "bbox": [
     -90.17926,

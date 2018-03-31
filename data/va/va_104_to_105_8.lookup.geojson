@@ -1,28 +1,13 @@
 {
-  "id": "va_104_to_105_08",
+  "id": "va_104_to_105_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"105",
-    "id":"051104105008",
-    "member":{
-        "104":{
-            "29149":{
-                "district":"8",
-                "name":"Moran, James P., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "29149":{
-                "district":"8",
-                "name":"Moran, James P., Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"va"
 },
   "bbox": [
     -77.282,

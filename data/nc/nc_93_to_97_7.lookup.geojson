@@ -1,49 +1,13 @@
 {
-  "id": "nc_93_to_97_07",
+  "id": "nc_93_to_97_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"97",
-    "id":"037093097007",
-    "member":{
-        "93":{
-            "14048":{
-                "district":"7",
-                "name":"Rose, Charles",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14048":{
-                "district":"7",
-                "name":"Rose, Charles",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14048":{
-                "district":"7",
-                "name":"Rose, Charles",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14048":{
-                "district":"7",
-                "name":"Rose, Charles",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14048":{
-                "district":"7",
-                "name":"Rose, Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"North Carolina"
+    "district":7,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"nc"
 },
   "bbox": [
     -79.46175,

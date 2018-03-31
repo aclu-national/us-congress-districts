@@ -1,49 +1,13 @@
 {
-  "id": "ma_8_to_12_08",
+  "id": "ma_8_to_12_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"12",
-    "id":"025008012008",
-    "member":{
-        "10":{
-            "3779":{
-                "district":"8",
-                "name":"Green, Isaiah Lewis",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "3467":{
-                "district":"8",
-                "name":"Gardner, Gideon",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "3779":{
-                "district":"8",
-                "name":"Green, Isaiah Lewis",
-                "party":"Republican"
-            }
-        },
-        "8":{
-            "10169":{
-                "district":"8",
-                "name":"Williams, Lemuel",
-                "party":"Federalist"
-            }
-        },
-        "9":{
-            "3779":{
-                "district":"8",
-                "name":"Green, Isaiah Lewis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"8",
-    "statename":"Massachusetts"
+    "district":8,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1803-10-17",
+    "start_session":8,
+    "state":"ma"
 },
   "bbox": [
     -70.97739,

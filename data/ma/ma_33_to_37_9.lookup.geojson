@@ -1,54 +1,13 @@
 {
-  "id": "ma_33_to_37_09",
+  "id": "ma_33_to_37_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"37",
-    "id":"025033037009",
-    "member":{
-        "33":{
-            "2543":{
-                "district":"9",
-                "name":"De Witt, Alexander",
-                "party":"Free Soil"
-            }
-        },
-        "34":{
-            "2543":{
-                "district":"9",
-                "name":"De Witt, Alexander",
-                "party":"American"
-            }
-        },
-        "35":{
-            "9273":{
-                "district":"9",
-                "name":"Thayer, Eli",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "9273":{
-                "district":"9",
-                "name":"Thayer, Eli",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "341":{
-                "district":"9",
-                "name":"Bailey, Goldsmith Fox",
-                "party":"Republican"
-            },
-            "9734":{
-                "district":"9",
-                "name":"Walker, Amasa",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Massachusetts"
+    "district":9,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ma"
 },
   "bbox": [
     -72.21402,

@@ -1,67 +1,13 @@
 {
-  "id": "md_24_to_27_04",
+  "id": "md_24_to_27_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"27",
-    "id":"024024027004",
-    "member":{
-        "24":{
-            "4623":{
-                "district":"4",
-                "name":"Howard, Benjamin Chew",
-                "party":"Jackson"
-            },
-            "6307":{
-                "district":"4",
-                "name":"McKim, Isaac",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "4623":{
-                "district":"4",
-                "name":"Howard, Benjamin Chew",
-                "party":"Democrat"
-            },
-            "5182":{
-                "district":"4",
-                "name":"Kennedy, John Pendleton",
-                "party":"Whig"
-            },
-            "6307":{
-                "district":"4",
-                "name":"McKim, Isaac",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "1539":{
-                "district":"4",
-                "name":"Carroll, James",
-                "party":"Democrat"
-            },
-            "4432":{
-                "district":"4",
-                "name":"Hillen, Solomon Jr.",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "5182":{
-                "district":"4",
-                "name":"Kennedy, John Pendleton",
-                "party":"Whig"
-            },
-            "7710":{
-                "district":"4",
-                "name":"Randall, Alexander",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"24",
-    "statename":"Maryland"
+    "district":4,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1835-12-07",
+    "start_session":24,
+    "state":"md"
 },
   "bbox": [
     -77.18711,

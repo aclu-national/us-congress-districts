@@ -1,21 +1,13 @@
 {
-  "id": "ny_92_to_92_06",
+  "id": "ny_92_to_92_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"92",
-    "id":"036092092006",
-    "member":{
-        "92":{
-            "3967":{
-                "district":"6",
-                "name":"Halpern, Seymour",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"New York"
+    "district":6,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"ny"
 },
   "bbox": [
     -73.86348,

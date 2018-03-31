@@ -1,35 +1,13 @@
 {
-  "id": "nj_103_to_105_03",
+  "id": "nj_103_to_105_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"105",
-    "id":"034103105003",
-    "member":{
-        "103":{
-            "15112":{
-                "district":"3",
-                "name":"Saxton, H. James",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "15112":{
-                "district":"3",
-                "name":"Saxton, H. James",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15112":{
-                "district":"3",
-                "name":"Saxton, H. James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New Jersey"
+    "district":3,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nj"
 },
   "bbox": [
     -75.0665,

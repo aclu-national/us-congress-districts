@@ -2,20 +2,12 @@
   "id": "oh_47_to_47_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"47",
-    "id":"039047047015",
-    "member":{
-        "47":{
-            "2424":{
-                "district":"15",
-                "name":"Dawes, Rufus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"47",
-    "statename":"Ohio"
+    "district":15,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1881-03-04",
+    "start_session":47,
+    "state":"oh"
 },
   "bbox": [
     -82.32389,

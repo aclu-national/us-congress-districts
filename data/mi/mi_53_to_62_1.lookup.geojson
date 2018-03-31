@@ -1,89 +1,13 @@
 {
-  "id": "mi_53_to_62_01",
+  "id": "mi_53_to_62_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"62",
-    "id":"026053062001",
-    "member":{
-        "53":{
-            "1704":{
-                "district":"1",
-                "name":"Chipman, John Logan",
-                "party":"Democrat"
-            },
-            "3822":{
-                "district":"1",
-                "name":"Griffin, Levi Thomas",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "2070":{
-                "district":"1",
-                "name":"Corliss, John Blaisdell",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "2070":{
-                "district":"1",
-                "name":"Corliss, John Blaisdell",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "2070":{
-                "district":"1",
-                "name":"Corliss, John Blaisdell",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "2070":{
-                "district":"1",
-                "name":"Corliss, John Blaisdell",
-                "party":"Republican"
-            }
-        },
-        "58":{
-            "5830":{
-                "district":"1",
-                "name":"Lucking, Alfred",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "2493":{
-                "district":"1",
-                "name":"Denby, Edwin",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2493":{
-                "district":"1",
-                "name":"Denby, Edwin",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2493":{
-                "district":"1",
-                "name":"Denby, Edwin",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "2670":{
-                "district":"1",
-                "name":"Doremus, Frank Ellsworth",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Michigan"
+    "district":1,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"mi"
 },
   "bbox": [
     -83.10329,

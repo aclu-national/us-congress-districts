@@ -2,48 +2,12 @@
   "id": "oh_53_to_57_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"57",
-    "id":"039053057021",
-    "member":{
-        "53":{
-            "4994":{
-                "district":"21",
-                "name":"Johnson, Tom Loftin",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "1322":{
-                "district":"21",
-                "name":"Burton, Theodore Elijah",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "1322":{
-                "district":"21",
-                "name":"Burton, Theodore Elijah",
-                "party":"Republican"
-            }
-        },
-        "56":{
-            "1322":{
-                "district":"21",
-                "name":"Burton, Theodore Elijah",
-                "party":"Republican"
-            }
-        },
-        "57":{
-            "1322":{
-                "district":"21",
-                "name":"Burton, Theodore Elijah",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Ohio"
+    "district":21,
+    "end_date":"1903-03-03",
+    "end_session":57,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"oh"
 },
   "bbox": [
     -81.71115,

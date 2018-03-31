@@ -1,49 +1,13 @@
 {
-  "id": "nj_58_to_62_08",
+  "id": "nj_58_to_62_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"62",
-    "id":"034058062008",
-    "member":{
-        "58":{
-            "10115":{
-                "district":"8",
-                "name":"Wiley, William Halsted",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "10115":{
-                "district":"8",
-                "name":"Wiley, William Halsted",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "7594":{
-                "district":"8",
-                "name":"Pratt, Le Gage",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "10115":{
-                "district":"8",
-                "name":"Wiley, William Halsted",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "6188":{
-                "district":"8",
-                "name":"McCoy, Walter Irving",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New Jersey"
+    "district":8,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"nj"
 },
   "bbox": [
     -74.37269,

@@ -1,21 +1,13 @@
 {
-  "id": "me_28_to_28_07",
+  "id": "me_28_to_28_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"28",
-    "id":"023028028007",
-    "member":{
-        "28":{
-            "1566":{
-                "district":"7",
-                "name":"Cary, Shepard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Maine"
+    "district":7,
+    "end_date":"1845-03-03",
+    "end_session":28,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"me"
 },
   "bbox": [
     -68.95453,

@@ -1,54 +1,13 @@
 {
-  "id": "wi_38_to_42_02",
+  "id": "wi_38_to_42_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"42",
-    "id":"055038042002",
-    "member":{
-        "38":{
-            "8580":{
-                "district":"2",
-                "name":"Sloan, Ithamar Conkey",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "8580":{
-                "district":"2",
-                "name":"Sloan, Ithamar Conkey",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "4565":{
-                "district":"2",
-                "name":"Hopkins, Benjamin Frankli",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "289":{
-                "district":"2",
-                "name":"Atwood, David",
-                "party":"Republican"
-            },
-            "4565":{
-                "district":"2",
-                "name":"Hopkins, Benjamin Frankli",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "4257":{
-                "district":"2",
-                "name":"Hazelton, Gerry Whiting",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Wisconsin"
+    "district":2,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"wi"
 },
   "bbox": [
     -89.83921,

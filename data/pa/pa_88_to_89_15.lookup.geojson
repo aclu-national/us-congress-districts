@@ -2,32 +2,12 @@
   "id": "pa_88_to_89_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"89",
-    "id":"042088089015",
-    "member":{
-        "88":{
-            "10620":{
-                "district":"15",
-                "name":"Rooney, Fred B.",
-                "party":"Democrat"
-            },
-            "9791":{
-                "district":"15",
-                "name":"Walter, Francis Eugene",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10620":{
-                "district":"15",
-                "name":"Rooney, Fred B.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"pa"
 },
   "bbox": [
     -75.99735,

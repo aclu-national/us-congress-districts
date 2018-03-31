@@ -1,54 +1,13 @@
 {
-  "id": "ca_58_to_62_03",
+  "id": "ca_58_to_62_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"62",
-    "id":"006058062003",
-    "member":{
-        "58":{
-            "5342":{
-                "district":"3",
-                "name":"Knowland, Joseph Russell",
-                "party":"Republican"
-            },
-            "6443":{
-                "district":"3",
-                "name":"Metcalf, Victor Howard",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5342":{
-                "district":"3",
-                "name":"Knowland, Joseph Russell",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "5342":{
-                "district":"3",
-                "name":"Knowland, Joseph Russell",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "5342":{
-                "district":"3",
-                "name":"Knowland, Joseph Russell",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "5342":{
-                "district":"3",
-                "name":"Knowland, Joseph Russell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"California"
+    "district":3,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ca"
 },
   "bbox": [
     -122.42978,

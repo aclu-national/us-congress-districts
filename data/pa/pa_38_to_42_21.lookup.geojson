@@ -2,48 +2,12 @@
   "id": "pa_38_to_42_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"42",
-    "id":"042038042021",
-    "member":{
-        "38":{
-            "2428":{
-                "district":"21",
-                "name":"Dawson, John Littleton",
-                "party":"Democrat"
-            }
-        },
-        "39":{
-            "2428":{
-                "district":"21",
-                "name":"Dawson, John Littleton",
-                "party":"Democrat"
-            }
-        },
-        "40":{
-            "2100":{
-                "district":"21",
-                "name":"Covode, John",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "2100":{
-                "district":"21",
-                "name":"Covode, John",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "3307":{
-                "district":"21",
-                "name":"Foster, Henry Donnel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Pennsylvania"
+    "district":21,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"pa"
 },
   "bbox": [
     -80.01075,

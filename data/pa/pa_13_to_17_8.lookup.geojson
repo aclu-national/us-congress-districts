@@ -1,49 +1,13 @@
 {
-  "id": "pa_13_to_17_08",
+  "id": "pa_13_to_17_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"17",
-    "id":"042013017008",
-    "member":{
-        "13":{
-            "7464":{
-                "district":"8",
-                "name":"Piper, William",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "7464":{
-                "district":"8",
-                "name":"Piper, William",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "7033":{
-                "district":"8",
-                "name":"Ogle, Alexander",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "7421":{
-                "district":"8",
-                "name":"Philson, Robert",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "9402":{
-                "district":"8",
-                "name":"Tod, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Pennsylvania"
+    "district":8,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"pa"
 },
   "bbox": [
     -79.41756,

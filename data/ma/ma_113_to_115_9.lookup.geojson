@@ -1,19 +1,13 @@
 {
-  "id": "ma_113_to_115_09",
+  "id": "ma_113_to_115_9",
   "type": "Feature",
   "properties": {
-    "ALAND":3146229191,
-    "AWATER":5152011870,
-    "CD113FP":"09",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"2509",
-    "INTPTLAT":"+41.6948531",
-    "INTPTLON":"-070.4851689",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 9",
-    "STATEFP":"25"
+    "district":9,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ma"
 },
   "bbox": [
     -71.201162,

@@ -2,41 +2,12 @@
   "id": "ny_49_to_52_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"52",
-    "id":"036049052018",
-    "member":{
-        "49":{
-            "1277":{
-                "district":"18",
-                "name":"Burleigh, Henry Gordon",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "3797":{
-                "district":"18",
-                "name":"Greenman, Edward Whitford",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "7663":{
-                "district":"18",
-                "name":"Quackenbush, John Adam",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "7663":{
-                "district":"18",
-                "name":"Quackenbush, John Adam",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"New York"
+    "district":18,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ny"
 },
   "bbox": [
     -73.78616,

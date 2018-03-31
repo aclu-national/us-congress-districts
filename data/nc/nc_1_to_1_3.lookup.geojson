@@ -1,21 +1,13 @@
 {
-  "id": "nc_1_to_1_03",
+  "id": "nc_1_to_1_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"1",
-    "id":"037001001003",
-    "member":{
-        "1":{
-            "800":{
-                "district":"3",
-                "name":"Bloodworth, Timothy",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1791-03-03",
+    "end_session":1,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"nc"
 },
   "bbox": [
     -80.07571,

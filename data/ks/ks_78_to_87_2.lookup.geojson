@@ -1,89 +1,13 @@
 {
-  "id": "ks_78_to_87_02",
+  "id": "ks_78_to_87_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"87",
-    "id":"020078087002",
-    "member":{
-        "78":{
-            "3885":{
-                "district":"2",
-                "name":"Guyer, Ulysses Samuel",
-                "party":"Republican"
-            },
-            "8318":{
-                "district":"2",
-                "name":"Scrivner, Errett Power",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "8318":{
-                "district":"2",
-                "name":"Scrivner, Errett Power",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "8318":{
-                "district":"2",
-                "name":"Scrivner, Errett Power",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "8318":{
-                "district":"2",
-                "name":"Scrivner, Errett Power",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "8318":{
-                "district":"2",
-                "name":"Scrivner, Errett Power",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "8318":{
-                "district":"2",
-                "name":"Scrivner, Errett Power",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "8318":{
-                "district":"2",
-                "name":"Scrivner, Errett Power",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "8318":{
-                "district":"2",
-                "name":"Scrivner, Errett Power",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "3535":{
-                "district":"2",
-                "name":"George, Newell A.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10516":{
-                "district":"2",
-                "name":"Ellsworth, Robert F.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Kansas"
+    "district":2,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ks"
 },
   "bbox": [
     -95.5256,

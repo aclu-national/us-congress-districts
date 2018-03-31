@@ -2,48 +2,12 @@
   "id": "oh_73_to_77_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"77",
-    "id":"039073077013",
-    "member":{
-        "73":{
-            "3139":{
-                "district":"13",
-                "name":"Fiesinger, William Louis",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "3139":{
-                "district":"13",
-                "name":"Fiesinger, William Louis",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "10017":{
-                "district":"13",
-                "name":"White, Dudley Allen",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "10017":{
-                "district":"13",
-                "name":"White, Dudley Allen",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "521":{
-                "district":"13",
-                "name":"Baumhart, Albert David Jr",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Ohio"
+    "district":13,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"oh"
 },
   "bbox": [
     -83.88356,

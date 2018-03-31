@@ -2,88 +2,12 @@
   "id": "wi_63_to_72_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"72",
-    "id":"055063072011",
-    "member":{
-        "63":{
-            "5607":{
-                "district":"11",
-                "name":"Lenroot, Irvine Luther",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "5607":{
-                "district":"11",
-                "name":"Lenroot, Irvine Luther",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "5607":{
-                "district":"11",
-                "name":"Lenroot, Irvine Luther",
-                "party":"Republican"
-            },
-            "6861":{
-                "district":"11",
-                "name":"Nelson, Adolphus Peter",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "6861":{
-                "district":"11",
-                "name":"Nelson, Adolphus Peter",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "6861":{
-                "district":"11",
-                "name":"Nelson, Adolphus Peter",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "7292":{
-                "district":"11",
-                "name":"Peavey, Hubert Haskell",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "7292":{
-                "district":"11",
-                "name":"Peavey, Hubert Haskell",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "7292":{
-                "district":"11",
-                "name":"Peavey, Hubert Haskell",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "7292":{
-                "district":"11",
-                "name":"Peavey, Hubert Haskell",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "7292":{
-                "district":"11",
-                "name":"Peavey, Hubert Haskell",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Wisconsin"
+    "district":11,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"wi"
 },
   "bbox": [
     -92.88943,

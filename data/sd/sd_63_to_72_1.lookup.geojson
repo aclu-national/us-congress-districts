@@ -1,84 +1,13 @@
 {
-  "id": "sd_63_to_72_01",
+  "id": "sd_63_to_72_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"72",
-    "id":"046063072001",
-    "member":{
-        "63":{
-            "2598":{
-                "district":"1",
-                "name":"Dillon, Charles Hall",
-                "party":"Republican"
-            }
-        },
-        "64":{
-            "2598":{
-                "district":"1",
-                "name":"Dillon, Charles Hall",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "2598":{
-                "district":"1",
-                "name":"Dillon, Charles Hall",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "1718":{
-                "district":"1",
-                "name":"Christopherson, Charles A.",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "1718":{
-                "district":"1",
-                "name":"Christopherson, Charles A.",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "1718":{
-                "district":"1",
-                "name":"Christopherson, Charles A.",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "1718":{
-                "district":"1",
-                "name":"Christopherson, Charles A.",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "1718":{
-                "district":"1",
-                "name":"Christopherson, Charles A.",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "1718":{
-                "district":"1",
-                "name":"Christopherson, Charles A.",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "1718":{
-                "district":"1",
-                "name":"Christopherson, Charles A.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"South Dakota"
+    "district":1,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"sd"
 },
   "bbox": [
     -99.5767,

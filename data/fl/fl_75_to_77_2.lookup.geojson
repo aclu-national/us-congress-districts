@@ -1,35 +1,13 @@
 {
-  "id": "fl_75_to_77_02",
+  "id": "fl_75_to_77_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"77",
-    "id":"012075077002",
-    "member":{
-        "75":{
-            "3781":{
-                "district":"2",
-                "name":"Green, Robert Alexis",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3781":{
-                "district":"2",
-                "name":"Green, Robert Alexis",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "3781":{
-                "district":"2",
-                "name":"Green, Robert Alexis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"75",
-    "statename":"Florida"
+    "district":2,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1937-01-05",
+    "start_session":75,
+    "state":"fl"
 },
   "bbox": [
     -83.99221,

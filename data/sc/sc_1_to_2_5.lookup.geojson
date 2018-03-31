@@ -1,28 +1,13 @@
 {
-  "id": "sc_1_to_2_05",
+  "id": "sc_1_to_2_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"2",
-    "id":"045001002005",
-    "member":{
-        "1":{
-            "9501":{
-                "district":"5",
-                "name":"Tucker, Thomas Tudor",
-                "party":"Anti-Administration"
-            }
-        },
-        "2":{
-            "9501":{
-                "district":"5",
-                "name":"Tucker, Thomas Tudor",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"South Carolina"
+    "district":5,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"sc"
 },
   "bbox": [
     -83.35395,

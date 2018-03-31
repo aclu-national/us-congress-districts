@@ -1,49 +1,13 @@
 {
-  "id": "md_93_to_97_06",
+  "id": "md_93_to_97_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"97",
-    "id":"024093097006",
-    "member":{
-        "93":{
-            "13008":{
-                "district":"6",
-                "name":"Byron, Goodloe",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "13008":{
-                "district":"6",
-                "name":"Byron, Goodloe",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "13008":{
-                "district":"6",
-                "name":"Byron, Goodloe",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14608":{
-                "district":"6",
-                "name":"Byron, Beverly Barton Butcher",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14608":{
-                "district":"6",
-                "name":"Byron, Beverly Barton Butcher",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Maryland"
+    "district":6,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

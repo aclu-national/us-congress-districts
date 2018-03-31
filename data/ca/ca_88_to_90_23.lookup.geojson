@@ -2,39 +2,12 @@
   "id": "ca_88_to_90_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"90",
-    "id":"006088090023",
-    "member":{
-        "88":{
-            "10580":{
-                "district":"23",
-                "name":"Clawson, Del",
-                "party":"Republican"
-            },
-            "2713":{
-                "district":"23",
-                "name":"Doyle, Clyde Gilman",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "10580":{
-                "district":"23",
-                "name":"Clawson, Del",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "10580":{
-                "district":"23",
-                "name":"Clawson, Del",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"California"
+    "district":23,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ca"
 },
   "bbox": [
     -118.25356,

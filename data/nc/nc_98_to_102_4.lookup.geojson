@@ -1,49 +1,13 @@
 {
-  "id": "nc_98_to_102_04",
+  "id": "nc_98_to_102_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"102",
-    "id":"037098102004",
-    "member":{
-        "100":{
-            "15438":{
-                "district":"4",
-                "name":"Price, David E.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15438":{
-                "district":"4",
-                "name":"Price, David E.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15438":{
-                "district":"4",
-                "name":"Price, David E.",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14001":{
-                "district":"4",
-                "name":"Andrews, Ike",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "15091":{
-                "district":"4",
-                "name":"Cobey, William W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"nc"
 },
   "bbox": [
     -80.06697,

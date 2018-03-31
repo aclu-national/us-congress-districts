@@ -2,48 +2,12 @@
   "id": "ca_108_to_112_38",
   "type": "Feature",
   "properties": {
-    "district":"38",
-    "endcong":"112",
-    "id":"006108112038",
-    "member":{
-        "108":{
-            "29903":{
-                "district":"38",
-                "name":"Napolitano, Grace F.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29903":{
-                "district":"38",
-                "name":"Napolitano, Grace F.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29903":{
-                "district":"38",
-                "name":"Napolitano, Grace F.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "29903":{
-                "district":"38",
-                "name":"Napolitano, Grace F.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "29903":{
-                "district":"38",
-                "name":"Napolitano, Grace F.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":38,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -118.1741,

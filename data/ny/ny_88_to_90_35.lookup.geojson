@@ -2,34 +2,12 @@
   "id": "ny_88_to_90_35",
   "type": "Feature",
   "properties": {
-    "district":"35",
-    "endcong":"90",
-    "id":"036088090035",
-    "member":{
-        "88":{
-            "9017":{
-                "district":"35",
-                "name":"Stratton, Samuel Studdiford",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "9017":{
-                "district":"35",
-                "name":"Stratton, Samuel Studdiford",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "9017":{
-                "district":"35",
-                "name":"Stratton, Samuel Studdiford",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"New York"
+    "district":35,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ny"
 },
   "bbox": [
     -77.61192,

@@ -1,82 +1,13 @@
 {
-  "id": "ar_24_to_32_00",
+  "id": "ar_24_to_32_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"32",
-    "id":"005024032000",
-    "member":{
-        "24":{
-            "10424":{
-                "district":"1",
-                "name":"Yell, Archibald",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "10424":{
-                "district":"1",
-                "name":"Yell, Archibald",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "2197":{
-                "district":"1",
-                "name":"Cross, Edward",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "2197":{
-                "district":"1",
-                "name":"Cross, Edward",
-                "party":"Democrat"
-            }
-        },
-        "28":{
-            "2197":{
-                "district":"1",
-                "name":"Cross, Edward",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "10424":{
-                "district":"1",
-                "name":"Yell, Archibald",
-                "party":"Democrat"
-            },
-            "6906":{
-                "district":"1",
-                "name":"Newton, Thomas Willoughby",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "4990":{
-                "district":"1",
-                "name":"Johnson, Robert Ward",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "4990":{
-                "district":"1",
-                "name":"Johnson, Robert Ward",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "4990":{
-                "district":"1",
-                "name":"Johnson, Robert Ward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"24",
-    "statename":"Arkansas"
+    "district":0,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1835-12-07",
+    "start_session":24,
+    "state":"ar"
 },
   "bbox": [
     -94.61792,

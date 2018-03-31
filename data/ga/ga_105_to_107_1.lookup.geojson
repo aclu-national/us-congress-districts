@@ -1,35 +1,13 @@
 {
-  "id": "ga_105_to_107_01",
+  "id": "ga_105_to_107_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"107",
-    "id":"013105107001",
-    "member":{
-        "105":{
-            "29338":{
-                "district":"1",
-                "name":"Kingston, Jack",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29338":{
-                "district":"1",
-                "name":"Kingston, Jack",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29338":{
-                "district":"1",
-                "name":"Kingston, Jack",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"105",
-    "statename":"Georgia"
+    "district":1,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1997-01-07",
+    "start_session":105,
+    "state":"ga"
 },
   "bbox": [
     -82.48259,

@@ -2,41 +2,12 @@
   "id": "tx_94_to_97_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"97",
-    "id":"048094097019",
-    "member":{
-        "94":{
-            "5924":{
-                "district":"19",
-                "name":"Mahon, George Herman",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "5924":{
-                "district":"19",
-                "name":"Mahon, George Herman",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14633":{
-                "district":"19",
-                "name":"Hance, Kent Ronald",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14633":{
-                "district":"19",
-                "name":"Hance, Kent Ronald",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"Texas"
+    "district":19,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"tx"
 },
   "bbox": [
     -103.06508,

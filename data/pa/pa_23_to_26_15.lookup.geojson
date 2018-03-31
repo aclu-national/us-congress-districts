@@ -2,41 +2,12 @@
   "id": "pa_23_to_26_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"26",
-    "id":"042023026015",
-    "member":{
-        "23":{
-            "558":{
-                "district":"15",
-                "name":"Beaumont, Andrew",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "558":{
-                "district":"15",
-                "name":"Beaumont, Andrew",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "7375":{
-                "district":"15",
-                "name":"Petrikin, David",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "7375":{
-                "district":"15",
-                "name":"Petrikin, David",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":15,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -76.79485,

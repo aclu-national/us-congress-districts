@@ -1,26 +1,13 @@
 {
-  "id": "nj_13_to_13_01",
+  "id": "nj_13_to_13_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"13",
-    "id":"034013013001",
-    "member":{
-        "13":{
-            "1972":{
-                "district":"1",
-                "name":"Condict, Lewis",
-                "party":"Republican"
-            },
-            "9821":{
-                "district":"1",
-                "name":"Ward, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"New Jersey"
+    "district":1,
+    "end_date":"1815-03-03",
+    "end_session":13,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"nj"
 },
   "bbox": [
     -75.20392,

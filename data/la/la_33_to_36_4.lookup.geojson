@@ -1,42 +1,13 @@
 {
-  "id": "la_33_to_36_04",
+  "id": "la_33_to_36_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"36",
-    "id":"022033036004",
-    "member":{
-        "33":{
-            "5060":{
-                "district":"4",
-                "name":"Jones, Roland",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "8204":{
-                "district":"4",
-                "name":"Sandidge, John Milton",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "8204":{
-                "district":"4",
-                "name":"Sandidge, John Milton",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "5435":{
-                "district":"4",
-                "name":"Landrum, John Morgan",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Louisiana"
+    "district":4,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"la"
 },
   "bbox": [
     -94.04334,

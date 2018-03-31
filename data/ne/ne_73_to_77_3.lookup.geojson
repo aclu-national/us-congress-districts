@@ -1,49 +1,13 @@
 {
-  "id": "ne_73_to_77_03",
+  "id": "ne_73_to_77_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"77",
-    "id":"031073077003",
-    "member":{
-        "73":{
-            "4624":{
-                "district":"3",
-                "name":"Howard, Edgar",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "8879":{
-                "district":"3",
-                "name":"Stefan, Karl",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "8879":{
-                "district":"3",
-                "name":"Stefan, Karl",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "8879":{
-                "district":"3",
-                "name":"Stefan, Karl",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "8879":{
-                "district":"3",
-                "name":"Stefan, Karl",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Nebraska"
+    "district":3,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ne"
 },
   "bbox": [
     -99.25764,

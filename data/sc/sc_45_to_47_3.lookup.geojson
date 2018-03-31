@@ -1,35 +1,13 @@
 {
-  "id": "sc_45_to_47_03",
+  "id": "sc_45_to_47_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"47",
-    "id":"045045047003",
-    "member":{
-        "45":{
-            "51":{
-                "district":"3",
-                "name":"Aiken, David Wyatt",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "51":{
-                "district":"3",
-                "name":"Aiken, David Wyatt",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "51":{
-                "district":"3",
-                "name":"Aiken, David Wyatt",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"45",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1877-03-05",
+    "start_session":45,
+    "state":"sc"
 },
   "bbox": [
     -83.35395,

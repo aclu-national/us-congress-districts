@@ -1,21 +1,13 @@
 {
-  "id": "oh_63_to_63_08",
+  "id": "oh_63_to_63_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"63",
-    "id":"039063063008",
-    "member":{
-        "63":{
-            "10203":{
-                "district":"8",
-                "name":"Willis, Frank Bartlett",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Ohio"
+    "district":8,
+    "end_date":"1915-03-03",
+    "end_session":63,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"oh"
 },
   "bbox": [
     -84.03632,

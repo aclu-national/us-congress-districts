@@ -2,41 +2,12 @@
   "id": "pa_84_to_87_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"87",
-    "id":"042084087010",
-    "member":{
-        "84":{
-            "1533":{
-                "district":"10",
-                "name":"Carrigg, Joseph Leonard",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "1533":{
-                "district":"10",
-                "name":"Carrigg, Joseph Leonard",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "7634":{
-                "district":"10",
-                "name":"Prokop, Stanley A.",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "10558":{
-                "district":"10",
-                "name":"Scranton, William W.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -76.81378,

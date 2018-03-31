@@ -2,34 +2,12 @@
   "id": "nj_103_to_105_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"105",
-    "id":"034103105012",
-    "member":{
-        "103":{
-            "29133":{
-                "district":"12",
-                "name":"Zimmer, Dick",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "29133":{
-                "district":"12",
-                "name":"Zimmer, Dick",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29743":{
-                "district":"12",
-                "name":"Pappas, Michael",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"New Jersey"
+    "district":12,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nj"
 },
   "bbox": [
     -75.1955,

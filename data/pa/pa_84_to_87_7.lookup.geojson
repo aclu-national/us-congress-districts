@@ -1,42 +1,13 @@
 {
-  "id": "pa_84_to_87_07",
+  "id": "pa_84_to_87_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"87",
-    "id":"042084087007",
-    "member":{
-        "84":{
-            "4880":{
-                "district":"7",
-                "name":"James, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "4880":{
-                "district":"7",
-                "name":"James, Benjamin Franklin",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "6524":{
-                "district":"7",
-                "name":"Milliken, William H., Jr.",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "6524":{
-                "district":"7",
-                "name":"Milliken, William H., Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":7,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -75.60155,

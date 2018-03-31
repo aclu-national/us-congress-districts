@@ -1,33 +1,13 @@
 {
-  "id": "tn_91_to_92_08",
+  "id": "tn_91_to_92_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"92",
-    "id":"047091092008",
-    "member":{
-        "91":{
-            "12038":{
-                "district":"8",
-                "name":"Jones, Edward",
-                "party":"Democrat"
-            },
-            "3028":{
-                "district":"8",
-                "name":"Everett, Robert Ashton",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "12038":{
-                "district":"8",
-                "name":"Jones, Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Tennessee"
+    "district":8,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"tn"
 },
   "bbox": [
     -90.17926,

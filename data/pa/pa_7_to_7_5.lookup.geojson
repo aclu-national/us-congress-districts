@@ -1,21 +1,13 @@
 {
-  "id": "pa_7_to_7_05",
+  "id": "pa_7_to_7_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"7",
-    "id":"042007007005",
-    "member":{
-        "7":{
-            "4394":{
-                "district":"5",
-                "name":"Hiester, Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"7",
-    "statename":"Pennsylvania"
+    "district":5,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1801-03-04",
+    "start_session":7,
+    "state":"pa"
 },
   "bbox": [
     -76.92708,

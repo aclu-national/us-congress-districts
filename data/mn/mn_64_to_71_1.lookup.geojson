@@ -1,70 +1,13 @@
 {
-  "id": "mn_64_to_71_01",
+  "id": "mn_64_to_71_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"71",
-    "id":"027064071001",
-    "member":{
-        "64":{
-            "182":{
-                "district":"1",
-                "name":"Anderson, Sydney",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "182":{
-                "district":"1",
-                "name":"Anderson, Sydney",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "182":{
-                "district":"1",
-                "name":"Anderson, Sydney",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "182":{
-                "district":"1",
-                "name":"Anderson, Sydney",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "182":{
-                "district":"1",
-                "name":"Anderson, Sydney",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "3417":{
-                "district":"1",
-                "name":"Furlow, Allen John",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "3417":{
-                "district":"1",
-                "name":"Furlow, Allen John",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "1713":{
-                "district":"1",
-                "name":"Christgau, Victor",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Minnesota"
+    "district":1,
+    "end_date":"1931-03-03",
+    "end_session":71,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"mn"
 },
   "bbox": [
     -93.76842,

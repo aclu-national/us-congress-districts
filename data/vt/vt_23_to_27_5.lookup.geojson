@@ -1,54 +1,13 @@
 {
-  "id": "vt_23_to_27_05",
+  "id": "vt_23_to_27_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"27",
-    "id":"050023027005",
-    "member":{
-        "23":{
-            "2486":{
-                "district":"5",
-                "name":"Deming, Benjamin F.",
-                "party":"Anti Masonic"
-            },
-            "4890":{
-                "district":"5",
-                "name":"Janes, Henry Fisk",
-                "party":"Anti Masonic"
-            }
-        },
-        "24":{
-            "4890":{
-                "district":"5",
-                "name":"Janes, Henry Fisk",
-                "party":"Anti Masonic"
-            }
-        },
-        "25":{
-            "3217":{
-                "district":"5",
-                "name":"Fletcher, Isaac",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "3217":{
-                "district":"5",
-                "name":"Fletcher, Isaac",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "6088":{
-                "district":"5",
-                "name":"Mattocks, John",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Vermont"
+    "district":5,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"vt"
 },
   "bbox": [
     -72.95293,

@@ -1,49 +1,13 @@
 {
-  "id": "ky_38_to_42_08",
+  "id": "ky_38_to_42_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"42",
-    "id":"021038042008",
-    "member":{
-        "38":{
-            "7716":{
-                "district":"8",
-                "name":"Randall, William Harrison",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "39":{
-            "7716":{
-                "district":"8",
-                "name":"Randall, William Harrison",
-                "party":"Unconditional Unionist"
-            }
-        },
-        "40":{
-            "28":{
-                "district":"8",
-                "name":"Adams, George Madison",
-                "party":"Democrat"
-            }
-        },
-        "41":{
-            "28":{
-                "district":"8",
-                "name":"Adams, George Madison",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "28":{
-                "district":"8",
-                "name":"Adams, George Madison",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Kentucky"
+    "district":8,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ky"
 },
   "bbox": [
     -85.06425,

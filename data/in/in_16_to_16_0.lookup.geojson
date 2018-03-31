@@ -1,21 +1,13 @@
 {
-  "id": "in_16_to_16_00",
+  "id": "in_16_to_16_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"16",
-    "id":"018016016000",
-    "member":{
-        "16":{
-            "4320":{
-                "district":"1",
-                "name":"Hendricks, William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"16",
-    "statename":"Indiana"
+    "district":0,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1819-12-06",
+    "start_session":16,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

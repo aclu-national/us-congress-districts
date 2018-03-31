@@ -2,18 +2,12 @@
   "id": "fl_113_to_115_27",
   "type": "Feature",
   "properties": {
-    "ALAND":540927558,
-    "AWATER":955511368,
-    "CD113FP":"27",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"1227",
-    "INTPTLAT":"+25.5727818",
-    "INTPTLON":"-080.3060604",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 27",
-    "STATEFP":"12"
+    "district":27,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"fl"
 },
   "bbox": [
     -80.469109,

@@ -1,49 +1,13 @@
 {
-  "id": "ma_23_to_27_04",
+  "id": "ma_23_to_27_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"27",
-    "id":"025023027004",
-    "member":{
-        "23":{
-            "3026":{
-                "district":"4",
-                "name":"Everett, Edward",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "4464":{
-                "district":"4",
-                "name":"Hoar, Samuel",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "7209":{
-                "district":"4",
-                "name":"Parmenter, William",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "7209":{
-                "district":"4",
-                "name":"Parmenter, William",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "7209":{
-                "district":"4",
-                "name":"Parmenter, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ma"
 },
   "bbox": [
     -71.89872,

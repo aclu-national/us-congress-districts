@@ -2,66 +2,12 @@
   "id": "ny_13_to_16_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"16",
-    "id":"036013016015",
-    "member":{
-        "13":{
-            "10150":{
-                "district":"15",
-                "name":"Williams, Isaac, Jr.",
-                "party":"Republican"
-            },
-            "905":{
-                "district":"15",
-                "name":"Bowers, John Myer",
-                "party":"Federalist"
-            },
-            "9327":{
-                "district":"15",
-                "name":"Thompson, Joel",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "4006":{
-                "district":"15",
-                "name":"Hammond, Jabez Delno",
-                "party":"Republican"
-            },
-            "727":{
-                "district":"15",
-                "name":"Birdsall, James",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "10150":{
-                "district":"15",
-                "name":"Williams, Isaac, Jr.",
-                "party":"Republican"
-            },
-            "2716":{
-                "district":"15",
-                "name":"Drake, John Reuben",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "5849":{
-                "district":"15",
-                "name":"Lyman, Joseph Stebbins",
-                "party":"Republican"
-            },
-            "6591":{
-                "district":"15",
-                "name":"Monell, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ny"
 },
   "bbox": [
     -76.29951,

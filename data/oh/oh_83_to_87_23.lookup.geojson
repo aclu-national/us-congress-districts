@@ -2,48 +2,12 @@
   "id": "oh_83_to_87_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"87",
-    "id":"039083087023",
-    "member":{
-        "83":{
-            "621":{
-                "district":"23",
-                "name":"Bender, George Harrison",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "6548":{
-                "district":"23",
-                "name":"Minshall, William Edwin, Jr.",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "6548":{
-                "district":"23",
-                "name":"Minshall, William Edwin, Jr.",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "6548":{
-                "district":"23",
-                "name":"Minshall, William Edwin, Jr.",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "6548":{
-                "district":"23",
-                "name":"Minshall, William Edwin, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Ohio"
+    "district":23,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"oh"
 },
   "bbox": [
     -81.97126,

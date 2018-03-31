@@ -1,84 +1,13 @@
 {
-  "id": "me_38_to_47_04",
+  "id": "me_38_to_47_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"47",
-    "id":"023038047004",
-    "member":{
-        "38":{
-            "7857":{
-                "district":"4",
-                "name":"Rice, John Hovey",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "7857":{
-                "district":"4",
-                "name":"Rice, John Hovey",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "7365":{
-                "district":"4",
-                "name":"Peters, John Andrew",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "7365":{
-                "district":"4",
-                "name":"Peters, John Andrew",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "7365":{
-                "district":"4",
-                "name":"Peters, John Andrew",
-                "party":"Republican"
-            }
-        },
-        "43":{
-            "4369":{
-                "district":"4",
-                "name":"Hersey, Samuel Freeman",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "7474":{
-                "district":"4",
-                "name":"Plaisted, Harris Merrill",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "7581":{
-                "district":"4",
-                "name":"Powers, Llewellyn",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "5394":{
-                "district":"4",
-                "name":"Ladd, George Washington",
-                "party":"National Greenbacker"
-            }
-        },
-        "47":{
-            "5394":{
-                "district":"4",
-                "name":"Ladd, George Washington",
-                "party":"National Greenbacker"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"Maine"
+    "district":4,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"me"
 },
   "bbox": [
     -70.02323,

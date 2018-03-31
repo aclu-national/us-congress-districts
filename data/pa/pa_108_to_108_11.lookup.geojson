@@ -2,20 +2,12 @@
   "id": "pa_108_to_108_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"108",
-    "id":"042108108011",
-    "member":{
-        "108":{
-            "15104":{
-                "district":"11",
-                "name":"Kanjorski, Paul E.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Pennsylvania"
+    "district":11,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"pa"
 },
   "bbox": [
     -76.64077,

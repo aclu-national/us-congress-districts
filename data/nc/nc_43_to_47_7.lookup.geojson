@@ -1,49 +1,13 @@
 {
-  "id": "nc_43_to_47_07",
+  "id": "nc_43_to_47_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"47",
-    "id":"037043047007",
-    "member":{
-        "43":{
-            "7945":{
-                "district":"7",
-                "name":"Robbins, William McKendree",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "7945":{
-                "district":"7",
-                "name":"Robbins, William McKendree",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "7945":{
-                "district":"7",
-                "name":"Robbins, William McKendree",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "229":{
-                "district":"7",
-                "name":"Armfield, Robert Franklin",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "229":{
-                "district":"7",
-                "name":"Armfield, Robert Franklin",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"North Carolina"
+    "district":7,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"nc"
 },
   "bbox": [
     -81.97604,

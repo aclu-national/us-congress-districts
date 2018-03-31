@@ -1,84 +1,13 @@
 {
-  "id": "ne_78_to_87_02",
+  "id": "ne_78_to_87_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"87",
-    "id":"031078087002",
-    "member":{
-        "78":{
-            "1218":{
-                "district":"2",
-                "name":"Buffett, Howard Homan",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "1218":{
-                "district":"2",
-                "name":"Buffett, Howard Homan",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "1218":{
-                "district":"2",
-                "name":"Buffett, Howard Homan",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7103":{
-                "district":"2",
-                "name":"O'Sullivan, Eugene",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1218":{
-                "district":"2",
-                "name":"Buffett, Howard Homan",
-                "party":"Republican"
-            }
-        },
-        "83":{
-            "4660":{
-                "district":"2",
-                "name":"Hruska, Roman Lee",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "1667":{
-                "district":"2",
-                "name":"Chase, Jackson Burton",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "2255":{
-                "district":"2",
-                "name":"Cunningham, Glenn Clarence",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "2255":{
-                "district":"2",
-                "name":"Cunningham, Glenn Clarence",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "2255":{
-                "district":"2",
-                "name":"Cunningham, Glenn Clarence",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Nebraska"
+    "district":2,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ne"
 },
   "bbox": [
     -96.47072,

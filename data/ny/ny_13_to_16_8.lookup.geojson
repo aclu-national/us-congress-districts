@@ -1,47 +1,13 @@
 {
-  "id": "ny_13_to_16_08",
+  "id": "ny_13_to_16_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"16",
-    "id":"036013016008",
-    "member":{
-        "13":{
-            "8464":{
-                "district":"8",
-                "name":"Sherwood, Samuel",
-                "party":"Federalist"
-            }
-        },
-        "14":{
-            "32":{
-                "district":"8",
-                "name":"Adams, John",
-                "party":"Republican"
-            },
-            "8056":{
-                "district":"8",
-                "name":"Root, Erastus",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "5300":{
-                "district":"8",
-                "name":"Kirtland, Dorrance",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "1780":{
-                "district":"8",
-                "name":"Clark, Robert",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"New York"
+    "district":8,
+    "end_date":"1821-03-03",
+    "end_session":16,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

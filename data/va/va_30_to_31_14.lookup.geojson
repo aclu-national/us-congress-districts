@@ -2,27 +2,12 @@
   "id": "va_30_to_31_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"31",
-    "id":"051030031014",
-    "member":{
-        "30":{
-            "9337":{
-                "district":"14",
-                "name":"Thompson, Robert Augustin",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "541":{
-                "district":"14",
-                "name":"Beale, James Madison Hite",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Virginia"
+    "district":14,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"va"
 },
   "bbox": [
     -82.64474,

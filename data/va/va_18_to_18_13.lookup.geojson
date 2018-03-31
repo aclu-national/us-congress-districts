@@ -2,25 +2,12 @@
   "id": "va_18_to_18_13",
   "type": "Feature",
   "properties": {
-    "district":"13",
-    "endcong":"18",
-    "id":"051018018013",
-    "member":{
-        "18":{
-            "398":{
-                "district":"13",
-                "name":"Ball, William Lee",
-                "party":"Crawford Republican"
-            },
-            "9167":{
-                "district":"13",
-                "name":"Taliaferro, John",
-                "party":"Crawford Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Virginia"
+    "district":13,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"va"
 },
   "bbox": [
     -77.63543,

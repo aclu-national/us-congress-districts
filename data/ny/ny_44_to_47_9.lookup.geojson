@@ -1,42 +1,13 @@
 {
-  "id": "ny_44_to_47_09",
+  "id": "ny_44_to_47_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"47",
-    "id":"036044047009",
-    "member":{
-        "44":{
-            "10324":{
-                "district":"9",
-                "name":"Wood, Fernando",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "10324":{
-                "district":"9",
-                "name":"Wood, Fernando",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "10324":{
-                "district":"9",
-                "name":"Wood, Fernando",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "4063":{
-                "district":"9",
-                "name":"Hardy, John",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":9,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -74.01018,

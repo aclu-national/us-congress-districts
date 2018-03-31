@@ -1,35 +1,13 @@
 {
-  "id": "nc_103_to_105_04",
+  "id": "nc_103_to_105_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"105",
-    "id":"037103105004",
-    "member":{
-        "103":{
-            "15438":{
-                "district":"4",
-                "name":"Price, David E.",
-                "party":"Democrat"
-            }
-        },
-        "104":{
-            "29547":{
-                "district":"4",
-                "name":"Heineman, Frederick K.",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "15438":{
-                "district":"4",
-                "name":"Price, David E.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1998-12-19",
+    "end_session":105,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"nc"
 },
   "bbox": [
     -79.55615,

@@ -1,35 +1,13 @@
 {
-  "id": "ga_70_to_72_08",
+  "id": "ga_70_to_72_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"72",
-    "id":"013070072008",
-    "member":{
-        "70":{
-            "976":{
-                "district":"8",
-                "name":"Brand, Charles Hillyer",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "976":{
-                "district":"8",
-                "name":"Brand, Charles Hillyer",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "976":{
-                "district":"8",
-                "name":"Brand, Charles Hillyer",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"70",
-    "statename":"Georgia"
+    "district":8,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1927-12-05",
+    "start_session":70,
+    "state":"ga"
 },
   "bbox": [
     -84.05504,

@@ -2,34 +2,12 @@
   "id": "ma_88_to_90_12",
   "type": "Feature",
   "properties": {
-    "district":"12",
-    "endcong":"90",
-    "id":"025088090012",
-    "member":{
-        "88":{
-            "5131":{
-                "district":"12",
-                "name":"Keith, Hastings",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "5131":{
-                "district":"12",
-                "name":"Keith, Hastings",
-                "party":"Republican"
-            }
-        },
-        "90":{
-            "5131":{
-                "district":"12",
-                "name":"Keith, Hastings",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Massachusetts"
+    "district":12,
+    "end_date":"1968-10-14",
+    "end_session":90,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ma"
 },
   "bbox": [
     -71.14151,

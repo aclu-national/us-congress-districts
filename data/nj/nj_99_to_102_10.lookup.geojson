@@ -2,41 +2,12 @@
   "id": "nj_99_to_102_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"102",
-    "id":"034099102010",
-    "member":{
-        "100":{
-            "8010":{
-                "district":"10",
-                "name":"Rodino, Peter Wallace, Jr.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15619":{
-                "district":"10",
-                "name":"Payne, Donald M.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15619":{
-                "district":"10",
-                "name":"Payne, Donald M.",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "8010":{
-                "district":"10",
-                "name":"Rodino, Peter Wallace, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New Jersey"
+    "district":10,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"nj"
 },
   "bbox": [
     -74.2823,

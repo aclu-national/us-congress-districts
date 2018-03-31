@@ -2,18 +2,12 @@
   "id": "gu_113_to_115_98",
   "type": "Feature",
   "properties": {
-    "ALAND":543389293,
-    "AWATER":934520040,
-    "CD113FP":"98",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"6698",
-    "INTPTLAT":"+13.4382959",
-    "INTPTLON":"+144.7729279",
-    "LSAD":"C4",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Delegate District (at Large)",
-    "STATEFP":"66"
+    "district":98,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"gu"
 },
   "bbox": [
     144.563426,

@@ -1,53 +1,13 @@
 {
-  "id": "nh_28_to_29_00",
+  "id": "nh_28_to_29_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"29",
-    "id":"033028029000",
-    "member":{
-        "28":{
-            "1262":{
-                "district":"98",
-                "name":"Burke, Edmund",
-                "party":"Democrat"
-            },
-            "3922":{
-                "district":"98",
-                "name":"Hale, John Parker",
-                "party":"Democrat"
-            },
-            "6961":{
-                "district":"98",
-                "name":"Norris, Moses Jr.",
-                "party":"Democrat"
-            },
-            "7776":{
-                "district":"98",
-                "name":"Reding, John Randall",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4968":{
-                "district":"98",
-                "name":"Johnson, James Hutchins",
-                "party":"Democrat"
-            },
-            "6766":{
-                "district":"98",
-                "name":"Moulton, Mace",
-                "party":"Democrat"
-            },
-            "6961":{
-                "district":"98",
-                "name":"Norris, Moses Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New Hampshire"
+    "district":0,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"nh"
 },
   "bbox": [
     -72.55725,

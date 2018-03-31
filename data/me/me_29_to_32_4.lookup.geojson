@@ -1,47 +1,13 @@
 {
-  "id": "me_29_to_32_04",
+  "id": "me_29_to_32_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"32",
-    "id":"023029032004",
-    "member":{
-        "29":{
-            "6192":{
-                "district":"4",
-                "name":"McCrate, John Dennis",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "1764":{
-                "district":"4",
-                "name":"Clark, Franklin",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "3673":{
-                "district":"4",
-                "name":"Goodenow, Rufus King",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "192":{
-                "district":"4",
-                "name":"Andrews, Charles",
-                "party":"Democrat"
-            },
-            "7785":{
-                "district":"4",
-                "name":"Reed, Isaac",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"Maine"
+    "district":4,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"me"
 },
   "bbox": [
     -71.08433,

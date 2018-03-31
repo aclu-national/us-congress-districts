@@ -1,42 +1,13 @@
 {
-  "id": "pa_84_to_87_02",
+  "id": "pa_84_to_87_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"87",
-    "id":"042084087002",
-    "member":{
-        "84":{
-            "3744":{
-                "district":"2",
-                "name":"Granahan, William Thomas",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "3743":{
-                "district":"2",
-                "name":"Granahan, Kathryn Elizabe",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "3743":{
-                "district":"2",
-                "name":"Granahan, Kathryn Elizabe",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "3743":{
-                "district":"2",
-                "name":"Granahan, Kathryn Elizabe",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"84",
-    "statename":"Pennsylvania"
+    "district":2,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1955-01-05",
+    "start_session":84,
+    "state":"pa"
 },
   "bbox": [
     -75.28023,

@@ -1,49 +1,13 @@
 {
-  "id": "mi_108_to_112_05",
+  "id": "mi_108_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"026108112005",
-    "member":{
-        "108":{
-            "14430":{
-                "district":"5",
-                "name":"Kildee, Dale E.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "14430":{
-                "district":"5",
-                "name":"Kildee, Dale E.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "14430":{
-                "district":"5",
-                "name":"Kildee, Dale E.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "14430":{
-                "district":"5",
-                "name":"Kildee, Dale E.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "14430":{
-                "district":"5",
-                "name":"Kildee, Dale E.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Michigan"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mi"
 },
   "bbox": [
     -84.05089,

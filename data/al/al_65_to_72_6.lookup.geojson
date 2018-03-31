@@ -1,70 +1,13 @@
 {
-  "id": "al_65_to_72_06",
+  "id": "al_65_to_72_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"72",
-    "id":"001065072006",
-    "member":{
-        "65":{
-            "7064":{
-                "district":"6",
-                "name":"Oliver, William Bacon",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "7064":{
-                "district":"6",
-                "name":"Oliver, William Bacon",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "7064":{
-                "district":"6",
-                "name":"Oliver, William Bacon",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "7064":{
-                "district":"6",
-                "name":"Oliver, William Bacon",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "7064":{
-                "district":"6",
-                "name":"Oliver, William Bacon",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "7064":{
-                "district":"6",
-                "name":"Oliver, William Bacon",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7064":{
-                "district":"6",
-                "name":"Oliver, William Bacon",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "7064":{
-                "district":"6",
-                "name":"Oliver, William Bacon",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Alabama"
+    "district":6,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"al"
 },
   "bbox": [
     -88.42145,

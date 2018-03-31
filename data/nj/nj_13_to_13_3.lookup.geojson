@@ -1,31 +1,13 @@
 {
-  "id": "nj_13_to_13_03",
+  "id": "nj_13_to_13_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"13",
-    "id":"034013013003",
-    "member":{
-        "13":{
-            "2122":{
-                "district":"3",
-                "name":"Coxe, William, Jr.",
-                "party":"Federalist"
-            },
-            "4693":{
-                "district":"3",
-                "name":"Hufty, Jacob",
-                "party":"Federalist"
-            },
-            "714":{
-                "district":"3",
-                "name":"Bines, Thomas",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"New Jersey"
+    "district":3,
+    "end_date":"1815-03-03",
+    "end_session":13,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"nj"
 },
   "bbox": [
     -75.55979,

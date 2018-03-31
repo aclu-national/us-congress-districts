@@ -2,41 +2,12 @@
   "id": "pa_58_to_61_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"61",
-    "id":"042058061023",
-    "member":{
-        "58":{
-            "2040":{
-                "district":"23",
-                "name":"Cooper, Allen Foster",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "2040":{
-                "district":"23",
-                "name":"Cooper, Allen Foster",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "2040":{
-                "district":"23",
-                "name":"Cooper, Allen Foster",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "2040":{
-                "district":"23",
-                "name":"Cooper, Allen Foster",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Pennsylvania"
+    "district":23,
+    "end_date":"1911-03-03",
+    "end_session":61,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"pa"
 },
   "bbox": [
     -80.51949,

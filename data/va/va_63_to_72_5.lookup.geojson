@@ -1,94 +1,13 @@
 {
-  "id": "va_63_to_72_05",
+  "id": "va_63_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"051063072005",
-    "member":{
-        "63":{
-            "8227":{
-                "district":"5",
-                "name":"Saunders, Edward Watts",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "8227":{
-                "district":"5",
-                "name":"Saunders, Edward Watts",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8227":{
-                "district":"5",
-                "name":"Saunders, Edward Watts",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "4886":{
-                "district":"5",
-                "name":"James, Rorer Abraham",
-                "party":"Democrat"
-            },
-            "8227":{
-                "district":"5",
-                "name":"Saunders, Edward Watts",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "4554":{
-                "district":"5",
-                "name":"Hooker, James Murray",
-                "party":"Democrat"
-            },
-            "4886":{
-                "district":"5",
-                "name":"James, Rorer Abraham",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "4554":{
-                "district":"5",
-                "name":"Hooker, James Murray",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "10051":{
-                "district":"5",
-                "name":"Whitehead, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "10051":{
-                "district":"5",
-                "name":"Whitehead, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "10051":{
-                "district":"5",
-                "name":"Whitehead, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "1245":{
-                "district":"5",
-                "name":"Burch, Thomas Granville",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"Virginia"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"va"
 },
   "bbox": [
     -81.67764,

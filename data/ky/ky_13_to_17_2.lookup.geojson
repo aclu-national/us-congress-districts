@@ -1,54 +1,13 @@
 {
-  "id": "ky_13_to_17_02",
+  "id": "ky_13_to_17_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"17",
-    "id":"021013017002",
-    "member":{
-        "13":{
-            "1810":{
-                "district":"2",
-                "name":"Clay, Henry",
-                "party":"Republican"
-            },
-            "4216":{
-                "district":"2",
-                "name":"Hawkins, Joseph H.",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "1810":{
-                "district":"2",
-                "name":"Clay, Henry",
-                "party":"Republican"
-            }
-        },
-        "15":{
-            "1810":{
-                "district":"2",
-                "name":"Clay, Henry",
-                "party":"Republican"
-            }
-        },
-        "16":{
-            "1810":{
-                "district":"2",
-                "name":"Clay, Henry",
-                "party":"Republican"
-            }
-        },
-        "17":{
-            "10358":{
-                "district":"2",
-                "name":"Woodson, Samuel Hughes",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"Kentucky"
+    "district":2,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"ky"
 },
   "bbox": [
     -84.8659,

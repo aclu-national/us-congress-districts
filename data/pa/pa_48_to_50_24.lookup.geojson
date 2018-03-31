@@ -2,34 +2,12 @@
   "id": "pa_48_to_50_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"50",
-    "id":"042048050024",
-    "member":{
-        "48":{
-            "5511":{
-                "district":"24",
-                "name":"Lawrence, George Van Eman",
-                "party":"Republican"
-            }
-        },
-        "49":{
-            "4861":{
-                "district":"24",
-                "name":"Jackson, Oscar Lawrence",
-                "party":"Republican"
-            }
-        },
-        "50":{
-            "4861":{
-                "district":"24",
-                "name":"Jackson, Oscar Lawrence",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"48",
-    "statename":"Pennsylvania"
+    "district":24,
+    "end_date":"1889-03-03",
+    "end_session":50,
+    "start_date":"1883-12-03",
+    "start_session":48,
+    "state":"pa"
 },
   "bbox": [
     -80.51989,

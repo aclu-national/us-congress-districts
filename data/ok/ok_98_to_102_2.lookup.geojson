@@ -1,49 +1,13 @@
 {
-  "id": "ok_98_to_102_02",
+  "id": "ok_98_to_102_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"102",
-    "id":"040098102002",
-    "member":{
-        "100":{
-            "14667":{
-                "district":"2",
-                "name":"Synar, Michael Lynn",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "14667":{
-                "district":"2",
-                "name":"Synar, Michael Lynn",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "14667":{
-                "district":"2",
-                "name":"Synar, Michael Lynn",
-                "party":"Democrat"
-            }
-        },
-        "98":{
-            "14667":{
-                "district":"2",
-                "name":"Synar, Michael Lynn",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14667":{
-                "district":"2",
-                "name":"Synar, Michael Lynn",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"Oklahoma"
+    "district":2,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ok"
 },
   "bbox": [
     -97.03199,

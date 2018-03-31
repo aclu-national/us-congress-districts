@@ -2,34 +2,12 @@
   "id": "mo_50_to_52_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"52",
-    "id":"029050052010",
-    "member":{
-        "50":{
-            "1749":{
-                "district":"10",
-                "name":"Clardy, Martin Linn",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "5286":{
-                "district":"10",
-                "name":"Kinsey, William Medcalf",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "1374":{
-                "district":"10",
-                "name":"Byrns, Samuel",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Missouri"
+    "district":10,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"mo"
 },
   "bbox": [
     -91.31424,

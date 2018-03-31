@@ -1,49 +1,13 @@
 {
-  "id": "ny_68_to_72_09",
+  "id": "ny_68_to_72_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"72",
-    "id":"036068072009",
-    "member":{
-        "68":{
-            "7010":{
-                "district":"9",
-                "name":"O'Connell, David",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "7010":{
-                "district":"9",
-                "name":"O'Connell, David",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "7010":{
-                "district":"9",
-                "name":"O'Connell, David",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "7010":{
-                "district":"9",
-                "name":"O'Connell, David",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "8104":{
-                "district":"9",
-                "name":"Rudd, Stephen Andrew",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":9,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -73.92972,

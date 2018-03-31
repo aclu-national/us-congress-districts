@@ -2,48 +2,12 @@
   "id": "ny_38_to_42_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"42",
-    "id":"036038042031",
-    "member":{
-        "38":{
-            "3107":{
-                "district":"31",
-                "name":"Fenton, Reuben Eaton",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "9589":{
-                "district":"31",
-                "name":"Van Aernam, Henry",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "9589":{
-                "district":"31",
-                "name":"Van Aernam, Henry",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "8433":{
-                "district":"31",
-                "name":"Sheldon, Porter",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "8368":{
-                "district":"31",
-                "name":"Sessions, Walter Loomis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

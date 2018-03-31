@@ -1,94 +1,13 @@
 {
-  "id": "nj_63_to_72_05",
+  "id": "nj_63_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"034063072005",
-    "member":{
-        "63":{
-            "9532":{
-                "district":"5",
-                "name":"Tuttle, William Edgar, Jr",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "1496":{
-                "district":"5",
-                "name":"Capstick, John Henry",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "1496":{
-                "district":"5",
-                "name":"Capstick, John Henry",
-                "party":"Republican"
-            },
-            "721":{
-                "district":"5",
-                "name":"Birch, William Fred",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "16":{
-                "district":"5",
-                "name":"Ackerman, Ernest Robinson",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "16":{
-                "district":"5",
-                "name":"Ackerman, Ernest Robinson",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "16":{
-                "district":"5",
-                "name":"Ackerman, Ernest Robinson",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "16":{
-                "district":"5",
-                "name":"Ackerman, Ernest Robinson",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "16":{
-                "district":"5",
-                "name":"Ackerman, Ernest Robinson",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "16":{
-                "district":"5",
-                "name":"Ackerman, Ernest Robinson",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "16":{
-                "district":"5",
-                "name":"Ackerman, Ernest Robinson",
-                "party":"Republican"
-            },
-            "8945":{
-                "district":"5",
-                "name":"Stewart, Percy Hamilton",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New Jersey"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nj"
 },
   "bbox": [
     -74.88989,

@@ -2,20 +2,12 @@
   "id": "ny_98_to_98_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"98",
-    "id":"036098098021",
-    "member":{
-        "98":{
-            "12013":{
-                "district":"21",
-                "name":"Fish, Hamilton, Jr.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"98",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1984-10-12",
+    "end_session":98,
+    "start_date":"1983-01-03",
+    "start_session":98,
+    "state":"ny"
 },
   "bbox": [
     -74.30409,

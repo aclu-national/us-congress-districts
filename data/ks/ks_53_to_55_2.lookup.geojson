@@ -1,40 +1,13 @@
 {
-  "id": "ks_53_to_55_02",
+  "id": "ks_53_to_55_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"55",
-    "id":"020053055002",
-    "member":{
-        "53":{
-            "3414":{
-                "district":"2",
-                "name":"Funston, Edward Hogue",
-                "party":"Republican"
-            },
-            "6635":{
-                "district":"2",
-                "name":"Moore, Horace Ladd",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "6503":{
-                "district":"2",
-                "name":"Miller, Orrin Larrabee",
-                "party":"Republican"
-            }
-        },
-        "55":{
-            "7367":{
-                "district":"2",
-                "name":"Peters, Mason Summers",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Kansas"
+    "district":2,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ks"
 },
   "bbox": [
     -95.5256,

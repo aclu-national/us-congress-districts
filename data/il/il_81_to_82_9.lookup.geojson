@@ -1,28 +1,13 @@
 {
-  "id": "il_81_to_82_09",
+  "id": "il_81_to_82_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"82",
-    "id":"017081082009",
-    "member":{
-        "81":{
-            "10421":{
-                "district":"9",
-                "name":"Yates, Sidney Richard",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "10421":{
-                "district":"9",
-                "name":"Yates, Sidney Richard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"81",
-    "statename":"Illinois"
+    "district":9,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1949-01-03",
+    "start_session":81,
+    "state":"il"
 },
   "bbox": [
     -87.69674,

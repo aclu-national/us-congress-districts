@@ -1,21 +1,13 @@
 {
-  "id": "tx_73_to_73_03",
+  "id": "tx_73_to_73_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"73",
-    "id":"048073073003",
-    "member":{
-        "73":{
-            "8199":{
-                "district":"3",
-                "name":"Sanders, Morgan Gurley",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Texas"
+    "district":3,
+    "end_date":"1934-06-18",
+    "end_session":73,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"tx"
 },
   "bbox": [
     -96.52995,

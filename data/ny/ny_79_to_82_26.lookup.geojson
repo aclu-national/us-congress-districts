@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_26",
   "type": "Feature",
   "properties": {
-    "district":"26",
-    "endcong":"82",
-    "id":"036079082026",
-    "member":{
-        "79":{
-            "7678":{
-                "district":"26",
-                "name":"Quinn, Peter Anthony",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "7563":{
-                "district":"26",
-                "name":"Potts, David Matthew",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "6259":{
-                "district":"26",
-                "name":"McGrath, Christopher Columbus",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "6259":{
-                "district":"26",
-                "name":"McGrath, Christopher Columbus",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":26,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -73.88497,

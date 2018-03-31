@@ -1,35 +1,13 @@
 {
-  "id": "tx_110_to_112_09",
+  "id": "tx_110_to_112_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"112",
-    "id":"048110112009",
-    "member":{
-        "110":{
-            "20529":{
-                "district":"9",
-                "name":"Green, Al",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20529":{
-                "district":"9",
-                "name":"Green, Al",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20529":{
-                "district":"9",
-                "name":"Green, Al",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"110",
-    "statename":"Texas"
+    "district":9,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2007-01-04",
+    "start_session":110,
+    "state":"tx"
 },
   "bbox": [
     -95.71567,

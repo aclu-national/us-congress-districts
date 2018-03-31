@@ -1,35 +1,13 @@
 {
-  "id": "pa_30_to_32_01",
+  "id": "pa_30_to_32_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"32",
-    "id":"042030032001",
-    "member":{
-        "30":{
-            "5626":{
-                "district":"1",
-                "name":"Levin, Lewis Charles",
-                "party":"American"
-            }
-        },
-        "31":{
-            "5626":{
-                "district":"1",
-                "name":"Levin, Lewis Charles",
-                "party":"American"
-            }
-        },
-        "32":{
-            "3229":{
-                "district":"1",
-                "name":"Florence, Thomas Birch",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Pennsylvania"
+    "district":1,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"pa"
 },
   "bbox": [
     -75.21453,

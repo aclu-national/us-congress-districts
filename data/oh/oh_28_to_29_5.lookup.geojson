@@ -1,28 +1,13 @@
 {
-  "id": "oh_28_to_29_05",
+  "id": "oh_28_to_29_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"29",
-    "id":"039028029005",
-    "member":{
-        "28":{
-            "7555":{
-                "district":"5",
-                "name":"Potter, Emery Davis",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "8242":{
-                "district":"5",
-                "name":"Sawyer, William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"oh"
 },
   "bbox": [
     -84.80618,

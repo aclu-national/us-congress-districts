@@ -1,49 +1,13 @@
 {
-  "id": "ok_73_to_77_02",
+  "id": "ok_73_to_77_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"77",
-    "id":"040073077002",
-    "member":{
-        "73":{
-            "4183":{
-                "district":"2",
-                "name":"Hastings, William Wirt",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "6919":{
-                "district":"2",
-                "name":"Nichols, John Conover",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "6919":{
-                "district":"2",
-                "name":"Nichols, John Conover",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "6919":{
-                "district":"2",
-                "name":"Nichols, John Conover",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "6919":{
-                "district":"2",
-                "name":"Nichols, John Conover",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Oklahoma"
+    "district":2,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ok"
 },
   "bbox": [
     -96.19284,

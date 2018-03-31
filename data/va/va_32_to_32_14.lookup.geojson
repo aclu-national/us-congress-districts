@@ -2,20 +2,12 @@
   "id": "va_32_to_32_14",
   "type": "Feature",
   "properties": {
-    "district":"14",
-    "endcong":"32",
-    "id":"051032032014",
-    "member":{
-        "32":{
-            "541":{
-                "district":"14",
-                "name":"Beale, James Madison Hite",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"32",
-    "statename":"Virginia"
+    "district":14,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1851-03-04",
+    "start_session":32,
+    "state":"va"
 },
   "bbox": [
     -82.64474,

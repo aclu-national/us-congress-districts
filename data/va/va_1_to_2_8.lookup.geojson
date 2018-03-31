@@ -1,28 +1,13 @@
 {
-  "id": "va_1_to_2_08",
+  "id": "va_1_to_2_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"2",
-    "id":"051001002008",
-    "member":{
-        "1":{
-            "7199":{
-                "district":"8",
-                "name":"Parker, Josiah",
-                "party":"Anti-Administration"
-            }
-        },
-        "2":{
-            "7199":{
-                "district":"8",
-                "name":"Parker, Josiah",
-                "party":"Anti-Administration"
-            }
-        }
-    },
-    "startcong":"1",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1793-03-02",
+    "end_session":2,
+    "start_date":"1789-03-04",
+    "start_session":1,
+    "state":"va"
 },
   "bbox": [
     -77.50192,

@@ -1,42 +1,13 @@
 {
-  "id": "ca_99_to_102_01",
+  "id": "ca_99_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"006099102001",
-    "member":{
-        "100":{
-            "15009":{
-                "district":"1",
-                "name":"Bosco, Douglas  H.",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15009":{
-                "district":"1",
-                "name":"Bosco, Douglas  H.",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "29103":{
-                "district":"1",
-                "name":"Riggs, Frank",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "15009":{
-                "district":"1",
-                "name":"Bosco, Douglas  H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"California"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ca"
 },
   "bbox": [
     -124.4147,

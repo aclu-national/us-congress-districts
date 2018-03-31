@@ -2,41 +2,12 @@
   "id": "pa_23_to_26_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"26",
-    "id":"042023026018",
-    "member":{
-        "23":{
-            "1249":{
-                "district":"18",
-                "name":"Burd, George",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "5960":{
-                "district":"18",
-                "name":"Mann, Job",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "7035":{
-                "district":"18",
-                "name":"Ogle, Charles",
-                "party":"Anti Masonic"
-            }
-        },
-        "26":{
-            "7035":{
-                "district":"18",
-                "name":"Ogle, Charles",
-                "party":"Anti Masonic"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Pennsylvania"
+    "district":18,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"pa"
 },
   "bbox": [
     -79.41756,

@@ -1,35 +1,13 @@
 {
-  "id": "sc_40_to_42_03",
+  "id": "sc_40_to_42_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"42",
-    "id":"045040042003",
-    "member":{
-        "40":{
-            "2069":{
-                "district":"3",
-                "name":"Corley, Manuel Simeon",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "4501":{
-                "district":"3",
-                "name":"Hoge, Solomon Lafayette",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "2917":{
-                "district":"3",
-                "name":"Elliott, Robert Brown",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"South Carolina"
+    "district":3,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"sc"
 },
   "bbox": [
     -82.99207,

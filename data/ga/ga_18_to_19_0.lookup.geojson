@@ -1,93 +1,13 @@
 {
-  "id": "ga_18_to_19_00",
+  "id": "ga_18_to_19_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"19",
-    "id":"013018019000",
-    "member":{
-        "18":{
-            "10105":{
-                "district":"98",
-                "name":"Wilde, Richard Henry",
-                "party":"Crawford Republican"
-            },
-            "1561":{
-                "district":"98",
-                "name":"Cary, George",
-                "party":"Crawford Republican"
-            },
-            "1873":{
-                "district":"98",
-                "name":"Cobb, Thomas Willis",
-                "party":"Crawford Republican"
-            },
-            "2284":{
-                "district":"98",
-                "name":"Cuthbert, Alfred",
-                "party":"Crawford Republican"
-            },
-            "3287":{
-                "district":"98",
-                "name":"Forsyth, John",
-                "party":"Crawford Republican"
-            },
-            "5":{
-                "district":"98",
-                "name":"Abbott, Joel",
-                "party":"Crawford Republican"
-            },
-            "9188":{
-                "district":"98",
-                "name":"Tattnall, Edward Fenwick",
-                "party":"Crawford Republican"
-            },
-            "9343":{
-                "district":"98",
-                "name":"Thompson, Wiley",
-                "party":"Crawford Republican"
-            }
-        },
-        "19":{
-            "1561":{
-                "district":"98",
-                "name":"Cary, George",
-                "party":"Jackson"
-            },
-            "2284":{
-                "district":"98",
-                "name":"Cuthbert, Alfred",
-                "party":"Jackson"
-            },
-            "3287":{
-                "district":"98",
-                "name":"Forsyth, John",
-                "party":"Jackson"
-            },
-            "4238":{
-                "district":"98",
-                "name":"Haynes, Charles Eaton",
-                "party":"Jackson"
-            },
-            "6424":{
-                "district":"98",
-                "name":"Meriwether, James",
-                "party":"Jackson"
-            },
-            "9188":{
-                "district":"98",
-                "name":"Tattnall, Edward Fenwick",
-                "party":"Jackson"
-            },
-            "9343":{
-                "district":"98",
-                "name":"Thompson, Wiley",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Georgia"
+    "district":0,
+    "end_date":"1827-03-03",
+    "end_session":19,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ga"
 },
   "bbox": [
     -85.1146,

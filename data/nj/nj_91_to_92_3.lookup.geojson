@@ -1,28 +1,13 @@
 {
-  "id": "nj_91_to_92_03",
+  "id": "nj_91_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"034091092003",
-    "member":{
-        "91":{
-            "10739":{
-                "district":"3",
-                "name":"Howard, James J.",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "10739":{
-                "district":"3",
-                "name":"Howard, James J.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New Jersey"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"nj"
 },
   "bbox": [
     -74.6135,

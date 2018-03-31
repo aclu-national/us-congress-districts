@@ -1,112 +1,13 @@
 {
-  "id": "mn_74_to_87_06",
+  "id": "mn_74_to_87_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"87",
-    "id":"027074087006",
-    "member":{
-        "74":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "5352":{
-                "district":"6",
-                "name":"Knutson, Harold",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "5998":{
-                "district":"6",
-                "name":"Marshall, Fred",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5998":{
-                "district":"6",
-                "name":"Marshall, Fred",
-                "party":"Democrat"
-            }
-        },
-        "83":{
-            "5998":{
-                "district":"6",
-                "name":"Marshall, Fred",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "5998":{
-                "district":"6",
-                "name":"Marshall, Fred",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5998":{
-                "district":"6",
-                "name":"Marshall, Fred",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5998":{
-                "district":"6",
-                "name":"Marshall, Fred",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "5998":{
-                "district":"6",
-                "name":"Marshall, Fred",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Minnesota"
+    "district":6,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"mn"
 },
   "bbox": [
     -95.18376,

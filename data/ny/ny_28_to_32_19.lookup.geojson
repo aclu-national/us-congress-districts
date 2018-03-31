@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"32",
-    "id":"036028032019",
-    "member":{
-        "28":{
-            "4741":{
-                "district":"19",
-                "name":"Hungerford, Orville",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4741":{
-                "district":"19",
-                "name":"Hungerford, Orville",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "6790":{
-                "district":"19",
-                "name":"Mullin, Joseph",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "1790":{
-                "district":"19",
-                "name":"Clarke, Charles Ezra",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "4835":{
-                "district":"19",
-                "name":"Ives, Willard",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":19,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -76.44652,

@@ -2,18 +2,12 @@
   "id": "wa_113_to_115_10",
   "type": "Feature",
   "properties": {
-    "ALAND":2141132056,
-    "AWATER":233434409,
-    "CD113FP":"10",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"5310",
-    "INTPTLAT":"+47.0417220",
-    "INTPTLON":"-122.7558152",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 10",
-    "STATEFP":"53"
+    "district":10,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"wa"
 },
   "bbox": [
     -123.202066,

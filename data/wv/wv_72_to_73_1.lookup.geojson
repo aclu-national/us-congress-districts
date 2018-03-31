@@ -1,28 +1,13 @@
 {
-  "id": "wv_72_to_73_01",
+  "id": "wv_72_to_73_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"73",
-    "id":"054072073001",
-    "member":{
-        "72":{
-            "321":{
-                "district":"1",
-                "name":"Bachmann, Carl George",
-                "party":"Republican"
-            }
-        },
-        "73":{
-            "7702":{
-                "district":"1",
-                "name":"Ramsay, Robert Lincoln",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"72",
-    "statename":"West Virginia"
+    "district":1,
+    "end_date":"1934-06-18",
+    "end_session":73,
+    "start_date":"1931-12-07",
+    "start_session":72,
+    "state":"wv"
 },
   "bbox": [
     -80.94378,

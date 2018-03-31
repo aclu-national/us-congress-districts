@@ -1,19 +1,13 @@
 {
-  "id": "tn_113_to_115_04",
+  "id": "tn_113_to_115_4",
   "type": "Feature",
   "properties": {
-    "ALAND":15500735761,
-    "AWATER":241448676,
-    "CD113FP":"04",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4704",
-    "INTPTLAT":"+35.2621448",
-    "INTPTLON":"-086.6288782",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 4",
-    "STATEFP":"47"
+    "district":4,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"tn"
 },
   "bbox": [
     -87.29719,

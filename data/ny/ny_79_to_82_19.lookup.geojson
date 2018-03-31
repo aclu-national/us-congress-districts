@@ -2,46 +2,12 @@
   "id": "ny_79_to_82_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"82",
-    "id":"036079082019",
-    "member":{
-        "79":{
-            "2585":{
-                "district":"19",
-                "name":"Dickstein, Samuel",
-                "party":"Democrat"
-            },
-            "5317":{
-                "district":"19",
-                "name":"Klein, Arthur George",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5317":{
-                "district":"19",
-                "name":"Klein, Arthur George",
-                "party":"Democrat"
-            }
-        },
-        "81":{
-            "5317":{
-                "district":"19",
-                "name":"Klein, Arthur George",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "5317":{
-                "district":"19",
-                "name":"Klein, Arthur George",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":19,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -74.01444,

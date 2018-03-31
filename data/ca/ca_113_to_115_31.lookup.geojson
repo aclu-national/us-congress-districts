@@ -2,18 +2,12 @@
   "id": "ca_113_to_115_31",
   "type": "Feature",
   "properties": {
-    "ALAND":564972810,
-    "AWATER":6435649,
-    "CD113FP":"31",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"0631",
-    "INTPTLAT":"+34.1100101",
-    "INTPTLON":"-117.3533277",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 31",
-    "STATEFP":"06"
+    "district":31,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ca"
 },
   "bbox": [
     -117.704595,

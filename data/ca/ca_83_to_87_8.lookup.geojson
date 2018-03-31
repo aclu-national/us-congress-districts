@@ -1,49 +1,13 @@
 {
-  "id": "ca_83_to_87_08",
+  "id": "ca_83_to_87_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"87",
-    "id":"006083087008",
-    "member":{
-        "83":{
-            "6483":{
-                "district":"8",
-                "name":"Miller, George Paul",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "6483":{
-                "district":"8",
-                "name":"Miller, George Paul",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "6483":{
-                "district":"8",
-                "name":"Miller, George Paul",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "6483":{
-                "district":"8",
-                "name":"Miller, George Paul",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "6483":{
-                "district":"8",
-                "name":"Miller, George Paul",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"California"
+    "district":8,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ca"
 },
   "bbox": [
     -122.33238,

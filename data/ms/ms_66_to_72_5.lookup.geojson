@@ -1,63 +1,13 @@
 {
-  "id": "ms_66_to_72_05",
+  "id": "ms_66_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"028066072005",
-    "member":{
-        "66":{
-            "9661":{
-                "district":"5",
-                "name":"Venable, William Webb",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1949":{
-                "district":"5",
-                "name":"Collins, Ross Alexander",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "1949":{
-                "district":"5",
-                "name":"Collins, Ross Alexander",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1949":{
-                "district":"5",
-                "name":"Collins, Ross Alexander",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "1949":{
-                "district":"5",
-                "name":"Collins, Ross Alexander",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "1949":{
-                "district":"5",
-                "name":"Collins, Ross Alexander",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "1949":{
-                "district":"5",
-                "name":"Collins, Ross Alexander",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Mississippi"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ms"
 },
   "bbox": [
     -89.78412,

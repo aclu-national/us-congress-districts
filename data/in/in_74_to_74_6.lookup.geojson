@@ -1,21 +1,13 @@
 {
-  "id": "in_74_to_74_06",
+  "id": "in_74_to_74_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"74",
-    "id":"018074074006",
-    "member":{
-        "74":{
-            "4908":{
-                "district":"6",
-                "name":"Jenckes, Virginia Ellis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"74",
-    "statename":"Indiana"
+    "district":6,
+    "end_date":"1936-06-20",
+    "end_session":74,
+    "start_date":"1935-01-03",
+    "start_session":74,
+    "state":"in"
 },
   "bbox": [
     -87.62118,

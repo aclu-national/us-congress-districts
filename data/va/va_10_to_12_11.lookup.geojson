@@ -2,34 +2,12 @@
   "id": "va_10_to_12_11",
   "type": "Feature",
   "properties": {
-    "district":"11",
-    "endcong":"12",
-    "id":"051010012011",
-    "member":{
-        "10":{
-            "3483":{
-                "district":"11",
-                "name":"Garnett, James Mercer",
-                "party":"Republican"
-            }
-        },
-        "11":{
-            "7935":{
-                "district":"11",
-                "name":"Roane, John",
-                "party":"Republican"
-            }
-        },
-        "12":{
-            "7935":{
-                "district":"11",
-                "name":"Roane, John",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"10",
-    "statename":"Virginia"
+    "district":11,
+    "end_date":"1813-03-03",
+    "end_session":12,
+    "start_date":"1807-10-26",
+    "start_session":10,
+    "state":"va"
 },
   "bbox": [
     -77.64328,

@@ -2,48 +2,12 @@
   "id": "ny_58_to_62_24",
   "type": "Feature",
   "properties": {
-    "district":"24",
-    "endcong":"62",
-    "id":"036058062024",
-    "member":{
-        "58":{
-            "8621":{
-                "district":"24",
-                "name":"Smith, George Joseph",
-                "party":"Republican"
-            }
-        },
-        "59":{
-            "5579":{
-                "district":"24",
-                "name":"Le Fevre, Frank Jacob",
-                "party":"Republican"
-            }
-        },
-        "60":{
-            "3048":{
-                "district":"24",
-                "name":"Fairchild, George Winthrop",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "3048":{
-                "district":"24",
-                "name":"Fairchild, George Winthrop",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "3048":{
-                "district":"24",
-                "name":"Fairchild, George Winthrop",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"New York"
+    "district":24,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"ny"
 },
   "bbox": [
     -75.42304,

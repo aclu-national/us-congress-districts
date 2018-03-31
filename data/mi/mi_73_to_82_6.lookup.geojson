@@ -1,84 +1,13 @@
 {
-  "id": "mi_73_to_82_06",
+  "id": "mi_73_to_82_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"82",
-    "id":"026073082006",
-    "member":{
-        "73":{
-            "1388":{
-                "district":"6",
-                "name":"Cady, Claude Ernest",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "758":{
-                "district":"6",
-                "name":"Blackney, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "9457":{
-                "district":"6",
-                "name":"Transue, Andrew Jackson",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "758":{
-                "district":"6",
-                "name":"Blackney, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "758":{
-                "district":"6",
-                "name":"Blackney, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "758":{
-                "district":"6",
-                "name":"Blackney, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "758":{
-                "district":"6",
-                "name":"Blackney, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "758":{
-                "district":"6",
-                "name":"Blackney, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "758":{
-                "district":"6",
-                "name":"Blackney, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "758":{
-                "district":"6",
-                "name":"Blackney, William Wallace",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Michigan"
+    "district":6,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mi"
 },
   "bbox": [
     -84.60329,

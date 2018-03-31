@@ -1,49 +1,13 @@
 {
-  "id": "tn_18_to_22_04",
+  "id": "tn_18_to_22_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"22",
-    "id":"047018022004",
-    "member":{
-        "18":{
-            "4830":{
-                "district":"4",
-                "name":"Isacks, Jacob C.",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "4830":{
-                "district":"4",
-                "name":"Isacks, Jacob C.",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "4830":{
-                "district":"4",
-                "name":"Isacks, Jacob C.",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "4830":{
-                "district":"4",
-                "name":"Isacks, Jacob C.",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "4830":{
-                "district":"4",
-                "name":"Isacks, Jacob C.",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Tennessee"
+    "district":4,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"tn"
 },
   "bbox": [
     -86.32029,

@@ -1,21 +1,13 @@
 {
-  "id": "va_18_to_18_07",
+  "id": "va_18_to_18_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"18",
-    "id":"051018018007",
-    "member":{
-        "18":{
-            "5584":{
-                "district":"7",
-                "name":"Leftwich, Jabez",
-                "party":"Crawford Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"va"
 },
   "bbox": [
     -80.62578,

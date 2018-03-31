@@ -1,84 +1,13 @@
 {
-  "id": "mi_73_to_82_08",
+  "id": "mi_73_to_82_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"82",
-    "id":"026073082008",
-    "member":{
-        "73":{
-            "4147":{
-                "district":"8",
-                "name":"Hart, Michael James",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "2159":{
-                "district":"8",
-                "name":"Crawford, Fred Lewis",
-                "party":"Republican"
-            }
-        },
-        "75":{
-            "2159":{
-                "district":"8",
-                "name":"Crawford, Fred Lewis",
-                "party":"Republican"
-            }
-        },
-        "76":{
-            "2159":{
-                "district":"8",
-                "name":"Crawford, Fred Lewis",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "2159":{
-                "district":"8",
-                "name":"Crawford, Fred Lewis",
-                "party":"Republican"
-            }
-        },
-        "78":{
-            "2159":{
-                "district":"8",
-                "name":"Crawford, Fred Lewis",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "2159":{
-                "district":"8",
-                "name":"Crawford, Fred Lewis",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "2159":{
-                "district":"8",
-                "name":"Crawford, Fred Lewis",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "2159":{
-                "district":"8",
-                "name":"Crawford, Fred Lewis",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "2159":{
-                "district":"8",
-                "name":"Crawford, Fred Lewis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Michigan"
+    "district":8,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"mi"
 },
   "bbox": [
     -85.56298,

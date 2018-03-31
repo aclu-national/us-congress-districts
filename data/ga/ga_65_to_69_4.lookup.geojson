@@ -1,54 +1,13 @@
 {
-  "id": "ga_65_to_69_04",
+  "id": "ga_65_to_69_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"69",
-    "id":"013065069004",
-    "member":{
-        "65":{
-            "10401":{
-                "district":"4",
-                "name":"Wright, William Carter",
-                "party":"Democrat"
-            },
-            "44":{
-                "district":"4",
-                "name":"Adamson, William Charles",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "10401":{
-                "district":"4",
-                "name":"Wright, William Carter",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "10401":{
-                "district":"4",
-                "name":"Wright, William Carter",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "10401":{
-                "district":"4",
-                "name":"Wright, William Carter",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "10401":{
-                "district":"4",
-                "name":"Wright, William Carter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"65",
-    "statename":"Georgia"
+    "district":4,
+    "end_date":"1927-03-04",
+    "end_session":69,
+    "start_date":"1917-03-05",
+    "start_session":65,
+    "state":"ga"
 },
   "bbox": [
     -85.33823,

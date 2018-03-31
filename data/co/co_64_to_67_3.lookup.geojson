@@ -1,42 +1,13 @@
 {
-  "id": "co_64_to_67_03",
+  "id": "co_64_to_67_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"67",
-    "id":"008064067003",
-    "member":{
-        "64":{
-            "5115":{
-                "district":"3",
-                "name":"Keating, Edward",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "5115":{
-                "district":"3",
-                "name":"Keating, Edward",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "4062":{
-                "district":"3",
-                "name":"Hardy, Guy Urban",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "4062":{
-                "district":"3",
-                "name":"Hardy, Guy Urban",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Colorado"
+    "district":3,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"co"
 },
   "bbox": [
     -107.14514,

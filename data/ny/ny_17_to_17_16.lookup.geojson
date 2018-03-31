@@ -2,20 +2,12 @@
   "id": "ny_17_to_17_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"17",
-    "id":"036017017016",
-    "member":{
-        "17":{
-            "5292":{
-                "district":"16",
-                "name":"Kirkland, Joseph",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"17",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1823-03-03",
+    "end_session":17,
+    "start_date":"1821-12-03",
+    "start_session":17,
+    "state":"ny"
 },
   "bbox": [
     -76.51264,

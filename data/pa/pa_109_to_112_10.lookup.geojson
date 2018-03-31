@@ -2,41 +2,12 @@
   "id": "pa_109_to_112_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"112",
-    "id":"042109112010",
-    "member":{
-        "109":{
-            "29933":{
-                "district":"10",
-                "name":"Sherwood, Donald",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20746":{
-                "district":"10",
-                "name":"Carney, Christopher P.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20746":{
-                "district":"10",
-                "name":"Carney, Christopher P.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21170":{
-                "district":"10",
-                "name":"Marino, Tom",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"109",
-    "statename":"Pennsylvania"
+    "district":10,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2005-01-04",
+    "start_session":109,
+    "state":"pa"
 },
   "bbox": [
     -77.36349,

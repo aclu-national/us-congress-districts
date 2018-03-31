@@ -1,63 +1,13 @@
 {
-  "id": "ms_66_to_72_08",
+  "id": "ms_66_to_72_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"72",
-    "id":"028066072008",
-    "member":{
-        "66":{
-            "1942":{
-                "district":"8",
-                "name":"Collier, James William",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1942":{
-                "district":"8",
-                "name":"Collier, James William",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "1942":{
-                "district":"8",
-                "name":"Collier, James William",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1942":{
-                "district":"8",
-                "name":"Collier, James William",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "1942":{
-                "district":"8",
-                "name":"Collier, James William",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "1942":{
-                "district":"8",
-                "name":"Collier, James William",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "1942":{
-                "district":"8",
-                "name":"Collier, James William",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"Mississippi"
+    "district":8,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ms"
 },
   "bbox": [
     -91.17458,

@@ -1,49 +1,13 @@
 {
-  "id": "md_33_to_37_05",
+  "id": "md_33_to_37_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"37",
-    "id":"024033037005",
-    "member":{
-        "33":{
-            "3998":{
-                "district":"5",
-                "name":"Hamilton, William Thomas",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "4490":{
-                "district":"5",
-                "name":"Hoffman, Henry William",
-                "party":"American"
-            }
-        },
-        "35":{
-            "5375":{
-                "district":"5",
-                "name":"Kunkel, Jacob Michael",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "5375":{
-                "district":"5",
-                "name":"Kunkel, Jacob Michael",
-                "party":"Democrat"
-            }
-        },
-        "37":{
-            "9292":{
-                "district":"5",
-                "name":"Thomas, Francis",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Maryland"
+    "district":5,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"md"
 },
   "bbox": [
     -79.48765,

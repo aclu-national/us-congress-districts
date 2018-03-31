@@ -2,48 +2,12 @@
   "id": "ny_18_to_22_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"22",
-    "id":"036018022030",
-    "member":{
-        "18":{
-            "9447":{
-                "district":"30",
-                "name":"Tracy, Albert Haller",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "3486":{
-                "district":"30",
-                "name":"Garnsey, Daniel Greene",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "3486":{
-                "district":"30",
-                "name":"Garnsey, Daniel Greene",
-                "party":"Adams"
-            }
-        },
-        "21":{
-            "6966":{
-                "district":"30",
-                "name":"Norton, Ebenezer Foote",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "2027":{
-                "district":"30",
-                "name":"Cooke, Bates",
-                "party":"Anti Masonic"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"New York"
+    "district":30,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"ny"
 },
   "bbox": [
     -79.76215,

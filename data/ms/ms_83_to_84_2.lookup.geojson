@@ -1,28 +1,13 @@
 {
-  "id": "ms_83_to_84_02",
+  "id": "ms_83_to_84_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"84",
-    "id":"028083084002",
-    "member":{
-        "83":{
-            "10075":{
-                "district":"2",
-                "name":"Whitten, Jamie Lloyd",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "10075":{
-                "district":"2",
-                "name":"Whitten, Jamie Lloyd",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Mississippi"
+    "district":2,
+    "end_date":"1956-07-27",
+    "end_session":84,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"ms"
 },
   "bbox": [
     -90.45164,

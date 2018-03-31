@@ -1,49 +1,13 @@
 {
-  "id": "mo_93_to_97_05",
+  "id": "mo_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"029093097005",
-    "member":{
-        "93":{
-            "835":{
-                "district":"5",
-                "name":"Bolling, Richard Walker",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "835":{
-                "district":"5",
-                "name":"Bolling, Richard Walker",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "835":{
-                "district":"5",
-                "name":"Bolling, Richard Walker",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "835":{
-                "district":"5",
-                "name":"Bolling, Richard Walker",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "835":{
-                "district":"5",
-                "name":"Bolling, Richard Walker",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Missouri"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"mo"
 },
   "bbox": [
     -94.60863,

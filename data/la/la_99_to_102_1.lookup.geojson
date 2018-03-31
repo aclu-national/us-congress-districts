@@ -1,42 +1,13 @@
 {
-  "id": "la_99_to_102_01",
+  "id": "la_99_to_102_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"102",
-    "id":"022099102001",
-    "member":{
-        "100":{
-            "14469":{
-                "district":"1",
-                "name":"Livingston, Robert L.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "14469":{
-                "district":"1",
-                "name":"Livingston, Robert L.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "14469":{
-                "district":"1",
-                "name":"Livingston, Robert L.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "14469":{
-                "district":"1",
-                "name":"Livingston, Robert L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Louisiana"
+    "district":1,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"la"
 },
   "bbox": [
     -90.2802,

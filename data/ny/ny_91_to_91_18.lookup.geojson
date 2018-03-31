@@ -2,20 +2,12 @@
   "id": "ny_91_to_91_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"91",
-    "id":"036091091018",
-    "member":{
-        "91":{
-            "7568":{
-                "district":"18",
-                "name":"Powell, Adam Clayton, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"New York"
+    "district":18,
+    "end_date":"1971-01-02",
+    "end_session":91,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"ny"
 },
   "bbox": [
     -73.96112,

@@ -1,54 +1,13 @@
 {
-  "id": "ma_23_to_27_06",
+  "id": "ma_23_to_27_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"27",
-    "id":"025023027006",
-    "member":{
-        "23":{
-            "3812":{
-                "district":"6",
-                "name":"Grennell, George Jr.",
-                "party":"Anti-Jackson"
-            }
-        },
-        "24":{
-            "3812":{
-                "district":"6",
-                "name":"Grennell, George Jr.",
-                "party":"Anti-Jackson"
-            }
-        },
-        "25":{
-            "3812":{
-                "district":"6",
-                "name":"Grennell, George Jr.",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "149":{
-                "district":"6",
-                "name":"Alvord, James Church",
-                "party":"Whig"
-            },
-            "370":{
-                "district":"6",
-                "name":"Baker, Osmyn",
-                "party":"Whig"
-            }
-        },
-        "27":{
-            "370":{
-                "district":"6",
-                "name":"Baker, Osmyn",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ma"
 },
   "bbox": [
     -72.90431,

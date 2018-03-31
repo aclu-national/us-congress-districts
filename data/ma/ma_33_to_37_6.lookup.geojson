@@ -1,49 +1,13 @@
 {
-  "id": "ma_33_to_37_06",
+  "id": "ma_33_to_37_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"37",
-    "id":"025033037006",
-    "member":{
-        "33":{
-            "9566":{
-                "district":"6",
-                "name":"Upham, Charles Wentworth",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "2416":{
-                "district":"6",
-                "name":"Davis, Timothy",
-                "party":"American"
-            }
-        },
-        "35":{
-            "2416":{
-                "district":"6",
-                "name":"Davis, Timothy",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "136":{
-                "district":"6",
-                "name":"Alley, John Bassett",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "136":{
-                "district":"6",
-                "name":"Alley, John Bassett",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ma"
 },
   "bbox": [
     -71.05889,

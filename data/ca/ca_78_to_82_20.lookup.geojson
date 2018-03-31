@@ -2,48 +2,12 @@
   "id": "ca_78_to_82_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"82",
-    "id":"006078082020",
-    "member":{
-        "78":{
-            "4450":{
-                "district":"20",
-                "name":"Hinshaw, John Carl William",
-                "party":"Republican"
-            }
-        },
-        "79":{
-            "4450":{
-                "district":"20",
-                "name":"Hinshaw, John Carl William",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "4450":{
-                "district":"20",
-                "name":"Hinshaw, John Carl William",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "4450":{
-                "district":"20",
-                "name":"Hinshaw, John Carl William",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "4450":{
-                "district":"20",
-                "name":"Hinshaw, John Carl William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"California"
+    "district":20,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"ca"
 },
   "bbox": [
     -118.89472,

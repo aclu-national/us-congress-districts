@@ -1,42 +1,13 @@
 {
-  "id": "fl_69_to_72_03",
+  "id": "fl_69_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"012069072003",
-    "member":{
-        "69":{
-            "8712":{
-                "district":"3",
-                "name":"Smithwick, John Harris",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "10428":{
-                "district":"3",
-                "name":"Yon, Thomas Alva",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "10428":{
-                "district":"3",
-                "name":"Yon, Thomas Alva",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "10428":{
-                "district":"3",
-                "name":"Yon, Thomas Alva",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"69",
-    "statename":"Florida"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1925-03-04",
+    "start_session":69,
+    "state":"fl"
 },
   "bbox": [
     -87.63494,

@@ -1,42 +1,13 @@
 {
-  "id": "ms_99_to_102_04",
+  "id": "ms_99_to_102_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"102",
-    "id":"028099102004",
-    "member":{
-        "100":{
-            "14874":{
-                "district":"4",
-                "name":"Dowdy, Wayne",
-                "party":"Democrat"
-            }
-        },
-        "101":{
-            "15617":{
-                "district":"4",
-                "name":"Parker, Mike",
-                "party":"Democrat"
-            }
-        },
-        "102":{
-            "15617":{
-                "district":"4",
-                "name":"Parker, Mike",
-                "party":"Democrat"
-            }
-        },
-        "99":{
-            "14874":{
-                "district":"4",
-                "name":"Dowdy, Wayne",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"Mississippi"
+    "district":4,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ms"
 },
   "bbox": [
     -91.63682,

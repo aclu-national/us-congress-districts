@@ -1,54 +1,13 @@
 {
-  "id": "il_83_to_87_07",
+  "id": "il_83_to_87_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"87",
-    "id":"017083087007",
-    "member":{
-        "83":{
-            "912":{
-                "district":"7",
-                "name":"Bowler, James Bernard",
-                "party":"Democrat"
-            }
-        },
-        "84":{
-            "912":{
-                "district":"7",
-                "name":"Bowler, James Bernard",
-                "party":"Democrat"
-            }
-        },
-        "85":{
-            "5654":{
-                "district":"7",
-                "name":"Libonati, Roland Victor",
-                "party":"Democrat"
-            },
-            "912":{
-                "district":"7",
-                "name":"Bowler, James Bernard",
-                "party":"Democrat"
-            }
-        },
-        "86":{
-            "5654":{
-                "district":"7",
-                "name":"Libonati, Roland Victor",
-                "party":"Democrat"
-            }
-        },
-        "87":{
-            "5654":{
-                "district":"7",
-                "name":"Libonati, Roland Victor",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":7,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -87.7259,

@@ -1,42 +1,13 @@
 {
-  "id": "ga_49_to_52_04",
+  "id": "ga_49_to_52_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"52",
-    "id":"013049052004",
-    "member":{
-        "49":{
-            "4101":{
-                "district":"4",
-                "name":"Harris, Henry Richard",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "3835":{
-                "district":"4",
-                "name":"Grimes, Thomas Wingfield",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "3835":{
-                "district":"4",
-                "name":"Grimes, Thomas Wingfield",
-                "party":"Democrat"
-            }
-        },
-        "52":{
-            "6749":{
-                "district":"4",
-                "name":"Moses, Charles Leavell",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"49",
-    "statename":"Georgia"
+    "district":4,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1885-03-04",
+    "start_session":49,
+    "state":"ga"
 },
   "bbox": [
     -85.33823,

@@ -2,27 +2,12 @@
   "id": "ny_66_to_67_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"67",
-    "id":"036066067016",
-    "member":{
-        "66":{
-            "8689":{
-                "district":"16",
-                "name":"Smith, Thomas Francis",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1891":{
-                "district":"16",
-                "name":"Cockran, William Bourke",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":16,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -73.9904,

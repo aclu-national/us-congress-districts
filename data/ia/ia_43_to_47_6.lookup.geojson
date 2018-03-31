@@ -1,54 +1,13 @@
 {
-  "id": "ia_43_to_47_06",
+  "id": "ia_43_to_47_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"47",
-    "id":"019043047006",
-    "member":{
-        "43":{
-            "5787":{
-                "district":"6",
-                "name":"Loughridge, William",
-                "party":"Republican"
-            }
-        },
-        "44":{
-            "8189":{
-                "district":"6",
-                "name":"Sampson, Ezekiel Silas",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "8189":{
-                "district":"6",
-                "name":"Sampson, Ezekiel Silas",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "9894":{
-                "district":"6",
-                "name":"Weaver, James Baird",
-                "party":"National Greenbacker"
-            }
-        },
-        "47":{
-            "2018":{
-                "district":"6",
-                "name":"Cook, John Calhoun",
-                "party":"Democrat"
-            },
-            "2293":{
-                "district":"6",
-                "name":"Cutts, Marsena Edgar",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Iowa"
+    "district":6,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ia"
 },
   "bbox": [
     -93.34856,

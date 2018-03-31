@@ -1,49 +1,13 @@
 {
-  "id": "mo_108_to_112_07",
+  "id": "mo_108_to_112_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"112",
-    "id":"029108112007",
-    "member":{
-        "108":{
-            "29735":{
-                "district":"7",
-                "name":"Blunt, Roy",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29735":{
-                "district":"7",
-                "name":"Blunt, Roy",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29735":{
-                "district":"7",
-                "name":"Blunt, Roy",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29735":{
-                "district":"7",
-                "name":"Blunt, Roy",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21150":{
-                "district":"7",
-                "name":"Long, Billy",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Missouri"
+    "district":7,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"mo"
 },
   "bbox": [
     -94.61866,

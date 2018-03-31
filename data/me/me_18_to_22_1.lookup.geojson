@@ -1,49 +1,13 @@
 {
-  "id": "me_18_to_22_01",
+  "id": "me_18_to_22_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"22",
-    "id":"023018022001",
-    "member":{
-        "18":{
-            "1280":{
-                "district":"1",
-                "name":"Burleigh, William",
-                "party":"Adams-Clay Republican"
-            }
-        },
-        "19":{
-            "1280":{
-                "district":"1",
-                "name":"Burleigh, William",
-                "party":"Adams"
-            }
-        },
-        "20":{
-            "6277":{
-                "district":"1",
-                "name":"McIntire, Rufus",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "6277":{
-                "district":"1",
-                "name":"McIntire, Rufus",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "6277":{
-                "district":"1",
-                "name":"McIntire, Rufus",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Maine"
+    "district":1,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"me"
 },
   "bbox": [
     -70.98907,

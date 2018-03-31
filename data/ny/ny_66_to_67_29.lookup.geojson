@@ -2,27 +2,12 @@
   "id": "ny_66_to_67_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"67",
-    "id":"036066067029",
-    "member":{
-        "66":{
-            "7196":{
-                "district":"29",
-                "name":"Parker, James Southworth",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "7196":{
-                "district":"29",
-                "name":"Parker, James Southworth",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"66",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1923-03-03",
+    "end_session":67,
+    "start_date":"1919-05-19",
+    "start_session":66,
+    "state":"ny"
 },
   "bbox": [
     -74.21463,

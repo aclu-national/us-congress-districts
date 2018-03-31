@@ -1,49 +1,13 @@
 {
-  "id": "ia_93_to_97_03",
+  "id": "ia_93_to_97_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"97",
-    "id":"019093097003",
-    "member":{
-        "93":{
-            "3853":{
-                "district":"3",
-                "name":"Gross, Harold Royce",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "14226":{
-                "district":"3",
-                "name":"Grassley, Charles",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14226":{
-                "district":"3",
-                "name":"Grassley, Charles",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14226":{
-                "district":"3",
-                "name":"Grassley, Charles",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14820":{
-                "district":"3",
-                "name":"Evans, Cooper",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Iowa"
+    "district":3,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ia"
 },
   "bbox": [
     -93.97188,

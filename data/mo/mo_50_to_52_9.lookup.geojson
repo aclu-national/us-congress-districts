@@ -1,35 +1,13 @@
 {
-  "id": "mo_50_to_52_09",
+  "id": "mo_50_to_52_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"52",
-    "id":"029050052009",
-    "member":{
-        "50":{
-            "3635":{
-                "district":"9",
-                "name":"Glover, John Milton",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "3338":{
-                "district":"9",
-                "name":"Frank, Nathan",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "1870":{
-                "district":"9",
-                "name":"Cobb, Seth Wallace",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Missouri"
+    "district":9,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"mo"
 },
   "bbox": [
     -90.32051,

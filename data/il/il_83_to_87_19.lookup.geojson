@@ -2,48 +2,12 @@
   "id": "il_83_to_87_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"87",
-    "id":"017083087019",
-    "member":{
-        "83":{
-            "1702":{
-                "district":"19",
-                "name":"Chiperfield, Robert Bruce",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "1702":{
-                "district":"19",
-                "name":"Chiperfield, Robert Bruce",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "1702":{
-                "district":"19",
-                "name":"Chiperfield, Robert Bruce",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "1702":{
-                "district":"19",
-                "name":"Chiperfield, Robert Bruce",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "1702":{
-                "district":"19",
-                "name":"Chiperfield, Robert Bruce",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Illinois"
+    "district":19,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"il"
 },
   "bbox": [
     -91.18529,

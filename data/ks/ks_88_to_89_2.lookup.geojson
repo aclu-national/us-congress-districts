@@ -1,28 +1,13 @@
 {
-  "id": "ks_88_to_89_02",
+  "id": "ks_88_to_89_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"89",
-    "id":"020088089002",
-    "member":{
-        "88":{
-            "301":{
-                "district":"2",
-                "name":"Avery, William Henry",
-                "party":"Republican"
-            }
-        },
-        "89":{
-            "10758":{
-                "district":"2",
-                "name":"Mize, Chester L.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Kansas"
+    "district":2,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"ks"
 },
   "bbox": [
     -97.37115,

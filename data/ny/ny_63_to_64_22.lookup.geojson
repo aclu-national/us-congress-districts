@@ -2,27 +2,12 @@
   "id": "ny_63_to_64_22",
   "type": "Feature",
   "properties": {
-    "district":"22",
-    "endcong":"64",
-    "id":"036063064022",
-    "member":{
-        "63":{
-            "1159":{
-                "district":"22",
-                "name":"Bruckner, Henry",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "1159":{
-                "district":"22",
-                "name":"Bruckner, Henry",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"New York"
+    "district":22,
+    "end_date":"1917-03-03",
+    "end_session":64,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"ny"
 },
   "bbox": [
     -73.95594,

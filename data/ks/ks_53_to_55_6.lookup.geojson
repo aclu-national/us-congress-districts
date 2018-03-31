@@ -1,35 +1,13 @@
 {
-  "id": "ks_53_to_55_06",
+  "id": "ks_53_to_55_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"55",
-    "id":"020053055006",
-    "member":{
-        "53":{
-            "373":{
-                "district":"6",
-                "name":"Baker, William",
-                "party":"Populist"
-            }
-        },
-        "54":{
-            "373":{
-                "district":"6",
-                "name":"Baker, William",
-                "party":"Populist"
-            }
-        },
-        "55":{
-            "6182":{
-                "district":"6",
-                "name":"McCormick, Nelson B.",
-                "party":"Populist"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Kansas"
+    "district":6,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"ks"
 },
   "bbox": [
     -102.05177,

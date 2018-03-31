@@ -1,21 +1,13 @@
 {
-  "id": "va_18_to_18_08",
+  "id": "va_18_to_18_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"18",
-    "id":"051018018008",
-    "member":{
-        "18":{
-            "505":{
-                "district":"8",
-                "name":"Bassett, Burwell",
-                "party":"Crawford Republican"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Virginia"
+    "district":8,
+    "end_date":"1825-03-03",
+    "end_session":18,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"va"
 },
   "bbox": [
     -76.91586,

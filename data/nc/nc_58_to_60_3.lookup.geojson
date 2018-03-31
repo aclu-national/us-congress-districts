@@ -1,35 +1,13 @@
 {
-  "id": "nc_58_to_60_03",
+  "id": "nc_58_to_60_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"60",
-    "id":"037058060003",
-    "member":{
-        "58":{
-            "9287":{
-                "district":"3",
-                "name":"Thomas, Charles Randolph",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "9287":{
-                "district":"3",
-                "name":"Thomas, Charles Randolph",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "9287":{
-                "district":"3",
-                "name":"Thomas, Charles Randolph",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1909-03-03",
+    "end_session":60,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"nc"
 },
   "bbox": [
     -78.6724,

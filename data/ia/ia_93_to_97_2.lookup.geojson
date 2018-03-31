@@ -1,49 +1,13 @@
 {
-  "id": "ia_93_to_97_02",
+  "id": "ia_93_to_97_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"97",
-    "id":"019093097002",
-    "member":{
-        "93":{
-            "10715":{
-                "district":"2",
-                "name":"Culver, John C.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14207":{
-                "district":"2",
-                "name":"Blouin, Michael",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "14207":{
-                "district":"2",
-                "name":"Blouin, Michael",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14668":{
-                "district":"2",
-                "name":"Tauke, Thomas Joseph",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14668":{
-                "district":"2",
-                "name":"Tauke, Thomas Joseph",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Iowa"
+    "district":2,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"ia"
 },
   "bbox": [
     -92.08201,

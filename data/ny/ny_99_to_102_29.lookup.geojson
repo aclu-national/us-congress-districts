@@ -2,41 +2,12 @@
   "id": "ny_99_to_102_29",
   "type": "Feature",
   "properties": {
-    "district":"29",
-    "endcong":"102",
-    "id":"036099102029",
-    "member":{
-        "100":{
-            "10596":{
-                "district":"29",
-                "name":"Horton, Frank J.",
-                "party":"Republican"
-            }
-        },
-        "101":{
-            "10596":{
-                "district":"29",
-                "name":"Horton, Frank J.",
-                "party":"Republican"
-            }
-        },
-        "102":{
-            "10596":{
-                "district":"29",
-                "name":"Horton, Frank J.",
-                "party":"Republican"
-            }
-        },
-        "99":{
-            "10596":{
-                "district":"29",
-                "name":"Horton, Frank J.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"99",
-    "statename":"New York"
+    "district":29,
+    "end_date":"1992-10-09",
+    "end_session":102,
+    "start_date":"1985-01-03",
+    "start_session":99,
+    "state":"ny"
 },
   "bbox": [
     -77.68077,

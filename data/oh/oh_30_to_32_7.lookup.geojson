@@ -1,35 +1,13 @@
 {
-  "id": "oh_30_to_32_07",
+  "id": "oh_30_to_32_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"32",
-    "id":"039030032007",
-    "member":{
-        "30":{
-            "6706":{
-                "district":"7",
-                "name":"Morris, Jonathan David",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "6706":{
-                "district":"7",
-                "name":"Morris, Jonathan David",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "462":{
-                "district":"7",
-                "name":"Barrere, Nelson",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"30",
-    "statename":"Ohio"
+    "district":7,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1847-12-06",
+    "start_session":30,
+    "state":"oh"
 },
   "bbox": [
     -84.31964,

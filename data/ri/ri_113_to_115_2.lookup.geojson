@@ -1,19 +1,13 @@
 {
-  "id": "ri_113_to_115_02",
+  "id": "ri_113_to_115_2",
   "type": "Feature",
   "properties": {
-    "ALAND":1982213496,
-    "AWATER":694897112,
-    "CD113FP":"02",
-    "CDSESSN":"113",
-    "FUNCSTAT":"N",
-    "GEOID":"4402",
-    "INTPTLAT":"+41.5696012",
-    "INTPTLON":"-071.6155143",
-    "LSAD":"C2",
-    "MTFCC":"G5200",
-    "NAMELSAD":"Congressional District 2",
-    "STATEFP":"44"
+    "district":2,
+    "end_date":"2019-01-03",
+    "end_session":115,
+    "start_date":"2013-01-03",
+    "start_session":113,
+    "state":"ri"
 },
   "bbox": [
     -71.907258,

@@ -1,21 +1,13 @@
 {
-  "id": "ms_34_to_34_05",
+  "id": "ms_34_to_34_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"34",
-    "id":"028034034005",
-    "member":{
-        "34":{
-            "7681":{
-                "district":"5",
-                "name":"Quitman, John Anthony",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Mississippi"
+    "district":5,
+    "end_date":"1857-03-03",
+    "end_session":34,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"ms"
 },
   "bbox": [
     -91.65501,

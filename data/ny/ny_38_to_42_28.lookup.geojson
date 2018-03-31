@@ -2,53 +2,12 @@
   "id": "ny_38_to_42_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"42",
-    "id":"036038042028",
-    "member":{
-        "38":{
-            "1792":{
-                "district":"28",
-                "name":"Clarke, Freeman",
-                "party":"Republican"
-            }
-        },
-        "39":{
-            "4149":{
-                "district":"28",
-                "name":"Hart, Roswell",
-                "party":"Republican"
-            }
-        },
-        "40":{
-            "8358":{
-                "district":"28",
-                "name":"Selye, Lewis",
-                "party":"Ind. Republican"
-            }
-        },
-        "41":{
-            "2403":{
-                "district":"28",
-                "name":"Davis, Noah",
-                "party":"Republican"
-            },
-            "4531":{
-                "district":"28",
-                "name":"Holmes, Charles Horace",
-                "party":"Republican"
-            }
-        },
-        "42":{
-            "1792":{
-                "district":"28",
-                "name":"Clarke, Freeman",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"38",
-    "statename":"New York"
+    "district":28,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1863-03-04",
+    "start_session":38,
+    "state":"ny"
 },
   "bbox": [
     -78.46648,

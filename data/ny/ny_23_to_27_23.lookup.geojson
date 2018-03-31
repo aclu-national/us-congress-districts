@@ -2,73 +2,12 @@
   "id": "ny_23_to_27_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"27",
-    "id":"036023027023",
-    "member":{
-        "23":{
-            "3402":{
-                "district":"23",
-                "name":"Fuller, William Kendall",
-                "party":"Jackson"
-            },
-            "9234":{
-                "district":"23",
-                "name":"Taylor, William",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "3402":{
-                "district":"23",
-                "name":"Fuller, William Kendall",
-                "party":"Jackson"
-            },
-            "9234":{
-                "district":"23",
-                "name":"Taylor, William",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "689":{
-                "district":"23",
-                "name":"Bicknell, Bennet",
-                "party":"Democrat"
-            },
-            "9234":{
-                "district":"23",
-                "name":"Taylor, William",
-                "party":"Democrat"
-            }
-        },
-        "26":{
-            "2818":{
-                "district":"23",
-                "name":"Earll, Nehemiah Hezekiah",
-                "party":"Democrat"
-            },
-            "8025":{
-                "district":"23",
-                "name":"Rogers, Edward",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "3298":{
-                "district":"23",
-                "name":"Foster, A. Lawrence",
-                "party":"Whig"
-            },
-            "729":{
-                "district":"23",
-                "name":"Birdseye, Victory",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"ny"
 },
   "bbox": [
     -76.49932,

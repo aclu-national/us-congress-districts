@@ -2,48 +2,12 @@
   "id": "ny_68_to_72_33",
   "type": "Feature",
   "properties": {
-    "district":"33",
-    "endcong":"72",
-    "id":"036068072033",
-    "member":{
-        "68":{
-            "8733":{
-                "district":"33",
-                "name":"Snyder, Homer Peter",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "2352":{
-                "district":"33",
-                "name":"Davenport, Frederick Morgan",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "2352":{
-                "district":"33",
-                "name":"Davenport, Frederick Morgan",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "2352":{
-                "district":"33",
-                "name":"Davenport, Frederick Morgan",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "2352":{
-                "district":"33",
-                "name":"Davenport, Frederick Morgan",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"New York"
+    "district":33,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"ny"
 },
   "bbox": [
     -75.88676,

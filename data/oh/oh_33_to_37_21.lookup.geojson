@@ -2,48 +2,12 @@
   "id": "oh_33_to_37_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"37",
-    "id":"039033037021",
-    "member":{
-        "33":{
-            "9050":{
-                "district":"21",
-                "name":"Stuart, Andrew",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "717":{
-                "district":"21",
-                "name":"Bingham, John Armor",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "717":{
-                "district":"21",
-                "name":"Bingham, John Armor",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "717":{
-                "district":"21",
-                "name":"Bingham, John Armor",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "717":{
-                "district":"21",
-                "name":"Bingham, John Armor",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":21,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -81.33956,

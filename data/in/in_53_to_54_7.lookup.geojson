@@ -1,28 +1,13 @@
 {
-  "id": "in_53_to_54_07",
+  "id": "in_53_to_54_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"54",
-    "id":"018053054007",
-    "member":{
-        "53":{
-            "1363":{
-                "district":"7",
-                "name":"Bynum, William Dallas",
-                "party":"Democrat"
-            }
-        },
-        "54":{
-            "4329":{
-                "district":"7",
-                "name":"Henry, Charles Lewis",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"53",
-    "statename":"Indiana"
+    "district":7,
+    "end_date":"1897-03-03",
+    "end_session":54,
+    "start_date":"1893-03-04",
+    "start_session":53,
+    "state":"in"
 },
   "bbox": [
     -86.32829,

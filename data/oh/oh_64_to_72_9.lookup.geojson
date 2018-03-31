@@ -1,77 +1,13 @@
 {
-  "id": "oh_64_to_72_09",
+  "id": "oh_64_to_72_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"72",
-    "id":"039064072009",
-    "member":{
-        "64":{
-            "8463":{
-                "district":"9",
-                "name":"Sherwood, Isaac R.",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "8463":{
-                "district":"9",
-                "name":"Sherwood, Isaac R.",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "8463":{
-                "district":"9",
-                "name":"Sherwood, Isaac R.",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1619":{
-                "district":"9",
-                "name":"Chalmers, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "8463":{
-                "district":"9",
-                "name":"Sherwood, Isaac R.",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "1619":{
-                "district":"9",
-                "name":"Chalmers, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "1619":{
-                "district":"9",
-                "name":"Chalmers, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "1619":{
-                "district":"9",
-                "name":"Chalmers, William Wallace",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "10048":{
-                "district":"9",
-                "name":"White, Wilbur McKee",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":9,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -83.88329,

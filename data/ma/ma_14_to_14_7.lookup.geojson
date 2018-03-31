@@ -1,21 +1,13 @@
 {
-  "id": "ma_14_to_14_07",
+  "id": "ma_14_to_14_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"14",
-    "id":"025014014007",
-    "member":{
-        "14":{
-            "4712":{
-                "district":"7",
-                "name":"Hulbert, John Whitefield",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"14",
-    "statename":"Massachusetts"
+    "district":7,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1815-12-04",
+    "start_session":14,
+    "state":"ma"
 },
   "bbox": [
     -73.50814,

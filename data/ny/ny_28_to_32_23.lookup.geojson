@@ -2,48 +2,12 @@
   "id": "ny_28_to_32_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"32",
-    "id":"036028032023",
-    "member":{
-        "28":{
-            "7990":{
-                "district":"23",
-                "name":"Robinson, Orville",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "4601":{
-                "district":"23",
-                "name":"Hough, William Jervis",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "2744":{
-                "district":"23",
-                "name":"Duer, William",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "2744":{
-                "district":"23",
-                "name":"Duer, William",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "315":{
-                "district":"23",
-                "name":"Babcock, Leander",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"New York"
+    "district":23,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ny"
 },
   "bbox": [
     -76.61696,

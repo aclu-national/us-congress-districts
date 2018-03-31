@@ -1,77 +1,13 @@
 {
-  "id": "sc_104_to_112_05",
+  "id": "sc_104_to_112_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"112",
-    "id":"045104112005",
-    "member":{
-        "104":{
-            "15064":{
-                "district":"5",
-                "name":"Spratt, John M.",
-                "party":"Democrat"
-            }
-        },
-        "105":{
-            "15064":{
-                "district":"5",
-                "name":"Spratt, John M., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "106":{
-            "15064":{
-                "district":"5",
-                "name":"Spratt, John M., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "107":{
-            "15064":{
-                "district":"5",
-                "name":"Spratt, John M., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "108":{
-            "15064":{
-                "district":"5",
-                "name":"Spratt, John M., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "15064":{
-                "district":"5",
-                "name":"Spratt, John M., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "15064":{
-                "district":"5",
-                "name":"Spratt, John M., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "15064":{
-                "district":"5",
-                "name":"Spratt, John M., Jr.",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "21176":{
-                "district":"5",
-                "name":"Mulvaney, Mick",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"104",
-    "statename":"South Carolina"
+    "district":5,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"1995-01-04",
+    "start_session":104,
+    "state":"sc"
 },
   "bbox": [
     -81.94502,

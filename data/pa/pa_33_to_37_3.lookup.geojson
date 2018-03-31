@@ -1,49 +1,13 @@
 {
-  "id": "pa_33_to_37_03",
+  "id": "pa_33_to_37_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"37",
-    "id":"042033037003",
-    "member":{
-        "33":{
-            "7944":{
-                "district":"3",
-                "name":"Robbins, John",
-                "party":"Democrat"
-            }
-        },
-        "34":{
-            "6535":{
-                "district":"3",
-                "name":"Millward, William",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "5438":{
-                "district":"3",
-                "name":"Landy, James",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "9664":{
-                "district":"3",
-                "name":"Verree, John Paul",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "9664":{
-                "district":"3",
-                "name":"Verree, John Paul",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":3,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -75.14911,

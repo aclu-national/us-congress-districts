@@ -2,53 +2,12 @@
   "id": "pa_68_to_72_20",
   "type": "Feature",
   "properties": {
-    "district":"20",
-    "endcong":"72",
-    "id":"042068072020",
-    "member":{
-        "68":{
-            "9958":{
-                "district":"20",
-                "name":"Wertz, George M.",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9792":{
-                "district":"20",
-                "name":"Walters, Anderson Howell",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "5573":{
-                "district":"20",
-                "name":"Leech, James Russell",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "5573":{
-                "district":"20",
-                "name":"Leech, James Russell",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5573":{
-                "district":"20",
-                "name":"Leech, James Russell",
-                "party":"Republican"
-            },
-            "9059":{
-                "district":"20",
-                "name":"Stull, Howard William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"68",
-    "statename":"Pennsylvania"
+    "district":20,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1923-12-03",
+    "start_session":68,
+    "state":"pa"
 },
   "bbox": [
     -79.05606,

@@ -1,115 +1,13 @@
 {
-  "id": "ks_60_to_72_02",
+  "id": "ks_60_to_72_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"72",
-    "id":"020060072002",
-    "member":{
-        "60":{
-            "8293":{
-                "district":"2",
-                "name":"Scott, Charles Frederick",
-                "party":"Republican"
-            }
-        },
-        "61":{
-            "8293":{
-                "district":"2",
-                "name":"Scott, Charles Frederick",
-                "party":"Republican"
-            }
-        },
-        "62":{
-            "6552":{
-                "district":"2",
-                "name":"Mitchell, Alexander Clark",
-                "party":"Republican"
-            },
-            "9153":{
-                "district":"2",
-                "name":"Taggart, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "63":{
-            "9153":{
-                "district":"2",
-                "name":"Taggart, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "9153":{
-                "district":"2",
-                "name":"Taggart, Joseph",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "5699":{
-                "district":"2",
-                "name":"Little, Edward Campbell",
-                "party":"Republican"
-            }
-        },
-        "66":{
-            "5699":{
-                "district":"2",
-                "name":"Little, Edward Campbell",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "5699":{
-                "district":"2",
-                "name":"Little, Edward Campbell",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "3885":{
-                "district":"2",
-                "name":"Guyer, Ulysses Samuel",
-                "party":"Republican"
-            },
-            "5699":{
-                "district":"2",
-                "name":"Little, Edward Campbell",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "5698":{
-                "district":"2",
-                "name":"Little, Chauncey Bundy",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "3885":{
-                "district":"2",
-                "name":"Guyer, Ulysses Samuel",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "3885":{
-                "district":"2",
-                "name":"Guyer, Ulysses Samuel",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "3885":{
-                "district":"2",
-                "name":"Guyer, Ulysses Samuel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"60",
-    "statename":"Kansas"
+    "district":2,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1907-12-02",
+    "start_session":60,
+    "state":"ks"
 },
   "bbox": [
     -95.5256,

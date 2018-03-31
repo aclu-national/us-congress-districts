@@ -1,49 +1,13 @@
 {
-  "id": "tn_18_to_22_01",
+  "id": "tn_18_to_22_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"22",
-    "id":"047018022001",
-    "member":{
-        "18":{
-            "769":{
-                "district":"1",
-                "name":"Blair, John",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "769":{
-                "district":"1",
-                "name":"Blair, John",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "769":{
-                "district":"1",
-                "name":"Blair, John",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "769":{
-                "district":"1",
-                "name":"Blair, John",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "769":{
-                "district":"1",
-                "name":"Blair, John",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"Tennessee"
+    "district":1,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"tn"
 },
   "bbox": [
     -83.35824,

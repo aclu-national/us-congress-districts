@@ -2,27 +2,12 @@
   "id": "pa_28_to_29_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"29",
-    "id":"042028029016",
-    "member":{
-        "28":{
-            "744":{
-                "district":"16",
-                "name":"Black, James",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "744":{
-                "district":"16",
-                "name":"Black, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -78.09913,

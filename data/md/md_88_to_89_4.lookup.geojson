@@ -1,28 +1,13 @@
 {
-  "id": "md_88_to_89_04",
+  "id": "md_88_to_89_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"89",
-    "id":"024088089004",
-    "member":{
-        "88":{
-            "3054":{
-                "district":"4",
-                "name":"Fallon, George Hyde",
-                "party":"Democrat"
-            }
-        },
-        "89":{
-            "3054":{
-                "district":"4",
-                "name":"Fallon, George Hyde",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Maryland"
+    "district":4,
+    "end_date":"1966-10-22",
+    "end_session":89,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"md"
 },
   "bbox": [
     -76.68662,

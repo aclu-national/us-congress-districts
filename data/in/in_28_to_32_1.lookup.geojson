@@ -1,49 +1,13 @@
 {
-  "id": "in_28_to_32_01",
+  "id": "in_28_to_32_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"32",
-    "id":"018028032001",
-    "member":{
-        "28":{
-            "7132":{
-                "district":"1",
-                "name":"Owen, Robert Dale",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "7132":{
-                "district":"1",
-                "name":"Owen, Robert Dale",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "2957":{
-                "district":"1",
-                "name":"Embree, Elisha",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "64":{
-                "district":"1",
-                "name":"Albertson, Nathaniel",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "5735":{
-                "district":"1",
-                "name":"Lockhart, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Indiana"
+    "district":1,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"in"
 },
   "bbox": [
     -88.09789,

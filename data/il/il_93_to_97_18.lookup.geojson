@@ -2,48 +2,12 @@
   "id": "il_93_to_97_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"97",
-    "id":"017093097018",
-    "member":{
-        "93":{
-            "6455":{
-                "district":"18",
-                "name":"Michel, Robert Henry",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "6455":{
-                "district":"18",
-                "name":"Michel, Robert Henry",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "6455":{
-                "district":"18",
-                "name":"Michel, Robert Henry",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "6455":{
-                "district":"18",
-                "name":"Michel, Robert Henry",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "6455":{
-                "district":"18",
-                "name":"Michel, Robert Henry",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Illinois"
+    "district":18,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"il"
 },
   "bbox": [
     -90.91688,

@@ -2,48 +2,12 @@
   "id": "ca_108_to_112_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"112",
-    "id":"006108112019",
-    "member":{
-        "108":{
-            "29505":{
-                "district":"19",
-                "name":"Radanovich, George P.",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "29505":{
-                "district":"19",
-                "name":"Radanovich, George P.",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "29505":{
-                "district":"19",
-                "name":"Radanovich, George P.",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "29505":{
-                "district":"19",
-                "name":"Radanovich, George P.",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "21109":{
-                "district":"19",
-                "name":"Denham, Jeffrey",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"California"
+    "district":19,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"ca"
 },
   "bbox": [
     -121.26005,

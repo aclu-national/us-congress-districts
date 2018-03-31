@@ -1,89 +1,13 @@
 {
-  "id": "nc_63_to_72_03",
+  "id": "nc_63_to_72_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"72",
-    "id":"037063072003",
-    "member":{
-        "63":{
-            "3051":{
-                "district":"3",
-                "name":"Faison, John Miller",
-                "party":"Democrat"
-            }
-        },
-        "64":{
-            "4550":{
-                "district":"3",
-                "name":"Hood, George Ezekial",
-                "party":"Democrat"
-            }
-        },
-        "65":{
-            "4550":{
-                "district":"3",
-                "name":"Hood, George Ezekial",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "1042":{
-                "district":"3",
-                "name":"Brinson, Samuel Mitchell",
-                "party":"Democrat"
-            }
-        },
-        "67":{
-            "1042":{
-                "district":"3",
-                "name":"Brinson, Samuel Mitchell",
-                "party":"Democrat"
-            },
-            "12":{
-                "district":"3",
-                "name":"Abernethy, Charles Laban",
-                "party":"Democrat"
-            }
-        },
-        "68":{
-            "12":{
-                "district":"3",
-                "name":"Abernethy, Charles Laban",
-                "party":"Democrat"
-            }
-        },
-        "69":{
-            "12":{
-                "district":"3",
-                "name":"Abernethy, Charles Laban",
-                "party":"Democrat"
-            }
-        },
-        "70":{
-            "12":{
-                "district":"3",
-                "name":"Abernethy, Charles Laban",
-                "party":"Democrat"
-            }
-        },
-        "71":{
-            "12":{
-                "district":"3",
-                "name":"Abernethy, Charles Laban",
-                "party":"Democrat"
-            }
-        },
-        "72":{
-            "12":{
-                "district":"3",
-                "name":"Abernethy, Charles Laban",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"63",
-    "statename":"North Carolina"
+    "district":3,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1913-03-04",
+    "start_session":63,
+    "state":"nc"
 },
   "bbox": [
     -78.6724,

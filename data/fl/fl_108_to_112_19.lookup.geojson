@@ -2,53 +2,12 @@
   "id": "fl_108_to_112_19",
   "type": "Feature",
   "properties": {
-    "district":"19",
-    "endcong":"112",
-    "id":"012108112019",
-    "member":{
-        "108":{
-            "29715":{
-                "district":"19",
-                "name":"Wexler, Robert",
-                "party":"Democrat"
-            }
-        },
-        "109":{
-            "29715":{
-                "district":"19",
-                "name":"Wexler, Robert",
-                "party":"Democrat"
-            }
-        },
-        "110":{
-            "29715":{
-                "district":"19",
-                "name":"Wexler, Robert",
-                "party":"Democrat"
-            }
-        },
-        "111":{
-            "20959":{
-                "district":"19",
-                "name":"Deutch, Ted",
-                "party":"Democrat"
-            },
-            "29715":{
-                "district":"19",
-                "name":"Wexler, Robert",
-                "party":"Democrat"
-            }
-        },
-        "112":{
-            "20959":{
-                "district":"19",
-                "name":"Deutch, Ted",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Florida"
+    "district":19,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"fl"
 },
   "bbox": [
     -80.29797,

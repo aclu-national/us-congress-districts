@@ -1,54 +1,13 @@
 {
-  "id": "vt_28_to_32_03",
+  "id": "vt_28_to_32_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"32",
-    "id":"050028032003",
-    "member":{
-        "28":{
-            "5994":{
-                "district":"3",
-                "name":"Marsh, George Perkins",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "5994":{
-                "district":"3",
-                "name":"Marsh, George Perkins",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "5994":{
-                "district":"3",
-                "name":"Marsh, George Perkins",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "5994":{
-                "district":"3",
-                "name":"Marsh, George Perkins",
-                "party":"Whig"
-            },
-            "6392":{
-                "district":"3",
-                "name":"Meacham, James",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "6392":{
-                "district":"3",
-                "name":"Meacham, James",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Vermont"
+    "district":3,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"vt"
 },
   "bbox": [
     -73.43774,

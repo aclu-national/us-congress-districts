@@ -1,35 +1,13 @@
 {
-  "id": "al_34_to_36_06",
+  "id": "al_34_to_36_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"36",
-    "id":"001034036006",
-    "member":{
-        "34":{
-            "1874":{
-                "district":"6",
-                "name":"Cobb, Williamson Robert Winfield",
-                "party":"Democrat"
-            }
-        },
-        "35":{
-            "1874":{
-                "district":"6",
-                "name":"Cobb, Williamson Robert Winfield",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "1874":{
-                "district":"6",
-                "name":"Cobb, Williamson Robert Winfield",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"34",
-    "statename":"Alabama"
+    "district":6,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1855-12-03",
+    "start_session":34,
+    "state":"al"
 },
   "bbox": [
     -86.8882,

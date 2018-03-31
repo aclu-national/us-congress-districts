@@ -1,42 +1,13 @@
 {
-  "id": "tn_33_to_36_05",
+  "id": "tn_33_to_36_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"36",
-    "id":"047033036005",
-    "member":{
-        "33":{
-            "7768":{
-                "district":"5",
-                "name":"Ready, Charles",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "7768":{
-                "district":"5",
-                "name":"Ready, Charles",
-                "party":"American"
-            }
-        },
-        "35":{
-            "7768":{
-                "district":"5",
-                "name":"Ready, Charles",
-                "party":"American"
-            }
-        },
-        "36":{
-            "4194":{
-                "district":"5",
-                "name":"Hatton, Robert Hopkins",
-                "party":"Ind. Republican-Democrat"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Tennessee"
+    "district":5,
+    "end_date":"1861-03-03",
+    "end_session":36,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"tn"
 },
   "bbox": [
     -87.2151,

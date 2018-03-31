@@ -2,20 +2,12 @@
   "id": "pa_83_to_83_28",
   "type": "Feature",
   "properties": {
-    "district":"28",
-    "endcong":"83",
-    "id":"042083083028",
-    "member":{
-        "83":{
-            "2833":{
-                "district":"28",
-                "name":"Eberharter, Herman Peter",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Pennsylvania"
+    "district":28,
+    "end_date":"1954-12-02",
+    "end_session":83,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"pa"
 },
   "bbox": [
     -80.02011,

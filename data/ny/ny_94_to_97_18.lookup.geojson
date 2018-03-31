@@ -2,46 +2,12 @@
   "id": "ny_94_to_97_18",
   "type": "Feature",
   "properties": {
-    "district":"18",
-    "endcong":"97",
-    "id":"036094097018",
-    "member":{
-        "94":{
-            "12019":{
-                "district":"18",
-                "name":"Koch, Edward I.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "12019":{
-                "district":"18",
-                "name":"Koch, Edward I.",
-                "party":"Democrat"
-            },
-            "14471":{
-                "district":"18",
-                "name":"Green, S. William",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14471":{
-                "district":"18",
-                "name":"Green, S. William",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14471":{
-                "district":"18",
-                "name":"Green, S. William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"New York"
+    "district":18,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ny"
 },
   "bbox": [
     -74.00254,

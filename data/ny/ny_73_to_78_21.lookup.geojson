@@ -2,60 +2,12 @@
   "id": "ny_73_to_78_21",
   "type": "Feature",
   "properties": {
-    "district":"21",
-    "endcong":"78",
-    "id":"036073078021",
-    "member":{
-        "73":{
-            "3509":{
-                "district":"21",
-                "name":"Gavagan, Joseph Andrew",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "3509":{
-                "district":"21",
-                "name":"Gavagan, Joseph Andrew",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "3509":{
-                "district":"21",
-                "name":"Gavagan, Joseph Andrew",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "3509":{
-                "district":"21",
-                "name":"Gavagan, Joseph Andrew",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "3509":{
-                "district":"21",
-                "name":"Gavagan, Joseph Andrew",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "3509":{
-                "district":"21",
-                "name":"Gavagan, Joseph Andrew",
-                "party":"Democrat"
-            },
-            "9424":{
-                "district":"21",
-                "name":"Torrens, James H.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":21,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -73.96419,

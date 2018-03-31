@@ -2,20 +2,12 @@
   "id": "ny_92_to_92_35",
   "type": "Feature",
   "properties": {
-    "district":"35",
-    "endcong":"92",
-    "id":"036092092035",
-    "member":{
-        "92":{
-            "10733":{
-                "district":"35",
-                "name":"Hanley, James M.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"92",
-    "statename":"New York"
+    "district":35,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1971-01-21",
+    "start_session":92,
+    "state":"ny"
 },
   "bbox": [
     -76.46296,

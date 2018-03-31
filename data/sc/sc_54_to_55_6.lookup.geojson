@@ -1,33 +1,13 @@
 {
-  "id": "sc_54_to_55_06",
+  "id": "sc_54_to_55_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"55",
-    "id":"045054055006",
-    "member":{
-        "54":{
-            "6331":{
-                "district":"6",
-                "name":"McLaurin, John Lowndes",
-                "party":"Democrat"
-            }
-        },
-        "55":{
-            "6331":{
-                "district":"6",
-                "name":"McLaurin, John Lowndes",
-                "party":"Democrat"
-            },
-            "6968":{
-                "district":"6",
-                "name":"Norton, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"54",
-    "statename":"South Carolina"
+    "district":6,
+    "end_date":"1899-03-03",
+    "end_session":55,
+    "start_date":"1895-12-02",
+    "start_session":54,
+    "state":"sc"
 },
   "bbox": [
     -80.62787,

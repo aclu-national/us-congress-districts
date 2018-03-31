@@ -2,20 +2,12 @@
   "id": "va_25_to_25_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"25",
-    "id":"051025025015",
-    "member":{
-        "25":{
-            "6053":{
-                "district":"15",
-                "name":"Mason, James Murray",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"25",
-    "statename":"Virginia"
+    "district":15,
+    "end_date":"1839-03-03",
+    "end_session":25,
+    "start_date":"1837-03-04",
+    "start_session":25,
+    "state":"va"
 },
   "bbox": [
     -79.27184,

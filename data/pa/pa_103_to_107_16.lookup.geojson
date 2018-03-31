@@ -2,48 +2,12 @@
   "id": "pa_103_to_107_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"107",
-    "id":"042103107016",
-    "member":{
-        "103":{
-            "14461":{
-                "district":"16",
-                "name":"Walker, Robert",
-                "party":"Republican"
-            }
-        },
-        "104":{
-            "14461":{
-                "district":"16",
-                "name":"Walker, Robert",
-                "party":"Republican"
-            }
-        },
-        "105":{
-            "29752":{
-                "district":"16",
-                "name":"Pitts, Joseph R.",
-                "party":"Republican"
-            }
-        },
-        "106":{
-            "29752":{
-                "district":"16",
-                "name":"Pitts, Joseph R.",
-                "party":"Republican"
-            }
-        },
-        "107":{
-            "29752":{
-                "district":"16",
-                "name":"Pitts, Joseph R.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"103",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"2002-11-22",
+    "end_session":107,
+    "start_date":"1993-01-05",
+    "start_session":103,
+    "state":"pa"
 },
   "bbox": [
     -76.44379,

@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_36",
   "type": "Feature",
   "properties": {
-    "district":"36",
-    "endcong":"82",
-    "id":"036079082036",
-    "member":{
-        "79":{
-            "4024":{
-                "district":"36",
-                "name":"Hancock, Clarence Eugene",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "7901":{
-                "district":"36",
-                "name":"Riehlman, Roy Walter",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "7901":{
-                "district":"36",
-                "name":"Riehlman, Roy Walter",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "7901":{
-                "district":"36",
-                "name":"Riehlman, Roy Walter",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":36,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -76.49932,

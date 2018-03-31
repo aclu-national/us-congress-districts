@@ -1,77 +1,13 @@
 {
-  "id": "md_43_to_51_01",
+  "id": "md_43_to_51_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"51",
-    "id":"024043051001",
-    "member":{
-        "43":{
-            "10217":{
-                "district":"1",
-                "name":"Wilson, Ephraim King",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "9307":{
-                "district":"1",
-                "name":"Thomas, Phillip Francis",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "4330":{
-                "district":"1",
-                "name":"Henry, Daniel Maynadier",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "4330":{
-                "district":"1",
-                "name":"Henry, Daniel Maynadier",
-                "party":"Democrat"
-            }
-        },
-        "47":{
-            "2097":{
-                "district":"1",
-                "name":"Covington, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "48":{
-            "2097":{
-                "district":"1",
-                "name":"Covington, George Washington",
-                "party":"Democrat"
-            }
-        },
-        "49":{
-            "3557":{
-                "district":"1",
-                "name":"Gibson, Charles Hopper",
-                "party":"Democrat"
-            }
-        },
-        "50":{
-            "3557":{
-                "district":"1",
-                "name":"Gibson, Charles Hopper",
-                "party":"Democrat"
-            }
-        },
-        "51":{
-            "3557":{
-                "district":"1",
-                "name":"Gibson, Charles Hopper",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Maryland"
+    "district":1,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"md"
 },
   "bbox": [
     -76.38376,

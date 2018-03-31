@@ -1,40 +1,13 @@
 {
-  "id": "nc_40_to_42_04",
+  "id": "nc_40_to_42_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"42",
-    "id":"037040042004",
-    "member":{
-        "40":{
-            "2540":{
-                "district":"4",
-                "name":"Deweese, John Thomas",
-                "party":"Republican"
-            }
-        },
-        "41":{
-            "2540":{
-                "district":"4",
-                "name":"Deweese, John Thomas",
-                "party":"Republican"
-            },
-            "5963":{
-                "district":"4",
-                "name":"Manning, John Jr.",
-                "party":"Democrat"
-            }
-        },
-        "42":{
-            "8033":{
-                "district":"4",
-                "name":"Rogers, Sion Hart",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"40",
-    "statename":"North Carolina"
+    "district":4,
+    "end_date":"1873-03-03",
+    "end_session":42,
+    "start_date":"1867-03-04",
+    "start_session":40,
+    "state":"nc"
 },
   "bbox": [
     -79.5559,

@@ -2,27 +2,12 @@
   "id": "pa_51_to_52_16",
   "type": "Feature",
   "properties": {
-    "district":"16",
-    "endcong":"52",
-    "id":"042051052016",
-    "member":{
-        "51":{
-            "6178":{
-                "district":"16",
-                "name":"McCormick, Henry Clay",
-                "party":"Republican"
-            }
-        },
-        "52":{
-            "4563":{
-                "district":"16",
-                "name":"Hopkins, Albert Cole",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"51",
-    "statename":"Pennsylvania"
+    "district":16,
+    "end_date":"1893-03-03",
+    "end_session":52,
+    "start_date":"1889-03-04",
+    "start_session":51,
+    "state":"pa"
 },
   "bbox": [
     -78.2066,

@@ -1,49 +1,13 @@
 {
-  "id": "fl_108_to_112_09",
+  "id": "fl_108_to_112_9",
   "type": "Feature",
   "properties": {
-    "district":"9",
-    "endcong":"112",
-    "id":"012108112009",
-    "member":{
-        "108":{
-            "15006":{
-                "district":"9",
-                "name":"Bilirakis, Michael",
-                "party":"Republican"
-            }
-        },
-        "109":{
-            "15006":{
-                "district":"9",
-                "name":"Bilirakis, Michael",
-                "party":"Republican"
-            }
-        },
-        "110":{
-            "20758":{
-                "district":"9",
-                "name":"Bilirakis, Gus",
-                "party":"Republican"
-            }
-        },
-        "111":{
-            "20758":{
-                "district":"9",
-                "name":"Bilirakis, Gus",
-                "party":"Republican"
-            }
-        },
-        "112":{
-            "20758":{
-                "district":"9",
-                "name":"Bilirakis, Gus",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Florida"
+    "district":9,
+    "end_date":"2013-01-03",
+    "end_session":112,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"fl"
 },
   "bbox": [
     -82.80875,

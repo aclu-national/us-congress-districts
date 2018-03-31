@@ -1,47 +1,13 @@
 {
-  "id": "al_23_to_26_03",
+  "id": "al_23_to_26_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"26",
-    "id":"001023026003",
-    "member":{
-        "23":{
-            "5980":{
-                "district":"3",
-                "name":"Mardis, Samuel Wright",
-                "party":"Jackson"
-            }
-        },
-        "24":{
-            "5506":{
-                "district":"3",
-                "name":"Lawler, Joab",
-                "party":"Jackson"
-            }
-        },
-        "25":{
-            "2124":{
-                "district":"3",
-                "name":"Crabb, George Whitfield",
-                "party":"Whig"
-            },
-            "5506":{
-                "district":"3",
-                "name":"Lawler, Joab",
-                "party":"Whig"
-            }
-        },
-        "26":{
-            "2124":{
-                "district":"3",
-                "name":"Crabb, George Whitfield",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"23",
-    "statename":"Alabama"
+    "district":3,
+    "end_date":"1841-03-03",
+    "end_session":26,
+    "start_date":"1833-12-02",
+    "start_session":23,
+    "state":"al"
 },
   "bbox": [
     -88.44364,

@@ -2,20 +2,12 @@
   "id": "va_32_to_32_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"32",
-    "id":"051032032010",
-    "member":{
-        "32":{
-            "3080":{
-                "district":"10",
-                "name":"Faulkner, Charles James",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"32",
-    "statename":"Virginia"
+    "district":10,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1851-03-04",
+    "start_session":32,
+    "state":"va"
 },
   "bbox": [
     -79.27184,

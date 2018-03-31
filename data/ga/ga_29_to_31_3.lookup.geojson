@@ -1,40 +1,13 @@
 {
-  "id": "ga_29_to_31_03",
+  "id": "ga_29_to_31_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"31",
-    "id":"013029031003",
-    "member":{
-        "29":{
-            "9431":{
-                "district":"3",
-                "name":"Towns, George Washington",
-                "party":"Democrat"
-            },
-            "99999":{
-                "district":"3",
-                "name":"Poe, Washington",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "5048":{
-                "district":"3",
-                "name":"Jones, John William",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "7128":{
-                "district":"3",
-                "name":"Owen, Allen Ferdinand",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"29",
-    "statename":"Georgia"
+    "district":3,
+    "end_date":"1851-03-03",
+    "end_session":31,
+    "start_date":"1845-03-04",
+    "start_session":29,
+    "state":"ga"
 },
   "bbox": [
     -85.18491,

@@ -1,54 +1,13 @@
 {
-  "id": "la_28_to_32_01",
+  "id": "la_28_to_32_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"32",
-    "id":"022028032001",
-    "member":{
-        "28":{
-            "8575":{
-                "district":"1",
-                "name":"Slidell, John",
-                "party":"Democrat"
-            }
-        },
-        "29":{
-            "5484":{
-                "district":"1",
-                "name":"La Sere, Emile",
-                "party":"Democrat"
-            },
-            "8575":{
-                "district":"1",
-                "name":"Slidell, John",
-                "party":"Democrat"
-            }
-        },
-        "30":{
-            "5484":{
-                "district":"1",
-                "name":"La Sere, Emile",
-                "party":"Democrat"
-            }
-        },
-        "31":{
-            "5484":{
-                "district":"1",
-                "name":"La Sere, Emile",
-                "party":"Democrat"
-            }
-        },
-        "32":{
-            "8181":{
-                "district":"1",
-                "name":"St. Martin, Louis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Louisiana"
+    "district":1,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"la"
 },
   "bbox": [
     -90.07569,

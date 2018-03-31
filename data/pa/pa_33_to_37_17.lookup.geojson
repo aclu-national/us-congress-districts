@@ -2,48 +2,12 @@
   "id": "pa_33_to_37_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"37",
-    "id":"042033037017",
-    "member":{
-        "33":{
-            "8141":{
-                "district":"17",
-                "name":"Russell, Samuel Lyon",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "7994":{
-                "district":"17",
-                "name":"Robison, David Fullerton",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "7818":{
-                "district":"17",
-                "name":"Reilly, Wilson",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "6373":{
-                "district":"17",
-                "name":"McPherson, Edward",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "6373":{
-                "district":"17",
-                "name":"McPherson, Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Pennsylvania"
+    "district":17,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"pa"
 },
   "bbox": [
     -78.80838,

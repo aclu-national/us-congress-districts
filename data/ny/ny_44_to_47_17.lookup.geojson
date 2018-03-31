@@ -2,41 +2,12 @@
   "id": "ny_44_to_47_17",
   "type": "Feature",
   "properties": {
-    "district":"17",
-    "endcong":"47",
-    "id":"036044047017",
-    "member":{
-        "44":{
-            "9440":{
-                "district":"17",
-                "name":"Townsend, Martin Ingham",
-                "party":"Republican"
-            }
-        },
-        "45":{
-            "9440":{
-                "district":"17",
-                "name":"Townsend, Martin Ingham",
-                "party":"Republican"
-            }
-        },
-        "46":{
-            "10335":{
-                "district":"17",
-                "name":"Wood, Walter Abbott",
-                "party":"Republican"
-            }
-        },
-        "47":{
-            "10335":{
-                "district":"17",
-                "name":"Wood, Walter Abbott",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"44",
-    "statename":"New York"
+    "district":17,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1875-03-05",
+    "start_session":44,
+    "state":"ny"
 },
   "bbox": [
     -73.78616,

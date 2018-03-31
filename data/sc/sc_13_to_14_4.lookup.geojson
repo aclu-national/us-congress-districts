@@ -1,28 +1,13 @@
 {
-  "id": "sc_13_to_14_04",
+  "id": "sc_13_to_14_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"14",
-    "id":"045013014004",
-    "member":{
-        "13":{
-            "1662":{
-                "district":"4",
-                "name":"Chappell, John Joel",
-                "party":"Republican"
-            }
-        },
-        "14":{
-            "1662":{
-                "district":"4",
-                "name":"Chappell, John Joel",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"13",
-    "statename":"South Carolina"
+    "district":4,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1813-05-24",
+    "start_session":13,
+    "state":"sc"
 },
   "bbox": [
     -81.8692,

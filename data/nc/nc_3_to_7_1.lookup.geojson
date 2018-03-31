@@ -1,49 +1,13 @@
 {
-  "id": "nc_3_to_7_01",
+  "id": "nc_3_to_7_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"7",
-    "id":"037003007001",
-    "member":{
-        "3":{
-            "6230":{
-                "district":"1",
-                "name":"McDowell, Joseph",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "4519":{
-                "district":"1",
-                "name":"Holland, James",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "6229":{
-                "district":"1",
-                "name":"McDowell, Joseph",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "2581":{
-                "district":"1",
-                "name":"Dickson, Joseph",
-                "party":"Federalist"
-            }
-        },
-        "7":{
-            "4519":{
-                "district":"1",
-                "name":"Holland, James",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"North Carolina"
+    "district":1,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"nc"
 },
   "bbox": [
     -84.32187,

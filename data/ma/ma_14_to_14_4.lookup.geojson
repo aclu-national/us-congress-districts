@@ -1,21 +1,13 @@
 {
-  "id": "ma_14_to_14_04",
+  "id": "ma_14_to_14_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"14",
-    "id":"025014014004",
-    "member":{
-        "14":{
-            "8859":{
-                "district":"4",
-                "name":"Stearns, Asahel",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"14",
-    "statename":"Massachusetts"
+    "district":4,
+    "end_date":"1817-03-03",
+    "end_session":14,
+    "start_date":"1815-12-04",
+    "start_session":14,
+    "state":"ma"
 },
   "bbox": [
     -71.62598,

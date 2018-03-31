@@ -1,49 +1,13 @@
 {
-  "id": "fl_93_to_97_05",
+  "id": "fl_93_to_97_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"97",
-    "id":"012093097005",
-    "member":{
-        "93":{
-            "14017":{
-                "district":"5",
-                "name":"Gunter, William D.",
-                "party":"Democrat"
-            }
-        },
-        "94":{
-            "14243":{
-                "district":"5",
-                "name":"Kelly, Richard",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "14243":{
-                "district":"5",
-                "name":"Kelly, Richard",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "14243":{
-                "district":"5",
-                "name":"Kelly, Richard",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "14842":{
-                "district":"5",
-                "name":"McCollum, Bill",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Florida"
+    "district":5,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"fl"
 },
   "bbox": [
     -82.85238,

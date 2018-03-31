@@ -1,21 +1,13 @@
 {
-  "id": "tx_108_to_108_03",
+  "id": "tx_108_to_108_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"108",
-    "id":"048108108003",
-    "member":{
-        "108":{
-            "29143":{
-                "district":"3",
-                "name":"Johnson, Sam",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"108",
-    "statename":"Texas"
+    "district":3,
+    "end_date":"2004-12-08",
+    "end_session":108,
+    "start_date":"2003-01-07",
+    "start_session":108,
+    "state":"tx"
 },
   "bbox": [
     -96.8447,

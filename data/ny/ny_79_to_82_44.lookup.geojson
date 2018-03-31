@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_44",
   "type": "Feature",
   "properties": {
-    "district":"44",
-    "endcong":"82",
-    "id":"036079082044",
-    "member":{
-        "79":{
-            "1340":{
-                "district":"44",
-                "name":"Butler, John Cornelius",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "1340":{
-                "district":"44",
-                "name":"Butler, John Cornelius",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "3714":{
-                "district":"44",
-                "name":"Gorski, Chester Charles",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1340":{
-                "district":"44",
-                "name":"Butler, John Cornelius",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":44,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -79.1366,

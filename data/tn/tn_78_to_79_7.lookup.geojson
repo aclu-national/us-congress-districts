@@ -1,28 +1,13 @@
 {
-  "id": "tn_78_to_79_07",
+  "id": "tn_78_to_79_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"79",
-    "id":"047078079007",
-    "member":{
-        "78":{
-            "2093":{
-                "district":"7",
-                "name":"Courtney, William Wirt",
-                "party":"Democrat"
-            }
-        },
-        "79":{
-            "2093":{
-                "district":"7",
-                "name":"Courtney, William Wirt",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"78",
-    "statename":"Tennessee"
+    "district":7,
+    "end_date":"1946-08-02",
+    "end_session":79,
+    "start_date":"1943-01-06",
+    "start_session":78,
+    "state":"tn"
 },
   "bbox": [
     -88.07053,

@@ -2,20 +2,12 @@
   "id": "pa_62_to_62_25",
   "type": "Feature",
   "properties": {
-    "district":"25",
-    "endcong":"62",
-    "id":"042062062025",
-    "member":{
-        "62":{
-            "510":{
-                "district":"25",
-                "name":"Bates, Arthur Laban",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"62",
-    "statename":"Pennsylvania"
+    "district":25,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1911-04-04",
+    "start_session":62,
+    "state":"pa"
 },
   "bbox": [
     -80.51951,

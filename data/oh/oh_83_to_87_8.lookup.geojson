@@ -1,49 +1,13 @@
 {
-  "id": "oh_83_to_87_08",
+  "id": "oh_83_to_87_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"87",
-    "id":"039083087008",
-    "member":{
-        "83":{
-            "680":{
-                "district":"8",
-                "name":"Betts, Jackson Edward",
-                "party":"Republican"
-            }
-        },
-        "84":{
-            "680":{
-                "district":"8",
-                "name":"Betts, Jackson Edward",
-                "party":"Republican"
-            }
-        },
-        "85":{
-            "680":{
-                "district":"8",
-                "name":"Betts, Jackson Edward",
-                "party":"Republican"
-            }
-        },
-        "86":{
-            "680":{
-                "district":"8",
-                "name":"Betts, Jackson Edward",
-                "party":"Republican"
-            }
-        },
-        "87":{
-            "680":{
-                "district":"8",
-                "name":"Betts, Jackson Edward",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"83",
-    "statename":"Ohio"
+    "district":8,
+    "end_date":"1962-10-13",
+    "end_session":87,
+    "start_date":"1953-01-03",
+    "start_session":83,
+    "state":"oh"
 },
   "bbox": [
     -83.88111,

@@ -1,54 +1,13 @@
 {
-  "id": "al_58_to_62_05",
+  "id": "al_58_to_62_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"62",
-    "id":"001058062005",
-    "member":{
-        "58":{
-            "4280":{
-                "district":"5",
-                "name":"Heflin, James Thomas",
-                "party":"Democrat"
-            },
-            "9318":{
-                "district":"5",
-                "name":"Thompson, Charles Winston",
-                "party":"Democrat"
-            }
-        },
-        "59":{
-            "4280":{
-                "district":"5",
-                "name":"Heflin, James Thomas",
-                "party":"Democrat"
-            }
-        },
-        "60":{
-            "4280":{
-                "district":"5",
-                "name":"Heflin, James Thomas",
-                "party":"Democrat"
-            }
-        },
-        "61":{
-            "4280":{
-                "district":"5",
-                "name":"Heflin, James Thomas",
-                "party":"Democrat"
-            }
-        },
-        "62":{
-            "4280":{
-                "district":"5",
-                "name":"Heflin, James Thomas",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"58",
-    "statename":"Alabama"
+    "district":5,
+    "end_date":"1913-03-03",
+    "end_session":62,
+    "start_date":"1903-03-05",
+    "start_session":58,
+    "state":"al"
 },
   "bbox": [
     -86.92137,

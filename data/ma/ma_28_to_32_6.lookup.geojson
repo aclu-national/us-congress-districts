@@ -1,49 +1,13 @@
 {
-  "id": "ma_28_to_32_06",
+  "id": "ma_28_to_32_6",
   "type": "Feature",
   "properties": {
-    "district":"6",
-    "endcong":"32",
-    "id":"025028032006",
-    "member":{
-        "28":{
-            "370":{
-                "district":"6",
-                "name":"Baker, Osmyn",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "272":{
-                "district":"6",
-                "name":"Ashmun, George",
-                "party":"Whig"
-            }
-        },
-        "30":{
-            "272":{
-                "district":"6",
-                "name":"Ashmun, George",
-                "party":"Whig"
-            }
-        },
-        "31":{
-            "272":{
-                "district":"6",
-                "name":"Ashmun, George",
-                "party":"Whig"
-            }
-        },
-        "32":{
-            "2382":{
-                "district":"6",
-                "name":"Davis, George Thomas",
-                "party":"Whig"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Massachusetts"
+    "district":6,
+    "end_date":"1853-03-03",
+    "end_session":32,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"ma"
 },
   "bbox": [
     -72.85386,

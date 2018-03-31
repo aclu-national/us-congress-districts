@@ -2,41 +2,12 @@
   "id": "ny_79_to_82_31",
   "type": "Feature",
   "properties": {
-    "district":"31",
-    "endcong":"82",
-    "id":"036079082031",
-    "member":{
-        "79":{
-            "5110":{
-                "district":"31",
-                "name":"Kearney, Bernard William",
-                "party":"Republican"
-            }
-        },
-        "80":{
-            "5110":{
-                "district":"31",
-                "name":"Kearney, Bernard William",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "5110":{
-                "district":"31",
-                "name":"Kearney, Bernard William",
-                "party":"Republican"
-            }
-        },
-        "82":{
-            "5110":{
-                "district":"31",
-                "name":"Kearney, Bernard William",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"New York"
+    "district":31,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"ny"
 },
   "bbox": [
     -75.41693,

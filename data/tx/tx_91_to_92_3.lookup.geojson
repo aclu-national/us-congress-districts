@@ -1,28 +1,13 @@
 {
-  "id": "tx_91_to_92_03",
+  "id": "tx_91_to_92_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"92",
-    "id":"048091092003",
-    "member":{
-        "91":{
-            "11066":{
-                "district":"3",
-                "name":"Collins, James M.",
-                "party":"Republican"
-            }
-        },
-        "92":{
-            "11066":{
-                "district":"3",
-                "name":"Collins, James M.",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"91",
-    "statename":"Texas"
+    "district":3,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1969-01-03",
+    "start_session":91,
+    "state":"tx"
 },
   "bbox": [
     -97.03739,

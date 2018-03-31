@@ -1,54 +1,13 @@
 {
-  "id": "nc_3_to_7_08",
+  "id": "nc_3_to_7_8",
   "type": "Feature",
   "properties": {
-    "district":"8",
-    "endcong":"7",
-    "id":"037003007008",
-    "member":{
-        "3":{
-            "2432":{
-                "district":"8",
-                "name":"Dawson, William Johnston",
-                "party":"Anti-Administration"
-            }
-        },
-        "4":{
-            "1255":{
-                "district":"8",
-                "name":"Burges, Dempsey",
-                "party":"Republican"
-            }
-        },
-        "5":{
-            "1255":{
-                "district":"8",
-                "name":"Burges, Dempsey",
-                "party":"Republican"
-            }
-        },
-        "6":{
-            "8977":{
-                "district":"8",
-                "name":"Stone, David",
-                "party":"Republican"
-            }
-        },
-        "7":{
-            "10407":{
-                "district":"8",
-                "name":"Wynns, Thomas",
-                "party":"Republican"
-            },
-            "4946":{
-                "district":"8",
-                "name":"Johnson, Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"North Carolina"
+    "district":8,
+    "end_date":"1803-03-03",
+    "end_session":7,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"nc"
 },
   "bbox": [
     -77.32786,

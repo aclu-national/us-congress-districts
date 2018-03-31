@@ -1,42 +1,13 @@
 {
-  "id": "ca_94_to_97_04",
+  "id": "ca_94_to_97_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"97",
-    "id":"006094097004",
-    "member":{
-        "94":{
-            "10599":{
-                "district":"4",
-                "name":"Leggett, Robert L.",
-                "party":"Democrat"
-            }
-        },
-        "95":{
-            "10599":{
-                "district":"4",
-                "name":"Leggett, Robert L.",
-                "party":"Democrat"
-            }
-        },
-        "96":{
-            "14624":{
-                "district":"4",
-                "name":"Fazio, Victor Herbert",
-                "party":"Democrat"
-            }
-        },
-        "97":{
-            "14624":{
-                "district":"4",
-                "name":"Fazio, Victor Herbert",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"94",
-    "statename":"California"
+    "district":4,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1975-01-14",
+    "start_session":94,
+    "state":"ca"
 },
   "bbox": [
     -122.78509,

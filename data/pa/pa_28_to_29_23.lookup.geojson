@@ -2,27 +2,12 @@
   "id": "pa_28_to_29_23",
   "type": "Feature",
   "properties": {
-    "district":"23",
-    "endcong":"29",
-    "id":"042028029023",
-    "member":{
-        "28":{
-            "7778":{
-                "district":"23",
-                "name":"Reed, Charles Manning",
-                "party":"Whig"
-            }
-        },
-        "29":{
-            "9326":{
-                "district":"23",
-                "name":"Thompson, James",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"28",
-    "statename":"Pennsylvania"
+    "district":23,
+    "end_date":"1847-03-03",
+    "end_session":29,
+    "start_date":"1843-12-04",
+    "start_session":28,
+    "state":"pa"
 },
   "bbox": [
     -80.51943,

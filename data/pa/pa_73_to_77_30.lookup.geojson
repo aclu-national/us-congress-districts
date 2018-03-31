@@ -2,48 +2,12 @@
   "id": "pa_73_to_77_30",
   "type": "Feature",
   "properties": {
-    "district":"30",
-    "endcong":"77",
-    "id":"042073077030",
-    "member":{
-        "73":{
-            "1079":{
-                "district":"30",
-                "name":"Brooks, Joshua Twing",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "1079":{
-                "district":"30",
-                "name":"Brooks, Joshua Twing",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "2492":{
-                "district":"30",
-                "name":"De Muth, Peter Joseph",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "2065":{
-                "district":"30",
-                "name":"Corbett, Robert James",
-                "party":"Republican"
-            }
-        },
-        "77":{
-            "8250":{
-                "district":"30",
-                "name":"Scanlon, Thomas Edward",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"Pennsylvania"
+    "district":30,
+    "end_date":"1942-12-16",
+    "end_session":77,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"pa"
 },
   "bbox": [
     -80.22848,

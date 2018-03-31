@@ -2,48 +2,12 @@
   "id": "ma_33_to_37_10",
   "type": "Feature",
   "properties": {
-    "district":"10",
-    "endcong":"37",
-    "id":"025033037010",
-    "member":{
-        "33":{
-            "2571":{
-                "district":"10",
-                "name":"Dickinson, Edward",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "1615":{
-                "district":"10",
-                "name":"Chaffee, Calven Clifford",
-                "party":"American"
-            }
-        },
-        "35":{
-            "1615":{
-                "district":"10",
-                "name":"Chaffee, Calven Clifford",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "2478":{
-                "district":"10",
-                "name":"Delano, Charles",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "2478":{
-                "district":"10",
-                "name":"Delano, Charles",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Massachusetts"
+    "district":10,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"ma"
 },
   "bbox": [
     -72.74116,

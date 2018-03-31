@@ -1,100 +1,13 @@
 {
-  "id": "nj_3_to_5_00",
+  "id": "nj_3_to_5_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"5",
-    "id":"034003005000",
-    "member":{
-        "3":{
-            "1387":{
-                "district":"98",
-                "name":"Cadwalader, Lambert",
-                "party":"Pro-Administration"
-            },
-            "1750":{
-                "district":"98",
-                "name":"Clark, Abraham",
-                "party":"Pro-Administration"
-            },
-            "2440":{
-                "district":"98",
-                "name":"Dayton, Jonathan",
-                "party":"Pro-Administration"
-            },
-            "5303":{
-                "district":"98",
-                "name":"Kitchell, Aaron",
-                "party":"Pro-Administration"
-            },
-            "554":{
-                "district":"98",
-                "name":"Beatty, John",
-                "party":"Pro-Administration"
-            },
-            "878":{
-                "district":"98",
-                "name":"Boudinot, Elias",
-                "party":"Pro-Administration"
-            }
-        },
-        "4":{
-            "2440":{
-                "district":"98",
-                "name":"Dayton, Jonathan",
-                "party":"Federalist"
-            },
-            "4315":{
-                "district":"98",
-                "name":"Henderson, Thomas",
-                "party":"Federalist"
-            },
-            "5303":{
-                "district":"98",
-                "name":"Kitchell, Aaron",
-                "party":"Federalist"
-            },
-            "8637":{
-                "district":"98",
-                "name":"Smith, Isaac",
-                "party":"Federalist"
-            },
-            "9353":{
-                "district":"98",
-                "name":"Thomson, Mark",
-                "party":"Federalist"
-            }
-        },
-        "5":{
-            "2440":{
-                "district":"98",
-                "name":"Dayton, Jonathan",
-                "party":"Federalist"
-            },
-            "4800":{
-                "district":"98",
-                "name":"Imlay, James Henderson",
-                "party":"Federalist"
-            },
-            "8278":{
-                "district":"98",
-                "name":"Schureman, James",
-                "party":"Federalist"
-            },
-            "8544":{
-                "district":"98",
-                "name":"Sinnickson, Thomas",
-                "party":"Federalist"
-            },
-            "9353":{
-                "district":"98",
-                "name":"Thomson, Mark",
-                "party":"Federalist"
-            }
-        }
-    },
-    "startcong":"3",
-    "statename":"New Jersey"
+    "district":0,
+    "end_date":"1799-03-03",
+    "end_session":5,
+    "start_date":"1793-03-04",
+    "start_session":3,
+    "state":"nj"
 },
   "bbox": [
     -75.55979,

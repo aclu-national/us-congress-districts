@@ -1,42 +1,13 @@
 {
-  "id": "pa_79_to_82_04",
+  "id": "pa_79_to_82_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"82",
-    "id":"042079082004",
-    "member":{
-        "79":{
-            "8451":{
-                "district":"4",
-                "name":"Sheridan, John Edward",
-                "party":"Democrat"
-            }
-        },
-        "80":{
-            "5946":{
-                "district":"4",
-                "name":"Maloney, Franklin John",
-                "party":"Republican"
-            }
-        },
-        "81":{
-            "1719":{
-                "district":"4",
-                "name":"Chudoff, Earl",
-                "party":"Democrat"
-            }
-        },
-        "82":{
-            "1719":{
-                "district":"4",
-                "name":"Chudoff, Earl",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"79",
-    "statename":"Pennsylvania"
+    "district":4,
+    "end_date":"1952-07-07",
+    "end_session":82,
+    "start_date":"1945-01-03",
+    "start_session":79,
+    "state":"pa"
 },
   "bbox": [
     -75.22048,

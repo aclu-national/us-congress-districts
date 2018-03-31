@@ -1,28 +1,13 @@
 {
-  "id": "oh_50_to_51_03",
+  "id": "oh_50_to_51_3",
   "type": "Feature",
   "properties": {
-    "district":"3",
-    "endcong":"51",
-    "id":"039050051003",
-    "member":{
-        "50":{
-            "10141":{
-                "district":"3",
-                "name":"Williams, Elihu Stephen",
-                "party":"Republican"
-            }
-        },
-        "51":{
-            "10141":{
-                "district":"3",
-                "name":"Williams, Elihu Stephen",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"50",
-    "statename":"Ohio"
+    "district":3,
+    "end_date":"1891-03-03",
+    "end_session":51,
+    "start_date":"1887-12-05",
+    "start_session":50,
+    "state":"oh"
 },
   "bbox": [
     -84.81516,

@@ -1,21 +1,13 @@
 {
-  "id": "oh_22_to_22_01",
+  "id": "oh_22_to_22_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"22",
-    "id":"039022022001",
-    "member":{
-        "22":{
-            "3143":{
-                "district":"1",
-                "name":"Findlay, James",
-                "party":"Jackson"
-            }
-        }
-    },
-    "startcong":"22",
-    "statename":"Ohio"
+    "district":1,
+    "end_date":"1833-03-02",
+    "end_session":22,
+    "start_date":"1831-12-05",
+    "start_session":22,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

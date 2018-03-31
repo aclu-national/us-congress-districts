@@ -1,56 +1,13 @@
 {
-  "id": "al_88_to_88_00",
+  "id": "al_88_to_88_0",
   "type": "Feature",
   "properties": {
-    "district":"0",
-    "endcong":"88",
-    "id":"001088088000",
-    "member":{
-        "88":{
-            "195":{
-                "district":"98",
-                "name":"Andrews, George William",
-                "party":"Democrat"
-            },
-            "2909":{
-                "district":"98",
-                "name":"Elliott, Carl Atwood",
-                "party":"Democrat"
-            },
-            "3754":{
-                "district":"98",
-                "name":"Grant, George Mcinvale",
-                "party":"Democrat"
-            },
-            "4686":{
-                "district":"98",
-                "name":"Huddleston, George, Jr.",
-                "party":"Democrat"
-            },
-            "5058":{
-                "district":"98",
-                "name":"Jones, Robert Emmett, Jr.",
-                "party":"Democrat"
-            },
-            "7695":{
-                "district":"98",
-                "name":"Rains, Albert M.",
-                "party":"Democrat"
-            },
-            "7954":{
-                "district":"98",
-                "name":"Roberts, Kenneth Allison",
-                "party":"Democrat"
-            },
-            "8353":{
-                "district":"98",
-                "name":"Selden, Armistead Inge, Jr.",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"88",
-    "statename":"Alabama"
+    "district":0,
+    "end_date":"1964-10-03",
+    "end_session":88,
+    "start_date":"1963-01-09",
+    "start_session":88,
+    "state":"al"
 },
   "bbox": [
     -88.47323,

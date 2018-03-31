@@ -1,54 +1,13 @@
 {
-  "id": "oh_33_to_37_07",
+  "id": "oh_33_to_37_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"37",
-    "id":"039033037007",
-    "member":{
-        "33":{
-            "4073":{
-                "district":"7",
-                "name":"Harlan, Aaron",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "4073":{
-                "district":"7",
-                "name":"Harlan, Aaron",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "4073":{
-                "district":"7",
-                "name":"Harlan, Aaron",
-                "party":"Republican"
-            }
-        },
-        "36":{
-            "2078":{
-                "district":"7",
-                "name":"Corwin, Thomas",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "2078":{
-                "district":"7",
-                "name":"Corwin, Thomas",
-                "party":"Republican"
-            },
-            "4133":{
-                "district":"7",
-                "name":"Harrison, Richard Almgill",
-                "party":"Unionist"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":7,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -84.36527,

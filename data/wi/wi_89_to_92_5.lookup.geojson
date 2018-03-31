@@ -1,42 +1,13 @@
 {
-  "id": "wi_89_to_92_05",
+  "id": "wi_89_to_92_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"92",
-    "id":"055089092005",
-    "member":{
-        "89":{
-            "7824":{
-                "district":"5",
-                "name":"Reuss, Henry Schoellkopf",
-                "party":"Democrat"
-            }
-        },
-        "90":{
-            "7824":{
-                "district":"5",
-                "name":"Reuss, Henry Schoellkopf",
-                "party":"Democrat"
-            }
-        },
-        "91":{
-            "7824":{
-                "district":"5",
-                "name":"Reuss, Henry Schoellkopf",
-                "party":"Democrat"
-            }
-        },
-        "92":{
-            "7824":{
-                "district":"5",
-                "name":"Reuss, Henry Schoellkopf",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"89",
-    "statename":"Wisconsin"
+    "district":5,
+    "end_date":"1972-10-18",
+    "end_session":92,
+    "start_date":"1965-01-04",
+    "start_session":89,
+    "state":"wi"
 },
   "bbox": [
     -88.04726,

@@ -1,49 +1,13 @@
 {
-  "id": "oh_33_to_37_02",
+  "id": "oh_33_to_37_2",
   "type": "Feature",
   "properties": {
-    "district":"2",
-    "endcong":"37",
-    "id":"039033037002",
-    "member":{
-        "33":{
-            "4132":{
-                "district":"2",
-                "name":"Harrison, John Scott",
-                "party":"Whig"
-            }
-        },
-        "34":{
-            "4132":{
-                "district":"2",
-                "name":"Harrison, John Scott",
-                "party":"Ind. Republican-Democrat"
-            }
-        },
-        "35":{
-            "3848":{
-                "district":"2",
-                "name":"Groesbeck, William Slocum",
-                "party":"Democrat"
-            }
-        },
-        "36":{
-            "3881":{
-                "district":"2",
-                "name":"Gurley, John Addison",
-                "party":"Republican"
-            }
-        },
-        "37":{
-            "3881":{
-                "district":"2",
-                "name":"Gurley, John Addison",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"33",
-    "statename":"Ohio"
+    "district":2,
+    "end_date":"1863-03-03",
+    "end_session":37,
+    "start_date":"1853-03-04",
+    "start_session":33,
+    "state":"oh"
 },
   "bbox": [
     -84.8202,

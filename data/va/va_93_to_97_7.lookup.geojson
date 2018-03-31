@@ -1,49 +1,13 @@
 {
-  "id": "va_93_to_97_07",
+  "id": "va_93_to_97_7",
   "type": "Feature",
   "properties": {
-    "district":"7",
-    "endcong":"97",
-    "id":"051093097007",
-    "member":{
-        "93":{
-            "13036":{
-                "district":"7",
-                "name":"Robinson, James Kenneth",
-                "party":"Republican"
-            }
-        },
-        "94":{
-            "13036":{
-                "district":"7",
-                "name":"Robinson, James Kenneth",
-                "party":"Republican"
-            }
-        },
-        "95":{
-            "13036":{
-                "district":"7",
-                "name":"Robinson, James Kenneth",
-                "party":"Republican"
-            }
-        },
-        "96":{
-            "13036":{
-                "district":"7",
-                "name":"Robinson, James Kenneth",
-                "party":"Republican"
-            }
-        },
-        "97":{
-            "13036":{
-                "district":"7",
-                "name":"Robinson, James Kenneth",
-                "party":"Republican"
-            }
-        }
-    },
-    "startcong":"93",
-    "statename":"Virginia"
+    "district":7,
+    "end_date":"1982-12-23",
+    "end_session":97,
+    "start_date":"1973-01-03",
+    "start_session":93,
+    "state":"va"
 },
   "bbox": [
     -79.22434,

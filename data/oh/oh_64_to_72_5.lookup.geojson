@@ -1,77 +1,13 @@
 {
-  "id": "oh_64_to_72_05",
+  "id": "oh_64_to_72_5",
   "type": "Feature",
   "properties": {
-    "district":"5",
-    "endcong":"72",
-    "id":"039064072005",
-    "member":{
-        "64":{
-            "6085":{
-                "district":"5",
-                "name":"Matthews, Nelson Edwin",
-                "party":"Republican"
-            }
-        },
-        "65":{
-            "8726":{
-                "district":"5",
-                "name":"Snook, John Stout",
-                "party":"Democrat"
-            }
-        },
-        "66":{
-            "9316":{
-                "district":"5",
-                "name":"Thompson, Charles James",
-                "party":"Republican"
-            }
-        },
-        "67":{
-            "9316":{
-                "district":"5",
-                "name":"Thompson, Charles James",
-                "party":"Republican"
-            }
-        },
-        "68":{
-            "9316":{
-                "district":"5",
-                "name":"Thompson, Charles James",
-                "party":"Republican"
-            }
-        },
-        "69":{
-            "9316":{
-                "district":"5",
-                "name":"Thompson, Charles James",
-                "party":"Republican"
-            }
-        },
-        "70":{
-            "9316":{
-                "district":"5",
-                "name":"Thompson, Charles James",
-                "party":"Republican"
-            }
-        },
-        "71":{
-            "9316":{
-                "district":"5",
-                "name":"Thompson, Charles James",
-                "party":"Republican"
-            }
-        },
-        "72":{
-            "5335":{
-                "district":"5",
-                "name":"Kniffin, Frank Charles",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"64",
-    "statename":"Ohio"
+    "district":5,
+    "end_date":"1933-03-03",
+    "end_session":72,
+    "start_date":"1915-12-06",
+    "start_session":64,
+    "state":"oh"
 },
   "bbox": [
     -84.80618,

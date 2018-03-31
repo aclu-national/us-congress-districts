@@ -1,49 +1,13 @@
 {
-  "id": "ky_43_to_47_01",
+  "id": "ky_43_to_47_1",
   "type": "Feature",
   "properties": {
-    "district":"1",
-    "endcong":"47",
-    "id":"021043047001",
-    "member":{
-        "43":{
-            "2200":{
-                "district":"1",
-                "name":"Crossland, Edward",
-                "party":"Democrat"
-            }
-        },
-        "44":{
-            "853":{
-                "district":"1",
-                "name":"Boone, Andrew Rechmond",
-                "party":"Democrat"
-            }
-        },
-        "45":{
-            "853":{
-                "district":"1",
-                "name":"Boone, Andrew Rechmond",
-                "party":"Democrat"
-            }
-        },
-        "46":{
-            "9519":{
-                "district":"1",
-                "name":"Turner, Oscar",
-                "party":"Ind. Democrat"
-            }
-        },
-        "47":{
-            "9519":{
-                "district":"1",
-                "name":"Turner, Oscar",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"43",
-    "statename":"Kentucky"
+    "district":1,
+    "end_date":"1883-03-03",
+    "end_session":47,
+    "start_date":"1873-03-04",
+    "start_session":43,
+    "state":"ky"
 },
   "bbox": [
     -89.57151,

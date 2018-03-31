@@ -2,55 +2,12 @@
   "id": "ny_73_to_78_15",
   "type": "Feature",
   "properties": {
-    "district":"15",
-    "endcong":"78",
-    "id":"036073078015",
-    "member":{
-        "73":{
-            "938":{
-                "district":"15",
-                "name":"Boylan, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "74":{
-            "938":{
-                "district":"15",
-                "name":"Boylan, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "75":{
-            "938":{
-                "district":"15",
-                "name":"Boylan, John Joseph",
-                "party":"Democrat"
-            }
-        },
-        "76":{
-            "5184":{
-                "district":"15",
-                "name":"Kennedy, Michael Joseph",
-                "party":"Democrat"
-            }
-        },
-        "77":{
-            "5184":{
-                "district":"15",
-                "name":"Kennedy, Michael Joseph",
-                "party":"Democrat"
-            }
-        },
-        "78":{
-            "1248":{
-                "district":"15",
-                "name":"Burchill, Thomas Francis",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"73",
-    "statename":"New York"
+    "district":15,
+    "end_date":"1944-12-19",
+    "end_session":78,
+    "start_date":"1933-03-04",
+    "start_session":73,
+    "state":"ny"
 },
   "bbox": [
     -74.01248,

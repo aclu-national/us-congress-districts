@@ -1,94 +1,13 @@
 {
-  "id": "sc_18_to_27_04",
+  "id": "sc_18_to_27_4",
   "type": "Feature",
   "properties": {
-    "district":"4",
-    "endcong":"27",
-    "id":"045018027004",
-    "member":{
-        "18":{
-            "3727":{
-                "district":"4",
-                "name":"Govan, Andrew Robison",
-                "party":"Jackson Republican"
-            }
-        },
-        "19":{
-            "3727":{
-                "district":"4",
-                "name":"Govan, Andrew Robison",
-                "party":"Jackson"
-            }
-        },
-        "20":{
-            "6042":{
-                "district":"4",
-                "name":"Martin, William Dickinson",
-                "party":"Jackson"
-            }
-        },
-        "21":{
-            "6042":{
-                "district":"4",
-                "name":"Martin, William Dickinson",
-                "party":"Jackson"
-            }
-        },
-        "22":{
-            "3094":{
-                "district":"4",
-                "name":"Felder, John Myers",
-                "party":"Jackson"
-            }
-        },
-        "23":{
-            "3094":{
-                "district":"4",
-                "name":"Felder, John Myers",
-                "party":"Nullifier"
-            }
-        },
-        "24":{
-            "2946":{
-                "district":"4",
-                "name":"Elmore, Franklin Harper",
-                "party":"Nullifier"
-            },
-            "4007":{
-                "district":"4",
-                "name":"Hammond, James Henry",
-                "party":"Nullifier"
-            }
-        },
-        "25":{
-            "2946":{
-                "district":"4",
-                "name":"Elmore, Franklin Harper",
-                "party":"Nullifier"
-            }
-        },
-        "26":{
-            "1349":{
-                "district":"4",
-                "name":"Butler, Sampson Hale",
-                "party":"Democrat"
-            }
-        },
-        "27":{
-            "1349":{
-                "district":"4",
-                "name":"Butler, Sampson Hale",
-                "party":"Democrat"
-            },
-            "9481":{
-                "district":"4",
-                "name":"Trotti, Samuel Wilds",
-                "party":"Democrat"
-            }
-        }
-    },
-    "startcong":"18",
-    "statename":"South Carolina"
+    "district":4,
+    "end_date":"1843-03-03",
+    "end_session":27,
+    "start_date":"1823-12-01",
+    "start_session":18,
+    "state":"sc"
 },
   "bbox": [
     -81.8692,
