@@ -10,12 +10,8 @@ def init():
 	db_connect()
 
 def db_connect():
-	db_vars = (
-		'postgres', # dbname
-		'postgres', # user
-		os.getenv('POSTGRES_PASSWORD')
-	)
-	db_dsn = "dbname=%s user=%s password=%s" % db_vars
+	default_dsn = "user=postgres password=%s" % os.getenv('POSTGRES_PASSWORD')
+	db_dsn = os.getenv('POSTGRES_DSN', default_dsn)
 	flask.g.db = psycopg2.connect(db_dsn)
 
 @app.route("/")
@@ -60,6 +56,4 @@ def pip():
 	return flask.jsonify(rsp)
 
 if __name__ == '__main__':
-	port = os.getenv('PORT', 5000)
-	port = int(port)
-	app.run(host='0.0.0.0', port=port)
+	app.run(port=5000)
