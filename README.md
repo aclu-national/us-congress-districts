@@ -93,3 +93,4 @@ export DATABASE_URL="postgres://dbname"
 * [Jeffrey B. Lewis, et al.](https://github.com/JeffreyBLewis/congressional-district-boundaries)  
   Jeffrey B. Lewis, Brandon DeVine, Lincoln Pitcher, and Kenneth C. Martis. (2013) Digital Boundary Definitions of U.S. Congressional Districts, 1789-2012.
 * [United States Census TIGER/Line®](https://www.census.gov/geo/maps-data/data/tiger-line.html)
+* [The Unified Judicial System of Pennsylvania](http://www.pacourts.us/news-and-statistics/cases-of-public-interest/league-of-women-voters-et-al-v-the-commonwealth-of-pennsylvania-et-al-159-mm-2017)
