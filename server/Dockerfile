@@ -11,10 +11,9 @@ ADD gunicorn.py gunicorn.py
 ADD pgdata pgdata
 ADD start.sh start.sh
 
-RUN chown -R postgres pgdata
+RUN adduser app
+RUN chown -R app pgdata
 RUN chmod 700 pgdata
-
-EXPOSE 5000
-ENV PGDATA /app/pgdata
+USER app
 
 CMD /app/start.sh
