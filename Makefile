@@ -10,7 +10,7 @@ data: \
 	simplify
 
 sessions:
-	python scripts/sessions.py
+	python scripts/index_sessions.py
 
 download_1-112:
 	curl -o congressional-district-boundaries.zip -L https://github.com/JeffreyBLewis/congressional-district-boundaries/archive/master.zip

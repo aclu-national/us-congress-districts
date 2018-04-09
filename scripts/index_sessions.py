@@ -2,6 +2,13 @@
 
 import bs4, urllib3, certifi, arrow, psycopg2, os, re, sys
 
+curr_session = 115
+curr_end_date = "2019-01-03"
+
+next_session = 116
+next_start_date = "2019-01-03"
+next_end_date = "2021-01-03"
+
 db_url = os.getenv('DATABASE_URL')
 if db_url:
 	print("Indexing to %s"  % db_url)
@@ -57,9 +64,6 @@ url = "https://www.senate.gov/reference/Sessions/sessionDates.htm"
 req = http.request('GET', url)
 soup = bs4.BeautifulSoup(req.data, "html.parser")
 
-curr_session = 115
-curr_end_date = "2019-01-03"
-
 last_cell = None
 
 for row in soup.find_all('tr'):
@@ -106,6 +110,14 @@ values = [
 	end_date
 ]
 cur.execute(insert_sql, values)
+
+values = [
+	next_session,
+	next_start_date,
+	next_end_date
+]
+cur.execute(insert_sql, values)
+
 conn.commit()
 conn.close()
 
