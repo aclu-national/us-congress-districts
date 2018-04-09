@@ -44,10 +44,11 @@ else:
 conn = psycopg2.connect(db_dsn)
 cur = conn.cursor()
 
-cur.execute("DROP TABLE IF EXISTS districts")
+cur.execute("DROP TABLE IF EXISTS districts CASCADE")
 cur.execute('''
 	CREATE TABLE districts (
-		id VARCHAR(255) PRIMARY KEY,
+		id SERIAL PRIMARY KEY,
+		name VARCHAR(255),
 		state CHAR(2),
 		start_session INTEGER,
 		end_session INTEGER,
@@ -60,7 +61,7 @@ conn.commit()
 
 insert_sql = '''
 	INSERT INTO districts (
-		id,
+		name,
 		state,
 		start_session,
 		end_session,
