@@ -135,4 +135,6 @@ def sessions():
 	return flask.jsonify(rsp)
 
 if __name__ == '__main__':
-	app.run(port=5000)
+	port = os.getenv('PORT', 5000)
+	port = int(port)
+	app.run(port=port)
