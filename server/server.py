@@ -55,7 +55,7 @@ def pip():
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, name, start_session, end_session, district_num, boundary_simple
+		SELECT id, name, start_session, end_session, state, district_num, boundary_simple
 		FROM districts
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 		ORDER BY end_session DESC
@@ -74,8 +74,9 @@ def pip():
 				'end_session': end_session,
 				'start_date': flask.g.sessions[start_session]['start_date'],
 				'end_date': flask.g.sessions[end_session]['end_date'],
-				'district_num': row[4],
-				'boundary_simple': row[5]
+                                'state': row[4],
+				'district_num': row[5],
+				'boundary_simple': row[6]
 			})
 
 	cur.close()
@@ -96,7 +97,7 @@ def districts():
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, name, start_session, end_session, district_num, boundary_simple
+		SELECT id, name, start_session, end_session, state, district_num, boundary_simple
 		FROM districts
 		WHERE id IN ({ids})
 		ORDER BY end_session DESC
@@ -114,8 +115,9 @@ def districts():
 				'end_session': end_session,
 				'start_date': flask.g.sessions[start_session]['start_date'],
 				'end_date': flask.g.sessions[end_session]['end_date'],
-				'district_num': row[4],
-				'boundary_simple': row[5]
+                                'state': row[4],
+				'district_num': row[5],
+				'boundary_simple': row[6]
 			})
 
 	cur.close()
@@ -137,4 +139,4 @@ def sessions():
 if __name__ == '__main__':
 	port = os.getenv('PORT', 5000)
 	port = int(port)
-	app.run(port=port)
+	app.run(host='0.0.0.0', port=port)
