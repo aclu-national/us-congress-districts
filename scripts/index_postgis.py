@@ -71,20 +71,31 @@ insert_sql = '''
 	) VALUES (%s, %s, %s, %s, %s, %s, %s)
 '''
 
+states = []
 for state in os.listdir("data"):
 
 	if state.startswith("."):
 		continue
+
+	states.append(state)
+
+states.sort()
+
+for state in states:
 
 	cur = conn.cursor()
 	state_dir = "%s/data/%s" % (root_dir, state)
 
 	state_records = []
 
+	files = []
 	for filename in os.listdir(state_dir):
-
-		if filename.endswith(".display.geojson"):
+		if not filename.endswith(".lookup.geojson"):
 			continue
+		files.append(filename)
+
+	files.sort()
+	for filename in files:
 
 		path = "%s/%s" % (state_dir, filename)
 
