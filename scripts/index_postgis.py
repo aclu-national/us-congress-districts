@@ -106,7 +106,7 @@ for state in states:
 
 		state = matches.group(1)
 		start_session = int(matches.group(2))
-		end_session = int(matches.group(2))
+		end_session = int(matches.group(3))
 		district_num = int(matches.group(4))
 
 		if end_session < options.min_session:
