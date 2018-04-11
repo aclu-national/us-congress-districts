@@ -74,7 +74,7 @@ def pip():
 				'end_session': end_session,
 				'start_date': flask.g.sessions[start_session]['start_date'],
 				'end_date': flask.g.sessions[end_session]['end_date'],
-                                'state': row[4],
+				'state': row[4],
 				'district_num': row[5],
 				'boundary_simple': row[6]
 			})
@@ -115,7 +115,7 @@ def districts():
 				'end_session': end_session,
 				'start_date': flask.g.sessions[start_session]['start_date'],
 				'end_date': flask.g.sessions[end_session]['end_date'],
-                                'state': row[4],
+				'state': row[4],
 				'district_num': row[5],
 				'boundary_simple': row[6]
 			})
