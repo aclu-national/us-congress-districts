@@ -22,9 +22,6 @@ ufw allow 5000
 ufw allow 22
 ufw enable
 
-echo ""
-echo "Adding Ubuntu GIS apt repo, you will need to confirm this"
-echo "---------------------------------------------------------"
 add-apt-repository -y ppa:ubuntugis/ubuntugis-unstable
 
 apt update
