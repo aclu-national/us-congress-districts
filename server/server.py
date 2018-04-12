@@ -43,6 +43,8 @@ def pip():
 
 	lat = flask.request.args.get('lat', None)
 	lng = flask.request.args.get('lng', None)
+	min_session = flask.request.args.get('min_session', 0)
+	min_session = int(min_session)
 
 	if lat == None or lng == None:
 		return "Please include 'lat' and 'lng' args."
@@ -59,8 +61,9 @@ def pip():
 		FROM districts
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 		  AND at_large_only = 'N'
+		  AND start_session > {min_session}
 		ORDER BY end_session DESC
-	'''.format(lat=lat, lng=lng))
+	'''.format(lat=lat, lng=lng, min_session=min_session))
 
 	rs = cur.fetchall()
 	results = []
