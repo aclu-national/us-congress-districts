@@ -53,6 +53,7 @@ cur.execute('''
 		start_session INTEGER,
 		end_session INTEGER,
 		district_num INTEGER,
+		at_large_only CHAR DEFAULT 'N',
 		boundary TEXT,
 		boundary_simple TEXT,
 		boundary_geom GEOMETRY
@@ -139,6 +140,19 @@ for state in states:
 		cur.execute(insert_sql, district)
 
 	conn.commit()
+
+print("Marking excess at-large districts")
+cur.execute('''
+	UPDATE districts
+	SET at_large_only = 'Y'
+	WHERE district_num = 0 AND (
+		SELECT count(id)
+		FROM districts AS d
+		WHERE d.start_session <= districts.end_session
+		  AND d.end_session >= districts.start_session
+		  AND d.state = districts.state
+	) = 1
+''')
 
 print("Indexing postgis geometry")
 cur.execute('''
