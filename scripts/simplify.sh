@@ -11,7 +11,7 @@ for file in $ROOT/data/*/*.lookup.geojson ; do \
 		rm "$simple" ; \
 	fi
 	mapshaper $file \
-		-simplify visvalingam interval=100 \
+		-simplify visvalingam interval=15 \
 		-o format=geojson geojson-type=Feature \
 		$simple ; \
 done
