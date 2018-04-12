@@ -58,6 +58,7 @@ def pip():
 		SELECT id, name, start_session, end_session, state, district_num, boundary_simple
 		FROM districts
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
+		  AND at_large_only = 'N'
 		ORDER BY end_session DESC
 	'''.format(lat=lat, lng=lng))
 
