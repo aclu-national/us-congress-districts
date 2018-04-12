@@ -8,9 +8,10 @@ for file in $ROOT/data/*/*.lookup.geojson ; do \
 	simple=`echo $file | sed -e "s/\.lookup\.geojson/.display.geojson/"` ; \
 	echo $simple ; \
 	if [ ! -f "$simple" ] ; then \
-		mapshaper $file \
-			-simplify visvalingam interval=100 \
-			-o format=geojson geojson-type=Feature \
-			$simple ; \
-	fi \
+		rm "$simple" ; \
+	fi
+	mapshaper $file \
+		-simplify visvalingam interval=100 \
+		-o format=geojson geojson-type=Feature \
+		$simple ; \
 done
