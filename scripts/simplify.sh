@@ -9,7 +9,7 @@ for file in $ROOT/data/*/*.lookup.geojson ; do \
 	echo $simple ; \
 	if [ ! -f "$simple" ] ; then \
 		mapshaper $file \
-			-simplify dp 20% \
+			-simplify visvalingam interval=100 \
 			-o format=geojson geojson-type=Feature \
 			$simple ; \
 	fi \
