@@ -9,7 +9,7 @@ next_session = 116
 next_start_date = "2019-01-03"
 next_end_date = "2021-01-03"
 
-db_url = os.getenv('DATABASE_URL')
+db_url = os.getenv('DATABASE_URL', 'postgres://us_congress')
 if db_url:
 	print("Indexing to %s"  % db_url)
 else:

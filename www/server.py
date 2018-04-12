@@ -15,7 +15,7 @@ def db_connect():
 
 	#print("db_connect")
 
-	db_url = os.getenv('DATABASE_URL')
+	db_url = os.getenv('DATABASE_URL', 'postgres://us_congress')
 
 	if not db_url:
 		print("No DATABASE_URL environment variable set.")

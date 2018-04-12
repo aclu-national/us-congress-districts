@@ -11,7 +11,7 @@ opt_parser.add_option('-g', '--geom_column', dest='geom_column', action='store',
 opt_parser.add_option('-m', '--min_session', dest='min_session', action='store', type='int', default=0, help='Minimum congressional session to index (values: 0-115).')
 options, args = opt_parser.parse_args()
 
-db_url = os.getenv('DATABASE_URL')
+db_url = os.getenv('DATABASE_URL', 'sqlite://%s/us_congress.db' % root_dir)
 
 if db_url:
 	print("Indexing to %s"  % db_url)

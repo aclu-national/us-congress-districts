@@ -11,15 +11,12 @@ opt_parser.add_option('-g', '--geom_column', dest='geom_column', action='store',
 opt_parser.add_option('-m', '--min_session', dest='min_session', action='store', type='int', default=0, help='Minimum congressional session to index (values: 0-115).')
 options, args = opt_parser.parse_args()
 
-db_url = os.getenv('DATABASE_URL')
+db_url = os.getenv('DATABASE_URL', 'postgres://us_congress')
 if db_url:
 	print("Indexing to %s"  % db_url)
 	print("with options:")
 	print("  geom_column = %s" % options.geom_column)
 	print("  min_session = %d" % options.min_session)
-else:
-	print("No DATABASE_URL environment variable set.\nexport DATABASE_URL='postgres://user:pass@host/dbname'")
-	sys.exit(1)
 
 postgres = re.search('^postgres://([^:]+):([^@]+)@([^:]+):(\d+)/(.+)$', db_url)
 postgres_dbname = re.search('^postgres://(\w+)$', db_url)
