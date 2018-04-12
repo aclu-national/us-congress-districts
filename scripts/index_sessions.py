@@ -1,6 +1,7 @@
 #!/bin/env python
 
 import bs4, urllib3, certifi, arrow, psycopg2, os, re, sys
+import postgres_db
 
 curr_session = 115
 curr_end_date = "2019-01-03"
@@ -9,34 +10,7 @@ next_session = 116
 next_start_date = "2019-01-03"
 next_end_date = "2021-01-03"
 
-db_url = os.getenv('DATABASE_URL', 'postgres://us_congress')
-if db_url:
-	print("Indexing to %s"  % db_url)
-else:
-	print("No DATABASE_URL environment variable set.\nexport DATABASE_URL='postgres://user:pass@host/dbname'")
-	sys.exit(1)
-
-postgres = re.search('^postgres://([^:]+):([^@]+)@([^:]+):(\d+)/(.+)$', db_url)
-postgres_dbname = re.search('^postgres://(\w+)$', db_url)
-
-if postgres:
-	db_vars = (
-		postgres.group(5), # dbname
-		postgres.group(3), # host
-		postgres.group(4), # port
-		postgres.group(1), # user
-		postgres.group(2)  # password
-	)
-	db_dsn = "dbname=%s host=%s port=%s user=%s password=%s" % db_vars
-
-elif postgres_dbname:
-	db_dsn = "dbname=%s" % postgres_dbname.group(1)
-
-else:
-	print("Could not parse DATABASE_URL. Note: this one only works on PostGIS.")
-	sys.exit(1)
-
-conn = psycopg2.connect(db_dsn)
+conn = postgres_db.connect()
 cur = conn.cursor()
 
 cur.execute("DROP TABLE IF EXISTS sessions")
