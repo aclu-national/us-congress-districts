@@ -1,0 +1,20 @@
+[Unit]
+Description=districts service
+Requires=districts.socket
+After=network.target
+
+[Service]
+PIDFile=/run/gunicorn/pid
+User=www-data
+Group=www-data
+RuntimeDirectory=gunicorn
+WorkingDirectory=/usr/local/aclu/us-congress-district-shapes/server
+ExecStart=/usr/local/bin/gunicorn --config /usr/local/aclu/us-congress-district-shapes/server/gunicorn.py \
+                                  server:app
+ExecReload=/bin/kill -s HUP $MAINPID
+ExecStop=/bin/kill -s TERM $MAINPID
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
+
