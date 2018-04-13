@@ -7,7 +7,7 @@ ROOT=`dirname $SCRIPTS`
 for file in $ROOT/data/*/*.lookup.geojson ; do \
 	simple=`echo $file | sed -e "s/\.lookup\.geojson/.display.geojson/"` ; \
 	echo $simple ; \
-	if [ ! -f "$simple" ] ; then \
+	if [ -f "$simple" ] ; then \
 		rm "$simple" ; \
 	fi
 	mapshaper $file \

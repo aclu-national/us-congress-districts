@@ -35,7 +35,7 @@ download_116:
 	ogr2ogr -f GeoJSON -t_srs crs:84 pa_116.geojson pa_116/Remedial\ Plan\ Shapefile.shp
 
 save_116:
-	python script/save_116.py
+	python scripts/save_116.py
 
 cleanup:
 	rm congressional-district-boundaries.zip

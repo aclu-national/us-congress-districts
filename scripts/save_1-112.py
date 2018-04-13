@@ -1,7 +1,7 @@
 #!/bin/env python
 
 import json, os, sys, re
-import us
+import us, area
 import mapzen.whosonfirst.geojson
 import mapzen.whosonfirst.utils
 import postgres_db
@@ -66,6 +66,7 @@ for filename in os.listdir(dirname):
 			"district": district
 		}
 		mapzen.whosonfirst.utils.ensure_bbox(feature)
+		feature["properties"]["area"] = area.area(feature["geometry"])
 
 		statedir = os.path.dirname(path)
 		if not os.path.exists(statedir):
