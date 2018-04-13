@@ -27,7 +27,8 @@ cur.execute('''
 		at_large_only CHAR DEFAULT 'N',
 		boundary TEXT,
 		boundary_simple TEXT,
-		boundary_geom GEOMETRY
+		boundary_geom GEOMETRY,
+		area FLOAT
 	)''')
 conn.commit()
 
@@ -39,8 +40,9 @@ insert_sql = '''
 		end_session,
 		district_num,
 		boundary,
-		boundary_simple
-	) VALUES (%s, %s, %s, %s, %s, %s, %s)
+		boundary_simple,
+		area
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 states = []
@@ -69,13 +71,14 @@ for state in states:
 	files.sort()
 	for filename in files:
 
-		path = "%s/%s" % (state_dir, filename)
-
-		matches = re.search('^(\w+)_(\d+)_to_(\d+)_([0-9-]+)\.lookup\.geojson$', filename)
+		regex = '^(\w+)_(\d+)_to_(\d+)_([0-9-]+)\.lookup\.geojson$'
+		matches = re.search(regex, filename)
 		if matches == None:
 			print("skipping %s" % filename)
 			continue
 
+		path = "%s/%s" % (state_dir, filename)
+		name = filename.replace('.lookup.geojson', '')
 		state = matches.group(1)
 		start_session = int(matches.group(2))
 		end_session = int(matches.group(3))
@@ -86,27 +89,29 @@ for state in states:
 
 		print(filename)
 
-		with open(path) as data_file:
-			data = json.load(data_file)
+		with open(path) as geojson:
+			feature = json.load(geojson)
 
-		geometry = data["geometry"]
+		geometry = feature["geometry"]
 		boundary = json.dumps(geometry)
+		area = float(feature["properties"]["area"])
 
 		simplified_path = path.replace('.lookup.geojson', '.display.geojson')
-		with open(simplified_path) as data_file:
-			data = json.load(data_file)
+		with open(simplified_path) as simplified_geojson:
+			simplified_feature = json.load(simplified_geojson)
 
-		geometry = data["geometry"]
+		geometry = simplified_feature["geometry"]
 		boundary_simplified = json.dumps(geometry)
 
 		district = [
-			filename.replace('.lookup.geojson', ''),
+			name,
 			state,
 			start_session,
 			end_session,
 			district_num,
 			boundary,
-			boundary_simplified
+			boundary_simplified,
+			area
 		]
 		cur.execute(insert_sql, district)
 
