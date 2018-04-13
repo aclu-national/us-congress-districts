@@ -32,8 +32,10 @@ if [ -f "$POSTGRES_MAIN/postgresql.conf" ] ; then
 fi
 
 cp "$PROJECT/server/postgresql.conf" "$POSTGRES_MAIN/postgresql.conf"
+sed -i -e 's/\(local\s*all\s*postgres\s*\)peer/\1trust/' "$POSTGRES_MAIN/pg_hba.conf"
+
 service postgresql restart
 
 sudo -u postgres createuser --superuser ubuntu
-sudo -u ubuntu createdb us_congress
-sudo -u ubuntu psql -d us_congress -c "CREATE EXTENSION postgis;"
+sudo -u postgres createdb us_congress
+sudo -u postgres psql -d us_congress -c "CREATE EXTENSION postgis;"
