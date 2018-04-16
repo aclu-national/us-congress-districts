@@ -46,6 +46,11 @@ def pip():
 	min_session = flask.request.args.get('min_session', 0)
 	min_session = int(min_session)
 
+	columns = 'id, name, start_session, end_session, state, district_num, area, boundary_simple'
+	include_geometry = flask.request.args.get('geometry', True)
+	if include_geometry == '0':
+		columns = columns.replace(', boundary_simple', '')
+
 	if lat == None or lng == None:
 		return "Please include 'lat' and 'lng' args."
 
@@ -57,13 +62,13 @@ def pip():
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, name, start_session, end_session, state, district_num, area, boundary_simple
+		SELECT {columns}
 		FROM districts
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 		  AND (district_num > 0 OR at_large_only = 'Y')
 		  AND end_session >= {min_session}
 		ORDER BY end_session DESC
-	'''.format(lat=lat, lng=lng, min_session=min_session))
+	'''.format(columns=columns, lat=lat, lng=lng, min_session=min_session))
 
 	rs = cur.fetchall()
 	results = []
@@ -71,7 +76,7 @@ def pip():
 		for row in rs:
 			start_session = row[2]
 			end_session = row[3]
-			results.append({
+			result = {
 				'id': row[0],
 				'name': row[1],
 				'start_session': start_session,
@@ -80,9 +85,13 @@ def pip():
 				'end_date': flask.g.sessions[end_session]['end_date'],
 				'state': row[4],
 				'district_num': row[5],
-				'area': row[6],
-				'boundary_simple': row[7]
-			})
+				'area': row[6]
+			}
+
+			if include_geometry != '0':
+				result['boundary_simple'] = row[7]
+
+			results.append(result)
 
 	cur.close()
 
