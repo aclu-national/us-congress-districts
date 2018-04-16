@@ -11,7 +11,7 @@ def init():
 	setup_sessions()
 
 def db_connect():
-	default_dsn = 'user=postgres dbname=us_congress'
+	default_dsn = 'dbname=us_congress'
 	db_dsn = os.getenv('POSTGRES_DSN', default_dsn)
 	flask.g.db = psycopg2.connect(db_dsn)
 

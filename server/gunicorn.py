@@ -3,7 +3,7 @@
 
 import multiprocessing, os
 
-os.environ['POSTGRES_DSN'] = 'user=ubuntu dbname=us_congress'
+os.environ['POSTGRES_DSN'] = 'user=postgres dbname=us_congress'
 
 bind = "0.0.0.0:%s" % os.getenv('PORT', 80)
 workers = multiprocessing.cpu_count() * 2 + 1
