@@ -61,7 +61,7 @@ def pip():
 		FROM districts
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 		  AND (district_num > 0 OR at_large_only = 'Y')
-		  AND start_session > {min_session}
+		  AND end_session >= {min_session}
 		ORDER BY end_session DESC
 	'''.format(lat=lat, lng=lng, min_session=min_session))
 
