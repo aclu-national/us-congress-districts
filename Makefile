@@ -48,7 +48,7 @@ cleanup:
 	rm pa_116.geojson
 
 simplify:
-	./scripts/simplify.sh
+	python ./scripts/simplify.py
 
 spatialite:
 	python scripts/index_spatialite.py
