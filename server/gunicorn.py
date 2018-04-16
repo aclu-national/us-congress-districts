@@ -5,7 +5,7 @@ import multiprocessing, os
 
 os.environ['POSTGRES_DSN'] = 'user=ubuntu dbname=us_congress'
 
-bind = "0.0.0.0:%s" % os.getenv('PORT', 5000)
+bind = "0.0.0.0:%s" % os.getenv('PORT', 80)
 workers = multiprocessing.cpu_count() * 2 + 1
 worker_class = "gunicorn.workers.ggevent.GeventWorker"
 pidfile = "/run/gunicorn/pid"

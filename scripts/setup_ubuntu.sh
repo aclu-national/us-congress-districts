@@ -15,7 +15,7 @@ apt upgrade -y
 apt install -y fail2ban ufw htop emacs24-nox postgresql postgresql-contrib \
                build-essential gdal-bin python python-pip python-gevent
 
-ufw allow 5000
+ufw allow 80
 ufw allow 22
 yes | ufw enable
 
@@ -39,3 +39,10 @@ service postgresql restart
 sudo -u postgres createuser --superuser ubuntu
 sudo -u postgres createdb us_congress
 sudo -u postgres psql -d us_congress -c "CREATE EXTENSION postgis;"
+
+cp "$PROJECT/server/districts.service" /etc/systemd/system/
+cp "$PROJECT/server/districts.socket" /etc/systemd/system/
+systemctl enable districts.service
+service districts start
+
+echo "done"
