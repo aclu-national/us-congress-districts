@@ -41,7 +41,7 @@ The two versions correspond to:
 * `.display.geojson` includes a simplified geometry
 
 The simplified geometries are optimized for end-user display, and take up
-less space. We use Mapshaper with Douglas-Peucker 20% simplification.
+less space. We use Mapshaper for simplification (`mapshaper -simplify resolution=1200x1200`).
 
 ## Building from scratch
 
