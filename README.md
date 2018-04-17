@@ -41,7 +41,7 @@ The two versions correspond to:
 * `.display.geojson` includes a simplified geometry
 
 The simplified geometries are optimized for end-user display, and take up
-less space. We use Mapshaper for simplification (`mapshaper -simplify resolution=1200x1200`).
+less space. We use Mapshaper for simplification (`mapshaper -filter-islands min-area=500000 -simplify resolution=300`).
 
 ## Building from scratch
 

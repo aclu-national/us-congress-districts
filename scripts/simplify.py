@@ -38,12 +38,10 @@ for state in states:
 		path = "%s/%s" % (state_dir, filename)
 		simple_path = path.replace('.lookup.geojson', '.display.geojson')
 
-		#with open(path) as geojson:
-		#	feature = json.load(geojson)
-
-		#area = float(feature["properties"]["area"])
-		#interval = min_interval + max_interval * (area - min_area) / area_range
-		#print("%s: %s" % (filename, interval))
-		#args = "-simplify visvalingam interval=%s -o format=geojson geojson-type=Feature" % interval
-		args = "-simplify resolution=1200x1200 -o format=geojson geojson-type=Feature"
-		os.system("mapshaper %s %s %s" % (path, args, simple_path))
+		# HEY, a quick thing about these mapshaper arguments: they need to be
+		# updated in more than one place. The 'simplify' args should be kept in
+		# sync with the ones in save_113_display.py. (20180417/dphiffer)
+		simplify = "-filter-islands min-area=500000 -simplify resolution=300"
+		output = "-o format=geojson geojson-type=Feature"
+		cmd = "mapshaper %s %s %s %s" % (path, simplify, output, simple_path)
+		os.system(cmd)

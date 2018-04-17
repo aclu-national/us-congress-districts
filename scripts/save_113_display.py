@@ -65,5 +65,12 @@ for feature in data["features"]:
 	with open(path, 'w') as outfile:
 		json.dump(feature, outfile)
 
-	args = "-simplify resolution=1200x1200 -o format=geojson geojson-type=Feature force"
-	os.system("mapshaper %s %s %s" % (path, args, path))
+	# HEY, a quick thing about these mapshaper arguments: they need to be
+	# updated in more than one place. The 'simplify' args should be kept in
+	# sync with the ones in simplify.py. The 'output' args here have one
+	# additional 'force' argument, since we need to update the geometries
+	# in place. (20180417/dphiffer)
+	simplify = "-filter-islands min-area=500000 -simplify resolution=300"
+	output = "-o format=geojson geojson-type=Feature force"
+	cmd = "mapshaper %s %s %s %s" % (path, simplify, output, path)
+	os.system(cmd)
