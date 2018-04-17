@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
-import flask, flask_cors, json, os, psycopg2, re, sys
-from pyspatialite import dbapi2
+import flask, flask_cors, json, os, re, sys
 
 app = flask.Flask(__name__)
 flask_cors.CORS(app)
@@ -26,6 +25,7 @@ def db_connect():
 	sqlite = re.search('^sqlite://(.+)$', db_url)
 
 	if postgres:
+		import psycopg2
 		db_vars = (
 			postgres.group(5), # dbname
 			postgres.group(3), # host
@@ -38,11 +38,13 @@ def db_connect():
 		flask.g.db = psycopg2.connect(db_dsn)
 
 	elif postgres_dbname:
+		import psycopg2
 		db_dsn = "dbname=%s" % postgres_dbname.group(1)
 		flask.g.db_type = "postgres"
 		flask.g.db = psycopg2.connect(db_dsn)
 
 	elif sqlite:
+		from pyspatialite import dbapi2
 		db_dsn = sqlite.group(1)
 		flask.g.db_type = "sqlite"
 		flask.g.db = dbapi2.connect(db_dsn)
@@ -116,7 +118,7 @@ def pip_postgres(lat, lng):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, start_session, end_session, district_num, boundary_simple
+		SELECT name, start_session, end_session, district_num, boundary_simple
 		FROM districts
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 		ORDER BY end_session DESC
@@ -143,4 +145,4 @@ def pip_postgres(lat, lng):
 	return flask.jsonify(rsp)
 
 if __name__ == '__main__':
-	app.run(debug=True)
+	app.run()
