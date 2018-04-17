@@ -3,11 +3,12 @@ data: \
 	download_1-112 \
 	save_1-112 \
 	download_113 \
-	save_113 \
+	save_113_lookup \
 	download_116 \
 	save_116 \
-	cleanup \
-	simplify
+	simplify \
+	save_113_display \
+	cleanup
 
 sessions:
 	python scripts/index_sessions.py
@@ -24,9 +25,13 @@ download_113:
 	curl -O https://www2.census.gov/geo/tiger/TIGERrd13_st/nation/tl_rd13_us_cd113.zip
 	unzip -d tl_rd13_us_cd113 tl_rd13_us_cd113.zip
 	ogr2ogr -f GeoJSON -t_srs crs:84 tl_rd13_us_cd113.geojson tl_rd13_us_cd113/tl_rd13_us_cd113.shp
+	mkdir -p cb_2013_us_cd113_5m
+	curl -O https://www2.census.gov/geo/tiger/GENZ2013/cb_2013_us_cd113_5m.zip
+	unzip -d cb_2013_us_cd113_5m cb_2013_us_cd113_5m.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 cb_2013_us_cd113_5m.geojson cb_2013_us_cd113_5m/cb_2013_us_cd113_5m.shp
 
-save_113:
-	python scripts/save_113.py
+save_113_lookup:
+	python scripts/save_113_lookup.py
 
 download_116:
 	mkdir -p pa_116
@@ -37,6 +42,12 @@ download_116:
 save_116:
 	python scripts/save_116.py
 
+simplify:
+	python ./scripts/simplify.py
+
+save_113_display:
+	python scripts/save_113_lookup.py
+	
 cleanup:
 	rm congressional-district-boundaries.zip
 	rm -rf congressional-district-boundaries-master/
@@ -46,9 +57,9 @@ cleanup:
 	rm pa_116.zip
 	rm -rf pa_116/
 	rm pa_116.geojson
-
-simplify:
-	python ./scripts/simplify.py
+	rm cb_2013_us_cd113_5m.zip
+	rm -rf cb_2013_us_cd113_5m/
+	rm cb_2013_us_cd113_5m.geojson
 
 spatialite:
 	python scripts/index_spatialite.py
