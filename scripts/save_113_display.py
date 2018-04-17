@@ -10,7 +10,7 @@ script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
 root_dir = os.path.dirname(scripts_dir)
 
-path = "%s/cb_2013_us_cd113_5m.geojson" % root_dir
+path = "%s/cb_2013_us_cd113_500k.geojson" % root_dir
 
 conn = postgres_db.connect()
 cur = conn.cursor()
@@ -26,7 +26,7 @@ if rs:
 			"end_date": str(row[2])
 		}
 
-print("Loading cb_2013_us_cd113_5m.geojson")
+print("Loading cb_2013_us_cd113_500k.geojson")
 with open(path) as data_file:
 	data = json.load(data_file)
 
