@@ -11,7 +11,7 @@ scripts_dir = os.path.dirname(script)
 root_dir = os.path.dirname(scripts_dir)
 
 encoder = mapzen.whosonfirst.geojson.encoder(precision=None)
-dirname = "%s/congressional-district-boundaries-master" % root_dir
+dirname = "%s/sources/1-112" % root_dir
 
 conn = postgres_db.connect()
 cur = conn.cursor()

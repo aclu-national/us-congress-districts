@@ -10,7 +10,7 @@ script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
 root_dir = os.path.dirname(scripts_dir)
 
-path = "%s/pa_116.geojson" % root_dir
+path = "%s/sources/pa_116/pa_116.geojson" % root_dir
 
 conn = postgres_db.connect()
 cur = conn.cursor()

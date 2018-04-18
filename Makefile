@@ -1,46 +1,79 @@
 data: \
+	sources \
 	sessions \
-	download_1-112 \
 	save_1-112 \
-	download_113_lookup \
 	save_113_lookup \
-	download_116 \
 	save_116 \
 	simplify \
-	download_113_display \
 	save_113_display \
-	cleanup
+	save_115_display
+
+sources:
+	download_1-112 \
+	download_113_lookup \
+	download_113_display \
+	download_115_lookup \
+	download_115_display \
+	download_116
+
+download_1-112:
+	mkdir -p sources/1-112
+	curl -o sources/1-112.zip -L https://github.com/JeffreyBLewis/congressional-district-boundaries/archive/master.zip
+	unzip -d sources/1-112 sources/1-112.zip
+
+download_113_lookup:
+	mkdir -p sources/113-115_lookup
+	curl -o sources/113-115_lookup/113-115_lookup.zip https://www2.census.gov/geo/tiger/TIGERrd13_st/nation/tl_rd13_us_cd113.zip
+	unzip -d sources/113-115_lookup sources/113-115_lookup/113-115_lookup.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 sources/113-115_lookup/113-115_lookup.geojson sources/113-115_lookup/tl_rd13_us_cd113.shp
+
+download_113_display:
+	mkdir -p sources/113-115_display
+	curl -o sources/113-115_display.zip https://www2.census.gov/geo/tiger/GENZ2013/cb_2013_us_cd113_500k.zip
+	unzip -d sources/113-115_display sources/113-115_display.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 sources/113-115_display/113-115_display.geojson sources/113-115_display/cb_2013_us_cd113_500k.shp
+
+download_115_lookup:
+	mkdir -p sources/115_lookup
+	curl -o sources/115_lookup.zip https://www2.census.gov/geo/tiger/TIGER2016/CD/tl_2016_us_cd115.zip
+	unzip -d sources/115_lookup sources/115_lookup.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 sources/115_lookup/115_lookup.geojson sources/115_lookup/tl_2016_us_cd115.shp
+
+download_115_display:
+	mkdir -p sources/115_display
+	curl -o sources/115_display.zip https://www2.census.gov/geo/tiger/GENZ2017/shp/cb_2017_us_cd115_500k.zip
+	unzip -d sources/115_display sources/115_display.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 sources/115_display/115_display.geojson sources/115_display/cb_2017_us_cd115_500k.shp
+
+download_116:
+	mkdir -p sources/pa_116
+	curl -o sources/pa_116.zip http://www.pacourts.us/assets/files/setting-6061/file-6845.zip?cb=b6385e
+	unzip -d sources/pa_116 sources/pa_116.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 sources/pa_116/pa_116.geojson sources/pa_116/Remedial\ Plan\ Shapefile.shp
 
 sessions:
 	python scripts/index_sessions.py
 
-download_1-112:
-	curl -o congressional-district-boundaries.zip -L https://github.com/JeffreyBLewis/congressional-district-boundaries/archive/master.zip
-	unzip congressional-district-boundaries.zip
-
 save_1-112:
 	python scripts/save_1-112.py
 
-download_113_lookup:
-	mkdir -p tl_rd13_us_cd113
-	curl -O https://www2.census.gov/geo/tiger/TIGERrd13_st/nation/tl_rd13_us_cd113.zip
-	unzip -d tl_rd13_us_cd113 tl_rd13_us_cd113.zip
-	ogr2ogr -f GeoJSON -t_srs crs:84 tl_rd13_us_cd113.geojson tl_rd13_us_cd113/tl_rd13_us_cd113.shp
+save_115_lookup:
+	python scripts/save_census.py \
+		--sessions=115 \
+		--type=lookup \
+		--property=CD115FP \
+		--first=115 \
+		--last=115 \
+		--include=fl,nc,va
 
-download_113_display:
-	mkdir -p cb_2013_us_cd113_500k
-	curl -O https://www2.census.gov/geo/tiger/GENZ2013/cb_2013_us_cd113_500k.zip
-	unzip -d cb_2013_us_cd113_500k cb_2013_us_cd113_500k.zip
-	ogr2ogr -f GeoJSON -t_srs crs:84 cb_2013_us_cd113_500k.geojson cb_2013_us_cd113_500k/cb_2013_us_cd113_500k.shp
-
-save_113_lookup:
-	python scripts/save_113_lookup.py
-
-download_116:
-	mkdir -p pa_116
-	curl -o pa_116.zip http://www.pacourts.us/assets/files/setting-6061/file-6845.zip?cb=b6385e
-	unzip -d pa_116 pa_116.zip
-	ogr2ogr -f GeoJSON -t_srs crs:84 pa_116.geojson pa_116/Remedial\ Plan\ Shapefile.shp
+save_115_display:
+	python scripts/save_census.py \
+		--sessions=115 \
+		--type=display \
+		--property=CD115FP \
+		--first=115 \
+		--last=115 \
+		--include=fl,nc,va
 
 save_116:
 	python scripts/save_116.py
@@ -52,17 +85,7 @@ save_113_display:
 	python scripts/save_113_display.py
 
 cleanup:
-	rm congressional-district-boundaries.zip
-	rm -rf congressional-district-boundaries-master/
-	rm tl_rd13_us_cd113.zip
-	rm -rf tl_rd13_us_cd113/
-	rm tl_rd13_us_cd113.geojson
-	rm pa_116.zip
-	rm -rf pa_116/
-	rm pa_116.geojson
-	rm cb_2013_us_cd113_500k.zip
-	rm -rf cb_2013_us_cd113_500k/
-	rm cb_2013_us_cd113_500k.geojson
+	rm -rf sources/
 
 spatialite:
 	python scripts/index_spatialite.py
