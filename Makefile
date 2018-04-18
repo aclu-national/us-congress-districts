@@ -1,88 +1,112 @@
 data: \
 	sources \
 	sessions \
-	save_1-112 \
-	save_113_lookup \
-	save_116 \
+	data_1-112 \
+	data_116 \
 	simplify \
-	save_113_display \
-	save_115_display
+	data_113_lookup \
+	data_113_display \
+	data_115_lookup \
+	data_115_display
 
 sources:
-	download_1-112 \
-	download_113_lookup \
-	download_113_display \
-	download_115_lookup \
-	download_115_display \
-	download_116
+	source_1-112 \
+	source_113 \
+	source_115 \
+	source_pa_116
 
-download_1-112:
+source_1-112:
 	mkdir -p sources/1-112
-	curl -o sources/1-112.zip -L https://github.com/JeffreyBLewis/congressional-district-boundaries/archive/master.zip
-	unzip -d sources/1-112 sources/1-112.zip
+	curl -o sources/1-112/1-112.zip -L https://github.com/JeffreyBLewis/congressional-district-boundaries/archive/master.zip
+	unzip -d sources/1-112 sources/1-112/1-112.zip
 
-download_113_lookup:
-	mkdir -p sources/113-115_lookup
-	curl -o sources/113-115_lookup/113-115_lookup.zip https://www2.census.gov/geo/tiger/TIGERrd13_st/nation/tl_rd13_us_cd113.zip
-	unzip -d sources/113-115_lookup sources/113-115_lookup/113-115_lookup.zip
-	ogr2ogr -f GeoJSON -t_srs crs:84 sources/113-115_lookup/113-115_lookup.geojson sources/113-115_lookup/tl_rd13_us_cd113.shp
+source_113: source_113_lookup source_113_display
 
-download_113_display:
-	mkdir -p sources/113-115_display
-	curl -o sources/113-115_display.zip https://www2.census.gov/geo/tiger/GENZ2013/cb_2013_us_cd113_500k.zip
-	unzip -d sources/113-115_display sources/113-115_display.zip
-	ogr2ogr -f GeoJSON -t_srs crs:84 sources/113-115_display/113-115_display.geojson sources/113-115_display/cb_2013_us_cd113_500k.shp
+source_113_lookup:
+	mkdir -p sources/113_lookup
+	curl -o sources/113_lookup/113_lookup.zip https://www2.census.gov/geo/tiger/TIGERrd13_st/nation/tl_rd13_us_cd113.zip
+	unzip -d sources/113_lookup sources/113_lookup/113_lookup.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 sources/113_lookup/113_lookup.geojson sources/113_lookup/tl_rd13_us_cd113.shp
 
-download_115_lookup:
+source_113_display:
+	mkdir -p sources/113_display
+	curl -o sources/113_display/113_display.zip https://www2.census.gov/geo/tiger/GENZ2013/cb_2013_us_cd113_500k.zip
+	unzip -d sources/113_display sources/113_display/113_display.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 sources/113_display/113_display.geojson sources/113_display/cb_2013_us_cd113_500k.shp
+
+source_115: source_115_lookup source_115_display
+
+source_115_lookup:
 	mkdir -p sources/115_lookup
-	curl -o sources/115_lookup.zip https://www2.census.gov/geo/tiger/TIGER2016/CD/tl_2016_us_cd115.zip
-	unzip -d sources/115_lookup sources/115_lookup.zip
+	curl -o sources/115_lookup/115_lookup.zip https://www2.census.gov/geo/tiger/TIGER2016/CD/tl_2016_us_cd115.zip
+	unzip -d sources/115_lookup sources/115_lookup/115_lookup.zip
 	ogr2ogr -f GeoJSON -t_srs crs:84 sources/115_lookup/115_lookup.geojson sources/115_lookup/tl_2016_us_cd115.shp
 
-download_115_display:
+source_115_display:
 	mkdir -p sources/115_display
-	curl -o sources/115_display.zip https://www2.census.gov/geo/tiger/GENZ2017/shp/cb_2017_us_cd115_500k.zip
-	unzip -d sources/115_display sources/115_display.zip
+	curl -o sources/115_display/115_display.zip https://www2.census.gov/geo/tiger/GENZ2017/shp/cb_2017_us_cd115_500k.zip
+	unzip -d sources/115_display sources/115_display/115_display.zip
 	ogr2ogr -f GeoJSON -t_srs crs:84 sources/115_display/115_display.geojson sources/115_display/cb_2017_us_cd115_500k.shp
 
-download_116:
+source_pa_116:
 	mkdir -p sources/pa_116
-	curl -o sources/pa_116.zip http://www.pacourts.us/assets/files/setting-6061/file-6845.zip?cb=b6385e
-	unzip -d sources/pa_116 sources/pa_116.zip
+	curl -o sources/pa_116/pa_116.zip http://www.pacourts.us/assets/files/setting-6061/file-6845.zip?cb=b6385e
+	unzip -d sources/pa_116 sources/pa_116/pa_116.zip
 	ogr2ogr -f GeoJSON -t_srs crs:84 sources/pa_116/pa_116.geojson sources/pa_116/Remedial\ Plan\ Shapefile.shp
 
 sessions:
 	python scripts/index_sessions.py
 
-save_1-112:
-	python scripts/save_1-112.py
+data_1-112:
+	python scripts/data_1-112.py
 
-save_115_lookup:
-	python scripts/save_census.py \
-		--sessions=115 \
+data_113: data_113_lookup data_113_display
+
+data_113_lookup:
+	python scripts/data_census.py \
+		--start=113 \
+		--end=115 \
 		--type=lookup \
-		--property=CD115FP \
-		--first=115 \
-		--last=115 \
+		--exclude=fl,nc,va
+	python scripts/data_census.py \
+		--start=113 \
+		--end=114 \
+		--type=lookup \
 		--include=fl,nc,va
 
-save_115_display:
-	python scripts/save_census.py \
-		--sessions=115 \
+data_113_display:
+	python scripts/data_census.py \
+		--start=113 \
+		--end=115 \
 		--type=display \
-		--property=CD115FP \
-		--first=115 \
-		--last=115 \
+		--exclude=fl,nc,va
+	python scripts/data_census.py \
+		--start=113 \
+		--end=114 \
+		--type=display \
 		--include=fl,nc,va
 
-save_116:
-	python scripts/save_116.py
+data_115: data_115_lookup data_115_display
+
+data_115_lookup:
+	python scripts/data_census.py \
+		--start=115 \
+		--end=115 \
+		--type=lookup \
+		--include=fl,nc,va
+
+data_115_display:
+	python scripts/data_census.py \
+		--start=115 \
+		--end=115 \
+		--type=display \
+		--include=fl,nc,va
+
+data_pa_116:
+	python scripts/data_pa_116.py
 
 simplify:
 	python ./scripts/simplify.py
-
-save_113_display:
-	python scripts/save_113_display.py
 
 cleanup:
 	rm -rf sources/
@@ -92,6 +116,3 @@ spatialite:
 
 postgis:
 	python scripts/index_postgis.py
-
-datasette_inspect:
-	datasette inspect us-congress.db --inspect-file inspect-data.json --load-extension=/usr/local/lib/mod_spatialite.dylib
