@@ -12,10 +12,10 @@ root_dir = os.path.dirname(scripts_dir)
 
 opt_parser = optparse.OptionParser()
 opt_parser.add_option('-s', '--start', dest='start', type='int', action='store', default=None, help='Start session (e.g. 113)')
-opt_parser.add_option('-n', '--end', dest='end', type='int', default=None, action='store', help='End session (e.g. 115)')
+opt_parser.add_option('-e', '--end', dest='end', type='int', default=None, action='store', help='End session (e.g. 115)')
 opt_parser.add_option('-t', '--type', dest='type', action='store', default=None, help='Either display or lookup.')
 opt_parser.add_option('-i', '--include', dest='include', default=None, action='store', help='States to include (fl,nc,va)')
-opt_parser.add_option('-e', '--exclude', dest='exclude', default=None, action='store', help='States to exclude (fl,nc,va)')
+opt_parser.add_option('-x', '--exclude', dest='exclude', default=None, action='store', help='States to exclude (fl,nc,va)')
 options, args = opt_parser.parse_args()
 
 if options.include:
