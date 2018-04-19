@@ -57,6 +57,12 @@ source_pa_116:
 sessions:
 	python scripts/index_sessions.py
 
+legislators:
+	mkdir -p sources/legislators
+	curl -o sources/legislators/current.yaml https://raw.githubusercontent.com/unitedstates/congress-legislators/master/legislators-current.yaml
+	curl -o sources/legislators/historical.yaml https://raw.githubusercontent.com/unitedstates/congress-legislators/master/legislators-historical.yaml
+	python scripts/index_legislators.py
+
 data_1-112:
 	python scripts/data_1-112.py
 
