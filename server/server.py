@@ -106,8 +106,13 @@ def districts():
 
 	ids = flask.request.args.get('ids', None)
 
-	if ids == None or not re.match('^\d+(,\d+)*$', ids):
-		return "Please include 'ids' arg (comma-separated numeric IDs)."
+	if ids == None:
+		return "Please include 'ids' arg (hyphen- or comma-separated numeric IDs)."
+	if not re.match('^\d+(,\d+)*$', ids) and not re.match('^\d+(-\d+)*$', ids):
+		return "Invalid 'ids' arg: use hyphen- or comma-separated numeric IDs."
+
+	if re.match('^\d+(-\d+)*$', ids):
+		ids = ids.replace('-', ',')
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
