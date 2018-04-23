@@ -74,8 +74,14 @@ def pip():
 	results = []
 	if rs:
 		for row in rs:
+
 			start_session = row[2]
 			end_session = row[3]
+			district_num = row[5]
+
+			at_large = (district_num == 0)
+			non_voting = (district_num == 98)
+
 			result = {
 				'id': row[0],
 				'name': row[1],
@@ -84,8 +90,10 @@ def pip():
 				'start_date': flask.g.sessions[start_session]['start_date'],
 				'end_date': flask.g.sessions[end_session]['end_date'],
 				'state': row[4],
-				'district_num': row[5],
-				'area': row[6]
+				'district_num': district_num,
+				'area': row[6],
+				'at_large': at_large,
+				'non_voting': non_voting
 			}
 
 			if include_geometry != '0':
@@ -126,8 +134,14 @@ def districts():
 	results = []
 	if rs:
 		for row in rs:
+
 			start_session = row[2]
 			end_session = row[3]
+			district_num = row[5]
+
+			at_large = (district_num == 0)
+			non_voting = (district_num == 98)
+
 			results.append({
 				'id': row[0],
 				'start_session': start_session,
@@ -135,8 +149,10 @@ def districts():
 				'start_date': flask.g.sessions[start_session]['start_date'],
 				'end_date': flask.g.sessions[end_session]['end_date'],
 				'state': row[4],
-				'district_num': row[5],
+				'district_num': district_num,
 				'area': row[6],
+				'at_large': at_large,
+				'non_voting': non_voting,
 				'boundary_simple': row[7]
 			})
 
