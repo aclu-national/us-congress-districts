@@ -95,3 +95,4 @@ export DATABASE_URL="postgres://dbname"
 * [United States Census TIGER/Line®](https://www.census.gov/geo/maps-data/data/tiger-line.html)
 * [The Unified Judicial System of Pennsylvania](http://www.pacourts.us/news-and-statistics/cases-of-public-interest/league-of-women-voters-et-al-v-the-commonwealth-of-pennsylvania-et-al-159-mm-2017)
 * [The United States Senate](https://www.senate.gov/reference/Sessions/sessionDates.htm)
+* [Washington Post](https://www.washingtonpost.com/archive/local/1989/03/02/the-district-had-a-voice-if-not-a-vote-in-the-42nd-congress/8c3e518a-91e8-49f5-802a-0f2d2ae69292/)
