@@ -5,12 +5,6 @@ import os, psycopg2, re, sys
 def connect():
 
 	db_url = os.getenv('DATABASE_URL', 'postgres://us_congress')
-	if db_url:
-		print("Indexing to %s"  % db_url)
-	else:
-		print("No DATABASE_URL environment variable set.\nexport DATABASE_URL='postgres://user:pass@host/dbname'")
-		sys.exit(1)
-
 	postgres = re.search('^postgres://([^:]+):([^@]+)@([^:]+):(\d+)/(.+)$', db_url)
 	postgres_dbname = re.search('^postgres://(\w+)$', db_url)
 
