@@ -1,11 +1,13 @@
 {
-  "id": "va_53_to_60_1",
+  "id": "aclu/us-congress-districts/district:9090",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:9090",
     "area":8886411315.389233,
     "district":1,
     "end_date":"1909-03-03",
     "end_session":60,
+    "ocd_id":"ocd-division/country:us/state:va/cd:1",
     "start_date":"1893-03-04",
     "start_session":53,
     "state":"va"

@@ -1,11 +1,13 @@
 {
-  "id": "nc_49_to_52_6",
+  "id": "aclu/us-congress-districts/district:4242",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:4242",
     "area":16630318688.83614,
     "district":6,
     "end_date":"1893-03-03",
     "end_session":52,
+    "ocd_id":"ocd-division/country:us/state:nc/cd:6",
     "start_date":"1885-03-04",
     "start_session":49,
     "state":"nc"

@@ -1,11 +1,13 @@
 {
-  "id": "ny_1_to_2_1",
+  "id": "aclu/us-congress-districts/district:4950",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:4950",
     "area":3793262604.008771,
     "district":1,
     "end_date":"1793-03-02",
     "end_session":2,
+    "ocd_id":"ocd-division/country:us/state:ny/cd:1",
     "start_date":"1789-03-04",
     "start_session":1,
     "state":"ny"

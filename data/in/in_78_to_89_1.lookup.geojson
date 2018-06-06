@@ -1,11 +1,13 @@
 {
-  "id": "in_78_to_89_1",
+  "id": "aclu/us-congress-districts/district:2222",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:2222",
     "area":1301039423.805223,
     "district":1,
     "end_date":"1966-10-22",
     "end_session":89,
+    "ocd_id":"ocd-division/country:us/state:in/cd:1",
     "start_date":"1943-01-06",
     "start_session":78,
     "state":"in"

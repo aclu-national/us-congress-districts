@@ -1,11 +1,13 @@
 {
-  "id": "ga_1_to_1_1",
+  "id": "aclu/us-congress-districts/district:1269",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:1269",
     "area":14946136351.137344,
     "district":1,
     "end_date":"1791-03-03",
     "end_session":1,
+    "ocd_id":"ocd-division/country:us/state:ga/cd:1",
     "start_date":"1789-03-04",
     "start_session":1,
     "state":"ga"

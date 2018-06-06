@@ -1,11 +1,13 @@
 {
-  "id": "tx_91_to_92_16",
+  "id": "aclu/us-congress-districts/district:8591",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8591",
     "area":87905396031.022095,
     "district":16,
     "end_date":"1972-10-18",
     "end_session":92,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:16",
     "start_date":"1969-01-03",
     "start_session":91,
     "state":"tx"

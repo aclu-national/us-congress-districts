@@ -1,11 +1,13 @@
 {
-  "id": "ak_86_to_115_0",
+  "id": "aclu/us-congress-districts/district:0",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:0",
     "area":1716598874914.688965,
     "district":0,
     "end_date":"2019-01-03",
     "end_session":115,
+    "ocd_id":"ocd-division/country:us/state:ak/cd:0",
     "start_date":"1959-01-07",
     "start_session":86,
     "state":"ak"

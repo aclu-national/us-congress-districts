@@ -1,11 +1,13 @@
 {
-  "id": "tx_93_to_93_1",
+  "id": "aclu/us-congress-districts/district:8607",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8607",
     "area":38561260231.47657,
     "district":1,
     "end_date":"1974-12-20",
     "end_session":93,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:1",
     "start_date":"1973-01-03",
     "start_session":93,
     "state":"tx"

@@ -1,11 +1,13 @@
 {
-  "id": "al_103_to_107_1",
+  "id": "aclu/us-congress-districts/district:1",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:1",
     "area":18025167637.94101,
     "district":1,
     "end_date":"2002-11-22",
     "end_session":107,
+    "ocd_id":"ocd-division/country:us/state:al/cd:1",
     "start_date":"1993-01-05",
     "start_session":103,
     "state":"al"

@@ -1,11 +1,13 @@
 {
-  "id": "tx_113_to_115_25",
+  "id": "aclu/us-congress-districts/district:8266",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8266",
     "area":20119987540.102516,
     "district":25,
     "end_date":"2019-01-03",
     "end_session":115,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:25",
     "start_date":"2013-01-03",
     "start_session":113,
     "state":"tx"

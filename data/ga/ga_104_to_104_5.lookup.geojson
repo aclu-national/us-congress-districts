@@ -1,11 +1,13 @@
 {
-  "id": "ga_104_to_104_5",
+  "id": "aclu/us-congress-districts/district:1204",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:1204",
     "area":1064772071.660971,
     "district":5,
     "end_date":"1996-10-04",
     "end_session":104,
+    "ocd_id":"ocd-division/country:us/state:ga/cd:5",
     "start_date":"1995-01-04",
     "start_session":104,
     "state":"ga"

@@ -1,11 +1,13 @@
 {
-  "id": "tx_110_to_112_17",
+  "id": "aclu/us-congress-districts/district:8225",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8225",
     "area":20285450529.75983,
     "district":17,
     "end_date":"2013-01-03",
     "end_session":112,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:17",
     "start_date":"2007-01-04",
     "start_session":110,
     "state":"tx"

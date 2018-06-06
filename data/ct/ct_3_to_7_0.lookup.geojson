@@ -1,11 +1,13 @@
 {
-  "id": "ct_3_to_7_0",
+  "id": "aclu/us-congress-districts/district:901",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:901",
     "area":12900638826.532907,
     "district":0,
     "end_date":"1803-03-03",
     "end_session":7,
+    "ocd_id":"ocd-division/country:us/state:ct/cd:0",
     "start_date":"1793-03-04",
     "start_session":3,
     "state":"ct"

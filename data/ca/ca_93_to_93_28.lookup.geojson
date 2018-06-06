@@ -1,11 +1,13 @@
 {
-  "id": "ca_93_to_93_28",
+  "id": "aclu/us-congress-districts/district:666",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:666",
     "area":382365813.487105,
     "district":28,
     "end_date":"1974-12-20",
     "end_session":93,
+    "ocd_id":"ocd-division/country:us/state:ca/cd:28",
     "start_date":"1973-01-03",
     "start_session":93,
     "state":"ca"

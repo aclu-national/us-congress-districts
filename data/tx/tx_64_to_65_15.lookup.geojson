@@ -1,11 +1,13 @@
 {
-  "id": "tx_64_to_65_15",
+  "id": "aclu/us-congress-districts/district:8426",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8426",
     "area":105691346528.46199,
     "district":15,
     "end_date":"1919-03-03",
     "end_session":65,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:15",
     "start_date":"1915-12-06",
     "start_session":64,
     "state":"tx"

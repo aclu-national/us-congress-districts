@@ -1,11 +1,13 @@
 {
-  "id": "pa_43_to_43_12",
+  "id": "aclu/us-congress-districts/district:7000",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:7000",
     "area":5713158821.38961,
     "district":12,
     "end_date":"1875-03-03",
     "end_session":43,
+    "ocd_id":"ocd-division/country:us/state:pa/cd:12",
     "start_date":"1873-03-04",
     "start_session":43,
     "state":"pa"

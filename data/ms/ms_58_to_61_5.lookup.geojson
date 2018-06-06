@@ -1,11 +1,13 @@
 {
-  "id": "ms_58_to_61_5",
+  "id": "aclu/us-congress-districts/district:4001",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:4001",
     "area":16746942237.354683,
     "district":5,
     "end_date":"1911-03-03",
     "end_session":61,
+    "ocd_id":"ocd-division/country:us/state:ms/cd:5",
     "start_date":"1903-03-05",
     "start_session":58,
     "state":"ms"

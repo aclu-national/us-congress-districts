@@ -1,11 +1,13 @@
 {
-  "id": "tx_83_to_85_15",
+  "id": "aclu/us-congress-districts/district:8501",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8501",
     "area":46355594081.849197,
     "district":15,
     "end_date":"1958-08-24",
     "end_session":85,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:15",
     "start_date":"1953-01-03",
     "start_session":83,
     "state":"tx"

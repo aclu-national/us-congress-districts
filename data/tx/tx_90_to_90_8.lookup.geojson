@@ -1,11 +1,13 @@
 {
-  "id": "tx_90_to_90_8",
+  "id": "aclu/us-congress-districts/district:8582",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8582",
     "area":1661247212.555136,
     "district":8,
     "end_date":"1968-10-14",
     "end_session":90,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:8",
     "start_date":"1967-01-10",
     "start_session":90,
     "state":"tx"

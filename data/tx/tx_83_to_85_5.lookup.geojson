@@ -1,11 +1,13 @@
 {
-  "id": "tx_83_to_85_5",
+  "id": "aclu/us-congress-districts/district:8511",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8511",
     "area":2359773839.073997,
     "district":5,
     "end_date":"1958-08-24",
     "end_session":85,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:5",
     "start_date":"1953-01-03",
     "start_session":83,
     "state":"tx"

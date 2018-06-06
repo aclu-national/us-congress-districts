@@ -1,11 +1,13 @@
 {
-  "id": "tx_93_to_93_21",
+  "id": "aclu/us-congress-districts/district:8620",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8620",
     "area":106787953030.488327,
     "district":21,
     "end_date":"1974-12-20",
     "end_session":93,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:21",
     "start_date":"1973-01-03",
     "start_session":93,
     "state":"tx"

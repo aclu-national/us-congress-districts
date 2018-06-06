@@ -1,11 +1,13 @@
 {
-  "id": "tx_50_to_50_6",
+  "id": "aclu/us-congress-districts/district:8329",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8329",
     "area":16331010310.722857,
     "district":6,
     "end_date":"1889-03-03",
     "end_session":50,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:6",
     "start_date":"1887-12-05",
     "start_session":50,
     "state":"tx"

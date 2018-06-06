@@ -1,11 +1,13 @@
 {
-  "id": "tx_99_to_102_7",
+  "id": "aclu/us-congress-districts/district:8706",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8706",
     "area":1681555847.200082,
     "district":7,
     "end_date":"1992-10-09",
     "end_session":102,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:7",
     "start_date":"1985-01-03",
     "start_session":99,
     "state":"tx"

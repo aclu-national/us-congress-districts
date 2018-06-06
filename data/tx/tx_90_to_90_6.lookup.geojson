@@ -1,11 +1,13 @@
 {
-  "id": "tx_90_to_90_6",
+  "id": "aclu/us-congress-districts/district:8580",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8580",
     "area":21210471158.454033,
     "district":6,
     "end_date":"1968-10-14",
     "end_session":90,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:6",
     "start_date":"1967-01-10",
     "start_session":90,
     "state":"tx"

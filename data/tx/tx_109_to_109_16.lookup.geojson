@@ -1,11 +1,13 @@
 {
-  "id": "tx_109_to_109_16",
+  "id": "aclu/us-congress-districts/district:8192",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8192",
     "area":1513254373.151891,
     "district":16,
     "end_date":"2006-12-09",
     "end_session":109,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:16",
     "start_date":"2005-01-04",
     "start_session":109,
     "state":"tx"

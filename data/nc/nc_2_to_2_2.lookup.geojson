@@ -1,11 +1,13 @@
 {
-  "id": "nc_2_to_2_2",
+  "id": "aclu/us-congress-districts/district:4182",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:4182",
     "area":15938414900.945158,
     "district":2,
     "end_date":"1793-03-02",
     "end_session":2,
+    "ocd_id":"ocd-division/country:us/state:nc/cd:2",
     "start_date":"1791-03-04",
     "start_session":2,
     "state":"nc"

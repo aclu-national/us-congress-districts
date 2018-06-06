@@ -1,11 +1,13 @@
 {
-  "id": "tx_103_to_104_5",
+  "id": "aclu/us-congress-districts/district:8088",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8088",
     "area":17522299485.33453,
     "district":5,
     "end_date":"1996-10-04",
     "end_session":104,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:5",
     "start_date":"1993-01-05",
     "start_session":103,
     "state":"tx"

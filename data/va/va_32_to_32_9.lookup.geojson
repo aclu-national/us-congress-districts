@@ -1,11 +1,13 @@
 {
-  "id": "va_32_to_32_9",
+  "id": "aclu/us-congress-districts/district:9002",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:9002",
     "area":7513829235.321725,
     "district":9,
     "end_date":"1853-03-03",
     "end_session":32,
+    "ocd_id":"ocd-division/country:us/state:va/cd:9",
     "start_date":"1851-03-04",
     "start_session":32,
     "state":"va"

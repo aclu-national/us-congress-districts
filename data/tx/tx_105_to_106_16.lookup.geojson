@@ -1,11 +1,13 @@
 {
-  "id": "tx_105_to_106_16",
+  "id": "aclu/us-congress-districts/district:8100",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8100",
     "area":1260195243.764221,
     "district":16,
     "end_date":"2000-12-15",
     "end_session":106,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:16",
     "start_date":"1997-01-07",
     "start_session":105,
     "state":"tx"

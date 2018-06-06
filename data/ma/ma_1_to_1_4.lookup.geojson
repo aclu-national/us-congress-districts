@@ -1,11 +1,13 @@
 {
-  "id": "ma_1_to_1_4",
+  "id": "aclu/us-congress-districts/district:2810",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:2810",
     "area":7431325518.222189,
     "district":4,
     "end_date":"1791-03-03",
     "end_session":1,
+    "ocd_id":"ocd-division/country:us/state:ma/cd:4",
     "start_date":"1789-03-04",
     "start_session":1,
     "state":"ma"

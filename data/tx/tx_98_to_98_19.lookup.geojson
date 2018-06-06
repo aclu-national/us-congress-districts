@@ -1,11 +1,13 @@
 {
-  "id": "tx_98_to_98_19",
+  "id": "aclu/us-congress-districts/district:8665",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8665",
     "area":39512237694.650963,
     "district":19,
     "end_date":"1984-10-12",
     "end_session":98,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:19",
     "start_date":"1983-01-03",
     "start_session":98,
     "state":"tx"

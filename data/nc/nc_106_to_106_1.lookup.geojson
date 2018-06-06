@@ -1,11 +1,13 @@
 {
-  "id": "nc_106_to_106_1",
+  "id": "aclu/us-congress-districts/district:4090",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:4090",
     "area":19367554384.7449,
     "district":1,
     "end_date":"2000-12-15",
     "end_session":106,
+    "ocd_id":"ocd-division/country:us/state:nc/cd:1",
     "start_date":"1999-01-06",
     "start_session":106,
     "state":"nc"

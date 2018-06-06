@@ -1,11 +1,13 @@
 {
-  "id": "tx_86_to_87_22",
+  "id": "aclu/us-congress-districts/district:8530",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:8530",
     "area":1942900763.829067,
     "district":22,
     "end_date":"1962-10-13",
     "end_session":87,
+    "ocd_id":"ocd-division/country:us/state:tx/cd:22",
     "start_date":"1959-01-07",
     "start_session":86,
     "state":"tx"

@@ -1,11 +1,13 @@
 {
-  "id": "ma_70_to_72_1",
+  "id": "aclu/us-congress-districts/district:3001",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:3001",
     "area":5247289789.360641,
     "district":1,
     "end_date":"1933-03-03",
     "end_session":72,
+    "ocd_id":"ocd-division/country:us/state:ma/cd:1",
     "start_date":"1927-12-05",
     "start_session":70,
     "state":"ma"

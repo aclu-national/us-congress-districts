@@ -1,11 +1,13 @@
 {
-  "id": "ca_98_to_98_26",
+  "id": "aclu/us-congress-districts/district:750",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/us-congress-districts/district:750",
     "area":237666502.916641,
     "district":26,
     "end_date":"1984-10-12",
     "end_session":98,
+    "ocd_id":"ocd-division/country:us/state:ca/cd:26",
     "start_date":"1983-01-03",
     "start_session":98,
     "state":"ca"
