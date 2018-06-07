@@ -49,7 +49,7 @@ insert_sql = '''
 states = []
 for state in os.listdir("data"):
 
-	if state.startswith("."):
+	if not re.match("^\w\w$", state):
 		continue
 
 	states.append(state)
