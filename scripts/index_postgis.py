@@ -18,7 +18,7 @@ cur = conn.cursor()
 cur.execute("DROP TABLE IF EXISTS districts CASCADE")
 cur.execute('''
 	CREATE TABLE districts (
-		id SERIAL PRIMARY KEY,
+		id INTEGER PRIMARY KEY,
 		name VARCHAR(255),
 		state CHAR(2),
 		start_session INTEGER,
@@ -34,6 +34,7 @@ conn.commit()
 
 insert_sql = '''
 	INSERT INTO districts (
+		id,
 		name,
 		state,
 		start_session,
@@ -42,7 +43,7 @@ insert_sql = '''
 		boundary,
 		boundary_simple,
 		area
-	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 states = []
@@ -103,7 +104,10 @@ for state in states:
 		geometry = simplified_feature["geometry"]
 		boundary_simplified = json.dumps(geometry)
 
+		id = int(feature["properties"]["aclu_id"].split(":")[1])
+
 		district = [
+			id,
 			name,
 			state,
 			start_session,
