@@ -99,6 +99,14 @@ def pip():
 			if include_geometry != '0':
 				result['boundary_simple'] = row[7]
 
+			# Here is a weird edge case in TN, sessions 95-97, where 3 different
+			# districts claim to include Memphis. We are favoring district 8,
+			# but further research is needed to determine what happened.
+			# (20180723/dphiffer)
+
+			if row[4] == 'tn' and start_session == 95 and end_session == 97 and district_num != 8:
+				continue
+
 			results.append(result)
 
 	cur.close()
