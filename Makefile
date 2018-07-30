@@ -7,7 +7,8 @@ data: \
 	data_113_lookup \
 	data_113_display \
 	data_115_lookup \
-	data_115_display
+	data_115_display \
+	assign_ids
 
 sources:
 	source_1-112 \
@@ -38,9 +39,9 @@ source_115: source_115_lookup source_115_display
 
 source_115_lookup:
 	mkdir -p sources/115_lookup
-	curl -o sources/115_lookup/115_lookup.zip https://www2.census.gov/geo/tiger/TIGER2016/CD/tl_2016_us_cd115.zip
+	curl -o sources/115_lookup/115_lookup.zip https://www2.census.gov/geo/tiger/TIGER2017/CD/tl_2017_us_cd115.zip
 	unzip -d sources/115_lookup sources/115_lookup/115_lookup.zip
-	ogr2ogr -f GeoJSON -t_srs crs:84 sources/115_lookup/115_lookup.geojson sources/115_lookup/tl_2016_us_cd115.shp
+	ogr2ogr -f GeoJSON -t_srs crs:84 sources/115_lookup/115_lookup.geojson sources/115_lookup/tl_2017_us_cd115.shp
 
 source_115_display:
 	mkdir -p sources/115_display
@@ -110,6 +111,9 @@ data_115_display:
 
 data_pa_116:
 	python scripts/data_pa_116.py
+
+assign_ids:
+	python scripts/assign_ids.py
 
 simplify:
 	python ./scripts/simplify.py
